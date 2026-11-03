@@ -35,7 +35,6 @@ FEEDS = [
     ("Dân Trí", "tc", "https://dantri.com.vn/rss/kinh-doanh.rss"),
     ("VietnamNet", "bds", "https://vietnamnet.vn/rss/bat-dong-san.rss"),
     ("VietnamNet", "tc", "https://vietnamnet.vn/rss/kinh-doanh.rss"),
-    ("VnEconomy", "bds", "https://vneconomy.vn/bat-dong-san.rss"),
     ("VnEconomy", "tc", "https://vneconomy.vn/tai-chinh.rss"),
     ("VnEconomy", "tc", "https://vneconomy.vn/chung-khoan.rss"),
     ("Thanh Niên", "tc", "https://thanhnien.vn/rss/kinh-te.rss"),
@@ -51,6 +50,7 @@ BDS_WORDS = re.compile(
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 MEDIA_NS = "{http://search.yahoo.com/mrss/}"
+BAD_DATES: dict[str, str] = {}  # báo nào ghi ngày giờ lạ -> mẫu để sửa
 
 
 def clean_text(raw: str | None, limit: int = 280) -> str:
@@ -77,6 +77,9 @@ def parse_date(value: str | None) -> datetime | None:
     if not value:
         return None
     value = value.strip()
+    # Tuổi Trẻ và vài báo ghi múi giờ kiểu "GMT+7" -> đổi thành "+0700"
+    value = re.sub(r"GMT\s*([+-])(\d{1,2})(?::?(\d{2}))?$",
+                   lambda m: f"{m.group(1)}{int(m.group(2)):02d}{m.group(3) or '00'}", value)
     try:
         dt = parsedate_to_datetime(value)
     except (TypeError, ValueError):
@@ -110,7 +113,11 @@ def parse_feed(raw: bytes, source: str, cat: str, now: datetime) -> list[dict]:
         if not title or not link.startswith("http"):
             continue
         desc_raw = it.findtext("description") or ""
-        pub = parse_date(it.findtext("pubDate")) or now
+        raw_date = it.findtext("pubDate") or it.findtext("{http://purl.org/dc/elements/1.1/}date")
+        pub = parse_date(raw_date)
+        if pub is None:
+            BAD_DATES.setdefault(source, str(raw_date)[:60])
+            pub = now
         if pub > now + timedelta(hours=1):  # giờ sai trong RSS
             pub = now
         c = cat
@@ -161,8 +168,12 @@ def main() -> int:
         for item in items:
             if item["id"] in known:
                 # giữ thời điểm phát hiện lần đầu, cập nhật mục nếu là BĐS
+                old_item = known[item["id"]]
                 if item["cat"] == "bds":
-                    known[item["id"]]["cat"] = "bds"
+                    old_item["cat"] = "bds"
+                # sửa giờ đăng cũ bị ghi nhầm bằng giờ cào (do RSS ghi giờ lạ)
+                if old_item.get("published", "")[:16] == old_item.get("found", "")[:16] and item["published"][:16] != now.isoformat()[:16]:
+                    old_item["published"] = item["published"]
                 continue
             item["found"] = now.isoformat(timespec="seconds")
             known[item["id"]] = item
@@ -187,6 +198,7 @@ def main() -> int:
         "updated": now.isoformat(timespec="seconds"),
         "new": new_count,
         "sources": statuses,
+        "bad_dates": BAD_DATES,
         "items": unique,
     }
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=0), "utf-8")
