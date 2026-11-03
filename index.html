@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Tin BĐS & Tài chính</title>
+<meta name="description" content="Tin Bất động sản và Tài chính mới nhất từ các báo Việt Nam, tự cập nhật 30 phút một lần.">
+<meta name="theme-color" content="#0E1B26">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600;700&family=Be+Vietnam+Pro:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: bảng tin dạng "wire" — dải trạng thái trên cùng, bộ lọc dính, dòng tin theo ngày với cột giờ bên trái */
+:root{
+  --bg:#F3F5F7; --surface:#FFFFFF; --ink:#132130; --muted:#5B6877; --line:#DCE2E8;
+  --head:#0E1B26; --head-ink:#E8EEF3; --head-muted:#93A3B2;
+  --bds:#0D7A68; --bds-soft:#E0F2EE; --tc:#A85412; --tc-soft:#F8EADD;
+  --accent:#1F5FA8; --new:#C2312A;
+  --f-display:"Barlow Semi Condensed","Arial Narrow",system-ui,sans-serif;
+  --f-body:"Be Vietnam Pro",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0C141C; --surface:#121D28; --ink:#E3EAF0; --muted:#8C9BAA; --line:#223241;
+  --head:#08111A; --head-ink:#E8EEF3; --head-muted:#7F92A4;
+  --bds:#3CC4A9; --bds-soft:#12302B; --tc:#E9964F; --tc-soft:#352416;
+  --accent:#6FA8EC; --new:#FF6B5E; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0C141C; --surface:#121D28; --ink:#E3EAF0; --muted:#8C9BAA; --line:#223241;
+  --head:#08111A; --head-ink:#E8EEF3; --head-muted:#7F92A4;
+  --bds:#3CC4A9; --bds-soft:#12302B; --tc:#E9964F; --tc-soft:#352416;
+  --accent:#6FA8EC; --new:#FF6B5E; color-scheme:dark}
+
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--f-body);-webkit-font-smoothing:antialiased}
+a{color:inherit}
+.wrap{max-width:860px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+
+/* Dải đầu trang */
+.top{background:var(--head);color:var(--head-ink);padding-top:env(safe-area-inset-top,0px)}
+.top .wrap{padding-block:18px 14px;display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:10px 20px}
+.brand{font:700 30px/1 var(--f-display);letter-spacing:.01em;margin:0;text-wrap:balance}
+.brand span{color:var(--head-muted);font-weight:500}
+.status{display:flex;align-items:center;gap:8px;font:500 12px/1.3 var(--f-mono);color:var(--head-muted)}
+.dot{width:8px;height:8px;border-radius:50%;background:#3CC4A9;box-shadow:0 0 0 3px rgba(60,196,169,.2);flex:none}
+.dot.stale{background:#E9964F;box-shadow:0 0 0 3px rgba(233,150,79,.2)}
+.status b{color:var(--head-ink);font-weight:500}
+
+/* Thanh lọc dính */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--head)}
+.bar .wrap{padding-block:10px;display:flex;flex-direction:column;gap:10px}
+.tabs{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}
+.tab{flex:none;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:7px 14px;font:600 14px/1 var(--f-body);cursor:pointer;display:flex;gap:7px;align-items:center}
+.tab .n{font:500 12px/1 var(--f-mono);color:var(--muted)}
+.tab[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.tab[aria-pressed="true"] .n{color:inherit;opacity:.7}
+.tab[data-cat="bds"]::before,.tab[data-cat="tc"]::before{content:"";width:8px;height:8px;border-radius:2px;background:var(--bds)}
+.tab[data-cat="tc"]::before{background:var(--tc)}
+.filters{display:flex;gap:8px;flex-wrap:wrap}
+.filters input,.filters select{font:14px var(--f-body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 10px;min-width:0}
+.filters input{flex:1 1 200px}
+.filters select{flex:0 1 auto}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* Dòng tin */
+main .wrap{padding-block:8px 24px}
+.day{font:600 13px/1 var(--f-display);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);padding:22px 0 8px;display:flex;justify-content:space-between;gap:12px;border-bottom:2px solid var(--ink)}
+.item{display:grid;grid-template-columns:52px minmax(0,1fr) auto;gap:4px 12px;padding:14px 0;border-bottom:1px solid var(--line)}
+.time{font:500 13px/1.6 var(--f-mono);color:var(--muted);font-variant-numeric:tabular-nums}
+.body{min-width:0}
+.meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px;font-size:12px;color:var(--muted);margin-bottom:3px}
+.chip{font:600 11px/1 var(--f-body);padding:4px 7px;border-radius:4px;letter-spacing:.02em}
+.chip.bds{color:var(--bds);background:var(--bds-soft)}
+.chip.tc{color:var(--tc);background:var(--tc-soft)}
+.new{color:var(--new);font:700 11px/1 var(--f-body);letter-spacing:.06em}
+.title{font:600 19px/1.28 var(--f-display);margin:0;text-wrap:pretty}
+.title a{text-decoration:none}
+.title a:hover{text-decoration:underline;text-underline-offset:3px}
+.title a:visited{color:var(--muted)}
+.sum{margin:4px 0 0;color:var(--muted);font-size:14px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.side{display:flex;flex-direction:column;align-items:flex-end;gap:8px}
+.thumb{width:96px;aspect-ratio:3/2;object-fit:cover;border-radius:6px;background:var(--line);max-width:100%}
+@media (max-width:520px){
+  .item{grid-template-columns:minmax(0,1fr) auto}
+  .time{grid-column:1/-1;line-height:1}
+  .thumb{width:76px}
+  .title{font-size:18px}
+}
+.empty{padding:48px 0;text-align:center;color:var(--muted)}
+.empty strong{display:block;color:var(--ink);font:600 20px var(--f-display);margin-bottom:6px}
+
+footer{color:var(--muted);font-size:13px}
+footer details{padding:20px 0}
+footer summary{cursor:pointer;font-weight:600}
+.src{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 12px;margin-top:10px;font-size:13px}
+.src .ok{color:var(--bds)} .src .bad{color:var(--new)}
+.src span:first-child{overflow-wrap:anywhere}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <h1 class="brand">Tin BĐS <span>&amp;</span> Tài chính</h1>
+    <div class="status" id="status"><span class="dot" id="dot"></span><span id="statusText">Đang tải tin…</span></div>
+  </div>
+</header>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="tabs" role="group" aria-label="Chọn mục">
+      <button class="tab" id="tab-all" data-cat="all" aria-pressed="true">Tất cả <span class="n" id="n-all">0</span></button>
+      <button class="tab" id="tab-bds" data-cat="bds" aria-pressed="false">Bất động sản <span class="n" id="n-bds">0</span></button>
+      <button class="tab" id="tab-tc" data-cat="tc" aria-pressed="false">Tài chính <span class="n" id="n-tc">0</span></button>
+    </div>
+    <div class="filters">
+      <input id="q" type="search" placeholder="Tìm tin: lãi suất, Vinhomes, VN-Index…" aria-label="Tìm tin">
+      <select id="range" aria-label="Khoảng thời gian">
+        <option value="today">Hôm nay</option>
+        <option value="2">2 ngày</option>
+        <option value="7">7 ngày</option>
+      </select>
+      <select id="source" aria-label="Nguồn báo"><option value="">Mọi báo</option></select>
+    </div>
+  </div>
+</div>
+
+<main><div class="wrap" id="list"></div></main>
+
+<footer><div class="wrap" style="padding-bottom:40px">
+  <details id="srcBox"><summary>Tình trạng các nguồn báo</summary><div class="src" id="src"></div></details>
+</div></footer>
+
+<script>
+(function(){
+  var DATA_URL = "data/news.json";
+  var RELOAD_MS = 5 * 60 * 1000;
+  var state = { data:null, cat:"all", q:"", range:"today", source:"" };
+
+  function load(k, d){ try{ var v = localStorage.getItem("tin:"+k); return v ? JSON.parse(v) : d; }catch(e){ return d; } }
+  function save(k, v){ try{ localStorage.setItem("tin:"+k, JSON.stringify(v)); }catch(e){} }
+  try{ var saved = load("ui", null); if(saved){ state.cat = saved.cat || "all"; state.range = saved.range || "today"; } }catch(e){}
+
+  var $ = function(id){ return document.getElementById(id); };
+  var fmtTime = new Intl.DateTimeFormat("vi-VN",{hour:"2-digit",minute:"2-digit",hour12:false,timeZone:"Asia/Ho_Chi_Minh"});
+  var fmtDay = new Intl.DateTimeFormat("vi-VN",{weekday:"long",day:"2-digit",month:"2-digit",timeZone:"Asia/Ho_Chi_Minh"});
+  var fmtKey = new Intl.DateTimeFormat("en-CA",{year:"numeric",month:"2-digit",day:"2-digit",timeZone:"Asia/Ho_Chi_Minh"});
+  var CAT = { bds:"Bất động sản", tc:"Tài chính" };
+
+  function dayKey(d){ return fmtKey.format(d); }
+  function esc(s){ return String(s||"").replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];}); }
+  function norm(s){ return String(s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/đ/g,"d"); }
+
+  function fetchData(){
+    fetch(DATA_URL + "?t=" + Date.now(), {cache:"no-store"})
+      .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function(d){ state.data = d; renderSources(); render(); renderStatus(); })
+      .catch(function(){ if(!state.data){ $("list").innerHTML = '<div class="empty"><strong>Chưa có dữ liệu</strong>Bộ cào tin chạy lần đầu sẽ mất vài phút. Tải lại trang sau ít phút nhé.</div>'; } $("statusText").textContent = "Không tải được tin, sẽ thử lại sau"; $("dot").classList.add("stale"); });
+  }
+
+  function renderStatus(){
+    var d = state.data; if(!d) return;
+    var up = new Date(d.updated);
+    var mins = Math.round((Date.now() - up) / 60000);
+    var ago = mins < 1 ? "vừa xong" : mins < 60 ? mins + " phút trước" : Math.floor(mins/60) + " giờ trước";
+    $("statusText").innerHTML = "Cập nhật <b>" + fmtTime.format(up) + "</b> · " + ago + " · " + (d.new||0) + " tin mới";
+    $("dot").classList.toggle("stale", mins > 75);
+  }
+
+  function renderSources(){
+    var d = state.data, names = {};
+    (d.sources||[]).forEach(function(s){ names[s.name] = 1; });
+    var sel = $("source"), cur = state.source;
+    sel.innerHTML = '<option value="">Mọi báo</option>' + Object.keys(names).sort().map(function(n){ return '<option'+(n===cur?' selected':'')+'>'+esc(n)+'</option>'; }).join("");
+    $("src").innerHTML = (d.sources||[]).map(function(s){
+      return '<span>'+esc(s.name)+' · '+CAT[s.cat]+'</span><span class="'+(s.ok?'ok':'bad')+'">'+(s.ok? s.count+' tin' : 'lỗi')+'</span>';
+    }).join("");
+  }
+
+  function filtered(){
+    var items = (state.data && state.data.items) || [];
+    var now = new Date(), today = dayKey(now);
+    var minTime = state.range === "today" ? null : now - (+state.range) * 864e5;
+    var q = norm(state.q).trim();
+    var base = items.filter(function(i){
+      var t = new Date(i.published);
+      if(state.range === "today" ? dayKey(t) !== today : t < minTime) return false;
+      if(state.source && i.source !== state.source) return false;
+      if(q && norm(i.title + " " + i.summary).indexOf(q) < 0) return false;
+      return true;
+    });
+    var counts = { all: base.length, bds: 0, tc: 0 };
+    base.forEach(function(i){ counts[i.cat]++; });
+    var shown = state.cat === "all" ? base : base.filter(function(i){ return i.cat === state.cat; });
+    return { shown: shown, counts: counts };
+  }
+
+  function render(){
+    var r = filtered();
+    ["all","bds","tc"].forEach(function(c){
+      $("n-"+c).textContent = r.counts[c];
+      $("tab-"+c).setAttribute("aria-pressed", String(state.cat === c));
+    });
+    $("range").value = state.range;
+    var list = $("list");
+    if(!r.shown.length){
+      var msg = (state.q ? "Không có tin nào khớp “"+esc(state.q)+"”." : "Chưa có tin trong khoảng thời gian này. Thử chọn “2 ngày”.");
+      list.innerHTML = '<div class="empty"><strong>Không có tin</strong>'+msg+'</div>';
+      return;
+    }
+    var now = Date.now(), html = "", lastDay = "", groupCount = {};
+    r.shown.forEach(function(i){ var k = dayKey(new Date(i.published)); groupCount[k] = (groupCount[k]||0)+1; });
+    r.shown.forEach(function(i){
+      var t = new Date(i.published), k = dayKey(t);
+      if(k !== lastDay){
+        lastDay = k;
+        var label = k === dayKey(new Date()) ? "Hôm nay, " + fmtDay.format(t) : fmtDay.format(t);
+        html += '<div class="day"><span>'+esc(label)+'</span><span>'+groupCount[k]+' tin</span></div>';
+      }
+      var isNew = i.found && (now - new Date(i.found)) < 60*60000;
+      html += '<article class="item">'
+        + '<div class="time">'+fmtTime.format(t)+'</div>'
+        + '<div class="body"><div class="meta"><span class="chip '+i.cat+'">'+CAT[i.cat]+'</span><span>'+esc(i.source)+'</span>'+(isNew?'<span class="new">MỚI</span>':'')+'</div>'
+        + '<h2 class="title"><a href="'+esc(i.link)+'" target="_blank" rel="noopener noreferrer">'+esc(i.title)+'</a></h2>'
+        + (i.summary ? '<p class="sum">'+esc(i.summary)+'</p>' : '')
+        + '</div><div class="side">'
+        + (i.image ? '<img class="thumb" loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(i.image)+'" onerror="this.remove()">' : '')
+        + '</div></article>';
+    });
+    list.innerHTML = html;
+  }
+
+  document.addEventListener("click", function(e){
+    var tab = e.target.closest(".tab");
+    if(tab){ state.cat = tab.dataset.cat; save("ui",{cat:state.cat,range:state.range}); render(); window.scrollTo({top:0}); return; }
+  });
+  $("q").addEventListener("input", function(e){ state.q = e.target.value; render(); });
+  $("range").addEventListener("change", function(e){ state.range = e.target.value; save("ui",{cat:state.cat,range:state.range}); render(); });
+  $("source").addEventListener("change", function(e){ state.source = e.target.value; render(); });
+  fetchData();
+  setInterval(fetchData, RELOAD_MS);
+  setInterval(renderStatus, 60000);
+  document.addEventListener("visibilitychange", function(){ if(!document.hidden) fetchData(); });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+name: Cào tin 30 phút/lần
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # mỗi 30 phút (GitHub có thể trễ vài phút lúc đông)
+  workflow_dispatch:          # cho phép bấm chạy tay trong tab Actions
+  push:
+    branches: [main]
+    paths: [scrape.py]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Cào tin
+        run: python3 scrape.py
+      - name: Lưu kết quả
+        run: |
+          git config user.name "tin-bot"
+          git config user.email "tin-bot@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "Không có thay đổi"
+          else
+            git commit -m "Cập nhật tin $(TZ=Asia/Ho_Chi_Minh date '+%d/%m %H:%M')"
+            git pull --rebase --autostash || true
+            git push
+          fi
