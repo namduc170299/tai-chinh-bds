@@ -11,6 +11,7 @@ import html
 import json
 import re
 import sys
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
@@ -139,11 +140,15 @@ def parse_feed(raw: bytes, source: str, cat: str, now: datetime) -> list[dict]:
 
 def scrape_one(feed, now):
     source, cat, url = feed
-    try:
-        items = parse_feed(fetch(url), source, cat, now)
-        return {"name": source, "cat": cat, "url": url, "ok": True, "count": len(items)}, items
-    except Exception as e:  # noqa: BLE001 - một báo lỗi không được làm hỏng cả lượt
-        return {"name": source, "cat": cat, "url": url, "ok": False, "count": 0, "error": f"{type(e).__name__}: {e}"[:200]}, []
+    err = None
+    for attempt in range(3):  # thử lại tối đa 3 lần nếu báo lỗi tạm thời
+        try:
+            items = parse_feed(fetch(url), source, cat, now)
+            return {"name": source, "cat": cat, "url": url, "ok": True, "count": len(items)}, items
+        except Exception as e:  # noqa: BLE001 - một báo lỗi không được làm hỏng cả lượt
+            err = e
+            time.sleep(3 * (attempt + 1))
+    return {"name": source, "cat": cat, "url": url, "ok": False, "count": 0, "error": f"{type(err).__name__}: {err}"[:200]}, []
 
 
 def norm_title(t: str) -> str:

@@ -6,7 +6,7 @@ on:
   workflow_dispatch:          # cho phép bấm chạy tay trong tab Actions
   push:
     branches: [main]
-    paths: [scrape.py]
+    paths: [scrape.py, kick.txt]   # sửa code hoặc ghi kick.txt là chạy lại ngay
 
 permissions:
   contents: write
