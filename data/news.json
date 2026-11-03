@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-03T15:22:02+07:00",
-"new": 2656,
+"updated": "2026-11-03T15:24:02+07:00",
+"new": 1804,
 "sources": [
 {
 "name": "VnExpress",
@@ -67,13 +67,6 @@
 },
 {
 "name": "VnEconomy",
-"cat": "bds",
-"url": "https://vneconomy.vn/bat-dong-san.rss",
-"ok": true,
-"count": 0
-},
-{
-"name": "VnEconomy",
 "cat": "tc",
 "url": "https://vneconomy.vn/tai-chinh.rss",
 "ok": true,
@@ -101,6 +94,9 @@
 "count": 50
 }
 ],
+"bad_dates": {
+"Tuổi Trẻ": "11/3/2026 12:48:00 PM"
+},
 "items": [
 {
 "id": "e9c2308a2c66",
