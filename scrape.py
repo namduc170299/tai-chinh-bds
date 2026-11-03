@@ -76,7 +76,7 @@ def find_image(item: ET.Element, desc: str) -> str:
 def parse_date(value: str | None) -> datetime | None:
     if not value:
         return None
-    value = value.strip()
+    value = value.replace("\u202f", " ").replace("\xa0", " ").strip()
     # Tuổi Trẻ và vài báo ghi múi giờ kiểu "GMT+7" -> đổi thành "+0700"
     value = re.sub(r"GMT\s*([+-])(\d{1,2})(?::?(\d{2}))?$",
                    lambda m: f"{m.group(1)}{int(m.group(2)):02d}{m.group(3) or '00'}", value)
@@ -84,7 +84,8 @@ def parse_date(value: str | None) -> datetime | None:
         dt = parsedate_to_datetime(value)
     except (TypeError, ValueError):
         dt = None
-        for fmt in ("%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M:%S"):
+        for fmt in ("%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M:%S",
+                    "%m/%d/%Y %I:%M:%S %p", "%m/%d/%Y %H:%M:%S", "%d/%m/%Y %H:%M:%S"):
             try:
                 dt = datetime.strptime(value, fmt)
                 break
@@ -192,6 +193,8 @@ def main() -> int:
         seen.add(key)
         unique.append(i)
     unique = unique[:MAX_ITEMS]
+    stamp = now.isoformat(timespec="seconds")
+    new_count = sum(1 for i in unique if i.get("found") == stamp)
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     payload = {
