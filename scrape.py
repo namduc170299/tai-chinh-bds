@@ -45,7 +45,6 @@ FEEDS = [
     ("Google Trends", "mxh", "https://trends.google.com/trending/rss?geo=VN"),
     ("VnExpress", "mxh", "https://vnexpress.net/rss/tin-xem-nhieu.rss"),
     ("VnExpress", "mxh", "https://vnexpress.net/rss/tin-noi-bat.rss"),
-    ("Kenh14", "mxh", "https://kenh14.vn/home.rss"),
     ("Kenh14", "mxh", "https://kenh14.vn/xa-hoi.rss"),
     ("Thanh Niên", "mxh", "https://thanhnien.vn/rss/gioi-tre.rss"),
     ("Tuổi Trẻ", "mxh", "https://tuoitre.vn/rss/nhip-song-tre.rss"),
