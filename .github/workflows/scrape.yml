@@ -1,12 +1,12 @@
-name: Cào tin 30 phút/lần
+name: Cào tin 15 phút/lần
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # mỗi 30 phút (GitHub có thể trễ vài phút lúc đông)
+    - cron: "*/15 * * * *"   # mỗi 15 phút (GitHub có thể trễ vài phút lúc đông)
   workflow_dispatch:          # cho phép bấm chạy tay trong tab Actions
   push:
     branches: [main]
-    paths: [scrape.py, kick.txt]   # sửa code hoặc ghi kick.txt là chạy lại ngay
+    paths: [scrape.py, kick.txt, .github/workflows/scrape.yml]   # sửa code hoặc ghi kick.txt là chạy lại ngay
 
 permissions:
   contents: write

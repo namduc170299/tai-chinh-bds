@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Cào tin Bất động sản & Tài chính từ RSS các báo Việt Nam, lưu vào data/news.json.
+"""Cào tin Bất động sản, Tài chính & Mạng xã hội (viral) từ RSS các báo Việt Nam, lưu vào data/news.json.
 
 Chỉ dùng thư viện chuẩn của Python, không cần cài thêm gì.
 Chạy: python3 scrape.py
@@ -25,7 +25,8 @@ KEEP_DAYS = 7          # giữ tin trong 7 ngày gần nhất
 MAX_ITEMS = 1000       # tối đa số tin lưu lại
 TIMEOUT = 20
 
-# (tên báo, mục, đường dẫn RSS). Mục: "bds" = Bất động sản, "tc" = Tài chính.
+# (tên báo, mục, đường dẫn RSS). Mục: "bds" = Bất động sản, "tc" = Tài chính,
+# "mxh" = Mạng xã hội: chủ đề đang lan truyền / được tìm và đọc nhiều nhất.
 FEEDS = [
     ("VnExpress", "bds", "https://vnexpress.net/rss/bat-dong-san.rss"),
     ("VnExpress", "tc", "https://vnexpress.net/rss/kinh-doanh.rss"),
@@ -40,7 +41,16 @@ FEEDS = [
     ("VnEconomy", "tc", "https://vneconomy.vn/chung-khoan.rss"),
     ("Thanh Niên", "tc", "https://thanhnien.vn/rss/kinh-te.rss"),
     ("Tuổi Trẻ", "tc", "https://tuoitre.vn/rss/kinh-doanh.rss"),
+    # Mạng xã hội / viral
+    ("Google Trends", "mxh", "https://trends.google.com/trending/rss?geo=VN"),
+    ("VnExpress", "mxh", "https://vnexpress.net/rss/tin-xem-nhieu.rss"),
+    ("VnExpress", "mxh", "https://vnexpress.net/rss/tin-noi-bat.rss"),
+    ("Kenh14", "mxh", "https://kenh14.vn/home.rss"),
+    ("Kenh14", "mxh", "https://kenh14.vn/xa-hoi.rss"),
+    ("Thanh Niên", "mxh", "https://thanhnien.vn/rss/gioi-tre.rss"),
+    ("Tuổi Trẻ", "mxh", "https://tuoitre.vn/rss/nhip-song-tre.rss"),
 ]
+HT_NS = "{https://trends.google.com/trending/rss}"
 
 # Tin ở mục Tài chính nhưng nói về nhà đất thì chuyển sang Bất động sản.
 BDS_WORDS = re.compile(
@@ -125,8 +135,27 @@ def parse_feed(raw: bytes, source: str, cat: str, now: datetime) -> list[dict]:
         c = cat
         if c == "tc" and BDS_WORDS.search(title):
             c = "bds"
+        uid = link
+        extra = {}
+        if source == "Google Trends":
+            # mỗi từ khoá đang hot: lấy bài báo đầu tiên làm link, kèm lượt tìm
+            uid = f"gt:{title.lower()}:{pub:%Y%m%d}"
+            traffic = (it.findtext(f"{HT_NS}approx_traffic") or "").strip()
+            news = it.find(f"{HT_NS}news_item")
+            if news is not None:
+                link = (news.findtext(f"{HT_NS}news_item_url") or link).strip()
+                ntitle = clean_text(news.findtext(f"{HT_NS}news_item_title"))
+                nsrc = clean_text(news.findtext(f"{HT_NS}news_item_source"), 60)
+                desc_raw = f"{ntitle} ({nsrc})" if nsrc else ntitle
+                if not find_image(it, "") and news.findtext(f"{HT_NS}news_item_picture"):
+                    extra["image"] = news.findtext(f"{HT_NS}news_item_picture").strip()
+            if traffic:
+                extra["traffic"] = traffic
+            img = it.findtext(f"{HT_NS}picture")
+            if img:
+                extra.setdefault("image", img.strip())
         items.append({
-            "id": hashlib.sha1(link.encode()).hexdigest()[:12],
+            "id": hashlib.sha1(uid.encode()).hexdigest()[:12],
             "title": title,
             "link": link,
             "summary": clean_text(desc_raw),
@@ -134,6 +163,7 @@ def parse_feed(raw: bytes, source: str, cat: str, now: datetime) -> list[dict]:
             "source": source,
             "cat": c,
             "published": pub.isoformat(timespec="seconds"),
+            **extra,
         })
     return items
 
@@ -177,6 +207,8 @@ def main() -> int:
                 old_item = known[item["id"]]
                 if item["cat"] == "bds":
                     old_item["cat"] = "bds"
+                if item.get("traffic"):
+                    old_item["traffic"] = item["traffic"]
                 # sửa giờ đăng cũ bị ghi nhầm bằng giờ cào (do RSS ghi giờ lạ)
                 if old_item.get("published", "")[:16] == old_item.get("found", "")[:16] and item["published"][:16] != now.isoformat()[:16]:
                     old_item["published"] = item["published"]

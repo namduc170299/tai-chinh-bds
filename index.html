@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Tin BĐS & Tài chính</title>
-<meta name="description" content="Tin Bất động sản và Tài chính mới nhất từ các báo Việt Nam, tự cập nhật 30 phút một lần.">
+<title>Tin BĐS, Tài chính & MXH</title>
+<meta name="description" content="Tin Bất động sản, Tài chính và chủ đề viral trên mạng xã hội, tự cập nhật 15 phút một lần.">
 <meta name="theme-color" content="#0E1B26">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,7 +14,7 @@
 :root{
   --bg:#F3F5F7; --surface:#FFFFFF; --ink:#132130; --muted:#5B6877; --line:#DCE2E8;
   --head:#0E1B26; --head-ink:#E8EEF3; --head-muted:#93A3B2;
-  --bds:#0D7A68; --bds-soft:#E0F2EE; --tc:#A85412; --tc-soft:#F8EADD;
+  --bds:#0D7A68; --bds-soft:#E0F2EE; --tc:#A85412; --tc-soft:#F8EADD; --mxh:#8A3FB8; --mxh-soft:#F1E6F8;
   --accent:#1F5FA8; --new:#C2312A;
   --f-display:"Barlow Semi Condensed","Arial Narrow",system-ui,sans-serif;
   --f-body:"Be Vietnam Pro",system-ui,-apple-system,"Segoe UI",sans-serif;
@@ -24,12 +24,12 @@
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
   --bg:#0C141C; --surface:#121D28; --ink:#E3EAF0; --muted:#8C9BAA; --line:#223241;
   --head:#08111A; --head-ink:#E8EEF3; --head-muted:#7F92A4;
-  --bds:#3CC4A9; --bds-soft:#12302B; --tc:#E9964F; --tc-soft:#352416;
+  --bds:#3CC4A9; --bds-soft:#12302B; --tc:#E9964F; --tc-soft:#352416; --mxh:#C79AF0; --mxh-soft:#2B1E38;
   --accent:#6FA8EC; --new:#FF6B5E; color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#0C141C; --surface:#121D28; --ink:#E3EAF0; --muted:#8C9BAA; --line:#223241;
   --head:#08111A; --head-ink:#E8EEF3; --head-muted:#7F92A4;
-  --bds:#3CC4A9; --bds-soft:#12302B; --tc:#E9964F; --tc-soft:#352416;
+  --bds:#3CC4A9; --bds-soft:#12302B; --tc:#E9964F; --tc-soft:#352416; --mxh:#C79AF0; --mxh-soft:#2B1E38;
   --accent:#6FA8EC; --new:#FF6B5E; color-scheme:dark}
 
 *{box-sizing:border-box}
@@ -57,8 +57,9 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .tab .n{font:500 12px/1 var(--f-mono);color:var(--muted)}
 .tab[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 .tab[aria-pressed="true"] .n{color:inherit;opacity:.7}
-.tab[data-cat="bds"]::before,.tab[data-cat="tc"]::before{content:"";width:8px;height:8px;border-radius:2px;background:var(--bds)}
+.tab[data-cat="bds"]::before,.tab[data-cat="tc"]::before,.tab[data-cat="mxh"]::before{content:"";width:8px;height:8px;border-radius:2px;background:var(--bds)}
 .tab[data-cat="tc"]::before{background:var(--tc)}
+.tab[data-cat="mxh"]::before{background:var(--mxh)}
 .filters{display:flex;gap:8px;flex-wrap:wrap}
 .filters input,.filters select{font:14px var(--f-body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 10px;min-width:0}
 .filters input{flex:1 1 200px}
@@ -75,6 +76,8 @@ main .wrap{padding-block:8px 24px}
 .chip{font:600 11px/1 var(--f-body);padding:4px 7px;border-radius:4px;letter-spacing:.02em}
 .chip.bds{color:var(--bds);background:var(--bds-soft)}
 .chip.tc{color:var(--tc);background:var(--tc-soft)}
+.chip.mxh{color:var(--mxh);background:var(--mxh-soft)}
+.hot{color:var(--mxh);font:600 11px/1 var(--f-mono)}
 .new{color:var(--new);font:700 11px/1 var(--f-body);letter-spacing:.06em}
 .title{font:600 19px/1.28 var(--f-display);margin:0;text-wrap:pretty}
 .title a{text-decoration:none}
@@ -103,7 +106,7 @@ footer summary{cursor:pointer;font-weight:600}
 <body>
 <header class="top">
   <div class="wrap">
-    <h1 class="brand">Tin BĐS <span>&amp;</span> Tài chính</h1>
+    <h1 class="brand">Tin BĐS <span>·</span> Tài chính <span>·</span> MXH</h1>
     <div class="status" id="status"><span class="dot" id="dot"></span><span id="statusText">Đang tải tin…</span></div>
   </div>
 </header>
@@ -114,6 +117,7 @@ footer summary{cursor:pointer;font-weight:600}
       <button class="tab" id="tab-all" data-cat="all" aria-pressed="true">Tất cả <span class="n" id="n-all">0</span></button>
       <button class="tab" id="tab-bds" data-cat="bds" aria-pressed="false">Bất động sản <span class="n" id="n-bds">0</span></button>
       <button class="tab" id="tab-tc" data-cat="tc" aria-pressed="false">Tài chính <span class="n" id="n-tc">0</span></button>
+      <button class="tab" id="tab-mxh" data-cat="mxh" aria-pressed="false">Mạng xã hội <span class="n" id="n-mxh">0</span></button>
     </div>
     <div class="filters">
       <input id="q" type="search" placeholder="Tìm tin: lãi suất, Vinhomes, VN-Index…" aria-label="Tìm tin">
@@ -147,7 +151,7 @@ footer summary{cursor:pointer;font-weight:600}
   var fmtTime = new Intl.DateTimeFormat("vi-VN",{hour:"2-digit",minute:"2-digit",hour12:false,timeZone:"Asia/Ho_Chi_Minh"});
   var fmtDay = new Intl.DateTimeFormat("vi-VN",{weekday:"long",day:"2-digit",month:"2-digit",timeZone:"Asia/Ho_Chi_Minh"});
   var fmtKey = new Intl.DateTimeFormat("en-CA",{year:"numeric",month:"2-digit",day:"2-digit",timeZone:"Asia/Ho_Chi_Minh"});
-  var CAT = { bds:"Bất động sản", tc:"Tài chính" };
+  var CAT = { bds:"Bất động sản", tc:"Tài chính", mxh:"Mạng xã hội" };
 
   function dayKey(d){ return fmtKey.format(d); }
   function esc(s){ return String(s||"").replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];}); }
@@ -166,7 +170,7 @@ footer summary{cursor:pointer;font-weight:600}
     var mins = Math.round((Date.now() - up) / 60000);
     var ago = mins < 1 ? "vừa xong" : mins < 60 ? mins + " phút trước" : Math.floor(mins/60) + " giờ trước";
     $("statusText").innerHTML = "Cập nhật <b>" + fmtTime.format(up) + "</b> · " + ago + " · " + (d.new||0) + " tin mới";
-    $("dot").classList.toggle("stale", mins > 75);
+    $("dot").classList.toggle("stale", mins > 50);
   }
 
   function renderSources(){
@@ -191,15 +195,15 @@ footer summary{cursor:pointer;font-weight:600}
       if(q && norm(i.title + " " + i.summary).indexOf(q) < 0) return false;
       return true;
     });
-    var counts = { all: base.length, bds: 0, tc: 0 };
-    base.forEach(function(i){ counts[i.cat]++; });
+    var counts = { all: base.length, bds: 0, tc: 0, mxh: 0 };
+    base.forEach(function(i){ if(i.cat in counts) counts[i.cat]++; });
     var shown = state.cat === "all" ? base : base.filter(function(i){ return i.cat === state.cat; });
     return { shown: shown, counts: counts };
   }
 
   function render(){
     var r = filtered();
-    ["all","bds","tc"].forEach(function(c){
+    ["all","bds","tc","mxh"].forEach(function(c){
       $("n-"+c).textContent = r.counts[c];
       $("tab-"+c).setAttribute("aria-pressed", String(state.cat === c));
     });
@@ -222,7 +226,7 @@ footer summary{cursor:pointer;font-weight:600}
       var isNew = i.found && (now - new Date(i.found)) < 60*60000;
       html += '<article class="item">'
         + '<div class="time">'+fmtTime.format(t)+'</div>'
-        + '<div class="body"><div class="meta"><span class="chip '+i.cat+'">'+CAT[i.cat]+'</span><span>'+esc(i.source)+'</span>'+(isNew?'<span class="new">MỚI</span>':'')+'</div>'
+        + '<div class="body"><div class="meta"><span class="chip '+i.cat+'">'+CAT[i.cat]+'</span><span>'+esc(i.source)+'</span>'+(i.traffic?'<span class="hot">'+esc(i.traffic)+' lượt tìm</span>':'')+(isNew?'<span class="new">MỚI</span>':'')+'</div>'
         + '<h2 class="title"><a href="'+esc(i.link)+'" target="_blank" rel="noopener noreferrer">'+esc(i.title)+'</a></h2>'
         + (i.summary ? '<p class="sum">'+esc(i.summary)+'</p>' : '')
         + '</div><div class="side">'

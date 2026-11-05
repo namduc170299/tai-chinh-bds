@@ -8,7 +8,7 @@ d = json.load(open("data/news.json", encoding="utf-8"))
 now = datetime.now(timezone(timedelta(hours=7)))
 age = (now - datetime.fromisoformat(d["updated"])).total_seconds() / 60
 issues = []
-if age > 75:
+if age > 50:  # cào 15 phút/lần, GitHub hay trễ vài phút
     issues.append(f"STALE: cập nhật cách đây {age:.0f} phút")
 for s in d.get("sources", []):
     if not s["ok"] or s["count"] == 0:
