@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-05T10:25:11+07:00",
-"new": 163,
+"updated": "2026-11-05T10:28:34+07:00",
+"new": 22,
 "sources": [
 {
 "name": "VnExpress",
@@ -117,14 +117,6 @@
 {
 "name": "Kenh14",
 "cat": "mxh",
-"url": "https://kenh14.vn/home.rss",
-"ok": false,
-"count": 0,
-"error": "HTTPError: HTTP Error 404: Not Found"
-},
-{
-"name": "Kenh14",
-"cat": "mxh",
 "url": "https://kenh14.vn/xa-hoi.rss",
 "ok": true,
 "count": 50
@@ -178,6 +170,17 @@
 "cat": "mxh",
 "published": "2026-11-05T11:03:00+07:00",
 "found": "2026-11-05T10:25:11+07:00"
+},
+{
+"id": "e946cfa235e7",
+"title": "Dự báo lãi suất vẫn duy trì ở mức cao, tạo áp lực lên biên lãi ròng nhóm ngân hàng trong ngắn hạn",
+"link": "https://vneconomy.vn/du-bao-lai-suat-van-duy-tri-o-muc-cao-tao-ap-luc-len-bien-lai-rong-nhom-ngan-hang-trong-ngan-han.htm",
+"summary": "SSI Research vừa cập nhật triển vọng ngành ngân hàng trong đó nhấn mạnh các ngân hàng thương mại sẽ hỗ trợ nền kinh tế bằng cách giảm cả lãi suất huy động và lãi suất cho vay, qua đó gây áp lực lên biên lãi ròng trong ngắn hạn.",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/05/dc943a77685b416b8715d1cd41fd8351-133060.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-05T10:26:16+07:00",
+"found": "2026-11-05T10:28:34+07:00"
 },
 {
 "id": "e175bbe15b47",
@@ -452,8 +455,19 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-05T10:00:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-05T10:25:11+07:00"
+},
+{
+"id": "a8ac3b2c977e",
+"title": "Diện mạo đô thị hơn 420 ha của Sun Group sau hơn hai năm",
+"link": "https://vnexpress.net/dien-mao-do-thi-hon-420-ha-cua-sun-group-sau-hon-hai-nam-5140983.html",
+"summary": "Sun Urban City dần hình thành diện mạo với các khu căn hộ, nhà phố, hệ thống công viên và tiện ích giải trí sau hơn hai năm triển khai.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/05/sun-urban-city-1793845831.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uDKdMbPeJ9CZDznZtavPwg",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-05T10:00:00+07:00",
+"found": "2026-11-05T10:28:34+07:00"
 },
 {
 "id": "11030e8886ca",
@@ -600,6 +614,17 @@
 "found": "2026-11-05T09:49:32+07:00"
 },
 {
+"id": "dd065cf5beeb",
+"title": "Yuanta Việt Nam ra mắt YSVN MCP: Kết hợp AI và dữ liệu chuyên gia cho nhà đầu tư",
+"link": "https://tuoitre.vn/yuanta-viet-nam-ra-mat-ysvn-mcp-ket-hop-ai-va-du-lieu-chuyen-gia-cho-nha-dau-tu-100261105083745019.htm",
+"summary": "Chứng khoán Yuanta Việt Nam vừa chính thức ra mắt YSVN MCP, giải pháp kết nối nền tảng AI Claude với hệ sinh thái dữ liệu và phân tích của Yuanta Việt Nam.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/5/ysvn-mcp-thumb-17938424103651586601197-0-32-1511-2450-crop-1793842414573583275358.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-05T09:03:00+07:00",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
 "id": "34a0500f8785",
 "title": "Carlsberg chia sẻ chiến lược đầu tư dài hạn, phát triển bền vững tại Việt Nam",
 "link": "https://vietnamnet.vn/carlsberg-chia-se-chien-luoc-dau-tu-dai-han-phat-trien-ben-vung-tai-viet-nam-2571615.html",
@@ -678,6 +703,18 @@
 "found": "2026-11-05T10:25:11+07:00"
 },
 {
+"id": "78fc0ba40ad0",
+"title": "hdpe",
+"link": "https://dantri.com.vn/phap-luat/giam-doc-noi-tieng-voi-cau-noi-hdpe-la-ngon-luon-bi-khoi-to-20261105084024107.htm",
+"summary": "Giám đốc nổi tiếng với câu nói “HDPE là ngon luôn” bị khởi tố (Báo Dân trí)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbbTw5VMxHNztzrBGsP6B5yfSXhNYvT2mhIgovzYaHx2WRZ5raQ8Hm3xU0LC0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-05T08:40:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
 "id": "932143999b1f",
 "title": "Chứng khoán Mỹ tăng bùng nổ, giá dầu lao dốc gần 9%",
 "link": "https://vneconomy.vn/chung-khoan-my-tang-bung-no-gia-dau-lao-doc-gan-9.htm",
@@ -721,6 +758,17 @@
 "published": "2026-11-05T08:30:00+07:00",
 "traffic": "2000+",
 "found": "2026-11-05T10:25:11+07:00"
+},
+{
+"id": "931b796be806",
+"title": "Giá vàng thế giới vượt 4.000 USD, SJC lấy lại mốc 142 triệu đồng/lượng",
+"link": "https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-vuot-4000-usd-sjc-lay-lai-moc-142-trieu-dongluong-20261105065854762.htm",
+"summary": "(Dân trí) - Hưởng lợi từ sự suy yếu của đồng USD, thị trường kim loại quý trải qua phiên tăng thứ năm liên tiếp. Đáng chú ý, biên độ tăng của vàng nhẫn trong nước đang vượt trội hơn hẳn vàng miếng SJC.",
+"image": "https://icdn.dantri.com.vn/2019/07/19/gia-vang-sjc-1563512706064.jpg?watermark=v1,v2",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-05T08:24:17+07:00",
+"found": "2026-11-05T10:28:34+07:00"
 },
 {
 "id": "6bad13bfe2d6",
@@ -4700,6 +4748,17 @@
 "found": "2026-11-04T10:39:40+07:00"
 },
 {
+"id": "0785f3cda414",
+"title": "10 đại học tốt nhất châu Á năm 2027",
+"link": "https://vnexpress.net/10-dai-hoc-tot-nhat-chau-a-nam-2027-5140438.html",
+"summary": "Đặc khu Hong Kong (Trung Quốc) áp đảo bảng xếp hạng đại học châu Á của QS với 5 đại diện trong top 10.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/04/839618231-n-1793742159-7945-1793742215.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fkC2DtzScafZOCIS0ZcDOQ",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T10:23:07+07:00",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
 "id": "ff259fd72bbd",
 "title": "Xuất siêu lập kỷ lục 7,31 tỉ USD trong tháng 10 khi nhập khẩu hàng điện tử giảm mạnh",
 "link": "https://tuoitre.vn/xuat-sieu-lap-ky-luc-731-ti-usd-trong-thang-10-khi-nhap-khau-hang-dien-tu-giam-manh-100261104092356805.htm",
@@ -4753,6 +4812,17 @@
 "cat": "tc",
 "published": "2026-11-04T10:14:00+07:00",
 "found": "2026-11-04T10:39:40+07:00"
+},
+{
+"id": "a9cbf56aa3e5",
+"title": "Được - mất của chắn bùn khoét lỗ trên xe máy điện VinFast",
+"link": "https://vnexpress.net/duoc-mat-cua-chan-bun-khoet-lo-tren-xe-may-dien-vinfast-5139683.html",
+"summary": "Phần chắn bùn sau của xe VinFast Kyo được khoét lỗ để tản nhiệt pin và bộ điều khiển nhưng khiến bùn đất lọt vào bên trong.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/02/862899256106262228681922081570-5850-6587-1793602220.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CaYnJBnBj2C_fwJaWudzOg",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T10:13:37+07:00",
+"found": "2026-11-05T10:28:34+07:00"
 },
 {
 "id": "1850f316186f",
@@ -4885,6 +4955,28 @@
 "cat": "tc",
 "published": "2026-11-04T09:46:40+07:00",
 "found": "2026-11-04T10:39:40+07:00"
+},
+{
+"id": "f406d1bcd9bd",
+"title": "Mr Pips bị đề nghị tù chung thân, bồi thường gần 1.200 tỷ đồng",
+"link": "https://vnexpress.net/mr-pips-bi-de-nghi-tu-chung-than-boi-thuong-gan-1-200-ty-dong-5140501.html",
+"summary": "Xác định lừa đảo số tiền chiếm đoạt đặc biệt lớn, kéo dài nhiều năm, tổ chức đường dây tội phạm, rửa tiền tinh vi, VKS đề nghị tòa tuyên Phó Đức Nam (Mr Pips) án tù chung thân - hình phạt cao nhất vụ án.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/04/wm1-wm1-2aoborabbdrpout0dqpldsvnxq-3696-7689-1793758616.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KEwBktZQT92lTpAykr__jw",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T09:40:31+07:00",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
+"id": "ac2b493f0bc3",
+"title": "Ba kịch bản cho bầu cử giữa kỳ Mỹ",
+"link": "https://vnexpress.net/ba-kich-ban-cho-bau-cu-giua-ky-my-5140483.html",
+"summary": "Bầu cử giữa kỳ Mỹ đang đứng trước thời khắc quyết định với ba kịch bản, trong đó đảng Dân chủ có thể thổi bùng \"sóng xanh\" để thắng áp đảo.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/04/ap26307673983856-1793759692-1613-1793759759.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=O_GLiIUJoRr71eDV42L3MA",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T09:36:25+07:00",
+"found": "2026-11-05T10:28:34+07:00"
 },
 {
 "id": "c4d5ec7f6165",
@@ -5160,6 +5252,17 @@
 "cat": "bds",
 "published": "2026-11-04T08:38:00+07:00",
 "found": "2026-11-04T09:38:38+07:00"
+},
+{
+"id": "f1acda21004f",
+"title": "Sóng ngầm bất mãn biến thành trì Cộng hòa thành bang chiến trường",
+"link": "https://vnexpress.net/song-ngam-bat-man-bien-thanh-tri-cong-hoa-thanh-bang-chien-truong-5140181.html",
+"summary": "Sự bất mãn với Tổng thống Trump và chia rẽ nội bộ đảng Cộng hòa đang khiến cuộc đua Thượng viện tại thành trì Nam Carolina trở nên khó lường.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/04/ap26302672816091-1793723024-7905-1793725309.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=POUVxpkns9cQaKY9gWE0aw",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T08:36:45+07:00",
+"found": "2026-11-05T10:28:34+07:00"
 },
 {
 "id": "938b37af909a",
@@ -5536,6 +5639,17 @@
 "found": "2026-11-05T10:25:11+07:00"
 },
 {
+"id": "c0a238eb6d66",
+"title": "19 cây xanh trong trường bị đốn hạ, hiệu trưởng đối mặt kỷ luật",
+"link": "https://vnexpress.net/19-cay-xanh-trong-truong-bi-don-ha-hieu-truong-doi-mat-ky-luat-5140433.html",
+"summary": "Xã Đăk Sao yêu cầu hai trường học thu hồi gỗ, xem xét kỷ luật vì tự ý chặt 19 cây, nhiều cây đường kính lớn, còn xanh tốt.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/03/anh-1793722448-9588-1793722477.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aTwA-idkY2zhMuv_m6Lj6w",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T06:52:34+07:00",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
 "id": "eaf046790449",
 "title": "Thứ trưởng Bộ Tài chính: Việt Nam kêu gọi FDI vào các ngành công nghiệp thế hệ mới",
 "link": "https://dantri.com.vn/kinh-doanh/thu-truong-bo-tai-chinh-viet-nam-keu-goi-fdi-vao-cac-nganh-cong-nghiep-the-he-moi-20261104055136927.htm",
@@ -5767,6 +5881,17 @@
 "found": "2026-11-05T10:25:11+07:00"
 },
 {
+"id": "1dd3f85b83c0",
+"title": "'Tiền thuê nhà chỉ nên chiếm 10-15% thu nhập'",
+"link": "https://vnexpress.net/tien-thue-nha-chi-nen-chiem-10-15-thu-nhap-5140299.html",
+"summary": "Đại biểu Quốc hội Trần Hoàng Ngân cho rằng tiền thuê nhà chỉ nên chiếm 10-15% thu nhập, muốn đạt mức này Nhà nước cần tận dụng đất công và hỗ trợ vốn đầu tư.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/04/202512051119352518-z7294650551-8115-8621-1793736581.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KnynHXl9uNieq5pLQJ12Pg",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T06:00:00+07:00",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
 "id": "088edd3efba1",
 "title": "Ba thửa đất được thừa kế riêng, chồng vẫn phải chia tiền cho vợ sau ly hôn",
 "link": "https://vietnamnet.vn/ba-thua-dat-duoc-thua-ke-rieng-chong-van-phai-chia-tien-cho-vo-sau-ly-hon-2570941.html",
@@ -5811,6 +5936,39 @@
 "found": "2026-11-04T05:29:48+07:00"
 },
 {
+"id": "3556a1f73252",
+"title": "Diện mạo sân Thống Nhất gần trăm tuổi sau cải tạo",
+"link": "https://vnexpress.net/dien-mao-san-thong-nhat-gan-tram-tuoi-sau-cai-tao-5139923.html",
+"summary": "Mặt cỏ, đường chạy được thay mới, khán đài lắp ghế mới trong đợt cải tạo gần 320 tỷ đồng tại sân Thống Nhất, dự kiến hoàn thành cuối năm nay.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/03/wm1-1793617359780d7edddc9128145481f13da41a91305-jpeg-1793670502.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=p2ZNsmS7TqFTylJCkWTfXA",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T05:00:00+07:00",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
+"id": "918ca1870280",
+"title": "Elon Musk: 'Công nghệ Neuralink có thể chữa mù'",
+"link": "https://vnexpress.net/elon-musk-cong-nghe-neuralink-co-the-chua-mu-5139934.html",
+"summary": "Elon Musk, nhà đồng sáng lập Neuralink, nói công nghệ Blindsight của công ty có thể mang lại thị lực cho người mù và đang chờ phê duyệt.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/03/afp202410272180560800v1hig5406-8779-2139-1793644528.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mDkzrnchFmNus6Y8d7SaZg",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T05:00:00+07:00",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
+"id": "cf5b069e0a06",
+"title": "Man Utd thắng ngược khó tin trước Roma ở Champions League",
+"link": "https://vnexpress.net/man-utd-thang-nguoc-kho-tin-truoc-roma-o-champions-league-5140449.html",
+"summary": "Bị Roma dẫn 0-2 trên sân nhà Old Trafford, Man Utd ghi ba bàn trong hiệp hai để thắng 3-2 ở lượt bốn vòng phân hạng Champions League.",
+"image": "https://i1-thethao.vnecdn.net/2026/11/04/cunha-1793742915-8906-1793742928.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5dFJIARn-ap_Ee-p56oSqQ",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T04:56:24+07:00",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
 "id": "5989181e0e2f",
 "title": "Tin tức sáng 4-11: TP.HCM giải ngân khoảng 111.000 tỉ đồng vốn đầu tư công; Thu ngân sách sắp cán đích",
 "link": "https://tuoitre.vn/tin-tuc-sang-4-11-tphcm-giai-ngan-khoang-111000-ti-dong-von-dau-tu-cong-thu-ngan-sach-sap-can-dich-10026110322210795.htm",
@@ -5820,6 +5978,17 @@
 "cat": "tc",
 "published": "2026-11-04T04:44:00+07:00",
 "found": "2026-11-04T05:29:48+07:00"
+},
+{
+"id": "e58146ef6bff",
+"title": "Thủ môn Jesus Owono suy sụp khi De Miguel qua đời",
+"link": "https://vnexpress.net/thu-mon-jesus-owono-suy-sup-khi-de-miguel-qua-doi-5140417.html",
+"summary": "Thủ thành Jesus Owono, người có pha va chạm khiến tiền đạo 30 tuổi Jesus de Miguel tử vong, đang chịu chấn thương tâm lý nặng nề và bị các CĐV gọi là \"kẻ sát nhân\".",
+"image": "https://i1-thethao.vnecdn.net/2026/11/03/e3239953b51f49b1843bd4dc0adf80-3429-6791-1793716397.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=l-0RlZsj4FY-sR7FtS6sTQ",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T01:19:03+07:00",
+"found": "2026-11-05T10:28:34+07:00"
 },
 {
 "id": "ea4c4029dc90",
@@ -6009,6 +6178,39 @@
 "found": "2026-11-04T01:36:52+07:00"
 },
 {
+"id": "93aeb1e68a23",
+"title": "Vì sao tiền đạo De Miguel vẫn tử vong dù hồi sức thành công?",
+"link": "https://vnexpress.net/vi-sao-tien-dao-de-miguel-van-tu-vong-du-hoi-suc-thanh-cong-5140407.html",
+"summary": "Tiền đạo Jesus de Miguel được khôi phục mạch sau khoảng 20 phút ngừng tuần hoàn, thậm chí có thể tự thở, nhưng vẫn chết sau sự cố va chạm ở giải hạng nhì Tây Ban Nha.",
+"image": "https://i1-thethao.vnecdn.net/2026/11/03/jesus-de-miguel-1793712638-8306-1793713386.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oE_QFXha3q56x8RzvIVp8A",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T00:00:00+07:00",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
+"id": "913798283629",
+"title": "Chiến dịch truy quét cử tri gian lận của chính quyền Trump",
+"link": "https://vnexpress.net/chien-dich-truy-quet-cu-tri-gian-lan-cua-chinh-quyen-trump-5140318.html",
+"summary": "Cuộc truy quét gian lận cử tri của chính quyền Trump khiến hơn 220 người nhập cư bị truy tố, nhiều gia đình hoảng loạn vì nguy cơ bị trục xuất.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/03/anh1-1793701109-3095-1793702140.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8PlEvVOq_cq8YjrczO77HQ",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-04T00:00:00+07:00",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
+"id": "46533e4ce25a",
+"title": "Ông Trump: Mỹ đã tập kích 'cơ sở phòng không' của Iran",
+"link": "https://vnexpress.net/ong-trump-my-da-tap-kich-co-so-phong-khong-cua-iran-5140428.html",
+"summary": "Tổng thống Trump tuyên bố Mỹ đã tấn công một \"cơ sở phòng không\" của Iran, sau khi truyền thông nói Washington đã tập kích đảo Qeshm.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/03/TngthngTrump-1793722509-8464-1793723030.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ghl4KRYCJTZLg1c7UZQMIA",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-03T23:54:04+07:00",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
 "id": "8be61a7887c7",
 "title": "Không ai mua lô vàng tang vật hơn 150 triệu đồng ở Nghệ An",
 "link": "https://vnexpress.net/khong-ai-mua-lo-vang-tang-vat-hon-150-trieu-dong-o-nghe-an-5140427.html",
@@ -6040,6 +6242,17 @@
 "cat": "tc",
 "published": "2026-11-03T22:54:34+07:00",
 "found": "2026-11-03T23:42:45+07:00"
+},
+{
+"id": "abe62e04b448",
+"title": "Mỹ sẽ chấm dứt thỏa thuận an ninh 10 năm với Israel",
+"link": "https://vnexpress.net/my-se-cham-dut-thoa-thuan-an-ninh-10-nam-voi-israel-5140416.html",
+"summary": "Mỹ sẽ chấm dứt sớm thỏa thuận hỗ trợ an ninh kéo dài 10 năm với Israel, trong đó Washington cung cấp 3,8 tỷ USD hàng năm cho Tel Aviv.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/03/Trump-1793718433-1689-1793718822.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=83iLWZibqA37Sg1eEnXaew",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-03T22:47:55+07:00",
+"found": "2026-11-05T10:28:34+07:00"
 },
 {
 "id": "aaaeae207cee",
@@ -6383,6 +6596,17 @@
 "found": "2026-11-03T20:35:03+07:00"
 },
 {
+"id": "4b3bfbeec5b0",
+"title": "33 đại học Việt Nam vào bảng xếp hạng châu Á 2027",
+"link": "https://vnexpress.net/33-dai-hoc-viet-nam-vao-bang-xep-hang-chau-a-2027-5140159.html",
+"summary": "Việt Nam có 33 trường lọt bảng xếp hạng đại học châu Á của QS - đông nhất từ trước đến nay, song phần lớn tụt hạng.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/03/vnuhola-1793683813-3926-1793683857.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cH85REEFw-Xc2EYxB9liSg",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-03T20:00:33+07:00",
+"found": "2026-11-05T10:28:34+07:00"
+},
+{
 "id": "88e2e91e80a9",
 "title": "Giá vàng nhẫn trơn, vàng miếng tối 3/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
 "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-toi-3-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261103075423102.chn",
@@ -6469,6 +6693,17 @@
 "cat": "tc",
 "published": "2026-11-03T19:24:00+07:00",
 "found": "2026-11-03T20:35:03+07:00"
+},
+{
+"id": "13bf32356ee7",
+"title": "Thế giới bóng đá bàng hoàng trước cái chết của De Miguel",
+"link": "https://vnexpress.net/the-gioi-bong-da-bang-hoang-truoc-cai-chet-cua-de-miguel-5140389.html",
+"summary": "Kylian Mbappe, Pedri, Rafael Nadal cùng các CLB hàng đầu thế giới bày tỏ sự tiếc thương trước cái chết của tiền đạo Jesus de Miguel ở tuổi 30, vì bị đối phương thúc vào ngực.",
+"image": "https://i1-thethao.vnecdn.net/2026/11/03/miguel-angel-sanchez-179370747-8355-7159-1793707480.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lTp6Y5IZivccruO0gd7GNA",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-03T19:20:13+07:00",
+"found": "2026-11-05T10:28:34+07:00"
 },
 {
 "id": "e9f951b6d2e3",
@@ -10912,248 +11147,6 @@
 "source": "VnEconomy",
 "cat": "tc",
 "published": "2026-11-02T11:57:36+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "1c88450d2145",
-"title": "Từ máy bay đến nhà máy thép, tỷ phú Việt tìm đủ cách giảm phát thải",
-"link": "https://dantri.com.vn/kinh-doanh/tu-may-bay-den-nha-may-thep-ty-phu-viet-tim-du-cach-giam-phat-thai-20261102102048362.htm",
-"summary": "(Dân trí) - Doanh nghiệp của các tỷ phú USD của Việt Nam đang triển khai nhiều giải pháp tiết kiệm năng lượng, tăng sử dụng nguồn tái tạo, qua đó gắn mục tiêu môi trường với hiệu quả kinh doanh.",
-"image": "https://icdn.dantri.com.vn/2026/07/25/ty-phu-cropped-1784984033644.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-02T11:54:43+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "1e0f7a5a4396",
-"title": "Quỹ đầu tư vào chuỗi Món Huế bất ngờ lên tiếng sau 7 năm vụ lùm xùm công nợ",
-"link": "https://tuoitre.vn/quy-dau-tu-vao-chuoi-mon-hue-bat-ngo-len-tieng-sau-7-nam-vu-lum-xum-cong-no-100261102105923956.htm",
-"summary": "Sau 7 năm kể từ khi chuỗi nhà hàng Món Huế lùm xùm công nợ với các đối tác và đóng cửa trên toàn quốc, quỹ đầu tư ADV Partners bất ngờ lên tiếng nhắc lại vụ việc.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/2/anh-man-hinh-2026-11-02-luc-105134-17935915220982108397503-116-0-1716-2560-crop-1793591568314521192943.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-02T11:54:00+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "76576fde133b",
-"title": "Giá vàng bạc hôm nay 2/11 bật tăng: Phú Quý, SJC, Bảo Tín Mạnh Hải đồng loạt cập nhật giá mới",
-"link": "https://cafef.vn/gia-vang-bac-hom-nay-2-11-bat-tang-phu-quy-sjc-bao-tin-manh-hai-dong-loat-cap-nhat-gia-moi-188261102113619148.chn",
-"summary": "Giá vàng hôm nay lấy lại phong độ sau khi giảm mạnh.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/2/avatar1793594147725-1793594148010685962186.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-02T11:38:00+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "3cff6988f7ac",
-"title": "Cả triệu đồng một trái sầu riêng Musangking, thương lái vẫn \"đỏ mắt\" đi tìm",
-"link": "https://dantri.com.vn/kinh-doanh/ca-trieu-dong-mot-trai-sau-rieng-musangking-thuong-lai-van-do-mat-di-tim-20261102110734267.htm",
-"summary": "(Dân trí) - Dù mức giá bán lẻ chạm mốc 400.000 đồng/kg, sầu riêng Musangking vẫn vắng bóng tại các sạp hàng. Mưa nhiều khiến sản lượng giảm sút, đẩy giá loại quả này tăng vọt gấp đôi so với khi vào chính vụ.",
-"image": "https://icdn.dantri.com.vn/2026/11/02/musangking-4-cropped-1793592286017.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-02T11:34:42+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "93210db9b49d",
-"title": "Thôi giữ chức Tổng giám đốc SACOMBANK, ông Loic Faussier sẽ đảm nhiệm vị trí nào?",
-"link": "https://cafef.vn/thoi-giu-chuc-tong-giam-doc-sacombank-ong-loic-faussier-se-dam-nhiem-vi-tri-nao-188261102113505476.chn",
-"summary": "Sáng nay 02/11, Ngân hàng TMCP Sài Gòn Tài Lộc (SACOMBANK) công bố thay đổi nhân sự cấp cao.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/2/avatar1793593971192-17935939719111184339930.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-02T11:34:00+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "2407cb1981fe",
-"title": "Techcombank và Masterise Group đưa tinh hoa Baroque Châu Âu hòa nhịp cùng văn hóa Việt Nam",
-"link": "https://cafef.vn/techcombank-va-masterise-group-dua-tinh-hoa-baroque-chau-au-hoa-nhip-cung-van-hoa-viet-nam-188261102113144871.chn",
-"summary": "Tối 29 và 30/10 tại Nhà hát Hồ Gươm, hai đêm diễn của Four Seasons with Love – Bốn mùa yêu do Techcombank và Masterise Group đồng tài trợ độc quyền đã để lại nhiều dư âm và cảm xúc sâu lắng trong lòng khán giả Thủ đô.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/2/avatar1793593811809-17935938138101631849393.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-02T11:31:00+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "7fd3bab728e6",
-"title": "One Era giới thiệu hơn 350 sản phẩm thấp tầng",
-"link": "https://vnexpress.net/one-era-gioi-thieu-hon-350-san-pham-thap-tang-5139642.html",
-"summary": "One Era - khu đô thị quy mô gần 50 ha, giới thiệu 357 sản phẩm nhà phố (townhouse) và nhà phố thương mại (shophouse), thêm nguồn cung thấp tầng Đông Bắc TP HCM.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/ohan-1793591848-5004-1793592018.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=tup9m9kj4fZKz6JrKvbsRA",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-02T11:30:00+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "dce0a1f796b4",
-"title": "Vì sao căn hộ giá trung bình ngày càng khan hiếm?",
-"link": "https://dantri.com.vn/bat-dong-san/vi-sao-can-ho-gia-trung-binh-ngay-cang-khan-hiem-20261102084226675.htm",
-"summary": "(Dân trí) - Chi phí đầu vào tăng cao cùng những nút thắt pháp lý đang khiến các dự án căn hộ vừa túi tiền dần biến mất. Để giải bài toán này, quy hoạch đô thị và tư duy phát triển dự án cần thay đổi toàn diện.",
-"image": "https://icdn.dantri.com.vn/2026/11/02/chung-cu-vua-tui-tien-cropped-1793583591583.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-02T11:30:00+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "681308822377",
-"title": "MB tiên phong ký số với một chạm",
-"link": "https://dantri.com.vn/kinh-doanh/mb-tien-phong-ky-so-voi-mot-cham-20261102110435712.htm",
-"summary": "(Dân trí) - Ngân hàng TMCP Quân đội (MB) mở rộng ký số xuyên suốt quy trình vay vốn, giúp khách hàng cá nhân và doanh nghiệp giảm thao tác ký tay, tinh gọn hồ sơ giấy.",
-"image": "https://icdn.dantri.com.vn/2026/11/02/mb2-1793592065016.png",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-02T11:20:41+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "687934f89e00",
-"title": "Đại biểu Quốc hội: Cần cơ chế ngăn đầu tư núp bóng để rửa tiền, lừa đảo",
-"link": "https://vnexpress.net/dai-bieu-quoc-hoi-can-co-che-ngan-dau-tu-nup-bong-de-rua-tien-lua-dao-5139593.html",
-"summary": "Đại biểu Nguyễn Trung Kiên đề nghị bổ sung cơ chế phòng ngừa, ngăn tình trạng đầu tư núp bóng để rửa tiền, lừa đảo, buôn lậu khi sửa luật.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/02/wm28-wm28-202611020854146294-z84415-2873-9938-1793593764.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZeXG_RNNdT4dpDoCr5KlvQ",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-02T11:20:36+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "b031e2c1ab52",
-"title": "Cần khám sức khỏe trước khi kết hôn, tham gia tư vấn xây dựng gia đình hạnh phúc",
-"link": "https://tuoitre.vn/can-kham-suc-khoe-truoc-khi-ket-hon-tham-gia-tu-van-xay-dung-gia-dinh-hanh-phuc-100261102110803178.htm",
-"summary": "Các cấp Hội Liên hiệp phụ nữ TP.HCM còn triển khai nhiều hoạt động thiết thực nhằm chăm sóc sức khỏe, bảo vệ phụ nữ và trẻ em, xây dựng môi trường sống an toàn ngay từ khu dân cư, khu nhà trọ công nhân.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/2/phu-nu-ket-hon-1-1793591638756164943297-0-0-1152-1843-crop-1793592196767380096347.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-02T11:19:00+07:00",
-"found": "2026-11-05T10:25:11+07:00"
-},
-{
-"id": "c982e9ed6c6c",
-"title": "Đại biểu băn khoăn mỗi năm sửa Luật Đầu tư gần 3 lần, Bộ trưởng nói sửa để thu hút đầu tư",
-"link": "https://tuoitre.vn/dai-bieu-ban-khoan-moi-nam-sua-luat-dau-tu-gan-3-lan-bo-truong-noi-sua-de-thu-hut-dau-tu-100261102103413275.htm",
-"summary": "Ngày 2-11, thảo luận tại hội trường về dự án luật sửa đổi, bổ sung một số điều của Luật Đầu tư, nhiều đại biểu băn khoăn về việc nhiều lần sửa đổi luật và nâng cao hiệu quả thu hút đầu tư.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/2/bo-truong-dat-edit-nologo-17935932398931153510302-45-454-1112-2161-crop-1793593311636708346096.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-02T11:17:00+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "cf8c3add1a15",
-"title": "Một cổ phiếu bất ngờ \"hồi sinh\" sau cú rơi gần 90% giá trị",
-"link": "https://cafef.vn/mot-co-phieu-bat-ngo-hoi-sinh-sau-cu-roi-gan-90-gia-tri-188261102111549376.chn",
-"summary": "Khối lượng khớp lệnh đạt gần 6,9 triệu đơn vị, đáng chú ý bên mua vẫn áp đảo với lượng dư mua giá trần hơn 4 triệu cổ phiếu.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/2/avatar1747503112221-17475031131241089318272-1793592865633546180254.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-02T11:16:00+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "66f7011630fa",
-"title": "Đồng Tháp tăng tốc xuất khẩu, hướng tới mục tiêu 10 tỷ USD",
-"link": "https://vietnamnet.vn/dong-thap-tang-toc-xuat-khau-huong-toi-muc-tieu-10-ty-usd-2570607.html",
-"summary": "Trong 9 tháng đầu năm, kim ngạch xuất khẩu của Đồng Tháp đạt hơn 7,57 tỷ USD, tăng 8,15% so với cùng kỳ. Tỉnh đang đẩy mạnh hỗ trợ doanh nghiệp mở rộng thị trường, nâng sức cạnh tranh, phấn đấu hoàn thành mục tiêu xuất khẩu 10 tỷ USD năm nay.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/2/dong-thap-tang-toc-xuat-khau-huong-toi-muc-tieu-10-ty-usd-891.jpg?width=0&s=YYfantcCuS-ifHBj64dJDw",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-02T11:08:20+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "a25f168fb943",
-"title": "20 phiên bán ròng liên tiếp, gần 1 tỷ USD cổ phiếu Việt Nam bị khối ngoại thẳng tay \"xả\" trong tháng 10",
-"link": "https://cafef.vn/20-phien-ban-rong-lien-tiep-gan-1-ty-usd-co-phieu-viet-nam-bi-khoi-ngoai-thang-tay-xa-trong-thang-10-188261102110909769.chn",
-"summary": "Tổng giá trị bán ròng của nhà đầu tư nước ngoài trên HoSE từ đầu năm 2026 đã tiến sát mức kỷ lục của cả năm ngoái.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/2/khoi-ngoai-ban-rong-1-ty-usd-17935927343262087264236-49-0-1009-1536-crop-1793592746289291102716.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-02T11:08:00+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "52e553b45278",
-"title": "10 tháng năm 2026, Đồng Tháp thu hút gần 15.000 tỷ đồng vốn đầu tư",
-"link": "https://vietnamnet.vn/10-thang-nam-2026-dong-thap-thu-hut-gan-15-000-ty-dong-von-dau-tu-2570619.html",
-"summary": "Sau 10 tháng năm 2026, kinh tế Đồng Tháp ghi nhận nhiều điểm sáng khi sản xuất công nghiệp tăng 13,47%, doanh thu du lịch đạt 3.700 tỷ đồng, tổng vốn đầu tư mới và tăng thêm thu hút gần 15.000 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/2/10-thang-nam-2026-dong-thap-thu-hut-gan-15-887.jpg?width=0&s=kJBquBxHDk80lwIHo3q6Jg",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-02T11:07:39+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "fd9f156d1a1a",
-"title": "SACOMBANK bổ nhiệm Quyền Tổng giám đốc 8X, chồng Shark Lê Hàn Tuệ Lâm rời 'ghế nóng' sau chưa đầy 4 tháng",
-"link": "https://cafef.vn/sacombank-bat-ngo-bo-nhiem-quyen-tong-giam-doc-8x-chong-shark-le-han-tue-lam-roi-ghe-nong-sau-chua-day-4-thang-18826110211060599.chn",
-"summary": "SACOMBANK vừa bổ nhiệm Quyền Tổng giám đốc mới là một nữ lãnh đạo sinh năm 1983.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/2/avatar1793596421051-17935964216101773128442.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-02T11:07:00+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "324f38d9f0bc",
-"title": "Đồng Tháp cam kết tháo gỡ điểm nghẽn, đồng hành cùng doanh nghiệp",
-"link": "https://vietnamnet.vn/dong-thap-cam-ket-thao-go-diem-nghen-dong-hanh-cung-doanh-nghiep-2570618.html",
-"summary": "Chủ tịch UBND tỉnh Đồng Tháp Nguyễn Thanh Nhàn khẳng định tỉnh sẽ đẩy mạnh cải cách hành chính, tháo gỡ khó khăn, bảo đảm môi trường đầu tư minh bạch, thuận lợi, tạo động lực để doanh nghiệp phát triển bền vững.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/2/dong-thap-cam-ket-thao-go-diem-nghen-dong-hanh-cung-doanh-nghiep-878.jpg?width=0&s=0Ntjs5YY6dHYezEyYMehfg",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-02T11:06:49+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "63b812c109ac",
-"title": "Charmora City nhận &apos;cú đúp&apos; danh hiệu đô thị sinh thái và bất động sản wellness",
-"link": "https://vietnamnet.vn/charmora-city-nhan-cu-dup-danh-hieu-do-thi-sinh-thai-va-bat-dong-san-wellness-2570623.html",
-"summary": "Trong hai ngày 29-30/10, Sun Property (thành viên Sun Group) liên tiếp được vinh danh “Nhà phát triển BĐS tiêu biểu Việt Nam”, cùng 3 dự án nổi bật trải dài ba miền: Sun Urban City, Charmora City và Blanca City.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/2/charmora-city-nhan-cu-dup-danh-hieu-do-thi-sinh-thai-va-bat-dong-san-wellness-870.png?width=0&s=NS7lvC0LEZPxQzQS0Bh6uQ",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-02T11:06:15+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "4380adac375f",
-"title": "'Nhà leo núi' này ghi điểm với khán giả sau chung kết Đường lên đỉnh Olympia 2026",
-"link": "https://thanhnien.vn/nha-leo-nui-nay-ghi-diem-voi-khan-gia-sau-chung-ket-duong-len-dinh-olympia-2026-185261101213224421.htm",
-"summary": "Nguyễn Huy Quang Minh (Trường THPT chuyên Thái Bình, Hưng Yên) là thí sinh được nhắc đến rất nhiều sau trận chung kết Đường lên đỉnh Olympia 2026. Khán giả ấn tượng với chàng trai học lớp chuyên sinh này.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/1/anhviber2026-11-0120-05-29-905-17935431197081466211004-89-108-773-1202-crop-1793543447007877192187.jpg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-02T11:00:00+07:00",
-"found": "2026-11-05T10:25:11+07:00"
-},
-{
-"id": "1b9feb422dd9",
-"title": "Giá vàng miếng đảo chiều lên 140 triệu đồng một lượng",
-"link": "https://vnexpress.net/gia-vang-mieng-dao-chieu-len-140-trieu-dong-mot-luong-5139574.html",
-"summary": "Sau phiên giảm mạnh vào cuối tuần, mỗi lượng vàng đảo chiều tăng 1 triệu đồng, chênh lệch với thế giới vẫn hơn 17 triệu đồng.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/02/wm1-wm1-viathantai-1793588264-9869-1793588444.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_jLuYTZr9Xo8eCh_-21FoA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-02T10:57:58+07:00",
-"found": "2026-11-03T15:22:02+07:00"
-},
-{
-"id": "3f0b8800cc9d",
-"title": "Kim Oanh Group khai trương không gian trải nghiệm 1ha tại đô thị One Era",
-"link": "https://dantri.com.vn/bat-dong-san/kim-oanh-group-khai-truong-khong-gian-trai-nghiem-1ha-tai-do-thi-one-era-20261102104112983.htm",
-"summary": "(Dân trí) - Ngày 31/10, chủ đầu tư Kim Oanh Group và nhà phát triển Kinera đã tổ chức lễ khai trương văn phòng bán hàng One Era Galleria cùng không gian trải nghiệm với diện tích 1ha tại đô thị One Era, phường Thuận Giao, TPHCM.",
-"image": "https://icdn.dantri.com.vn/2026/11/02/aerial8kone-era-2-cropped-1793590746628.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-02T10:48:03+07:00",
 "found": "2026-11-03T15:22:02+07:00"
 }
 ]
