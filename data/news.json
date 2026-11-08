@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-09T04:28:58+07:00",
-"new": 4,
+"updated": "2026-11-09T05:03:54+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -139,6 +139,17 @@
 "bad_dates": {},
 "items": [
 {
+"id": "b6d64fd06bdb",
+"title": "Quy Nhơn mưa lớn, vận động dân sơ tán trong đêm",
+"link": "https://kenh14.vn/quy-nhon-mua-lon-van-dong-dan-so-tan-trong-dem-215261108222301232.chn",
+"summary": "Trước tình hình mưa lớn, UBND phường Quy Nhơn, tỉnh Gia Lai khẩn trương vận động người dân tại các khu vực có nguy cơ sạt lở, đặc biệt là núi Một tiến hành di dời để đảm bảo an toàn.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/8/avatar1794151218421-17941512194432114812895.gif",
+"source": "Kenh14",
+"cat": "mxh",
+"published": "2026-11-09T05:42:00+07:00",
+"found": "2026-11-08T23:01:51+07:00"
+},
+{
 "id": "7925b46f0930",
 "title": "Shark Bình muốn sớm được chấp hành án",
 "link": "https://kenh14.vn/shark-binh-muon-som-duoc-chap-hanh-an-21526110821125394.chn",
@@ -194,6 +205,18 @@
 "found": "2026-11-08T22:27:53+07:00"
 },
 {
+"id": "37b70f19ea5a",
+"title": "bàng vuông",
+"link": "https://tuoitre.vn/lap-bien-ban-xu-phat-buoc-trong-lai-sau-su-co-cua-ha-cay-bang-vuong-truong-sa-15-nam-tuoi-100261108104142101.htm",
+"summary": "Lập biên bản xử phạt, buộc trồng lại sau 'sự cố' cưa hạ cây bàng vuông Trường Sa 15 năm tuổi (Báo Tuổi Trẻ)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI8UuI-b2C4OssUwHcCuky8HxVRmFlSjjKFzatCEwE6723arQstB1NaRsm9-c",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-09T04:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-09T05:03:54+07:00"
+},
+{
 "id": "46c02d78260a",
 "title": "Người phụ nữ SN 1987 bán kỷ vật của mẹ, cầm 14 triệu đồng đi khắp các tiệm điện thoại sau tin nhắn của bạn trai \"Hough Le\"",
 "link": "https://kenh14.vn/nguoi-phu-nu-sn-1987-ban-ky-vat-cua-me-cam-14-trieu-dong-di-khap-cac-tiem-dien-thoai-sau-tin-nhan-cua-ban-trai-hough-le-215261108210409552.chn",
@@ -225,6 +248,41 @@
 "cat": "mxh",
 "published": "2026-11-09T04:28:58+07:00",
 "found": "2026-11-09T04:28:58+07:00"
+},
+{
+"id": "6952b8b1c065",
+"title": "phương oanh",
+"link": "https://www.24h.com.vn/giai-tri/phuong-oanh-dua-hai-con-song-sinh-di-cong-tac-o-han-quoc-c731a1809300.html",
+"summary": "Phương Oanh đưa hai con song sinh đi công tác ở Hàn Quốc (Tin tức 24h)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BXCh1nu7Cm3p9pI0chu5nhftE7Yxe8_ZbNMzHbgUueJ_pe_PKbgXkOf_bA0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-09T04:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-09T05:03:54+07:00"
+},
+{
+"id": "d28e2805c401",
+"title": "phim chiếu rạp",
+"link": "https://laodong.vn/van-hoa-giai-tri/lan-ngoc-chi-pu-va-cong-thuc-dua-chi-chi-em-em-3-vuot-100-ti-dong-doanh-thu-1796632.ldo",
+"summary": "Lan Ngọc, Chi Pu và công thức đưa “Chị chị em em 3” vượt 100 tỉ đồng doanh thu (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpra_TI6s2lyte6hqai5Qm_qgMjGjH3eR9LN_4O58qihp81z5tnk8SfPU1wh4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-09T04:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-09T05:03:54+07:00"
+},
+{
+"id": "2be2016971ea",
+"title": "Binance yêu cầu người dùng châu Âu rút tài sản trước khi bị thu phí",
+"link": "https://vnexpress.net/binance-yeu-cau-nguoi-dung-chau-au-rut-tai-san-truoc-khi-bi-thu-phi-5142152.html",
+"summary": "Cuối năm nay, Binance sẽ đóng một số tài khoản khách hàng châu Âu và thu phí hàng tháng trên số dư nếu họ không rút tài sản đúng hạn.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/08/6afa7aee3dd3e7c1e37e3929a4ac24-7460-2002-1794120558.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1EZR95WhZi44y4XFBA1czg",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-09T04:00:00+07:00",
+"found": "2026-11-09T05:03:54+07:00"
 },
 {
 "id": "9bb3b7a4e043",
@@ -279,7 +337,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-09T03:50:00+07:00",
-"traffic": "200+",
+"traffic": "100+",
 "found": "2026-11-09T04:28:58+07:00"
 },
 {
@@ -291,7 +349,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-09T03:50:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-09T04:28:58+07:00"
 },
 {
@@ -303,8 +361,32 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-09T03:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-09T04:28:58+07:00"
+},
+{
+"id": "b0d4325730c3",
+"title": "atlético vs barcelona",
+"link": "https://elpais.com/deportes/futbol/2026-11-08/atletico-de-madrid-barcelona-en-directo-la-liga-en-vivo.html",
+"summary": "Atlético de Madrid - Barcelona en directo, La Liga en vivo | Fermín empata el partido antes del descanso (EL PAÍS)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgH1W_6MsC8LnZXRW7TuSrQWysSiZXj1xwbs1fcA9MSgQWdp0_q_p7UGlZGJo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-09T03:50:00+07:00",
+"traffic": "500+",
+"found": "2026-11-09T05:03:54+07:00"
+},
+{
+"id": "7c154940d235",
+"title": "harry kewell",
+"link": "https://danviet.vn/tin-toi-8-11-hlv-gong-oh-kyun-thay-harry-kewell-dan-dat-ha-noi-fc-d1473453.html",
+"summary": "Tin tối 8/11: HLV Gong Oh-kyun thay Harry Kewell dẫn dắt Hà Nội FC? (Báo Dân Việt)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJEv3s6qG8S8suyGd50vkxc_pK-kz25AxAjeqFubc1o9M_Ea51FRr1h2Zz54A",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-09T03:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-09T05:03:54+07:00"
 },
 {
 "id": "5914762900da",
@@ -317,6 +399,18 @@
 "published": "2026-11-09T03:40:00+07:00",
 "traffic": "100+",
 "found": "2026-11-09T03:59:19+07:00"
+},
+{
+"id": "730faf7ede12",
+"title": "lens đấu với marseille",
+"link": "https://bongdaplus.vn/ligue-1/nhan-dinh-bong-da-lens-vs-marseille-02h45-ngay-9-11-5283052611.html",
+"summary": "Nhận định bóng đá Lens vs Marseille, 02h45 ngày 9/11: Lens lại thua tiếp (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHgDxrsKbHiXqSVTpTIdnCJXNghy5YfJ9uHE_kwQKXjKFiTWfhqxGbRbZ6c5c",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-09T03:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-09T05:03:54+07:00"
 },
 {
 "id": "5d61ffecf63a",
@@ -799,17 +893,6 @@
 "published": "2026-11-08T23:10:00+07:00",
 "traffic": "200+",
 "found": "2026-11-08T23:43:07+07:00"
-},
-{
-"id": "b6d64fd06bdb",
-"title": "Quy Nhơn mưa lớn, vận động dân sơ tán trong đêm",
-"link": "https://kenh14.vn/quy-nhon-mua-lon-van-dong-dan-so-tan-trong-dem-215261108222301232.chn",
-"summary": "Trước tình hình mưa lớn, UBND phường Quy Nhơn, tỉnh Gia Lai khẩn trương vận động người dân tại các khu vực có nguy cơ sạt lở, đặc biệt là núi Một tiến hành di dời để đảm bảo an toàn.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/8/avatar1794151218421-17941512194432114812895.gif",
-"source": "Kenh14",
-"cat": "mxh",
-"published": "2026-11-08T23:01:51+07:00",
-"found": "2026-11-08T23:01:51+07:00"
 },
 {
 "id": "b5f464a59f44",
@@ -3174,18 +3257,6 @@
 "cat": "mxh",
 "published": "2026-11-08T11:00:00+07:00",
 "traffic": "100+",
-"found": "2026-11-08T11:24:17+07:00"
-},
-{
-"id": "bb0289bf7a5d",
-"title": "bàng vuông",
-"link": "https://dantri.com.vn/thoi-su/cay-bang-vuong-quy-o-dak-lak-bat-ngo-bi-cua-ha-nguoi-cua-cay-noi-gi-20261107125149116.htm",
-"summary": "Cây bàng vuông quý ở Đắk Lắk bất ngờ bị cưa hạ, người cưa cây nói gì? (Báo Dân trí)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUkMW1xdTEIBPtRun0y5HuEbrPvyJDa-yXNjgSnYsvz46-KHWF4eIxl0mIIA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-08T11:00:00+07:00",
-"traffic": "200+",
 "found": "2026-11-08T11:24:17+07:00"
 },
 {
@@ -11396,74 +11467,6 @@
 "cat": "mxh",
 "published": "2026-11-06T20:23:00+07:00",
 "found": "2026-11-06T13:51:36+07:00"
-},
-{
-"id": "a6bf4547cfab",
-"title": "Giá vàng nhẫn trơn, vàng miếng chiều tối 6/11 tại SJC, PNJ, Bảo Tín Minh Châu, DOJI và Bảo Tín Mạnh Hải",
-"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-6-11-tai-sjc-pnj-bao-tin-minh-chau-doji-va-bao-tin-manh-hai-188261106073345843.chn",
-"summary": "Giá vàng trong nước kết phiên 6/11 đồng loạt giảm, trong đó vàng miếng SJC mất 1,4 triệu đồng/lượng, xuống còn 141 triệu đồng/lượng ở chiều bán ra. Vàng nhẫn cũng giảm tại một số thương hiệu, trong khi SJC và DOJI giữ nguyên giá. Trên thị trường quốc tế, giá vàng giao ngay giảm…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/6/avatar1793925144049-17939251442961590950166.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-06T20:11:00+07:00",
-"found": "2026-11-06T20:48:22+07:00"
-},
-{
-"id": "e30d74423be1",
-"title": "Giúp sinh viên làm chủ tài chính số, nhận diện bẫy nợ, lừa đảo",
-"link": "https://tuoitre.vn/giup-sinh-vien-lam-chu-tai-chinh-so-nhan-dien-bay-no-lua-dao-100261106185538795.htm",
-"summary": "Chuỗi hoạt động trang bị kiến thức, kỹ năng nhận diện bẫy nợ, lừa đảo và tự chủ, quản lý tài chính cho sinh viên sẽ diễn ra tại 9 tỉnh, thành phố trong cả nước từ cuối tháng 11.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/6/17psdv60ucg6esygz5dcekfdvtymdkqww522-h390-p-k-nu1793964402823-17939652847751744419153-14-0-280-425-crop-17939655759011899762198.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-06T20:06:00+07:00",
-"found": "2026-11-06T21:41:40+07:00"
-},
-{
-"id": "f6fc5f28a156",
-"title": "Đảng Cộng hòa chia rẽ về hướng đi sau thảm bại giữa kỳ",
-"link": "https://vnexpress.net/dang-cong-hoa-chia-re-ve-huong-di-sau-tham-bai-giua-ky-5141718.html",
-"summary": "Đảng Cộng hòa chia rẽ về hướng đi sau thất bại nặng nề trong bầu cử giữa kỳ, khi một số nghị sĩ kêu gọi cải tổ toàn diện ban lãnh đạo.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/ap26305818149422-1793968193-8171-1793969442.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jmnRGb0qSEyMBkFbSuxHHw",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-06T20:00:12+07:00",
-"found": "2026-11-07T10:13:50+07:00"
-},
-{
-"id": "86a5a2bd104a",
-"title": "TP.HCM có thêm địa chỉ kết nối ý tưởng khởi nghiệp nông nghiệp",
-"link": "https://tuoitre.vn/tphcm-co-them-dia-chi-ket-noi-y-tuong-khoi-nghiep-nong-nghiep-100261106191256864.htm",
-"summary": "Trường đại học Nông Lâm TP.HCM vừa ra mắt điểm kết nối sinh viên, nhà khoa học, chuyên gia và doanh nghiệp, hướng đến đưa các ý tưởng, sáng kiến nông nghiệp vào thực tiễn, góp phần giải quyết những bài toán của nhà nông.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/6/937414455523577505893630f2557e8f67d804bb04c57cc1c011b-17939665891711983922164-90-0-1690-2560-crop-1793966919624191319808-201-20-1247-1694-crop-17939702455781154564693.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-06T20:00:00+07:00",
-"found": "2026-11-06T20:48:22+07:00"
-},
-{
-"id": "b8e2393e2129",
-"title": "phòng thủ dân sự",
-"link": "https://laodong.vn/moi-truong/du-bao-khu-vuc-mua-dong-chieu-toi-va-dem-nay-co-noi-mua-to-tren-70mm-1795606.ldo",
-"summary": "Dự báo khu vực mưa dông chiều tối và đêm nay, có nơi mưa to trên 70mm (Laodong.vn)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaAm1IUn9j_Bwjia4sXdq3K9wdzBo8UxeMHWjzHk7zaQphjug9mkYrbrSi320",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-06T20:00:00+07:00",
-"traffic": "200000+",
-"found": "2026-11-06T20:48:22+07:00"
-},
-{
-"id": "e3df57848d3f",
-"title": "shb đà nẵng",
-"link": "https://vietnamnet.vn/truc-tiep-bong-da-dong-nai-vs-da-nang-18h-ngay-6-11-2572145.html",
-"summary": "Trực tiếp bóng đá Đồng Nai vs Đà Nẵng: Chờ Công Phượng giải nguy (Báo VietNamNet)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsk3QF-bA2JpkiTTXMm_GNohb7AWKEtsgeD_M5imGY9KV6oiLskWbWYi3IcoE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-06T20:00:00+07:00",
-"traffic": "100+",
-"found": "2026-11-06T20:48:22+07:00"
 }
 ]
 }
