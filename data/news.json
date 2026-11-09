@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-10T04:56:28+07:00",
-"new": 3,
+"updated": "2026-11-10T05:35:10+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -139,6 +139,29 @@
 "bad_dates": {},
 "items": [
 {
+"id": "b0ac6edffeb3",
+"title": "Đánh thuế đất bỏ hoang: Đất chưa xây dựng ở mức nào mới áp thuế?",
+"link": "https://vietnamnet.vn/danh-thue-dat-bo-hoang-dat-chua-xay-dung-o-muc-nao-moi-ap-thue-2573001.html",
+"summary": "Để áp thuế 0,2% đối với đất bỏ hoang, theo chuyên gia, cần phân biệt hành vi cố tình găm giữ với trường hợp chậm đưa đất vào sử dụng do khách quan. Việc tính thuế cũng cần căn cứ diện tích thực tế chưa được sử dụng, thay vì đánh đồng toàn bộ dự án.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/9/danh-thue-dat-bo-hoang-dat-chua-xay-dung-o-muc-nao-moi-ap-thue-3501.jpg?width=0&s=A6QukQNYwHXqTI7_SkAB2A",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-10T05:20:00+07:00",
+"found": "2026-11-10T05:35:10+07:00"
+},
+{
+"id": "a25adccca1eb",
+"title": "kyiv",
+"link": "https://www.pbs.org/newshour/world/watch-zelenskyy-confirms-ukraine-hacked-back-after-russias-cyberattack-of-its-emergency-alert-system",
+"summary": "WATCH: Zelenskyy confirms Ukraine hacked back after Russia's cyberattack of its emergency alert system (PBS)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgA5N0lGTMz5GpTklM-wny396D6MHTIbuTO1FECHxm7C1pE_xfbeTpdxf6P6M",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-10T05:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-10T05:35:10+07:00"
+},
+{
 "id": "21afd5dff5b3",
 "title": "Công an đề nghị 523 chủ phương tiện mang biển số sau sớm nộp phạt nguội theo Nghị định 168 trong danh sách mới nhất đầu tháng 11",
 "link": "https://kenh14.vn/cong-an-de-nghi-523-chu-phuong-tien-mang-bien-so-sau-som-nop-phat-nguoi-theo-nghi-dinh-168-trong-danh-sach-moi-nhat-dau-thang-11-215261109221126015.chn",
@@ -161,6 +184,30 @@
 "found": "2026-11-09T22:33:45+07:00"
 },
 {
+"id": "6d132ecbc3bd",
+"title": "đội tuyển bóng đá u 23 quốc gia thái lan",
+"link": "https://www.24h.com.vn/bong-da/nhan-dinh-bong-da-u23-viet-nam-u23-thai-lan-so-tai-nay-lua-tai-pho-nui-c48a1809585.html",
+"summary": "Nhận định bóng đá U23 Việt Nam - U23 Thái Lan: So tài nảy lửa tại Phố Núi (Tin tức 24h)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5GFYDqjXBuksr1Yog1bcHwF6ujd9qEHtBVtvMTYwkyXfeDUIW0jxMssAHLmc",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-10T05:00:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-10T05:35:10+07:00"
+},
+{
+"id": "fe42aaf3565c",
+"title": "tin tuc",
+"link": "https://vnexpress.net/ong-trump-thua-nhan-chinh-sach-siet-nhap-cu-qua-cung-ran-5142348.html",
+"summary": "Ông Trump thừa nhận chính sách siết nhập cư 'quá cứng rắn' (VnExpress)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfpkNtpDt7zbq68Q_YWLwGuXMCUpF4A1tuQLi4djJn4Kr5h4omC_wW0kr1iDI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-10T05:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-10T05:35:10+07:00"
+},
+{
 "id": "3ba774c02965",
 "title": "Quy tập hơn 1.000 bộ hài cốt liệt sĩ tại Công viên Lê Thị Riêng",
 "link": "https://kenh14.vn/quy-tap-hon-1000-bo-hai-cot-liet-si-tai-cong-vien-le-thi-rieng-21526110921034548.chn",
@@ -181,6 +228,30 @@
 "cat": "mxh",
 "published": "2026-11-10T04:51:00+07:00",
 "found": "2026-11-09T22:33:45+07:00"
+},
+{
+"id": "2f0299edff8c",
+"title": "máy bay",
+"link": "https://vnexpress.net/may-bay-quan-su-nga-bi-mat-toi-israel-5142429.html",
+"summary": "Máy bay quân sự Nga 'bí mật tới Israel' (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiLAYEIW6Puc4r_QgE6o5xUmMNZWx2G3sug_fDPu-I6WCVYx9lJ2wMA3lO2oM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-10T04:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-10T05:35:10+07:00"
+},
+{
+"id": "ba8330ca1070",
+"title": "câu lạc bộ bóng đá arsenal",
+"link": "https://www.24h.com.vn/bong-da/arsenal-chap-hang-cong-van-thong-tri-ngoai-hang-anh-ai-can-duoc-arteta-c48a1809427.html",
+"summary": "Arsenal \"chấp” hàng công vẫn thống trị Ngoại hạng Anh, ai cản được Arteta? (Tin tức 24h)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOGDAkt-S3kDfTHhdNdyUxG32M5CaIZXsJun69aynv5J8HHgNT6stvAVVuItU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-10T04:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-10T05:35:10+07:00"
 },
 {
 "id": "9253c9855a06",
@@ -216,6 +287,18 @@
 "cat": "mxh",
 "published": "2026-11-10T04:23:00+07:00",
 "found": "2026-11-09T21:36:02+07:00"
+},
+{
+"id": "32233e98ca0e",
+"title": "thép",
+"link": "https://www.sggp.org.vn/no-nha-may-thep-o-tho-nhi-ky-6-nguoi-thiet-mang-8-nguoi-mac-ket-post880909.html",
+"summary": "Nổ nhà máy thép ở Thổ Nhĩ Kỳ, 6 người thiệt mạng, 8 người mắc kẹt (BÁO SÀI GÒN GIẢI PHÓNG)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZcwY6YyKQg75_Iy5op0AHyjoFXbneXJX2baEC4l0G3iN2eFA5ks4xjN7BOQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-10T04:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-10T05:35:10+07:00"
 },
 {
 "id": "1ab84de9d487",
@@ -271,6 +354,18 @@
 "cat": "mxh",
 "published": "2026-11-10T03:34:00+07:00",
 "found": "2026-11-09T21:36:02+07:00"
+},
+{
+"id": "24901a8df15f",
+"title": "xe cơ giới",
+"link": "https://trends.google.com/trending/rss?geo=VN",
+"summary": "",
+"image": "",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-10T03:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-10T05:35:10+07:00"
 },
 {
 "id": "e503c1c344ae",
@@ -3592,18 +3687,6 @@
 "source": "CafeF",
 "cat": "tc",
 "published": "2026-11-09T12:12:00+07:00",
-"found": "2026-11-09T12:39:34+07:00"
-},
-{
-"id": "428b9075513c",
-"title": "đội tuyển bóng đá u 23 quốc gia thái lan",
-"link": "https://znews.vn/mot-cau-thu-viet-kieu-roi-u23-viet-nam-post1695173.html",
-"summary": "Một cầu thủ Việt kiều rời U23 Việt Nam (Znews)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9PUQugK0J0UbiZ8QQSY2EUZGzHxjx4sdB8WGJVlssHaCVpk8B_injaGZ9wSI",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-09T12:10:00+07:00",
-"traffic": "2000+",
 "found": "2026-11-09T12:39:34+07:00"
 },
 {
@@ -10634,18 +10717,6 @@
 "found": "2026-11-08T11:24:17+07:00"
 },
 {
-"id": "85feb0e2afe3",
-"title": "câu lạc bộ bóng đá arsenal",
-"link": "https://bongda.com.vn/so-phan-6-sao-roi-arsenal-he-qua-ke-len-huong-nguoi-lan-dan-d854070.html",
-"summary": "Số phận 6 sao rời Arsenal hè qua: Kẻ lên hương, người lận đận (bongda.com.vn)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKCJNEpABH02paagMbUCLelsTOz_2I_JyoDmDasH34g4WCkljCBX-bSC-Ty3o",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-08T05:50:00+07:00",
-"traffic": "100+",
-"found": "2026-11-08T06:27:15+07:00"
-},
-{
 "id": "c7907b89b0ac",
 "title": "trại giam a2",
 "link": "https://vnexpress.net/pham-nhan-cuoi-cung-tron-trai-giam-o-khanh-hoa-bi-bat-5140209.html",
@@ -11350,74 +11421,6 @@
 "published": "2026-11-08T00:50:00+07:00",
 "traffic": "500+",
 "found": "2026-11-08T01:51:01+07:00"
-},
-{
-"id": "77428ae43c69",
-"title": "Nhà mái chéo 350 m2 thiết kế không cần điều hòa",
-"link": "https://vnexpress.net/nha-mai-cheo-350-m2-thiet-ke-khong-can-dieu-hoa-5140820.html",
-"summary": "Ngôi nhà sử dụng kết cấu bê tông, thép và gỗ, kết hợp hệ cửa kính để tận dụng ánh sáng, thông gió tự nhiên.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/1-1793785937.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=c-9riyt29xwUEQKUT4E6sw",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-08T00:41:16+07:00",
-"found": "2026-11-08T01:12:06+07:00"
-},
-{
-"id": "80d604e2bb27",
-"title": "manchester city",
-"link": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-and-manchester-city-in-action-fa-cup-first-round-news-and-more-matchday-live",
-"summary": "Arsenal and Manchester City in action, FA Cup first round news: matchday live – as it happened (The Guardian)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJNvq1kcGUfU6G81gr06PKKNLklOrxXR2s-RSqQykVejXS4xkkpumf6BKa16U",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-08T00:40:00+07:00",
-"traffic": "100+",
-"found": "2026-11-08T01:12:06+07:00"
-},
-{
-"id": "8fcbd45db4a4",
-"title": "Novaland đặt mục tiêu doanh thu hơn 20 tỷ USD, gấp 8 lần dư nợ",
-"link": "https://vnexpress.net/novaland-dat-muc-tieu-doanh-thu-hon-20-ty-usd-gap-8-lan-du-no-5142014.html",
-"summary": "Novaland lên kế hoạch ghi nhận hơn 516.800 tỷ đồng doanh thu từ các dự án trọng điểm đến năm 2030, gấp 8 lần tổng dư nợ 61.900 tỷ đồng.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/07/imgdf6aa4ce-jpeg-1794066968-6884-1794067088.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GFtAZZdblMSOiSf1dCwCGQ",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-08T00:23:58+07:00",
-"found": "2026-11-08T00:40:25+07:00"
-},
-{
-"id": "748327ce3033",
-"title": "thứ hạng của blackburn gặp west ham",
-"link": "https://www.bbc.com/sport/football/live/cq4g13kl9x6gt",
-"summary": "Blackburn Rovers v West Ham United: Championship stats & head-to-head (BBC)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqD2eOFIUFDU_N7s6zMQ5brdQksRGhDLxYpO-Q8Q6aw45RcOt5yx4LQjPTxmY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-08T00:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-08T02:29:37+07:00"
-},
-{
-"id": "cc6832cb458e",
-"title": "Truy tìm thân nhân người đàn ông tử vong trên sông Kênh Đôi",
-"link": "https://kenh14.vn/truy-tim-than-nhan-nguoi-dan-ong-tu-vong-tren-song-kenh-doi-215261107164426162.chn",
-"summary": "Công an đang truy tìm thân nhân người đàn ông tử vong ở tại sông Kênh Đôi phía sau nhà số 2556 đường Phạm Thế Hiển, phường Bình Đông, TP.HCM.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/7/avatar1794044623485-1794044625471186708653.jpg",
-"source": "Kenh14",
-"cat": "mxh",
-"published": "2026-11-08T00:19:00+07:00",
-"found": "2026-11-07T18:04:35+07:00"
-},
-{
-"id": "0b7a5fb025e5",
-"title": "Human Act Now: Biến khát vọng người trẻ thành sức mạnh tạo tác động",
-"link": "https://kenh14.vn/human-act-now-bien-khat-vong-nguoi-tre-thanh-suc-manh-tao-tac-dong-21526110716450628.chn",
-"summary": "Human Act Now xây dựng một hành trình để người trẻ đi từ gặp gỡ, học hỏi, trải nghiệm đến hành động, kết nối và tạo tác động.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/7/avatar1794044632225-17940446325491338616049.jpeg",
-"source": "Kenh14",
-"cat": "mxh",
-"published": "2026-11-08T00:18:00+07:00",
-"found": "2026-11-07T18:04:35+07:00"
 }
 ]
 }
