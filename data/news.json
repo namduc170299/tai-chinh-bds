@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-11T04:12:25+07:00",
-"new": 5,
+"updated": "2026-11-11T04:48:43+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -139,6 +139,17 @@
 "bad_dates": {},
 "items": [
 {
+"id": "a1438a73ea54",
+"title": "Nước lũ cuồn cuộn đổ về, nhấn chìm nhiều máy móc thi công cầu ở Khánh Hòa",
+"link": "https://kenh14.vn/nuoc-lu-cuon-cuon-do-ve-nhan-chim-nhieu-may-moc-thi-cong-cau-o-khanh-hoa-215261110213123875.chn",
+"summary": "Mưa lớn kéo dài, nước lũ từ thượng nguồn đổ về cuồn cuộn, nhấn chìm nhiều máy móc phục vụ thi công cầu Thác Ngựa (Khánh Hòa).",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/10/avatar1794321060946-17943210613831654525601.webp",
+"source": "Kenh14",
+"cat": "mxh",
+"published": "2026-11-11T05:27:00+07:00",
+"found": "2026-11-10T22:56:32+07:00"
+},
+{
 "id": "36bda98c07de",
 "title": "Biên phòng An Giang bắt người đàn ông vận chuyển 4.000 tờ tiền qua biên giới",
 "link": "https://kenh14.vn/bien-phong-an-giang-bat-nguoi-dan-ong-van-chuyen-4000-to-tien-qua-bien-gioi-215261110212905808.chn",
@@ -183,6 +194,66 @@
 "found": "2026-11-10T22:12:51+07:00"
 },
 {
+"id": "5ac737e949b7",
+"title": "nga",
+"link": "https://dantri.com.vn/the-gioi/thong-diep-cua-tong-thong-nga-truoc-cuoc-dam-phan-voi-my-va-ukraine-20261109174612683.htm",
+"summary": "Thông điệp của Tổng thống Nga trước cuộc đàm phán với Mỹ và Ukraine (Báo Dân trí)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQecqRmK_BL4fzPzOZgkvTnQgrW_3O1jmYUsENalH5fNw7pkHBIYorocHxqI84",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-11T04:30:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-11T04:48:43+07:00"
+},
+{
+"id": "a59d917f564a",
+"title": "định danh",
+"link": "https://cafef.vn/thong-bao-moi-tu-cong-an-ve-can-cuoc-vneid-tat-ca-nguoi-dan-chu-y-188261110142430772.chn",
+"summary": "Thông báo mới từ công an về căn cước, VNeID, tất cả người dân chú ý (CafeF)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJeKe624hwLzatqysZ1BM3NPtJqT0HpC-wghUcLhUktdNL5FH2gX41bc8eKug",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-11T04:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-11T04:48:43+07:00"
+},
+{
+"id": "d43d665a29cf",
+"title": "mưa",
+"link": "https://laodong.vn/video/du-bao-cac-khu-vuc-tiep-tuc-co-mua-to-den-dem-1111-co-noi-tren-350mm-1798203.ldo",
+"summary": "Dự báo các khu vực tiếp tục có mưa to đến đêm 11.11, có nơi trên 350mm (Laodong.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGhr2bFQ0BvSaMP7_xPs96MTvUmKKPRi5FyuuP-K005CODdnoGoQZCcHvaIFo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-11T04:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-11T04:48:43+07:00"
+},
+{
+"id": "8302416ee506",
+"title": "giá xăng dầu",
+"link": "https://vnexpress.net/thanh-tra-cong-ty-xang-dau-thanh-binh-chuyen-48-100-ty-dong-qua-cong-ty-ma-5142815.html",
+"summary": "Thanh tra: Công ty xăng dầu Thanh Bình chuyển 48.100 tỷ đồng qua công ty 'ma' (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStXHRoTcBITiNTG55tq0wEVxh5lFd_CXz_dwRDGlEU8SdE_WiVPq0UUeubhds",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-11T04:20:00+07:00",
+"traffic": "10000+",
+"found": "2026-11-11T04:48:43+07:00"
+},
+{
+"id": "b7897e1c4670",
+"title": "đội tuyển bóng đá quốc gia bồ đào nha",
+"link": "https://znews.vn/cau-thu-bo-dao-nha-tu-choi-lay-ao-so-7-cua-ronaldo-post1695338.html",
+"summary": "Cầu thủ Bồ Đào Nha từ chối lấy áo số 7 của Ronaldo (Znews)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJGFQGYgsR6H8pz8P32y-4BNDhHN_jwoHJOhnpV2MqYxtoT1Ca836MFhlMpEI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-11T04:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-11T04:48:43+07:00"
+},
+{
 "id": "8488b0bbb1fd",
 "title": "Nếu nghỉ ngày 27/7, người lao động có thêm quyền lợi gì?",
 "link": "https://kenh14.vn/neu-nghi-ngay-27-7-nguoi-lao-dong-co-them-quyen-loi-gi-215261110194025674.chn",
@@ -203,6 +274,18 @@
 "cat": "mxh",
 "published": "2026-11-11T04:09:00+07:00",
 "found": "2026-11-10T21:26:22+07:00"
+},
+{
+"id": "138e22a1a7e6",
+"title": "eo biển",
+"link": "https://vnexpress.net/iran-tuyen-bo-he-thong-ho-tro-dinh-vi-o-hormuz-da-bi-pha-huy-5142431.html",
+"summary": "Iran tuyên bố hệ thống hỗ trợ định vị ở Hormuz đã bị phá hủy (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPc0-tKHie2yQBYd6T2uDE0e_a9wY48e-VG15P1KWUnCo154cuG1CQYkTCeZE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-11T04:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-11T04:48:43+07:00"
 },
 {
 "id": "5ac32c437238",
@@ -248,7 +331,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-11T03:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-11T04:12:25+07:00"
 },
 {
@@ -788,17 +871,6 @@
 "cat": "mxh",
 "published": "2026-11-10T23:03:00+07:00",
 "found": "2026-11-10T16:30:20+07:00"
-},
-{
-"id": "a1438a73ea54",
-"title": "Nước lũ cuồn cuộn đổ về, nhấn chìm nhiều máy móc thi công cầu ở Khánh Hòa",
-"link": "https://kenh14.vn/nuoc-lu-cuon-cuon-do-ve-nhan-chim-nhieu-may-moc-thi-cong-cau-o-khanh-hoa-215261110213123875.chn",
-"summary": "Mưa lớn kéo dài, nước lũ từ thượng nguồn đổ về cuồn cuộn, nhấn chìm nhiều máy móc phục vụ thi công cầu Thác Ngựa (Khánh Hòa).",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/10/avatar1794321060946-17943210613831654525601.webp",
-"source": "Kenh14",
-"cat": "mxh",
-"published": "2026-11-10T22:56:32+07:00",
-"found": "2026-11-10T22:56:32+07:00"
 },
 {
 "id": "e49a36281ecd",
@@ -5855,18 +5927,6 @@
 "found": "2026-11-10T06:19:55+07:00"
 },
 {
-"id": "107cdf68f59e",
-"title": "nga",
-"link": "https://dantri.com.vn/the-gioi/thong-diep-cua-tong-thong-nga-truoc-cuoc-dam-phan-voi-my-va-ukraine-20261109174612683.htm",
-"summary": "Thông điệp của Tổng thống Nga trước cuộc đàm phán với Mỹ và Ukraine (Báo Dân trí)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQecqRmK_BL4fzPzOZgkvTnQgrW_3O1jmYUsENalH5fNw7pkHBIYorocHxqI84",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-10T05:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-10T06:19:55+07:00"
-},
-{
 "id": "7344c7b9bb74",
 "title": "giá heo hơi",
 "link": "https://laodong.vn/thi-truong/gia-heo-hoi-hom-nay-911-tang-giam-trai-chieu-cao-nhat-chi-con-48000-dongkg-1797132.ldo",
@@ -5965,18 +6025,6 @@
 "link": "https://svvn.tienphong.vn/hong-dao-xuc-dong-mang-ky-uc-bao-benh-len-phim-roi-nuoc-mat-nhin-thay-bong-dang-con-gai-ruot-qua-anh-mat-phuong-anh-dao-post1892869.tpo",
 "summary": "Hồng Đào xúc động mang ký ức bạo bệnh lên phim, rơi nước mắt nhìn thấy bóng dáng con gái ruột qua ánh mắt Phương Anh Đào (Báo Tiền Phong)",
 "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqFsLgFNZBNumUy3tqVjBcQaAGAVZ3ubSeEWOGNe3EzW--LQTMJeinAazNbXo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-10T05:10:00+07:00",
-"traffic": "100+",
-"found": "2026-11-10T06:19:55+07:00"
-},
-{
-"id": "20ef065b311e",
-"title": "đội tuyển bóng đá quốc gia bồ đào nha",
-"link": "https://znews.vn/cau-thu-bo-dao-nha-tu-choi-lay-ao-so-7-cua-ronaldo-post1695338.html",
-"summary": "Cầu thủ Bồ Đào Nha từ chối lấy áo số 7 của Ronaldo (Znews)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJGFQGYgsR6H8pz8P32y-4BNDhHN_jwoHJOhnpV2MqYxtoT1Ca836MFhlMpEI",
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-10T05:10:00+07:00",
@@ -11268,50 +11316,6 @@
 "published": "2026-11-09T07:40:00+07:00",
 "traffic": "100+",
 "found": "2026-11-09T08:50:36+07:00"
-},
-{
-"id": "7dd08126a1a1",
-"title": "Từ lưới đánh cá cũ thành túi xanh",
-"link": "https://tuoitre.vn/tu-luoi-danh-ca-cu-thanh-tui-xanh-100261108222943135.htm",
-"summary": "Những chiếc túi EcoNet làm từ lưới đánh cá đã qua sử dụng tại Ngày hội Việt Nam Xanh 2026 không chỉ mang đến lựa chọn tiêu dùng thân thiện với môi trường mà còn góp phần tạo thêm thu nhập cho cộng đồng địa phương.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/8/lsp-17941513834181875269402-203-346-1356-2191-crop-1794151508642331223211.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-09T07:39:00+07:00",
-"found": "2026-11-09T08:50:36+07:00"
-},
-{
-"id": "27b6f4a8c841",
-"title": "Trước khi gửi ý kiến trên mạng xã hội, xin chậm lại vài giây",
-"link": "https://tuoitre.vn/truoc-khi-gui-y-kien-tren-mang-xa-hoi-xin-cham-lai-vai-giay-100261107182342518.htm",
-"summary": "Mỗi ngày, chúng ta có thể bắt gặp trên mạng xã hội một đoạn clip ngắn, một dòng trạng thái gây tranh cãi hay câu chuyện về một người vừa vướng tai tiếng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/7/togrb4kn35ir5fbth3h6xn32b4-1787552746983678168532-17900479419241958088384-0-0-456-730-crop-17940516101661065531151.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-09T07:30:00+07:00",
-"found": "2026-11-09T08:50:36+07:00"
-},
-{
-"id": "b1ffca98f562",
-"title": "Ngắm 10 không gian trải nghiệm xanh ấn tượng nhất Ngày hội Việt Nam Xanh 2026",
-"link": "https://tuoitre.vn/ngam-10-khong-gian-trai-nghiem-xanh-an-tuong-nhat-ngay-hoi-viet-nam-xanh-2026-100261108225338697.htm",
-"summary": "Sau hai ngày diễn ra tại công viên Phan Đình Phùng, Ngày hội Việt Nam Xanh 2026 khép lại với hàng chục ngàn lượt khách tham quan. Tại buổi bế mạc, những không gian trải nghiệm ấn tượng đã được vinh danh.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/8/179413600028434798897734917640293479889773491764029735f57cacd27f28e54dd37614b58b32d-1794149804762241718430-45-0-1645-2560-crop-17941528289211294757966.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-09T07:29:00+07:00",
-"found": "2026-11-09T08:50:36+07:00"
-},
-{
-"id": "76cd43713436",
-"title": "Áp lực giảm giá vàng còn lớn do triển vọng lãi suất cao hơn lâu hơn",
-"link": "https://vneconomy.vn/ap-luc-giam-gia-vang-con-lon-do-trien-vong-lai-suat-cao-hon-lau-hon.htm",
-"summary": "Tuần này, các báo cáo lạm phát Mỹ có thể tác động đáng kể tới đường đi của giá vàng...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/09/b9162809d4cb46bd946fa648ef7f47fb-133895.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-09T07:27:19+07:00",
-"found": "2026-11-09T07:36:40+07:00"
 }
 ]
 }
