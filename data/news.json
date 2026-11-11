@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-12T04:39:37+07:00",
-"new": 7,
+"updated": "2026-11-12T05:33:37+07:00",
+"new": 13,
 "sources": [
 {
 "name": "VnExpress",
@@ -112,7 +112,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -139,6 +139,74 @@
 "bad_dates": {},
 "items": [
 {
+"id": "ec532652ceed",
+"title": "Xã Thường Tín di chuyển xong 1.000 ngôi mộ nằm trong dự án Khu đô thị thể thao quốc tế Hà Nội",
+"link": "https://kenh14.vn/xa-thuong-tin-di-chuyen-xong-1000-ngoi-mo-nam-trong-du-an-khu-do-thi-the-thao-quoc-te-ha-noi-215261111210728999.chn",
+"summary": "Đến thời điểm này, xã Thường Tín là một trong các xã của thành phố Hà Nội đang nỗ lực từng bước hoàn thành việc di dời mộ chí nằm trong chỉ giới đường đỏ, phục vụ công tác giải phóng mặt bằng (GPMB) dự án Khu đô thị thể thao quốc tế Hà Nội.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/11/avatar1794406019974-17944060204401725782820.jpg",
+"source": "Kenh14",
+"cat": "mxh",
+"published": "2026-11-12T05:52:00+07:00",
+"found": "2026-11-11T23:19:23+07:00"
+},
+{
+"id": "97a99dcce17d",
+"title": "&apos;Lúc khó khăn, doanh nghiệp giảm được 1 đồng chi phí cũng quý&apos;",
+"link": "https://vietnamnet.vn/luc-kho-khan-doanh-nghiep-giam-1-dong-chi-phi-dau-vao-cung-quy-2573913.html",
+"summary": "Đó là nhận định của lãnh đạo Tập đoàn Quốc tế Mỹ Việt khi đề cập đến chuyện giá điện giảm 2%, lãi vay hạ và thuế tiêu thụ đặc biệt với xăng về 0%, giúp doanh nghiệp giảm chi phí đầu vào, có thêm vốn xoay vòng, chủ động sản xuất và ổn định giá bán.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/11/luc-kho-khan-doanh-nghiep-giam-duoc-1-dong-chi-phi-dau-vao-cung-quy-3284.jpg?width=0&s=Cz--HWm8mnFEqFO8sVF0Hw",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-12T05:30:00+07:00",
+"found": "2026-11-12T05:33:37+07:00"
+},
+{
+"id": "56ab09bb6e65",
+"title": "Lợi nhuận lao dốc, Bkav Pro tiếp tục khất nợ 161 tỷ đồng gốc trái phiếu",
+"link": "https://vietnamnet.vn/bkav-pro-cua-ong-nguyen-tu-quang-cham-tra-lai-goc-trai-phieu-2573849.html",
+"summary": "Bkav Pro do ông Nguyễn Tử Quảng điều hành tiếp tục chưa hoàn thành nghĩa vụ thanh toán gốc và lãi trái phiếu. Tình trạng này diễn ra trong bối cảnh lợi nhuận doanh nghiệp suy giảm mạnh, một số khoản phải thu quá hạn và áp lực tài chính kéo dài.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/11/loi-nhuan-lao-doc-bkav-pro-tiep-tuc-khat-no-161-ty-dong-goc-trai-phieu-3461.jpg?width=0&s=fbnYOcEVcrIgPkM_vhKwgA",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-12T05:15:00+07:00",
+"found": "2026-11-12T05:33:37+07:00"
+},
+{
+"id": "c24d3895b334",
+"title": "mười hai con giáp",
+"link": "https://cafef.vn/3-con-giap-don-van-may-lien-tiep-trong-3-thang-toi-tien-bac-khoi-sac-cong-viec-hanh-thong-tin-vui-noi-duoi-nhau-den-188261111114035373.chn",
+"summary": "3 con giáp đón vận may liên tiếp trong 3 tháng tới: Tiền bạc khởi sắc, công việc hanh thông, tin vui nối đuôi nhau đến (CafeF)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3gwDiau0mc4Jfk3w3GzUkhAfdzjO_IbqG_AYq-oVQKt41R9vxuv0NjSv2HU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-12T05:10:00+07:00",
+"traffic": "500+",
+"found": "2026-11-12T05:33:37+07:00"
+},
+{
+"id": "8efdc0653fe8",
+"title": "pin điện",
+"link": "https://vnexpress.net/gia-tran-phat-dien-tu-pin-luu-tru-hon-3-200-dong-mot-kwh-5143560.html",
+"summary": "Giá trần phát điện từ pin lưu trữ hơn 3.200 đồng một kWh (VnExpress)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxOWUf8ulWjNxbt3VNNF19pTk_q4YfVXSdBew0vNrUG3Czje5b4CYsxXdjxw0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-12T05:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-12T05:33:37+07:00"
+},
+{
+"id": "776e155ccf79",
+"title": "Tỷ phú Bill Gates còn nắm những cổ phiếu Việt Nam nào?",
+"link": "https://cafef.vn/ty-phu-bill-gates-con-nam-nhung-co-phieu-viet-nam-nao-188261111224500984.chn",
+"summary": "Quỹ tín thác đầu tư gắn với tỷ phú Bill Gates vẫn còn nắm giữ cổ phần tại hàng loạt doanh nghiệp Việt Nam.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/11/avatar1794411870274-179441187083418280581.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-12T05:05:00+07:00",
+"found": "2026-11-12T05:33:37+07:00"
+},
+{
 "id": "669143e863e6",
 "title": "Không nằm dưới biển, Việt Nam có \"tàu ngầm\" giữa sườn núi, bên trong là nhà hàng 150 chỗ, mở cửa năm 2026",
 "link": "https://kenh14.vn/khong-nam-duoi-bien-viet-nam-co-tau-ngam-giua-suon-nui-ben-trong-la-nha-hang-150-cho-mo-cua-nam-2026-215261111220601615.chn",
@@ -148,6 +216,66 @@
 "cat": "mxh",
 "published": "2026-11-12T04:58:00+07:00",
 "found": "2026-11-11T22:26:05+07:00"
+},
+{
+"id": "a6af3f4ee179",
+"title": "scott mctominay",
+"link": "https://www.skysports.com/football/news/13610728/scott-mctominay-scotland-midfielder-had-heart-shocked-two-days-before-world-cup-opener-against-haiti",
+"summary": "Scott McTominay: Scotland midfielder had heart 'shocked' two days before World Cup opener against Haiti (Sky Sports)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT36qn-oCFbNqphZo1F3kFolwEWVtzlFAG5NqkQZK_1YnJBqGzH3JeXjj6HwVg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-12T04:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-12T05:33:37+07:00"
+},
+{
+"id": "b538c615a6fe",
+"title": "đội tuyển bóng đá u 23 quốc gia thái lan",
+"link": "https://vnexpress.net/truc-tiep-u23-viet-nam-vs-thai-lan-5143084-tong-thuat.html",
+"summary": "Việt Nam thắng đậm Thái Lan ở giải giao hữu U23 (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlnrvRUrH995SKwD8-14EXxES_ayJMiPrH8zxX2N27xY6p7JTuOBBOajLeYAo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-12T04:50:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-12T05:33:37+07:00"
+},
+{
+"id": "f5b561183376",
+"title": "đội tuyển bóng đá quốc gia bồ đào nha",
+"link": "https://vnexpress.net/eder-dong-gop-cua-ronaldo-la-khong-the-dong-dem-5143279.html",
+"summary": "Eder: 'Đóng góp của Ronaldo là không thể đong đếm' (VnExpress)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYi4r-4NIJEjWAO-TjFcDR5ipfTdIjxhHlD1QK1ZC7wZEDX_qYKMdYyFzaG6g",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-12T04:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-12T05:33:37+07:00"
+},
+{
+"id": "f21cf37f59ce",
+"title": "mất điện",
+"link": "https://voh.com.vn/xa-hoi/lich-cup-dien-ngay-1211-679471.html",
+"summary": "Lịch cúp điện ngày 12/11 (VOH)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3ZAuZyW3sAqamOCgBCT1BMlnueA6YyMBjh2khM8-twPPLRpyk7ibO7sTa1DQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-12T04:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-12T05:33:37+07:00"
+},
+{
+"id": "cd516613e61e",
+"title": "bắt giữ",
+"link": "https://vnexpress.net/vff-dinh-chi-vo-thoi-han-nhom-ban-do-cua-clb-long-an-5143417.html",
+"summary": "VFF đình chỉ vô thời hạn nhóm bán độ của CLB Long An (VnExpress)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSwwKY8mr-xmKd2BTSx3Q8oEu6n9_CzahJ1MAMUlGqIy6xtQ-yJk6aQQ_VVHs",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-12T04:40:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-12T05:33:37+07:00"
 },
 {
 "id": "7c0239cb68e4",
@@ -172,6 +300,30 @@
 "found": "2026-11-12T04:39:37+07:00"
 },
 {
+"id": "24499d59647a",
+"title": "giá dầu",
+"link": "https://laodong.vn/thi-truong/cap-nhat-gia-xang-dau-ngay-1111-dao-chieu-tang-1798839.ldo",
+"summary": "Cập nhật giá xăng dầu ngày 11.11: Đảo chiều tăng (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQx3cUEHGujqwguIf1P_UyWp5wFd8c5S_ayLhpkKd3rXry8080zfU2EFmAr2Rs",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-12T04:30:00+07:00",
+"traffic": "500+",
+"found": "2026-11-12T05:33:37+07:00"
+},
+{
+"id": "c9c7ad105514",
+"title": "văn hóa việt nam",
+"link": "https://laodong.vn/du-lich/short-video/trai-nghiem-khong-the-bo-lo-o-sa-pa-dip-ngay-van-hoa-viet-nam-1798388.html",
+"summary": "Trải nghiệm không thể bỏ lỡ ở Sa Pa dịp Ngày Văn hóa Việt Nam (Laodong.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQqG4tI2976bmOnh4gfvzXoatUy_HnGEktifhNu6bwkhFR9mbZwgVeQ9ivV0s",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-12T04:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-12T05:33:37+07:00"
+},
+{
 "id": "27b599299f10",
 "title": "siêu dự án",
 "link": "https://cafef.vn/phat-hien-1-doanh-nghiep-viet-mang-hon-6000-tan-thiet-bi-sang-trung-dong-phuc-vu-sieu-du-an-17-ty-usd-lai-9-thang-vuot-500-ke-hoach-ca-nam-188261109104232347.chn",
@@ -182,6 +334,18 @@
 "published": "2026-11-12T04:20:00+07:00",
 "traffic": "200+",
 "found": "2026-11-12T04:39:37+07:00"
+},
+{
+"id": "6645bbe17f70",
+"title": "jorge jesus",
+"link": "https://www.sporttv.pt/noticias/872230/nem-a-tempestade-trava-jesus",
+"summary": "Nem a tempestade trava Jesus (Sport TV)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgKL4S86iM62jQ3whMiDj2fItPCmQRwdVZ2HGzH-64YZLQIp5GzyzG-a03gIY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-12T04:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-12T05:33:37+07:00"
 },
 {
 "id": "c2563380fec2",
@@ -706,17 +870,6 @@
 "cat": "mxh",
 "published": "2026-11-11T23:27:00+07:00",
 "found": "2026-11-11T17:23:29+07:00"
-},
-{
-"id": "ec532652ceed",
-"title": "Xã Thường Tín di chuyển xong 1.000 ngôi mộ nằm trong dự án Khu đô thị thể thao quốc tế Hà Nội",
-"link": "https://kenh14.vn/xa-thuong-tin-di-chuyen-xong-1000-ngoi-mo-nam-trong-du-an-khu-do-thi-the-thao-quoc-te-ha-noi-215261111210728999.chn",
-"summary": "Đến thời điểm này, xã Thường Tín là một trong các xã của thành phố Hà Nội đang nỗ lực từng bước hoàn thành việc di dời mộ chí nằm trong chỉ giới đường đỏ, phục vụ công tác giải phóng mặt bằng (GPMB) dự án Khu đô thị thể thao quốc tế Hà Nội.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/11/avatar1794406019974-17944060204401725782820.jpg",
-"source": "Kenh14",
-"cat": "mxh",
-"published": "2026-11-11T23:19:23+07:00",
-"found": "2026-11-11T23:19:23+07:00"
 },
 {
 "id": "7c9b10a29a68",
@@ -6426,18 +6579,6 @@
 "found": "2026-11-11T06:07:04+07:00"
 },
 {
-"id": "687230af485f",
-"title": "mười hai con giáp",
-"link": "https://ngoisao.vnexpress.net/tu-vi-12-con-giap-tiet-lap-dong-5142980.html",
-"summary": "Tử vi 12 con giáp tiết Lập Đông: 4 con giáp may mắn nhất tiết Lập Đông (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNj8-KfuQ945pmsT_e7tiQxLLIqun8-xt4-04MOLiGBCm-MXQRiDdAS2yJXWM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-11T05:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-11T06:07:04+07:00"
-},
-{
 "id": "1f5dc6897c12",
 "title": "harry kane",
 "link": "https://vnexpress.net/kane-bi-loai-messi-co-ten-trong-doi-hinh-hay-nhat-nam-5142667.html",
@@ -6689,18 +6830,6 @@
 "cat": "mxh",
 "published": "2026-11-11T04:20:00+07:00",
 "traffic": "5000+",
-"found": "2026-11-11T04:48:43+07:00"
-},
-{
-"id": "b7897e1c4670",
-"title": "đội tuyển bóng đá quốc gia bồ đào nha",
-"link": "https://znews.vn/cau-thu-bo-dao-nha-tu-choi-lay-ao-so-7-cua-ronaldo-post1695338.html",
-"summary": "Cầu thủ Bồ Đào Nha từ chối lấy áo số 7 của Ronaldo (Znews)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJGFQGYgsR6H8pz8P32y-4BNDhHN_jwoHJOhnpV2MqYxtoT1Ca836MFhlMpEI",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-11T04:20:00+07:00",
-"traffic": "500+",
 "found": "2026-11-11T04:48:43+07:00"
 },
 {
@@ -11189,130 +11318,6 @@
 "cat": "mxh",
 "published": "2026-11-10T09:29:52+07:00",
 "found": "2026-11-10T15:35:19+07:00"
-},
-{
-"id": "76cbf48aa41f",
-"title": "Tập đoàn Nhật sắp mua 5% vốn MSR kinh doanh khoáng sản ra sao?",
-"link": "https://tuoitre.vn/tap-doan-nhat-sap-mua-5-von-msr-kinh-doanh-khoang-san-ra-sao-100261109220407989.htm",
-"summary": "Bên cạnh các thương vụ đầu tư tại Việt Nam, Sojitz còn kinh doanh đất hiếm từ thập niên 1960, đang phân phối độc quyền đất hiếm từ một mỏ ở Úc vào Nhật và vừa quyết định đầu tư sản xuất gali.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/9/20261109-sojitz-anh-dai-dien-logo-1794236209725193427076-0-119-850-1479-crop-17942362462001474477194.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-10T09:22:00+07:00",
-"found": "2026-11-10T11:20:07+07:00"
-},
-{
-"id": "07adf2d6381d",
-"title": "đường hồ chí minh",
-"link": "https://dantri.com.vn/thoi-su/nuoc-lu-do-xuong-duong-ho-chi-minh-luc-luong-chuc-nang-tuc-truc-xuyen-dem-20261110062619964.htm",
-"summary": "Nước lũ đổ xuống đường Hồ Chí Minh, lực lượng chức năng túc trực xuyên đêm (Báo Dân trí)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGenx6ScldrPNyNQdBfUZTudSJpWXBJFWhujuEg9O8-zVWbs9atggTBM_L_qM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-10T09:20:00+07:00",
-"traffic": "200+",
-"found": "2026-11-10T09:37:35+07:00"
-},
-{
-"id": "05909648110e",
-"title": "Khỏe cây, sạch bệnh để mùa hái quả bội thu",
-"link": "https://tuoitre.vn/khoe-cay-sach-benh-de-mua-hai-qua-boi-thu-100261108125357819.htm",
-"summary": "Gần 100 nông hộ xã Đắk Mil, tỉnh Lâm Đồng cùng tham gia workshop “Xây hệ miễn dịch Robusta: Khỏe cây, sạch bệnh từ số hóa canh tác”. Tìm hiểu cách chăm sóc, tăng sức miễn dịch cho cây Robusta trước mùa thu hoạch.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/8/khoe-cay-sach-benh-de-mua-hai-qua-boi-thu-179411718055872103168-0-192-1080-1920-crop-17941171952541428745053.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-10T09:19:00+07:00",
-"found": "2026-11-10T09:37:35+07:00"
-},
-{
-"id": "a92cca08ae2b",
-"title": "Một hộ dân tại TPHCM có 3 thửa đất nằm trong diện thu hồi ở Phú Quốc",
-"link": "https://dantri.com.vn/bat-dong-san/mot-ho-dan-tai-tphcm-co-3-thua-dat-nam-trong-dien-thu-hoi-o-phu-quoc-20261109105844974.htm",
-"summary": "(Dân trí) - Phú Quốc dự kiến thu hồi hơn 16.500m2 đất tại khu vực Bãi Trường để thực hiện dự án khu du lịch - dân cư Nam Bãi Trường. Diện tích đất này của một hộ dân có địa chỉ thường trú ở TPHCM.",
-"image": "https://icdn.dantri.com.vn/2026/10/26/dac-khu-phu-quochuynh-hai-1793025650602.jpg?watermark=v1",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-10T09:17:00+07:00",
-"found": "2026-11-10T10:27:15+07:00"
-},
-{
-"id": "c35de2715eb7",
-"title": "Giá cả đầu ngày: Mãng cầu Thái hút khách, làng hoa Sa Đéc rộn ràng vào vụ Tết, rau xanh có diễn biến mới",
-"link": "https://tuoitre.vn/gia-ca-dau-ngay-mang-cau-thai-hut-khach-lang-hoa-sa-dec-ron-rang-vao-vu-tet-rau-xanh-co-dien-bien-moi-100261110085143875.htm",
-"summary": "Mãng cầu Thái được người tiêu dùng ưa chuộng mua làm quà biếu nhờ trái to, ít hạt, giá giảm mạnh so với trước. Trong khi đó, nhà vườn Sa Đéc đã xuống giống hơn nửa triệu giỏ hoa phục vụ Tết Đinh Mùi 2027.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/10/na-thai-1794275209027179795320-237-0-1837-2560-crop-17942753918701589730335.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-10T09:13:00+07:00",
-"found": "2026-11-10T09:37:35+07:00"
-},
-{
-"id": "b7ff98cdc878",
-"title": "Tổng lãnh sự Nhật Bản: Việt Nam không thể thiếu trong chuỗi cung ứng của Nhật Bản",
-"link": "https://tuoitre.vn/tong-lanh-su-nhat-ban-viet-nam-khong-the-thieu-trong-chuoi-cung-ung-cua-nhat-ban-100261110082217588.htm",
-"summary": "Theo Tổng lãnh sự Nhật Bản tại TP.HCM Ono Masuo, sự phát triển của Việt Nam có vai trò không thể thiếu đối với việc củng cố chuỗi cung ứng của nền kinh tế Nhật Bản, kể cả trong những lĩnh vực công nghệ tiên tiến như bán dẫn.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/10/tlsnb-1794273344553477570049-24-301-1298-2340-crop-17942734183901349682030.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-10T09:13:00+07:00",
-"found": "2026-11-10T09:37:35+07:00"
-},
-{
-"id": "5b41b72c3c12",
-"title": "belgian pro league",
-"link": "https://www.espn.com/soccer/match/_/gameId/401933764/1-fc-union-berlin-vfl-wolfsburg",
-"summary": "Wolfsburg vs. Union Berlin (Nov 12, 2026) Live Score (ESPN)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzvAhpT1qzewrhMbMNXWmQo84B2dGooUdlkl560eBrGa6zqsxYvIjeVMW8u6M",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-10T09:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-10T09:37:35+07:00"
-},
-{
-"id": "edf968ab6941",
-"title": "thomas tuchel",
-"link": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans",
-"summary": "Cerebral Josh King plots unusual route into Tuchel’s England plans (The Guardian)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_DS40yqMnWxZ-8wScy9R-K6md-MVSXZeJj73s9BgHaCxOFj8cBYxTwO3miNs",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-10T09:10:00+07:00",
-"traffic": "100+",
-"found": "2026-11-10T09:37:35+07:00"
-},
-{
-"id": "b3e022b1587d",
-"title": "Vụ bê bối của CEO Jensen Huang đặt tương lai của Nvidia vào thế khó",
-"link": "https://vneconomy.vn/vu-be-boi-cua-ceo-jensen-huang-dat-tuong-lai-cua-nvidia-vao-the-kho.htm",
-"summary": "Nvidia cho biết ông Huang vẫn sẽ tiếp tục điều hành công ty trong thời gian diễn ra cuộc điều tra, nhưng áp lực đang đè nặng lên nhà sản xuất chip đã giữ vai trò cung cấp công nghệ nền tảng cho sự phát triển bùng nổ của trí tuệ nhân tạo tạo sinh (generative AI) trong 4 năm qua...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/10/8b6315c6a081469aaae090570686494e-134331.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-10T09:09:34+07:00",
-"found": "2026-11-10T09:37:35+07:00"
-},
-{
-"id": "9533fa23c061",
-"title": "Chứng khoán Rồng Việt 5 năm liền được vinh danh tại HR Asia Awards",
-"link": "https://vietnamnet.vn/chung-khoan-rong-viet-5-nam-lien-duoc-vinh-danh-tai-hr-asia-awards-2573237.html",
-"summary": "CTCP Chứng khoán Rồng Việt lần thứ 5 liên tiếp được vinh danh “Nơi làm việc tốt nhất châu Á” tại HR Asia Awards 2026, đồng thời nhận giải thưởng đặc biệt “Môi trường làm việc bền vững”.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/10/chung-khoan-rong-viet-5-nam-lien-duoc-vinh-danh-tai-hr-asia-awards-199.jpg?width=0&s=rar2k6-5fBfSHNlTjMlmYQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-10T09:00:00+07:00",
-"found": "2026-11-10T09:37:35+07:00"
-},
-{
-"id": "e944ac47332e",
-"title": "Ra mắt SHB Rewards phiên bản mới: Tích điểm linh hoạt, đổi quà đa dạng",
-"link": "https://vneconomy.vn/ra-mat-shb-rewards-phien-ban-moi-tich-diem-linh-hoat-doi-qua-da-dang.htm",
-"summary": "Nhân dịp sinh nhật SHB 33 tuổi, SHB Rewards phiên bản mới được ra mắt, mang đến cho khách hàng cá nhân nhiều lựa chọn sử dụng điểm, từ đổi e-voucher, hoàn tiền vào thẻ tín dụng đến quy đổi điểm sang các quyền lợi trong hệ sinh thái đối tác, ngay trên ứng dụng SHB SAHA.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/09/fec624122d89494db2581ed2259a91a6-134179.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-10T09:00:00+07:00",
-"found": "2026-11-10T09:37:35+07:00"
 }
 ]
 }
