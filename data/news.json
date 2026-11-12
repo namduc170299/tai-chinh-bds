@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-13T04:39:33+07:00",
-"new": 9,
+"updated": "2026-11-13T05:25:23+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -112,7 +112,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -139,6 +139,39 @@
 "bad_dates": {},
 "items": [
 {
+"id": "226fc8c1f520",
+"title": "Tìm người thân bé gái 7 tuổi lang thang xin ăn ở biển Nha Trang",
+"link": "https://kenh14.vn/tim-nguoi-than-be-gai-7-tuoi-lang-thang-xin-an-o-bien-nha-trang-215261112223805085.chn",
+"summary": "Phường Bắc Nha Trang, tỉnh Khánh Hòa phát thông báo tìm cha, mẹ và người thân của bé gái khoảng 7 tuổi được phát hiện đi lang thang, xin ăn tại khu vực bờ biển đường Phạm Văn Đồng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/12/avatar1794497861890-17944978626121937356785.webp",
+"source": "Kenh14",
+"cat": "mxh",
+"published": "2026-11-13T06:11:00+07:00",
+"found": "2026-11-12T23:39:35+07:00"
+},
+{
+"id": "7dd6d856ea98",
+"title": "Phẫn nộ clip cụ bà bị người phụ nữ quát tháo, đánh đập ở Hà Nội",
+"link": "https://kenh14.vn/phan-no-clip-cu-ba-bi-nguoi-phu-nu-quat-thao-danh-dap-o-ha-noi-215261112223208826.chn",
+"summary": "Clip ghi lại hình ảnh cụ bà già yếu, chậm chạp bước trên sân thì bị người phụ nữ túm cổ áo lắc mạnh và đánh ngã ra sân khiến cộng đồng mạng bức xúc.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/12/avatar1794497516660-1794497520498436067349.png",
+"source": "Kenh14",
+"cat": "mxh",
+"published": "2026-11-13T05:47:00+07:00",
+"found": "2026-11-12T23:39:35+07:00"
+},
+{
+"id": "6f14be653dc8",
+"title": "Người đàn ông mất tích khi câu cá đập thủy điện, bé gái tử vong nghi rơi xuống ruộng",
+"link": "https://kenh14.vn/nguoi-dan-ong-mat-tich-khi-cau-ca-dap-thuy-dien-be-gai-tu-vong-nghi-roi-xuong-ruong-215261112223908424.chn",
+"summary": "Một người đàn ông ở Đắk Lắk mất tích khi đi câu cá tại khu vực đập thủy điện, trong khi một bé gái 11 tuổi tử vong, nghi do rơi xuống nước.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/12/avatar1794497918722-1794497919028845547102.webp",
+"source": "Kenh14",
+"cat": "mxh",
+"published": "2026-11-13T05:44:00+07:00",
+"found": "2026-11-12T23:39:35+07:00"
+},
+{
 "id": "398b41b933dd",
 "title": "Lào Cai tìm thấy thêm 18 hài cốt liệt sĩ trong giai đoạn 2",
 "link": "https://kenh14.vn/lao-cai-tim-thay-them-18-hai-cot-liet-si-trong-giai-doan-2-215261112222922317.chn",
@@ -148,6 +181,17 @@
 "cat": "mxh",
 "published": "2026-11-13T05:34:00+07:00",
 "found": "2026-11-12T23:39:35+07:00"
+},
+{
+"id": "79877630e87f",
+"title": "Tỷ phú xuất thân từ quê lúa: Sau 16 năm ghép gan vẫn quyết tái thiết ngân hàng, làm chip bán dẫn, robot ở tuổi 67",
+"link": "https://kenh14.vn/ty-phu-xuat-than-tu-que-lua-sau-16-nam-ghep-gan-van-quyet-tai-thiet-ngan-hang-lam-chip-ban-dan-robot-o-tuoi-67-215261112230916406.chn",
+"summary": "Ở tuổi 67, vị doanh nhân vẫn nhiệt huyết với những mục tiêu kinh doanh lớn, từ việc đưa ngân hàng tăng trưởng đột phá đến những tham vọng mới với công nghệ cao mới.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/12/avatar1794499728920-17944997295341009957282.png",
+"source": "Kenh14",
+"cat": "mxh",
+"published": "2026-11-13T05:25:23+07:00",
+"found": "2026-11-13T05:25:23+07:00"
 },
 {
 "id": "8465a82b908e",
@@ -161,6 +205,29 @@
 "found": "2026-11-12T22:38:19+07:00"
 },
 {
+"id": "6742c0273032",
+"title": "harry kane",
+"link": "https://www.bbc.com/sport/football/live/cr5yn1g2qe6et",
+"summary": "England vs Croatia LIVE: UEFA Nations League score, commentary, updates & stats (BBC)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRv5cd9Qo8aQL-xf-JDKehZ1gGRO9a0eX0I21h5kPg6QH6OkpMrOIvcz005H0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-13T05:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-13T05:25:23+07:00"
+},
+{
+"id": "9bcd96b0900c",
+"title": "Lãnh đạo Cần Thơ: Các sở, ngành phải 'soi rọi' chính mình trong thực thi công vụ",
+"link": "https://thanhnien.vn/lanh-dao-can-tho-cac-so-nganh-phai-soi-roi-chinh-minh-trong-thuc-thi-cong-vu-185261112155518634.htm",
+"summary": "Nhận được phản ánh, lãnh đạo thành phố Cần Thơ yêu cầu các sở, ngành phải \"soi rọi\" lại chính mình trong việc thực thi công vụ và cách đồng hành với doanh nghiệp để phát triển.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/12/tnw-anh-a-1794478681314805330329-83-0-1333-2000-crop-1794478697974544475117-17944787128171666264977.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-13T05:03:00+07:00",
+"found": "2026-11-13T05:25:23+07:00"
+},
+{
 "id": "084d9e75e384",
 "title": "Khởi tố Nguyễn Chí Thanh SN 2002 liên quan đến số tiền 58.575.000 chuyển qua tài khoản Zalo",
 "link": "https://kenh14.vn/khoi-to-nguyen-chi-thanh-sn-2002-lien-quan-den-so-tien-58575000-chuyen-qua-tai-khoan-zalo-215261112212853223.chn",
@@ -170,6 +237,64 @@
 "cat": "mxh",
 "published": "2026-11-13T05:02:00+07:00",
 "found": "2026-11-12T22:38:19+07:00"
+},
+{
+"id": "2731b7c84979",
+"title": "Trai bản người Dao tự tay xây nhà làm du lịch",
+"link": "https://thanhnien.vn/trai-ban-nguoi-dao-tu-tay-xay-nha-lam-du-lich-185261112214141918.htm",
+"summary": "Bắt đầu với ý tưởng làm du lịch và bảo tồn bản sắc văn hóa dân tộc Dao tại bản Pắc Đây (xã Công Sơn, Lạng Sơn), thanh niên trẻ Dương Trùng Mình gặp nhiều khó khăn. Nhưng với sức trẻ, ý chí và khát vọng vươn lên nơi biên viễn, anh đã tự tay xây dựng homestay để bắt đầu hiện thực…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/12/tnw-179370301556225540118290466046692554011829046604669117a147e9fdeffd8cd24372b9aa0f91e-179449434154873532336-63-0-1663-2560-crop-1794494402690837299072.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-13T05:00:00+07:00",
+"found": "2026-11-13T05:25:23+07:00"
+},
+{
+"id": "495638620253",
+"title": "Công ty ông Trần Bá Dương chốt đơn xuất khẩu chuối gần nửa tỷ USD",
+"link": "https://vnexpress.net/cong-ty-ong-tran-ba-duong-chot-don-xuat-khau-chuoi-gan-nua-ty-usd-5144068.html",
+"summary": "Thaco Agri, công ty nông nghiệp của ông Trần Bá Dương, vừa chốt đơn xuất khẩu hơn 680.000 tấn chuối trong năm 2027 với giá trị khoảng 498 triệu USD.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/12/ThacoAgriSettop-1794501221-5206-1794501267.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KhbkKMSi8SCchNLIo8Erqg",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-13T04:44:48+07:00",
+"found": "2026-11-13T05:25:23+07:00"
+},
+{
+"id": "1c9992386fa7",
+"title": "xăng",
+"link": "https://laodong.vn/thi-truong/gia-xang-dau-giam-manh-xang-e10-giam-1311-donglit-1799186.ldo",
+"summary": "Giá xăng dầu giảm mạnh, xăng E10 giảm 1.311 đồng/lít (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxkixTS3OHSFBAynCuFbzXSlufhGKMuq5lNhQ-LJUmILqhWMk_fAVhvRaaHrw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-13T04:40:00+07:00",
+"traffic": "10000+",
+"found": "2026-11-13T05:25:23+07:00"
+},
+{
+"id": "19bcdca4284c",
+"title": "rắn độc",
+"link": "https://vietnamnet.vn/dang-ngu-nam-sinh-bi-ran-doc-bo-vao-giuong-can-nhieu-nhat-2574184.html",
+"summary": "Đang ngủ, nam sinh bị rắn độc bò vào giường cắn nhiều nhát (Báo VietNamNet)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRc3jo_VeN2OaVLQVogYjv-I1pu9SYSjLEGj2zB65NtVqeCNuiTUZb2lrnX8p0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-13T04:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-13T05:25:23+07:00"
+},
+{
+"id": "64e2099a23ac",
+"title": "hưu trí",
+"link": "https://laodong.vn/thoi-su/de-xuat-giam-tuoi-huong-tro-cap-huu-tri-xuong-70-ho-tro-ca-nguoi-co-luong-huu-thap-1799084.ldo",
+"summary": "Đề xuất giảm tuổi hưởng trợ cấp hưu trí xuống 70, hỗ trợ cả người có lương hưu thấp (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcPGmiBLPsNVYYbvuKfoCW0drBGpX6cX4gUhjCOn1rt80FtAi8fhKY-sL_gsQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-13T04:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-13T05:25:23+07:00"
 },
 {
 "id": "a1030d359329",
@@ -183,6 +308,53 @@
 "found": "2026-11-13T04:39:33+07:00"
 },
 {
+"id": "d0c45db85d91",
+"title": "michael carrick",
+"link": "https://www.24h.com.vn/bong-da/chinh-thuc-mu-sa-thai-michael-carrick-c48a1810574.html",
+"summary": "CHÍNH THỨC: MU sa thải Michael Carrick (Tin tức 24h)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKraNIIiLBui0CZPQmY_bgvicY0jgiGMxNlu7Cc9_0dw5TLISTDieOya-skyA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-13T04:30:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-13T05:25:23+07:00"
+},
+{
+"id": "c05616c062ff",
+"title": "lãi suất",
+"link": "https://laodong.vn/kinh-doanh/lai-suat-ngan-hang-hom-nay-1211-ong-lon-lien-tuc-dieu-chinh-1798859.ldo",
+"summary": "Lãi suất ngân hàng hôm nay 12.11: Ông lớn liên tục điều chỉnh (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJHCO7cDqyWGbDqyD0RtPM3kMbaCizkPjcDbfKgvSaaFxGtGPW0X56mWtETLs",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-13T04:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-13T05:25:23+07:00"
+},
+{
+"id": "0a88c523c6c4",
+"title": "pio esposito",
+"link": "https://sardegnanotizie24.it/italia-francia-la-formazione-azzurra/",
+"summary": "Italia-Francia, la formazione azzurra (Sardegna Notizie 24)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCsrrD8d-bOpZNtQkRKgxrFKZ2wJvq62ANfDZixCa5uHcOZg2NuXgsS8NHeKQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-13T04:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-13T05:25:23+07:00"
+},
+{
+"id": "3d4ffd88fd89",
+"title": "VCCI kiến nghị giảm tỷ lệ tái chế với điện thoại di động từ 15% xuống 3%",
+"link": "https://vnexpress.net/vcci-kien-nghi-giam-ty-le-tai-che-voi-dien-thoai-di-dong-tu-15-xuong-3-5144035.html",
+"summary": "VCCI kiến nghị giảm tỷ lệ tái chế bắt buộc với điện thoại cũ trong 2026-2028, bởi người Việt quen cho tặng hoặc bán ra thị trường thiết bị cũ, thay vì thải bỏ.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/12/smartphone-1794491447-3681-1794491515.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ei_LTqObXYW1pj-9GLNHKQ",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-13T04:24:45+07:00",
+"found": "2026-11-13T05:25:23+07:00"
+},
+{
 "id": "2994583d4828",
 "title": "giao thông",
 "link": "https://thanhnien.vn/tha-ban-xuong-song-sau-tai-nan-giao-thong-185261111195002558.htm",
@@ -191,7 +363,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-13T04:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-13T04:39:33+07:00"
 },
 {
@@ -724,39 +896,6 @@
 "cat": "tc",
 "published": "2026-11-12T23:52:58+07:00",
 "found": "2026-11-13T00:30:26+07:00"
-},
-{
-"id": "226fc8c1f520",
-"title": "Tìm người thân bé gái 7 tuổi lang thang xin ăn ở biển Nha Trang",
-"link": "https://kenh14.vn/tim-nguoi-than-be-gai-7-tuoi-lang-thang-xin-an-o-bien-nha-trang-215261112223805085.chn",
-"summary": "Phường Bắc Nha Trang, tỉnh Khánh Hòa phát thông báo tìm cha, mẹ và người thân của bé gái khoảng 7 tuổi được phát hiện đi lang thang, xin ăn tại khu vực bờ biển đường Phạm Văn Đồng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/12/avatar1794497861890-17944978626121937356785.webp",
-"source": "Kenh14",
-"cat": "mxh",
-"published": "2026-11-12T23:39:35+07:00",
-"found": "2026-11-12T23:39:35+07:00"
-},
-{
-"id": "7dd6d856ea98",
-"title": "Phẫn nộ clip cụ bà bị người phụ nữ quát tháo, đánh đập ở Hà Nội",
-"link": "https://kenh14.vn/phan-no-clip-cu-ba-bi-nguoi-phu-nu-quat-thao-danh-dap-o-ha-noi-215261112223208826.chn",
-"summary": "Clip ghi lại hình ảnh cụ bà già yếu, chậm chạp bước trên sân thì bị người phụ nữ túm cổ áo lắc mạnh và đánh ngã ra sân khiến cộng đồng mạng bức xúc.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/12/avatar1794497516660-1794497520498436067349.png",
-"source": "Kenh14",
-"cat": "mxh",
-"published": "2026-11-12T23:39:35+07:00",
-"found": "2026-11-12T23:39:35+07:00"
-},
-{
-"id": "6f14be653dc8",
-"title": "Người đàn ông mất tích khi câu cá đập thủy điện, bé gái tử vong nghi rơi xuống ruộng",
-"link": "https://kenh14.vn/nguoi-dan-ong-mat-tich-khi-cau-ca-dap-thuy-dien-be-gai-tu-vong-nghi-roi-xuong-ruong-215261112223908424.chn",
-"summary": "Một người đàn ông ở Đắk Lắk mất tích khi đi câu cá tại khu vực đập thủy điện, trong khi một bé gái 11 tuổi tử vong, nghi do rơi xuống nước.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/12/avatar1794497918722-1794497919028845547102.webp",
-"source": "Kenh14",
-"cat": "mxh",
-"published": "2026-11-12T23:39:35+07:00",
-"found": "2026-11-12T23:39:35+07:00"
 },
 {
 "id": "e4f87cc3b6f3",
@@ -11174,139 +11313,6 @@
 "cat": "bds",
 "published": "2026-11-11T10:21:53+07:00",
 "found": "2026-11-11T11:07:05+07:00"
-},
-{
-"id": "9bce803c6dc8",
-"title": "vision quest",
-"link": "https://ew.com/visionquest-finale-billy-maximoff-joe-locke-ruaridh-mollica-reunion-12236902",
-"summary": "‘VisionQuest’ star talks finale cameo and Marvel reunion: ‘It had to happen’ (Entertainment Weekly)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnfapJ2LI6HFQaFWnZzBUCuYgNdgRhrvd6Ei_9AsXhxHWgquOkknuBNGfWro",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-11T10:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-11T11:07:05+07:00"
-},
-{
-"id": "6f2101ed2789",
-"title": "Căn hộ cao cấp Hà Đông rao bán cao nhất gần 26 tỷ đồng sau hơn 10 năm",
-"link": "https://vietnamnet.vn/can-ho-cao-cap-ha-dong-rao-ban-cao-nhat-gan-26-ty-dong-sau-hon-10-nam-2573583.html",
-"summary": "Sau hơn 10 năm, căn hộ tại một số dự án cao cấp đời đầu ở khu đô thị Mỗ Lao (Hà Đông, Hà Nội) đang được rao bán phổ biến khoảng 60-80 triệu đồng/m2. Đáng chú ý, một căn penthouse được rao bán lên tới 26 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/11/can-ho-cao-cap-ha-dong-rao-ban-cao-nhat-gan-26-ty-dong-sau-hon-10-nam-533.jpg?width=0&s=krA93VTjcBuoblidSCv15w",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-11T10:19:37+07:00",
-"found": "2026-11-11T11:07:05+07:00"
-},
-{
-"id": "fa6fb9fc5154",
-"title": "Giá vàng hôm nay chạm đáy sau 1 tuần",
-"link": "https://cafef.vn/gia-vang-hom-nay-cham-day-sau-1-tuan-188261111100201726.chn",
-"summary": "Sau một vài phiên phục hồi nhẹ, giá vàng hôm nay 11/11 lao dốc về mức đáy sau 1 tuần.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/11/avatar1794366109610-1794366109920252605685.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-11T10:16:00+07:00",
-"found": "2026-11-11T11:07:05+07:00"
-},
-{
-"id": "6d1f969cfc8f",
-"title": "Một doanh nghiệp bị xử phạt do công bố thông tin sai lệch về lợi nhuận",
-"link": "https://cafef.vn/mot-doanh-nghiep-bi-xu-phat-do-cong-bo-thong-tin-sai-lech-ve-loi-nhuan-188261111092522961.chn",
-"summary": "Đầu tư và Phát triển Việt Trung Nam bị xử phạt do công bố thông tin sai lệch chỉ tiêu Lợi nhuận sau thuế thu nhập doanh nghiệp năm 2025.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/11/avatar1794363901845-1794363902634287213936.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-11T10:15:00+07:00",
-"found": "2026-11-11T11:07:05+07:00"
-},
-{
-"id": "89aca39cb1fb",
-"title": "Mua nhà Vinhomes dễ dàng nhờ voucher đặc quyền và gói vay ưu đãi",
-"link": "https://vietnamnet.vn/mua-nha-vinhomes-de-dang-nho-voucher-dac-quyen-va-goi-vay-uu-dai-2573653.html",
-"summary": "Voucher đặc quyền cho phép thanh toán tới 30% giá trị căn nhà (hiệu lực đến 31/12/2026) kết hợp cùng gói vay cố định lãi suất lên tới 5 năm, giúp người mua nhà Vinhomes giảm áp lực sử dụng tiền mặt ban đầu, kiểm soát chi phí và linh hoạt trả nợ.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/11/mua-nha-vinhomes-de-dang-nho-voucher-dac-quyen-va-goi-vay-uu-dai-401.jpg?width=0&s=LTO8Q34PWWTOV611IHtYtw",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-11T10:15:00+07:00",
-"found": "2026-11-11T11:07:05+07:00"
-},
-{
-"id": "0dca0f6b5e16",
-"title": "Vinhomes và Mitsubishi hợp tác phát triển hạ tầng đô thị",
-"link": "https://vnexpress.net/vinhomes-va-mitsubishi-hop-tac-phat-trien-ha-tang-do-thi-5143256.html",
-"summary": "Vinhomes và Mitsubishi Corporation ký biên bản ghi nhớ hợp tác trong ba lĩnh vực nhà ở, hạ tầng và phát triển bền vững tại Việt Nam.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/11/picture1-1794366063-9010-1794366260.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aUfOQjP9dWya0dL0-JAFUQ",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-11T10:15:00+07:00",
-"found": "2026-11-11T12:03:42+07:00"
-},
-{
-"id": "f356508f7d8a",
-"title": "Đề xuất ưu đãi thuế với tàu thuyền không người lái",
-"link": "https://vnexpress.net/de-xuat-uu-dai-thue-voi-tau-thuyen-khong-nguoi-lai-5143201.html",
-"summary": "Chính phủ đề xuất ưu đãi thuế cho tổ chức, cá nhân đóng mới, hoán cải tàu không người lái; miễn thuế thu nhập doanh nghiệp 5 năm với các dự án chuyển đổi xanh trong lĩnh vực hàng hải, đường thủy.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/202611110841176173-1794366558-7165-1794366856.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Xnr-rHOls7BzaAJcXeQYaw",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-11T10:14:45+07:00",
-"found": "2026-11-11T15:28:53+07:00"
-},
-{
-"id": "7018b35ea278",
-"title": "TP.HCM: Trần khung phí quản lý chung cư tăng rất mạnh",
-"link": "https://thanhnien.vn/tphcm-tran-khung-phi-quan-ly-chung-cu-tang-rat-manh-185261111094544696.htm",
-"summary": "UBND TP.HCM đã ban hành quyết định ban hành khung giá dịch vụ quản lý vận hành nhà chung cư trên địa bàn TP.HCM, với mức giá thấp nhất là 600 đồng/m2/tháng và cao nhất lên đến 24.700 đồng/m2/tháng. Quyết định này có hiệu lực kể từ ngày 25.11.2026.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/11/tai-dinh-cu-thu-thiem-2-1794364994314582076339-0-0-1250-2000-crop-1794365010692786692195.jpg",
-"source": "Thanh Niên",
-"cat": "bds",
-"published": "2026-11-11T10:14:00+07:00",
-"found": "2026-11-11T11:07:05+07:00"
-},
-{
-"id": "4908789bd0b0",
-"title": "Một “ông lớn” ngành điện bất ngờ nâng mục tiêu lợi nhuận gấp hơn 4 lần",
-"link": "https://cafef.vn/mot-ong-lon-nganh-dien-bat-ngo-nang-muc-tieu-loi-nhuan-gap-hon-4-lan-188261111101308848.chn",
-"summary": "Dù nâng mục tiêu lợi nhuận sau thuế, con số này vẫn thấp hơn đáng kể so với khoản lãi mà doanh nghiệp đã ghi nhận chỉ sau 9 tháng đầu năm.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/11/avatar1794366746795-1794366747562605856495.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-11T10:13:00+07:00",
-"found": "2026-11-11T10:14:49+07:00"
-},
-{
-"id": "79323775596a",
-"title": "Lãi suất ngân hàng hôm nay 11/11: Giảm cả lãi huy động và chứng chỉ tiền gửi",
-"link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-11-11-2026-vpbank-giam-lai-suat-2573618.html",
-"summary": "Lãi suất ngân hàng hôm nay, 11/11/2026, ghi nhận VPBank tiếp tục điều chỉnh giảm lãi suất huy động ở các kỳ hạn dưới 6 tháng, đồng thời hạ lãi suất chứng chỉ tiền gửi từ 0,1-0,2 điểm phần trăm.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/11/11-giam-ca-lai-huy-dong-va-chung-chi-tien-gui-497.jpg?width=0&s=9p8djdl2ylxuW1nyjaO6Dw",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-11T10:12:10+07:00",
-"found": "2026-11-11T10:14:49+07:00"
-},
-{
-"id": "37a2c11e23f0",
-"title": "Chốt ngày đấu giá 5 lô đất tại Khu đô thị mới Thủ Thiêm",
-"link": "https://cafef.vn/chot-ngay-dau-gia-5-lo-dat-tai-khu-do-thi-moi-thu-thiem-188261111091636544.chn",
-"summary": "5 lô đất gồm R1, R2, R3, R4 và R5 có tổng diện tích 38,4 ha tại Khu đô thị mới Thủ Thiêm dự kiến được đưa ra đấu giá vào 11/12/2026.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/11/avatar1794363305736-17943633065701906691802.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-11T10:11:00+07:00",
-"found": "2026-11-11T11:07:05+07:00"
-},
-{
-"id": "ff1533507b78",
-"title": "Cận cảnh đường Hồ Chí Minh qua Cao Bằng nhỏ hẹp, dự kiến mở rộng gấp đôi",
-"link": "https://cafef.vn/can-canh-duong-ho-chi-minh-qua-cao-bang-nho-hep-du-kien-mo-rong-gap-doi-188261111100754251.chn",
-"summary": "Đường Hồ Chí Minh hiện có hai làn xe nhỏ hẹp, điểm đầu từ khu di tích Pác Bó, qua trung tâm tỉnh Cao Bằng, dự kiến mở rộng lên 4 làn xe, rộng gấp đôi. Tổng mức đầu tư được Bộ Xây dựng dự tính khoảng 3.250 tỷ đồng, hoàn thành năm 2029.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/11/avatar1794366410949-179436641122572300675.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-11T10:07:00+07:00",
-"found": "2026-11-11T10:14:49+07:00"
 }
 ]
 }
