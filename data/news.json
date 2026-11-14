@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-14T06:28:21+07:00",
-"new": 14,
+"updated": "2026-11-14T07:01:47+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -139,6 +139,63 @@
 "bad_dates": {},
 "items": [
 {
+"id": "0363257169c8",
+"title": "Thanh xuân để tận hưởng hay tích lũy: Người trẻ đang chọn gì?",
+"link": "https://thanhnien.vn/thanh-xuan-de-tan-huong-hay-tich-luy-nguoi-tre-dang-chon-gi-185261113192924778.htm",
+"summary": "Giữa cuộc sống nhiều biến động, người trẻ ngày nay đứng trước không ít lựa chọn: tích lũy để có cảm giác an toàn hay tận hưởng khi còn trẻ và còn đủ sức khỏe?",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/13/anh-81-1794572709946849637740-31-0-1281-2000-crop-17945727188991079046985.jpeg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-14T07:00:00+07:00",
+"found": "2026-11-14T07:01:47+07:00"
+},
+{
+"id": "42a2cee86a90",
+"title": "hóa đơn",
+"link": "https://tuoitre.vn/doanh-nghiep-ban-hang-online-so-sai-vi-hoa-don-thue-100261113143448559.htm",
+"summary": "Doanh nghiệp bán hàng online 'sợ sai' vì hóa đơn, thuế (Báo Tuổi Trẻ)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgiLGOh2KJr4oBmvdmMJ8_PY2JamgRGUIXYAxitQHibe8XelAS9LtzSlG89G8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-14T06:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-14T07:01:47+07:00"
+},
+{
+"id": "f522b92d389f",
+"title": "Giá gạo xuất khẩu tăng mạnh, ST25 được chào bán 1.000 USD/tấn",
+"link": "https://dantri.com.vn/kinh-doanh/gia-gao-xuat-khau-tang-manh-st25-duoc-chao-ban-1000-usdtan-20261113212135594.htm",
+"summary": "(Dân trí) - Giá gạo xuất khẩu của Việt Nam tiếp tục đi lên kéo giá thu mua lúa tại Đồng bằng sông Cửu Long tăng theo, nhiều loại lúa tươi tăng 300-500 đồng/kg.",
+"image": "https://cdnphoto.dantri.com.vn/b2U9_L_u1o0hOVpjyllvAN3CyeE=/2026/11/13/anh-3-1794579504711.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-14T06:34:00+07:00",
+"found": "2026-11-14T07:01:47+07:00"
+},
+{
+"id": "87801eb97d0d",
+"title": "Lãnh đạo doanh nghiệp rầm rộ gom cổ phiếu",
+"link": "https://cafef.vn/lanh-dao-doanh-nghiep-ram-ro-gom-co-phieu-188261114061643289.chn",
+"summary": "Ông Đinh Quang Chiến - Phó Chủ tịch Hội đồng quản trị Lideco - mua thành công 2,7 triệu cổ phiếu NTL, vợ ông Nguyễn Quang Tín - Tổng Giám đốc DIC Corp mua vào 1 triệu cổ phiếu DIG, ông Nguyễn Hùng Cường - Chủ tịch Hội đồng quản trị DIC Corp - mua 5 triệu cổ phiếu DIG…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/13/avatar1794611779803-17946117802342033484036.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-14T06:31:00+07:00",
+"found": "2026-11-14T07:01:47+07:00"
+},
+{
+"id": "7d121bc99854",
+"title": "colombia đấu với chile",
+"link": "https://bongdaplus.vn/giao-huu-bong-da/nhan-dinh-bong-da-colombia-vs-chile-07h00-ngay-14-11-5287252611.html",
+"summary": "Nhận định bóng đá Colombia vs Chile, 07h00 ngày 14/11: Rất khó cho Chile (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4WI9fl9bwcJGCMFxFNXm_B84wFxF7cXuQQWhAYXjdJsyY8IU8Bc9q3ilLXv8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-14T06:30:00+07:00",
+"traffic": "500+",
+"found": "2026-11-14T07:01:47+07:00"
+},
+{
 "id": "47a450e2402b",
 "title": "Gánh rau mưu sinh của người đàn ông 70 tuổi bán đến 10 giờ đêm nuôi vợ bị tai biến",
 "link": "https://kenh14.vn/ganh-rau-muu-sinh-cua-nguoi-dan-ong-70-tuoi-ban-den-10-gio-dem-nuoi-vo-bi-tai-bien-215261113201222907.chn",
@@ -228,6 +285,50 @@
 "found": "2026-11-14T06:28:21+07:00"
 },
 {
+"id": "a0df7a70f558",
+"title": "Vì sao công ty đầu ngành chứng khoán từ chối nhiều thương vụ trái phiếu?",
+"link": "https://vnexpress.net/vi-sao-cong-ty-dau-nganh-chung-khoan-tu-choi-nhieu-thuong-vu-trai-phieu-5144491.html",
+"summary": "Dù chiếm 37% thị phần tư vấn trái phiếu, Chứng khoán Kỹ Thương (TCBS) vẫn từ chối nhiều thương vụ nếu không nắm rõ sức khỏe tài chính của doanh nghiệp, theo Chủ tịch Nguyễn Xuân Minh.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/13/img-1794581228-7959-1794581367.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=80p_MV59seZ1mE8noCryHA",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-14T06:00:00+07:00",
+"found": "2026-11-14T07:01:47+07:00"
+},
+{
+"id": "1c522a31a3b2",
+"title": "Giá xăng, điện giảm: Vì sao thịt heo bán lẻ vẫn neo cao?",
+"link": "https://dantri.com.vn/kinh-doanh/gia-xang-dien-giam-vi-sao-thit-heo-ban-le-van-neo-cao-20261113205952091.htm",
+"summary": "(Dân trí) - Giá heo hơi và heo mảnh tại chợ đầu mối đã giảm đáng kể so với giữa năm, nhưng thịt heo tại các chợ dân sinh và siêu thị vẫn ở mức cao.",
+"image": "https://cdnphoto.dantri.com.vn/S42gs9C50X3MBBrHk-5Cai3fC44=/2026/11/13/6-cropped-1794578262005.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-14T06:00:00+07:00",
+"found": "2026-11-14T07:01:47+07:00"
+},
+{
+"id": "d4f66980b686",
+"title": "Từ ly cà phê ở Texas đến sóng 5G vùng Caribe: Doanh nghiệp Việt ra thế giới",
+"link": "https://dantri.com.vn/kinh-doanh/tu-ly-ca-phe-o-texas-den-song-5g-vung-caribe-doanh-nghiep-viet-ra-the-gioi-20261113132018776.htm",
+"summary": "(Dân trí) - Từ quán cà phê ở Texas, mạng 5G vùng Caribe đến nhà máy ô tô điện tại Ấn Độ, Indonesia, doanh nghiệp Việt đang mang vốn và thương hiệu ra thế giới.",
+"image": "https://cdnphoto.dantri.com.vn/IKhs4Z3QHWiyugAIVZP7t6JwVFU=/2026/11/14/viettel-edited-1794573492610-1794612667165.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-14T06:00:00+07:00",
+"found": "2026-11-14T07:01:47+07:00"
+},
+{
+"id": "637ccf0f567c",
+"title": "Cảnh hoang tàn bên trong dự án trại bò 4.500 tỷ đồng vừa bán đấu giá",
+"link": "https://dantri.com.vn/kinh-doanh/canh-hoang-tan-ben-trong-du-an-trai-bo-4500-ty-dong-vua-ban-dau-gia-20261113102502676.htm",
+"summary": "(Dân trí) - Tại dự án chăn nuôi bò hàng nghìn tỷ của Công ty cổ phần Chăn nuôi Bình Hà (Hà Tĩnh), nhiều dãy chuồng trại, máy móc hoang tàn. Số tài sản này mới đây đã được đấu giá thành công.",
+"image": "https://cdnphoto.dantri.com.vn/99jDZwuinhmyINOTiWaPqXn2_pA=/2026/11/13/traiduong2-edited-edited-1794539558716.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-14T06:00:00+07:00",
+"found": "2026-11-14T07:01:47+07:00"
+},
+{
 "id": "0dd1a0cc590d",
 "title": "Cha lập di chúc để lại nhà đất cho con gái, con dâu tự ý vào ở rồi không trả",
 "link": "https://vietnamnet.vn/cha-lap-di-chuc-de-nha-dat-cho-con-gai-con-dau-vao-o-khong-tra-2573852.html",
@@ -309,6 +410,18 @@
 "found": "2026-11-14T06:28:21+07:00"
 },
 {
+"id": "b0ff74e7701e",
+"title": "nợ xấu",
+"link": "https://cafef.vn/no-xau-ngan-hang-tang-manh-188261113183106071.chn",
+"summary": "Nợ xấu ngân hàng tăng mạnh (CafeF)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbx9jGtjgjCmExj5TSbOVDP6em0bX4q_8sYWgirdCPLC6EpzwMQT1EnMqouP8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-14T05:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-14T07:01:47+07:00"
+},
+{
 "id": "e1c892ce54ec",
 "title": "6,4 triệu tỷ đồng vốn đầu tư cho năm 2027 lớn cỡ nào?",
 "link": "https://vietnamnet.vn/6-4-trieu-ty-dong-von-dau-tu-cho-nam-2027-lon-co-nao-2574526.html",
@@ -340,7 +453,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-14T05:30:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-14T05:49:33+07:00"
 },
 {
@@ -5992,18 +6105,6 @@
 "found": "2026-11-13T06:47:45+07:00"
 },
 {
-"id": "8ed193d857f6",
-"title": "hóa đơn",
-"link": "https://vnexpress.net/bo-truong-khoa-hoc-va-cong-nghe-vu-hai-quan-tiep-tuc-tra-loi-chat-van-5143668.html",
-"summary": "Bộ trưởng Vũ Hải Quân: Đầu tư công nghệ cao phải song hành với công nghệ thiết yếu (VnExpress)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSDmubbgvSYH2j-bd2vosJ1GatWYhBdhhP8YMRgD8PhZXtQ5Z9Gz2RU3Nvrco",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-13T06:20:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-13T07:36:07+07:00"
-},
-{
 "id": "5e50b6625f7b",
 "title": "Tiêu binh được trao huân chương vì chấn chỉnh tác phong Bộ trưởng Quốc phòng Mỹ",
 "link": "https://vnexpress.net/tieu-binh-duoc-trao-huan-chuong-vi-chan-chinh-tac-phong-bo-truong-quoc-phong-my-5144077.html",
@@ -11244,107 +11345,6 @@
 "cat": "mxh",
 "published": "2026-11-12T10:54:03+07:00",
 "found": "2026-11-12T15:32:24+07:00"
-},
-{
-"id": "906eeb5b83f7",
-"title": "'Cựu chủ tịch huyện bị lừa 171 tỷ' có sai phạm vụ Free Land dìm giá đất",
-"link": "https://vnexpress.net/cuu-chu-tich-huyen-bi-lua-171-ty-co-sai-pham-vu-free-land-dim-gia-dat-5143728.html",
-"summary": "Bà Nguyễn Thị Giang Hương, cựu chủ tịch UBND huyện Nhơn Trạch cũ, bị cáo buộc nhận 700 triệu đồng của doanh nghiệp Free Land trong vụ dìm giá đất, gây thiệt hại 48 tỷ.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/2-copy-1794461836-4043-1794461841.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZG1f4sYkdecjIfQI3Ka8Bg",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-12T10:53:19+07:00",
-"found": "2026-11-12T15:32:24+07:00"
-},
-{
-"id": "54bc4754dbc8",
-"title": "Nâng hạn mức vay thương mại nước ngoài của doanh nghiệp lên 10 tỉ USD",
-"link": "https://thanhnien.vn/nang-han-muc-vay-thuong-mai-nuoc-ngoai-cua-doanh-nghiep-len-10-ti-usd-185261112101720366.htm",
-"summary": "Chính phủ nâng hạn mức vay thương mại nước ngoài trung, dài hạn của doanh nghiệp và tổ chức tín dụng theo phương thức tự vay, tự trả lên tối đa 10 tỉ USD trong năm 2026, tăng hơn 63% so với mức quy định trước đó.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/12/usd-17944531301501656555638-0-0-400-640-crop-17944532819302051317581.png",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-12T10:52:00+07:00",
-"found": "2026-11-12T11:05:38+07:00"
-},
-{
-"id": "680c5da09921",
-"title": "Hai mã PNJ và NLG bất ngờ lọt rổ chỉ số cận biên lớn nhất của MSCI",
-"link": "https://cafef.vn/hai-ma-pnj-va-nlg-bat-ngo-lot-ro-chi-so-can-bien-lon-nhat-cua-msci-188261112105145258.chn",
-"summary": "Tại ngày 31/10, Việt Nam vẫn là quốc gia chiếm tỷ trọng cao nhất trong rổ chỉ số của MSCI Frontier Market Index",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/12/avatar1794455491972-17944554925351923471438.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-12T10:51:00+07:00",
-"found": "2026-11-12T11:05:38+07:00"
-},
-{
-"id": "4780b30f965f",
-"title": "Hai mã PNJ và NLG bất ngờ lọt rổ chỉ số quan trọng của MSCI",
-"link": "https://cafef.vn/hai-ma-pnj-va-nlg-bat-ngo-lot-ro-chi-so-quan-trong-cua-msci-188261112105145258.chn",
-"summary": "Tại ngày 31/10, Việt Nam vẫn là quốc gia chiếm tỷ trọng cao nhất trong rổ chỉ số của MSCI Frontier Market Index",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/12/avatar1794455491972-17944554925351923471438.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-12T10:51:00+07:00",
-"found": "2026-11-12T14:22:36+07:00"
-},
-{
-"id": "d019085ecd97",
-"title": "gsw",
-"link": "https://www.cbssports.com/fantasy/basketball/news/warriors-al-horford-starting-versus-houston/",
-"summary": "Warriors' Al Horford: Starting versus Houston (CBS Sports)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjUn2tzksFoAjMliM0oD2Fw8OIhCrJ5FjXLsPL7Xw4bTxuEzsVeM_pwI-rJb8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-12T10:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-12T11:05:38+07:00"
-},
-{
-"id": "e42755882239",
-"title": "giàu",
-"link": "https://vnexpress.net/wsj-nvidia-chuan-bi-bai-nhiem-ceo-jensen-huang-5143623.html",
-"summary": "WSJ: Nvidia chuẩn bị bãi nhiệm CEO Jensen Huang (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpJiagFOJ9y6GMjUZOol2yHKE1H0jspPOC4wNC5bPnOLkw2uInGPJVbkFh9E",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-12T10:40:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-12T12:04:06+07:00"
-},
-{
-"id": "1865d1272077",
-"title": "VPBank và SMBC hướng tới xây dựng Hành lang tài chính kết nối Việt - Nhật",
-"link": "https://dantri.com.vn/kinh-doanh/vpbank-va-smbc-huong-toi-xay-dung-hanh-lang-tai-chinh-ket-noi-viet-nhat-20261112102605015.htm",
-"summary": "(Dân trí) - Tại cuộc gặp gỡ với 20 tổ chức tài chính hàng đầu Nhật Bản, Chủ tịch Hội đồng quản trị VPBank đã chia sẻ tầm nhìn về tăng cường hợp tác tài chính giữa hai quốc gia, đồng thời đề xuất nghiên cứu xây dựng Hành lang tài chính Việt Nam - Nhật Bản.",
-"image": "https://icdn.dantri.com.vn/2026/11/12/ct-vpbank-ngo-chi-dung-cropped-1794453890937.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-12T10:36:47+07:00",
-"found": "2026-11-12T11:05:38+07:00"
-},
-{
-"id": "26866d81d5f0",
-"title": "Đảo Vũ Yên trong bước chuyển chất lượng đô thị Hải Phòng",
-"link": "https://vietnamnet.vn/dao-vu-yen-trong-buoc-chuyen-chat-luong-do-thi-hai-phong-2574077.html",
-"summary": "Nhờ hưởng lợi từ quy hoạch kết nối giao thông liên vùng và hệ sinh thái đảo sông nước, các dự án tại Vũ Yên đang chuyển từ cạnh tranh nguồn cung đơn thuần sang khẳng định chất lượng môi trường sống thực tế.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/12/dao-vu-yen-trong-buoc-chuyen-chat-luong-do-thi-hai-phong-660.jpg?width=0&s=XITe7IiRmBOm6qc8uyS9jw",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-12T10:30:00+07:00",
-"found": "2026-11-12T11:05:38+07:00"
-},
-{
-"id": "e22d82184d5c",
-"title": "Hải quan Việt Nam – Trung Quốc thúc đẩy vận tải tự hành, thông quan hàng hoá",
-"link": "https://vietnamnet.vn/hai-quan-viet-nam-trung-quoc-thuc-day-van-tai-tu-hanh-thong-quan-hang-hoa-2574088.html",
-"summary": "Hải quan Việt Nam và Trung Quốc trao đổi việc triển khai phương tiện vận chuyển hàng hóa tự hành tại cặp cửa khẩu Hữu Nghị - Hữu Nghị Quan, thúc đẩy công nhận lẫn nhau chương trình doanh nghiệp ưu tiên và tăng cường phối hợp chống buôn lậu.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/12/hai-quan-viet-nam-trung-quoc-thuc-day-van-tai-tu-hanh-thong-quan-hang-hoa-651.jpeg?width=0&s=zCz22gf2ULroK48VIsNN_g",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-12T10:30:00+07:00",
-"found": "2026-11-12T11:05:38+07:00"
 }
 ]
 }
