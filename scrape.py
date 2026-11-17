@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Cào tin Bất động sản, Tài chính & Mạng xã hội (viral) từ RSS các báo Việt Nam, lưu vào data/news.json.
+"""Cào tin Bất động sản, Tài chính, Xã hội & Mạng xã hội (viral) từ RSS các báo Việt Nam, lưu vào data/news.json.
 
 Chỉ dùng thư viện chuẩn của Python, không cần cài thêm gì.
 Chạy: python3 scrape.py
@@ -26,6 +26,7 @@ MAX_ITEMS = 1000       # tối đa số tin lưu lại
 TIMEOUT = 20
 
 # (tên báo, mục, đường dẫn RSS). Mục: "bds" = Bất động sản, "tc" = Tài chính,
+# "xh" = Xã hội: thời sự, pháp luật, vấn đề nóng/nhức nhối.
 # "mxh" = Mạng xã hội: chủ đề đang lan truyền / được tìm và đọc nhiều nhất.
 GN = "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&"
 FEEDS = [
@@ -45,11 +46,21 @@ FEEDS = [
     # Báo Mới (baomoi.com) không còn RSS riêng -> lấy bài của Báo Mới qua Google News
     ("Báo Mới", "bds", GN + "q=site:baomoi.com+(b%E1%BA%A5t+%C4%91%E1%BB%99ng+s%E1%BA%A3n+OR+nh%C3%A0+%C4%91%E1%BA%A5t+OR+chung+c%C6%B0)+when:2d"),
     ("Báo Mới", "tc", GN + "q=site:baomoi.com+(t%C3%A0i+ch%C3%ADnh+OR+ch%E1%BB%A9ng+kho%C3%A1n+OR+ng%C3%A2n+h%C3%A0ng+OR+l%C3%A3i+su%E1%BA%A5t)+when:2d"),
+    # Xã hội: thời sự & pháp luật mới nhất
+    ("VnExpress", "xh", "https://vnexpress.net/rss/thoi-su.rss"),
+    ("VnExpress", "xh", "https://vnexpress.net/rss/phap-luat.rss"),
+    ("Dân Trí", "xh", "https://dantri.com.vn/rss/xa-hoi.rss"),
+    ("Dân Trí", "xh", "https://dantri.com.vn/rss/phap-luat.rss"),
+    ("Tuổi Trẻ", "xh", "https://tuoitre.vn/rss/thoi-su.rss"),
+    ("Tuổi Trẻ", "xh", "https://tuoitre.vn/rss/phap-luat.rss"),
+    ("Thanh Niên", "xh", "https://thanhnien.vn/rss/thoi-su.rss"),
+    ("VietnamNet", "xh", "https://vietnamnet.vn/rss/thoi-su.rss"),
+    ("Lao Động", "xh", "https://laodong.vn/rss/xa-hoi.rss"),
+    ("Kenh14", "xh", "https://kenh14.vn/xa-hoi.rss"),
     # Mạng xã hội / viral
     ("Google Trends", "mxh", "https://trends.google.com/trending/rss?geo=VN"),
     ("VnExpress", "mxh", "https://vnexpress.net/rss/tin-xem-nhieu.rss"),
     ("VnExpress", "mxh", "https://vnexpress.net/rss/tin-noi-bat.rss"),
-    ("Kenh14", "mxh", "https://kenh14.vn/xa-hoi.rss"),
     ("Thanh Niên", "mxh", "https://thanhnien.vn/rss/gioi-tre.rss"),
     ("Tuổi Trẻ", "mxh", "https://tuoitre.vn/rss/nhip-song-tre.rss"),
 ]
