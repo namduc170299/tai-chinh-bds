@@ -22,7 +22,7 @@ from pathlib import Path
 VN_TZ = timezone(timedelta(hours=7))
 OUT = Path(__file__).parent / "data" / "news.json"
 KEEP_DAYS = 7          # giữ tin trong 7 ngày gần nhất
-MAX_ITEMS = 1000       # tối đa số tin lưu lại
+MAX_ITEMS = 2500       # tối đa số tin lưu lại
 TIMEOUT = 20
 
 # (tên báo, mục, đường dẫn RSS). Mục: "bds" = Bất động sản, "tc" = Tài chính,
