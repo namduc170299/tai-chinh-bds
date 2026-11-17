@@ -49,13 +49,13 @@ FEEDS = [
     # Xã hội: thời sự & pháp luật mới nhất
     ("VnExpress", "xh", "https://vnexpress.net/rss/thoi-su.rss"),
     ("VnExpress", "xh", "https://vnexpress.net/rss/phap-luat.rss"),
-    ("Dân Trí", "xh", "https://dantri.com.vn/rss/xa-hoi.rss"),
     ("Dân Trí", "xh", "https://dantri.com.vn/rss/phap-luat.rss"),
     ("Tuổi Trẻ", "xh", "https://tuoitre.vn/rss/thoi-su.rss"),
     ("Tuổi Trẻ", "xh", "https://tuoitre.vn/rss/phap-luat.rss"),
     ("Thanh Niên", "xh", "https://thanhnien.vn/rss/thoi-su.rss"),
     ("VietnamNet", "xh", "https://vietnamnet.vn/rss/thoi-su.rss"),
-    ("Lao Động", "xh", "https://laodong.vn/rss/xa-hoi.rss"),
+    # Vụ việc gây bức xúc, nhức nhối trong 24h qua (tổng hợp nhiều báo qua Google News)
+    ("Google News", "xh", GN + "q=(b%E1%BB%A9c+x%C3%BAc+OR+nh%E1%BB%A9c+nh%E1%BB%91i+OR+ph%E1%BA%ABn+n%E1%BB%99+OR+g%C3%A2y+x%C3%B4n+xao)+when:1d"),
     ("Kenh14", "xh", "https://kenh14.vn/xa-hoi.rss"),
     # Mạng xã hội / viral
     ("Google Trends", "mxh", "https://trends.google.com/trending/rss?geo=VN"),
@@ -156,6 +156,13 @@ def parse_feed(raw: bytes, source: str, cat: str, now: datetime) -> list[dict]:
                 continue
             title = re.sub(r"\s+-\s+(Báo Mới|BAOMOI\.COM|baomoi\.com)$", "", title, flags=re.IGNORECASE)
             desc_raw = ""  # mô tả của Google News chỉ lặp lại tiêu đề
+        elif source == "Google News":
+            # bỏ đuôi " - Tên báo" ở tiêu đề, ghi tên báo vào phần mô tả
+            src_el = it.find("source")
+            paper = (src_el.text or "").strip() if src_el is not None else ""
+            if paper and title.endswith(" - " + paper):
+                title = title[: -len(paper) - 3]
+            desc_raw = f"Nguồn: {paper}" if paper else ""
         uid = link
         extra = {}
         if source == "Google Trends":
