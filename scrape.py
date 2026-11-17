@@ -27,6 +27,7 @@ TIMEOUT = 20
 
 # (tên báo, mục, đường dẫn RSS). Mục: "bds" = Bất động sản, "tc" = Tài chính,
 # "mxh" = Mạng xã hội: chủ đề đang lan truyền / được tìm và đọc nhiều nhất.
+GN = "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&"
 FEEDS = [
     ("VnExpress", "bds", "https://vnexpress.net/rss/bat-dong-san.rss"),
     ("VnExpress", "tc", "https://vnexpress.net/rss/kinh-doanh.rss"),
@@ -41,6 +42,9 @@ FEEDS = [
     ("VnEconomy", "tc", "https://vneconomy.vn/chung-khoan.rss"),
     ("Thanh Niên", "tc", "https://thanhnien.vn/rss/kinh-te.rss"),
     ("Tuổi Trẻ", "tc", "https://tuoitre.vn/rss/kinh-doanh.rss"),
+    # Báo Mới (baomoi.com) không còn RSS riêng -> lấy bài của Báo Mới qua Google News
+    ("Báo Mới", "bds", GN + "q=site:baomoi.com+(b%E1%BA%A5t+%C4%91%E1%BB%99ng+s%E1%BA%A3n+OR+nh%C3%A0+%C4%91%E1%BA%A5t+OR+chung+c%C6%B0)+when:2d"),
+    ("Báo Mới", "tc", GN + "q=site:baomoi.com+(t%C3%A0i+ch%C3%ADnh+OR+ch%E1%BB%A9ng+kho%C3%A1n+OR+ng%C3%A2n+h%C3%A0ng+OR+l%C3%A3i+su%E1%BA%A5t)+when:2d"),
     # Mạng xã hội / viral
     ("Google Trends", "mxh", "https://trends.google.com/trending/rss?geo=VN"),
     ("VnExpress", "mxh", "https://vnexpress.net/rss/tin-xem-nhieu.rss"),
@@ -134,6 +138,13 @@ def parse_feed(raw: bytes, source: str, cat: str, now: datetime) -> list[dict]:
         c = cat
         if c == "tc" and BDS_WORDS.search(title):
             c = "bds"
+        if source == "Báo Mới":
+            # Google News: chỉ giữ bài của baomoi.com, bỏ đuôi " - Báo Mới" ở tiêu đề
+            src_el = it.find("source")
+            if src_el is not None and "baomoi.com" not in (src_el.get("url") or ""):
+                continue
+            title = re.sub(r"\s+-\s+(Báo Mới|BAOMOI\.COM|baomoi\.com)$", "", title, flags=re.IGNORECASE)
+            desc_raw = ""  # mô tả của Google News chỉ lặp lại tiêu đề
         uid = link
         extra = {}
         if source == "Google Trends":
