@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-17T15:26:16+07:00",
-"new": 230,
+"updated": "2026-11-17T15:27:50+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -124,14 +124,6 @@
 {
 "name": "Dân Trí",
 "cat": "xh",
-"url": "https://dantri.com.vn/rss/xa-hoi.rss",
-"ok": false,
-"count": 0,
-"error": "HTTPError: HTTP Error 404: Not Found"
-},
-{
-"name": "Dân Trí",
-"cat": "xh",
 "url": "https://dantri.com.vn/rss/phap-luat.rss",
 "ok": true,
 "count": 100
@@ -165,11 +157,11 @@
 "count": 1000
 },
 {
-"name": "Lao Động",
+"name": "Google News",
 "cat": "xh",
-"url": "https://laodong.vn/rss/xa-hoi.rss",
+"url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(b%E1%BB%A9c+x%C3%BAc+OR+nh%E1%BB%A9c+nh%E1%BB%91i+OR+ph%E1%BA%ABn+n%E1%BB%99+OR+g%C3%A2y+x%C3%B4n+xao)+when:1d",
 "ok": true,
-"count": 0
+"count": 2
 },
 {
 "name": "Kenh14",
@@ -272,6 +264,17 @@
 "found": "2026-11-17T09:22:54+07:00"
 },
 {
+"id": "acdba461e1dd",
+"title": "Sắp đấu giá 7 mỏ đất, đá, cát tại Phú Thọ",
+"link": "https://cafef.vn/sap-dau-gia-7-mo-dat-da-cat-tai-phu-tho-188261117151434706.chn",
+"summary": "Nhằm chủ động nguồn vật liệu phục vụ các dự án hạ tầng và nhu cầu xây dựng của người dân, UBND tỉnh Phú Thọ vừa phê duyệt phương án giá khởi điểm và tiền đặt trước cho 7 khu vực mỏ đất san lấp, đá xây dựng và cát lòng sông trên địa bàn.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1794901668971-17949016695661234697809.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-17T15:24:00+07:00",
+"found": "2026-11-17T15:27:50+07:00"
+},
+{
 "id": "d830a75ddc64",
 "title": "Vì sao hơn 1 tấn giá đỗ ở Cà Mau bị tiêu hủy?",
 "link": "https://thanhnien.vn/vi-sao-hon-1-tan-gia-do-o-ca-mau-bi-tieu-huy-18526111714411461.htm",
@@ -336,6 +339,18 @@
 "cat": "tc",
 "published": "2026-11-17T15:13:57+07:00",
 "found": "2026-11-17T15:25:28+07:00"
+},
+{
+"id": "19a90726afd8",
+"title": "ly meo",
+"link": "https://vnexpress.net/hotgirl-ly-meo-ra-toa-sau-3-thang-dau-thu-5145702.html",
+"summary": "'Hotgirl' Ly Meo ra tòa sau 3 tháng đầu thú (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj3d9x5sXQIpxAzfC09j4mHcESi4R6_wjsoxFSnHrpxQn5EIFTXiouGyXiu4k",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-17T15:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-17T15:27:50+07:00"
 },
 {
 "id": "d1ad50a548f7",
@@ -612,7 +627,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-17T14:40:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-17T15:25:28+07:00"
 },
 {
@@ -3939,6 +3954,17 @@
 "found": "2026-11-17T15:26:16+07:00"
 },
 {
+"id": "77ab038c6c38",
+"title": "Giá vàng hôm nay 16/11: Thế giới giảm, SJC bốc hơi 5 triệu so với đầu tháng 11",
+"link": "https://vietnamnet.vn/gia-vang-hom-nay-16-11-the-gioi-du-bao-giam-vang-sjc-di-xuong-2575219.html",
+"summary": "Giá vàng thế giới giảm mạnh tuần qua, xuống dưới mốc 3.900 USD/ounce do lạm phát Mỹ cao và kỳ vọng chính sách tiền tệ thắt chặt. Trong nước, vàng miếng SJC chốt tuần ở mức 134,5-137,5 triệu đồng/lượng, giảm 5 triệu đồng/lượng so với đầu tháng 11.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/15/11-the-gioi-giam-sjc-boc-hoi-5-trieu-so-voi-dau-thang-11-1840.jpg?width=0&s=keQX1OxF97OCRdKm-7L1-A",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-17T09:17:37+07:00",
+"found": "2026-11-17T15:27:50+07:00"
+},
+{
 "id": "79ebc5acdf4a",
 "title": "TP.HCM: Hơn 9,7 triệu người đã khám sức khỏe, tỉ lệ khám nhóm sinh viên thấp nhất",
 "link": "https://tuoitre.vn/tphcm-hon-97-trieu-nguoi-da-kham-suc-khoe-ti-le-kham-nhom-sinh-vien-thap-nhat-100261117081914392.htm",
@@ -4003,6 +4029,17 @@
 "cat": "xh",
 "published": "2026-11-17T09:11:00+07:00",
 "found": "2026-11-17T15:26:16+07:00"
+},
+{
+"id": "025220c84d3b",
+"title": "Yamal được minh oan vụ bị nghi phân biệt chủng tộc người Trung Quốc",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNamxNeUljTzBxS2p3OGtaeDBnazVZSnBlbEZ5cTdsTWV0SS1IMlk4SWJoM3ZHcGxKWVhwNkpQUVFpenkxN2pTU003RF9kNnhzRkdLamhUcU5iaUFzOE9DWWptLWdmNVRFVGlpVDFXNThvcjdISks1Y0JkNjUyanh4TDFBc1g1VW9OX1ctS3pyT0xITzI5MHNHVkZYT2hSN1ctTng5Tk9ON3Ytd081RzdZcUE0dC03UQ?oc=5",
+"summary": "Nguồn: Tin tức 24h",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-17T09:10:12+07:00",
+"found": "2026-11-17T15:27:50+07:00"
 },
 {
 "id": "b134defec1ed",
@@ -5015,6 +5052,17 @@
 "cat": "bds",
 "published": "2026-11-17T07:00:00+07:00",
 "found": "2026-11-17T15:25:28+07:00"
+},
+{
+"id": "bb7f976d488e",
+"title": "Không dám tin đây là con gái 11 tuổi thừa kế 1300 tỷ của Kwon Sang Woo",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOUZMbUFtX1hEM3NqdmZRVkpMS1VjejZUeW5DVTNiU3QwNFd3SGFXRlRzUS1GZ2R2LWtWQ2U1Y2dUeEhnZE9haTA4LTlOSzJXTVdScE9ZeHZxOFBhY1JVVDdnQUVxMkdVbnlpSGxBdGQwUzc0eVZ1V0t5QkMzcjdMMkNNd1FEOU5BcExHTWh2TWo2a0VFVDRJbEk5VS10a2swdk1jZ0pMUThnQnptb29LUA?oc=5",
+"summary": "Nguồn: Kenh14.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-17T06:59:00+07:00",
+"found": "2026-11-17T15:27:50+07:00"
 },
 {
 "id": "b25cf1aa42e2",
@@ -10375,6 +10423,17 @@
 "found": "2026-11-17T15:26:16+07:00"
 },
 {
+"id": "6fb018a88d34",
+"title": "Giá vàng miếng, vàng nhẫn 9999 chiều ngày 16/11 tại SJC, DOJI, PNJ, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải,...",
+"link": "https://cafef.vn/gia-vang-mieng-vang-nhan-9999-sang-16-11-tai-sjc-doji-pnj-bao-tin-minh-chau-bao-tin-manh-hai-18826111607421068.chn",
+"summary": "Vàng miếng SJC tiếp tục được các doanh nghiệp niêm yết quanh mức 137,5 – 138 triệu đồng/lượng ở chiều bán ra, trong khi giá vàng nhẫn cũng không thay đổi tại các thương hiệu.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/16/avatar1794811450253-17948114505561161486623.jpeg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-16T13:44:00+07:00",
+"found": "2026-11-17T15:27:50+07:00"
+},
+{
 "id": "b5ffcf77a216",
 "title": "Sang Lào, Campuchia trồng chuối, một tỷ phú Việt vừa 'chốt deal' 680.000 tấn: Được Mỹ, Nhật Bản, Trung Quốc bắt tay mua hàng, doanh thu xuất khẩu dự kiến gần 500 triệu USD",
 "link": "https://kenh14.vn/sang-lao-campuchia-trong-chuoi-mot-ty-phu-viet-vua-chot-deal-680000-tan-duoc-my-nhat-ban-trung-quoc-bat-tay-mua-hang-doanh-thu-xuat-khau-du-kien-gan-500-trieu-usd-215261115232045084.chn",
@@ -11265,73 +11324,6 @@
 "cat": "xh",
 "published": "2026-11-16T11:37:35+07:00",
 "found": "2026-11-17T15:26:16+07:00"
-},
-{
-"id": "d812f12cdc66",
-"title": "Đề xuất mới về nhà ở xã hội, chuyên gia lo người mua khó vay vốn",
-"link": "https://dantri.com.vn/bat-dong-san/de-xuat-moi-ve-nha-o-xa-hoi-chuyen-gia-lo-nguoi-mua-kho-vay-von-20261116110242029.htm",
-"summary": "(Dân trí) - Đề xuất chỉ cho phép bán lại nhà ở xã hội sau 5 năm cho người đủ điều kiện mua nhằm hạn chế nguy cơ lợi dụng chính sách, song có thể phát sinh vướng mắc về tín dụng, định giá và thủ tục chuyển nhượng.",
-"image": "https://cdnphoto.dantri.com.vn/FOtcY766lvvadeJgrMqzdxQmDWA=/2026/08/10/nha-o-xa-hoi-tro-lai-duong-dua-khuay-dao-nguon-cung-tu-ha-noi-den-tphcm-cropped-1786334201701.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-16T11:35:40+07:00",
-"found": "2026-11-16T12:05:56+07:00"
-},
-{
-"id": "9a11e160039c",
-"title": "Căn hộ bàn giao thô ven biển: đáp số thỏa mãn cả gu sống lẫn gu đầu tư của cư dân trẻ",
-"link": "https://cafef.vn/can-ho-ban-giao-tho-ven-bien-dap-so-thoa-man-ca-gu-song-lan-gu-dau-tu-cua-cu-dan-tre-188261116112415111.chn",
-"summary": "Lợi suất cho thuê dài hạn tại TP.HCM cũ hiện chỉ quanh 3%/năm, trong khi ở Vũng Tàu đạt khoảng 4,2%. Khoảng chênh ấy đang kéo nhiều nhà đầu tư về với căn hộ biển bàn giao thô Beachtro Tower bên biển Bãi Sau.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/16/photo1794794959556-17947949599111114289950-17948030601261562285706.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-16T11:30:00+07:00",
-"found": "2026-11-16T12:05:56+07:00"
-},
-{
-"id": "1ad8bdf18ded",
-"title": "bóng bàn",
-"link": "https://vnexpress.net/viet-nam-gianh-hc-vang-don-nam-bong-ban-dong-nam-a-2026-5144738.html",
-"summary": "Việt Nam giành HC vàng đơn nam bóng bàn Đông Nam Á 2026 (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQa1ycwM7-iZpDjvCjdPl8JOosYPE13nmPO3aAdfD6mfYd0fUokNCYqb7eEfk",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-16T11:30:00+07:00",
-"traffic": "100+",
-"found": "2026-11-16T12:05:56+07:00"
-},
-{
-"id": "212c662c1b27",
-"title": "Nhóm ‘Con yêu bố mẹ’ gần 140.000 thành viên, bạn trẻ thể hiện tình cảm mê hoặc dân mạng",
-"link": "https://tuoitre.vn/nhom-con-yeu-bo-me-gan-140000-thanh-vien-ban-tre-the-hien-tinh-cam-me-hoac-dan-mang-100261116102104645.htm",
-"summary": "Những dòng trạng thái hồn nhiên của con trẻ trong hội nhóm 'Con yêu bố mẹ' với gần 140.000 thành viên (ghi nhận sáng 16-11) nhận được nhiều sự quan tâm và thích thú.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/16/17947995842951292194897526244223207470934787180654caa96652d1fe56ed5d9efab70adaf0e8-17947998501551261201738-0-15-706-1145-crop-1794799867112593558810.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-16T11:30:00+07:00",
-"found": "2026-11-16T12:05:56+07:00"
-},
-{
-"id": "c10e41d4d508",
-"title": "Diện mạo nút giao 4 tầng đầu tiên ở TP HCM",
-"link": "https://vnexpress.net/dien-mao-nut-giao-4-tang-dau-tien-o-tp-hcm-5145043.html",
-"summary": "Nút giao Mỹ Thủy vốn hơn 3.400 tỷ đồng, dự kiến hoàn thành quý I/2027, trở thành nút giao 4 tầng đầu tiên ở TP HCM, giảm ùn tắc cửa ngõ Cát Lái.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/wm1-dji-1794812037.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DfakHiHyjD-BtmhFehsupg",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-16T11:30:00+07:00",
-"found": "2026-11-16T16:13:39+07:00"
-},
-{
-"id": "9298f5ca9ab4",
-"title": "Diện mạo nút giao 4 tầng với cầu vượt thép lớn nhất TP HCM",
-"link": "https://vnexpress.net/dien-mao-nut-giao-4-tang-voi-cau-vuot-thep-lon-nhat-tp-hcm-5145043.html",
-"summary": "Nút giao Mỹ Thủy 4 tầng vốn hơn 3.400 tỷ đồng gồm cầu vượt thép quy mô lớn nhất thành phố dự kiến hoàn thành quý I/2027, giúp giảm ùn tắc cửa ngõ Cát Lái.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/wm1-dji-1794818590.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P-nK5WeThK0QBjLA6ZEWfQ",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-16T11:30:00+07:00",
-"found": "2026-11-16T18:54:09+07:00"
 }
 ]
 }
