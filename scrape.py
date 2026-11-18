@@ -75,7 +75,8 @@ BDS_WORDS = re.compile(
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 MEDIA_NS = "{http://search.yahoo.com/mrss/}"
-BAD_DATES: dict[str, str] = {}  # báo nào ghi ngày giờ lạ -> mẫu để sửa
+BAD_DATES: dict[str, str] = {}
+TZ_FIXED: dict[str, str] = {}   # báo nào ghi sai múi giờ (đã tự sửa)  # báo nào ghi ngày giờ lạ -> mẫu để sửa
 
 
 def clean_text(raw: str | None, limit: int = 280) -> str:
@@ -141,10 +142,9 @@ def parse_feed(raw: bytes, source: str, cat: str, now: datetime) -> list[dict]:
         desc_raw = it.findtext("description") or ""
         raw_date = it.findtext("pubDate") or it.findtext("{http://purl.org/dc/elements/1.1/}date")
         pub = parse_date(raw_date)
+        guess = pub is None
         if pub is None:
             BAD_DATES.setdefault(source, str(raw_date)[:60])
-            pub = now
-        if pub > now + timedelta(hours=1):  # giờ sai trong RSS
             pub = now
         c = cat
         if c == "tc" and BDS_WORDS.search(title):
@@ -190,9 +190,21 @@ def parse_feed(raw: bytes, source: str, cat: str, now: datetime) -> list[dict]:
             "image": find_image(it, desc_raw),
             "source": source,
             "cat": c,
-            "published": pub.isoformat(timespec="seconds"),
+            "published": pub,
+            "_guess": guess,
             **extra,
         })
+    # Vài báo (vd Kenh14) ghi giờ Việt Nam nhưng gắn nhãn GMT -> lệch +7 tiếng,
+    # tin mới bị "ở tương lai". Phát hiện theo cả nguồn rồi trừ 7 tiếng cho mọi tin.
+    if any(i["published"] > now + timedelta(minutes=10) for i in items if not i["_guess"]):
+        TZ_FIXED[source] = "-7h"
+        for i in items:
+            if not i["_guess"]:
+                i["published"] -= timedelta(hours=7)
+    for i in items:
+        if i["published"] > now:  # vẫn còn lệch vài phút -> lấy giờ hiện tại
+            i["published"] = now
+        i["published"] = i["published"].isoformat(timespec="seconds")
     return items
 
 
@@ -222,6 +234,17 @@ def main() -> int:
         except json.JSONDecodeError:
             pass
     known = {i["id"]: i for i in old.get("items", [])}
+    if not old.get("fix_kenh14_tz"):
+        # sửa 1 lần các tin Kenh14 cũ đã lưu với giờ lệch +7 tiếng
+        for i in known.values():
+            if i.get("source") != "Kenh14":
+                continue
+            m = re.search(r"-2\d{2}(\d{12})\d*\.chn$", i.get("link", ""))
+            if i.get("published", "")[:16] == i.get("found", "")[:16] and m:
+                t = datetime.strptime(m.group(1), "%y%m%d%H%M%S").replace(tzinfo=VN_TZ)  # giờ tạo bài trong link
+            else:
+                t = datetime.fromisoformat(i["published"]) - timedelta(hours=7)
+            i["published"] = min(t, now).isoformat(timespec="seconds")
 
     with ThreadPoolExecutor(max_workers=8) as pool:
         results = list(pool.map(lambda f: scrape_one(f, now), FEEDS))
@@ -237,10 +260,11 @@ def main() -> int:
                     old_item["cat"] = "bds"
                 if item.get("traffic"):
                     old_item["traffic"] = item["traffic"]
-                # sửa giờ đăng cũ bị ghi nhầm bằng giờ cào (do RSS ghi giờ lạ)
-                if old_item.get("published", "")[:16] == old_item.get("found", "")[:16] and item["published"][:16] != now.isoformat()[:16]:
+                # luôn dùng giờ đăng thật mới nhất từ RSS (sửa giờ cũ bị ghi sai)
+                if not item["_guess"]:
                     old_item["published"] = item["published"]
                 continue
+            item.pop("_guess", None)
             item["found"] = now.isoformat(timespec="seconds")
             known[item["id"]] = item
             new_count += 1
@@ -267,6 +291,8 @@ def main() -> int:
         "new": new_count,
         "sources": statuses,
         "bad_dates": BAD_DATES,
+        "tz_fixed": TZ_FIXED,
+        "fix_kenh14_tz": True,
         "items": unique,
     }
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=0), "utf-8")

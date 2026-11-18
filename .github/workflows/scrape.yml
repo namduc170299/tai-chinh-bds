@@ -18,23 +18,30 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 75
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Cào tin
-        run: python3 scrape.py
-      - name: Lưu kết quả
+      # Lịch "*/15" của GitHub thực tế chỉ chạy ~1 tiếng/lần, nên mỗi lượt tự lặp:
+      # cào ngay, rồi cứ 15 phút cào lại, trong ~60 phút. Lượt sau xếp hàng nối tiếp.
+      - name: Cào tin mỗi 15 phút
         run: |
           git config user.name "tin-bot"
           git config user.email "tin-bot@users.noreply.github.com"
-          git add data/news.json
-          if git diff --cached --quiet; then
-            echo "Không có thay đổi"
-          else
-            git commit -m "Cập nhật tin $(TZ=Asia/Ho_Chi_Minh date '+%d/%m %H:%M')"
-            git pull --rebase --autostash || true
-            git push
-          fi
+          end=$(( $(date +%s) + 58*60 ))
+          while :; do
+            git pull --rebase --autostash -q || true
+            python3 scrape.py || true
+            git add data/news.json
+            if git diff --cached --quiet; then
+              echo "Không có thay đổi"
+            else
+              git commit -q -m "Cập nhật tin $(TZ=Asia/Ho_Chi_Minh date '+%d/%m %H:%M')"
+              git pull --rebase --autostash -q || true
+              git push -q || echo "push lỗi, thử lại lượt sau"
+            fi
+            [ $(( $(date +%s) + 15*60 )) -gt $end ] && break
+            sleep 900
+          done

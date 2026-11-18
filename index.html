@@ -143,7 +143,7 @@ footer summary{cursor:pointer;font-weight:600}
 <script>
 (function(){
   var DATA_URL = "data/news.json";
-  var RELOAD_MS = 5 * 60 * 1000;
+  var RELOAD_MS = 2 * 60 * 1000;
   var state = { data:null, cat:"all", q:"", range:"today", source:"" };
 
   function load(k, d){ try{ var v = localStorage.getItem("tin:"+k); return v ? JSON.parse(v) : d; }catch(e){ return d; } }
@@ -173,7 +173,7 @@ footer summary{cursor:pointer;font-weight:600}
     var mins = Math.round((Date.now() - up) / 60000);
     var ago = mins < 1 ? "vừa xong" : mins < 60 ? mins + " phút trước" : Math.floor(mins/60) + " giờ trước";
     $("statusText").innerHTML = "Cập nhật <b>" + fmtTime.format(up) + "</b> · " + ago + " · " + (d.new||0) + " tin mới";
-    $("dot").classList.toggle("stale", mins > 50);
+    $("dot").classList.toggle("stale", mins > 40);
   }
 
   function renderSources(){
