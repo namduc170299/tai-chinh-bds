@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-19T21:28:56+07:00",
-"new": 17,
+"updated": "2026-11-19T21:44:08+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(b%E1%BB%A9c+x%C3%BAc+OR+nh%E1%BB%A9c+nh%E1%BB%91i+OR+ph%E1%BA%ABn+n%E1%BB%99+OR+g%C3%A2y+x%C3%B4n+xao)+when:1d",
 "ok": true,
-"count": 1
+"count": 0
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,39 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "5b3bb3c97f04",
+"title": "Lại mất mốc 1700 điểm, công ty chứng khoán bình luận gì?",
+"link": "https://vneconomy.vn/lai-mat-moc-1700-diem-cong-ty-chung-khoan-binh-luan-gi.htm",
+"summary": "VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 20/11/2026.",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/19/e9bd5c6488d34dce97c10b24201eee4d-137207.gif",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-19T21:36:27+07:00",
+"found": "2026-11-19T21:44:08+07:00"
+},
+{
+"id": "6b4bb12ec281",
+"title": "Sẽ có hơn 220 chuyến bay/tuần khai thác ở Long Thành 3 tháng đầu",
+"link": "https://kenh14.vn/se-co-hon-220-chuyen-bay-tuan-khai-thac-o-long-thanh-3-thang-dau-215261119181733205.chn",
+"summary": "Trong 3 tháng đầu khai thác sân bay Long Thành, căn cứ đăng ký của hai hãng hàng không Vietnam Airlines và Vietjet Air, dự kiến có tối đa hơn 220 chuyến bay/tuần được triển khai.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795086958954-17950869596901062506480.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-19T21:29:00+07:00",
+"found": "2026-11-19T21:44:08+07:00"
+},
+{
+"id": "151526a79d7a",
+"title": "Thị trường bán lẻ Hà Nội mở rộng ra ngoài các khu vực trung tâm truyền thống",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ25GZ2prVDF6UDAzaVRwYl9ZRjlNQUI2NUxoQzB5TFNXcTZHd1U2cUZaTzZSYmxiU05SZEctUUlURGppQmVFRXZnQ3RUOE1LdDBlZW5rX1VmLWFCcjd1WVE5SVZGMjlxVW1HZlUtZE96RjR6bUZLVEFaamprMkpsNHlNRWMyNkFyeDJBWXBZelhoQlhsX3otQ09RanVpVklhZTBHNDRKZWpwV2JfYUE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T21:26:00+07:00",
+"found": "2026-11-19T21:44:08+07:00"
+},
 {
 "id": "201c9198834a",
 "title": "Vụ chuỗi Món Huế sụp đổ: Tình tiết bất ngờ, xuất hiện tài khoản “ma” có số dư gần 2.000 tỷ đồng",
@@ -1120,6 +1153,17 @@
 "cat": "xh",
 "published": "2026-11-19T19:21:26+07:00",
 "found": "2026-11-19T20:00:10+07:00"
+},
+{
+"id": "9e17b07f096e",
+"title": "VAFI đề xuất giảm một nửa thuế giao dịch chứng khoán",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0Z3SHY5TDF5RF9FR1ByQ2JMeUpnQUJCQXpvdVpLUUMyVG9MRk1CcS1ROERpMUo5cGFIb0pVY0R3REZMUHFtWmk5QlM4ZVBoNnpDa1dDZ3BqQmdXbU9SdktZS0dSb0VFVFJ6ZDhlczVaU0diUC1vWUFobWItZDlQRF9TNDhCMHQ2SWg3RC1B?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T19:21:23+07:00",
+"found": "2026-11-19T21:44:08+07:00"
 },
 {
 "id": "e41faf511a55",
@@ -27915,50 +27959,6 @@
 "cat": "xh",
 "published": "2026-11-17T14:33:00+07:00",
 "found": "2026-11-17T15:26:16+07:00"
-},
-{
-"id": "409fbc9dae69",
-"title": "Giá vàng trong nước “lệch pha” thế giới: Người mua chịu rủi ro kép",
-"link": "https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-lech-pha-the-gioi-nguoi-mua-chiu-rui-ro-kep-20261117140955500.htm",
-"summary": "(Dân trí) - Người mua vàng trong nước đang chịu hai rủi ro, gồm phần chênh lệch với thế giới có thể bị thu hẹp và chênh lệch giữa giá vàng mua vào - bán ra, đang vào khoảng 3-4 triệu đồng/lượng.",
-"image": "https://cdnphoto.dantri.com.vn/L8CLS9J-PwbAl0LsoPUlUCh9enc=/2026/02/26/vang-sjc-1-chijpg-1772066440936.jpg?watermark=v1,v2",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-17T14:32:05+07:00",
-"found": "2026-11-17T15:25:28+07:00"
-},
-{
-"id": "f0422b124a99",
-"title": "Tuyên Quang bổ nhiệm tân Giám đốc Sở GD-ĐT",
-"link": "https://thanhnien.vn/tuyen-quang-bo-nhiem-tan-giam-doc-so-gd-dt-18526111714042399.htm",
-"summary": "Ông Ma Quang Hiếu được điều động, bổ nhiệm làm Giám đốc Sở GD-ĐT Tuyên Quang sau khi người tiền nhiệm bị khởi tố trong vụ án gian lận ở kỳ thi tốt nghiệp năm 2026.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/anh-man-hinh-2026-11-17-luc-140232-1794898963138869177106-0-0-1544-2470-crop-17948990270311438343298.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T14:32:00+07:00",
-"found": "2026-11-17T15:26:16+07:00"
-},
-{
-"id": "78e6df592d2c",
-"title": "Khởi tố thanh niên giết người tình trong phòng trọ",
-"link": "https://thanhnien.vn/khoi-to-thanh-nien-giet-nguoi-tinh-trong-phong-tro-185261117125134161.htm",
-"summary": "Nam thanh niên 24 tuổi giết người tình 32 tuổi tại phòng trọ ở xã Phú Quới, tỉnh Vĩnh Long. Công an tỉnh này ra quyết định khởi tố, bắt tạm giam bị can.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/2aoborbvn492r0egqohpjtne6izeq6yarpnabnw0-1794894333030460577140-40-0-640-960-crop-17948964866621121693724.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T14:32:00+07:00",
-"found": "2026-11-17T15:26:16+07:00"
-},
-{
-"id": "0422eb543b3c",
-"title": "Công an Vĩnh Long khởi tố kẻ sát hại người tình trong phòng trọ",
-"link": "https://thanhnien.vn/cong-an-vinh-long-khoi-to-ke-sat-hai-nguoi-tinh-trong-phong-tro-185261117125134161.htm",
-"summary": "Nam thanh niên 24 tuổi giết người tình 32 tuổi tại phòng trọ ở xã Phú Quới, tỉnh Vĩnh Long. Công an tỉnh này ra quyết định khởi tố, bắt tạm giam bị can.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/2aoborbvn492r0egqohpjtne6izeq6yarpnabnw0-1794894333030460577140-40-0-640-960-crop-17948964866621121693724.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T14:32:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
 }
 ]
 }
