@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T04:33:35+07:00",
-"new": 0,
+"updated": "2026-11-20T04:33:53+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 27
 },
 {
 "name": "Kenh14",
@@ -2655,6 +2655,17 @@
 "found": "2026-11-19T19:30:12+07:00"
 },
 {
+"id": "4defaa778b27",
+"title": "Bất chấp yêu cầu chấm dứt, quán cà phê vẫn kinh doanh dưới tán rừng thông",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVdyNTMxTHZvUXk0NFVveUpjeG82WUwtd0I4eTFJYndxaDk3SjlmcXpXVWFDWXpDRlV1U0hhSVpzUU02cDV5V3kxRENESFZxVFlvZU8wUl9KbXdLQnotamdMMHk5RVVBMDgtbUVNVkRlUnl0U21TX3lUM1RLQ2dacFZyQV9xUmo0VWd6S3NyTW9IUTlsZHlTREgzV2NLQ0c3N1luUUJpV3c?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T17:30:41+07:00",
+"found": "2026-11-20T04:33:53+07:00"
+},
+{
 "id": "524ed1f2785d",
 "title": "Sovico hợp tác ngân hàng Mizuho thúc đẩy kết nối tài chính",
 "link": "https://vnexpress.net/sovico-hop-tac-ngan-hang-mizuho-thuc-day-ket-noi-tai-chinh-5146715.html",
@@ -3420,6 +3431,17 @@
 "cat": "tc",
 "published": "2026-11-19T16:23:00+07:00",
 "found": "2026-11-19T16:49:44+07:00"
+},
+{
+"id": "3945d9108cbc",
+"title": "Cử tri đề xuất rà soát trụ sở dôi dư làm điểm sinh hoạt cộng đồng",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTU5SVThEMGpDNTNHNTRBNHZEb3l0MDFDeHIwZXFLTnJJU2t3SU8tdUhyRUozZGN5aFh4TkFjVVI0V1JNYjJWNzVPZ2tWNjVxNTI2ZkNHN1lBS0RmcENURTREcHU5LWlDU0NJaXk2VmYtWEJHdkQtN0Q5NDZxT1Yyd252aWdIREpoQng1dDV6NlloVzdTblpZZXc5WVZwWVE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T16:22:01+07:00",
+"found": "2026-11-20T04:33:53+07:00"
 },
 {
 "id": "69457f46e471",
@@ -4327,6 +4349,17 @@
 "found": "2026-11-19T15:31:26+07:00"
 },
 {
+"id": "4a6a3e6b7aec",
+"title": "Đà Nẵng lấy ý kiến kế hoạch ứng phó sự cố hóa chất",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYjBBZi1lZ3ZXTTRiaU5mVkxBeGQ5bzVPSW5wSnpDZndmTGRvM05VN1N0VERXUy12OVE0SENDeWxfZ2xsZHBuWWtsTmNkZkFQLTR1bWFHd3AwLVkwS1pETkI5OXRzRHBEOXhhMllVdFA1Zml2U3dpYl9JczlSSUF5R0s5TTd2ejMtZkNr?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T15:15:00+07:00",
+"found": "2026-11-20T04:33:53+07:00"
+},
+{
 "id": "d07705b79bd1",
 "title": "Chủ đầu tư khó hạ giá nhà dù thanh khoản kém",
 "link": "https://vnexpress.net/chu-dau-tu-kho-ha-gia-nha-du-thanh-khoan-kem-5141495.html",
@@ -4490,6 +4523,17 @@
 "cat": "tc",
 "published": "2026-11-19T15:05:00+07:00",
 "found": "2026-11-19T15:31:26+07:00"
+},
+{
+"id": "0329f3ded0eb",
+"title": "Tuổi trẻ EVNHCMC lắp hơn 500 bộ đèn, thắp sáng nhiều tuyến hẻm",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNWZXdnRSclhndlBzZnZSNDZuNzJ2T0g2RDVXeW5hSkJvN0F1Q3AzdXl1dDBwSndzMmtBd1ZQSm9XdUJCam9VRklvQ05xY3lMYXRqdEtzSVF2bzVIMkNRaXNQWGlJYS14MEZrU0R3bnJyZFotVkUzeHRxZkRUZXhWc095VTJ6VHVEeXJ1RFVaMnJiWGtCb0g5QmpR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T15:05:00+07:00",
+"found": "2026-11-20T04:33:53+07:00"
 },
 {
 "id": "1f1859552d34",
@@ -19485,6 +19529,17 @@
 "found": "2026-11-18T11:23:38+07:00"
 },
 {
+"id": "07b54c09d9ef",
+"title": "Công khai, minh bạch là yêu cầu bắt buộc trong thực hiện các Chương trình mục tiêu quốc gia",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMi1yc1BhanJYbjF3LWhvcEdfVHFrVVlWa2ZtcllPV2RSd19BTEE2SGhTOUNSNFViem9qeXBhTE5fMWNiazd6anFkdXo4Wi1LUEJIbXc2SHVaWUh4OXRGNXV5bDM0dEVwM0lTMkMwZlp4YVp6bHJTV1RYRzBibXBCYjh0NEZmdmxIVG1nZTdxckI0LTYwOS1ueERLQVNGSlc5TmxwRVE0S1RMekpIQ2VsclVkRlBrT3lHMUgyM3M4MHc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-18T11:06:00+07:00",
+"found": "2026-11-20T04:33:53+07:00"
+},
+{
 "id": "0f277207e41c",
 "title": "Giá vàng hôm nay 18/11: Vẫn đang dò đáy",
 "link": "https://cafef.vn/gia-vang-hom-nay-18-11-van-dang-do-day-188261118110339066.chn",
@@ -27902,61 +27957,6 @@
 "published": "2026-11-17T16:10:00+07:00",
 "traffic": "20000+",
 "found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "1c8d5871924f",
-"title": "Phó bí thư Thành ủy Nguyễn Phước Lộc: Mong đội ngũ nhà giáo góp tri thức xây dựng và phát triển TP.HCM",
-"link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-nguyen-phuoc-loc-mong-doi-ngu-nha-giao-gop-tri-thuc-xay-dung-va-phat-trien-tphcm-100261117133955616.htm",
-"summary": "Trưa 17-11, Ủy ban Mặt trận Tổ quốc Việt Nam TP.HCM tổ chức họp mặt chúc mừng các nhà giáo là Ủy viên Ủy ban Mặt trận Tổ quốc Việt Nam TP.HCM nhân kỷ niệm 44 năm Ngày Nhà giáo Việt Nam 20-11.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/pbtnguyenphuocloc-17948974162851401844840-17949069877001342020479-95-119-1393-2196-crop-1794907064150642573595.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T16:09:00+07:00",
-"found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "7e45ac197989",
-"title": "Khởi công dự án Nhà ở xã hội Công đoàn tại thành phố Bắc Ninh",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWF6S3Y1czdmam5HNE1pSDJYRDUwY1J4YVZoUy1HTXFBeWdhbWlna0UwTXM3cWo1d3dfV3VNS0d4NEMyNWdnVVI5WXgyYXdpX0VLOTVMSmhiaVlZTFJMWkw3VGlGWVVwZ1NIUVljZXdRVGZKaHdPNlM3NHdGQ0ZDOE9maTRZeUFoS1VNNFgxcVF4a1JTWkpLcG1B?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T16:06:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "98eadcd0df7a",
-"title": "IPP Travel Retail - Biến phút chờ sân bay thành trải nghiệm đáng nhớ",
-"link": "https://vietnamnet.vn/ipp-travel-retail-bien-phut-cho-san-bay-thanh-trai-nghiem-dang-nho-2575913.html",
-"summary": "Với gần 30 cửa hàng và hơn 700 thương hiệu tại 4 sân bay quốc tế, IPP Travel Retail nỗ lực từng ngày để trải nghiệm mua sắm ở sân bay trở thành một phần đáng nhớ của hành trình.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/ipp-travel-retail-bien-phut-cho-san-bay-thanh-trai-nghiem-dang-nho-1770.jpg?width=0&s=iXQ1fKELBuTUPdeLZUG31Q",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-17T16:05:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "be5dc61e1866",
-"title": "Khu đất nào được TP.HCM thanh toán để làm cao tốc Hồ Tràm - Long Thành?",
-"link": "https://thanhnien.vn/khu-dat-nao-duoc-tphcm-thanh-toan-de-lam-cao-toc-ho-tram-long-thanh-185261117151503043.htm",
-"summary": "TP.HCM ưu tiên thanh toán 7 khu đất cho chủ đầu tư dự án cao tốc Hồ Tràm - Long Thành, trường hợp giá trị quỹ đất đối ứng thấp, ngân sách nhà nước sẽ xem xét thanh toán phần giá trị còn lại.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/edit-dji0295-17949029371352115158034-0-256-1440-2560-crop-17949029536142015151187.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T16:05:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "9a28020adf62",
-"title": "Thủ tướng Lê Minh Hưng đồng chủ trì Hội nghị cấp cao Mekong - Nhật Bản",
-"link": "https://tuoitre.vn/thu-tuong-le-minh-hung-dong-chu-tri-hoi-nghi-cap-cao-mekong-nhat-ban-100261117154057663.htm",
-"summary": "Thủ tướng Lê Minh Hưng đã cùng Thủ tướng Nhật Bản đồng chủ trì Hội nghị cấp cao Mekong - Nhật Bản, đồng thời có phát biểu quan trọng tại Hội nghị ASEAN+3 và ASEAN+1 với Nhật Bản, Hàn Quốc.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/thu-tuong-1794906887500320321851-42-21-1135-1770-crop-179490693913417738393.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T16:05:00+07:00",
-"found": "2026-11-17T17:38:00+07:00"
 }
 ]
 }
