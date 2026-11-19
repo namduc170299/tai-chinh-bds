@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T02:31:10+07:00",
-"new": 1,
+"updated": "2026-11-20T02:46:23+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 25
+"count": 26
 },
 {
 "name": "Thanh Niên",
@@ -1173,6 +1173,17 @@
 "cat": "tc",
 "published": "2026-11-19T20:03:00+07:00",
 "found": "2026-11-19T20:15:21+07:00"
+},
+{
+"id": "6be726c29443",
+"title": "Đằng sau cú IPO 81,3 tỷ USD của Anthropic và gần 2 tỷ USD của nhóm sáng lập",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU2lISlRLRXFaQkwzcXdKOENuQkJvYm1TMnJUc3lSRG0wN1M2ODgzcGk0Q1hmdHhtQU5MbjN6SUFQWjN3cFo5YU03dl9tZ2s1MGctb2Y2Z050ekpiME16c3pZOVNEMURJVjFPZ2dKZUJ5Vm14ZHBrU2VuNVlKa2FxcXJFaTRYeXVxbXJieXVId3YwU2hFRTR0ZnA3Z1B5VzVkU3kweEwzVGZaTnct?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T20:01:00+07:00",
+"found": "2026-11-20T02:46:23+07:00"
 },
 {
 "id": "aca3ab896627",
@@ -3424,6 +3435,17 @@
 "found": "2026-11-19T16:20:32+07:00"
 },
 {
+"id": "7a9ec8ccd223",
+"title": "Mỹ chưa phát hiện mối liên hệ giữa các sự cố tại Microsoft, FAA và ngân hàng",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGhMUXEzR3d6bXNxUGFiaG90bFRXUDREeUljQmJhOE1uLS11VUNMY1pGZlJESXJBbjN2WFFFRmpMTWF1czVxTUJBWGlQZnd5cVYxNDZCaWRyal9hYVY4ZHZaMnlVUWlocWRvMjJfWWRCWnNXTk41NVR6bVBydzlCYlpibWg2eU1DbnVkYTBaeVhFZlpUMzFKcFljSnpncnVVb1A4WEZRSTBuNXVZ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T16:08:00+07:00",
+"found": "2026-11-20T02:46:23+07:00"
+},
+{
 "id": "6ad06864fab6",
 "title": "Đà Nẵng phê duyệt dự án Khu đô thị Hòa Vang quy mô gần 19.000 tỷ đồng",
 "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWRnc3hZVEdhTmt2cGpueDlUN0FGUFh4T0VXS0ZIV3p5SzBTX0gwa1IyU3dUcDdrU2lSUnlIcFVURnQwZ09VNXBENVJRS1BfMFJzbUNranR1bXRhUVFOc2d2VjBwTHp1SE5scVBPV2pKSEgxWVBLVDM1am9Ld3BvNHJzaHNzTS0wSVBIZ21fUEhmMlVnQm5RSU1VR3g1MDdtTmlHNA?oc=5",
@@ -4788,6 +4810,17 @@
 "cat": "tc",
 "published": "2026-11-19T14:28:00+07:00",
 "found": "2026-11-19T15:31:26+07:00"
+},
+{
+"id": "dde9168e9a86",
+"title": "Động lực tăng trưởng và bài toán 'thẩm thấu' dòng vốn",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWM1UlcyTFJ2YWRVVzh1X09rbWY1aEk0WVBYUzRTTlhUQUgzVlBjd2NwU0ZpeXIyeXIzOTlySDJGak1zY2M0MENGX3QwVW04dF9kYXFnNDEtbVlKWExIc2pFNHVQeG9oWDl3QzdNSERaVjd6R1RpRzV3S3ZnOVpZajFtb0tBU3lSZ0h6bw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T14:26:52+07:00",
+"found": "2026-11-20T02:46:23+07:00"
 },
 {
 "id": "d8445fe393a4",
@@ -27924,39 +27957,6 @@
 "cat": "mxh",
 "published": "2026-11-17T15:38:27+07:00",
 "found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "2df5ed4126ee",
-"title": "Vụ Tập đoàn Mường Thanh \"Lừa dối khách hàng\": Dự kiến xét xử trong 13 ngày",
-"link": "https://cafef.vn/vu-tap-doan-muong-thanh-lua-doi-khach-hang-du-kien-xet-xu-trong-13-ngay-188261117153844935.chn",
-"summary": "Theo Quyết định mở phiên tòa xét xử sơ thẩm bị cáo Lê Thanh Thản (sinh năm 1950, Chủ tịch HĐQT, kiêm Tổng Giám đốc Công ty Bemes, Chủ tịch Tập đoàn Mường Thanh) và 5 bị cáo liên quan, Tòa án nhân dân thành phố Hà Nội dự kiến xét xử trong 13 ngày.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1794904714242-1794904714495380586193.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-17T15:38:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "9ee9ce3fe4cf",
-"title": "Hai bác sĩ Việt Nam cấp cứu hành khách đau bụng dữ dội trên chuyến bay đi Bắc Kinh",
-"link": "https://tuoitre.vn/hai-bac-si-viet-nam-cap-cuu-hanh-khach-dau-bung-du-doi-tren-chuyen-bay-di-bac-kinh-100261117152103885.htm",
-"summary": "Hành khách người Litva đau bụng dữ dội trên chuyến bay từ TP.HCM đi Bắc Kinh, khiến tổ bay cân nhắc hạ cánh khẩn cấp. Hai bác sĩ Việt Nam đã kịp thời hỗ trợ.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/hai-bac-si-viet-edit-1794905040535753338333-292-0-1572-2048-crop-17949051138951550589515.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-17T15:38:00+07:00",
-"found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "a28cdfe602c2",
-"title": "Hà Nội sắp mở bán nhà xã hội gần 30 triệu một m2 ở Đông Anh",
-"link": "https://vnexpress.net/ha-noi-sap-mo-ban-nha-xa-hoi-gan-30-trieu-mot-m2-o-dong-anh-5145689.html",
-"summary": "Từ ngày 17/12, chủ đầu tư sẽ nhận hồ sơ hơn 300 căn nhà xã hội tại xã Phúc Thịnh, với giá bán từ 1,1 tỷ đồng một căn.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/view-cong-vienx577-1794898622-9223-1794898784.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=a1FPLVRPhzbRIxbbjATg7w",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-17T15:37:37+07:00",
-"found": "2026-11-17T16:39:40+07:00"
 }
 ]
 }
