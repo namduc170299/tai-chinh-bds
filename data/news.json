@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-19T21:44:39+07:00",
-"new": 4,
+"updated": "2026-11-19T21:59:49+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Thanh Niên",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "d7a78f047a8b",
+"title": "VAFI đề xuất giảm 50% thuế giao dịch chứng khoán",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmxGUDltM1h0czdPUDVMUl9XU1FvN05wbG02aXUtMHV5Vm5SVlpJMGZmTGpEelRwV3c0VTRybEFjOE1WazhVQjhUcHdteUI2em1ad1hZOC1yTjZIMXBlUUhVSEFIRHJOU1ZFb2l2NlZkejJOV003N2xhNU5PUTVEQVN0dDQ2WjA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T21:45:00+07:00",
+"found": "2026-11-19T21:59:49+07:00"
+},
+{
+"id": "c105b18e818e",
+"title": "Ông Lê Thanh Thản nói lời sau cùng ngắn gọn, nhóm cựu cán bộ bày tỏ “băn khoăn”",
+"link": "https://kenh14.vn/ong-le-thanh-than-noi-loi-sau-cung-ngan-gon-nhom-cuu-can-bo-bay-to-ban-khoan-215261119212002467.chn",
+"summary": "Nói lời sau cùng trước khi Tòa nghị án, bị cáo Lê Thanh Thản cảm ơn Hội đồng xét xử, không có ý kiến gì thêm; nhóm cựu cán bộ phường Kiến Hưng và Thanh tra quận Hà Đông cũ, đều mong tòa xem xét hành vi, nhân thân và thành tích công tác để lượng hình.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795097926163-17950979265301756550395.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-19T21:43:00+07:00",
+"found": "2026-11-19T21:59:49+07:00"
+},
+{
 "id": "5b3bb3c97f04",
 "title": "Lại mất mốc 1700 điểm, công ty chứng khoán bình luận gì?",
 "link": "https://vneconomy.vn/lai-mat-moc-1700-diem-cong-ty-chung-khoan-binh-luan-gi.htm",
@@ -233,6 +255,17 @@
 "cat": "xh",
 "published": "2026-11-19T21:29:00+07:00",
 "found": "2026-11-19T21:44:08+07:00"
+},
+{
+"id": "2aa94d59f418",
+"title": "Đề xuất giảm phạt hơn 12.600 tỷ đồng cho người nộp thuế trạng thái 03, 06",
+"link": "https://dantri.com.vn/kinh-doanh/de-xuat-giam-phat-hon-12600-ty-dong-cho-nguoi-nop-thue-trang-thai-03-06-20261119211051912.htm",
+"summary": "(Dân trí) - Bộ Tài chính đề xuất giảm mức phạt đối với người nộp thuế ở trạng thái 03, 06 khi bổ sung hồ sơ khai thuế, hóa đơn còn thiếu. Mức giảm tiền phạt ước tính tối đa hơn 12.600 tỷ đồng.",
+"image": "https://cdnphoto.dantri.com.vn/PtDAqPZ_PzqSICr15m_eUQGX6TU=/2026/03/07/chinh-thuc-ho-kinh-doanh-doanh-thu-tu-1-ty-dong-buoc-dung-hoa-don-dien-tu-1772864582921.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-19T21:28:24+07:00",
+"found": "2026-11-19T21:59:49+07:00"
 },
 {
 "id": "151526a79d7a",
@@ -476,6 +509,17 @@
 "cat": "bds",
 "published": "2026-11-19T20:40:00+07:00",
 "found": "2026-11-19T20:58:36+07:00"
+},
+{
+"id": "28cec13c42c9",
+"title": "Vụ CT6 Kiến Hưng: Viện Kiểm sát đề nghị phương án bồi thường nào?",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLU9FZV9Uc3ZRYUVrMVlBVjBUOHhMM3ZkQ242VTNILXVoZ1pSU0hMQVRWNXFDYm9faWhNdlNLVXdVRjVQcnV3YVFpY1phVkRvWm52RDU0NWg1czh2cms2dUNvUmY0MFNVSkFZWnYxeWI2VmpFWlY3Qi1ydF9mWHVBUFIwby1ZdnRSZmxoaG5tdkRQNzl4Z0FZWVlzR3I?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T20:39:00+07:00",
+"found": "2026-11-19T21:59:49+07:00"
 },
 {
 "id": "555aa6b2ddf5",
@@ -1045,6 +1089,18 @@
 "found": "2026-11-19T21:28:56+07:00"
 },
 {
+"id": "ed0e74fe1067",
+"title": "shopee cup",
+"link": "https://www.24h.com.vn/bong-da/sao-dt-viet-nam-ghi-sieu-pham-xe-luoi-doi-thai-lan-duoc-ca-ngoi-dang-cap-the-gioi-c48a1812225.html",
+"summary": "Sao ĐT Việt Nam ghi siêu phẩm \"đẳng cấp thế giới\" xé lưới cựu thủ môn Ngoại hạng Anh (Tin tức 24h)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJSJ6bATvuNJYrTlYzB7ROVjdU7nYjaLYyZdppmaIjyOuv_MyFKMGYJwgHMsY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-19T19:30:00+07:00",
+"traffic": "500+",
+"found": "2026-11-19T21:59:49+07:00"
+},
+{
 "id": "9c8e55d2fc6c",
 "title": "Bó thép gần chục tấn đè sập cabin xe đầu kéo ở TP HCM",
 "link": "https://vnexpress.net/bo-thep-gan-chuc-tan-de-sap-cabin-xe-dau-keo-o-tp-hcm-5146777.html",
@@ -1597,7 +1653,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-19T18:30:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-19T18:59:52+07:00"
 },
 {
@@ -12507,18 +12563,6 @@
 "source": "Báo Mới",
 "cat": "bds",
 "published": "2026-11-18T18:30:00+07:00",
-"found": "2026-11-18T18:54:29+07:00"
-},
-{
-"id": "cd06e5b13d2e",
-"title": "shopee cup",
-"link": "https://tuoitre.vn/truc-tuyen-cong-an-tphcm-buriram-united-18h-chu-nha-vuot-kho-100261118105304241.htm",
-"summary": "Công An TP.HCM - Buriram United (Hiệp 1) 0-0: Lê Giang xuất sắc cứu thua (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSztth3U2kjTnXiP7WaMB3Jit6aw1FywK01qfbHrqn6tDPXr2uCpGo9EKvGUEE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T18:30:00+07:00",
-"traffic": "500+",
 "found": "2026-11-18T18:54:29+07:00"
 },
 {
@@ -27914,50 +27958,6 @@
 "cat": "mxh",
 "published": "2026-11-17T14:40:00+07:00",
 "traffic": "2000+",
-"found": "2026-11-17T15:25:28+07:00"
-},
-{
-"id": "cdc6174cf547",
-"title": "Hà Nội chốt thời hạn giải phóng mặt bằng đường 70, tăng tốc nâng cấp Quốc lộ 6",
-"link": "https://vietnamnet.vn/ha-noi-yeu-cau-giai-phong-xong-mat-bang-duong-70-trong-thang-12-2575858.html",
-"summary": "Hà Nội yêu cầu hoàn thành giải phóng mặt bằng đường 70 đoạn Hà Đông - Văn Điển - nút giao Tứ Hiệp trong tháng 12/2026, đồng thời thúc tiến độ nâng cấp Quốc lộ 6 đoạn Ba La - Xuân Mai.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/ha-noi-chot-thoi-han-giai-phong-mat-bang-duong-70-tang-toc-nang-cap-quoc-lo-6-1353.jpg?width=0&s=1OSD_oXOr6BxDf9nbzW81Q",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-17T14:39:44+07:00",
-"found": "2026-11-17T15:26:16+07:00"
-},
-{
-"id": "f67cf5b26aab",
-"title": "Doanh nghiệp công nghệ số có thêm 'bệ đỡ' về thuế, tài chính và bán dẫn",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXFIMUI4WVZUSEtFekJZNllaUFVHOEJwNHVreExaV0FOVndCWVV4aGJaQWNaNU1DMi02em1KdWtuaWcxUXVEZl9YYlJydXV2cUdyYmtVMUstZEpieFNLX0ZibmRsVFphZ1lNNWVycXFDZUFIRzNNdl9SWkpHbVpZLWxCT0llSkJ1bkl2dEpaaE9nMmR3RFZfR3dQM1UtZHdXT3Jz?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-17T14:38:54+07:00",
-"found": "2026-11-18T05:18:46+07:00"
-},
-{
-"id": "a2d19aedcf5d",
-"title": "Hà Nội gỡ từng điểm nghẽn, thúc tiến độ Quốc lộ 6 và đường 70",
-"link": "https://vietnamnet.vn/ha-noi-go-tung-diem-nghen-thuc-tien-do-quoc-lo-6-va-duong-70-2575853.html",
-"summary": "Hà Nội yêu cầu xử lý các vướng mắc về hạ tầng kỹ thuật trên Quốc lộ 6, hoàn thành giải phóng mặt bằng đường 70 trong tháng 12/2026, đồng thời bảo đảm cấp điện, nước và giao thông thông suốt cho người dân.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/ha-noi-go-tung-diem-nghen-thuc-tien-do-quoc-lo-6-va-duong-70-1343.jpg?width=0&s=A5h154ZHtTjmZGQv-CN7zw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-17T14:38:27+07:00",
-"found": "2026-11-17T15:26:16+07:00"
-},
-{
-"id": "cd89a93d6129",
-"title": "Tỉnh Thanh Hóa sắp có tòa nhà cao 35 tầng",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81SXl4Z0NZcEE2dVVRT3pRQWFZa3RXTmJZblhnNkhJcHVLWVB3ZGtHa0w2V3JFMDJOZlZNeXRHdGlNc0d4MGdHREZxRnlnVTVSaTR1QVVUZjhBS0xiaElDYks0Wk5EWjhTQTdVaTFQZHRGODh1cExuSmtVbkI3QTQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T14:37:00+07:00",
 "found": "2026-11-17T15:25:28+07:00"
 }
 ]
