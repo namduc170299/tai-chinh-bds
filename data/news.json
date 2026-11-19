@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T04:33:53+07:00",
+"updated": "2026-11-20T04:49:04+07:00",
 "new": 5,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 52
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,53 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "b81d9240ebbf",
+"title": "Chàng trai Khmer nghèo học hết lớp 3 trở thành ông chủ trại tôm lãi 9 tỉ đồng mỗi năm",
+"link": "https://thanhnien.vn/chang-trai-khmer-ngheo-hoc-het-lop-3-tro-thanh-ong-chu-trai-tom-lai-9-ti-dong-moi-nam-185261118154104014.htm",
+"summary": "Mạnh dạn chuyển đổi từ cây lúa sang con tôm, một người nông dân Khmer chỉ học hết lớp 3 trở thành ông chủ trại tôm với 95 ao nuôi, mỗi năm thu lãi 8 đến 9 tỉ đồng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/anh-1-1794991126403222031526-0-0-720-1152-crop-1794991134097333345029.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T04:38:00+07:00",
+"found": "2026-11-20T04:49:04+07:00"
+},
+{
+"id": "993261d621f5",
+"title": "đặng lê nguyên vũ",
+"link": "https://cafef.vn/ong-dang-le-nguyen-vu-ban-nha-tai-thanh-pho-ca-phe-tang-kim-cuong-5-ly-tri-gia-70-trieu-dong-cho-khach-hang-ho-tro-lai-suat-0-188261119101806263.chn",
+"summary": "Ông Đặng Lê Nguyên Vũ bán nhà tại Thành phố Cà phê: Tặng kim cương 5 ly trị giá 70 triệu đồng cho khách hàng, hỗ trợ lãi suất 0% (CafeF)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRvzHrIEPGS_QaUA8ux2-_6PMrfggqCMtZx8q2Q_eFRnQgFCtTA0P4dRrIhDc",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T04:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-20T04:49:04+07:00"
+},
+{
+"id": "95fdfebe5137",
+"title": "alexander zverev",
+"link": "https://www.atptour.com/en/news/nitto-atp-finals-2026-sf-qualification-scenarios-16-november",
+"summary": "What are the Nitto ATP Finals semi-final qualification scenarios? (ATP Tour)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLuV9YZssD8GFROW-oOH40LhxaIGHRFE-s3HbIkkQuf67mD8zQBb9O1NfhePc",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T04:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-20T04:49:04+07:00"
+},
+{
+"id": "a9eaf6b2fcd0",
+"title": "marcus rashford",
+"link": "https://news.laodong.vn/bong-da-quoc-te/van-de-pochettino-can-uu-tien-giai-quyet-tai-man-united-1802865.ldo",
+"summary": "Pochettino's issue needs to be prioritized at Man United (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXvNqCZdE4vF-tp4LWVRBJmDa98NqOvp-HOTI2vMhRO1iVOK1jCxr9MzPuLqk",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T04:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T04:49:04+07:00"
+},
 {
 "id": "cd161bf38c86",
 "title": "Nhiều nhà băng có quy mô tài sản vượt một triệu tỷ đồng",
@@ -10300,6 +10347,17 @@
 "cat": "xh",
 "published": "2026-11-19T07:00:00+07:00",
 "found": "2026-11-20T03:47:43+07:00"
+},
+{
+"id": "23c0b516f63c",
+"title": "Nền tảng truyền hình số quốc gia",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9zWE5HQTlybjdYcVFwbmRxYzhPVUc4SG9FWDNKWXYxektNYlhTN0QzUENxNDBjRURNSURNbVdSakY?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-19T07:00:00+07:00",
+"found": "2026-11-20T04:49:04+07:00"
 },
 {
 "id": "d12167226498",
@@ -24089,18 +24147,6 @@
 "found": "2026-11-18T05:18:46+07:00"
 },
 {
-"id": "c3f44ab2b547",
-"title": "alexander zverev",
-"link": "https://news.laodong.vn/tennis/ket-qua-atp-finals-2026-zverev-thang-de-1800995.ldo",
-"summary": "ATP Finals 2026 Results: Zverev wins easily (Laodong.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdjgiT_Q5EgBmI3_QjbSaIgCcS7AA-G8pNwwc5M7i4f8MEZptcLcm0PR_s8N8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T04:10:00+07:00",
-"traffic": "100+",
-"found": "2026-11-18T05:18:46+07:00"
-},
-{
 "id": "44e00923ff1a",
 "title": "Việt Nam vừa khởi công dự án hơn 2.000 tỷ đồng, rộng hơn 26ha: Xây 1.680 căn nhà liền kề 2 tầng, có cả trường học, công viên, hàng nghìn người dân hưởng lợi",
 "link": "https://kenh14.vn/viet-nam-vua-khoi-cong-du-an-hon-2000-ty-dong-rong-hon-26ha-xay-1680-can-nha-lien-ke-2-tang-co-ca-truong-hoc-cong-vien-hang-nghin-nguoi-dan-huong-loi-215261117224210894.chn",
@@ -27911,51 +27957,6 @@
 "source": "Báo Mới",
 "cat": "bds",
 "published": "2026-11-17T16:12:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "92d448ec3ca3",
-"title": "Tìm lực hút bền vững cho dòng vốn sau nâng hạng",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXl2OVFMaWoySzdRZG9zbTZFYXBUTkZ5Y19La3RaV2NTT1V2Ri1RSnpFdHRaaXRkcWZpel9sMUhXalRwaWRZc3FSZDhtbXo3cmFhelJ3aUxmWERqbWo0NHNyeElWbFdMd3U0UzJEZndScVFMUWFJamZFOEROdGZHSGE4aGVDMWM?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-17T16:12:00+07:00",
-"found": "2026-11-18T04:18:53+07:00"
-},
-{
-"id": "11a888b9f002",
-"title": "TKV thúc tiến độ dự án khai thác hầm lò xuống sâu mỏ Mạo Khê",
-"link": "https://vietnamnet.vn/tkv-thuc-tien-do-du-an-khai-thac-ham-lo-xuong-sau-mo-mao-khe-2575935.html",
-"summary": "Lãnh đạo Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV) yêu cầu Công ty Than Mạo Khê và các nhà thầu tập trung nguồn lực, đẩy nhanh thi công dự án khai thác hầm lò xuống sâu từ mức -150m, bảo đảm tiến độ, chất lượng và an toàn.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/tkv-thuc-tien-do-du-an-khai-thac-ham-lo-xuong-sau-mo-mao-khe-1910.jpeg?width=0&s=KUyqn1V4ZemrXAYBPeMkNQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-17T16:11:09+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "5effafcc448f",
-"title": "Sun Group đang tuyển nhân sự cho loạt vị trí quản lý xây dựng đáng chú ý tại nhiều tỉnh, thành từ Hà Nội, Quảng Ninh đến Phú Quốc, Đà Nẵng",
-"link": "https://cafef.vn/sun-group-dang-tuyen-nhan-su-cho-loat-vi-tri-quan-ly-xay-dung-dang-chu-y-tai-nhieu-tinh-thanh-tu-ha-noi-quang-ninh-den-phu-quoc-da-nang-18826111716101098.chn",
-"summary": "Sun Group đang tuyển dụng 29 vị trí nhân sự thuộc Khối Xây dựng trong tháng 11/2026, với địa bàn làm việc trải dài từ miền Bắc, miền Trung đến miền Nam.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1794906584865-1794906585079188100209.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-17T16:10:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "520b5202bc9b",
-"title": "singapore đấu với brasil",
-"link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-singapore-brazil-vu-cong-samba-pho-dien-suc-manh-c48a1811740.html",
-"summary": "Trực tiếp bóng đá Singapore - Brazil: Endrick - Vinicius - Estevao xuất phát (Tin tức 24h)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxbMh-N3YMlzIxUZSJ7-rit9oUpuDwIYn47ODzDHpf7Jfk9DSE97hQ9bKKJ7U",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-17T16:10:00+07:00",
-"traffic": "20000+",
 "found": "2026-11-17T16:39:40+07:00"
 }
 ]
