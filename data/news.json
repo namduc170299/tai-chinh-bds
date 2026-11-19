@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T02:15:59+07:00",
-"new": 0,
+"updated": "2026-11-20T02:31:10+07:00",
+"new": 1,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Thanh Niên",
@@ -17750,6 +17750,17 @@
 "found": "2026-11-18T13:28:20+07:00"
 },
 {
+"id": "f9e7736a1178",
+"title": "Cháy tại chung cư Mandarin, Hà Nội",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzSmNMLXEwQUdhMEdHMWJkX29jSml6ekxueHRIRHp0ZzVINWgzU1VrRzBFV2VfTnFKSmVwZjZXb2ZvZmhOUHlNVVpIaXNaVFlWOUwyTzBFTWJ6ZktERkFOVGE0Mlk2NVRZNk1sX3lsc2xVenoy?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-18T12:38:00+07:00",
+"found": "2026-11-20T02:31:10+07:00"
+},
+{
 "id": "7c045475be95",
 "title": "Vietlott và 4 doanh nghiệp xổ số vào danh sách thanh tra",
 "link": "https://kenh14.vn/vietlott-va-4-doanh-nghiep-xo-so-vao-danh-sach-thanh-tra-215261118120305405.chn",
@@ -27945,17 +27956,6 @@
 "source": "VnExpress",
 "cat": "bds",
 "published": "2026-11-17T15:37:37+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "b6e55994f811",
-"title": "VPBank mở rộng ưu đãi thẻ tín dụng, đáp ứng đa dạng nhu cầu mua sắm cuối năm",
-"link": "https://vietnamnet.vn/vpbank-mo-rong-uu-dai-the-tin-dung-dap-ung-da-dang-nhu-cau-mua-sam-cuoi-nam-2575917.html",
-"summary": "Đón bắt nhu cầu tiêu dùng gia tăng dịp cuối năm, VPBank tiếp tục tung ra các dòng thẻ mới và mang đến nhiều ưu đãi đa dạng lĩnh vực, hứa hẹn tạo nên trải nghiệm chi tiêu khác biệt cho khách hàng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/vpbank-mo-rong-uu-dai-the-tin-dung-dap-ung-da-dang-nhu-cau-mua-sam-cuoi-nam-1727.jpg?width=0&s=HonRgwTAYrDxrBrRyW_4Qg",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-17T15:37:35+07:00",
 "found": "2026-11-17T16:39:40+07:00"
 }
 ]
