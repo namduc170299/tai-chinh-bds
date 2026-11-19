@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-19T18:01:45+07:00",
-"new": 10,
+"updated": "2026-11-19T18:16:55+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Thanh Niên",
@@ -213,15 +213,26 @@
 "fix_kenh14_tz": true,
 "items": [
 {
-"id": "6f2eeda87b5f",
-"title": "Bác sĩ Tô Việt Thanh giữ chức Phó giám đốc Bệnh viện Răng hàm mặt Trung ương TP.HCM",
-"link": "https://thanhnien.vn/bac-si-to-viet-thanh-giu-chuc-pho-giam-doc-benh-vien-rang-ham-mat-trung-uong-tphcm-185261119172752276.htm",
-"summary": "Ngày 19.11, Bộ Y tế tổ chức Hội nghị công bố quyết định về công tác cán bộ, bổ nhiệm bác sĩ Tô Việt Thanh giữ chức vụ Phó giám đốc Bệnh viện Răng hàm mặt Trung ương TP.HCM.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/base64-179508411181278948270-34-65-1154-1857-crop-17950842172771735210389.jpeg",
-"source": "Thanh Niên",
+"id": "12c90154d683",
+"title": "Không khí lạnh tăng cường: Miền Bắc rét hơn, 5 tỉnh thành Trung Bộ mưa dồn dập",
+"link": "https://vietnamnet.vn/khong-khi-lanh-tang-cuong-mien-bac-ret-hon-5-tinh-mua-lon-2572302.html",
+"summary": "Không khí lạnh tiếp tục được bổ sung trong những ngày tới khiến Bắc Bộ và Bắc Trung Bộ duy trì trạng thái rét, vùng núi có nơi rét đậm. Trung Bộ đối mặt đợt mưa lớn kéo dài.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/khong-khi-lanh-tang-cuong-mien-bac-ret-hon-5-tinh-thanh-trung-bo-mua-don-dap-2154.jpg?width=0&s=v-gerSq_tHAbripl_upaqQ",
+"source": "VietnamNet",
 "cat": "xh",
-"published": "2026-11-19T18:00:00+07:00",
-"found": "2026-11-19T18:01:45+07:00"
+"published": "2026-11-19T18:10:45+07:00",
+"found": "2026-11-19T17:20:06+07:00"
+},
+{
+"id": "6e07debf09b2",
+"title": "Vụ nổ gas làm 3 người chết ở TPHCM, xem xét khởi tố cá nhân liên quan",
+"link": "https://vietnamnet.vn/vu-no-gas-lam-3-nguoi-chet-o-tphcm-xem-xet-khoi-to-ca-nhan-lien-quan-2576844.html",
+"summary": "Sau vụ nổ gas khiến 3 người tử vong tại phường Tân Thuận, Công an TPHCM xác định sự cố xuất phát từ hoạt động sang chiết gas trái phép, đang điều tra, xem xét khởi tố và xử lý các cá nhân liên quan.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/vu-no-gas-lam-3-nguoi-chet-o-tphcm-xem-xet-khoi-to-ca-nhan-lien-quan-2342.jpg?width=0&s=2YHpu46hChoBBsi2bSIaCQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-19T18:07:47+07:00",
+"found": "2026-11-19T18:16:55+07:00"
 },
 {
 "id": "3f5f9eda4f92",
@@ -229,6 +240,17 @@
 "link": "https://thanhnien.vn/nuoc-den-ngom-do-ra-vinh-nha-phu-den-tu-dau-185261119155153422.htm",
 "summary": "Tỉnh Khánh Hòa đã đầu tư, nâng cấp Trạm xử lý nước rỉ rác Lương Hòa, nhưng dòng nước đen ngòm đổ ra vịnh Nha Phu vẫn tồn tại, bốc mùi hôi thối chảy qua khu dân cư thôn Lương Hòa.",
 "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-anh-1-nuoc-ri-rac-17950758597061083705437-263-0-1863-2560-crop-17950864033961100283387.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-19T18:05:00+07:00",
+"found": "2026-11-19T18:01:45+07:00"
+},
+{
+"id": "6f2eeda87b5f",
+"title": "Bác sĩ Tô Việt Thanh giữ chức Phó giám đốc Bệnh viện Răng hàm mặt Trung ương TP.HCM",
+"link": "https://thanhnien.vn/bac-si-to-viet-thanh-giu-chuc-pho-giam-doc-benh-vien-rang-ham-mat-trung-uong-tphcm-185261119172752276.htm",
+"summary": "Ngày 19.11, Bộ Y tế tổ chức Hội nghị công bố quyết định về công tác cán bộ, bổ nhiệm bác sĩ Tô Việt Thanh giữ chức vụ Phó giám đốc Bệnh viện Răng hàm mặt Trung ương TP.HCM.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/base64-179508411181278948270-34-65-1154-1857-crop-17950842172771735210389.jpeg",
 "source": "Thanh Niên",
 "cat": "xh",
 "published": "2026-11-19T18:00:00+07:00",
@@ -244,17 +266,6 @@
 "cat": "bds",
 "published": "2026-11-19T17:55:00+07:00",
 "found": "2026-11-19T18:01:45+07:00"
-},
-{
-"id": "12c90154d683",
-"title": "Không khí lạnh tăng cường: Miền Bắc rét hơn, 5 tỉnh thành Trung Bộ mưa dồn dập",
-"link": "https://vietnamnet.vn/khong-khi-lanh-tang-cuong-mien-bac-ret-hon-5-tinh-mua-lon-2572302.html",
-"summary": "Không khí lạnh tiếp tục được bổ sung trong những ngày tới khiến Bắc Bộ và Bắc Trung Bộ duy trì trạng thái rét, vùng núi có nơi rét đậm. Trung Bộ đối mặt đợt mưa lớn kéo dài.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/khong-khi-lanh-tang-cuong-mien-bac-ret-hon-5-tinh-thanh-trung-bo-mua-don-dap-2154.jpg?width=0&s=v-gerSq_tHAbripl_upaqQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T17:54:57+07:00",
-"found": "2026-11-19T17:20:06+07:00"
 },
 {
 "id": "2a4059ac64ce",
@@ -277,6 +288,28 @@
 "cat": "xh",
 "published": "2026-11-19T17:49:00+07:00",
 "found": "2026-11-19T18:01:45+07:00"
+},
+{
+"id": "55bc65661e47",
+"title": "Vụ nổ khí gas ở đường Bùi Văn Ba TP.HCM: Nạn nhân thứ 3 tử vong",
+"link": "https://thanhnien.vn/vu-no-khi-gas-o-duong-bui-van-ba-tphcm-nan-nhan-thu-3-tu-vong-185261119173120789.htm",
+"summary": "Vụ nổ sập nhà ở đường Bùi Văn Ba, TP.HCM khiến 3 người tử vong. Nạn nhân thứ 3 mất tại bệnh viện sáng nay (19.11).",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/no-khi-ga-bui-van-ba-tp-hcm-179508346434682324330-229-0-1829-2560-crop-17950842687371498837867.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-19T17:49:00+07:00",
+"found": "2026-11-19T18:16:55+07:00"
+},
+{
+"id": "ecd8c2fa52ee",
+"title": "Nộp tiền định kỳ để không bị xử lý lấn chiếm vỉa hè trung tâm TPHCM",
+"link": "https://dantri.com.vn/phap-luat/nop-tien-dinh-ky-de-khong-bi-xu-ly-lan-chiem-via-he-trung-tam-tphcm-20261119173242187.htm",
+"summary": "(Dân trí) - Bị cáo Nguyễn Tiến Mãi bị xác định chỉ đạo cấp dưới nhận tiền “chung chi” của các hộ kinh doanh để bỏ qua vi phạm lấn chiếm lòng, lề đường, với tổng số tiền gần 555 triệu đồng.",
+"image": "https://cdnphoto.dantri.com.vn/a1cNnDgJ9rcxGUTrVzjfrKxLQns=/2026/11/19/179508423721718668955814270010228059889764723040908e5f447eff02fcbdfabfd113bcd1a834b-edited-1795084309136.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-19T17:47:36+07:00",
+"found": "2026-11-19T18:16:55+07:00"
 },
 {
 "id": "9aa2376d7635",
@@ -579,6 +612,18 @@
 "found": "2026-11-19T17:35:18+07:00"
 },
 {
+"id": "3632d61c0b42",
+"title": "u17 world cup 2026",
+"link": "https://www.24h.com.vn/bong-da/u17-viet-nam-dau-u17-bi-dau-la-chia-khoa-tao-dia-chan-tai-world-cup-c48a1812339.html",
+"summary": "U17 Việt Nam đấu U17 Bỉ: Đâu là chìa khóa tạo địa chấn tại World Cup? (Tin tức 24h)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnAH3LAryhkuW2YVMM2UU8dP7iNh6eE5Kc3J7Hx63CcXmeZYHWr--H0lmsWcM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-19T17:10:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-19T18:16:55+07:00"
+},
+{
 "id": "f470ab350aa4",
 "title": "Cấm thuốc lá trong bệnh viện ở TP.HCM: Biển cấm khắp nơi, khói thuốc vẫn còn",
 "link": "https://tuoitre.vn/cam-thuoc-la-trong-benh-vien-o-tphcm-bien-cam-khap-noi-khoi-thuoc-van-con-100261119162527065.htm",
@@ -687,6 +732,17 @@
 "cat": "xh",
 "published": "2026-11-19T16:55:40+07:00",
 "found": "2026-11-19T17:20:06+07:00"
+},
+{
+"id": "c693532674cf",
+"title": "Bốn hạng mục có thể ảnh hưởng khai thác Long Thành vào tháng 12",
+"link": "https://vnexpress.net/bon-hang-muc-co-the-anh-huong-khai-thac-long-thanh-vao-thang-12-5146679.html",
+"summary": "Hơn một tháng trước ngày vận hành thương mại, sân bay Long Thành còn khối lượng lớn phải hoàn thành, từ thi công nhà ga, đường nội cảng đến nghiệm thu, cấp phép.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/wm1-wm1-dji-d-1795084032-5306-1795084043.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A4ORC3eI-uwsiZJx1ebMJA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-19T16:55:40+07:00",
+"found": "2026-11-19T18:16:55+07:00"
 },
 {
 "id": "d57fa12e76b8",
@@ -27901,62 +27957,6 @@
 "source": "Thanh Niên",
 "cat": "xh",
 "published": "2026-11-17T11:50:00+07:00",
-"found": "2026-11-17T15:26:16+07:00"
-},
-{
-"id": "da2848c35e9d",
-"title": "Chứng khoán Kafi phát hành lô trái phiếu 200 tỷ đồng",
-"link": "https://cafef.vn/chung-khoan-kafi-phat-hanh-lo-trai-phieu-200-ty-dong-188261117113234901.chn",
-"summary": "Ngày 12/11/2026, Chứng khoán Kafi đã phát hành trái phiếu mã KAIL12602 trị giá 200 tỷ đồng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1794889950601-1794889950965539328241.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-17T11:49:00+07:00",
-"found": "2026-11-17T12:02:23+07:00"
-},
-{
-"id": "acd5dff67666",
-"title": "Phú Thọ quy hoạch đô thị thông minh dọc sông Lô tầm nhìn đến 2050",
-"link": "https://vietnamnet.vn/phu-tho-quy-hoach-do-thi-thong-minh-doc-song-lo-tam-nhin-den-2050-2575792.html",
-"summary": "Phú Thọ định hướng phát triển đô thị thông minh, sinh thái dọc hai bờ sông Lô, nghiên cứu quy hoạch khu trung tâm hành chính, tháp Hùng Vương và các khu dịch vụ thương mại.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/phu-tho-quy-hoach-do-thi-thong-minh-doc-song-lo-tam-nhin-den-2050-848.jpg?width=0&s=lGVTAAv_Qsjo4r4tuhT87w",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-17T11:48:25+07:00",
-"found": "2026-11-17T15:26:16+07:00"
-},
-{
-"id": "69629cf03d03",
-"title": "Quỹ của vợ chồng tỷ phú Phạm Nhật Vượng trao nhiều máy nhìn xuyên đất, máy định vị cho 3 địa phương Việt Nam: Tổng trị giá hơn 10 tỷ đồng, chuẩn bị thực hiện nhiệm vụ thiêng liêng, cao cả",
-"link": "https://kenh14.vn/quy-cua-vo-chong-ty-phu-pham-nhat-vuong-trao-nhieu-may-nhin-xuyen-dat-may-dinh-vi-cho-3-dia-phuong-viet-nam-tong-tri-gia-hon-10-ty-dong-chuan-bi-thuc-hien-nhiem-vu-thieng-lieng-cao-ca-215261117112431623.chn",
-"summary": "Những chiếc máy đang được nhắc tới sẽ thực hiện công việc đặc biệt, mang ý nghĩa thiêng liêng cao cả tại các địa phương được trao tới.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/17/avatar1794889440300-1794889440727232053608.jpg",
-"source": "Kenh14",
-"cat": "mxh",
-"published": "2026-11-17T11:47:00+07:00",
-"found": "2026-11-17T12:02:23+07:00"
-},
-{
-"id": "b241aaa65534",
-"title": "gruda",
-"link": "https://www.bbc.com/sport/football/live/cmly7wxld228t",
-"summary": "Germany 5-0 Netherlands: Florian Wirtz scores twice in Nations League (BBC)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyTcOt8e8qQ_XR3W700XOISOQpQ-F1mu16iQySeah_jBumVsNaYSaOOEyjBmU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-17T11:40:00+07:00",
-"traffic": "500+",
-"found": "2026-11-17T12:02:23+07:00"
-},
-{
-"id": "cf09d8e299e6",
-"title": "Viện Pasteur TP.HCM với những dấu ấn từ phát hiện HIV đến Covid-19",
-"link": "https://thanhnien.vn/vien-pasteur-tphcm-voi-nhung-dau-an-tu-phat-hien-hiv-den-covid-19-185261117100139368.htm",
-"summary": "Trong 135 năm hình thành và phát triển, Viện Pasteur TP.HCM đã ghi dấu nhiều thành tựu nổi bật, trong đó nổi bật là phát hiện ca nhiễm HIV đầu tiên và xác nhận ca mắc Covid-19 đầu tiên tại Việt Nam.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/17948867678032108319295823449976339184410963384881bddb0bed7a4198563e612f019f626c29-17948867824871590776859-0-41-1186-1939-crop-1794886794248424701793.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T11:39:00+07:00",
 "found": "2026-11-17T15:26:16+07:00"
 }
 ]
