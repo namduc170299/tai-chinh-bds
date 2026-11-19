@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T05:04:17+07:00",
-"new": 3,
+"updated": "2026-11-20T05:19:27+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 25
+"count": 26
 },
 {
 "name": "Thanh Niên",
@@ -213,6 +213,61 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "96b7f138c07b",
+"title": "Hạn mức giao đất nông nghiệp mới nhất ở Đồng Nai ra sao?",
+"link": "https://thanhnien.vn/han-muc-giao-dat-nong-nghiep-moi-nhat-o-dong-nai-ra-sao-185261119213111349.htm",
+"summary": "Các trường hợp vượt hạn mức giao đất nông nghiệp cho hộ gia đình, cá nhân đang sử dụng đất do tự khai hoang, không có tranh chấp trên địa bàn thành phố thành phố Đồng Nai sẽ phải chuyển sang thuê đất của Nhà nước.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-djifly202603301045529811774842485781photooptimized-17950854028001024929911-1-402-2250-4000-crop-17950854348291147768357.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T05:19:00+07:00",
+"found": "2026-11-20T05:19:27+07:00"
+},
+{
+"id": "ead61c8699f5",
+"title": "Công an TP.HCM cảnh báo sai lầm dễ gây cháy nổ khi dùng bình gas mini",
+"link": "https://thanhnien.vn/cong-an-tphcm-canh-bao-sai-lam-de-gay-chay-no-khi-dung-binh-gas-mini-185261119203428554.htm",
+"summary": "Sử dụng bình gas mini sang chiết, nạp lại trái phép, dùng nồi quá lớn hoặc đun nấu liên tục trong thời gian dài là những nguy cơ cháy nổ được Công an TP.HCM cảnh báo.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-edit-z6990141356587bc8f200cd4fb5b2988ddcb184d6c06d1-17573278920261050259362-1795095225666710158995-126-0-926-1280-crop-1795095234048159866141-179509524766747902413.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T05:18:00+07:00",
+"found": "2026-11-20T05:19:27+07:00"
+},
+{
+"id": "622568804abd",
+"title": "Dự báo thời tiết 20/11/2026: Không khí lạnh bổ sung, miền Bắc rét hơn",
+"link": "https://vietnamnet.vn/du-bao-thoi-tiet-20-11-2026-khong-khi-lanh-bo-sung-mien-bac-ret-2572301.html",
+"summary": "Không khí lạnh tiếp tục tăng cường khiến Bắc Bộ có mưa rào, trời rét, có nơi rét đậm. Từ Quảng Trị đến Đà Nẵng và phía đông các tỉnh từ Quảng Ngãi đến Gia Lai mưa lớn. VietNamNet cập nhật những diễn biến mới nhất về thời tiết trên cả nước.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/dsc-0999-3452.jpg?width=0&s=_Sl7nT4gEWxt5p7kQKVETg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T05:15:00+07:00",
+"found": "2026-11-20T05:19:27+07:00"
+},
+{
+"id": "98d4183ad6ec",
+"title": "Đổ tiền tỷ xây lò đốt rác, nhiều nơi giờ bỏ hoang",
+"link": "https://vietnamnet.vn/bai-2-do-tien-ty-xay-lo-dot-rac-nhieu-noi-gio-bo-hoang-2563605.html",
+"summary": "Để xử lý rác thải sinh hoạt nông thôn, giai đoạn 2010-2020, một số lò đốt, khu xử lý rác được đầu tư bằng vốn ngân sách tại Thanh Hóa, Nghệ An, Hà Tĩnh. Sau nhiều năm, không ít công trình ngừng hoạt động, gây lãng phí nguồn lực đầu tư.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/do-tien-ty-xay-lo-dot-rac-nhieu-noi-gio-bo-hoang-65.jpg?width=0&s=NgDYRVftfZnliGpBjcJ6-w",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T05:12:00+07:00",
+"found": "2026-11-20T05:19:27+07:00"
+},
+{
+"id": "038f8317b141",
+"title": "Tìm lại danh tính người lính sau nửa thế kỷ từ những đoạn ADN đứt gãy",
+"link": "https://vietnamnet.vn/tu-nhung-doan-adn-dut-gay-tim-lai-danh-tinh-nguoi-linh-2576534.html",
+"summary": "Bằng công nghệ ADN thế hệ mới, các nhà khoa học Việt Nam đang từng bước giải mã những dấu vết di truyền còn sót lại trong hài cốt liệt sĩ sau hàng chục năm.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/tim-lai-danh-tinh-nguoi-linh-sau-nua-the-ky-tu-nhung-doan-adn-dut-gay-43.jpg?width=0&s=eqzasx80vpj-_me6Pz13Cw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T05:06:00+07:00",
+"found": "2026-11-20T05:19:27+07:00"
+},
+{
 "id": "707feabb64cf",
 "title": "Giá vàng hôm nay 20/11: Lao dốc xuống sát 3.690 USD/ounce, thấp nhất 14 tháng",
 "link": "https://vietnamnet.vn/gia-vang-hom-nay-20-11-lao-doc-xuong-sat-3-690-usd-ounce-thap-nhat-14-thang-2576914.html",
@@ -222,6 +277,17 @@
 "cat": "tc",
 "published": "2026-11-20T05:00:00+07:00",
 "found": "2026-11-20T05:04:17+07:00"
+},
+{
+"id": "4b932f50e324",
+"title": "'Bẫy cắt lỗ tiền tỷ' trên thị trường nhà đất",
+"link": "https://vnexpress.net/bay-cat-lo-tien-ty-tren-thi-truong-nha-dat-5143224.html",
+"summary": "Loạt căn nhà được quảng cáo giảm 500 triệu đến cả tỷ đồng, nhưng mức giá sau giảm chưa chắc thấp hơn thị trường, thậm chí chỉ là chiêu nâng giá rồi hạ để hút khách.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/dji-1795072827-8390-1795072854.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MceoBeC6ORlZv5hnSQFnkw",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-20T05:00:00+07:00",
+"found": "2026-11-20T05:19:27+07:00"
 },
 {
 "id": "dc7f8e947213",
@@ -283,6 +349,18 @@
 "found": "2026-11-20T04:49:04+07:00"
 },
 {
+"id": "eedc05a6c367",
+"title": "giám đốc",
+"link": "https://dantri.com.vn/kinh-doanh/bien-dong-tai-pnj-3-giam-doc-cap-cao-roi-di-trong-cung-mot-ngay-20261119183743083.htm",
+"summary": "Biến động tại PNJ: 3 giám đốc cấp cao rời đi trong cùng một ngày (Báo Dân trí)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTo2gkcpqor5CacOccWPCz8OHwi6hHQJ9ApI_j1-aiJVJeDjTngw9_fCO2znTM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T04:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T05:19:27+07:00"
+},
+{
 "id": "cd161bf38c86",
 "title": "Nhiều nhà băng có quy mô tài sản vượt một triệu tỷ đồng",
 "link": "https://vnexpress.net/nhieu-nha-bang-co-quy-mo-tai-san-vuot-mot-trieu-ty-dong-5146562.html",
@@ -302,7 +380,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T03:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-20T05:04:17+07:00"
 },
 {
@@ -7449,6 +7527,17 @@
 "cat": "xh",
 "published": "2026-11-19T11:01:00+07:00",
 "found": "2026-11-19T11:26:14+07:00"
+},
+{
+"id": "e295a5918078",
+"title": "Thị trường hàng hóa: Giá bạc lao dốc gần 5%",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HQ3FiR3RaRV8wbUwxbFM3Y3VXYlZRS0VialNCT1V6clZtQmt4Y2pmMldlSlZ3M3FkS3djVjV2YklOdEl1ekJpSUhER1JwQzdraVRzZ0dCUUtUeV9MNlJtR0FMSjR2ZnNSeVNkb1NseExyM0dEc29Xc3hPMHhNRHM?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T11:00:47+07:00",
+"found": "2026-11-20T05:19:27+07:00"
 },
 {
 "id": "fb32c19bb48c",
@@ -27869,95 +27958,6 @@
 "source": "Thanh Niên",
 "cat": "tc",
 "published": "2026-11-17T16:21:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "819e7fb289eb",
-"title": "Doanh nghiệp vẫn lo ngại rủi ro hóa đơn",
-"link": "https://thanhnien.vn/doanh-nghiep-van-lo-ngai-rui-ro-hoa-don-185261117145546758.htm",
-"summary": "Tại hội nghị \"Các thay đổi về chính sách thuế cần lưu ý, trọng tâm quản lý của cơ quan thuế và những hành động doanh nghiệp cần thực hiện\" do Thuế TP.HCM tổ chức ngày 17.11, các doanh nghiệp (DN) chia sẻ những lo lắng, thắc mắc trong quá trình thực hiện như việc sử dụng AI của…",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/tnw-thue-1711-17949016234231649621511-121-0-921-1280-crop-1794901666041297848986.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-17T16:20:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "61bed3627369",
-"title": "singapore vs brazil",
-"link": "https://www.sportsmole.co.uk/football/singapore/preview/singapore-vs-brazil-prediction-team-news-lineups_609180.html",
-"summary": "Preview: Singapore vs Brazil - prediction, team news, lineups (Sports Mole)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQARHimYW9uCy63IDbrdez5CUs8b_ubr7UaZRfIJ5Cd8jYib0F9tdkjxm3Obo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-17T16:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "f7df9e053b2a",
-"title": "Bắt nóng kẻ cướp giật 2 nhẫn vàng trị giá 200 triệu đồng",
-"link": "https://vietnamnet.vn/bat-nong-ke-cuop-giat-2-nhan-vang-tri-gia-200-trieu-dong-2575936.html",
-"summary": "Lâm Chí Nguyên giả làm khách mua hàng, cướp giật 2 chiếc nhẫn vàng trị giá 200 triệu đồng rồi tẩu thoát. Đối tượng bị công an bắt giữ chỉ sau 30 phút gây án.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/bat-nong-ke-cuop-giat-2-nhan-vang-tri-gia-200-trieu-dong-1935.png?width=0&s=9EVbXm2TmqHvKQr3Ez3-lg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-17T16:18:35+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "e48bd609e638",
-"title": "Đà Nẵng: Tái khởi động Dự án Khu đô thị quốc tế Đa Phước quy mô hơn 170ha",
-"link": "https://cafef.vn/da-nang-tai-khoi-dong-du-an-khu-do-thi-quoc-te-da-phuoc-quy-mo-hon-170ha-188261117153023024.chn",
-"summary": "Đà Nẵng chính thức tái khởi động Dự án Khu đô thị quốc tế Đa Phước sau nhiều năm gián đoạn do vướng mắc pháp lý. Phó Chủ tịch UBND thành phố Lê Quang Nam yêu cầu chủ đầu tư giữ đúng cam kết, hoàn thiện pháp lý dự án, tạo chuyển biến thực chất trên công trường, tránh lãng phí…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1794904202299-17949042033731772289593.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-17T16:17:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "90c039cab7cf",
-"title": "Việt Nam cần hơn 136 tỷ USD đầu tư nguồn, lưới điện đến 2030",
-"link": "https://vnexpress.net/viet-nam-can-hon-136-ty-usd-dau-tu-nguon-luoi-dien-den-2030-5145718.html",
-"summary": "Việt Nam cần khoảng 136,3 tỷ USD để phát triển nguồn điện và lưới truyền tải giai đoạn 2026-2030, theo Thứ trưởng Công Thương Trương Thanh Hoài.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/17/dienHN-1794906280-5810-1794906584.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qnRb-NHO1CyIQmSekJS2pA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-17T16:16:22+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "f294cd7ee3d3",
-"title": "Giá vàng thế giới neo gần đáy của hơn 1 năm",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS2NzZXUzeEtRYk5CRm05MEgxZDhfVTAtb0Y5cUozem9LQnFqaU1xLXJSaTVZNndFTUMtSGVLYlNteXhoVUh6WUN6WGpCMGFVT0s0RGo5NjZqQnZxWURGdFlDR1RjNzV2X0kxYVZjZWs0U1BrcmROS3B3dVNSaHFBVHl3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-17T16:15:00+07:00",
-"found": "2026-11-18T06:16:16+07:00"
-},
-{
-"id": "5473fdcfa7ad",
-"title": "Công an sẽ điều tra khi phát hiện các giao dịch rút tiền như sau",
-"link": "https://kenh14.vn/cong-an-se-dieu-tra-khi-phat-hien-cac-giao-dich-rut-tien-nhu-sau-215261117161609768.chn",
-"summary": "Cơ quan công an khuyến cáo người dân cảnh giác dịch vụ “rút tiền”, “đáo hạn thẻ tín dụng” qua mã VietQR.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/17/avatar1794906964001-17949069644111494026012.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-17T16:14:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "902dd5d5d19c",
-"title": "Buồn của FPT",
-"link": "https://cafef.vn/buon-cua-fpt-18826111716112616.chn",
-"summary": "Diễn biến trên càng đáng chú ý khi FPT từng là một trong những cổ phiếu tăng trưởng nổi bật nhất thị trường.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1774237961552-17742379619522102786454-17949066221921341775689-67-0-467-640-crop-1794906626653574647714.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-17T16:14:00+07:00",
 "found": "2026-11-17T16:39:40+07:00"
 }
 ]
