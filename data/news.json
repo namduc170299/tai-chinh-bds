@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T05:19:27+07:00",
-"new": 8,
+"updated": "2026-11-20T05:19:48+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 27
 },
 {
 "name": "Kenh14",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Thanh Niên",
@@ -1546,6 +1546,17 @@
 "cat": "tc",
 "published": "2026-11-19T19:58:00+07:00",
 "found": "2026-11-19T20:15:21+07:00"
+},
+{
+"id": "da37898b6d11",
+"title": "Thủ tướng: Đưa thị trường chứng khoán trở thành kênh huy động vốn chủ lực",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRVJ3Sm1YWEJJamxpb3RjRXJfaFpXUnR0bkc3WU9uRWNFYV9ycWxjem9Yci1JbWk3TDhjdlN2TUEzMkdVSWM4cFRuWktzWW5lTExxZXhsTk44VnF6b3hkSDRDOWpLSGg1ZUtvNGNFcUtNRGcwdU9GaEtmOWdiYmk5bURPMXBMckN1NU9KUkpXQ3BGb0hZRW9SVkxwdUZYTmxFZ3pYSnp0UXM?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T19:56:00+07:00",
+"found": "2026-11-20T05:19:48+07:00"
 },
 {
 "id": "852cff78bbaf",
@@ -8187,6 +8198,17 @@
 "cat": "tc",
 "published": "2026-11-19T10:07:00+07:00",
 "found": "2026-11-19T10:17:32+07:00"
+},
+{
+"id": "c1c40f6504be",
+"title": "Nghệ An ban hành kế hoạch xúc tiến thương mại 2027, mở rộng thị trường tiêu thụ",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDBKN2xkWk1NVWJTVDNQZjI5OW1LSWpueFBzeFptN3Eycm9MYWpUQlc3aVVpbFFPQktWbVFkMlpEUVRfNWgwRXRwWTV2Tjl6Um96N0NOa3Ztd2VtNG95OUMzWGNfZUZHcWVjUHU5S090aEZFSUVJN0c5T1hUZUVIMDN1LTZUVUFLSVh6a2xzS0h0S2hvNUN4SWtYWTE1dC1CR2RXRkdNYlJxM2ZnMkRHcQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T10:06:32+07:00",
+"found": "2026-11-20T05:19:48+07:00"
 },
 {
 "id": "35d3c98a5666",
@@ -27936,28 +27958,6 @@
 "source": "CafeF",
 "cat": "tc",
 "published": "2026-11-17T16:22:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "1963f583cc9c",
-"title": "Cần Thơ xử phạt người phụ nữ la hét tại trụ sở xã",
-"link": "https://dantri.com.vn/phap-luat/can-tho-xu-phat-nguoi-phu-nu-la-het-tai-tru-so-xa-20261117145906092.htm",
-"summary": "(Dân trí) - Đến Trung tâm Phục vụ hành chính công xã Phú Tâm (TP Cần Thơ) khiếu nại, một phụ nữ có hành vi la hét, xúc phạm cán bộ và cản trở hoạt động giải quyết thủ tục hành chính.",
-"image": "https://cdnphoto.dantri.com.vn/Fa49eUmsAGMRK9U-hrW2PxJVd_w=/2026/11/17/gay-roi-tru-so-edited-cropped-1794902010240.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-17T16:21:53+07:00",
-"found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "e0f6ac10addf",
-"title": "Về quê tết năm nay, bay chặng nào có thể chuyển qua sân bay Long Thành?",
-"link": "https://thanhnien.vn/ve-que-tet-nam-nay-bay-chang-nao-co-the-chuyen-qua-san-bay-long-thanh-185261117152317476.htm",
-"summary": "Trước thời điểm Cảng hàng không quốc tế Long Thành dự kiến chính thức đưa vào khai thác thương mại từ 0 giờ ngày 24.12 tới, một số đại lý vé máy bay đã bắt đầu hé lộ lịch bay dự thảo của các hãng nội địa đến và đi từ siêu sân bay này.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/mock-up-dat-ve-may-bay-17932463971021930423759-0-32-868-1421-crop-17949037730252133252779.png",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-17T16:21:00+07:00",
 "found": "2026-11-17T16:39:40+07:00"
 }
 ]
