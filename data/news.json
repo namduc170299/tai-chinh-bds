@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T06:25:12+07:00",
-"new": 10,
+"updated": "2026-11-20T06:40:21+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Thanh Niên",
@@ -212,6 +212,40 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "7863f3557fd1",
+"title": "Thời sự sáng 20/11: Ông Lê Thanh Thản bị đề nghị 30-36 tháng tù treo",
+"link": "https://vietnamnet.vn/thoi-su-sang-20-11-ong-le-thanh-than-bi-de-nghi-muc-an-30-36-thang-tu-treo-2576784.html",
+"summary": "Ông Lê Thanh Thản bị Viện Kiểm sát đề nghị mức án 30-36 tháng tù nhưng cho hưởng án treo; tài xế kịp thời túm áo, cứu nam thanh niên định nhảy cầu Thuận Phước... là những tin tức thời sự đáng chú ý sáng ngày 20/11/2026.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/11-ong-le-thanh-than-bi-de-nghi-30-36-thang-tu-treo-3133.png?width=0&s=UYdLJGuYzsTF-_HfDTsYNA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T06:30:00+07:00",
+"found": "2026-11-20T06:40:21+07:00"
+},
+{
+"id": "3e59952d880b",
+"title": "Khi bảng điện không nói lên tất cả: Cổ phiếu ngân hàng nào được nhà đầu tư yêu thích nhất?",
+"link": "https://cafef.vn/khi-bang-dien-khong-noi-len-tat-ca-co-phieu-ngan-hang-nao-duoc-nha-dau-tu-yeu-thich-nhat-188261119233021691.chn",
+"summary": "Thị trường chứng khoán đang chứng kiến sự phân hóa mạnh của nhóm cổ phiếu ngân hàng khi chỉ 9/28 mã tăng giá so với cuối năm 2025, trong khi nhiều cổ phiếu của các ngân hàng đầu ngành lại sụt giảm. Giữa những diễn biến trái chiều đó, đâu sẽ là cái tên được cộng đồng nhà đầu tư…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/thi-truong-tai-chinh-bo-va-gau-ben-ngan-hang-17951055578451746708888-0-0-960-1536-crop-17951055609981297610088.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-20T06:26:00+07:00",
+"found": "2026-11-20T06:40:21+07:00"
+},
+{
+"id": "3b4a23c4b7e4",
+"title": "al nassr",
+"link": "https://www.goal.com/en/news/al-ahli-star-recovers-before-the-clasico-after-a-month-and-a-half/bltd936345b93520ff3",
+"summary": "Al-Ahli star recovers from the Saudi national team curse before the Clasico after a month and a half (Goal.com)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeXB5sSqWUJ2aq0FS854WRPQPfCxFEJfHTNXF8TXvnEvC22GZmbvEosIWpeQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T06:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T06:40:21+07:00"
+},
 {
 "id": "b58f50d788dc",
 "title": "Vingroup khởi công dự án nhà ở xã hội lớn nhất Việt Nam",
@@ -335,6 +369,17 @@
 "found": "2026-11-20T06:25:12+07:00"
 },
 {
+"id": "2ad38623e62c",
+"title": "Bộ Tài chính: 2 tháng, hơn 8.900 phản ánh bị mạo danh đăng ký kinh doanh",
+"link": "https://dantri.com.vn/kinh-doanh/bo-tai-chinh-2-thang-hon-8900-phan-anh-bi-mao-danh-dang-ky-kinh-doanh-20261119212643852.htm",
+"summary": "(Dân trí) - Trong 2 tháng, cơ quan thuế nhận hơn 8.900 phản ánh về việc thông tin cá nhân bị sử dụng trái phép để đăng ký doanh nghiệp, hộ kinh doanh.",
+"image": "https://cdnphoto.dantri.com.vn/f7f_xx5C082t6GPrTL0rnlhYB9A=/2026/11/19/auto-gate-noi-bai-12-1703261208852-1795098270260.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-20T06:00:00+07:00",
+"found": "2026-11-20T06:40:21+07:00"
+},
+{
 "id": "7be0981459a9",
 "title": "TP.HCM gấp rút bồi thường dự án trọng điểm",
 "link": "https://thanhnien.vn/tphcm-gap-rut-boi-thuong-du-an-trong-diem-185261119191701631.htm",
@@ -366,7 +411,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T05:50:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-20T06:06:12+07:00"
 },
 {
@@ -522,7 +567,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T05:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-20T05:50:42+07:00"
 },
 {
@@ -536,6 +581,18 @@
 "published": "2026-11-20T05:20:00+07:00",
 "traffic": "500+",
 "found": "2026-11-20T06:06:12+07:00"
+},
+{
+"id": "6ce2bec00bf9",
+"title": "bảo kê",
+"link": "https://vietnamnet.vn/nhan-hoi-lo-to-trat-tu-xa-hoi-nham-mat-lam-ngo-cho-vi-pham-2576843.html",
+"summary": "5 cựu thành viên tổ trật tự đô thị ở TPHCM lĩnh án vì nhận hối lộ (Báo VietNamNet)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkORW9FykTD65F3m7NwV0Q-bEgiDMDPEs4AGnRc7OACtN8zz-RFBye-rNXFu4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T05:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T06:40:21+07:00"
 },
 {
 "id": "96b7f138c07b",
@@ -602,7 +659,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T05:10:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-20T05:35:17+07:00"
 },
 {
@@ -27911,61 +27968,6 @@
 "cat": "tc",
 "published": "2026-11-17T17:18:00+07:00",
 "found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "94225c593219",
-"title": "Phó bí thư Đặng Minh Thông kiểm tra tiến độ các dự án giao thông trọng điểm khu vực Cần Giờ",
-"link": "https://tuoitre.vn/pho-bi-thu-dang-minh-thong-kiem-tra-tien-do-cac-du-an-giao-thong-trong-diem-khu-vuc-can-gio-100261117161139176.htm",
-"summary": "Phó bí thư Thành ủy TP.HCM Đặng Minh Thông yêu cầu các địa phương, đơn vị phải hoàn tất mặt bằng cho dự án nút giao đường Rừng Sác với cao tốc và đường sắt tốc độ cao Bến Thành - Cần Giờ vào giữa tháng 12-2026.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/dsc02376-17949059690001659036711-412-419-1750-2560-crop-1794911411985933398414.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T17:18:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "592e3cdb90b8",
-"title": "Khi đường sắt và TOD phát triển: Mua nhà, cần mua cả khả năng kết nối",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmZyTlVCOG5NU2NvaHpnam9Gell4RGFoOUIzRTd0WHNJUDFOaG96aGloZ19BbGFtekpyazd6WDNFRHJnanNFSEVST296V0l0aWg4c29yZjBWNFJsUTN1aVAybUtuem5mZlZaU3ZPRXJTZzkwNVBoQVpxVFBtRWFxSnhSMGVDenhNa3FLVF9MN0U3R3M3U1k1dkVVb3IwdTBiM3c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T17:17:18+07:00",
-"found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "c22e41e46362",
-"title": "Triệt phá đường dây chứa, môi giới mại dâm tại loạt cơ sở massage",
-"link": "https://thanhnien.vn/triet-pha-duong-day-chua-moi-gioi-mai-dam-tai-loat-co-so-massage-185261117160913362.htm",
-"summary": "Mở rộng kiểm tra các cơ sở kinh doanh dịch vụ tại TP.HCM, công an đã khởi tố 3 vụ án với 8 bị can về hành vi chứa mại dâm và môi giới mại dâm tại cơ sở massage Mỹ Nhân Ngư, Regal cùng hộ kinh doanh Kati.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/1711-mai-dam-1-17949062083651401769076-0-32-805-1320-crop-17949064370432042781940.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T17:15:00+07:00",
-"found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "01eab976d59f",
-"title": "Đề xuất cảnh cáo hoặc trừ điểm giấy phép lái xe với lỗi ít nghiêm trọng",
-"link": "https://vnexpress.net/de-xuat-canh-cao-hoac-tru-diem-giay-phep-lai-xe-voi-loi-it-nghiem-trong-5145791.html",
-"summary": "Cục CSGT đang nghiên cứu xây dựng nghị định mới theo hướng phân hóa tính chất hành vi và số lần vi phạm, tránh phạt lỗi ít nghiêm trọng, phạm lỗi lần đầu.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/CaptureJPG-1794909863-4680-1794909874.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KftDWkYKdUBLYyUOx8NVtQ",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-17T17:14:33+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "1d886bcf8a0a",
-"title": "Quảng Ninh: Phường Mạo Khê thu hồi đất công bị lấn chiếm, đồng bộ hạ tầng đô thị​",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3NodXhDOXJScmUyQkY4ZERoSWc3STFyaU53aV81bXpLa01pZjlMcjU3M3VkTjZQV2Z0SWhLdENmSExPbU1ieGdrdnhZcXB3OEt0aTBCWi01c3VtYnR3bGN1aEZWa1Nfekk2YjV4bTBRS29vajdrdEo4VjNwZl9WZlg3b0xtSTIzWXRCdTJicEM4Q3R3aWFqYjdXb3hlY2NfYWlhRzM3UWN5blBIS04xNQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T17:11:00+07:00",
-"found": "2026-11-18T10:17:24+07:00"
 }
 ]
 }
