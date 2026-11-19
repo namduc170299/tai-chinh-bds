@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T04:03:12+07:00",
-"new": 1,
+"updated": "2026-11-20T04:18:23+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 28
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,29 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "cd161bf38c86",
+"title": "Nhiều nhà băng có quy mô tài sản vượt một triệu tỷ đồng",
+"link": "https://vnexpress.net/nhieu-nha-bang-co-quy-mo-tai-san-vuot-mot-trieu-ty-dong-5146562.html",
+"summary": "Một nửa ngân hàng niêm yết có quy mô tài sản trên 500.000 tỷ đồng, dự kiến thuộc nhóm quy mô lớn theo tiêu chí mới của Ngân hàng Nhà nước, trong đó có 9 nhà băng vượt mốc một triệu tỷ.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/huy-1795100521-1763-1795100571.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q63AA7g5kIVUZR2auvxNNA",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-20T04:00:00+07:00",
+"found": "2026-11-20T04:18:23+07:00"
+},
+{
+"id": "8f045074c3f2",
+"title": "câu lạc bộ bóng đá công an hà nội",
+"link": "https://vietnamnet.vn/ket-qua-bong-da-cahn-vs-johor-dt-cup-cac-clb-dong-nam-a-2576713.html",
+"summary": "Kết quả bóng đá CAHN vs Johor DT, Cúp các CLB Đông Nam Á (Báo VietNamNet)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzI65fekPC5XQOBho--opLvuGJMkM3hrFyAbxYUA27Zd7CHKyfoY9kyq1of-E",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T03:40:00+07:00",
+"traffic": "5000+",
+"found": "2026-11-20T04:18:23+07:00"
+},
+{
 "id": "6b8d71947386",
 "title": "Ủy ban Basel lưu ý một số rủi ro đối với hệ thống ngân hàng",
 "link": "https://cafef.vn/uy-ban-basel-luu-y-mot-so-rui-ro-doi-voi-he-thong-ngan-hang-188261120032332332.chn",
@@ -233,6 +256,17 @@
 "cat": "xh",
 "published": "2026-11-20T03:19:00+07:00",
 "found": "2026-11-20T03:32:27+07:00"
+},
+{
+"id": "21ad959fc049",
+"title": "Nhiều giám đốc cấp cao PNJ đồng loạt từ nhiệm",
+"link": "https://vnexpress.net/nhieu-giam-doc-cap-cao-pnj-dong-loat-tu-nhiem-5146804.html",
+"summary": "PNJ thông qua đơn từ nhiệm của 3 giám đốc cấp cao phụ trách chiến lược, nhân sự và khách hàng - bán lẻ, hiệu lực từ cuối tháng này.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/452288290-1795098211-6587-1795098376.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8NDrrWy2RzUGDalBeeEwHg",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-20T03:13:28+07:00",
+"found": "2026-11-20T04:18:23+07:00"
 },
 {
 "id": "55aaa0428e57",
@@ -3366,6 +3400,17 @@
 "found": "2026-11-19T16:49:44+07:00"
 },
 {
+"id": "8ef41a303332",
+"title": "Từng gây xôn xao với Trường Giang, Khánh My hiện sở hữu khối tài sản “khủng“ ra sao?",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSTcxMFFLUEpjZGFmTXF3cVVRNWt0X1Y1anFQTElRT0tVSkJ2eHY2RVNDVnJFNWtidkhsUTJ6dHB0bG1SSmhRTU1tYWw3TFZfSWhLRi1DWmxtUkZ2N2h6LTJwMnp2cjYxalNaSHR0NHpxWV9PelBZXzdjU1VlV0EtVzU3N2pMdS1lLTJGcE5CSG9oVnRNbHlwbG5CM3paZ0JHQzJOZ01YQmdndw?oc=5",
+"summary": "Nguồn: tin.skydoor.net",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-19T16:23:02+07:00",
+"found": "2026-11-20T04:18:23+07:00"
+},
+{
 "id": "c35a3e66de24",
 "title": "Người Việt vẫn mạnh tay mua smartphone, dù thị trường khu vực lao dốc",
 "link": "https://tuoitre.vn/nguoi-viet-van-manh-tay-mua-smartphone-du-thi-truong-khu-vuc-lao-doc-10026111916021241.htm",
@@ -5107,6 +5152,17 @@
 "cat": "xh",
 "published": "2026-11-19T14:15:00+07:00",
 "found": "2026-11-19T15:31:26+07:00"
+},
+{
+"id": "08bae2bf23f0",
+"title": "Hà Nội hỗ trợ lãi vay đầu tư bãi đỗ xe, đẩy mạnh trạm sạc điện công cộng",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWhMMUd1eXpBd1JoSTNXTll5TldfRGNSZk9QTGJYX3FwbDVVNUhHSHNKdjZNNmJFUUhuREh4S3dUN0Z4MC04MzFrRzJrX3VlTXhVTURlNENqVzltSXBBZnpLM1FVZTdDalM0NWhYVFpRRkkyLWx3bEVoTTFkdGlTUnVlclNGY3Bwb3VHbDgtd0JEbUpKSTZqOGNKOUdDSGhVY1JiaU1BNA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T14:15:00+07:00",
+"found": "2026-11-20T04:18:23+07:00"
 },
 {
 "id": "fe503bbd12e9",
@@ -27901,61 +27957,6 @@
 "cat": "xh",
 "published": "2026-11-17T16:05:00+07:00",
 "found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "9000a40c5a56",
-"title": "Chủ tịch Hà Nội ghi nhận ý kiến của cử tri về hướng tuyến đường Tây Thăng Long",
-"link": "https://tuoitre.vn/chu-tich-ha-noi-ghi-nhan-y-kien-cua-cu-tri-ve-huong-tuyen-duong-tay-thang-long-100261117145948043.htm",
-"summary": "Chủ tịch Hà Nội Vũ Đại Thắng giao cơ quan chức năng tiếp nhận, nghiên cứu kiến nghị của cử tri về dịch hướng tuyến đường Tây Thăng Long để giảm độ cong.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/hehgbb-1794902124625801408730-191-740-820-1746-crop-17949071011391566660259.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T16:05:00+07:00",
-"found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "16fd4c3e3517",
-"title": "Khởi công Dự án nhà ở cho lực lượng vũ trang công an nhân dân tại Đắk Lắk",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXI3Y1ZNWlAxVWl3M1ZwRWtPbV80M0xmSVBGWDVhVF9ZdXEyX0NVanBZVy1PblNEVnpySXlrY0Jkc2VUUVJmN1V1cjF0LWhWazZWbGN6SHdvVkpaYlVnREhEZGNTd09KR21hYW1JUkM4QkRwWjFKbENTOG1nUkRMaEVyUGtjYlBUTlBJMDF2RVBjUU1FSjN6dzJ0ZDNCM1Y4LUx5NXJ5THBiQQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T16:04:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "9a6a000568c6",
-"title": "6 dự án chậm phê duyệt, Quảng Ngãi yêu cầu phải xong trước 20.11",
-"link": "https://thanhnien.vn/6-du-an-cham-phe-duyet-quang-ngai-yeu-cau-phai-xong-truoc-2011-185261117152734302.htm",
-"summary": "UBND tỉnh Quảng Ngãi yêu cầu các sở, ngành, chủ đầu tư khẩn trương tháo gỡ vướng mắc, hoàn tất thủ tục phê duyệt 6 dự án sử dụng vốn ngân sách Trung ương trước ngày 20.11, đồng thời làm rõ trách nhiệm chậm trễ.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/tnw-dji202511121440370708d-17949038427001952921516-0-186-1440-2490-crop-1794903885090639639451.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T16:04:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "55e15b0638ca",
-"title": "Cà Mau tận dụng FTA, mở rộng dư địa xuất khẩu",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQThPVk9Mb0Y1bzkxTEV0eDJmcEpKVU9XRmdkalZiSTNfMGRKRkh2NXV3OUQ3WFJ6dnRxSndoLTNpaUZVY3ZPWHVDbHFXNjQ4VnUtZGN6bWZrSmtINzg0ME9EUTl5MzU1MU1JakpDRng1M3lKTlo1VUd2aTNOR0Yta2lJTQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-17T16:04:00+07:00",
-"found": "2026-11-18T07:10:50+07:00"
-},
-{
-"id": "7e89cbfdcdbe",
-"title": "Cục Quản lý đất đai nói về đề xuất bồi thường mới khi Nhà nước thu hồi đất",
-"link": "https://vietnamnet.vn/cuc-quan-ly-dat-dai-noi-ve-de-xuat-boi-thuong-moi-khi-thu-hoi-dat-2575839.html",
-"summary": "Đại diện Cục Quản lý đất đai (Bộ Nông nghiệp và Môi trường) đã thông tin về một số đề xuất liên quan tới chính sách bồi thường khi Nhà nước thu hồi đất.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/cuc-quan-ly-dat-dai-noi-ve-de-xuat-boi-thuong-moi-khi-nha-nuoc-thu-hoi-dat-1864.jpg?width=0&s=1DOiFxjpTuQ0PBhBItATDA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-17T16:03:28+07:00",
-"found": "2026-11-17T16:39:40+07:00"
 }
 ]
 }
