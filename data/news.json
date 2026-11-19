@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T04:49:04+07:00",
-"new": 5,
+"updated": "2026-11-20T05:04:17+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 52
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Thanh Niên",
@@ -212,6 +212,29 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "707feabb64cf",
+"title": "Giá vàng hôm nay 20/11: Lao dốc xuống sát 3.690 USD/ounce, thấp nhất 14 tháng",
+"link": "https://vietnamnet.vn/gia-vang-hom-nay-20-11-lao-doc-xuong-sat-3-690-usd-ounce-thap-nhat-14-thang-2576914.html",
+"summary": "Giá vàng thế giới lại giảm sâu trong bối cảnh nhà đầu tư đánh giá các dữ liệu kinh tế Mỹ và triển vọng chính sách tiền tệ của Fed. Trong nước, giá vàng miếng SJC giảm về mức 133,2-136,2 triệu đồng/lượng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/ounce-thap-nhat-14-thang-3159.jpg?width=0&s=EgzVWYKDPwhCaHilsais-Q",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T05:00:00+07:00",
+"found": "2026-11-20T05:04:17+07:00"
+},
+{
+"id": "dc7f8e947213",
+"title": "lương hưu",
+"link": "https://laodong.vn/ban-doc/ha-tuoi-nhan-tro-cap-huu-tri-xa-hoi-them-diem-tua-cho-nguoi-ngheo-khong-co-luong-huu-1802100.ldo",
+"summary": "Hạ tuổi nhận trợ cấp hưu trí xã hội, thêm điểm tựa cho người nghèo không có lương hưu (Laodong.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdNuWuhq88nM6LNLDAXnhbRdNxI0oPZOvZSAVuoGWUOhRFByt5yD4HyCsuBE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T04:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-20T05:04:17+07:00"
+},
 {
 "id": "b81d9240ebbf",
 "title": "Chàng trai Khmer nghèo học hết lớp 3 trở thành ông chủ trại tôm lãi 9 tỉ đồng mỗi năm",
@@ -269,6 +292,18 @@
 "cat": "tc",
 "published": "2026-11-20T04:00:00+07:00",
 "found": "2026-11-20T04:18:23+07:00"
+},
+{
+"id": "db1397b31754",
+"title": "tiền",
+"link": "https://laodong.vn/tien-te-dau-tu/lai-suat-agribank-vietcombank-bidv-va-vietinbank-moi-nhat-ngay-1911-1803162.ldo",
+"summary": "Lãi suất Agribank, Vietcombank, BIDV và VietinBank mới nhất ngày 19.11 (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_sBDyPi65W55iEVGMe1RPNdKTEAXW9Qg89F2UmiY-583hVXbvU8CmNUXrbWw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T03:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T05:04:17+07:00"
 },
 {
 "id": "8f045074c3f2",
@@ -26875,18 +26910,6 @@
 "found": "2026-11-17T18:26:30+07:00"
 },
 {
-"id": "44fd2950f5e6",
-"title": "tiền",
-"link": "https://cafef.vn/ngay-17-11-gui-200-trieu-tai-techcombank-sacombank-shb-hdbank-mb-vpbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-sau-6-thang-188261116235213303.chn",
-"summary": "Ngày 17/11, gửi 200 triệu tại Techcombank, Sacombank, SHB, HDBank, MB, VPBank và ACB nhận được bao nhiêu tiền lãi sau 6 tháng? (CafeF)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjyZFIu7AE6glT2dlsS0BG09qrOGQ7i75xKEs9CNSW38tZHh1t7Qpwh3sroI",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-17T17:50:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
 "id": "2ef5e58d1ae8",
 "title": "Chính sách đất đai mở đường cho nền nông nghiệp quy mô lớn",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON2F4eGg5Qjc0UnFta1FBank5MnJyRlA5ejJrY3gzeWE5dlhwLTFLN19MT1ZvS3cxY2E0TXJjdG53X21NSkFzRWg3RG1UdF9PYTEwRmpmVjZDNmczT2ZWNmJoeE05UTdOQnozNFpQWG52ZF9wY0h4T2xKekhkR1NDUVE2aXNCWV85ekxfa2tpQ3BCcmpOT0E?oc=5",
@@ -27935,28 +27958,6 @@
 "source": "CafeF",
 "cat": "tc",
 "published": "2026-11-17T16:14:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "245a08d712fa",
-"title": "Nhu cầu vốn tăng: Động lực tăng trưởng tín dụng những tháng cuối năm",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1hvQmF6c21ac3d6VkhyT0cweXRqSDBWOFpYTVRKdmNJSlFRdXBSVzE0TC1YdlRlRkJValJOWWxvWXVSb1JVM3k3cXp4dnJJaG5YQTE0VTh4QkJjTy1xUG9ETHZfWW1fSkQybHRJNGZfaFc3X3FOWHN1aVR0SzZVbTY1MEYteHdyS1lrLWZGd1ZULWo0TG1PbDFTRll0WkxldUE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-17T16:13:21+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "493267314df3",
-"title": "Đồng Nai: Kiểm tra 15 thửa đất ven hồ Sông Ray, nhìn từ bài toán bảo vệ nguồn nước",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1hGb2FJeVVVZ1lQUkpaN05saEJsVmdHaU9rZzlOMmZSR1VhZjlPYlgyMjZWOTE1ZDdWMXh2ZTRHRW1Eak9vMDFmdnVkODU1QzZhN25HVXNoTFdkamNfTEZIQkpsU01HSWRQVUNLcHJ0bVV0RUxUOFQ1ak1zSUV5WDFrM2pXbjlOcFVmUURPb25ua29icGJ4WTBDTUx4Uk9FRU1fOHR5ZE9XTGktNjJjN0hQUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T16:12:00+07:00",
 "found": "2026-11-17T16:39:40+07:00"
 }
 ]
