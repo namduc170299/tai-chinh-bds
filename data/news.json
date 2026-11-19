@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T03:01:59+07:00",
-"new": 1,
+"updated": "2026-11-20T03:17:10+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,17 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "55aaa0428e57",
+"title": "Bên trong cống ngăn triều lớn nhất dự án chống ngập 10.000 tỷ đồng ở TPHCM",
+"link": "https://vietnamnet.vn/cong-ngan-trieu-lon-nhat-du-an-chong-ngap-10-000-ty-dong-o-tphcm-2576652.html",
+"summary": "Cống Mương Chuối có quy mô lớn nhất và là nơi điều hành của dự án chống ngập 10.000 tỷ đồng tại TPHCM. Công trình sẽ vận hành thử nghiệm ngày 25/11.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/ben-trong-cong-ngan-trieu-lon-nhat-du-an-chong-ngap-10-2180.jpg?width=0&s=NDO22-T-AH33jOd4b50GPg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T03:10:00+07:00",
+"found": "2026-11-20T03:17:10+07:00"
+},
 {
 "id": "5603aaab7d19",
 "title": "Cháy 20.000 m2 kho nguyên liệu nhà máy giấy ở Cần Thơ",
@@ -2834,6 +2845,17 @@
 "found": "2026-11-19T17:04:55+07:00"
 },
 {
+"id": "86126018c615",
+"title": "ACB bố cáo thay đổi địa điểm PGD Bình Chánh",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOekVhenhFMFZxVVhJNTN0TmNLeVZoWVY4SWgweFVMSEZYcWUzLW42VmlUX1c1enJoZl9mNFBLZmFPMnFOeWRQYnFibjduU2h4NXRPQ2x6TEFMYnY1NjhwRjlDdWdlSVBLQVBZX1NfdllPVnlhenRPQjNGYU11eWhZREx3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T16:58:02+07:00",
+"found": "2026-11-20T03:17:10+07:00"
+},
+{
 "id": "49bcc9301a86",
 "title": "Tín dụng đen: Công nhân thường xuyên bị đòi nợ, gây sức ép",
 "link": "https://cafef.vn/tin-dung-den-cong-nhan-thuong-xuyen-bi-doi-no-gay-suc-ep-188261119161622784.chn",
@@ -3754,6 +3776,17 @@
 "found": "2026-11-19T16:05:19+07:00"
 },
 {
+"id": "b723e54b5237",
+"title": "TP. Hồ Chí Minh: Tín dụng bất động sản nhà ở xã hội, khu công nghiệp và du lịch vượt 112.000 tỷ đồng",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb3I1a29ITks3S2RPREVtdHIzV2tWOWhjYWR2ckxiUlEyLTVyTWhlTWIyT0I0VU1tN0IzUmZ0czdxemdTd2hEb0x0RGZSaFBUNFNJdVNIMFZLd0o1ZEhVdGNjaVV4WUdNYjRveXJNTWhTRHFWaVdhaEplaW95d0gyekJROE9NVmNWY2lSLWhEVlFnckJLeHZuS04ySU5jN1p5MTExdU8zSUNSLXpiMnNFbS1aOTRVbkwyYWF5U0Z4SlNsTS1nR1ZBaUhB?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T15:46:30+07:00",
+"found": "2026-11-20T03:17:10+07:00"
+},
+{
 "id": "b21dbe7fd331",
 "title": "VRB ưu đãi lớn cho khách hàng doanh nghiệp nhân dịp kỷ niệm 20 năm thành lập",
 "link": "https://vneconomy.vn/vrb-uu-dai-lon-cho-khach-hang-doanh-nghiep-nhan-dip-ky-niem-20-nam-thanh-lap.htm",
@@ -4357,6 +4390,17 @@
 "cat": "xh",
 "published": "2026-11-19T15:00:19+07:00",
 "found": "2026-11-19T15:50:10+07:00"
+},
+{
+"id": "863d354beb5a",
+"title": "Điểm tựa tín dụng chính sách trên hành trình vươn lên",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaS1pai1oQjRhaFZOYzd3U3pYY2tPRjlMQmd5VktTM0Nod0xzQUU0bWkyS1FGWmdBY09hbk5mcU1aay0zUnY4cWhzcmQxeUJRdEl1dmx5X3ZmOVRfVWozNi1SZ2dSZ3hqQ24zREZ6UHNFamhyS3FDLUx4ckJBM2R6LXBFc1pIdC1Pbk1jcGI5cw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T15:00:03+07:00",
+"found": "2026-11-20T03:17:10+07:00"
 },
 {
 "id": "48cd93323e5b",
@@ -6714,6 +6758,17 @@
 "cat": "tc",
 "published": "2026-11-19T11:25:00+07:00",
 "found": "2026-11-19T11:41:23+07:00"
+},
+{
+"id": "255ead856ceb",
+"title": "Giá vàng thế giới thủng đáy năm, trong nước về dưới 137 triệu/lượng",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRGl3Y3hBaXlxaGRBZGROLUhnNlhMUzJkMGhrTElDeXFVdUZuclZEVVN1LTRaT2VXek9DN3R6ZjFVMGxEeHBpSmE0U2o1TGp4Njd0TEJkSXQ5S3pveVhyWTBXUG5mWnY4ek5nLVJEcGZXUGo3RWpCTkNXTVY3aWJSUk10SHdkbmxfLTdrQTZsamN5cFVBemdtOTU5c0huN2ls?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T11:24:25+07:00",
+"found": "2026-11-20T03:17:10+07:00"
 },
 {
 "id": "b9170979359f",
@@ -27900,61 +27955,6 @@
 "source": "Thanh Niên",
 "cat": "tc",
 "published": "2026-11-17T15:43:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "e3899893c802",
-"title": "Lý Nhã Kỳ: Tôi không chơi cổ phiếu",
-"link": "https://cafef.vn/ly-nha-ky-toi-khong-choi-co-phieu-188261117154309842.chn",
-"summary": "Từng góp gần 200 tỷ đồng vào một doanh nghiệp và sở hữu hàng loạt pháp nhân trong lĩnh vực bất động sản, nữ diễn viên Lý Nhã Kỳ lại từng tiết lộ chứng khoán không phải kênh đầu tư mà mình lựa chọn.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1794904968248-1794904968810661289246.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-17T15:42:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "84727d2cb5d5",
-"title": "Khởi tố 8 người trong các vụ mại dâm tại massage Mỹ Nhân Ngư, Regal và Kati",
-"link": "https://tuoitre.vn/khoi-to-8-nguoi-trong-cac-vu-mai-dam-tai-massage-my-nhan-ngu-regal-va-kati-100261106105417632.htm",
-"summary": "Công an TP.HCM vừa liên tiếp phát hiện hoạt động mại dâm tại các cơ sở massage Mỹ Nhân Ngư (khu dân cư Trung Sơn, xã Bình Hưng); Regal (số 29 Lê Thánh Tôn và Kati (số 15B/26 Lê Thánh Tôn, cùng phường Sài Gòn).",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/massage-17949062077862082539194-105-139-668-1040-crop-17949062869471941294367.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T15:42:00+07:00",
-"found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "23c5bc01477d",
-"title": "Giá xe đang giảm giá sâu cuối năm, nhưng mua ngay có bị thiệt đời?",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmZNd3hoblNOTjIyckdONjloVEpIWGdPQVdzZG0teGxUVmpEQk1WeDYzZDdia0c3TFVKVktwZFlaemJ1YkxfU2RKSGRPQlpXLTdXN2x5M2FQU1lQSUZaRVdvQ3Q2Tm1aamN1MGpjbkFNNHRyNmctN0ZKQ0M2VTVkWndtdGZMcTczemF0SDlBOUctOUlITW5WNExBampHdw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-17T15:42:00+07:00",
-"found": "2026-11-18T05:18:46+07:00"
-},
-{
-"id": "0ab21a0b6ec2",
-"title": "TP. Hồ Chí Minh chuẩn bị nguồn vốn tín dụng ưu đãi cho học sinh, sinh viên năm 2027",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGRuVWlUeEE1RmtqOWJNdXM0Y2lSUzd6dEFRZG93c1ExYWpmd2ZETlotYlJlZlNLY2xzQ0ZXR09EM2JyNFhUMGFmbmFJckZCaWg2SmhFdVV1aXVNbUNHanZJWGcxUVhUUjhWSzhLMVBic29RN1hnaWxxYzktd2JTd2tjT1FOTzhHVW9VM3l3c281dm9yRUhwN09GWkVUS19OOWlORmtfaDFyYTk4M1ZCeHhCYkk?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-17T15:41:35+07:00",
-"found": "2026-11-18T07:10:50+07:00"
-},
-{
-"id": "157dc33c29d8",
-"title": "Tính đến 16/11/2026, có 71 mã bị cắt margin trên HOSE",
-"link": "https://vneconomy.vn/tinh-den-16112026-co-71-ma-bi-cat-margin-tren-hose.htm",
-"summary": "Sở Giao dịch Chứng khoán TP.HCM (HOSE) thông báo danh sách bổ sung chứng khoán không đủ điều kiện giao dịch ký quỹ.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/17/fef8361073704605b9fd028e815e93dc-136319.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-17T15:40:47+07:00",
 "found": "2026-11-17T16:39:40+07:00"
 }
 ]
