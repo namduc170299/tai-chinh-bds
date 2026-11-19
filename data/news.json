@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T05:19:48+07:00",
-"new": 2,
+"updated": "2026-11-20T05:35:17+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 25
+"count": 26
 },
 {
 "name": "Thanh Niên",
@@ -212,6 +212,83 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "3145af1789a2",
+"title": "Chưa thể ngăn chặn nạn phá rừng ở Gia Lai",
+"link": "https://thanhnien.vn/chua-the-ngan-chan-nan-pha-rung-o-gia-lai-185261119145859051.htm",
+"summary": "Tình trạng phá rừng ở Gia Lai xảy ra chỉ trong thời gian ngắn, dù lực lượng bảo vệ rừng vẫn đang thực hiện chức trách giữ rừng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-2hgb6fmdjt4il4su8c7mvqgi9bypd2ek5gvu-17950748012742007355597-107-0-1707-2560-crop-17950875420811101966917.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T05:35:00+07:00",
+"found": "2026-11-20T05:35:17+07:00"
+},
+{
+"id": "673f85bf0c51",
+"title": "Chuyên gia cảnh báo giá vàng có thể đi ngang 10 năm sau cú tăng nóng",
+"link": "https://vietnamnet.vn/gia-vang-co-the-di-ngang-10-nam-toi-2576699.html",
+"summary": "Mức giảm gần 30% từ đỉnh đầu năm chưa phải rủi ro duy nhất với nhà đầu tư. Một chiến lược gia hàng hóa của Bloomberg Intelligence cảnh báo giá vàng có thể bước vào giai đoạn đi ngang kéo dài nhiều năm, thậm chí cả thập kỷ.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/chuyen-gia-canh-bao-gia-vang-co-the-di-ngang-10-nam-sau-cu-tang-nong-2713.png?width=0&s=3zJSRE6PZzPr5RqQAM5Giw",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T05:30:00+07:00",
+"found": "2026-11-20T05:35:17+07:00"
+},
+{
+"id": "719c8fc98717",
+"title": "Quá thời hạn gia hạn, doanh nghiệp vẫn chưa bàn giao nhà số 6 Trần Hưng Đạo, Vũng Tàu",
+"link": "https://thanhnien.vn/qua-thoi-han-gia-han-doanh-nghiep-van-chua-ban-giao-nha-so-6-tran-hung-dao-vung-tau-185261116153904912.htm",
+"summary": "Dù đã được UBND phường Vũng Tàu chấp thuận gia hạn 20 ngày để chuẩn bị bàn giao, tuy nhiên quá hạn mà doanh nghiệp vẫn chưa trả lại mặt bằng nhà, đất số 6 Trần Hưng Đạo cho Nhà nước.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/16/edit-tnw-1794817943346821349631772387947282134963177238794725f455c6eaeede72ea86625fc0a77e038-1794818909652975906568-303-0-1903-2560-crop-17948189243371601919580.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T05:26:00+07:00",
+"found": "2026-11-20T05:35:17+07:00"
+},
+{
+"id": "b9a7fc390b08",
+"title": "Phường nhiều nhà ven kênh nhất TP.HCM vào cao điểm bồi thường",
+"link": "https://thanhnien.vn/phuong-nhieu-nha-ven-kenh-nhat-tphcm-vao-cao-diem-boi-thuong-185261119211049986.htm",
+"summary": "Phường Chánh Hưng (TP.HCM) đang tập trung nhân lực triển khai bồi thường, tái định cư cho hàng ngàn căn nhà ven kênh để bàn giao mặt bằng tháng 3.2027.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-du-an-cai-tao-bo-nam-kenh-doi-phuong-chanh-hung-tphcm-17950986070301205856642-0-0-1600-2560-crop-1795099268311199128818-17950992924351249505185.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T05:25:00+07:00",
+"found": "2026-11-20T05:35:17+07:00"
+},
+{
+"id": "2706fa5c694e",
+"title": "Bắt đầu từ hôm nay (20/11), Quốc hội sẽ biểu quyết thông qua nhiều luật, nghị quyết về thuế sử dụng đất phi nông nghiệp, thuế TNCN, doanh nghiệp...",
+"link": "https://kenh14.vn/bat-dau-tu-hom-nay-20-11-quoc-hoi-se-bieu-quyet-thong-qua-nhieu-luat-nghi-quyet-ve-thue-su-dung-dat-phi-nong-nghiep-thue-tncn-doanh-nghiep-215261119230529239.chn",
+"summary": "Đợt 2 của Kỳ họp thứ Hai, Quốc hội khóa XVI sẽ tiếp tục trong 2 ngày (20-21/11/2026) tại Nhà Quốc hội. Dự kiến, Quốc hội sẽ biểu quyết thông qua nhiều luật, nghị quyết quan trọng, đồng thời tiếp tục thảo luận tại hội trường đối với một số dự án luật.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795104257055-17951042605321473211747.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T05:22:00+07:00",
+"found": "2026-11-20T05:35:17+07:00"
+},
+{
+"id": "f6ed9b621ffb",
+"title": "Tìm thấy 2 hài cốt tại nơi có bình tông khắc tên ‘Sinh’ và ‘Quốc Khánh’",
+"link": "https://kenh14.vn/tim-thay-2-hai-cot-tai-noi-co-binh-tong-khac-ten-sinh-va-quoc-khanh-215261119231948832.chn",
+"summary": "Tại khu vực phát hiện các bình tông khắc tên “Sinh” và “Quốc Khánh”, lực lượng chức năng Quảng Ngãi tiếp tục tìm thấy 2 hài cốt.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/img-20261119-213637-21452753-1795105085758-1795105086084689655100-0-0-450-720-crop-1795105161659477435166.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T05:21:00+07:00",
+"found": "2026-11-20T05:35:17+07:00"
+},
+{
+"id": "59ba2eab5d81",
+"title": "Metro số 1 TP.HCM ngày càng đông khách, cao điểm sáng gần 800 người/chuyến",
+"link": "https://thanhnien.vn/metro-so-1-tphcm-ngay-cang-dong-khach-cao-diem-sang-gan-800-nguoi-chuyen-185261119211412489.htm",
+"summary": "Lượng khách đi metro số 1 TP.HCM tăng 21% trong 10 tháng đầu năm 2026. Riêng giờ cao điểm sáng tháng 9, mỗi chuyến tàu chở bình quân gần 800 hành khách.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-metro-so-1-17950974643551003120642-106-0-1706-2560-crop-17950975278041811451503.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T05:20:00+07:00",
+"found": "2026-11-20T05:35:17+07:00"
+},
 {
 "id": "96b7f138c07b",
 "title": "Hạn mức giao đất nông nghiệp mới nhất ở Đồng Nai ra sao?",
@@ -257,6 +334,30 @@
 "found": "2026-11-20T05:19:27+07:00"
 },
 {
+"id": "041ac12422b7",
+"title": "mưa",
+"link": "https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-2011-tren-ca-nuoc-1802888.ldo",
+"summary": "Dự báo thời tiết ngày mai 20.11 trên cả nước (Laodong.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG18g4FotcCK-Gy9PrYbJZmujq5WLRL531D-BxOFHjlgkQ7OUKGbcN9cb47YE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T05:10:00+07:00",
+"traffic": "10000+",
+"found": "2026-11-20T05:35:17+07:00"
+},
+{
+"id": "cd3592aaa940",
+"title": "giá vàng thế giới",
+"link": "https://laodong.vn/ban-tin/gia-vang-the-gioi-hom-nay-1911-cu-dao-chieu-bat-ngo-sau-nhip-giam-sau-1803185.ldo",
+"summary": "Giá vàng thế giới hôm nay 19.11: Cú đảo chiều bất ngờ sau nhịp giảm sâu (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVYKE64i8ndAdlYJbisAJayKPsmWZ4EWqNQJwv6ohUIUG-lQccrvvOKwust2s",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T05:10:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-20T05:35:17+07:00"
+},
+{
 "id": "038f8317b141",
 "title": "Tìm lại danh tính người lính sau nửa thế kỷ từ những đoạn ADN đứt gãy",
 "link": "https://vietnamnet.vn/tu-nhung-doan-adn-dut-gay-tim-lai-danh-tinh-nguoi-linh-2576534.html",
@@ -298,7 +399,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T04:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-20T05:04:17+07:00"
 },
 {
@@ -345,7 +446,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T04:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-20T04:49:04+07:00"
 },
 {
@@ -357,8 +458,19 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T04:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-20T05:19:27+07:00"
+},
+{
+"id": "8a350c8b2628",
+"title": "Lãi suất tiết kiệm trực tuyến 19/11/2026: gửi 100 triệu đồng kỳ hạn 12 tháng nhận 8 triệu lãi",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd242UXIyYXpxdEl6aEVwN1FKOFJQcGwwd05wOUpDV0phR3l2S1FzMFZuVGNYd01nck1RcWhFSE5GWkJCZkxXNGN1TS0wVTNUVGgzRkJVaU5lT3VRMVRRR0Vkd09FYXVXYkxWby1YWTh5cXc0SUc3bDltYy1FbS12YTduUDV3RGlyb0ZNQ3Zya201Z1FyejY0QnRzaERGT0MxNkxEOW5BX1V1eEt1Vi11YXpkNlprNHJJa2pSUHRzQ3VVMWs?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T04:17:17+07:00",
+"found": "2026-11-19T10:47:50+07:00"
 },
 {
 "id": "cd161bf38c86",
@@ -657,7 +769,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-19T23:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-19T23:26:05+07:00"
 },
 {
@@ -7844,17 +7956,6 @@
 "image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795057334315-17950573357001924912227.webp",
 "source": "CafeF",
 "cat": "bds",
-"published": "2026-11-19T10:38:00+07:00",
-"found": "2026-11-19T10:47:50+07:00"
-},
-{
-"id": "8a350c8b2628",
-"title": "Lãi suất tiết kiệm trực tuyến 19/11/2026: gửi 100 triệu đồng kỳ hạn 12 tháng nhận 8 triệu lãi",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd242UXIyYXpxdEl6aEVwN1FKOFJQcGwwd05wOUpDV0phR3l2S1FzMFZuVGNYd01nck1RcWhFSE5GWkJCZkxXNGN1TS0wVTNUVGgzRkJVaU5lT3VRMVRRR0Vkd09FYXVXYkxWby1YWTh5cXc0SUc3bDltYy1FbS12YTduUDV3RGlyb0ZNQ3Zya201Z1FyejY0QnRzaERGT0MxNkxEOW5BX1V1eEt1Vi11YXpkNlprNHJJa2pSUHRzQ3VVMWs?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
 "published": "2026-11-19T10:38:00+07:00",
 "found": "2026-11-19T10:47:50+07:00"
 },
@@ -27860,105 +27961,6 @@
 "cat": "tc",
 "published": "2026-11-17T16:29:00+07:00",
 "found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "bc84d0820b1b",
-"title": "TPHCM: Theo dõi, đôn đốc giải quyết kiến nghị của cử tri đến khi có kết quả",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeHlwTTJHWERnVjdqU25aMTFSQnpDdERDakloMmc2WFdzZ1ZBQUVzcW5rcGcwMnBhblFxbFFXZ1dBMGpJcnRsWGxIcDQ3NmhJaGRTVy12cnJtd2lXNFpFLUdpSlpKYUx4b1pxdV9VM2xSU3g4cTdLcVdIQ3VXWm9iTWNKYmpqQXcybHFvTVVFY3VjVE84cmxvdmFqazExcXpxX0JqQUI0UWNlQQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T16:28:48+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "68e67c974a0e",
-"title": "Khách quên xả nước trên máy bay, tiếp viên nên xử lý thế nào?",
-"link": "https://tuoitre.vn/khach-quen-xa-nuoc-tren-may-bay-tiep-vien-nen-xu-ly-the-nao-100261117151823412.htm",
-"summary": "Sau vụ tiếp viên nhắc hành khách quay lại xả nước nhà vệ sinh trên máy bay, chuyên gia hàng không cho rằng cần xử lý khéo léo, tránh khiến hành khách khó xử.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/2027tiepviensunphuquocairways-17949029735151742693106-85-0-1365-2048-crop-17949032731061818684927.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-17T16:28:00+07:00",
-"found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "72d93a5c0273",
-"title": "TPHCM họp dân, khởi động \"siêu dự án\" gần 49.000 tỷ đồng",
-"link": "https://cafef.vn/tphcm-hop-dan-khoi-dong-sieu-du-an-gan-49000-ty-dong-188261117152843719.chn",
-"summary": "TPHCM vừa chính thức khởi động dự án đầu tiên trong 4 dự án chỉnh trang đô thị khu vực bờ Nam kênh Đôi, với tổng vốn gần 48.980 tỷ đồng từ ngân sách thành phố sau khi được HĐND TPHCM khóa XI, nhiệm kỳ 2026-2031 thông qua chủ trương đầu tư tại kỳ họp thứ 5.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1794904054258-1794904054425597200849.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-17T16:27:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "a4d2d73256be",
-"title": "Đồng Nai kiểm tra dấu hiệu vi phạm xây dựng, đất đai ven hồ Sông Ray",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFdKNmlxcGpvUlBobW1HR3NiUzRSallieG1DbUtJZHFpMmlBSUxQU2wyUUxFaUphcldoR0k0cUtIbW1Wc1dpeXFjS05qdHJockExbUFUcWRpTVV2UDB4RmNXTmRMdlA0cXlrT2tud2dNSG1CWXhvSkgxMS1LZVN6aDV4Nzk5Xy04NFV2NkpDX3JkdkREQnJiNk5UM3F4U3AyekE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T16:26:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "21e22d859a1d",
-"title": "Hai trạm BOT nối Hải Phòng - Quảng Ninh dừng thu phí",
-"link": "https://thanhnien.vn/hai-tram-bot-noi-hai-phong-quang-ninh-dung-thu-phi-185261117155426192.htm",
-"summary": "Từ 0 giờ ngày 17.11, hai trạm BOT An Thái và Đá Vách trên quốc lộ 17B, tuyến đường kết nối Hải Phòng với Quảng Ninh, chính thức dừng thu phí, sớm gần 7 tháng so với kế hoạch.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/edit-179490518368615813433488802560503105551150205139417417ec7d556ae3656a4f2f85982794cd3-17949055122031449480642-0-149-982-1720-crop-17949055705431775554679.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T16:26:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "f76c1f8fbb14",
-"title": "Thác mây cuồn cuộn ở Tà Xùa khiến du khách choáng ngợp",
-"link": "https://tuoitre.vn/thac-may-cuon-cuon-o-ta-xua-khien-du-khach-choang-ngop-100261117091205639.htm",
-"summary": "Những dòng mây trắng xóa cuồn cuộn đổ qua sườn núi như thác nước khổng lồ ở Tà Xùa đang khiến cộng đồng yêu du lịch thích thú, háo hức lên kế hoạch săn mây.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/may-1794907964657932547250-0-259-1014-1881-crop-1794907989591588829179.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-17T16:26:00+07:00",
-"found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "fbe2a6e337b6",
-"title": "Cá kèo giống tới 25 triệu đồng/kg, người nuôi vẫn khó mua",
-"link": "https://dantri.com.vn/kinh-doanh/ca-keo-giong-toi-25-trieu-dongkg-nguoi-nuoi-van-kho-mua-20261117155826190.htm",
-"summary": "(Dân trí) - Giá cá kèo thương phẩm tăng cao khiến nhu cầu thả nuôi gia tăng, trong khi nguồn giống tự nhiên ngày càng khan hiếm. Dù có giá tới 25 triệu đồng/kg, cá kèo giống vẫn không đủ cung ứng cho người nuôi.",
-"image": "https://cdnphoto.dantri.com.vn/DfkpOKGXeIESgvyAxlh_fhZo-I0=/2026/11/17/ca-keo-cropped-1794905834023.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-17T16:25:30+07:00",
-"found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "7f01f2028bce",
-"title": "Đưa quả dừa thành ngành hàng tỉ đô",
-"link": "https://thanhnien.vn/dua-qua-dua-thanh-nganh-hang-ti-do-18526111716194172.htm",
-"summary": "Đưa quả dừa thành ngành hàng tỉ đô là một trong những mục tiêu được nhấn mạnh tại buổi họp báo giới thiệu về hội thảo quốc tế với chủ đề 'Kết nối, nâng cao chuỗi giá trị ngành dừa, tạo động lực tăng trưởng bền vững' sẽ diễn ra tại Vĩnh Long từ 12 - 13.12.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/179490414494288284766987780558048828476698778055804c796cb33b4e0f4dc499e2cdaf8fe04bd-17949067699701686472354-0-0-1600-2560-crop-17949070135791750952677.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-17T16:24:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "91b94af86fc2",
-"title": "Mảng năng lượng trở thành điểm sáng, PC1 được dự báo lãi gần 1.300 tỷ đồng năm 2027",
-"link": "https://cafef.vn/mang-nang-luong-tro-thanh-diem-sang-pc1-duoc-du-bao-lai-gan-1300-ty-dong-nam-2027-188261117153826278.chn",
-"summary": "Sau 9 tháng đầu năm 2026, lợi nhuận sau thuế của Tập đoàn PC1 tăng 27% dù doanh thu giảm 15%. Động lực từ mảng năng lượng cùng sự cải thiện biên lợi nhuận được kỳ vọng giúp doanh nghiệp đạt lợi nhuận hơn 1.280 tỷ đồng trong năm 2027.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1794904669231-17949046723251490465858.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-17T16:22:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
 }
 ]
 }
