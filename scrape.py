@@ -54,8 +54,8 @@ FEEDS = [
     ("Tuổi Trẻ", "xh", "https://tuoitre.vn/rss/phap-luat.rss"),
     ("Thanh Niên", "xh", "https://thanhnien.vn/rss/thoi-su.rss"),
     ("VietnamNet", "xh", "https://vietnamnet.vn/rss/thoi-su.rss"),
-    # Vụ việc gây bức xúc, nhức nhối trong 24h qua (tổng hợp nhiều báo qua Google News)
-    ("Google News", "xh", GN + "q=(b%E1%BB%A9c+x%C3%BAc+OR+nh%E1%BB%A9c+nh%E1%BB%91i+OR+ph%E1%BA%ABn+n%E1%BB%99+OR+g%C3%A2y+x%C3%B4n+xao)+when:1d"),
+    # Vụ việc gây bức xúc, nhức nhối trong 48h qua (tổng hợp nhiều báo qua Google News)
+    ("Google News", "xh", GN + "q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d"),
     ("Kenh14", "xh", "https://kenh14.vn/xa-hoi.rss"),
     # Mạng xã hội / viral
     ("Google Trends", "mxh", "https://trends.google.com/trending/rss?geo=VN"),
