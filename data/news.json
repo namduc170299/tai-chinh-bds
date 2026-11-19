@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T02:00:32+07:00",
-"new": 1,
+"updated": "2026-11-20T02:15:41+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -1474,7 +1474,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-19T19:30:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-19T20:30:31+07:00"
 },
 {
@@ -4104,6 +4104,17 @@
 "cat": "bds",
 "published": "2026-11-19T15:14:18+07:00",
 "found": "2026-11-19T15:31:26+07:00"
+},
+{
+"id": "f0765ce88415",
+"title": "Tháo gỡ bất cập về điện theo kiến nghị của cử tri xã Thành Công",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGlFRkFMOWdlUWVjZHFsNE5TZ1kzMUpOd0hWeGdaZkRvNXBKbnE5MmFXcEZEQ3hXT1JyU1hoZXB2djBZTFNxYndJSl9MMW1rUUxFdWFzcjl5MnVIdmRlcGwtcmJoOWw3OXdTbElOb29sek9ZY1l0SEpORElnWWIwS2VtSG5pdUZvWURHRW9qdWt4aXpFNDFOaDJia3A?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T15:13:54+07:00",
+"found": "2026-11-20T02:15:41+07:00"
 },
 {
 "id": "74f7d198d2fe",
@@ -9625,6 +9636,17 @@
 "published": "2026-11-19T07:20:00+07:00",
 "traffic": "200+",
 "found": "2026-11-19T07:43:18+07:00"
+},
+{
+"id": "437faded718e",
+"title": "Chanathip bức xúc, tố Hubner hành xử thiếu tôn trọng và thiếu chuyên nghiệp",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYTBnd3dnbXhRbFM5eHBuTFlySFhjR1RGa3hSR0d5b01KSTdXMERWMUtsdlFoTDNYbWJ4anBpOHQ1cmtDcEpBMTNTNlFTU2IzX09JZzZLamdyREJSZ0t1Zk5oNU5wODF6LUVscVJsNXpES3lSUWtpd0lIdnR4MktVWFg0QXhjMnRjcnczZkQ3M3JKa0NrVUFmM2M5Z0VURlpaRFhrcFRMNjVWQQ?oc=5",
+"summary": "Nguồn: tin.skydoor.net",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-19T07:19:52+07:00",
+"found": "2026-11-20T02:15:41+07:00"
 },
 {
 "id": "cdb37b09cfa1",
@@ -15878,6 +15900,17 @@
 "cat": "xh",
 "published": "2026-11-18T15:00:00+07:00",
 "found": "2026-11-20T01:30:06+07:00"
+},
+{
+"id": "9ee44e67a3d1",
+"title": "CSGT An Giang xử phạt 3 người sau vụ xe không thắt dây an toàn gây xôn xao",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS0l5djk0WDhqSzBtMllWRnFkaFZPTnJmWmMzYzZMUXJETm9HaU5KWklZWTlfNU5VTDNBZmxmVUlNekZfck4xUHZfTGtXX2UtUVdRVnR2UlZyZEpyLUdBLTZKaUZhTXlKcmtoZTUzTFlLTlRrT1dIM1UxVmx1Ynl4UzUxMm5sdw?oc=5",
+"summary": "Nguồn: SkyDoor News",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-18T15:00:00+07:00",
+"found": "2026-11-20T02:15:41+07:00"
 },
 {
 "id": "4db1a737ca8f",
@@ -27923,39 +27956,6 @@
 "source": "VietnamNet",
 "cat": "tc",
 "published": "2026-11-17T15:37:35+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "826aa0457e28",
-"title": "Pháp 'bí mật triển khai lực lượng' đến Ukraine",
-"link": "https://vnexpress.net/phap-bi-mat-trien-khai-luc-luong-den-ukraine-5145618.html",
-"summary": "Binh sĩ Pháp dường như đã bí mật hoạt động tại Ukraine trong vài tháng qua để huấn luyện lực lượng sở tại và hỗ trợ bảo dưỡng vũ khí.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/Php-1794898097-2192-1794898461.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=OmrLmPx1izXHGweAnlrJYA",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-17T15:36:36+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "38ba7f36b65c",
-"title": "Tỷ trọng cổ phiếu và bất động sản trong tài sản của người Mỹ 75 năm qua",
-"link": "https://vneconomy.vn/ty-trong-co-phieu-va-bat-dong-san-trong-tai-san-cua-nguoi-my-75-nam-qua.htm",
-"summary": "Trong phần lớn 75 năm qua, bất động sản chiếm tỷ trọng lớn hơn cổ phiếu trong tài sản của người Mỹ, nhưng hiện cổ phiếu đã vượt lên dù giá trị bất động sản của các hộ gia đình vẫn tiếp tục tăng…",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/17/30883a07f4eb4f1898f0ef27a43c4289-136249.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "bds",
-"published": "2026-11-17T15:35:06+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "0021f929aee7",
-"title": "Nhà đầu tư rót tiền vào các vụ IPO lớn nhất Phố Wall năm nay đang thua lỗ",
-"link": "https://vneconomy.vn/nha-dau-tu-rot-tien-vao-cac-vu-ipo-lon-nhat-pho-wall-nam-nay-dang-thua-lo.htm",
-"summary": "10 vụ phát hành cổ phiếu lần đầu ra công chúng (IPO) lớn nhất trên Phố Wall năm nay hiện đang có giá cổ phiếu giảm trung bình hơn 20% so với giá IPO...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/17/6e712a7e2f6d4307b42ab34679fe6dde-136283.webp?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-17T15:34:54+07:00",
 "found": "2026-11-17T16:39:40+07:00"
 }
 ]
