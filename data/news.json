@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T01:30:06+07:00",
-"new": 20,
+"updated": "2026-11-20T01:45:22+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 23
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Thanh Niên",
@@ -5109,6 +5109,17 @@
 "cat": "xh",
 "published": "2026-11-19T14:00:00+07:00",
 "found": "2026-11-20T01:30:06+07:00"
+},
+{
+"id": "45a41e7ef0c8",
+"title": "Vàng rơi xuống 3.757 USD/ounce, vì sao chuyên gia vẫn kỳ vọng về cú hồi?",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRGk1S3NuaFlEUkloUmNiaklETTVJN3ZqalVKaEd2NDc3c2VFeVI3YkwtQ0NlaE9LTklGS2JmR3Z3OWJVRVI4amFtYzc2LTE0ZzZTdXpGLUtaNzJSa2d2ODh2bnZidi0wb2wyQ2FDdmtPLW9rUmlCN0tmVk55NUc0RXhkRXh6REI1RFVxMmkyeHBCTXpQQ3Vmakd3NVlJTzV5ZnVLYjNB?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T14:00:00+07:00",
+"found": "2026-11-20T01:45:22+07:00"
 },
 {
 "id": "26df32e22e16",
@@ -13882,6 +13893,17 @@
 "cat": "bds",
 "published": "2026-11-18T17:22:00+07:00",
 "found": "2026-11-18T17:36:56+07:00"
+},
+{
+"id": "ea883e42d2c4",
+"title": "Cuộc chiến lãi suất khiến cả nước Mỹ chao đảo",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2tQSHl3QUNEejVSVFY2YUs3QTRKLTI5NGJ5eGJVbkNHcEJHcFh4ODhzX2ZKUnd2UVlyaUJvdFpIVUoyUHhyTmlmWHpMZG5mZ0lQY2Z0UXFNVV9UY3dTNnJFY1Blc05nWHFFcmlSazB2SVhPbzVmeDI5ZFp5WXlEbTcwS0sydw?oc=5",
+"summary": "Nguồn: Znews",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-18T17:18:15+07:00",
+"found": "2026-11-20T01:45:22+07:00"
 },
 {
 "id": "ca72ae363cb4",
@@ -27935,28 +27957,6 @@
 "cat": "tc",
 "published": "2026-11-17T15:34:21+07:00",
 "found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "a84173da01f8",
-"title": "Bị bắt sau 15 phút cướp giật nhẫn của tiệm vàng ở TP HCM",
-"link": "https://vnexpress.net/bi-bat-sau-15-phut-cuop-giat-nhan-cua-tiem-vang-o-tp-hcm-5145723.html",
-"summary": "Lâm Chí Nguyên giả vờ mua vàng tại tiệm ở xã Hiệp Phước, giật hai chiếc nhẫn trị giá gần 200 triệu đồng rồi bỏ chạy nhưng bị cảnh sát bắt sau 15 phút.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/179490193714876795809871697797-6236-6565-1794903152.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hzPInkfpo2hRz7pN8ZRjVw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-17T15:31:54+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "fa5dcdd1a776",
-"title": "Bị bắt sau 15 phút cướp giật nhẫn của tiệm vàng",
-"link": "https://vnexpress.net/bi-bat-sau-15-phut-cuop-giat-nhan-cua-tiem-vang-5145723.html",
-"summary": "Lâm Chí Nguyên giả vờ mua vàng tại tiệm ở xã Hiệp Phước, giật hai chiếc nhẫn trị giá gần 200 triệu đồng rồi bỏ chạy nhưng bị cảnh sát bắt sau 15 phút.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/179490193714876795809871697797-6236-6565-1794903152.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hzPInkfpo2hRz7pN8ZRjVw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-17T15:31:54+07:00",
-"found": "2026-11-17T18:26:30+07:00"
 }
 ]
 }
