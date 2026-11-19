@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T03:17:10+07:00",
-"new": 5,
+"updated": "2026-11-20T03:32:27+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "6b8d71947386",
+"title": "Ủy ban Basel lưu ý một số rủi ro đối với hệ thống ngân hàng",
+"link": "https://cafef.vn/uy-ban-basel-luu-y-mot-so-rui-ro-doi-voi-he-thong-ngan-hang-188261120032332332.chn",
+"summary": "Tại cuộc họp ngày 18/11/2026 tại Basel (Thụy Sĩ), Ủy ban Basel về Giám sát ngân hàng (BCBS) đã trao đổi về những rủi ro và điểm dễ tổn thương của hệ thống ngân hàng toàn cầu trong bối cảnh bất ổn kinh tế và địa chính trị còn nhiều bất định.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795119736864-17951197378931321254465.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-20T03:23:00+07:00",
+"found": "2026-11-20T03:32:27+07:00"
+},
+{
+"id": "35a755f16b43",
+"title": "Tin tức sáng 20-11: Quốc hội họp đợt 2 kỳ họp thứ 2; TP.HCM đề xuất hỗ trợ thu nhập hơn 2.300 người",
+"link": "https://tuoitre.vn/tin-tuc-sang-20-11-quoc-hoi-hop-dot-2-ky-hop-thu-2-tphcm-de-xuat-ho-tro-thu-nhap-hon-2300-nguoi-100261119235147979.htm",
+"summary": "Tin tức đáng chú ý: Hôm nay 20-11, Quốc hội họp đợt 2 kỳ họp thứ 2; TP.HCM đề xuất hỗ trợ thu nhập cho hơn 2.300 người; Thu ngân sách gần chạm đích...",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/10/19/202506271326428923gen-h-z67473989863168db1532fb6599ba5535f394287a65314-17608445780171069057581.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T03:19:00+07:00",
+"found": "2026-11-20T03:32:27+07:00"
+},
+{
 "id": "55aaa0428e57",
 "title": "Bên trong cống ngăn triều lớn nhất dự án chống ngập 10.000 tỷ đồng ở TPHCM",
 "link": "https://vietnamnet.vn/cong-ngan-trieu-lon-nhat-du-an-chong-ngap-10-000-ty-dong-o-tphcm-2576652.html",
@@ -233,6 +255,28 @@
 "cat": "xh",
 "published": "2026-11-20T02:47:09+07:00",
 "found": "2026-11-20T03:01:39+07:00"
+},
+{
+"id": "8662390aad9b",
+"title": "Cháy kho nguyên liệu giấy 50.0000 m2 ở Cần Thơ",
+"link": "https://vnexpress.net/chay-kho-nguyen-lieu-giay-50-0000-m2-o-can-tho-5146827.html",
+"summary": "Hỏa hoạn bùng phát tại kho nguyên liệu rộng khoảng 50.000 m2 của nhà máy giấy Lee & Man, đến 2h40 ngày 20/11, sau gần 4 giờ, đám cháy vẫn diễn biến phức tạp.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/1795116820133a57020ea61365e78d-5859-7433-1795117630.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hO-fYG0zmK5PcoSgNNlRAw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-20T02:47:09+07:00",
+"found": "2026-11-20T03:32:27+07:00"
+},
+{
+"id": "d07f5eb710f3",
+"title": "Thời tiết hôm nay 20-11: Miền Trung dự báo mưa xối xả, miền Bắc rét",
+"link": "https://tuoitre.vn/thoi-tiet-hom-nay-20-11-mien-trung-du-bao-mua-xoi-xa-mien-bac-ret-100261119191424235.htm",
+"summary": "Hôm nay 20-11, thời tiết các tỉnh Bắc Bộ nhiệt độ giảm sâu, khu vực Tây Bắc Bộ và Trung Bộ mưa to đến rất to.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/mua-lu-o-hue-1794385718426894785526-0-256-1440-2560-crop-1795090331728777790664.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T02:07:00+07:00",
+"found": "2026-11-20T03:32:27+07:00"
 },
 {
 "id": "b36e7290a01e",
@@ -310,6 +354,17 @@
 "cat": "tc",
 "published": "2026-11-20T00:01:00+07:00",
 "found": "2026-11-20T00:11:44+07:00"
+},
+{
+"id": "88166a3882e3",
+"title": "Đề xuất đánh giá kỹ mục đích đầu tư các trung tâm dữ liệu",
+"link": "https://vnexpress.net/de-xuat-danh-gia-ky-muc-dich-dau-tu-cac-trung-tam-du-lieu-5146786.html",
+"summary": "Phó tổng giám đốc Điện lực Miền Nam khuyến nghị đánh giá kỹ các dự án trung tâm dữ liệu, tránh việc tận dụng điện giá rẻ chỉ để khách ngoại thuê.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/8-ong-bui-quoc-hoan-pho-tong-g-9102-7332-1795096321.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=40lG0Qqu_ntgqH0kXujZUw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-20T00:00:12+07:00",
+"found": "2026-11-19T23:10:48+07:00"
 },
 {
 "id": "116389c61579",
@@ -477,17 +532,6 @@
 "cat": "tc",
 "published": "2026-11-19T22:45:12+07:00",
 "found": "2026-11-19T22:55:20+07:00"
-},
-{
-"id": "88166a3882e3",
-"title": "Đề xuất đánh giá kỹ mục đích đầu tư các trung tâm dữ liệu",
-"link": "https://vnexpress.net/de-xuat-danh-gia-ky-muc-dich-dau-tu-cac-trung-tam-du-lieu-5146786.html",
-"summary": "Phó tổng giám đốc Điện lực Miền Nam khuyến nghị đánh giá kỹ các dự án trung tâm dữ liệu, tránh việc tận dụng điện giá rẻ chỉ để khách ngoại thuê.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/8-ong-bui-quoc-hoan-pho-tong-g-9102-7332-1795096321.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=40lG0Qqu_ntgqH0kXujZUw",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-19T22:45:12+07:00",
-"found": "2026-11-19T23:10:48+07:00"
 },
 {
 "id": "28117ce9358e",
@@ -27911,50 +27955,6 @@
 "source": "CafeF",
 "cat": "tc",
 "published": "2026-11-17T15:45:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "6832dd457e2d",
-"title": "Thưởng trà Phúc Long theo cách hoàn toàn mới",
-"link": "https://vietnamnet.vn/thuong-tra-phuc-long-theo-cach-hoan-toan-moi-2575907.html",
-"summary": "Từ tháng 11/2026, Phúc Long Heritage ra mắt diện mạo mới cho toàn bộ dòng trà đóng gói, đồng thời phủ thêm 10.000 điểm bán tại hệ thống cửa hàng tạp hóa nhằm đưa trải nghiệm tự pha chế trà theo khẩu vị đến gần hơn với người dùng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/thuong-tra-phuc-long-theo-cach-hoan-toan-moi-1739.jpg?width=0&s=4N6cxIPvRsldNPrSbrmLHg",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-17T15:45:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "ce7d1c2f051d",
-"title": "Dấu ấn kỷ lục lần thứ hai của cụm trang trại bò sữa TH",
-"link": "https://thanhnien.vn/dau-an-ky-luc-lan-thu-hai-cua-cum-trang-trai-bo-sua-th-185261117155640601.htm",
-"summary": "Lần thứ hai được Liên minh Kỷ lục thế giới (World Records Union) xác nhận 'Cụm trang trại bò sữa tập trung ứng dụng công nghệ cao với quy trình khép kín lớn nhất thế giới', Tập đoàn TH tiếp tục khẳng định vị thế tiên phong trong cuộc cách mạng sữa tươi sạch tại Việt Nam.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/ban-sao-cua-canh-tay-tuoi-md-ok-anh-dung-luong-lon-1-179490531275941972215-83-0-1333-2000-crop-179490559590867899704.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-17T15:45:00+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "910f2f3ec7ea",
-"title": "Tỷ giá trung tâm tăng, giá USD ngân hàng lên sát 26.000 đồng",
-"link": "https://dantri.com.vn/kinh-doanh/ty-gia-trung-tam-tang-gia-usd-ngan-hang-len-sat-26000-dong-20261117150414690.htm",
-"summary": "(Dân trí) - Sáng 17/11, Ngân hàng Nhà nước công bố tỷ giá trung tâm ở mức 25.652 đồng/USD, tăng 13 đồng so với phiên trước, qua đó thiết lập mức cao nhất từ trước đến nay.",
-"image": "https://cdnphoto.dantri.com.vn/3OQ8zOwfaHMvWXbnXQEEzVfKKs0=/2022/12/16/tien-23tien-tuan-1671149006217.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-17T15:43:14+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "7afbcc6b6124",
-"title": "QR xuyên biên giới - Cùng Agribank đi muôn nơi",
-"link": "https://thanhnien.vn/qr-xuyen-bien-gioi-cung-agribank-di-muon-noi-185261117154334608.htm",
-"summary": "Nhằm nâng cao trải nghiệm tài chính số toàn diện cho khách hàng khi đi du lịch, công tác hay giao thương quốc tế, Agribank chính thức triển khai tính năng Thanh toán QR xuyên biên giới ngay trên ứng dụng Agribank Plus.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/1-1794905917049339857688-31-0-781-1200-crop-17949061299461306649077.png",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-17T15:43:00+07:00",
 "found": "2026-11-17T16:39:40+07:00"
 }
 ]
