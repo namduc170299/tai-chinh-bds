@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T01:45:22+07:00",
-"new": 2,
+"updated": "2026-11-20T02:00:32+07:00",
+"new": 1,
 "sources": [
 {
 "name": "VnExpress",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 25
+"count": 26
 },
 {
 "name": "Thanh Niên",
@@ -212,6 +212,17 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "b36e7290a01e",
+"title": "Chuyên gia lý giải nguyên nhân giá vàng giảm sốc",
+"link": "https://cafef.vn/chuyen-gia-ly-giai-nguyen-nhan-gia-vang-giam-soc-188261120014541813.chn",
+"summary": "Giá vàng giảm mạnh, mất khoảng 11% sau 2 tuần qua đó xuống mức thấp nhất trong vòng 14 tháng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/gold-7-179511386951418755297-0-9-371-603-crop-179511387839722128096.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-20T01:44:00+07:00",
+"found": "2026-11-20T02:00:32+07:00"
+},
 {
 "id": "871622f038a4",
 "title": "Ngày 20/11, gửi dưới 100 triệu đồng kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank, ACB và VIB nhận được bao nhiêu tiền lãi?",
@@ -27945,17 +27956,6 @@
 "source": "VnEconomy",
 "cat": "tc",
 "published": "2026-11-17T15:34:54+07:00",
-"found": "2026-11-17T16:39:40+07:00"
-},
-{
-"id": "f295d88b20e9",
-"title": "Thanh khoản phục hồi nhẹ, bên mua vẫn rất kiên nhẫn",
-"link": "https://vneconomy.vn/thanh-khoan-phuc-hoi-nhe-ben-mua-van-rat-kien-nhan.htm",
-"summary": "Mặc dù thanh khoản đã cải thiện chút ít trong phiên giao dịch hôm nay nhưng cả độ rộng lẫn biên độ giảm giá cổ phiếu vẫn cho thấy thị trường rất yếu.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/17/d6657e6d0190424582b66c3cbb6f1309-136332.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-17T15:34:21+07:00",
 "found": "2026-11-17T16:39:40+07:00"
 }
 ]
