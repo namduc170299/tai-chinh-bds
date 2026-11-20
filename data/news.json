@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T13:59:50+07:00",
-"new": 6,
+"updated": "2026-11-20T14:15:00+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,83 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "7be975d853b9",
+"title": "Cháy xuyên đêm tại nhà máy giấy lớn nhất Cần Thơ, lửa bao trùm 20.000m²",
+"link": "https://vietnamnet.vn/chay-lon-nha-may-giay-lee-man-o-can-tho-2576964.html",
+"summary": "Cháy lớn tại kho nguyên liệu nhà máy giấy Lee &amp; Man ở Cần Thơ, hơn 300 người cùng hàng chục xe chữa cháy được huy động dập lửa xuyên đêm.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/chay-xuyen-dem-tai-nha-may-giay-lon-nhat-can-tho-lua-bao-trum-20-220.jpg?width=0&s=l5vmVKqJhcY82V3MkKefMA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T14:02:43+07:00",
+"found": "2026-11-20T07:56:50+07:00"
+},
+{
+"id": "802d68a61bd5",
+"title": "Hiện trường vụ cháy tại nhà máy giấy lớn nhất Cần Thơ, lửa bao trùm 30.000m²",
+"link": "https://vietnamnet.vn/hien-truong-vu-chay-tai-nha-may-giay-lon-nhat-can-tho-2576980.html",
+"summary": "Kho nguyên liệu rộng hàng chục nghìn mét vuông tại Nhà máy giấy Lee &amp; Man Việt Nam (Cần Thơ) chìm trong biển lửa suốt đêm. Đến sáng 20/11, khói vẫn bốc cao, nhiều điểm cháy âm ỉ bên trong các khối giấy.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/hien-truong-vu-chay-tai-nha-may-giay-lon-nhat-can-tho-lua-bao-trum-30-532.jpg?width=0&s=JMk_jwlQ7GbW3uY6tlcs0g",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T14:02:03+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "1310410cb1fc",
+"title": "Người dân ven bờ sông Hiếu với nỗi lo mất đất, mất nhà",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSEtuZUtQM0VOVFdTZjQyeGJKTHQ1QjZsNGRCWUU0eGU2WlZFRW5NTHFDd24weU15dUJ2VGRyRnlaNDh1Vnh5YmZFS2RObnczeGllNVFRa2lHMHB4bE9qVlVMZlRWY2RBakFfMlVnd1JLekpEU2lPWTM5bDdRbm5PTzdhNmF3Tzlhb1VJMk53Zw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T14:02:00+07:00",
+"found": "2026-11-20T14:15:00+07:00"
+},
+{
+"id": "d4b2557e4d8c",
+"title": "Hình ảnh mái kho nhà máy giấy lớn nhất Cần Thơ đổ sập, robot chữa cháy phun nước dập lửa",
+"link": "https://vietnamnet.vn/chay-nha-may-giay-lon-nhat-can-tho-mai-kho-do-sap-giay-chay-den-2577049.html",
+"summary": "Sau vụ hỏa hoạn kéo dài nhiều giờ, mái kho nguyên liệu Nhà máy Giấy Lee &amp; Man ở TP Cần Thơ đổ sập, biến dạng; nhiều cuộn giấy, bao bì cháy đen. Robot chữa cháy được điều khiển tiến sâu vào kho, phun nước trực tiếp vào khu vực nhiệt độ cao.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/hinh-anh-mai-kho-nha-may-giay-lon-nhat-can-tho-do-sap-robot-chua-chay-phun-nuoc-dap-lua-1214.gif?width=0&s=BsMplo8R-uyS87YbX0Au-Q",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T14:01:24+07:00",
+"found": "2026-11-20T14:15:00+07:00"
+},
+{
+"id": "15e9f7e90917",
+"title": "Khi giá trị văn hóa trở thành cầu nối thương hiệu",
+"link": "https://thanhnien.vn/khi-gia-tri-van-hoa-tro-thanh-cau-noi-thuong-hieu-185261112154755519.htm",
+"summary": "Khi văn hóa trở thành cầu nối thương hiệu, mỗi trải nghiệm không chỉ mang đến giá trị cho khách hàng mà còn lan tỏa những điều tốt đẹp tới cộng đồng. Cùng Quán Nhà Haha, Vietcombank đưa nguồn lực tài chính đến gần hơn với văn hóa Việt và thế hệ khách hàng trẻ.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/13/dscf9994-1794561799399181091287-0-0-1250-2000-crop-17945618061851001939840.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-20T14:00:00+07:00",
+"found": "2026-11-20T07:10:58+07:00"
+},
+{
+"id": "94e7f9fe64b8",
+"title": "SBO Precision Technology Vietnam nhận 3 giải thưởng tại APEA 2026",
+"link": "https://vietnamnet.vn/sbo-precision-technology-vietnam-nhan-3-giai-thuong-tai-apea-2026-2577074.html",
+"summary": "Công ty TNHH Schoeller Bleckmann Việt Nam (SBO Precision Technology Vietnam) vừa được vinh danh tại 3 hạng mục trong khuôn khổ giải thưởng APEA 2026.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/sbo-precision-technology-vietnam-nhan-3-giai-thuong-tai-apea-2026-1193.jpg?width=0&s=goD6Js9qkCvhdRAR3dEjUg",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T14:00:00+07:00",
+"found": "2026-11-20T14:15:00+07:00"
+},
+{
+"id": "e12a9820b3d1",
+"title": "Áp lực nguồn vốn khiến lãi suất khó giảm sâu",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX19UalRYSWVMSkFVOHhhRHpkel9DcDJHX0pVTUxhZ2wzM3M5V1k1eFlKMUh5anE4YmtDTUROYVBDcko3UVdfQW9uZnJWU3FzOHI2NjFHM083ZjgwMEU2UVBEVXlJYWdVQkszdW15YVVGSWk3OUpBQjBIUEtWbVRVZ0RBRQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T13:58:00+07:00",
+"found": "2026-11-20T14:15:00+07:00"
+},
+{
 "id": "c0e1e9e7ad1c",
 "title": "Tái thiết nội đô Hà Nội: Dành thêm không gian cho cộng đồng",
 "link": "https://cafef.vn/tai-thiet-noi-do-ha-noi-danh-them-khong-gian-cho-cong-dong-188261120135530192.chn",
@@ -222,6 +299,17 @@
 "cat": "bds",
 "published": "2026-11-20T13:55:00+07:00",
 "found": "2026-11-20T13:59:50+07:00"
+},
+{
+"id": "e5dfeec2e7ea",
+"title": "Điện gió sai phạm đất đai, nợ thuế, dừng chạy hơn 1,5 năm, sở ngành vẫn chưa làm rõ trách nhiệm",
+"link": "https://tuoitre.vn/dien-gio-sai-pham-dat-dai-no-thue-dung-chay-hon-15-nam-so-nganh-van-chua-lam-ro-trach-nhiem-100261120085915945.htm",
+"summary": "Hai nhà máy điện gió Hướng Linh 1 và Hướng Linh 2 dựng tuabin ngoài đất được giao, dừng chạy hơn 1,5 năm và nợ thuế hơn 17 tỉ đồng, nhưng các sở ngành vẫn chưa làm rõ trách nhiệm dù tỉnh ủy Quảng Trị đã yêu cầu từ cuối năm 2024.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/dien-gio-huong-linh-2246-17951395737851291192038-0-0-1028-1645-crop-179513972788814842194.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T13:55:00+07:00",
+"found": "2026-11-20T14:15:00+07:00"
 },
 {
 "id": "808631c5eb97",
@@ -244,6 +332,30 @@
 "cat": "xh",
 "published": "2026-11-20T13:50:00+07:00",
 "found": "2026-11-20T13:59:50+07:00"
+},
+{
+"id": "c1cad9c183b6",
+"title": "mama 2026",
+"link": "https://www.koreajoongangdaily.com/entertainment/mama-awards-goes-interstellar-with-big-bang-cl-leading-lineup/12980700",
+"summary": "MAMA Awards goes 'interstellar' with Big Bang, CL leading lineup (Korea JoongAng Daily)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTd4l9i48dA3v614xBUKTGmnwVeZ422qhD1oqaaUQIeAq48dP0v2xHII1UTd-g",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T13:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T14:15:00+07:00"
+},
+{
+"id": "258d3d85dccc",
+"title": "black friday 2026 ngày nào",
+"link": "https://www.cnn.com/cnn-underscored/deals/best-black-friday-deals-2026-11-19",
+"summary": "We shopped 128 early Black Friday sales to find the 85 best deals worth shopping now (CNN)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaMo7xM8SGHw7y-xDco6O5XNaFGPoy9grKiHDEye5YA5SF29F4G1HKM811QWE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T13:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T14:15:00+07:00"
 },
 {
 "id": "3eaa662eb270",
@@ -310,6 +422,17 @@
 "cat": "tc",
 "published": "2026-11-20T13:37:33+07:00",
 "found": "2026-11-20T13:44:35+07:00"
+},
+{
+"id": "747e620aa5da",
+"title": "Hàn Quốc lần đầu chạm mốc xuất khẩu 1.000 tỷ USD nhờ làn sóng AI",
+"link": "https://dantri.com.vn/kinh-doanh/han-quoc-lan-dau-cham-moc-xuat-khau-1000-ty-usd-nho-lan-song-ai-20261119192942927.htm",
+"summary": "(Dân trí) - Gia nhập câu lạc bộ xuất khẩu nghìn tỷ USD cùng Mỹ, Đức và Trung Quốc nhờ \"cơn sốt\" chip bán dẫn, Hàn Quốc đồng thời đối mặt bài toán phân bổ nguồn lợi nhuận khổng lồ này về nền kinh tế nội địa.",
+"image": "https://cdnphoto.dantri.com.vn/AONw6_Wp8UrKq3hmVMbZLC8aN60=/2026/11/19/korea-cropped-1795090956099.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-20T13:37:26+07:00",
+"found": "2026-11-20T14:15:00+07:00"
 },
 {
 "id": "014170fd775d",
@@ -497,6 +620,17 @@
 "cat": "mxh",
 "published": "2026-11-20T13:08:00+07:00",
 "found": "2026-11-20T13:16:06+07:00"
+},
+{
+"id": "80f26d2f9f1e",
+"title": "Người phụ nữ Việt tố cáo bị dựng khoản nợ giả, ép quay clip khỏa thân",
+"link": "https://vnexpress.net/nguoi-phu-nu-viet-to-cao-bi-dung-khoan-no-gia-ep-quay-clip-khoa-than-5147008.html",
+"summary": "Một phụ nữ Việt Nam 32 tuổi cáo buộc bị hai người đàn ông ép lên ôtô, lột đồ quay video khỏa thân để trừ nợ dù cô chưa từng vay tiền.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/whatsapp-image-at-pm-179514867-9397-3197-1795148936.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=7lonZLNr8jO5_aLR-bCIWg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-20T13:06:09+07:00",
+"found": "2026-11-20T14:15:00+07:00"
 },
 {
 "id": "2a0843db5216",
@@ -1995,17 +2129,6 @@
 "found": "2026-11-20T10:44:50+07:00"
 },
 {
-"id": "802d68a61bd5",
-"title": "Hiện trường vụ cháy tại nhà máy giấy lớn nhất Cần Thơ, lửa bao trùm 30.000m²",
-"link": "https://vietnamnet.vn/hien-truong-vu-chay-tai-nha-may-giay-lon-nhat-can-tho-2576980.html",
-"summary": "Kho nguyên liệu rộng hàng chục nghìn mét vuông tại Nhà máy giấy Lee &amp; Man Việt Nam (Cần Thơ) chìm trong biển lửa suốt đêm. Đến sáng 20/11, khói vẫn bốc cao, nhiều điểm cháy âm ỉ bên trong các khối giấy.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/hien-truong-vu-chay-tai-nha-may-giay-lon-nhat-can-tho-lua-bao-trum-30-532.jpg?width=0&s=JMk_jwlQ7GbW3uY6tlcs0g",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-20T10:36:43+07:00",
-"found": "2026-11-20T10:10:47+07:00"
-},
-{
 "id": "58eee8a0824e",
 "title": "Báo chí Thái Lan phẫn nộ vì đội nhà 'đá ai cũng thua', từ Việt Nam, Singapore đến cả... Campuchia",
 "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6WFlJc2FEM0V0b3ZLQkhfT2Y4MWhFejJEVFFzQ1lnWm5HRVJVQjNPbF8wZkZaYVVtVGxvWmZlaWlhc0VYMkptdmRkV1NNNUpZZkgw?oc=5",
@@ -2116,6 +2239,17 @@
 "found": "2026-11-20T10:59:59+07:00"
 },
 {
+"id": "9129f8fde59c",
+"title": "IPO của Anthropic vượt kỷ lục của SpaceX",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pYmhtel91eFJjMzFhOVZKT2hIWk0tVzBWMGxKcW1fblRCYVJ3dmJJZGdFNlR0TlZ4OWVTSlhIZ2l1QW5DdDE2c3UtSFUwdEZSOG9jcjBkMnVFYUo1bTdXVlBkUEltZm9rbWE4Q0o0X01GcWxFRDFtUTVQZWlmdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T10:29:00+07:00",
+"found": "2026-11-20T14:15:00+07:00"
+},
+{
 "id": "535115bd60cf",
 "title": "Vì sao giá vàng rơi tự do xuống dưới 3.550 USD/ounce, đâu là điểm dừng?",
 "link": "https://vietnamnet.vn/vi-sao-gia-vang-roi-tu-do-dau-la-diem-dung-2577001.html",
@@ -2136,17 +2270,6 @@
 "cat": "xh",
 "published": "2026-11-20T10:27:45+07:00",
 "found": "2026-11-20T11:15:09+07:00"
-},
-{
-"id": "7be975d853b9",
-"title": "Cháy xuyên đêm tại nhà máy giấy lớn nhất Cần Thơ, lửa bao trùm 20.000m²",
-"link": "https://vietnamnet.vn/chay-lon-nha-may-giay-lee-man-o-can-tho-2576964.html",
-"summary": "Cháy lớn tại kho nguyên liệu nhà máy giấy Lee &amp; Man ở Cần Thơ, hơn 300 người cùng hàng chục xe chữa cháy được huy động dập lửa xuyên đêm.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/chay-xuyen-dem-tai-nha-may-giay-lon-nhat-can-tho-lua-bao-trum-20-220.jpg?width=0&s=l5vmVKqJhcY82V3MkKefMA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-20T10:27:35+07:00",
-"found": "2026-11-20T07:56:50+07:00"
 },
 {
 "id": "ad98c2ba4c6c",
@@ -4706,17 +4829,6 @@
 "source": "Báo Mới",
 "cat": "tc",
 "published": "2026-11-20T07:00:56+07:00",
-"found": "2026-11-20T07:10:58+07:00"
-},
-{
-"id": "15e9f7e90917",
-"title": "Khi giá trị văn hóa trở thành cầu nối thương hiệu",
-"link": "https://thanhnien.vn/khi-gia-tri-van-hoa-tro-thanh-cau-noi-thuong-hieu-185261112154755519.htm",
-"summary": "Khi văn hóa trở thành cầu nối thương hiệu, mỗi trải nghiệm không chỉ mang đến giá trị cho khách hàng mà còn lan tỏa những điều tốt đẹp tới cộng đồng. Cùng Quán Nhà Haha, Vietcombank đưa nguồn lực tài chính đến gần hơn với văn hóa Việt và thế hệ khách hàng trẻ.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/13/dscf9994-1794561799399181091287-0-0-1250-2000-crop-17945618061851001939840.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-20T07:00:00+07:00",
 "found": "2026-11-20T07:10:58+07:00"
 },
 {
@@ -8760,6 +8872,17 @@
 "found": "2026-11-19T17:04:55+07:00"
 },
 {
+"id": "728674fecf42",
+"title": "Cử tri phường Sa Pa kiến nghị tháo gỡ vướng mắc về đất đai, dự án và môi trường",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTRkc0N3MElmQk1vZS1iY2M3RTlKeFNCS2J6ZHQ1ZVl1QXBRc3ltUTJNSV9LaVljUHViTXFEVS1PREZCRWRJWXFUSnhXSWJyV2lXQVJFV0xPcEI3T2JRRnpHVlU0T19BSjktZjk2aGRjX1hzamhEYzk3aUxVRlVGcmFsVHB0RktFWmt3QlV1VzJUWnhJUldBQVVELUllem1STWRzeU5kdGw2ckx0ejBLeg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T16:57:00+07:00",
+"found": "2026-11-20T14:15:00+07:00"
+},
+{
 "id": "1f9faeb1a486",
 "title": "Từ vụ rapper MCK: Sở VH-TT TP.HCM nói gì về 'khóa sóng' nghệ sĩ vi phạm?",
 "link": "https://thanhnien.vn/tu-vu-rapper-mck-so-vh-tt-tphcm-noi-gi-ve-khoa-song-nghe-si-vi-pham-185261119163409357.htm",
@@ -10327,6 +10450,17 @@
 "cat": "tc",
 "published": "2026-11-19T15:07:00+07:00",
 "found": "2026-11-19T15:31:26+07:00"
+},
+{
+"id": "474d40e3c6b9",
+"title": "Nữ hiệu trưởng tận tâm, đổi mới và sáng tạo trên vùng đất thép thành đồng",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzhHN1FJTkkxUjlPbVlIVjFscHVmZ2ZKQXhFLVFsdy1XcjBvdHpYUE5xNHJZZUdpaERWTzFtcVZEWUVHOEFqakdqUFBfYjlfZlBhRWNMX2JmUHB1U1V5Sm1NVV90RkJuem9IRm80RXhPcXpoSndCczlqQjM4YzZ1SGhmQVZxQkl0WGV4Wll3eTIwRTFqVEdjMFZCTkNBdGhfUE03aVF0WEU?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T15:07:00+07:00",
+"found": "2026-11-20T14:15:00+07:00"
 },
 {
 "id": "ad9049b1b87a",
@@ -27806,141 +27940,6 @@
 "cat": "tc",
 "published": "2026-11-18T09:09:00+07:00",
 "found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "d7e9770242ce",
-"title": "Tin vui cho người muốn rút BHXH một lần, chưa đủ điều kiện hưởng lương hưu",
-"link": "https://vietnamnet.vn/tin-vui-cho-nguoi-muon-rut-bhxh-mot-lan-2576060.html",
-"summary": "Người lao động muốn rút BHXH một lần, người chưa đủ điều kiện hưởng lương hưu và người đề nghị thanh toán chi phí khám chữa bệnh BHYT không còn phải quay về địa phương nơi quản lý hồ sơ.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/tin-vui-cho-nguoi-muon-rut-bhxh-mot-lan-chua-du-dieu-kien-huong-luong-huu-2630.jpg?width=0&s=HIe9OCudf3JMIUCwzpHP1w",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T09:08:43+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "54e6401e9622",
-"title": "Sà lan điện 'mở đường' vận tải thủy xanh",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTRXBVbC1mOG1KTGRkRDl1WFU1cU9tNnd1eFI1dldqSzYzc3kyNDhrZnpjMG9CMk81ZkFrZEtRSjQyRGx2bXhsbEhna2lQNFpGMkxFSUFuMEtmMl9neFNoNF95Qk9XYVJqNFZ0dFVkTGdnSnhMeEI5ZTU1bw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T09:08:00+07:00",
-"found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "d6caff9750f8",
-"title": "Hơn 2.000 tỉ đồng làm đường kết nối cao tốc Bắc - Nam với sân bay Thành Sơn và Khu du lịch Ninh Chử",
-"link": "https://tuoitre.vn/hon-2000-ti-dong-lam-duong-ket-noi-cao-toc-bac-nam-voi-san-bay-thanh-son-va-khu-du-lich-ninh-chu-10026111808433985.htm",
-"summary": "Khánh Hòa sẽ xây dựng tuyến đường cao tốc Bắc - Nam kết nối với sân bay Thành Sơn và Khu du lịch quốc gia Ninh Chử.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/hinh-anh-5-1794965097227534387242-0-25-1440-2329-crop-17949655016482136834709.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-18T09:08:00+07:00",
-"found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "1bd56261ddef",
-"title": "Cần hệ sinh thái vốn cho đổi mới sáng tạo",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LNHVlRHFpMDc0Y2YxNnVycmNmcTM3cnkxd1JGdFJTby0wZWQ5ZTNsdFJpMDk0MEtsZXZ0dTZaSzBPV3d5WDlPT3JHVHlsQXN6UU5GY2RtRnFOQU44enE4OEpSYVZtYk4zNXBGNEd5NEh6dE8wczNHY3ZFTVZTWG8?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T09:05:10+07:00",
-"found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "cc4f7f86d5d7",
-"title": "Khánh Hòa lấy ý kiến người dân về thành lập phường Vân Phong",
-"link": "https://tuoitre.vn/khanh-hoa-lay-y-kien-nguoi-dan-ve-thanh-lap-phuong-van-phong-100261118083940673.htm",
-"summary": "Tỉnh Khánh Hòa sẽ lấy ý kiến người dân về việc thành lập phường Vân Phong trên cơ sở sắp xếp các xã Đại Lãnh, Tu Bông, Vạn Thắng, Vạn Ninh, Vạn Hưng, phường Đông Ninh Hòa và một phần xã Bắc Ninh Hòa, phường Ninh Hòa.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/2-17949656107521370354796-0-0-1080-1728-crop-1794965693971206444179.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-18T09:05:00+07:00",
-"found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "0949eb2a2041",
-"title": "Cụm công nghiệp HANIP 1: Hà Nội mở thêm hơn 71ha không gian sản xuất tập trung cho doanh nghiệp",
-"link": "https://cafef.vn/cum-cong-nghiep-hanip-1-ha-noi-mo-them-hon-71ha-khong-gian-san-xuat-tap-trung-cho-doanh-nghiep-188261118090936226.chn",
-"summary": "Với quy mô 71,3ha, tổng vốn đầu tư dự kiến hơn 1.626 tỷ đồng, Cụm công nghiệp HANIP 1 được kỳ vọng sẽ bổ sung kịp thời nguồn cung mặt bằng mới tại phía Nam Hà Nội, đáp ứng đa dạng nhu cầu dịch chuyển và mở rộng sản xuất đang rất cấp thiết của các doanh nghiệp.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/kl-17949675691081735520234-0-0-706-1130-crop-1794967572416219139512.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T09:00:00+07:00",
-"found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "fa69ff052db7",
-"title": "Tân binh xe điện Việt rót hơn 250 tỉ đồng làm nhà máy công suất 300.000 xe/năm",
-"link": "https://tuoitre.vn/tan-binh-xe-dien-viet-rot-hon-250-ti-dong-lam-nha-may-cong-suat-300000-xe-nam-100261118074644436.htm",
-"summary": "Tổ hợp sản xuất và nghiên cứu phát triển (R&D) xe điện này có công suất thiết kế 300.000 xe/năm và dự kiến đi vào hoạt động từ quý II-2027.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/thumb-aves-nha-may-san-xuat-xe-dien-17949625994421384718266-17949626382551941787407-107-210-971-1593-crop-1794962653553675940006.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T09:00:00+07:00",
-"found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "d7b7f7328571",
-"title": "Giá cả đầu ngày: Chanh hút hàng xuất khẩu, cà chua Đà Lạt tăng giá trở lại",
-"link": "https://tuoitre.vn/gia-ca-dau-ngay-chanh-hut-hang-xuat-khau-ca-chua-da-lat-tang-gia-tro-lai-100261118070703408.htm",
-"summary": "Giá nông sản đầu ngày ghi nhận nhiều biến động khi cà chua Đà Lạt tăng 25%, chanh miền Tây lên 15.000-18.000 đồng/kg do nguồn cung giảm vì vào vụ nghịch, thời tiết bất lợi và nhu cầu xuất khẩu tăng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/adscf6413-1794960104542247329853-332-135-1707-2336-crop-1794960319377803080650.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T09:00:00+07:00",
-"found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "3de7cd8b5f18",
-"title": "gta vi",
-"link": "https://laodong.vn/xa-hoi/hai-cu-u90-o-quang-ngai-duoc-can-bo-den-tan-nha-lam-giay-ket-hon-1801618.ldo",
-"summary": "Hai cụ U90 ở Quảng Ngãi được cán bộ đến tận nhà làm giấy kết hôn (Laodong.vn)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgABuBtTpXk608T2QoKuua7x-11GkKnV5DSDnZSVn9lNjRg3iO7BjlHgaj5JE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T09:00:00+07:00",
-"traffic": "500+",
-"found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "f3487311a2d5",
-"title": "gta 6 release date",
-"link": "https://www.talkesport.com/gta-6/travis-scott-gta-6-air-force-1-low-price-release-date/",
-"summary": "Travis Scott GTA 6 Air Force 1 Low: Price, Release Date and All Colourways (TalkEsport)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyMJyMBxnfvS0nCOk04wQCG-HMtIY33mCIFNiV8ctW94vut398DGDrca9v46g",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T09:00:00+07:00",
-"traffic": "100+",
-"found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "e9b52a0d4a0c",
-"title": "ngày 24/11",
-"link": "https://tuoitre.vn/lich-nghi-24-11-co-truong-cho-sinh-vien-nghi-5-ngay-truong-hoc-online-100261117150022358.htm",
-"summary": "Lịch nghỉ 24-11: Có trường cho sinh viên nghỉ 5 ngày, trường học online (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQApGjuUNZ6Xn5BegIaXyXTsJxuMVWcx7r6-w0aQSFqFTKB318OLq1BEUcp2AM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T09:00:00+07:00",
-"traffic": "100+",
-"found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "298a1a862b5c",
-"title": "Không gian đô thị tích hợp 50 ha tại đô thị One Era",
-"link": "https://vnexpress.net/khong-gian-do-thi-tich-hop-50-ha-tai-do-thi-one-era-5145925.html",
-"summary": "One Era quy mô gần 50 ha kỳ vọng thành điểm đến mới tại khu Đông Bắc nhờ quy hoạch tích hợp nhà ở với thương mại, giáo dục, y tế, giải trí.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/onew-1794964562-2342-1794964626.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qWq1eZt4WSklkg56LPkUiQ",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-18T09:00:00+07:00",
-"found": "2026-11-18T10:17:24+07:00"
 }
 ]
 }
