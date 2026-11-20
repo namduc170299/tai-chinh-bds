@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T02:43:17+07:00",
-"new": 5,
+"updated": "2026-11-21T02:58:44+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 55
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,18 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "fa5fedf5be05",
+"title": "ath. bilbao đấu với espanyol",
+"link": "https://baonghean.vn/truc-tiep-athletic-club-vs-espanyol-doi-hinh-xuat-phat-10356273.html",
+"summary": "Trực tiếp Athletic Club vs Espanyol: Đội hình xuất phát (Báo Nghệ An)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqakrgp7Q6OcPzSvu0bsH7nvDaLOzOPrhrLIayAH4ecvsr8Do0Eyr_nQdWocw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T02:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-21T02:58:44+07:00"
+},
+{
 "id": "227804f885f7",
 "title": "bayern munich",
 "link": "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-fc-bayern-vs.-koeln-bundesliga-md-10",
@@ -257,7 +269,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T01:40:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-21T01:59:46+07:00"
 },
 {
@@ -317,6 +329,18 @@
 "cat": "bds",
 "published": "2026-11-21T00:46:00+07:00",
 "found": "2026-11-21T01:00:44+07:00"
+},
+{
+"id": "9f06c9f02d68",
+"title": "giải vđqg ả rập xê út",
+"link": "https://www.reutersconnect.com/item/saudi-pro-league-al-ahli-v-al-nassr/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQksxRTI0Tkk",
+"summary": "Licensable picture: Saudi Pro League - Al Ahli v Al Nassr (Reuters Connect)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbpmvZidL3JjqdfJuPtlzXmp6-kitug8MwU3nTcvbpGGyMSW1mACSuVqeb0E",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T00:20:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-21T02:58:44+07:00"
 },
 {
 "id": "fdd0149f54a5",
@@ -2120,6 +2144,17 @@
 "found": "2026-11-20T19:15:39+07:00"
 },
 {
+"id": "5e71fd4858a1",
+"title": "Nhà Trắng lên tiếng về nghi vấn ông Trump ngủ gật lúc ông Tập phát biểu",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY1VSTWY4X2c5ZU9ZV3R6Ym1aaDkwODRrY1BjeXVGLTRjd3U1VUVUeWE3Skg1NHpDZlRUQWNwX1lLbE5DT3U2WUpobVB5WFpnTUUwUEtQQkZxUnJGa2hUMTIzcmd0ZnZpMUFGRm41dWJjUjZsN3JvbGFoUmRyeXZJTmJrQVZxZVIzR1pTenlhOA?oc=5",
+"summary": "Nguồn: TAMDA MEDIA",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T18:29:52+07:00",
+"found": "2026-11-21T02:58:44+07:00"
+},
+{
 "id": "6d8351ff1fa3",
 "title": "Phường Hoàng Liệt bàn giao 67% chiều dài tuyến dự án Trục không gian Quốc lộ 1A",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVRYMF9lNzVkV3VEXzllVHgxY2VuUjJZUWN4d29MbjE5d0dwVDNINTdBTkVsb3NUWXVmUS1PSGRRcS01WTd2NG55NXpGdlktR21FcFZYbFNEa2dZQ19oN1N6RjdkbFNucnlkdGNJcUpfb0puSkMwUXd1OFVyMFpYTUE0S1NyMzlvMVVKWnowMEV3Ylp5MzloYXRtcHE2UXJMSi1vOUQtdHRsSkFTSWFQZw?oc=5",
@@ -2917,6 +2952,17 @@
 "found": "2026-11-20T17:32:04+07:00"
 },
 {
+"id": "28baa343510c",
+"title": "Tai nạn xe buýt ở Pakistan, ít nhất 10 người thiệt mạng",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkRfck5RRlZZeE9ITDdUVi1FMHJWZUZWbXFZZVhKSEpLVXJyQkFvSmxPaHpiZ3UwUUhCSDg1eFBwVDd2Sm5URzZnZ2xldjh0Q2duMWs0dEozeEVIbDNMV3RsUTNDdHI2ZGhfc2pMbWNmUkNmYzIxM1NTU3NGaFVFcy1xbw?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T17:12:32+07:00",
+"found": "2026-11-21T02:58:44+07:00"
+},
+{
 "id": "e78687347bdd",
 "title": "Dùng camera AI ‘đọc’ dòng xe để chia lại nhịp đèn xanh, đỏ ở ngã tư",
 "link": "https://tuoitre.vn/dung-camera-ai-doc-dong-xe-de-chia-lai-nhip-den-xanh-do-o-nga-tu-100261120162122467.htm",
@@ -3392,6 +3438,17 @@
 "cat": "xh",
 "published": "2026-11-20T16:36:00+07:00",
 "found": "2026-11-20T17:32:04+07:00"
+},
+{
+"id": "12049d0e93a9",
+"title": "Hà Nội yêu cầu làm rõ trách nhiệm chậm trễ các dự án khiến cử tri bức xúc",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0YtdmVodHdTa0laLUxHcmtzZzhXSWZOR3dvRGdBMkwxekNlQVBtNXNkUHpqNUdXZ1JRWm1ETzNPRlpTVzF6NEV1MmRCdjBaUzJlbWVqcDRsUE0zdGE5a2t2SVRJR1dRU1BoUm9kT3lJSTlFbGRyV1YxYlkyQWxWbldXMkkwZHc1WjAtX3ZpZXZlSE1SUTk5eTBTWmhRdV92Q0lMZ0FR?oc=5",
+"summary": "Nguồn: tin.skydoor.net",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T16:34:06+07:00",
+"found": "2026-11-21T02:58:44+07:00"
 },
 {
 "id": "c95d7ff3ba09",
@@ -4388,17 +4445,6 @@
 "cat": "xh",
 "published": "2026-11-20T14:43:00+07:00",
 "found": "2026-11-20T15:33:19+07:00"
-},
-{
-"id": "52b72fafa2c7",
-"title": "Hà Nội yêu cầu làm rõ trách nhiệm chậm trễ các dự án khiến cử tri bức xúc",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxtLUNOVk5GSzBqVGEteEl6UVhpQkV3SXFuSkx0Q2hGemlXRnE2bnFOazV2Zm9CRXNoM3hqbEJad0xnejRhZkNyZl80RUZ3a2FWYVJOdmlRbGdxV1RBSVUyRHl1OFRCVVVOQWtLdWczb1JoWEJzRHdLdklnWnI3ZC1FOERJS1lnVi1VYWJhS21lcUVCUGxXYTBrSFk?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T14:42:53+07:00",
-"found": "2026-11-20T20:03:27+07:00"
 },
 {
 "id": "34d87fe16001",
@@ -5930,6 +5976,17 @@
 "cat": "xh",
 "published": "2026-11-20T11:49:00+07:00",
 "found": "2026-11-20T12:13:43+07:00"
+},
+{
+"id": "bae20e85999c",
+"title": "Giá vàng ngày 20/11: Chưa thể dừng đà giảm, vàng miếng SJC rơi xuống mức thấp nhất kể từ đầu năm",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaERNYkxKWk1DSFZDZ005Q2ZPVGpQSlA5OFRYOG9Ja0RDV3BoZmRWLUkyUzFUM19MQ2Q5NExyY0J2aGxfWUlZWW03V3V6VmxOWUF2ZDZobk1VRC14TFBCWGRlUEs3dERCX1B1ckNrNHlKdDEyeEF3bl9DSWluV21WN1JORC01N212QlpxR3pJcWtJTHpfMk9yMUR5aEtORUZDWjdmUC1lTFVpVTJyd0x6T2VmRTFTWXhBekx4SEhsc0JSYjB5RlE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T11:48:00+07:00",
+"found": "2026-11-21T02:58:44+07:00"
 },
 {
 "id": "5ecd12b3ba68",
@@ -9709,6 +9766,28 @@
 "cat": "xh",
 "published": "2026-11-20T07:00:00+07:00",
 "found": "2026-11-20T15:33:19+07:00"
+},
+{
+"id": "8df08ff1dff8",
+"title": "Thịt bò giả ngâm hóa chất: Nguy hại sức khỏe khó lường",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5ndGZvak5yY1YtRHNDMkVOeDJGdXBKQ1p0eVBFWkgwZEhRWmZPbjRMS3VwRTF2NWlDM1A3cGZCTEY?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T07:00:00+07:00",
+"found": "2026-11-20T03:47:43+07:00"
+},
+{
+"id": "e81da585a4be",
+"title": "Đấu trường thông thái | VTV3 và VTVgo",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1ES0JQT3V0NnNhM3RyYTJmdVktRG54WW9BVlgtaV9lM3JBNGt5Z25ZX0xLVTN2ZVlVRG0wejN4TG8?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T07:00:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
 },
 {
 "id": "1e27a4bfee69",
@@ -21254,17 +21333,6 @@
 "found": "2026-11-20T03:47:43+07:00"
 },
 {
-"id": "8df08ff1dff8",
-"title": "Thịt bò giả ngâm hóa chất: Nguy hại sức khỏe khó lường",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5ndGZvak5yY1YtRHNDMkVOeDJGdXBKQ1p0eVBFWkgwZEhRWmZPbjRMS3VwRTF2NWlDM1A3cGZCTEY?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-19T07:00:00+07:00",
-"found": "2026-11-20T03:47:43+07:00"
-},
-{
 "id": "ab61a185e6b0",
 "title": "Giới thiệu trận đấu giữa ĐT Việt Nam và ĐT Lào | Vòng loại Asian Cup 2027 | VTV2 và VTVgo",
 "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1Zd29qR2dFcmJfUFo2WmxlMUlaRzZENmNVN1g3RnAzQS11WFNablFDbFNYTFFxN2Q1SkxzZVR1T1U?oc=5",
@@ -21285,17 +21353,6 @@
 "cat": "xh",
 "published": "2026-11-19T07:00:00+07:00",
 "found": "2026-11-20T04:49:04+07:00"
-},
-{
-"id": "e81da585a4be",
-"title": "Đấu trường thông thái | VTV3 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1ES0JQT3V0NnNhM3RyYTJmdVktRG54WW9BVlgtaV9lM3JBNGt5Z25ZX0xLVTN2ZVlVRG0wejN4TG8?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-19T07:00:00+07:00",
-"found": "2026-11-20T09:23:42+07:00"
 },
 {
 "id": "f5770e39ae4b",
@@ -21329,6 +21386,17 @@
 "cat": "xh",
 "published": "2026-11-19T07:00:00+07:00",
 "found": "2026-11-20T16:46:35+07:00"
+},
+{
+"id": "354fd062b714",
+"title": "Thông tin trước trận CLB Thể Công Viettel - CLB Quảng Nam",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DVXh3S25neDM4SldobGkzNTRneUtxc0I5QWMta21Rb1FYQU5KOV96c083S3Y5V3dfZXR2MUlRNkk?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-19T07:00:00+07:00",
+"found": "2026-11-21T02:58:44+07:00"
 },
 {
 "id": "d12167226498",
@@ -27906,72 +27974,6 @@
 "source": "Kenh14",
 "cat": "xh",
 "published": "2026-11-18T14:29:00+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "18ee2d355f37",
-"title": "TPHCM họp dân, khởi động \"siêu dự án\" gần 49.000 tỷ đồng",
-"link": "https://kenh14.vn/tphcm-hop-dan-khoi-dong-sieu-du-an-gan-49000-ty-dong-215261118143516616.chn",
-"summary": "TPHCM vừa chính thức khởi động dự án đầu tiên trong 4 dự án chỉnh trang đô thị khu vực bờ Nam kênh Đôi, với tổng vốn gần 48.980 tỷ đồng từ ngân sách thành phố sau khi được HĐND TPHCM khóa XI, nhiệm kỳ 2026-2031 thông qua chủ trương đầu tư tại kỳ họp thứ 5.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/18/avatar1794987203058-1794987203325158469642.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-18T14:28:00+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "18020cc208f8",
-"title": "Cận cảnh trụ sở tòa án, viện kiểm sát dôi dư đã rao thuê 10 lần vẫn 'ế' khách",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQktfSmdMcGlEdjVtTjYtanRpS3Q3U0tDMHh5QTUxOW5IUTRPc1Q0UzFOek8ybUlja2pCWklPcDFveEZwNk5hSU9MZEhPYm4zTFdCMHpiVTRtOU1tY3dNT3QyaFZOMGdMenpfeHZsMTBGcEtXeE4wZFdUclUwMkJSc1hJdkRCdEtDNGFsSVVXT0NncFRhWkR4TjFrU3BRcFZoT1kxTC1Oa25qOUE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T14:24:00+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "bb233c4073e9",
-"title": "Chủ tịch Thái Nguyên tiếp công dân, yêu cầu bố trí tái định cư cho hộ dân trước 15/12",
-"link": "https://cafef.vn/chu-tich-thai-nguyen-tiep-cong-dan-yeu-cau-bo-tri-tai-dinh-cu-cho-ho-dan-truoc-15-12-18826111813222053.chn",
-"summary": "Ngày 18/11, Chủ tịch UBND tỉnh Thái Nguyên Nguyễn Thế Mạnh chủ trì buổi tiếp công dân định kỳ tháng 11/2026, tại đây ông Mạnh yêu cầu xã Chợ Rã hoàn thành bố trí tái định cư cho gia đình hộ dân bị ảnh hưởng bởi bão Matmo năm 2025, trước ngày 15/12/2026.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1794982925852-17949829263441428812231.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T14:22:00+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "d27d39e5d5a8",
-"title": "Chênh lệch giá mua USD tự do và ngân hàng tăng hơn gấp đôi",
-"link": "https://vneconomy.vn/chenh-lech-gia-mua-usd-tu-do-va-ngan-hang-tang-hon-gap-doi.htm",
-"summary": "Chỉ trong hai ngày 16 - 18/11, chênh lệch giá mua USD giữa thị trường tự do và ngân hàng thương mại tăng hơn gấp đôi, từ 290 đồng lên 630 đồng/USD. Ở chiều bán, giá USD tự do từ mức thấp hơn ngân hàng 70 đồng đã chuyển sang cao hơn 250 đồng/USD…",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/09/11/6c300e107c1f483fa4a7c546ed6e7648-118248.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-18T14:21:29+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "7d36e5289ef6",
-"title": "Mua đất giấy tay, xin cấp sổ đỏ bị xã xếp vào đất công: Người đàn ông kiện thắng",
-"link": "https://vietnamnet.vn/mua-dat-giay-tay-xin-cap-so-do-bi-xa-xep-vao-dat-cong-nguoi-dan-ong-kien-thang-2569840.html",
-"summary": "Sau hơn 20 năm sử dụng gần 9.600m2 đất mua bằng giấy tay, người đàn ông bất ngờ bị từ chối cấp sổ đỏ với lý do thửa đất bị đưa vào danh mục đất công. Không đồng tình, ông khởi kiện quyết định hành chính của UBND xã.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/30/mua-dat-giay-tay-xin-cap-so-do-bi-xa-xep-vao-dat-cong-nguoi-dan-ong-kien-thang-2553.jpg?width=0&s=e-6VkHL5kiYx-ZS1O1a7FA",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-18T14:21:11+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "b39a2620e1cf",
-"title": "Từng bị gọi là &apos;thành phố ma&apos;, giá nhà tại đô thị 1.000ha của TPHCM giờ ra sao?",
-"link": "https://vietnamnet.vn/tung-bi-goi-la-thanh-pho-ma-gia-nha-tai-do-thi-1-000ha-cua-tphcm-gio-ra-sao-2569531.html",
-"summary": "Sau nhiều năm gắn với hình ảnh đô thị hiện đại nhưng vắng bóng cư dân, thậm chí bị gọi là “thành phố ma”, thị trường nhà ở tại khu đô thị rộng 1.000ha thuộc TPHCM đang có những thay đổi đáng chú ý sau một thập kỷ.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/30/tung-bi-goi-la-thanh-pho-ma-gia-nha-tai-do-thi-1-2556.jpg?width=0&s=uk7z7eDg-aMQrnMax75GJw",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-18T14:21:01+07:00",
 "found": "2026-11-18T14:46:40+07:00"
 }
 ]
