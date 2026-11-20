@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T21:21:14+07:00",
-"new": 1,
+"updated": "2026-11-20T21:36:26+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "707feabb64cf",
+"title": "Giá vàng hôm nay 20/11: Lao dốc xuống sát 3.690 USD/ounce, thấp nhất 14 tháng",
+"link": "https://vietnamnet.vn/gia-vang-hom-nay-20-11-lao-doc-xuong-sat-3-690-usd-ounce-thap-nhat-14-thang-2576914.html",
+"summary": "Giá vàng thế giới lại giảm sâu trong bối cảnh nhà đầu tư đánh giá các dữ liệu kinh tế Mỹ và triển vọng chính sách tiền tệ của Fed. Trong nước, giá vàng miếng SJC giảm về mức 133,2-136,2 triệu đồng/lượng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/ounce-thap-nhat-14-thang-3159.jpg?width=0&s=EgzVWYKDPwhCaHilsais-Q",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T21:32:38+07:00",
+"found": "2026-11-20T05:04:17+07:00"
+},
+{
+"id": "9d9011100e66",
+"title": "Vì sao giá vàng tuần này lao dốc, giảm mạnh nhất 8 tháng?",
+"link": "https://cafef.vn/vi-sao-gia-vang-tuan-nay-lao-doc-giam-manh-nhat-8-thang-188261120212416431.chn",
+"summary": "Giá vàng giao ngay hiện dao động ở vùng thấp nhất kể từ tháng 9/2025.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/17951845667881690932382-0-0-414-662-crop-17951845781621791455920.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-20T21:25:00+07:00",
+"found": "2026-11-20T21:36:26+07:00"
+},
+{
+"id": "0b3df06556c9",
+"title": "Vượt trăm cây số ngày 20/11, những học trò đặc biệt hội ngộ người cô từng \"mất ngủ\" vì mình gần 20 năm trước",
+"link": "https://kenh14.vn/vuot-tram-cay-so-ngay-20-11-nhung-hoc-tro-dac-biet-hoi-ngo-nguoi-co-tung-mat-ngu-vi-minh-gan-20-nam-truoc-215261120204155967.chn",
+"summary": "Sau 54 năm gắn bó với nghề giáo, Nhà giáo Ưu tú Đinh Thị Hỏi vẫn là điểm tựa tinh thần của những học viên khuyết tật năm nào, khi nhiều người đã trưởng thành, có công việc ổn định và tìm về bên cô sau hàng chục năm xa cách.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795182005842-17951820064521026794045.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T21:17:00+07:00",
+"found": "2026-11-20T21:36:26+07:00"
+},
+{
+"id": "207488129d72",
+"title": "Dấu ấn đậm nét của Việt Nam tại Thâm Quyến và kỳ vọng vào Năm APEC 2027",
+"link": "https://tuoitre.vn/dau-an-dam-net-cua-viet-nam-tai-tham-quyen-va-ky-vong-vao-nam-apec-2027-1002611202010217.htm",
+"summary": "Chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân không chỉ khẳng định vai trò trách nhiệm của Việt Nam mà còn tạo đà cho Năm APEC 2027.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/tong-bi-thu-apec-2026-1-17950640900301167064194-142-0-1742-2560-crop-17951803335421277594937-0-155-1049-1833-crop-1795184659152837812253.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T21:16:00+07:00",
+"found": "2026-11-20T21:36:26+07:00"
+},
+{
 "id": "f42f1bf84d30",
 "title": "Thông tin mới vụ giám đốc công ty lâm nghiệp bị bắn ở Đồng Nai",
 "link": "https://dantri.com.vn/phap-luat/thong-tin-moi-vu-giam-doc-cong-ty-lam-nghiep-bi-ban-o-dong-nai-20261120203137290.htm",
@@ -305,6 +349,17 @@
 "found": "2026-11-20T21:04:15+07:00"
 },
 {
+"id": "d0a5db26ac92",
+"title": "Xe tải chở heo giống lật trên đèo Lò Xo, một người tử vong",
+"link": "https://tuoitre.vn/xe-tai-cho-heo-giong-lat-tren-deo-lo-xo-mot-nguoi-tu-vong-10026112020145708.htm",
+"summary": "Xe tải chở heo giống đang xuống dốc trên quốc lộ 14, đoạn đèo Lò Xo qua xã Đăk Plô (Quảng Ngãi), bất ngờ lật nghiêng khiến một người tử vong, hai người bị thương.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/xe-tai-cho-heo-lat-01-edit-17951835893791988241446-210-0-1438-1965-crop-1795183710845610616088.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T20:32:00+07:00",
+"found": "2026-11-20T21:36:26+07:00"
+},
+{
 "id": "20b84daec296",
 "title": "J.P. Morgan dự báo FED sẽ tăng lãi suất ba lần nữa",
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcGhxMngyWVh4aFk2TmdaMm1GQkNuT3Q1ejlPb2VTb2JIb2owMkpNN21UY2M3MWx4dWlhbWFYQ1FGN003VjljcXVVcElEa2QwQ0lIUHR1N2NqRl9fZlVlZ2Z3V2xnd2d0T3RjR2ZzOW5OZFNkTjZha2hfUnpCMG5qTmY5MjNMYXdZc2c?oc=5",
@@ -349,6 +404,17 @@
 "found": "2026-11-20T21:04:15+07:00"
 },
 {
+"id": "2f40fc53de2b",
+"title": "Đường Mai Chí Thọ thông thoáng, xe máy vẫn lấn làn xe đạp",
+"link": "https://tuoitre.vn/duong-mai-chi-tho-thong-thoang-xe-may-van-lan-lan-xe-dap-100261120190747207.htm",
+"summary": "Dù đường Mai Chí Thọ khá thông thoáng, nhiều xe máy vẫn chạy vào làn dành riêng cho xe đạp. CSGT cho biết sẽ tăng cường tuần tra, xử lý nghiêm vi phạm.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/duong-mai-chi-tho-edit-1795182048902635974615-178-0-1668-2384-crop-17951821737331509819767.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T20:24:00+07:00",
+"found": "2026-11-20T21:36:26+07:00"
+},
+{
 "id": "36cbc500385b",
 "title": "giấy phép lái xe",
 "link": "https://laodong.vn/ban-doc/de-con-lai-oto-khong-bang-lam-sai-con-khoe-len-mang-xa-hoi-1803409.ldo",
@@ -357,7 +423,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T20:20:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-20T21:04:15+07:00"
 },
 {
@@ -393,6 +459,17 @@
 "cat": "xh",
 "published": "2026-11-20T20:16:00+07:00",
 "found": "2026-11-20T20:34:09+07:00"
+},
+{
+"id": "7c86d2d9da22",
+"title": "Sau 6 tháng được 7 bệnh viện tuyến cuối hỗ trợ, Bệnh viện Đa khoa Bà Rịa thay đổi thế nào?",
+"link": "https://tuoitre.vn/sau-6-thang-duoc-7-benh-vien-tuyen-cuoi-ho-tro-benh-vien-da-khoa-ba-ria-thay-doi-the-nao-100261120195308055.htm",
+"summary": "Sau gần 6 tháng được 7 bệnh viện tuyến cuối TP.HCM hỗ trợ, Bệnh viện Đa khoa Bà Rịa đã thành lập đơn nguyên đột quỵ, phối hợp thực hiện nhiều ca phẫu thuật phức tạp và triển khai bệnh án điện tử toàn viện.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/dsc6411-1795178563325173365527-63-0-1001-1500-crop-17951790505221401528651-374-496-660-953-crop-17951809667091473496325.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T20:16:00+07:00",
+"found": "2026-11-20T21:36:26+07:00"
 },
 {
 "id": "5fa4c55a0198",
@@ -506,7 +583,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T20:00:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-20T20:18:36+07:00"
 },
 {
@@ -544,6 +621,17 @@
 "found": "2026-11-20T20:34:09+07:00"
 },
 {
+"id": "7f3fa07a428e",
+"title": "TP.HCM nghiên cứu buộc người xả rác bậy tham gia dọn vệ sinh hằng tháng",
+"link": "https://tuoitre.vn/tphcm-nghien-cuu-buoc-nguoi-xa-rac-bay-tham-gia-don-ve-sinh-hang-thang-100261120182653446.htm",
+"summary": "UBND TP.HCM yêu cầu tăng cường phạt nguội người xả rác bậy qua camera, đồng thời nghiên cứu buộc người vi phạm trực tiếp thu dọn rác và tham gia tổng vệ sinh hằng tháng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/rac-xa-rac-bay-edit-1795179730927814967669-83-0-1333-2000-crop-17951800803802061793860.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T19:55:00+07:00",
+"found": "2026-11-20T21:36:26+07:00"
+},
+{
 "id": "d8598d0db3a9",
 "title": "4 nhà máy Samsung tại Việt Nam thu hơn 62 tỷ USD sau 9 tháng",
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZjFtVVNiYlkxc1NBRlRIYVBKX0VPT0dqZUtWbEt2bkpIVmZ0M094bDkwSks0eExDX3hNOXpBdVJaeGNpak5BRk50dGFuMGJzbmk1b0tNV3YzYTJveXNvSEhCN21acEFQOUkzZzF3NTUyX3lHMTQtSEdOeW1pRzk4cVNFRGFUVk11eVhyaTYybWhTbjRXUmZIRQ?oc=5",
@@ -575,6 +663,17 @@
 "cat": "tc",
 "published": "2026-11-20T19:51:00+07:00",
 "found": "2026-11-20T20:03:27+07:00"
+},
+{
+"id": "a1c2a1ea3653",
+"title": "Có AI trong tay, nhà đầu tư có dễ thắng hơn trên thị trường chứng khoán?",
+"link": "https://tuoitre.vn/co-ai-trong-tay-nha-dau-tu-co-de-thang-hon-tren-thi-truong-chung-khoan-100261120190225591.htm",
+"summary": "Ông Nguyễn Hoàng Giang, Chủ tịch HĐQT DNSE, cho biết AI giúp nhà đầu tư phân tích hàng nghìn cổ phiếu nhanh hơn. Tuy nhiên, công nghệ không thể thay thế con người trong việc đánh giá và quyết định xuống tiền.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/nguyen-hoang-giang-edit-17951797309301779685109-390-570-1389-2169-crop-1795179963180517606279.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-20T19:51:00+07:00",
+"found": "2026-11-20T21:36:26+07:00"
 },
 {
 "id": "3352d8168f7e",
@@ -7063,17 +7162,6 @@
 "found": "2026-11-20T09:39:13+07:00"
 },
 {
-"id": "707feabb64cf",
-"title": "Giá vàng hôm nay 20/11: Lao dốc xuống sát 3.690 USD/ounce, thấp nhất 14 tháng",
-"link": "https://vietnamnet.vn/gia-vang-hom-nay-20-11-lao-doc-xuong-sat-3-690-usd-ounce-thap-nhat-14-thang-2576914.html",
-"summary": "Giá vàng thế giới lại giảm sâu trong bối cảnh nhà đầu tư đánh giá các dữ liệu kinh tế Mỹ và triển vọng chính sách tiền tệ của Fed. Trong nước, giá vàng miếng SJC giảm về mức 133,2-136,2 triệu đồng/lượng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/ounce-thap-nhat-14-thang-3159.jpg?width=0&s=EgzVWYKDPwhCaHilsais-Q",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-20T09:25:36+07:00",
-"found": "2026-11-20T05:04:17+07:00"
-},
-{
 "id": "7b44b154f45c",
 "title": "Chăm sóc vết mổ sau phẫu thuật ngực, tạo hình bụng lành đẹp: Những điều cần biết",
 "link": "https://thanhnien.vn/cham-soc-vet-mo-sau-phau-thuat-nguc-tao-hinh-bung-lanh-dep-nhung-dieu-can-biet-185261120093901216.htm",
@@ -9649,17 +9737,6 @@
 "found": "2026-11-20T04:18:23+07:00"
 },
 {
-"id": "ad94e309c56b",
-"title": "Tổ trưởng dân phố Gen Z kết nối người dân qua mạng xã hội",
-"link": "https://vnexpress.net/to-truong-dan-pho-gen-z-ket-noi-nguoi-dan-qua-mang-xa-hoi-5146321.html",
-"summary": "Nguyễn Hoàng Nhật Trung, 25 tuổi, tổ trưởng dân phố Tàng Thơ, phường Phú Xuân, dùng video ngắn và mạng xã hội để truyền tải thông tin, kết nối người dân.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/wm1-wm1-1-1795067849-2240-1795067860.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=inzJuuD9PPvMhbfdMnxe4A",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-20T04:00:00+07:00",
-"found": "2026-11-20T00:35:37+07:00"
-},
-{
 "id": "db1397b31754",
 "title": "tiền",
 "link": "https://laodong.vn/tien-te-dau-tu/lai-suat-agribank-vietcombank-bidv-va-vietinbank-moi-nhat-ngay-1911-1803162.ldo",
@@ -9847,6 +9924,17 @@
 "cat": "tc",
 "published": "2026-11-20T00:00:12+07:00",
 "found": "2026-11-19T23:10:48+07:00"
+},
+{
+"id": "ad94e309c56b",
+"title": "Tổ trưởng dân phố Gen Z kết nối người dân qua mạng xã hội",
+"link": "https://vnexpress.net/to-truong-dan-pho-gen-z-ket-noi-nguoi-dan-qua-mang-xa-hoi-5146321.html",
+"summary": "Nguyễn Hoàng Nhật Trung, 25 tuổi, tổ trưởng dân phố Tàng Thơ, phường Phú Xuân, dùng video ngắn và mạng xã hội để truyền tải thông tin, kết nối người dân.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/wm1-wm1-1-1795067849-2240-1795067860.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=inzJuuD9PPvMhbfdMnxe4A",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-20T00:00:00+07:00",
+"found": "2026-11-20T00:35:37+07:00"
 },
 {
 "id": "116389c61579",
@@ -27865,94 +27953,6 @@
 "source": "CafeF",
 "cat": "bds",
 "published": "2026-11-18T13:20:00+07:00",
-"found": "2026-11-18T13:28:20+07:00"
-},
-{
-"id": "05c9820421aa",
-"title": "Khẩn trương điều tra, làm rõ vụ dùng súng bắn người tại Công ty lâm nghiệp La Ngà",
-"link": "https://thanhnien.vn/khan-truong-dieu-tra-lam-ro-vu-dung-sung-ban-nguoi-tai-cong-ty-lam-nghiep-la-nga-185261118121731497.htm",
-"summary": "Chủ tịch UBND thành phố Đồng Nai gửi lời chia buồn đến gia đình, nhân thân của bị hại; đồng thời chỉ đạo lực lượng chức năng khẩn trương điều tra, làm rõ vụ dùng súng bắn người tại Công ty TNHH MTV lâm nghiệp La Ngà.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/bv-cr-bn-nmc-17949770898311250243701-33-0-1492-2334-crop-1794979987729749338755.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-18T13:19:00+07:00",
-"found": "2026-11-18T13:28:20+07:00"
-},
-{
-"id": "7bfec6d028ac",
-"title": "Khu chung cư đầu tiên trong 12 dự án Mường Thanh được Hà Nội duyệt phương án xử lý sai phạm",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaTQ3aEYyNjFqRC1VQUtIOXAtbG5jTHI4bzdSYVFyS0pjeWl3elpUblVaaFlnd3QyNlNkWG5vYXNtOGxxWTFQakZhUGtURzZsWTk5LTFQc2pOX21SbVQ4eGEtNThnN0hOQ3NpMFQyR0JuYTVnQTJnMXhCZHZEOUJGU1V2UGg2djBrekhoSXNGN1BoUy1oU2V5anFpSjFrTkRfbWFON1hhdEF4Sy1LZExwc2kxRVlCMXZNR3JlT0pVbUlBZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T13:19:00+07:00",
-"found": "2026-11-18T19:25:27+07:00"
-},
-{
-"id": "51e2447b522b",
-"title": "HLV Polking: 'Tôi không thể hại chết Đình Bắc'",
-"link": "https://vnexpress.net/hlv-polking-toi-khong-the-hai-chet-dinh-bac-5146098.html",
-"summary": "Thể trạng của Nguyễn Đình Bắc khiến HLV Mano Polking đau đầu, trước trận Công an Hà Nội gặp Johor Darul Tazim ở Cup CLB Đông Nam Á.",
-"image": "https://vcdn1-thethao.vnecdn.net/2026/11/18/1794975057757-be7ae5eaa5b4f560-5173-4028-1794982017.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DTTgmkMsR2bL5WI0n-KQhw",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-18T13:18:44+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "09b9a6240709",
-"title": "Hà Nội mờ đục từ sáng đến trưa, cao ốc chìm trong màn mù",
-"link": "https://cafef.vn/ha-noi-mo-duc-tu-sang-den-trua-cao-oc-chim-trong-man-mu-1882611181250501.chn",
-"summary": "TPO - Sáng 18/11, lớp mù trắng đục bao phủ nhiều khu vực Hà Nội, kéo dài đến gần trưa khiến tầm nhìn bị hạn chế. Hàng loạt tòa nhà cao tầng mờ nhòe, thậm chí gần như biến mất giữa ban ngày.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1794981033020-17949810351771505339373.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T13:17:00+07:00",
-"found": "2026-11-18T13:28:20+07:00"
-},
-{
-"id": "e0825c5bdfb2",
-"title": "Đưa bản sắc Việt vào hành trình kết nối văn hóa qua trà",
-"link": "https://tuoitre.vn/dua-ban-sac-viet-vao-hanh-trinh-ket-noi-van-hoa-qua-tra-100261118113804285.htm",
-"summary": "Áo bà ba và hoa sen xuất hiện trong phiên bản Teadore Việt Nam, cùng những hình tượng văn hóa đặc trưng của Singapore, Malaysia, Hàn Quốc, Thái Lan và Indonesia trong chiến dịch kỷ niệm 9 năm của CHAGEE.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/photo-1794970924867-17949709259471754980180-0-76-803-1361-crop-17949755556001897632270.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T13:17:00+07:00",
-"found": "2026-11-18T13:28:20+07:00"
-},
-{
-"id": "70b01b62edd4",
-"title": "Quà Tết năm nay, doanh nghiệp đặt tiêu chí thiết thực và tiết kiệm",
-"link": "https://tuoitre.vn/qua-tet-nam-nay-doanh-nghiep-dat-tieu-chi-thiet-thuc-va-tiet-kiem-100261117152235718.htm",
-"summary": "Xu hướng tối ưu ngân sách khiến giỏ quà Tết phân khúc tầm trung từ vài trăm nghìn đến 2,5 triệu đồng trở thành lựa chọn chủ đạo của khối doanh nghiệp năm nay.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/qua-tet-00-1794975709901756927720-0-0-1440-2304-crop-1794975809217237181917.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T13:16:00+07:00",
-"found": "2026-11-18T13:28:20+07:00"
-},
-{
-"id": "532121234f27",
-"title": "Ông Lê Thanh Thản khai: Khi xây CT6 'quận không kiểm tra, nói gì đến phường'",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2NyZ25zSEY3UDdZUXA3dW53UEI1SzRsVjNtUnlidVNtVkxyaFpIZGVSLV9RTzZZOUNKYnU3M1ZGajFRUEItWEs2WmEzRGc1S0gtWHB5ODJWaTVuajZOVjJ6Ymk3MFBueDhfZXBoUERGeTh3TTVkdjQzOHpud1N5Zm9rZjRwQkVkNGxxei00VG5MOVNhX3Y5eUU5clkwdzZUNW04Y2ZxMEc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T13:15:55+07:00",
-"found": "2026-11-19T08:52:48+07:00"
-},
-{
-"id": "6e036bafe4d7",
-"title": "Mặt bằng cho thuê nhan nhản, vì sao vẫn khó tìm chỗ để kinh doanh?",
-"link": "https://thanhnien.vn/mat-bang-cho-thue-nhan-nhan-vi-sao-van-kho-tim-cho-de-kinh-doanh-18526111810105234.htm",
-"summary": "Những mặt bằng cho thuê nhan nhản trên khắp các tuyến đường tại TP.HCM, nhưng thực tế nhiều người trẻ muốn khởi sự kinh doanh vẫn khó tìm được nơi phù hợp.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/base64-1794980029612184105993-0-38-976-1600-crop-1794980072304938239043.jpeg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-18T13:15:00+07:00",
 "found": "2026-11-18T13:28:20+07:00"
 }
 ]
