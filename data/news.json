@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T01:44:18+07:00",
-"new": 0,
+"updated": "2026-11-21T01:59:46+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,30 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "8310dcd66f85",
+"title": "bayern đấu với köln",
+"link": "https://bongdaplus.vn/bundesliga/nhan-dinh-bong-da-bayern-munich-vs-cologne-02h30-ngay-21-11-hum-xam-ra-oai-5293552611.html",
+"summary": "Nhận định bóng đá Bayern Munich vs Cologne, 02h30 ngày 21/11: Hùm xám ra oai (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8rx_TRtg0YCNOxgLRI1DdPXRQ_DcO3EPez1FGXwyblQanBO4oKJyNJJeyBtc",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T01:40:00+07:00",
+"traffic": "500+",
+"found": "2026-11-21T01:59:46+07:00"
+},
+{
+"id": "e6a5c75cec0d",
+"title": "cristiano ronaldo",
+"link": "https://www.vietnam.vn/al-nassr-chuan-bi-tao-nen-khoanh-khac-lich-su-cho-ronaldo",
+"summary": "Al Nassr chuẩn bị tạo nên khoảnh khắc lịch sử cho Ronaldo (Vietnam.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvvfePQ7-b27bNJ8EiiMwy9sFOzQWgyH3qFRZ4sRRRjf5wp1tmJ7pV5HFnfpE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T01:30:00+07:00",
+"traffic": "500+",
+"found": "2026-11-21T01:59:46+07:00"
+},
 {
 "id": "7dfafc6f5c9d",
 "title": "Ngày 21/11, gửi dưới 100 triệu đồng kỳ hạn 3 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
@@ -884,6 +908,17 @@
 "published": "2026-11-20T21:10:00+07:00",
 "traffic": "20000+",
 "found": "2026-11-20T21:59:08+07:00"
+},
+{
+"id": "04cc722435f6",
+"title": "Lợi nhuận gộp 8 doanh nghiệp ô tô trên sàn tăng 24% trong quý III/2026, nhóm xe thương mại chiếm 77% tổng lãi ròng",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONEJmUjZ0VFRLRVBrSHQ4SU1kOXBPck5keEw0MHhYbHdKQWhmOUZySzdWSEpUTDI0Nmh2Q3RFTDVTc3owczZFSkVGWDdweTMydlZGb3UtNUNpN0F3bTZhMTMyWVZpaDcwNmdHZ3A4NUpsbmw2TFFBaVpHYXNpRVJ1cDl1U2swTExGQTlWSDVSMWprZl81VmFweU95MnJOelFCREZyX3NDN0paMHJiY0pHYVZ6eXJNQ3YxZ0dyWnNxWWlpejc3aUNvY2RUNTBHeFRLeWd1VlZjRXJBaTR1?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T21:10:00+07:00",
+"found": "2026-11-21T01:59:46+07:00"
 },
 {
 "id": "7bfa72481600",
@@ -4073,17 +4108,6 @@
 "found": "2026-11-20T16:04:37+07:00"
 },
 {
-"id": "52b72fafa2c7",
-"title": "Hà Nội yêu cầu làm rõ trách nhiệm chậm trễ các dự án khiến cử tri bức xúc",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxtLUNOVk5GSzBqVGEteEl6UVhpQkV3SXFuSkx0Q2hGemlXRnE2bnFOazV2Zm9CRXNoM3hqbEJad0xnejRhZkNyZl80RUZ3a2FWYVJOdmlRbGdxV1RBSVUyRHl1OFRCVVVOQWtLdWczb1JoWEJzRHdLdklnWnI3ZC1FOERJS1lnVi1VYWJhS21lcUVCUGxXYTBrSFk?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T15:02:29+07:00",
-"found": "2026-11-20T20:03:27+07:00"
-},
-{
 "id": "cb4bb6a72a29",
 "title": "Diễn biến thị trường tài chính - tiền tệ quốc tế sáng 20/11",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXdpZUJhaUVtNUFTUnRsbE5vb1BJLWliY3E4emI5TlJFdW44ZUtGSlIzc25mOGI3NGFzdlJDS1REZTV5d3Z4dXZBb2lIRmRVOEVKb1dYVzlCTm4xd1ZHekZ0cEgwalBMb1A3TTdWcVNkWmkxajJuM3YybzVmZE1LdFJQZURBUzhJRXdCams3d3JoYmFs?oc=5",
@@ -4282,6 +4306,17 @@
 "cat": "xh",
 "published": "2026-11-20T14:43:00+07:00",
 "found": "2026-11-20T15:33:19+07:00"
+},
+{
+"id": "52b72fafa2c7",
+"title": "Hà Nội yêu cầu làm rõ trách nhiệm chậm trễ các dự án khiến cử tri bức xúc",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxtLUNOVk5GSzBqVGEteEl6UVhpQkV3SXFuSkx0Q2hGemlXRnE2bnFOazV2Zm9CRXNoM3hqbEJad0xnejRhZkNyZl80RUZ3a2FWYVJOdmlRbGdxV1RBSVUyRHl1OFRCVVVOQWtLdWczb1JoWEJzRHdLdklnWnI3ZC1FOERJS1lnVi1VYWJhS21lcUVCUGxXYTBrSFk?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T14:42:53+07:00",
+"found": "2026-11-20T20:03:27+07:00"
 },
 {
 "id": "34d87fe16001",
@@ -27933,39 +27968,6 @@
 "cat": "tc",
 "published": "2026-11-18T14:16:27+07:00",
 "found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "cca3d8652a09",
-"title": "Giám đốc World Bank chỉ ra 4 ưu tiên để Việt Nam vượt bẫy thu nhập trung bình",
-"link": "https://vietnamnet.vn/giam-doc-world-bank-chi-ra-4-uu-tien-de-viet-nam-vuot-bay-thu-nhap-trung-binh-2569540.html",
-"summary": "Công thức mang lại thành công cho Việt Nam trong quá khứ như lao động đồi dào, tích lũy vốn nhanh, hội nhập thương mại sâu rộng đang dần chạm tới giới hạn, không thể đưa Việt Nam bước vào nhóm thu nhập cao.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/29/giam-doc-world-bank-chi-ra-4-uu-tien-de-viet-nam-vuot-bay-thu-nhap-trung-binh-2938.jpg?width=0&s=ak919lqG2eUXtYg8pstDkg",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-18T14:14:11+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "d9ef3c238643",
-"title": "Ngân hàng áp dụng AI phải tuân thủ quy định an toàn mới",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQjVxakFoVm54YmNURm9tVkdoYzR0T19MRThyREVyQmVSRHFBM1F5OE5jZHZSR29HRExPbFNwWDhFckpyY29udFAtZVBDVXpCcUJ3SDVDcnNWWVFQVnZJS2ZkWk9QcWlSWFJCdXRkZFlYcmNDdlV0ak55ZnBfNnZ5M19oU2w1MkxlMWVHRF81cTR1Zw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T14:14:00+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "944283c53eb3",
-"title": "Đại gia bất động sản Nguyễn Minh Chính bị ngân hàng siết nợ tài sản",
-"link": "https://cafef.vn/dai-gia-bat-dong-san-nguyen-minh-chinh-bi-ngan-hang-siet-no-tai-san-188261118141624147.chn",
-"summary": "Sacombank đang tiến hành các thủ tục đấu giá bất động sản đứng tên ông Nguyễn Minh Chính với giá khởi điểm gần 186 tỷ đồng nhằm thu hồi khoản nợ của Công ty TNHH MTV Đức Việt. Ông Chính là doanh nhân kín tiếng, gắn với dự án Sheraton Phú Quốc Resort với tổng vốn đầu tư hơn 1.100…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/nguyen-tien-trung-dai-gia-vang20240430125239-1714526386955-17145263873711616911069-17949861017271040355698-28-0-743-1144-crop-1794986106307452765991.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T14:12:00+07:00",
-"found": "2026-11-18T14:46:40+07:00"
 }
 ]
 }
