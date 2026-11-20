@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T21:36:26+07:00",
-"new": 8,
+"updated": "2026-11-20T21:51:39+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 28
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "96e78adc8a8a",
+"title": "Ra lệnh khám xét, bắt giam 2 cha con Lý Văn Linh liên quan đến 39 cây vàng, 16.000 đô la Mỹ,...",
+"link": "https://kenh14.vn/ra-lenh-kham-xet-bat-giam-2-cha-con-ly-van-linh-lien-quan-den-39-cay-vang-16000-do-la-my-215261120212232826.chn",
+"summary": "Người đàn ông 42 tuổi rủ con trai 19 tuổi cùng hai người khác đột nhập nhà dân ở Cà Mau, lấy trộm két sắt.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795184516723-17951845171371621088262.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T21:33:00+07:00",
+"found": "2026-11-20T21:51:39+07:00"
+},
+{
 "id": "707feabb64cf",
 "title": "Giá vàng hôm nay 20/11: Lao dốc xuống sát 3.690 USD/ounce, thấp nhất 14 tháng",
 "link": "https://vietnamnet.vn/gia-vang-hom-nay-20-11-lao-doc-xuong-sat-3-690-usd-ounce-thap-nhat-14-thang-2576914.html",
@@ -233,6 +244,17 @@
 "cat": "tc",
 "published": "2026-11-20T21:25:00+07:00",
 "found": "2026-11-20T21:36:26+07:00"
+},
+{
+"id": "084fbab5c9d7",
+"title": "Từ làng trẻ SOS đến giảng đường Oxford: 'Kỷ luật giữ tôi đi tiếp những ngày cạn động lực'",
+"link": "https://tuoitre.vn/tu-lang-tre-sos-den-giang-duong-oxford-ky-luat-giu-toi-di-tiep-nhung-ngay-can-dong-luc-100261120195515553.htm",
+"summary": "Lớn lên ở Làng trẻ em SOS Gò Vấp, Lê Hoàng Phong có khóa học tiếng Anh đầu tiên nhờ chỉ vàng mẹ nuôi bán vội. Từ cậu bé mồ côi, anh trở thành học giả Chevening tại Đại học Oxford, tiếp tục trao cơ hội học tập cho trẻ em yếu thế.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/thay-giao-le-hoang-phong-12-179517691274691128055-168-0-1448-2048-crop-17951771105792041078954.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-20T21:21:00+07:00",
+"found": "2026-11-20T21:51:39+07:00"
 },
 {
 "id": "0b3df06556c9",
@@ -9737,6 +9759,17 @@
 "found": "2026-11-20T04:18:23+07:00"
 },
 {
+"id": "ad94e309c56b",
+"title": "Tổ trưởng dân phố Gen Z kết nối người dân qua mạng xã hội",
+"link": "https://vnexpress.net/to-truong-dan-pho-gen-z-ket-noi-nguoi-dan-qua-mang-xa-hoi-5146321.html",
+"summary": "Nguyễn Hoàng Nhật Trung, 25 tuổi, tổ trưởng dân phố Tàng Thơ, phường Phú Xuân, dùng video ngắn và mạng xã hội để truyền tải thông tin, kết nối người dân.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/wm1-wm1-1-1795067849-2240-1795067860.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=inzJuuD9PPvMhbfdMnxe4A",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-20T04:00:00+07:00",
+"found": "2026-11-20T00:35:37+07:00"
+},
+{
 "id": "db1397b31754",
 "title": "tiền",
 "link": "https://laodong.vn/tien-te-dau-tu/lai-suat-agribank-vietcombank-bidv-va-vietinbank-moi-nhat-ngay-1911-1803162.ldo",
@@ -9924,17 +9957,6 @@
 "cat": "tc",
 "published": "2026-11-20T00:00:12+07:00",
 "found": "2026-11-19T23:10:48+07:00"
-},
-{
-"id": "ad94e309c56b",
-"title": "Tổ trưởng dân phố Gen Z kết nối người dân qua mạng xã hội",
-"link": "https://vnexpress.net/to-truong-dan-pho-gen-z-ket-noi-nguoi-dan-qua-mang-xa-hoi-5146321.html",
-"summary": "Nguyễn Hoàng Nhật Trung, 25 tuổi, tổ trưởng dân phố Tàng Thơ, phường Phú Xuân, dùng video ngắn và mạng xã hội để truyền tải thông tin, kết nối người dân.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/wm1-wm1-1-1795067849-2240-1795067860.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=inzJuuD9PPvMhbfdMnxe4A",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-20T00:00:00+07:00",
-"found": "2026-11-20T00:35:37+07:00"
 },
 {
 "id": "116389c61579",
@@ -27931,28 +27953,6 @@
 "source": "CafeF",
 "cat": "bds",
 "published": "2026-11-18T13:21:00+07:00",
-"found": "2026-11-18T13:28:20+07:00"
-},
-{
-"id": "0e63ab328566",
-"title": "Hình ảnh ông Lê Thanh Thản hầu tòa vụ bán 519 căn hộ chung cư xây sai phép",
-"link": "https://cafef.vn/hinh-anh-ong-le-thanh-than-hau-toa-vu-ban-519-can-ho-chung-cu-xay-sai-phep-188261118130333528.chn",
-"summary": "Ông Lê Thanh Thản được đưa tới toà bằng ô tô hiệu Lexus, trong khi đó rất đông bị hại là người từng mua nhà của \"đại gia điếu cày\" cũng có mặt theo dõi phiên xử.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1794981745079-17949817463412103778126.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T13:20:00+07:00",
-"found": "2026-11-18T13:28:20+07:00"
-},
-{
-"id": "5962fcbcbe4c",
-"title": "Khu chung cư đầu tiên trong 12 dự án Mường Thanh được Hà Nội duyệt phương án xử lý sai phạm",
-"link": "https://cafef.vn/khu-chung-cu-dau-tien-trong-12-du-an-muong-thanh-duoc-ha-noi-duyet-phuong-an-xu-ly-sai-pham-188261118124955089.chn",
-"summary": "125 căn hộ tại khối đế ba tòa chung cư CT6 Kiến Hưng phải di dời, 10 nhà thấp tầng thuộc diện phá dỡ để hoàn trả đường giao thông, xây trường mầm non. Đây là dự án đầu tiên trong 12 công trình liên quan Tập đoàn Mường Thanh được Hà Nội phê duyệt phương án xử lý cụ thể.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1794980962443-1794980962763342884810.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T13:20:00+07:00",
 "found": "2026-11-18T13:28:20+07:00"
 }
 ]
