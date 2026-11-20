@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T07:41:41+07:00",
-"new": 2,
+"updated": "2026-11-20T07:56:50+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,61 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "5aad92ce0107",
+"title": "Giá lúa gạo hôm nay 20.11: Lúa tươi tăng, giao dịch chưa sôi động đều",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEtKLVhfUUl6YUc3M3JMX01tbE1ia09NakpJSGg3NUlMTk52c3U4QUhyVWFER2wxbWRDOVAxLVFsT2pmQUxGcDJCUml2QzViTkRtSjRYdDBDR3h4a0x2WWV3UzZWSVVaV2VsMk1JaXhoeW5oZ1Vza2hVS2czcDNZc2ZFWng3RVF2NHZWN2l1MmlKX3RVczB0aDE4cUpzRW0wNFE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T07:49:00+07:00",
+"found": "2026-11-20T07:56:50+07:00"
+},
+{
+"id": "6506b7ec7679",
+"title": "Giá vàng giảm thêm 100 USD/oz, SPDR Gold Trust xả mạnh",
+"link": "https://vneconomy.vn/gia-vang-giam-them-100-usdoz-spdr-gold-trust-xa-manh.htm",
+"summary": "Giá vàng thế giới tiếp tục lao dốc mạnh trong phiên giao dịch ngày thứ năm (19/11), khiến mốc 3.600 USD/oz cũng đang trở nên mong manh, dưới áp lực từ mối lo lãi suất cao hơn lâu hơn và xu hướng tăng của đồng USD...",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/20/bd548ae95a774e4cac42adee61baa92e-137257.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-20T07:48:59+07:00",
+"found": "2026-11-20T07:56:50+07:00"
+},
+{
+"id": "ac47315e0fa2",
+"title": "Bà Robredo phủ nhận việc rời bỏ Giáo Hội Công Giáo sau khi bức ảnh bà mặc lễ phục Hội Tam điểm gây xôn xao dư luận.",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OVmhqWmtvZEtObTFXcFBDZHZxQVJUbWFKN01lSWQwdERBWU9hcFM3b1hnaGxQNE50MF9JaE1aUlVGWDE2cVhqM1pHdEZ0SU9rbnJHU1ZtX2pjOXBW?oc=5",
+"summary": "Nguồn: :: VietCatholic News ::",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T07:42:20+07:00",
+"found": "2026-11-20T07:56:50+07:00"
+},
+{
+"id": "7be975d853b9",
+"title": "Cháy xuyên đêm tại nhà máy giấy lớn nhất Cần Thơ, lửa bao trùm 20.000m²",
+"link": "https://vietnamnet.vn/chay-lon-nha-may-giay-lee-man-o-can-tho-2576964.html",
+"summary": "Cháy lớn tại kho nguyên liệu nhà máy giấy Lee &amp; Man ở Cần Thơ, hơn 300 người cùng hàng chục xe chữa cháy được huy động dập lửa xuyên đêm.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/chay-xuyen-dem-tai-nha-may-giay-lon-nhat-can-tho-lua-bao-trum-20-220.jpg?width=0&s=l5vmVKqJhcY82V3MkKefMA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T07:42:10+07:00",
+"found": "2026-11-20T07:56:50+07:00"
+},
+{
+"id": "ff48b3c4e1e7",
+"title": "Anthropic chính thức lên sàn chứng khoán Mỹ",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVS1sZjlGeDlJRU90THNqaFpyUndCcC04amN0Szl5M0g1aGZ6dC14cXpTdDNXdmdVckNWNDVya3JZNVd1M2JyZm5EQVRpR0N3LXRjUFRDRE5DLTh4c1lEQ08tV0pvRnBTNzl4a3c3Z0VHSEdCNDQtejhobFBmektER1Nn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T07:42:00+07:00",
+"found": "2026-11-20T07:56:50+07:00"
+},
+{
 "id": "742ab74d1f02",
 "title": "Trúng suất mua nhà ở xã hội 1,1 tỷ đồng, cặp vợ chồng rơi cảnh 'dở khóc dở cười'",
 "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2c3TEN3eEVKREZDWWRBNXI2d3JDZEVCTzQ0WlFPQU5SUVBQNm5jUVpnOFJhZ0xYUS10UmktLTZCYS0yUFhKWUZqMHV4QlNUZFFHdnlxc01HLWtsTnVhbzRVbkV6VW5jNE5NVW1BZDNyUHY3eS10cmpQZlF6RDZfZ21JR0NyOEs3cGVJQmdnOXlabWNqejhSSDY1ams2ZllyWm5oR2xUS0FhdElzVHZZ?oc=5",
@@ -224,6 +279,17 @@
 "found": "2026-11-20T07:41:21+07:00"
 },
 {
+"id": "20da501494e2",
+"title": "Giá dầu Brent hướng tới tuần giảm thứ ba liên tiếp với nguồn cung dồi dào",
+"link": "https://dantri.com.vn/kinh-doanh/gia-dau-brent-huong-toi-tuan-giam-thu-ba-lien-tiep-voi-nguon-cung-doi-dao-20261120072018159.htm",
+"summary": "(Dân trí) - Dầu Brent, loại dầu chuẩn toàn cầu, đã giảm giá khoảng một phần năm trong tháng này, khi nguồn cung từ Trung Đông phục hồi.",
+"image": "https://cdnphoto.dantri.com.vn/sQlkrjEu-00donXbUD-HaOgb9UA=/2025/06/23/dau-mo-edited-1750655143154.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-20T07:35:45+07:00",
+"found": "2026-11-20T07:56:50+07:00"
+},
+{
 "id": "77c749a64934",
 "title": "J.P. Morgan dự báo Fed sẽ tăng lãi suất trong ba cuộc họp tới",
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnNtdFgzRDhVb1BXZEZXOXhhc0JFV21LZ1A5Z3RwTHY4SllYcnZyQzA5Wk82NEcwX2NNYVI1SFdHOXF1QVVUcjhhZVZtb3RRd2NVcEdLdDEzM0M0UU5vbHNYN0lldnhwQUc4Unp5eEtybnlmWnBYMExNMVkwYS1kT1dMNWY3TFN1eDFJRDdfMHZzbTNWaEFaXw?oc=5",
@@ -233,6 +299,17 @@
 "cat": "tc",
 "published": "2026-11-20T07:35:00+07:00",
 "found": "2026-11-20T07:41:21+07:00"
+},
+{
+"id": "844321d5b993",
+"title": "Phê duyệt đề án sắp xếp dân cư vùng miền núi, thiên tai",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLU9teVFmbzRnX3RUMkJST0ZkQ1ZnZGFDdnh1c3JTMFpuOEZ5RFdET09tYVNpcDdhdk1RanZnNlRHdXg0bWFYS1JvcWNiZnpjZkFxODlQbUloZ2JyNERMb0VlTy16SG8tamxRQXJ5Y0ZaUFhvSzJFTW5fajFyM1FLdXppMGhGYnloUHFndWpKblM?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T07:35:00+07:00",
+"found": "2026-11-20T07:56:50+07:00"
 },
 {
 "id": "8f10d4942d94",
@@ -255,6 +332,42 @@
 "cat": "bds",
 "published": "2026-11-20T07:30:00+07:00",
 "found": "2026-11-20T07:41:21+07:00"
+},
+{
+"id": "1596a61eda80",
+"title": "thuế",
+"link": "https://vietnamnet.vn/dong-ma-so-thue-ho-kinh-doanh-ke-khai-co-the-giam-85-tien-phat-2576571.html",
+"summary": "Gỡ vướng đóng mã số thuế: Hộ kinh doanh kê khai có thể giảm 85% tiền phạt (Báo VietNamNet)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNe6X-73HFezHYN_HbJRa81pW3Vc51OG_fvVpDKooWmsc5vWXbCI7qEFW-tqI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T07:30:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-20T07:56:50+07:00"
+},
+{
+"id": "ac11a41e5485",
+"title": "cầu lạc bộ bóng đá real madrid",
+"link": "https://www.24h.com.vn/bong-da/jj-gabriel-toi-tham-san-tap-real-madrid-chuan-bi-gia-nhap-ken-ken-trang-c48a1812471.html",
+"summary": "JJ Gabriel tới thăm sân tập Real Madrid, chuẩn bị gia nhập \"Kền kền trắng\" (Tin tức 24h)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmq6lmtFiW5LFKBrFKz2iXa8lN4HXFE77h-rGyCtCQ6YTuRZU7OTtVVW56Bm8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T07:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T07:56:50+07:00"
+},
+{
+"id": "ba3c12835ef1",
+"title": "california fitness & yoga",
+"link": "https://znews.vn/thong-bao-moi-cua-chuoi-gym-california-gay-that-vong-post1697539.html",
+"summary": "Thông báo mới của chuỗi gym California gây thất vọng (Znews)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA0nXwHFN2dr4j1fXo2u7aaQVqIh8ylx_MYaKE4hZWktt-VMVF96BOpp4g-fg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T07:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T07:56:50+07:00"
 },
 {
 "id": "0d0c87233a73",
@@ -579,7 +692,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T06:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-20T06:55:32+07:00"
 },
 {
@@ -591,7 +704,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T06:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-20T06:55:32+07:00"
 },
 {
@@ -603,7 +716,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T06:40:00+07:00",
-"traffic": "5000+",
+"traffic": "10000+",
 "found": "2026-11-20T07:26:10+07:00"
 },
 {
@@ -27865,118 +27978,6 @@
 "cat": "tc",
 "published": "2026-11-17T18:24:00+07:00",
 "found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "cb2814c1f0ea",
-"title": "Tạm giữ nghi phạm sát hại nữ chủ quán cà phê",
-"link": "https://dantri.com.vn/phap-luat/tam-giu-nghi-pham-sat-hai-nu-chu-quan-ca-phe-20261117165824852.htm",
-"summary": "(Dân trí) - Đặng Chấn Huy thừa nhận sát hại nữ chủ quán cà phê để cướp tài sản. Qua khám nghiệm hiện trường và tử thi, cơ quan chức năng xác định trên người nạn nhân có nhiều vết thương.",
-"image": "https://cdnphoto.dantri.com.vn/Gmo5tLT14HvZsnHKntLoh0RHz8Y=/2026/11/17/khoi-to-edited-1794909172798.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-17T18:23:44+07:00",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "e0dc61ac765f",
-"title": "Vụ nữ chủ quán cà phê tử vong với 31 vết đâm: Tạm giữ nghi phạm 24 tuổi",
-"link": "https://kenh14.vn/vu-nu-chu-quan-ca-phe-tu-vong-voi-31-vet-dam-tam-giu-nghi-pham-24-tuoi-215261117170300534.chn",
-"summary": "Qua khám nghiệm tử thi, công an phát hiện trên người nữ chủ quán cà phê có 31 vết đâm và bị mất nhiều tài sản. Công an tỉnh Vĩnh Long xác định Đặng Chấn Huy là nghi phạm đã ra tay sát hại nữ chủ quán để cướp tài sản.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/17/avatar1794909753868-17949097555031470053274.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-17T18:22:00+07:00",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "235c14c0944f",
-"title": "Công an sẽ điều tra khi phát hiện các giao dịch rút tiền như sau",
-"link": "https://cafef.vn/cong-an-se-dieu-tra-khi-phat-hien-cac-giao-dich-rut-tien-nhu-sau-188261117101702594.chn",
-"summary": "Cơ quan công an khuyến cáo người dân cảnh giác dịch vụ “rút tiền”, “đáo hạn thẻ tín dụng” qua mã VietQR.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1794885400053-1794885403390840769312.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-17T18:22:00+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "4818417b14f2",
-"title": "TP.HCM lấy sự thụ hưởng của người dân làm thước đo công tác 'dân vận khéo'",
-"link": "https://thanhnien.vn/tphcm-lay-su-thu-huong-cua-nguoi-dan-lam-thuoc-do-cong-tac-dan-van-kheo-185261117180912767.htm",
-"summary": "TP.HCM yêu cầu phong trào 'Dân vận khéo' hướng về cơ sở, lấy sự thụ hưởng, lợi ích thiết thực và sự đồng thuận của người dân làm thước đo.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/179491122847832747158245787862703274715824578786270f7a947b924fdb75a2c72469cd8809866-17949135668982088198629-27-0-1627-2560-crop-1794913867938918660407.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T18:22:00+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "4bcd9a6b81fa",
-"title": "lễ cưới",
-"link": "https://vnexpress.net/dam-cuoi-7-ngay-5-000-khach-cua-chang-trai-an-do-lay-vo-viet-5142446.html",
-"summary": "Đám cưới 7 ngày, 5.000 khách của chàng trai Ấn Độ lấy vợ Việt (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9QrIlCkoEHN8tsEVB-1QghqRmUSi9wvNtTNjRNILMeB2ASOlAy_rvOwjVOw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-17T18:20:00+07:00",
-"traffic": "500+",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "e05a922d1ff8",
-"title": "Đồng Nai: Kiểm tra tình hình đất đai, xây dựng quanh hồ Sông Ray",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmlGWEdkbFlyeFRqX2J5ZHB5Q0J2Nlk5eHNaNUxuOHlFZVhTdmtTdXpBcUFNOUZsNkZ1aW5HZ192YVBhWW9hOEFjN2NKS1lIVnVNYUdWNVlEUm9FTzYtbk1waWN6RDRwcmllTzJVZlg0cWpEZXhVanNBYXp4WWlvRDB6Tko2WW51SFU3SHBSTmpKZEU3MTIzZlVTOA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T18:20:00+07:00",
-"found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "089a135fc8c0",
-"title": "Nvidia lập cơ quan kiểm soát xuất khẩu chip",
-"link": "https://vnexpress.net/nvidia-lap-co-quan-kiem-soat-xuat-khau-chip-5145813.html",
-"summary": "Ngày 17/11, Nvidia thông báo thành lập một ủy ban mới thuộc HĐQT để giám sát các chính sách an ninh quốc gia, kiểm soát xuất khẩu.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/17/images-1794913824-6885-1794913861.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=71rLbR_vQH35T9a8_Gc9Kw",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-17T18:18:19+07:00",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "4a9e8c0e449b",
-"title": "OCB dành 2.000 tỷ đồng ưu đãi vốn vay sản xuất kinh doanh cuối năm",
-"link": "https://cafef.vn/ocb-danh-2000-ty-dong-uu-dai-von-vay-san-xuat-kinh-doanh-cuoi-nam-188261117181724856.chn",
-"summary": "Ưu đãi giảm đến 1,5%/năm, tỷ lệ cho vay lên đến 80% giá trị tài sản bảo đảm cùng phương thức trả nợ linh hoạt, gói tín dụng 2.000 tỷ đồng của ngân hàng Phương Đông (OCB) mang đến giải pháp vốn thiết thực, giúp khách hàng cá nhân chủ động dòng tiền và nắm bắt cơ hội kinh doanh…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/o1-1794914028792303491847-1794914162982-17949141632811111830381-0-31-541-897-crop-1794914202630963411850.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-17T18:17:00+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "7d11104e179a",
-"title": "AI trong báo chí: Bài viết hoàn chỉnh nhưng không còn nhận ra bản sắc phóng viên",
-"link": "https://thanhnien.vn/ai-trong-bao-chi-bai-viet-hoan-chinh-nhung-khong-con-nhan-ra-ban-sac-phong-vien-185261117171707527.htm",
-"summary": "Trước đây, biên tập viên đọc tin bài có thể nhớ lỗi của từng phóng viên. Còn giờ đây với sự bùng nổ của AI, biên tập viên nhận được bài không thấy một lỗi nhưng không tìm được bản sắc của phóng viên.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/tnw-z84987684709522a9e5e33510c501d783ad0da36ac8c1e-17949084933481180603739-106-0-1706-2560-crop-17949099183571829309190.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T18:16:00+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "6f824985039c",
-"title": "10/10 âm lịch là ngày gì",
-"link": "https://eva.vn/tin-tuc/khung-gio-dep-thap-huong-ngay-mai-tet-trung-thap-mung-10-thang-10-am-lich-4-viec-nen-lam-de-don-phuoc-loc-c73a689320.html",
-"summary": "Khung giờ đẹp thắp hương ngày mai - Tết Trùng Thập mùng 10 tháng 10 âm lịch, 4 việc nên làm để đón phước lộc (Eva.vn)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IY1pdTxybhLA6RS-HgapnWRVaVVs1_FtQt1K6MzBMKjckDY7OtcUTfw2npo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-17T18:10:00+07:00",
-"traffic": "100+",
-"found": "2026-11-17T19:15:38+07:00"
 }
 ]
 }
