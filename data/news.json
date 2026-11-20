@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T18:03:59+07:00",
-"new": 5,
+"updated": "2026-11-20T18:19:12+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 28
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,72 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "5b2ca96a4799",
+"title": "Chính phủ không đồng ý nâng ngưỡng doanh thu miễn thuế lên 2 tỉ",
+"link": "https://thanhnien.vn/chinh-phu-khong-dong-y-nang-nguong-doanh-thu-mien-thue-len-2-ti-185261120171742012.htm",
+"summary": "Không đồng ý nâng ngưỡng doanh thu miễn thuế với hộ kinh doanh lên 2 tỉ đồng/năm, Chính phủ trình Quốc hội duy trì ngưỡng 1 tỉ đồng/năm hiện hành; đồng thời tập trung đơn giản hóa thủ tục, hướng dẫn tuân thủ.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-tien-anh-ngoc-thang-1729130572846256280485-64-0-976-1459-crop-1795170104891646335073-17951701143621334170864.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T18:18:00+07:00",
+"found": "2026-11-20T18:19:12+07:00"
+},
+{
+"id": "fe0a0d07fe8f",
+"title": "Từ 1.1.2028, vi phạm dưới 5 triệu được chọn 'lao động công ích' thay phạt tiền",
+"link": "https://thanhnien.vn/tu-112028-vi-pham-duoi-5-trieu-duoc-chon-lao-dong-cong-ich-thay-phat-tien-185261120175156645.htm",
+"summary": "Luật mới bổ sung quy định cá nhân vi phạm hành chính lỗi từ 5 triệu đồng trở xuống có thể được chọn hình thức 'lao động công ích' thay cho phạt tiền.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/2026112016192202491795166423980260319990806707077g3587189976484290001dd2c0ea64f133ccf1f6b55f0edf8abe3-1795171785520684423451-9-0-820-1297-crop-1795171908845949998889.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T18:17:00+07:00",
+"found": "2026-11-20T18:19:12+07:00"
+},
+{
+"id": "7b422e5084ac",
+"title": "DNSE Future Tech Summit 2026: AI mở ra cách tiếp cận mới trong đầu tư chứng khoán",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0JIMXV6YW9PUHpBdlZ2ZVBuRmlwakg4dkdlY3Y5ZWdCaTNFNjZyS3pmUWkxcjRJTEtLLXVrc1VnUWpDUktFTjVITmpTQ3BKQmluSW01ODZiODZvUnFiZjh5UXBZTEtHSmFURFhpM01kcGxORG9QekFnTWxLQXJYSnoySTMwM2ViVWF1b2gxdVpTVlppLWNkSktlaF9iSGFjdktUa2lQX3RYYnhVTllQMUdsOA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T18:12:00+07:00",
+"found": "2026-11-20T18:19:12+07:00"
+},
+{
+"id": "9ffeaaa6cd52",
+"title": "Đề xuất xóa nợ hàng chục nghìn tỷ đồng cho 2,5 triệu người nộp thuế",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkwteVJfcmdnYm12cENnXzVCalh3dkRzOElJSlBNUjJGR0ZWbUR0a0h5SHlNYmlLOXBBUnNoOHloVmV2eUotTS11MHFXc21jUWpteDZQX2hveTJUUnFlRmVtT3BYdkpJUzFlSWY0Z1JzWjNmZXhWazJEZlRtNFhLRVdMbDhqN284SHJnbEF4ZjdNQ3F1SEFETEtaV1NMU214Z3c?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T18:12:00+07:00",
+"found": "2026-11-20T18:19:12+07:00"
+},
+{
+"id": "9eb9f33cc77d",
+"title": "4 ngân hàng có lãi suất cho vay bình quân trên 11%/năm trong tháng 10",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmJXX3FWX1JxcG1lWHd0WjNLMFRqMXI3TGdaTkZuVmtBZlBQQUZPNi13b1lEQjI0dlItVHkyUU1oejVvOU11NmtsM3RxUXZfLWdFczFvWW1uNTNLOVd0OGVYTUplRlV2VnB6UDFCd015bE9Rb2tEcnBXNG9IZHZnczFSMS13d3N1T1NwQkF5NzdUN3F1ZHVsUnpITnRtUGdSOU1v?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T18:11:00+07:00",
+"found": "2026-11-20T18:19:12+07:00"
+},
+{
+"id": "d21a43f6683a",
+"title": "Lệnh khám xét, bắt tạm giam nguyên quản lý Cửa hàng Bách Hóa Xanh sinh năm 1986",
+"link": "https://kenh14.vn/lenh-kham-xet-bat-tam-giam-nguyen-quan-ly-cua-hang-bach-hoa-xanh-sinh-nam-1986-215261120151407806.chn",
+"summary": "Nguyên quản lý cửa hàng Bách Hóa Xanh “Tham ô tài sản” của công ty đã bị khởi tố, bắt tạm giam.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795162243130-17951622437491047615199-64-0-423-575-crop-17951622687131563697630.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T18:04:00+07:00",
+"found": "2026-11-20T18:19:12+07:00"
+},
+{
 "id": "41282ce0ed8c",
 "title": "Thần tốc thi công đưa hai cầu vượt trên đường Vành đai 1 về đích",
 "link": "https://cafef.vn/than-toc-thi-cong-dua-hai-cau-vuot-tren-duong-vanh-dai-1-ve-dich-188261120155639773.chn",
@@ -244,6 +310,28 @@
 "cat": "xh",
 "published": "2026-11-20T17:53:00+07:00",
 "found": "2026-11-20T18:03:59+07:00"
+},
+{
+"id": "539f86d894d3",
+"title": "Bốc hơi 1.000 tỷ USD sau 6 giờ, giá vàng thế giới rơi về đâu?",
+"link": "https://dantri.com.vn/kinh-doanh/boc-hoi-1000-ty-usd-sau-6-gio-gia-vang-the-gioi-roi-ve-dau-20261120163722939.htm",
+"summary": "(Dân trí) - Cú bán tháo ồ ạt khiến 1.000 tỷ USD bốc hơi khỏi thị trường vàng và bạc chỉ sau 6 giờ. Giá vàng xuyên thủng hàng loạt mốc hỗ trợ kỹ thuật và lùi sâu dưới ngưỡng 3.600 USD/ounce.",
+"image": "https://cdnphoto.dantri.com.vn/tGe4VsyNbC4e5aWprgSAXugcTsM=/2026/11/15/gold-bars-amid-a-market-downturn-cropped-1794705103052.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-20T17:50:23+07:00",
+"found": "2026-11-20T18:19:12+07:00"
+},
+{
+"id": "6eb310e69b97",
+"title": "Thuê xe ô tô kinh doanh dịch vụ rồi mang 14 xe đi cầm cố, bị phạt hơn 24 năm tù",
+"link": "https://tuoitre.vn/thue-xe-o-to-kinh-doanh-dich-vu-roi-mang-14-xe-di-cam-co-bi-phat-hon-24-nam-tu-100261120143533642.htm",
+"summary": "Linh lập công ty kinh doanh dịch vụ cho thuê xe ô tô tự lái và tham quan du lịch rồi mang 14 xe ô tô trị giá hơn 6,3 tỉ đi cầm cố, bị tòa phạt 24 năm 6 tháng tù.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/thue-xe-o-to-tu-lai-cam-co-lua-dao-lam-dung-tin-nhiem-1795159797793511026915-0-0-1250-2000-crop-179515996002067249209-139-444-951-1743-crop-1795171832247585901918.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T17:48:00+07:00",
+"found": "2026-11-20T18:19:12+07:00"
 },
 {
 "id": "9207e07dc186",
@@ -443,6 +531,17 @@
 "cat": "xh",
 "published": "2026-11-20T17:24:00+07:00",
 "found": "2026-11-20T17:32:04+07:00"
+},
+{
+"id": "63f3e1a6d348",
+"title": "Bộ trưởng Ngô Văn Tuấn nói về việc gỡ vướng tạm hoãn xuất cảnh do nợ thuế",
+"link": "https://tuoitre.vn/bo-truong-ngo-van-tuan-noi-ve-viec-go-vuong-tam-hoan-xuat-canh-do-no-thue-100261120163240397.htm",
+"summary": "Bộ trưởng Bộ Tài chính Ngô Văn Tuấn cho biết sẽ phối hợp với các bộ, ngành để hướng tới việc bất kỳ công dân nào cũng có thể tự kiểm tra tiền nộp thuế, trạng thái thuế của mình và thực hiện thanh toán ngay tại chỗ trong vòng 24/7.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/20145354748817951613650309069874860937922503g35871899764842900013e33d19c72341f79a9c6a1361aa5c885-1-1795167048430197879828-82-623-829-1818-crop-17951670806801243564347.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-20T17:24:00+07:00",
+"found": "2026-11-20T18:19:12+07:00"
 },
 {
 "id": "a8c06226b517",
@@ -775,6 +874,17 @@
 "cat": "xh",
 "published": "2026-11-20T16:58:00+07:00",
 "found": "2026-11-20T17:16:55+07:00"
+},
+{
+"id": "e3e2595ddf48",
+"title": "Thấy công an, người đàn ông ném ba lô ma túy rồi đu dây bỏ trốn",
+"link": "https://tuoitre.vn/thay-cong-an-nguoi-dan-ong-nem-ba-lo-ma-tuy-roi-du-day-bo-tron-100261120150050367.htm",
+"summary": "Phát hiện công an kiểm tra nơi ở, Đặng Đình Khanh (46 tuổi) ném ba lô chứa ma túy ra trước nhà rồi đu dây sang nhà hàng xóm để bỏ trốn.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/tin-phap-luat-new-full-17951689031401723635970-0-0-1188-1900-crop-17951689338601056247168.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T16:58:00+07:00",
+"found": "2026-11-20T18:19:12+07:00"
 },
 {
 "id": "d0ef4582e4a6",
@@ -4090,17 +4200,6 @@
 "found": "2026-11-20T11:15:09+07:00"
 },
 {
-"id": "742ab74d1f02",
-"title": "Trúng suất mua nhà ở xã hội 1,1 tỷ đồng, cặp vợ chồng rơi cảnh 'dở khóc dở cười'",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2c3TEN3eEVKREZDWWRBNXI2d3JDZEVCTzQ0WlFPQU5SUVBQNm5jUVpnOFJhZ0xYUS10UmktLTZCYS0yUFhKWUZqMHV4QlNUZFFHdnlxc01HLWtsTnVhbzRVbkV6VW5jNE5NVW1BZDNyUHY3eS10cmpQZlF6RDZfZ21JR0NyOEs3cGVJQmdnOXlabWNqejhSSDY1ams2ZllyWm5oR2xUS0FhdElzVHZZ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T11:03:04+07:00",
-"found": "2026-11-20T07:41:21+07:00"
-},
-{
 "id": "0a6f473a66b3",
 "title": "Nhận định chứng khoán 20/11: VN-Index có thể kiểm định mốc 1.680 điểm",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSlFOcFdLYVd6WU1ralhiT1l0UGRRR19USWZnM2lBdTVIc25OdkMxWHViVXVxVDU5ZmlpSDR4aEJhcDZmNUZtTTVjZFJYVXhoLXNONDI5TmpoUVJCbFZ4LXY2eFB6MmNaOXd5bGZlSGpUcUR3U09la3I3Y09uSmwtUGtZNU1VOUhpc0R4aFRfNFQtdWVfcERodkJqS1RPOWdXRy13?oc=5",
@@ -5447,17 +5546,6 @@
 "cat": "xh",
 "published": "2026-11-20T09:48:58+07:00",
 "found": "2026-11-20T09:55:38+07:00"
-},
-{
-"id": "6a7a10ca0215",
-"title": "Bắt đối tượng lừa đảo bằng thủ đoạn góp vốn mua đất",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXdCdHlEZUJtT2VOeG5taEw4c19NTTZZQlowaXZjc1A4UFl2cDl3dVpsdWxHX09HeDVRRFlDRGthb3hOZlJHYmxmY0RqUmY4MHM3a3NnQ0l6dFRKTVBuZ1pXQ1ZxNUV2akxKZEc5ZW5aQnZBWGpCRzZlSXNLallOT2VwMzFyZzc1bGtZTw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T09:48:38+07:00",
-"found": "2026-11-20T12:13:43+07:00"
 },
 {
 "id": "aa78fa88ef78",
@@ -6944,6 +7032,17 @@
 "cat": "xh",
 "published": "2026-11-20T07:39:00+07:00",
 "found": "2026-11-20T09:23:42+07:00"
+},
+{
+"id": "742ab74d1f02",
+"title": "Trúng suất mua nhà ở xã hội 1,1 tỷ đồng, cặp vợ chồng rơi cảnh 'dở khóc dở cười'",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2c3TEN3eEVKREZDWWRBNXI2d3JDZEVCTzQ0WlFPQU5SUVBQNm5jUVpnOFJhZ0xYUS10UmktLTZCYS0yUFhKWUZqMHV4QlNUZFFHdnlxc01HLWtsTnVhbzRVbkV6VW5jNE5NVW1BZDNyUHY3eS10cmpQZlF6RDZfZ21JR0NyOEs3cGVJQmdnOXlabWNqejhSSDY1ams2ZllyWm5oR2xUS0FhdElzVHZZ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T07:36:00+07:00",
+"found": "2026-11-20T07:41:21+07:00"
 },
 {
 "id": "20da501494e2",
@@ -8743,6 +8842,17 @@
 "cat": "xh",
 "published": "2026-11-19T22:01:00+07:00",
 "found": "2026-11-19T22:15:02+07:00"
+},
+{
+"id": "6a7a10ca0215",
+"title": "Bắt đối tượng lừa đảo bằng thủ đoạn góp vốn mua đất",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXdCdHlEZUJtT2VOeG5taEw4c19NTTZZQlowaXZjc1A4UFl2cDl3dVpsdWxHX09HeDVRRFlDRGthb3hOZlJHYmxmY0RqUmY4MHM3a3NnQ0l6dFRKTVBuZ1pXQ1ZxNUV2akxKZEc5ZW5aQnZBWGpCRzZlSXNLallOT2VwMzFyZzc1bGtZTw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T22:00:00+07:00",
+"found": "2026-11-20T12:13:43+07:00"
 },
 {
 "id": "2fd2a6378c79",
@@ -27829,116 +27939,6 @@
 "cat": "tc",
 "published": "2026-11-18T11:23:00+07:00",
 "found": "2026-11-18T13:28:20+07:00"
-},
-{
-"id": "fee6f25948ef",
-"title": "Giá vàng trong nước giảm chậm hơn thế giới, neo quanh 137 triệu đồng",
-"link": "https://vnexpress.net/gia-vang-trong-nuoc-giam-cham-hon-the-gioi-neo-quanh-137-trieu-dong-5146017.html",
-"summary": "Giá vàng thế giới lao dốc về thấp nhất một năm, trong nước sáng nay chỉ giảm nửa triệu đồng một lượng, xuống sát 137 triệu đồng.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/18/wm1-wm1-233a0879-1794973636-2249-1794973697.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YAS7TXLFp7ZRIetdIi2sRA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-18T11:22:16+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "a4a599182f12",
-"title": "Tuyên dương 30 nhà giáo trẻ tiêu biểu năm 2026",
-"link": "https://thanhnien.vn/tuyen-duong-30-nha-giao-tre-tieu-bieu-nam-2026-185261118110854224.htm",
-"summary": "Trong 30 nhà giáo trẻ tiêu biểu được Thành đoàn Hà Nội tuyên dương, có 2 nhà giáo bậc mầm non, 5 nhà giáo bậc tiểu học, 8 nhà giáo bậc THCS, 4 nhà giáo bậc THPT và 11 giảng viên đại học.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/edit-anh2-1794974583848951874059-0-212-1299-2290-crop-1794974804953652804264-14-23-1250-2000-crop-17949756469741882520926.jpeg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-18T11:21:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "de5e384ac220",
-"title": "Tài xế tử vong bất thường khi ô tô đang chờ đèn đỏ ở TPHCM",
-"link": "https://vietnamnet.vn/tai-xe-tu-vong-bat-thuong-khi-o-to-dang-cho-den-do-o-tphcm-2576251.html",
-"summary": "Trong lúc dừng chờ đèn đỏ ở cửa ngõ TPHCM, nam tài xế 44 tuổi bất ngờ co giật và tử vong trong ô tô.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/tai-xe-tu-vong-bat-thuong-khi-o-to-dang-cho-den-do-o-tphcm-1053.jpg?width=0&s=iFKmkpzAzZY84YWu5-Wo9Q",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T11:20:25+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "8d0d3174bdc8",
-"title": "Nữ giám đốc hãng phim tư nhân ở Hà Nội bị cáo buộc lừa đảo, chiếm đoạt tiền tỷ",
-"link": "https://vietnamnet.vn/nu-giam-doc-hang-phim-tu-nhan-o-ha-noi-bi-cao-buoc-lua-dao-chiem-doat-tien-ty-2566574.html",
-"summary": "Nữ giám đốc hãng phim tư nhân ở Hà Nội bị cáo buộc đưa thông tin gian dối về việc quen biết nhiều lãnh đạo ngành tư pháp để nhận tiền &quot;chạy án&quot; cho một phụ nữ, chiếm đoạt tiền tỷ.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/20/nu-giam-doc-hang-phim-tu-nhan-o-ha-noi-bi-cao-buoc-lua-dao-chiem-doat-tien-ty-790.png?width=0&s=lSXmqbWlw4sdtBUC8fD_8Q",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T11:19:21+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "1a1de4d0074c",
-"title": "Điều tra vụ người đàn ông đâm liên tiếp người trong ô tô giữa phố Hà Nội",
-"link": "https://vietnamnet.vn/dieu-tra-vu-nguoi-dan-ong-dam-lien-tiep-nguoi-trong-o-to-giua-pho-ha-noi-2566794.html",
-"summary": "Đoạn clip lan truyền trên mạng xã hội ghi lại cảnh một người đàn ông dùng vật giống dao đâm liên tiếp vào người ngồi trong ô tô tại phố Bắc Cầu, Hà Nội. Công an đang xác minh, làm rõ vụ việc.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/20/dieu-tra-vu-nguoi-dan-ong-dam-lien-tiep-nguoi-trong-o-to-giua-pho-ha-noi-1988.png?width=0&s=4S744zp5guw-nCAiqQHetA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T11:19:03+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "41a678164b9c",
-"title": "Dự kiến lùi trách nhiệm tái chế phương tiện giao thông đến năm 2030",
-"link": "https://vnexpress.net/du-kien-lui-trach-nhiem-tai-che-phuong-tien-giao-thong-den-nam-2030-5146011.html",
-"summary": "Dự thảo Luật Bảo vệ môi trường sửa đổi đề xuất lùi thời hạn tái chế phương tiện giao thông đến năm 2030, bỏ hình thức đóng góp tài chính và mở rộng các cơ chế thu hồi, tái chế sản phẩm, bao bì.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/18/2aobordpzcncr7gcnj6vfcieb01nrd-2147-1337-1794972298.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=p_zVkqQbHI00K5E9y0K1FQ",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-18T11:19:03+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "9c62bfb01221",
-"title": "TPHCM công bố, triển lãm tại Thủ Thiêm đê ngươi dân tra cưu quy hoạch tổng thể tầm nhìn 100 năm",
-"link": "https://cafef.vn/tphcm-cong-bo-trien-lam-tai-thu-thiem-de-nguoi-dan-tra-cuu-quy-hoach-tong-the-tam-nhin-100-nam-188261118101937709.chn",
-"summary": "Hội nghị công bố quy hoạch tổng thể TPHCM thời kỳ 2025-2050, tầm nhìn 100 năm dự kiến diễn ra lúc 8h ngày 23/11 tại Thủ Thiêm. Sau hội nghị, thành phố tổ chức triển lãm trong một tháng để người dân tham quan, tra cứu bản đồ số.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1794971948883-1794971949078114546761.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T11:19:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "7ca1725e31ee",
-"title": "Nvidia lãi hơn 65 tỷ USD trong quý cuối cùng CEO Jensen Huang tại vị",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVlpqZEJlcjBJc1Z4VTI4alR5MG1nOHlwRkVGSGNuZFVoRXVUTjQ0SzY4bXJhS2V1Q2V3Yi1fOW9CYWxINUJoY1dpWWM4aDdUOEN0OHQ0N3dOaVRsRlFMaEhGeDJwV2VqM0dPaWk5VjN5cmZkVTN4VTRuby02VzJkeW9Fa1lGNmhEZW5SeFBQWnVMWmU2Y0xzamc5Sy1HNjdQUEx3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T11:18:31+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "f05d78cbb7db",
-"title": "Danh sách hàng trăm ô tô bị phạt nguội do chạy quá tốc độ ở An Giang",
-"link": "https://vietnamnet.vn/danh-sach-hang-tram-o-to-bi-phat-nguoi-do-chay-qua-toc-do-o-an-giang-2566928.html",
-"summary": "Nửa đầu tháng 10, có gần 1.000 phương tiện qua địa bàn tỉnh An Giang bị phạt nguội, trong đó có hơn 200 ô tô, đa số vi phạm chạy quá tốc độ.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/21/danh-sach-hang-tram-o-to-bi-phat-nguoi-do-chay-qua-toc-do-o-an-giang-955.png?width=0&s=LgQmzeP7yYdEu3Znf4DdRw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T11:18:03+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "9ff3bc542148",
-"title": "Hà Nội: 4 người dân thoát nạn trong vụ cháy căn hộ chung cư Mandarin",
-"link": "https://cafef.vn/ha-noi-4-nguoi-dan-thoat-nan-trong-vu-chay-can-ho-chung-cu-mandarin-188261118101838596.chn",
-"summary": "4 người dân được lực lượng chức năng hướng dẫn và tự thoát ra ngoài an toàn khi xảy ra vụ cháy tại căn hộ chung cư Mandarin, phường Yên Hòa, Hà Nội.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1794971881398-1794971882279840181283.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T11:18:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
 }
 ]
 }
