@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T15:49:22+07:00",
-"new": 10,
+"updated": "2026-11-20T16:04:37+07:00",
+"new": 14,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 28
+"count": 29
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,94 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "81045e3872ee",
+"title": "Thực nghiệm hiện trường vụ giết người do mâu thuẫn quan hệ đồng giới tại Phú Quốc",
+"link": "https://thanhnien.vn/thuc-nghiem-hien-truong-vu-giet-nguoi-do-mau-thuan-quan-he-dong-gioi-tai-phu-quoc-185261120135738429.htm",
+"summary": "Xảy ra mâu thuẫn sau khi nhậu và quan hệ đồng giới, Trần Nhật Trường dùng hung khí giết chết nạn nhân rồi bỏ trốn. Công an tỉnh An Giang tổ chức thực nghiệm hiện trường để điều tra làm rõ vụ án.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/truong-4-17951567032011546473818-50-0-800-1200-crop-17951574102781187954822.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T16:04:00+07:00",
+"found": "2026-11-20T16:04:37+07:00"
+},
+{
+"id": "c597e67a079b",
+"title": "VRB giảm 1% lãi suất vay kinh doanh, hỗ trợ hộ kinh doanh tăng vốn cuối năm",
+"link": "https://vietnamnet.vn/vrb-giam-1-lai-suat-vay-kinh-doanh-ho-tro-ho-kinh-doanh-tang-von-cuoi-nam-2577108.html",
+"summary": "Khách hàng lần đầu vay vốn sản xuất, kinh doanh tại Ngân hàng Liên doanh Việt - Nga (VRB) được hưởng lãi suất từ 7,38%/năm, thời hạn vay tối đa 12 tháng, góp phần giảm áp lực chi phí vốn dịp cuối năm.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/vrb-giam-1-lai-suat-vay-kinh-doanh-ho-tro-ho-kinh-doanh-tang-von-cuoi-nam-1569.png?width=0&s=FtezC_B6KD1TZnmJOIfq7w",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T16:00:00+07:00",
+"found": "2026-11-20T16:04:37+07:00"
+},
+{
+"id": "9bd012a49f30",
+"title": "Kiến nghị đưa nghề quản lý vận hành nhà chung cư vào nhóm đặc thù",
+"link": "https://thanhnien.vn/kien-nghi-dua-nghe-quan-ly-van-hanh-nha-chung-cu-vao-nhom-dac-thu-18526112015423441.htm",
+"summary": "Hiệp hội Quản lý vận hành nhà chung cư TP.HCM (HCMO) đã hai lần gửi đến Bộ Tài Chính, Cục Thuế, Thuế TP.HCM kiến nghị bổ sung ngành nghề quản lý vận hành nhà chung cư vào nhóm đặc thù về thời điểm lập hóa đơn điện tử theo Nghị định số 254/2026.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/img-5216-1795163810648895765367-0-0-1250-2000-crop-1795163816624480387078.jpg",
+"source": "Thanh Niên",
+"cat": "bds",
+"published": "2026-11-20T15:55:00+07:00",
+"found": "2026-11-20T16:04:37+07:00"
+},
+{
+"id": "6df6135caf87",
+"title": "Khi AI tham gia lựa chọn, con người tạo giá trị gì cho thương hiệu?",
+"link": "https://thanhnien.vn/khi-ai-tham-gia-lua-chon-con-nguoi-tao-gia-tri-gi-cho-thuong-hieu-185261120154016518.htm",
+"summary": "AI đang thay đổi cách khách hàng tìm kiếm, so sánh và lựa chọn sản phẩm. Những thảo luận tại VSMCamp & CSMOSummit 2026 đặt ra yêu cầu với doanh nghiệp về chất lượng dữ liệu, khả năng xây dựng niềm tin và vai trò của con người trong việc tạo ra trải nghiệm có giá trị.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/anh-3-2-1795163510890688175513-0-0-1600-2560-crop-17951639563031798926014.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-20T15:55:00+07:00",
+"found": "2026-11-20T16:04:37+07:00"
+},
+{
+"id": "172386d3fe45",
+"title": "Lãi 'khủng' gần 18.000 tỉ đồng, xổ số miền Nam xin tăng phát hành vé số tết",
+"link": "https://thanhnien.vn/lai-khung-gan-18000-ti-dong-xo-so-mien-nam-xin-tang-phat-hanh-ve-so-tet-185261120152556106.htm",
+"summary": "Các công ty xổ số miền Nam vừa đề nghị Bộ Tài chính cho phát hành thêm vé số Tết Đinh Mùi 2027 mệnh giá 20.000 đồng, giải đặc biệt 4 tỉ đồng, sau khi ghi nhận lợi nhuận gần 18.000 tỉ đồng sau 9 tháng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-ve-so-anh-dt-1795162353503760971941-141-0-1741-2560-crop-1795163191473978618766.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-20T15:52:00+07:00",
+"found": "2026-11-20T16:04:37+07:00"
+},
+{
+"id": "836ff86a3b6d",
+"title": "Lấy tiền công ty mua nhà sang trị giá 118 tỷ, CEO startup khiến nhân viên bức xúc vì nợ lương",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT1IyZGg5TjYwS1pwWlhNSFJyeWpYNWhVY055bC1TVEYxdDRiZHJaSW9xem5LcGpJMHNDLUJLaU45d2hEUW5JbmNsMkUtTF9DYXYtcjhESHFjdFVSdUtOSnFBZm03YkRFVVJPWFh2TjZzVUFVQkZYZ3RoZ0t0QUdXTzZmNkxpREZ5aklVYXZSUi1ESHNkc3RYWm5tdk1QbEdSN19xTkEyMTF6bllkUHNOM0ppZmQ5MXJhYnNndVNiYWFNclprV0RV?oc=5",
+"summary": "Nguồn: nguoiquansat.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T15:50:01+07:00",
+"found": "2026-11-20T16:04:37+07:00"
+},
+{
+"id": "7357739f50fa",
+"title": "Phiên 20/11: Khối ngoại thẳng tay bán ròng gần 900 tỷ đồng, xả mạnh FPT cùng loạt cổ phiếu ngân hàng hot",
+"link": "https://cafef.vn/phien-20-11-khoi-ngoai-thang-tay-ban-rong-gan-900-ty-dong-xa-manh-fpt-cung-loat-co-phieu-ngan-hang-hot-188261120154440739.chn",
+"summary": "Giao dịch khối ngoại tiếp tục là điểm trừ khi nhà đầu tư nước ngoài bán ròng tổng cộng 895 tỷ đồng trên cả 3 sàn.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/images-28-1795164231583383885823-0-0-402-643-crop-17951642351251867301654.jpeg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-20T15:45:00+07:00",
+"found": "2026-11-20T16:04:37+07:00"
+},
+{
+"id": "f60f944e37be",
+"title": "Quá khứ đáng sợ của kẻ giang hồ cướp ngân hàng ở Gia Lai",
+"link": "https://kenh14.vn/qua-khu-dang-so-cua-ke-giang-ho-cuop-ngan-hang-o-gia-lai-215261120145441127.chn",
+"summary": "Phạm Anh Tài (tức Tài \"Đen\") và 13 người bị đề nghị truy tố về tội: giết người, cướp, cưỡng đoạt tài sản, tàng trữ và sử dụng trái phép vũ khí quân dụng... Quá trình trốn truy nã từ năm 2018, Tài \"Đen\" được xác định đã cầm đầu, lôi kéo đồng bọn gây ra vụ cướp ngân hàng cùng hàng…",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795161215601-17951612164411251579746.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T15:42:00+07:00",
+"found": "2026-11-20T16:04:37+07:00"
+},
+{
 "id": "2235a8adee0b",
 "title": "Cầu bắt đáy cải thiện, cổ phiếu phục hồi giá tích cực",
 "link": "https://vneconomy.vn/cau-bat-day-cai-thien-co-phieu-phuc-hoi-gia-tich-cuc.htm",
@@ -222,6 +310,17 @@
 "cat": "tc",
 "published": "2026-11-20T15:37:57+07:00",
 "found": "2026-11-20T15:49:22+07:00"
+},
+{
+"id": "a6413a27b9c6",
+"title": "Người phụ nữ thuê 22 xe máy mang đi cầm cố lấy tiền trả nợ",
+"link": "https://dantri.com.vn/phap-luat/nguoi-phu-nu-thue-22-xe-may-mang-di-cam-co-lay-tien-tra-no-20261120142901674.htm",
+"summary": "(Dân trí) - Với thủ đoạn thuê xe mô tô tự lái rồi mang đi cầm cố lấy tiền tiêu xài và trả nợ, Giang Thị Quỳnh Anh đã thuê tổng cộng 22 phương tiện của một cơ sở cho thuê xe trên địa bàn.",
+"image": "https://cdnphoto.dantri.com.vn/8YuJ2gg2bYj9kSMTBAqpQUz0ldE=/2026/11/20/giangthi-quynhanh-luadao-chiemdoat-taisan-edited-1795159335140.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-20T15:37:43+07:00",
+"found": "2026-11-20T16:04:37+07:00"
 },
 {
 "id": "0bea24712856",
@@ -266,6 +365,17 @@
 "cat": "bds",
 "published": "2026-11-20T15:34:00+07:00",
 "found": "2026-11-20T15:49:22+07:00"
+},
+{
+"id": "2cb9d0bcaeda",
+"title": "Cảnh báo mới về mục tiêu Net Zero, doanh nghiệp trước cuộc chơi carbon mới",
+"link": "https://dantri.com.vn/kinh-doanh/canh-bao-moi-ve-muc-tieu-net-zero-doanh-nghiep-truoc-cuoc-choi-carbon-moi-20261119093002432.htm",
+"summary": "(Dân trí) - Tại Hội nghị COP31, mục tiêu Net Zero được cảnh báo là chưa đủ nếu thiếu các giải pháp loại bỏ khí thải. Với cộng đồng doanh nghiệp, đây là lúc bài toán xanh hóa gắn liền với chi phí và sự sống còn.",
+"image": "https://cdnphoto.dantri.com.vn/_shBxKeFHgDvP9Y7v_yzu6OlrcA=/2026/11/19/solar-1795055351537.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-20T15:31:45+07:00",
+"found": "2026-11-20T16:04:37+07:00"
 },
 {
 "id": "4e5cd648e0f7",
@@ -369,6 +479,17 @@
 "found": "2026-11-20T15:18:09+07:00"
 },
 {
+"id": "9de3aaaea0e8",
+"title": "Trao sổ tiết kiệm 1 tỉ đồng cho 'cô giáo nhỏ kiên cường' phải cưa chân vì cứu học trò",
+"link": "https://tuoitre.vn/trao-so-tiet-kiem-1-ti-dong-cho-co-giao-nho-kien-cuong-phai-cua-chan-vi-cuu-hoc-tro-100261120135831543.htm",
+"summary": "2 sổ tiết kiệm tổng trị giá 1 tỉ đồng được Tập đoàn Phenikaa trao tặng cho hai con cô giáo Hoàng Thị Hiền - người bị xe tải cán qua hai chân khi lao ra cứu học trò 2 tuổi, trong dịp Ngày Nhà giáo Việt Nam 20-11.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/base64-1795158109256464212120-172-622-1033-2000-crop-17951622392481783312207.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-20T15:06:00+07:00",
+"found": "2026-11-20T16:04:37+07:00"
+},
+{
 "id": "d4b2557e4d8c",
 "title": "Hình ảnh mái kho nhà máy giấy lớn nhất Cần Thơ đổ sập, robot chữa cháy phun nước dập lửa",
 "link": "https://vietnamnet.vn/chay-nha-may-giay-lon-nhat-can-tho-mai-kho-do-sap-giay-chay-den-2577049.html",
@@ -389,6 +510,17 @@
 "cat": "xh",
 "published": "2026-11-20T15:03:55+07:00",
 "found": "2026-11-20T15:33:19+07:00"
+},
+{
+"id": "9dc267e3f632",
+"title": "Tăng kết nối đường sắt, cửa khẩu, cảng biển với các tỉnh Tây Nam Trung Quốc",
+"link": "https://vnexpress.net/tang-ket-noi-duong-sat-cua-khau-cang-bien-voi-cac-tinh-tay-nam-trung-quoc-5147074.html",
+"summary": "Việt Nam và khu vực Tây Nam Trung Quốc có thể kết nối đường sắt, cửa khẩu với cảng biển Việt Nam để mở rộng giao thương, theo Tổng Bí thư, Chủ tịch nước Tô Lâm.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/wm30-wm30-vnapotaltongbithuchutichn-9612-7525-1795159502.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AsQHCC3yJdB9jBfGv5Eg3Q",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-20T15:03:00+07:00",
+"found": "2026-11-20T16:04:37+07:00"
 },
 {
 "id": "cb4bb6a72a29",
@@ -422,6 +554,17 @@
 "cat": "tc",
 "published": "2026-11-20T15:00:00+07:00",
 "found": "2026-11-20T15:33:19+07:00"
+},
+{
+"id": "981652f818bb",
+"title": "Mời đám cưới, có nhất thiết phải đến tận nơi mới là tôn trọng?",
+"link": "https://tuoitre.vn/moi-dam-cuoi-co-nhat-thiet-phai-den-tan-noi-moi-la-ton-trong-100261117004806379.htm",
+"summary": "Một cuộc gọi, một tin nhắn Zalo: 'Ê, tháng sau tao đám cưới, mày nhớ về chung vui với tao nhé', kèm theo tấm thiệp online có ngày, giờ, địa chỉ rõ ràng. Vậy là đủ rồi.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/tinh-yeu-1744601085725398728812-24-0-656-1011-crop-17950798563191095731873.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-20T15:00:00+07:00",
+"found": "2026-11-20T16:04:37+07:00"
 },
 {
 "id": "34dd650c5fb3",
@@ -5541,6 +5684,17 @@
 "cat": "tc",
 "published": "2026-11-20T07:30:00+07:00",
 "found": "2026-11-20T11:15:09+07:00"
+},
+{
+"id": "cad5a6a7037e",
+"title": "5 nhân sự Techcombank về làm sếp Eximbank",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oOEVNNkRvSTJFY1dWUTd4SnE2VFNzeWpWSUxpLXFfWm1XTHptWG01eWk3clBoaWVvak5DSUdEWms5d1dIR21EUEl5SFJOcHBlV1FoUjdiclA3emotY2p0WWNraFpmcTh0bEZDYXBnTU5WMXVnVEI3bldjTGlQQ1U?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T07:29:00+07:00",
+"found": "2026-11-20T16:04:37+07:00"
 },
 {
 "id": "0d0c87233a73",
@@ -27780,160 +27934,6 @@
 "source": "Tuổi Trẻ",
 "cat": "xh",
 "published": "2026-11-18T10:18:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "40b5e05c96d5",
-"title": "TP. Đồng Nai quyết tâm đạt mục tiêu tăng trưởng kinh tế 11% năm 2026",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWtPaEdpZXB1eTViYkRYRmxoS2N4NHkyd0VYVGhLUUdTMURwcGJkS2N4MXd5VXRrVGw1UXlnczZlUzdUQ2k3dWpRUlNzNXNqY0xXaHhWdW81MmpNTi1XZ3dlaGRqZHM5Y2ZYTUNfUUw4Wk1MWUc2Y1poTk5IZG1MRnctOFc3QTNCMnB4V05kX3hKOEdZdHhTMDloZTY1eVFI?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T10:18:00+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "1f6e2952fdcb",
-"title": "Cha dượng tử vong sau mâu thuẫn với con riêng của vợ ở Cần Thơ",
-"link": "https://vietnamnet.vn/cha-duong-tu-vong-sau-mau-thuan-voi-con-rieng-cua-vo-o-can-tho-2568853.html",
-"summary": "Người đàn ông 63 tuổi ở Cần Thơ tử vong do đứt động mạch cổ sau khi bị con riêng của vợ dùng dao và các vật dụng trong nhà tấn công.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/27/cha-duong-tu-vong-sau-mau-thuan-voi-con-rieng-cua-vo-o-can-tho-867.jpg?width=0&s=9psnnPhcly3FmhQo1QWbGQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:17:31+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "672e9553865f",
-"title": "Bắt tạm giam đối tượng bất ngờ tấn công người đi đường vì nghĩ bị theo dõi",
-"link": "https://vietnamnet.vn/bat-tam-giam-doi-tuong-bat-ngo-tan-cong-nguoi-di-duong-vi-nghi-bi-theo-doi-2568830.html",
-"summary": "Nhậu say, một người đàn ông ở Vĩnh Long nghĩ bản thân bị theo dõi nên tấn công người đi đường gây thương tích.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/27/bat-tam-giam-doi-tuong-bat-ngo-tan-cong-nguoi-di-duong-vi-nghi-bi-theo-doi-802.jpg?width=0&s=XgexhRX7NljIBSAzecdRuQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:17:20+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "bf710d809bc3",
-"title": "Khởi tố giám đốc công ty luật liên quan vụ lừa đảo hơn 5,2 tỷ đồng",
-"link": "https://vietnamnet.vn/khoi-to-giam-doc-cong-ty-luat-lien-quan-vu-lua-dao-5-25-ty-dong-2568817.html",
-"summary": "Công an TP Bắc Ninh đã khởi tố, bắt tạm giam Dương Văn Quang, Giám đốc Công ty luật TNHH An Tâm Phúc, để điều tra về hành vi lừa đảo chiếm đoạt tài sản với số tiền 5,25 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/27/khoi-to-giam-doc-cong-ty-luat-lien-quan-vu-lua-dao-525-ty-dong-680.jpeg?width=0&s=b0On3WdDhP2yRRbu0qxGxQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:17:06+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "3b9ce1bd0d0e",
-"title": "Tra cứu thông tin đăng kiểm phương tiện trên VNeID",
-"link": "https://vietnamnet.vn/cach-tra-cuu-thong-tin-dang-kiem-phuong-tien-tren-vneid-2568792.html",
-"summary": "Ứng dụng VNeID vừa bổ sung tính năng đăng kiểm phương tiện, cho phép người dân tích hợp, tra cứu và theo dõi thông tin đăng kiểm ô tô.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/27/img-7311-446.jpg?width=0&s=HuCXHe59xaQqUjMDaqpC7A",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:16:56+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "7c349f1cbe8b",
-"title": "Vụ khởi tố Bí thư, Chủ tịch xã ở Phú Thọ: Bắt thêm 1 bị can",
-"link": "https://vietnamnet.vn/vu-khoi-to-bi-thu-chu-tich-xa-o-phu-tho-bat-them-1-bi-can-2568784.html",
-"summary": "Mở rộng điều tra vụ án liên quan Bí thư, Chủ tịch xã Hợp Kim, Công an tỉnh Phú Thọ bắt tạm giam Quách Chí Lâm với cáo buộc lợi dụng ảnh hưởng để trục lợi.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/27/vu-khoi-to-bi-thu-chu-tich-xa-o-phu-tho-bat-them-1-bi-can-360.jpg?width=0&s=wgKtrP3oqAYm86gtln_qdA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:16:46+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "c331ef9081ab",
-"title": "Cảnh khiến người đi đường lắc đầu ngán ngẩm trên Quốc lộ 80",
-"link": "https://vietnamnet.vn/quoc-lo-80-qua-an-giang-chi-chit-o-ga-o-voi-2567420.html",
-"summary": "Quốc lộ 80 qua tỉnh An Giang xuống cấp nghiêm trọng với nhiều ổ gà, ổ voi, khiến người dân, tài xế bất an. Chính quyền địa phương kiến nghị sớm sửa chữa, bảo đảm an toàn giao thông.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/24/quoc-lo-80-qua-an-giang-chi-chit-o-ga-o-voi-1462.jpg?width=0&s=5gup61D9EzW23CRSX1JgzQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:16:28+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "dc7eec0ba48b",
-"title": "Dự báo thời tiết 27/10/2026: Không khí lạnh tăng cường, Trung Bộ mưa lớn dồn dập",
-"link": "https://vietnamnet.vn/du-bao-thoi-tiet-27-10-2026-khong-khi-lanh-tang-cuong-trung-bo-mua-lon-don-dap-2566054.html",
-"summary": "Dự báo thời tiết ngày 27/10/2026, không khí lạnh tăng cường khiến miền Bắc có mưa vài nơi, nắng gián đoạn và giảm nhiệt. Trung Bộ mưa lớn dồn dập. Cao nguyên Trung Bộ và Nam Bộ ngày nắng, chiều tối mưa vài nơi.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/26/2026-khong-khi-lanh-tang-cuong-trung-bo-mua-lon-don-dap-3445.jpg?width=0&s=Wk7WnH2-VvOC-29TqMmDLw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:16:16+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "f075581d27b2",
-"title": "Đã bắt giữ hai thanh niên cầm kiếm cố thủ trên mái nhà ở Thanh Hóa",
-"link": "https://vietnamnet.vn/da-bat-giu-hai-thanh-nien-cam-kiem-co-thu-tren-mai-nha-o-thanh-hoa-2568763.html",
-"summary": "Sau gần 9 giờ vây bắt, lực lượng công an đã khống chế, bắt giữ hai thanh niên mang hung khí cố thủ trên mái nhà 2 tầng ở Thanh Hóa.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/26/da-bat-giu-hai-thanh-nien-cam-kiem-co-thu-tren-mai-nha-o-thanh-hoa-3406.jpg?width=0&s=X_ea6bVYx64Zyaq-wNubCQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:16:02+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "369f5bd20b0d",
-"title": "Siêu dự án 64.000 tỷ đồng của công ty con Vinhomes tại thành phố giàu nhất Việt Nam có diễn biến mới",
-"link": "https://cafef.vn/sieu-du-an-64000-ty-dong-cua-cong-ty-con-vinhomes-tai-thanh-pho-giau-nhat-viet-nam-co-dien-bien-moi-188261118101221165.chn",
-"summary": "TP.HCM vừa cho phép công ty con Vinhomes chuyển mục đích sử dụng hơn 191 ha đất nông nghiệp để triển khai khu nhà ở xã hội tại xã Bà Điểm.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/images-17-17949712467001203032084-0-47-414-709-crop-1794971252589938157805.jpeg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T10:16:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "07f56f010b9f",
-"title": "LPBank 3 năm liên tiếp được Visa vinh danh về tăng trưởng thẻ tín dụng",
-"link": "https://vietnamnet.vn/lpbank-3-nam-lien-tiep-duoc-visa-vinh-danh-ve-tang-truong-the-tin-dung-2576221.html",
-"summary": "LPBank tiếp tục được Visa trao giải thưởng về doanh số thanh toán và tăng trưởng vượt trội, ghi dấu năm thứ ba liên tiếp được tổ chức thẻ quốc tế này vinh danh.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/lpbank-3-nam-lien-tiep-duoc-visa-vinh-danh-ve-tang-truong-the-tin-dung-728.png?width=0&s=vgP4yTjIACY0HD_o1zphpg",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-18T10:15:06+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "7279a35711aa",
-"title": "Đồng Tháp thông tin mới về vụ sai phạm tại Petimex",
-"link": "https://vietnamnet.vn/dong-thap-thong-tin-moi-ve-vu-sai-pham-tai-petimex-2568647.html",
-"summary": "UBND tỉnh Đồng Tháp đã chỉ đạo cập nhật, rà soát các nội dung liên quan kết luận thanh tra tại Công ty cổ phần Thương mại Dầu khí Đồng Tháp (Petimex).",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/26/dong-thap-thong-tin-moi-ve-vu-sai-pham-tai-petimex-2526.jpg?width=0&s=0VNNoCxNHUj5xsYvwR4vnA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:15:05+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "c839a537aedc",
-"title": "Tìm thấy người đàn ông dưới vực nhờ dấu vết bên khe suối",
-"link": "https://vietnamnet.vn/tim-thay-nguoi-dan-ong-duoi-vuc-nho-dau-vet-ben-khe-suoi-2568556.html",
-"summary": "Người đàn ông dân tộc Mông bị ngã xuống vực sâu khi đi lấy củi trong rừng ở Tuyên Quang đã được lực lượng chức năng tìm thấy trong tình trạng bất tỉnh, đưa đi cấp cứu trong đêm.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/26/tim-thay-nguoi-dan-ong-duoi-vuc-nho-dau-vet-ben-khe-suoi-1727.jpg?width=0&s=6hMAwSjSdj7m-iEHX8H85w",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:14:38+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "dd19288c0dba",
-"title": "Ra lệnh bắt tạm giam tài xế xe ôm công nghệ Huỳnh Trung Huy SN 2001",
-"link": "https://kenh14.vn/ra-lenh-bat-tam-giam-tai-xe-xe-om-cong-nghe-huynh-trung-huy-sn-2001-215261118102142172.chn",
-"summary": "Đối tượng bị khởi tố về hành vi “Xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác”.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/18/avatar1794972048990-17949720493891057514540.jpeg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-18T10:14:00+07:00",
 "found": "2026-11-18T11:23:38+07:00"
 }
 ]
