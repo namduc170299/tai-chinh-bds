@@ -1,14 +1,13 @@
 {
-"updated": "2026-11-21T02:15:14+07:00",
+"updated": "2026-11-21T02:31:17+07:00",
 "new": 2,
 "sources": [
 {
 "name": "VnExpress",
 "cat": "bds",
 "url": "https://vnexpress.net/rss/bat-dong-san.rss",
-"ok": false,
-"count": 0,
-"error": "TimeoutError: The read operation timed out"
+"ok": true,
+"count": 60
 },
 {
 "name": "VnExpress",
@@ -234,7 +233,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T01:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-21T02:15:14+07:00"
 },
 {
@@ -447,7 +446,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T23:50:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-20T06:40:21+07:00"
 },
 {
@@ -2263,6 +2262,17 @@
 "cat": "xh",
 "published": "2026-11-20T18:18:00+07:00",
 "found": "2026-11-20T18:34:26+07:00"
+},
+{
+"id": "1f2bc06ae4cc",
+"title": "Hoàn thiện thị trường hàng hóa phái sinh, giúp người nông dân chủ động bảo vệ giá trị sản phẩm",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUGxaLXpuNmhIOXU5WnhqSkVDQ21ZMDZJdEtMTE0teUU2dTAtNTAzTjVZNERnb1NPdFpXekkwS3hqTjhhV19IMzE0d3MtWm5vVmI2Mm1MTzgxU1ZvV1Zkd3paTEhWTlRnX1FZNmd6cDBCNlhJbzZlZzBNdnpnaXNfTnNLX09JU0I0Qm82NVZkTUlCZE9qd3pQaU9UY0ptQjhtSEVxZ0NnbXdPeDBMV3MwTEhvV0psNlFXY05BOHZ1ZGpwb1pC?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T18:18:00+07:00",
+"found": "2026-11-21T02:31:17+07:00"
 },
 {
 "id": "fe0a0d07fe8f",
@@ -4133,17 +4143,6 @@
 "found": "2026-11-20T16:04:37+07:00"
 },
 {
-"id": "52b72fafa2c7",
-"title": "Hà Nội yêu cầu làm rõ trách nhiệm chậm trễ các dự án khiến cử tri bức xúc",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxtLUNOVk5GSzBqVGEteEl6UVhpQkV3SXFuSkx0Q2hGemlXRnE2bnFOazV2Zm9CRXNoM3hqbEJad0xnejRhZkNyZl80RUZ3a2FWYVJOdmlRbGdxV1RBSVUyRHl1OFRCVVVOQWtLdWczb1JoWEJzRHdLdklnWnI3ZC1FOERJS1lnVi1VYWJhS21lcUVCUGxXYTBrSFk?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T15:02:29+07:00",
-"found": "2026-11-20T20:03:27+07:00"
-},
-{
 "id": "cb4bb6a72a29",
 "title": "Diễn biến thị trường tài chính - tiền tệ quốc tế sáng 20/11",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXdpZUJhaUVtNUFTUnRsbE5vb1BJLWliY3E4emI5TlJFdW44ZUtGSlIzc25mOGI3NGFzdlJDS1REZTV5d3Z4dXZBb2lIRmRVOEVKb1dYVzlCTm4xd1ZHekZ0cEgwalBMb1A3TTdWcVNkWmkxajJuM3YybzVmZE1LdFJQZURBUzhJRXdCams3d3JoYmFs?oc=5",
@@ -4342,6 +4341,17 @@
 "cat": "xh",
 "published": "2026-11-20T14:43:00+07:00",
 "found": "2026-11-20T15:33:19+07:00"
+},
+{
+"id": "52b72fafa2c7",
+"title": "Hà Nội yêu cầu làm rõ trách nhiệm chậm trễ các dự án khiến cử tri bức xúc",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxtLUNOVk5GSzBqVGEteEl6UVhpQkV3SXFuSkx0Q2hGemlXRnE2bnFOazV2Zm9CRXNoM3hqbEJad0xnejRhZkNyZl80RUZ3a2FWYVJOdmlRbGdxV1RBSVUyRHl1OFRCVVVOQWtLdWczb1JoWEJzRHdLdklnWnI3ZC1FOERJS1lnVi1VYWJhS21lcUVCUGxXYTBrSFk?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T14:42:53+07:00",
+"found": "2026-11-20T20:03:27+07:00"
 },
 {
 "id": "34d87fe16001",
@@ -4564,6 +4574,17 @@
 "cat": "xh",
 "published": "2026-11-20T14:15:00+07:00",
 "found": "2026-11-20T15:02:59+07:00"
+},
+{
+"id": "119db9e141aa",
+"title": "Lãnh đạo và người nhà Dược phẩm OPC đăng ký bán gần 12 triệu cổ phiếu",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDRKalg5OHhQMHJ5TjhFenpYNzJ5OGFldlpJZnM4UGRhV2VRVGkyUVplZ2VWbWQwZmRsQkRTWmQxZFgxWWhVLVUzUkVNakZCTGxPYVZkNTd0dFFXcXNvcC1MYnBqSEx4WVA2OEJlZlFPblVoamY0N1c5VXVpZ2dBR3ZEQ0l1bEdUSTFDdkVlMFNkeHNmUWZQdWlUM1FRYkgtSXdXRg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T14:11:00+07:00",
+"found": "2026-11-21T02:31:17+07:00"
 },
 {
 "id": "df9cab051269",
@@ -27949,28 +27970,6 @@
 "cat": "tc",
 "published": "2026-11-18T14:19:00+07:00",
 "found": "2026-11-18T06:16:16+07:00"
-},
-{
-"id": "7de56f857210",
-"title": "Tính giá điện theo giờ: Người dân khó tránh khung giờ đắt đỏ",
-"link": "https://vietnamnet.vn/tinh-gia-dien-theo-gio-nguoi-dan-kho-tranh-khung-gio-dat-do-2567077.html",
-"summary": "Giá điện sinh hoạt theo giờ cao điểm, thấp điểm sẽ khuyến khích người dân chuyển một phần nhu cầu sử dụng điện sang giờ có giá thấp. Nhưng nếu thiết kế biểu giá không phù hợp, nhiều gia đình có thể phải trả thêm tiền vì khó thay đổi giờ sinh hoạt.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/22/tinh-gia-dien-theo-gio-nguoi-dan-kho-tranh-khung-gio-dat-do-3386.png?width=0&s=ldq249ficayIAdwa-nPy5Q",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-18T14:18:20+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "3fbf921e8c3a",
-"title": "SMC kéo dài thời gian chào bán cổ phiếu cho cổ đông thêm gần 1 tháng",
-"link": "https://cafef.vn/smc-keo-dai-thoi-gian-chao-ban-co-phieu-cho-co-dong-them-gan-1-thang-188261118141901925.chn",
-"summary": "SMC điều chỉnh thời gian chào bán hơn 36,8 triệu cổ phiếu cho cổ đông tới gần cuối tháng 12/2026.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1794986284705-17949862869172133477065.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-18T14:18:00+07:00",
-"found": "2026-11-18T14:46:40+07:00"
 }
 ]
 }
