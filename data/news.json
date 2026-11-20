@@ -1,13 +1,14 @@
 {
-"updated": "2026-11-21T01:59:46+07:00",
-"new": 3,
+"updated": "2026-11-21T02:15:14+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
 "cat": "bds",
 "url": "https://vnexpress.net/rss/bat-dong-san.rss",
-"ok": true,
-"count": 60
+"ok": false,
+"count": 0,
+"error": "TimeoutError: The read operation timed out"
 },
 {
 "name": "VnExpress",
@@ -213,6 +214,30 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "b41cfcb5eb71",
+"title": "molde đấu với bodø/glimt",
+"link": "https://bongdaplus.vn/bong-da-the-gioi/nhan-dinh-bong-da-molde-vs-bodo-glimt-01h00-ngay-21-11-cho-dai-tiec-ban-thang-5293752611.html",
+"summary": "Nhận định bóng đá Molde vs Bodo Glimt, 01h00 ngày 21/11: Chờ đại tiệc bàn thắng (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpviM2TdABNxawvxvB0mSYwUAICLUAdBceX1aRQtnorG_yDy0F_2JYawbF7o",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T01:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-21T02:15:14+07:00"
+},
+{
+"id": "a64e0fb64aa2",
+"title": "bayern",
+"link": "https://www.kicker.de/der-verflixte-10-spieltag-stuerzt-koeln-die-bayern-erneut-vom-thron-1271978/artikel",
+"summary": "Der verflixte 10. Spieltag: Stürzt Köln die Bayern erneut vom Thron? (Kicker)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUnTyRoWkCdpjcUIsabQx_V3jg0n1lnMnRNoAFsUEJWAjdJAFgaEyBnlS9lAs",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T01:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-21T02:15:14+07:00"
+},
+{
 "id": "8310dcd66f85",
 "title": "bayern đấu với köln",
 "link": "https://bongdaplus.vn/bundesliga/nhan-dinh-bong-da-bayern-munich-vs-cologne-02h30-ngay-21-11-hum-xam-ra-oai-5293552611.html",
@@ -221,7 +246,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T01:40:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-21T01:59:46+07:00"
 },
 {
@@ -233,7 +258,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T01:30:00+07:00",
-"traffic": "500+",
+"traffic": "100+",
 "found": "2026-11-21T01:59:46+07:00"
 },
 {
@@ -256,7 +281,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T00:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-21T01:16:17+07:00"
 },
 {
@@ -4108,6 +4133,17 @@
 "found": "2026-11-20T16:04:37+07:00"
 },
 {
+"id": "52b72fafa2c7",
+"title": "Hà Nội yêu cầu làm rõ trách nhiệm chậm trễ các dự án khiến cử tri bức xúc",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxtLUNOVk5GSzBqVGEteEl6UVhpQkV3SXFuSkx0Q2hGemlXRnE2bnFOazV2Zm9CRXNoM3hqbEJad0xnejRhZkNyZl80RUZ3a2FWYVJOdmlRbGdxV1RBSVUyRHl1OFRCVVVOQWtLdWczb1JoWEJzRHdLdklnWnI3ZC1FOERJS1lnVi1VYWJhS21lcUVCUGxXYTBrSFk?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T15:02:29+07:00",
+"found": "2026-11-20T20:03:27+07:00"
+},
+{
 "id": "cb4bb6a72a29",
 "title": "Diễn biến thị trường tài chính - tiền tệ quốc tế sáng 20/11",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXdpZUJhaUVtNUFTUnRsbE5vb1BJLWliY3E4emI5TlJFdW44ZUtGSlIzc25mOGI3NGFzdlJDS1REZTV5d3Z4dXZBb2lIRmRVOEVKb1dYVzlCTm4xd1ZHekZ0cEgwalBMb1A3TTdWcVNkWmkxajJuM3YybzVmZE1LdFJQZURBUzhJRXdCams3d3JoYmFs?oc=5",
@@ -4306,17 +4342,6 @@
 "cat": "xh",
 "published": "2026-11-20T14:43:00+07:00",
 "found": "2026-11-20T15:33:19+07:00"
-},
-{
-"id": "52b72fafa2c7",
-"title": "Hà Nội yêu cầu làm rõ trách nhiệm chậm trễ các dự án khiến cử tri bức xúc",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxtLUNOVk5GSzBqVGEteEl6UVhpQkV3SXFuSkx0Q2hGemlXRnE2bnFOazV2Zm9CRXNoM3hqbEJad0xnejRhZkNyZl80RUZ3a2FWYVJOdmlRbGdxV1RBSVUyRHl1OFRCVVVOQWtLdWczb1JoWEJzRHdLdklnWnI3ZC1FOERJS1lnVi1VYWJhS21lcUVCUGxXYTBrSFk?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T14:42:53+07:00",
-"found": "2026-11-20T20:03:27+07:00"
 },
 {
 "id": "34d87fe16001",
@@ -27946,28 +27971,6 @@
 "cat": "tc",
 "published": "2026-11-18T14:18:00+07:00",
 "found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "307ce26f4aaa",
-"title": "Vỡ nợ 'lan đột biến', lập bẫy góp vốn mua đất lừa 750 triệu đồng",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUnNRLWNZeFhXeWl5ZFlxcHJIZUNGZWVPVUhFY2l1MzNpdHJLNTBpMU14YVJuMlo2LTFGWW5rLXBEbkNpM3JWWGxVWDJwa0RXcGRFTmdaMF9TSWVWc1F1TmpodURTaXdEcGFFUlFuTmxlTEZYb3RIa1FDUXNpeWluZFNuWXVQRXg5WHZDVXh4WHlnUzZvVUJuN2lB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T14:18:00+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "cc014fdc9941",
-"title": "15 người cùng trúng một dãy số Vietlott",
-"link": "https://dantri.com.vn/kinh-doanh/15-nguoi-cung-trung-mot-day-so-vietlott-20261118134805871.htm",
-"summary": "(Dân trí) - Kỳ quay Power 6/55 tối 17/11 ghi nhận 15 khách hàng cùng trúng Jackpot 2 với tổng giá trị 3,6 tỷ đồng. Mỗi người nhận hơn 243 triệu đồng trước thuế.",
-"image": "https://cdnphoto.dantri.com.vn/GQizX2kh0E0JJVYx9Y25Z3_bwbM=/2023/10/31/vietlott-crop-1698755410695.jpeg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-18T14:16:27+07:00",
-"found": "2026-11-18T15:49:01+07:00"
 }
 ]
 }
