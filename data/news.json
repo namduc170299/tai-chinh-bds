@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T09:08:12+07:00",
-"new": 17,
+"updated": "2026-11-20T09:23:42+07:00",
+"new": 20,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 54
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,83 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "16c86de4868d",
+"title": "Áp hệ số K, tiền sử dụng đất có thể tăng: Làm gì để giá nhà bớt áp lực?",
+"link": "https://cafef.vn/ap-he-so-k-tien-su-dung-dat-co-the-tang-lam-gi-de-gia-nha-bot-ap-luc-188261120084235783.chn",
+"summary": "Theo chuyên gia, việc áp bảng giá đất kết hợp hệ số điều chỉnh (hệ số K) có thể khiến tiền sử dụng đất tăng, từ đó gây áp lực lên giá nhà.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795138884510-1795138885728943581017.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-20T09:18:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
+},
+{
+"id": "4adbf83ee345",
+"title": "Máy sưởi Fujihome: Khi thiết bị gia dụng hòa vào không gian sống hiện đại",
+"link": "https://vietnamnet.vn/may-suoi-fujihome-khi-thiet-bi-gia-dung-hoa-vao-khong-gian-song-hien-dai-2576974.html",
+"summary": "Từ thiết kế tinh tế, công nghệ sưởi tiên tiến đến các tính năng hỗ trợ an toàn và tiết kiệm điện, bộ sưu tập máy sưởi Fujihome 2026 hướng đến trải nghiệm làm ấm tiện nghi, phù hợp với nhiều không gian và phong cách sống.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/may-suoi-fujihome-khi-thiet-bi-gia-dung-hoa-vao-khong-gian-song-hien-dai-363.png?width=0&s=OIE5LJAqAFGCqcFb1zNwtQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T09:15:46+07:00",
+"found": "2026-11-20T09:23:42+07:00"
+},
+{
+"id": "d135804dae30",
+"title": "VCBNeo đổi mới không gian giao dịch, nâng tầm trải nghiệm khách hàng",
+"link": "https://vietnamnet.vn/vcbneo-doi-moi-khong-gian-giao-dich-nang-tam-trai-nghiem-khach-hang-2576845.html",
+"summary": "VCBNeo đang từng bước chuẩn hóa nhận diện tại các Chi nhánh, Phòng giao dịch trên toàn hệ thống, kiến tạo không gian phục vụ hiện đại, thuận tiện, khẳng định cam kết không ngừng nâng cao chất lượng phục vụ khách hàng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/vcbneo-doi-moi-khong-gian-giao-dich-nang-tam-trai-nghiem-khach-hang-300.png?width=0&s=qtrMW2mS8CFfzWtgI3l19A",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T09:13:31+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "24177bcabfab",
+"title": "Tìm thấy thi thể nữ sinh lớp 6 mất tích khi tắm biển Trung Lương",
+"link": "https://thanhnien.vn/tim-thay-thi-the-nu-sinh-lop-6-mat-tich-khi-tam-bien-trung-luong-185261120084823555.htm",
+"summary": "Lực lượng chức năng và người dân tìm thấy thi thể nữ sinh lớp 6 sau gần 18 giờ mất tích tại bãi biển Trung Lương, xã Cát Tiến, Gia Lai.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/edit-91394851620408937966093752751602096581479614n-1795139048239163916293-0-37-873-1434-crop-17951392925641238676051.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T09:12:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
+},
+{
+"id": "384bef64d224",
+"title": "Vàng thế giới thủng mốc 3.650 USD, tiếp tục dò đáy",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZFlsZGlYMHNtdTdpSy1Ob3RlT0xVYk5ONG1qRm5SdTgzWkliTkY0cFUzSUo2OU9JVy1mVTdIQ1ctMTQzbElsWmVpbTAtNG51WjNOWm0wTHlEelM4VEhfbHR0N1FERUdEY3hLMjFqcnpxWWJxOXBqY0pOOHBHQ3gtdGtCMVoxalliSWc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T09:11:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
+},
+{
+"id": "c91c593d25e1",
+"title": "Lừa góp vốn dự án bất động sản, nữ bị cáo lãnh án 20 năm tù",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWM1RmtId2NWd1lyOFhiR1lGZGVOWFBDc0dWVjVTQzZrR1VUOVR2SzRFbFdKZlJuaHd6OUtySnlta195UVJEWTNXSzljRXZrY3p4YnlaYmc0TDB0OFFvUTBKeWdralZVRVZlRGwxNlBYWmZTNE0xaFplLTA4WEVmcGZzUGpTQnZLcUNPRUw5dzhNTWNlOFE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T09:10:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
+},
+{
+"id": "f9e534978aee",
+"title": "VNTB – Xôn xao clip bé trai gào khóc hoảng loạn vì bị ôm giữ trong phòng làm việc có mặt lực lượng chức năng",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzQwb3NyWTdIcWx4TkpfT1JwX2xBalJsRW01M0kwaFllaXphUDNaNklFUjF0VXZ5SkdoOVNKZ0pmMXh6NWhjR1I0LVlzM3RESE5vTlVHcTIxRU1Qc09NVXJnV0ozMVZMT3h5aXYwVjhPYUJzU1daX2lIaWRxakZVcVhlUkJaeFNtU2k4N2trdHdVR1Q2REJKQjFKQ2M0eHk4WVM2X01yTDdEcjRJVTlTOC04SnpJXzRDd3pQdUJ1c1FSMFA2eWNLS0RDTGlTQjg?oc=5",
+"summary": "Nguồn: Việt Nam Thời Báo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T09:08:55+07:00",
+"found": "2026-11-20T09:23:42+07:00"
+},
+{
 "id": "19ab819f3322",
 "title": "'Báo cáo 7-8 trang nhưng chỉ 5 dòng về CT6 Kiến Hưng của ông Lê Thanh Thản'",
 "link": "https://thanhnien.vn/bao-cao-7-8-trang-nhung-chi-5-dong-ve-ct6-kien-hung-cua-ong-le-thanh-than-185261120084949495.htm",
@@ -246,6 +323,18 @@
 "found": "2026-11-20T09:08:12+07:00"
 },
 {
+"id": "0828bd3cd1fc",
+"title": "trò chơi",
+"link": "https://znews.vn/vi-tri-game-hay-nhat-lich-su-doi-chu-post1697714.html",
+"summary": "Vị trí 'game hay nhất lịch sử' đổi chủ (Znews)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqbkakDBc63bs-6tjxCVf_J80k5f6eHPXf4VFF7FKCG4qxAXc17L3OAFEPRWw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T09:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-20T09:23:42+07:00"
+},
+{
 "id": "538b668acbc6",
 "title": "Cô giáo xinh đẹp 44 tuổi ở Đồng Nai, 40 lần hiến máu nhân đạo",
 "link": "https://thanhnien.vn/co-giao-xinh-dep-44-tuoi-o-dong-nai-40-lan-hien-mau-nhan-dao-185261119164521164.htm",
@@ -255,6 +344,17 @@
 "cat": "xh",
 "published": "2026-11-20T08:59:00+07:00",
 "found": "2026-11-20T09:08:12+07:00"
+},
+{
+"id": "698efb2e4a60",
+"title": "Đồng Nai cho thuê hơn 1.500m2 đất làm Khu công nghiệp Long Đức 3",
+"link": "https://cafef.vn/dong-nai-cho-thue-hon-1500m2-dat-lam-khu-cong-nghiep-long-duc-3-188261120084428669.chn",
+"summary": "Đồng Nai cho Công ty Cổ phần Khu công nghiệp Long Đức 3 thuê đất để thực hiện dự án Khu công nghiệp Long Đức 3 tại xã Bình An.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795138996602-17951390011801755032263.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-20T08:59:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
 },
 {
 "id": "4ee408f7cc03",
@@ -323,6 +423,17 @@
 "found": "2026-11-20T09:08:12+07:00"
 },
 {
+"id": "629603e15c9b",
+"title": "Giang hồ Tài \"Đen\" và hàng loạt vụ trọng án trong nhiều năm trốn truy nã",
+"link": "https://dantri.com.vn/phap-luat/giang-ho-tai-den-va-hang-loat-vu-trong-an-trong-nhieu-nam-tron-truy-na-20261120084010805.htm",
+"summary": "(Dân trí) - Trong thời gian trốn truy nã, Phạm Anh Tài (Tài \"Đen\") tiếp tục chỉ đạo đàn em gây ra hàng loạt vụ giết người, chém người, cưỡng đoạt tài sản tại Quảng Ngãi và Gia Lai.",
+"image": "https://cdnphoto.dantri.com.vn/Ek5G1nfZzlYNWRzNvsjKCQR1jls=/2026/11/20/img20261120083341-edited-1795138720210.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-20T08:50:13+07:00",
+"found": "2026-11-20T09:23:42+07:00"
+},
+{
 "id": "90281a6273db",
 "title": "giá bạc phú quý",
 "link": "https://thanhnien.vn/gia-vang-bac-giam-khong-phanh-nguoi-mua-lo-ca-tram-trieu-dong-luong-185261118105445301.htm",
@@ -331,7 +442,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T08:50:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-20T09:08:12+07:00"
 },
 {
@@ -366,17 +477,6 @@
 "cat": "tc",
 "published": "2026-11-20T08:44:03+07:00",
 "found": "2026-11-20T05:04:17+07:00"
-},
-{
-"id": "d135804dae30",
-"title": "VCBNeo đổi mới không gian giao dịch, nâng tầm trải nghiệm khách hàng",
-"link": "https://vietnamnet.vn/vcbneo-doi-moi-khong-gian-giao-dich-nang-tam-trai-nghiem-khach-hang-2576845.html",
-"summary": "VCBNeo đang từng bước chuẩn hóa nhận diện tại các Chi nhánh, Phòng giao dịch trên toàn hệ thống, kiến tạo không gian phục vụ hiện đại, thuận tiện, khẳng định cam kết không ngừng nâng cao chất lượng phục vụ khách hàng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/vcbneo-doi-moi-khong-gian-giao-dich-nang-tam-trai-nghiem-khach-hang-300.png?width=0&s=qtrMW2mS8CFfzWtgI3l19A",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-20T08:43:56+07:00",
-"found": "2026-11-20T08:52:42+07:00"
 },
 {
 "id": "066ace37eef4",
@@ -633,6 +733,17 @@
 "cat": "tc",
 "published": "2026-11-20T08:15:00+07:00",
 "found": "2026-11-20T08:27:09+07:00"
+},
+{
+"id": "ca303e5b6f31",
+"title": "30 năm chứng khoán: Chuyện hậu trường ít biết thời khai mở và những bài toán phía trước",
+"link": "https://tuoitre.vn/30-nam-chung-khoan-chuyen-hau-truong-it-biet-thoi-khai-mo-va-nhung-bai-toan-phia-truoc-10026111812514286.htm",
+"summary": "Từng chứng kiến những khó khăn từ buổi đầu khai mở thị trường, nguyên Chủ tịch Ủy ban Chứng khoán Nhà nước Vũ Bằng nhìn lại hành trình 30 năm phát triển của thị trường chứng khoán Việt Nam, đồng thời chỉ ra những thay đổi cần thiết để thị trường phát triển thực chất và bền vững.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/vu-bang-1795137529345425341583-354-227-1328-1786-crop-17951375831211623683741.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-20T08:15:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
 },
 {
 "id": "cf3625f10537",
@@ -896,7 +1007,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T08:00:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-20T08:27:09+07:00"
 },
 {
@@ -921,6 +1032,17 @@
 "cat": "bds",
 "published": "2026-11-20T08:00:00+07:00",
 "found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "9a6127410ec6",
+"title": "Tập đoàn Bảo Tín ra mắt thương hiệu trang sức cao cấp MHJ",
+"link": "https://tuoitre.vn/tap-doan-bao-tin-ra-mat-thuong-hieu-trang-suc-cao-cap-mhj-100261119095613053.htm",
+"summary": "Tập đoàn Bảo Tín sẽ ra mắt thương hiệu trang sức cao cấp MHJ vào tháng 12-2026, cùng cửa hàng flagship đầu tiên tại TP.HCM. Thương hiệu hướng đến phân khúc trang sức cao cấp, kết hợp cảm hứng văn hóa Việt Nam với thiết kế đương đại.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/photo-1795056702072-1795056702971295248006-0-143-804-1429-crop-1795056734377667039761.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-20T08:00:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
 },
 {
 "id": "821c34b9e76b",
@@ -989,6 +1111,17 @@
 "found": "2026-11-20T07:56:50+07:00"
 },
 {
+"id": "ae374c98b253",
+"title": "TP.HCM lần đầu tiên có sản phẩm OCOP 5 sao",
+"link": "https://tuoitre.vn/tphcm-lan-dau-tien-co-san-pham-ocop-5-sao-100261120064503015.htm",
+"summary": "Dù đã có hơn 1.000 sản phẩm được công nhận OCOP, TP.HCM đến nay mới lần đầu có 6 sản phẩm và nhóm sản phẩm được đề nghị công nhận nâng hạng 5 sao.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/2646602364994912735264048a91722376e23909a2838e56c89a9f-1795131298564159058911-0-0-1600-2560-crop-1795131753395408630306-127-204-1250-2000-crop-17951361199981916570246.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-20T07:47:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
+},
+{
 "id": "c8edcc3e587e",
 "title": "Chưa từng có: Bất động sản giảm giá khắp nơi, nhà đầu tư chấp nhận \"cắt lỗ\" tới 20% vẫn khó \"thoát hàng\"",
 "link": "https://cafef.vn/chua-tung-co-bat-dong-san-giam-gia-khap-noi-nha-dau-tu-chap-nhan-cat-lo-toi-20-van-kho-thoat-hang-188261112164420551.chn",
@@ -1031,6 +1164,17 @@
 "cat": "tc",
 "published": "2026-11-20T07:42:00+07:00",
 "found": "2026-11-20T07:56:50+07:00"
+},
+{
+"id": "eb35bad0eeef",
+"title": "KĐT Kim Văn - Kim Lũ: Đường nội khu thành nơi tập kết rác thải, bãi đỗ ô tô",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYnN3Y0lrMEZVaDFuOFZ1LVN4N1FvV000cldFV1NoVHNXOG85RFQ1SVR4NklTdHdJWkdYNEowbUVtRGN5b2FCekxZenZrNlprMW93UFF5R3hmWEppTGFmUmRabDRSWFFlRnZHMVZmT3RKSlVqUms1WHVYWkswYXMyRkMzTHlKWXRBWENURktSS1JZejk0UGROR0dKUDczQTh3Yk13eDBfbFFSdXdoRnByR2ZR?oc=5",
+"summary": "Nguồn: Pháp Luật Plus",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T07:39:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
 },
 {
 "id": "742ab74d1f02",
@@ -1381,6 +1525,17 @@
 "found": "2026-11-20T07:41:21+07:00"
 },
 {
+"id": "80eafd9942db",
+"title": "Xem lại bộ phim \"Bí thư Tỉnh ủy\" trên VTV2 và VTVgo",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9iNkhiT0w1X3E0VjlWYkEzMHFvcjhHcGcxRHJ3b0lUSEtEaHhkZlphYU9la0g0NEJmbzVOTEdXOEQ?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T07:00:00+07:00",
+"found": "2026-11-20T03:47:43+07:00"
+},
+{
 "id": "1e27a4bfee69",
 "title": "CEO Nvidia lên tiếng",
 "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMTjJxQ3d1N1hJZDk3OWc5X3R2V2U1MlowSU44eWp5aVdCRnMteEd0OGQyTUFfSF93QTJvSjF0aGZpcE92YXdvY0tibXotSTVQSUNJellVYlM4MjhJT1pvM0ZMYw?oc=5",
@@ -1630,6 +1785,17 @@
 "published": "2026-11-20T06:20:00+07:00",
 "traffic": "200+",
 "found": "2026-11-20T06:40:21+07:00"
+},
+{
+"id": "627fc17afec4",
+"title": "Một bức tranh vừa được bán với giá hơn 4.891 tỷ đồng, danh tính họa sĩ gây choáng giới nghệ thuật",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQU3p4T3VIc3NoSjNpdVAwdjltWDlUZm1qSU9wMTVWVUI4bWgtZlltMFlrQzJqOE55T041d2xicVpjaFpOdnFXVTlTdm1yOUQxWk5tU0pMMXlmYXZxdWtMckt3OG5OMkJyMzFTUnc5ZHBxOWtaSmVQenBMTm00dlBoM3h0VURGS0N3azlkMnRGbm15U2YyZ3NmOFdQVUd5anJSLWVZX3dYeTdXbjlnaEhRYjRFY3RqWmVZN1gzVzZnT3VWQUZUdXRsMlF3Z1AzVzJzbDZCZVBLQUgzQWdWR0J0eVlaOFdZeks3ODNUUUlXajlGT005WlE?oc=5",
+"summary": "Nguồn: Tạp chí Saostar",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T06:15:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
 },
 {
 "id": "b58f50d788dc",
@@ -2942,6 +3108,17 @@
 "cat": "xh",
 "published": "2026-11-19T20:52:00+07:00",
 "found": "2026-11-19T21:13:47+07:00"
+},
+{
+"id": "78c0ddf5d62e",
+"title": "Vì sao Phố Wall cam kết 500 tỷ USD cho Nvidia nhưng chưa giải ngân?",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYVRpVXdjSGlXbm1ON0k1SVJsOHhVbzJzLWFXand2a0dXdE16LUJTaGtlQjN4ZzVBVVdqNERQUVV6Q1g4VG9aaUh4MkR5alQyclBWVE9EMU9fdjBNdDgxWURIQ1JXZHRZUVFSZTk4WmdSMkQzU2ZWdzRQM2xQd3VrdmhNelZvR3dLaUNSNTl5TVctSFNwNWJ6eENuYXVHMWQw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T20:52:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
 },
 {
 "id": "cf9861ebdac7",
@@ -4852,6 +5029,17 @@
 "cat": "tc",
 "published": "2026-11-19T17:27:00+07:00",
 "found": "2026-11-19T17:46:35+07:00"
+},
+{
+"id": "3a8466d11eea",
+"title": "Tiếp nhận hồ sơ mua nhà ở xã hội tại dự án Eco Residence từ tháng 12/2026",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX05GendrZUxnTHJnazlqUnR5TUJ2RDRDQ0lGSUpJekVXRzE5Rk9sZVZBcTJPZkI2NEVsRFRfTjh5Y2Q0XzFwOVFMU3dlNERjazdKTFRNWU5XVWRFTU1HTEpxMVpEMVVIbzlNOVRwTDRMMkd0eENnektOeWt1bXUzR2lYY0MyeWZHR004YkhHZlVtY2tzUWRvZDQtZ29laW5PMVpuSEFhYUZEQQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T17:27:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
 },
 {
 "id": "bfe9c2ec5f10",
@@ -7683,6 +7871,17 @@
 "found": "2026-11-19T14:45:57+07:00"
 },
 {
+"id": "1af180385367",
+"title": "Lê Dương Bảo Lâm gây sốc vì nặng gần 100kg, tháo toàn bộ răng sứ: Chuyện gì đây?",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQclF6Q1RqalpiOUVpTUd6UnU0dmN0MFpDUjUxXzJ0TGVVNE82VVZaaldoM1NSeEhWdGVGdjZ3bzdzcWpwMExKQ1Rkd0IySEZGZWFobGxJa2pCSzVfb0EweFFwdWtCaW9YMzVrdi1LWmh0cWtMSnZxNDY4RFZ4cWFfa2Y3SHBPN3RQOEZkN0RYNHpOcXkyWkRPbEJzM1VDLWxZVWZMcTA4SWZDWDBVUkk4amF5MTliWFZZ?oc=5",
+"summary": "Nguồn: CafeF",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-19T13:55:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
+},
+{
 "id": "e159ab9a2ee1",
 "title": "Xóa bỏ cơ chế 'xin - cho', giảm chi phí cho dân và doanh nghiệp",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZm5qQ1d3QU85SGxIb0dyRWV5aWlxdlhoemR0YUVLWlFMcWU2OU5MSkpYYUEzaXRidjFxN25TcGhrd0Yxa01BTy1BRkdMUkd1RGZkdHNvYkM1NDVFU1RYZWJ5T3V3NVRyMUlzVGIxYno2Mzd4WHBla3pwRWp1RWo4aHN6OFgxZ0VzTTVDcE9tMFFfNVVQQXc?oc=5",
@@ -8853,6 +9052,17 @@
 "cat": "bds",
 "published": "2026-11-19T11:54:00+07:00",
 "found": "2026-11-19T12:11:44+07:00"
+},
+{
+"id": "3c0aa72a2e8c",
+"title": "Con trai 18 tuổi chưa có bằng vẫn lái ô tô: Hai bố con bị phạt 77 triệu đồng",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2RVclV2MHQ3bkcwQnhPeUVXYUY1eXVvcHVxSHYzdUw1bXVmcVRpdEVBWXExQ0VZOWNPbnhwcFhuNTVpd2N0V0Y4d2NHUDJaRzlLWnlJMkQzMFNmQi04dWhHaUhQMVBVVlo4MFIya1l6dHEwMXd1ekktOV9oTGpvM2V6UE5jREhBVFlsd1FkWnpHUmgtN3BMZ0F1NlBBc2pvZkpQdXVkNmt4Zkd3OFE?oc=5",
+"summary": "Nguồn: VTC News",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-19T11:53:19+07:00",
+"found": "2026-11-20T09:23:42+07:00"
 },
 {
 "id": "083201ce92e4",
@@ -11192,6 +11402,17 @@
 "found": "2026-11-19T09:07:59+07:00"
 },
 {
+"id": "46ed33cd8fa7",
+"title": "Sếp Techcombank làm Giám đốc Tài chính Eximbank",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSDRGQ3BIRXRmdURzTUNjbWVZdElXOTV2dndHNWN0RUdhdE1iYUNMbGVjTkdydTVQUXlzdWlPU2ZtaVA0amhQamxGQXF0U0hRRnRJTWlHVkZ0NEk1ck5HNzBqSFdfOWtreVg5aE00X3NVSTd0Zk9keUNhRl91NUZDVG1XbFJkUzg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T08:57:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
+},
+{
 "id": "f3d07b9d4604",
 "title": "Khởi công xong tháp tài chính 108 tầng ở Hà Nội, cụ bà 70 tuổi về Đồ Sơn làm dự án lấn biển 290ha",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQek1pRkhXWC1lNWtEMzNXdzBfVGNreXVWNjhGeDhnZTBvWkxzTi11WjU1Y2xVQUVtdk1pUUtoNXVFbklqaWJNM0F5bHNDWHdYTm51X0lBMGlrLWk4ODhBalYtbVhNbFRuR0RmZ0V4d2s0MzF2YkFsT3ZHWkpTczFiX2taeWpMLTRnc1ZrZzNZZ0w0TThhQkhGR3lvVURKTzlUbWRjbmJvQWdkMmJCcF9sdjYwbERibjVOWkRyN1gza1lOdlJXeFZtdg?oc=5",
@@ -12510,17 +12731,6 @@
 "found": "2026-11-20T03:47:43+07:00"
 },
 {
-"id": "80eafd9942db",
-"title": "Xem lại bộ phim \"Bí thư Tỉnh ủy\" trên VTV2 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9iNkhiT0w1X3E0VjlWYkEzMHFvcjhHcGcxRHJ3b0lUSEtEaHhkZlphYU9la0g0NEJmbzVOTEdXOEQ?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-19T07:00:00+07:00",
-"found": "2026-11-20T03:47:43+07:00"
-},
-{
 "id": "23c0b516f63c",
 "title": "Nền tảng truyền hình số quốc gia",
 "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9zWE5HQTlybjdYcVFwbmRxYzhPVUc4SG9FWDNKWXYxektNYlhTN0QzUENxNDBjRURNSURNbVdSakY?oc=5",
@@ -12530,6 +12740,17 @@
 "cat": "xh",
 "published": "2026-11-19T07:00:00+07:00",
 "found": "2026-11-20T04:49:04+07:00"
+},
+{
+"id": "e81da585a4be",
+"title": "Đấu trường thông thái | VTV3 và VTVgo",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1ES0JQT3V0NnNhM3RyYTJmdVktRG54WW9BVlgtaV9lM3JBNGt5Z25ZX0xLVTN2ZVlVRG0wejN4TG8?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-19T07:00:00+07:00",
+"found": "2026-11-20T09:23:42+07:00"
 },
 {
 "id": "d12167226498",
@@ -27755,228 +27976,6 @@
 "source": "Báo Mới",
 "cat": "bds",
 "published": "2026-11-17T20:26:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "05e20763726e",
-"title": "Hơn 869 tỷ đồng xây nhà ở cho lực lượng Công an tại Đắk Lắk",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcXZoakp3NjhSNU9pNzhPYzNTN3JpczNpRnhkTU1ReTFsbFdLZDBnQ0ZyMEx0Smt0RzNyekxGWllRckthMThUWnRRbHh2bGE4Tms1ekFsZmVDUXFtOXVZa1dWTm9WT2RXeGRYVVlPZUU0TXBVaC0tbm5WaTBSTXQ4djV5ZWZHUDlSblBHRFdacFdqWGlURjMw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T20:26:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "6b1a55f4756c",
-"title": "Phó chủ tịch nước Võ Thị Ánh Xuân dự ngày hội Đại đoàn kết tại An Giang",
-"link": "https://thanhnien.vn/pho-chu-tich-nuoc-vo-thi-anh-xuan-du-ngay-hoi-dai-doan-ket-tai-an-giang-185261117191733758.htm",
-"summary": "Phó chủ tịch nước Võ Thị Ánh Xuân cho biết Ngày hội Đại đoàn kết toàn dân tộc năm nay lần đầu tiên được tổ chức gắn với Ngày Văn hóa Việt Nam càng làm nổi bật mối quan hệ gắn bó giữa giá trị văn hóa và tinh thần đoàn kết.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/2-1794918792283731024425-0-0-1600-2560-crop-1794922555922615944932.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T20:24:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "1319c89318c0",
-"title": "Nhà đầu tư khó tìm được một “hầm trú ẩn” thực sự vào thời điểm này",
-"link": "https://vneconomy.vn/nha-dau-tu-kho-tim-duoc-mot-ham-tru-an-thuc-su-vao-thoi-diem-nay.htm",
-"summary": "Khi thị trường chứng khoán Mỹ lao dốc trong tháng 11 này, các nhà đầu tư ở Phố Wall đã tìm đến một phương án quen thuộc suốt nhiều thập kỷ qua: mua trái phiếu kho bạc Mỹ và đồng yên Nhật...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/17/9dfbbc38b57b4a2497fa5b924b285cf6-136370.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-17T20:23:57+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "3c009531233c",
-"title": "Dòng vốn ngoại vẫn tạo sức ép, bán ròng 350 tỷ đồng",
-"link": "https://vneconomy.vn/dong-von-ngoai-van-tao-suc-ep-ban-rong-350-ty-dong.htm",
-"summary": "Thanh khoản toàn thị trường đạt khoảng 14.944 tỷ đồng. Khối ngoại tiếp tục bán ròng 352 tỷ đồng trên sàn HOSE, cho thấy dòng vốn ngoại vẫn tạo thêm sức ép lên diễn biến chỉ số.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/17/4cadf928224844dea5a1c8622e90ced5-136405.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-17T20:23:46+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "9f1f57e0c0d9",
-"title": "Tin vui: Còn 6 ngày nữa, toàn bộ người dân Việt Nam được sử dụng miễn phí 100% dịch vụ này",
-"link": "https://kenh14.vn/tin-vui-con-6-ngay-nua-toan-bo-nguoi-dan-viet-nam-duoc-su-dung-mien-phi-100-dich-vu-nay-215261117163959038.chn",
-"summary": "Người dân nên cập nhật thông tin này kẻo mất quyền lợi.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/17/avatar1794907996764-17949079970681545668559.jpeg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-17T20:23:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "37229e1963d7",
-"title": "Không khí lạnh áp sát, miền Bắc bắt đầu chuyển mưa rét khi nào?",
-"link": "https://vietnamnet.vn/khong-khi-lanh-ap-sat-mien-bac-bat-dau-chuyen-mua-ret-khi-nao-2572312.html",
-"summary": "Không khí lạnh sẽ ảnh hưởng đến Bắc Bộ từ sáng 18/11, sau đó mở rộng xuống Bắc Trung Bộ và Trung Trung Bộ. Từ chiều tối cùng ngày, miền Bắc chuyển rét, vùng núi cao có nơi dưới 10 độ; Trung Bộ có mưa lớn diện rộng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/khong-khi-lanh-ap-sat-mien-bac-bat-dau-chuyen-mua-ret-khi-nao-2053.jpg?width=0&s=6ibd-Tz16pZTXOlHNI76kQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-17T20:21:06+07:00",
-"found": "2026-11-17T17:38:00+07:00"
-},
-{
-"id": "38620220a68e",
-"title": "Đề xuất nghiêm cấm giao quá 50% khối lượng gói thầu cho nhà thầu phụ",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnlLVHhteDNCSFVKVnhwMlNNZUlwaFpyV0NGRmttTUtmVlBrNzQzTHFpUGRkYUxRTW1vM1l1VklZRE5TNnREa1pMSVhyTmFHVlFJMVU5NFBGaFF0MkdueERLVndHSmhxaUhOemxPYkFIQ01kTFN0WGUxZWtYakhGaVVyOEREaTE2c0M1cnFqbmVpRVg3S2kwWkJKRE90RnY4ZHc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T20:16:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "faa2eb2d3aeb",
-"title": "nhật bản vs",
-"link": "https://bongdaplus.vn/giao-huu-bong-da/nhan-dinh-bong-da-nhat-ban-vs-paraguay-20h10-ngay-17-11-samurai-blue-tiep-da-thang-hoa-5290942611.html",
-"summary": "Nhận định bóng đá Nhật Bản vs Paraguay, 20h10 ngày 17/11: Samurai Blue tiếp đà thăng hoa (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQo6-IsuKcqwoTCr2TKTbAECQjtAODkAwGRIrwB-jqObSw4tZ7FCW8fcYZfRM4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-17T20:10:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "d3ce70ab410b",
-"title": "Bản tin Nhà đất và đầu tư | 17/11/2026",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZNDlIODVRVzNpOXd1aU9KVUEtQVZxTXRTT3BNME43c0lrd09YRV90b3BCZGFsWHNrM21QNnZ2N0JJQ04wTGtBQnJkT1NFOXh3S1pCa0FCU0pvODJjeDR2YUtmRnFRVzZaQmtjT1J5b0Rmc3lzR0I5Vw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T20:07:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "10613dea76fb",
-"title": "Vụ xây 'chui' chung cư: 'Đại gia điếu cày' Lê Thanh Thản sẽ hầu tòa 13 ngày",
-"link": "https://tuoitre.vn/vu-xay-chui-chung-cu-dai-gia-dieu-cay-le-thanh-than-se-hau-toa-13-ngay-10026111718372017.htm",
-"summary": "Ngày mai (18-11), sau hơn 3 năm điều tra bổ sung vụ án bán 519 căn hộ không đủ điều kiện cấp sổ đỏ thu lợi bất chính hơn 531 tỉ đồng, \"đại gia điếu cày\" Lê Thanh Thản sẽ hầu tòa dự kiến 13 ngày.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/le-thanh-than-1786946678797927373756-1794921706062878919358-109-71-814-1200-crop-1794921785615684757468.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T20:07:00+07:00",
-"found": "2026-11-17T21:37:02+07:00"
-},
-{
-"id": "13464e10d9c6",
-"title": "Nam thanh niên bị bắt cùng 170 kg ma túy",
-"link": "https://vnexpress.net/nam-thanh-nien-bi-bat-cung-170-kg-ma-tuy-5145812.html",
-"summary": "Bắt quả tang Nguyễn Đăng Chiến, công an thu giữ tổng 169,5 kg ma túy đá, heroin, hồng phiến và ma túy tổng hợp.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/1-1794913572-6938-1794913626.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QHECi4n3un46lr1zYMbeEg",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-17T20:00:57+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "a5a4d7bc8a7d",
-"title": "'Anh Cơ quận 8' và người tình phủ nhận cáo buộc mua bán ma túy",
-"link": "https://kenh14.vn/anh-co-quan-8-va-nguoi-tinh-phu-nhan-cao-buoc-mua-ban-ma-tuy-215261117194042481.chn",
-"summary": "Lê Thanh Tú (biệt danh Cơ, thường gọi “anh Cơ quận 8”) phủ nhận cáo buộc của Viện Kiểm sát về hành vi mua bán ma túy, trong khi người tình của Tú là Lê Thị Thanh Hà khai không biết trong thùng carton mang vào nhà chứa ma túy.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/17/avatar1794919234693-17949192353841077917972.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-17T20:00:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "936d322af6b5",
-"title": "Điều quý giá là khi những giá trị được trao truyền đến những thế hệ kế tiếp",
-"link": "https://cafef.vn/dieu-quy-gia-la-khi-nhung-gia-tri-duoc-trao-truyen-den-nhung-the-he-ke-tiep-188261117194855725.chn",
-"summary": "Thành công không chỉ được đo bằng những gì mỗi người đạt được, mà còn ở những giá trị họ có thể trao lại cho người đến sau.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/photo1794905358267-17949053583871869980816-17949197377211208742822.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-17T20:00:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "33ed1fcd4174",
-"title": "sân vận động vinfast trống đồng",
-"link": "https://cafef.vn/sieu-san-van-dong-135000-cho-thuoc-dang-lon-nhat-the-gioi-cua-viet-nam-co-dien-bien-moi-hang-muc-quan-trong-chinh-thuc-buoc-vao-nghiem-thu-4-khan-dai-da-len-tang-5-chuan-bi-nang-he-mai-thep-40000-tan-len-do-cao-120-m-188261117143637758.chn",
-"summary": "Siêu sân vận động 135.000 chỗ, thuộc dạng lớn nhất thế giới của Việt Nam có diễn biến mới: Hạng mục quan trọng chính thức bước vào nghiệm thu, 4 khán đài đã lên tầng 5, chuẩn bị nâng hệ mái thép 40.000 tấn lên độ cao 120 m (CafeF)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPRvy0XSKNQvCx4pVHA7wEX7nkIDimoAdgCVsiydjQzGpwAQOJ4fEx4sXPZ-0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-17T20:00:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "9d95e842b6d1",
-"title": "Đề xuất nhà ở xã hội chỉ được bán lại cho đúng đối tượng, theo giá thỏa thuận",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTBHdmJScnRYaC1LNm9QdnAwTWF3UTFzY0JJQTVhTllLRF8xN1luQV9GNzEyNGpMVXVKamU1T2d0VXN6QXhPdlViLVVhOFN0WHRMS1FKMWUzaFNEb2dWcGtLdkh1bWJkUDRfU09uUUVPRkktdGRmeEZIV1NDZkxrX3RraFZoM2ZrVHlaRjhSQ21pQmFOLThGVjB0SFZ1UUNTNHZwb0xJQzJjOXAxbVE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T19:58:00+07:00",
-"found": "2026-11-17T21:37:02+07:00"
-},
-{
-"id": "d922c18baa53",
-"title": "Tháo gỡ vướng mắc về đất đai, chuyển đổi số và tiêu thụ nông sản",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEM2T0x0X1lwaWNpY2JBZG5BaUxOMFp2UnY2dUhpMHFJTy1iRDVkWDZIdUszWnZQWTA0aFh3YUFOMFdMOW92STU0OUh6dFF2R1FyOGNtN3BOZmYzRGJaLXJST2xpOUFzSkt5RHN2dThNcjZRU3VNd3BhcVlVeVNpUkdPdDU0c2ZoYzRWaXlPSVctNXpMQy1oV29KWHI?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T19:57:18+07:00",
-"found": "2026-11-18T13:28:20+07:00"
-},
-{
-"id": "f17b13aad0c4",
-"title": "Giao ban đánh giá tiến độ giải phóng mặt bằng Dự án đường Lý Thái Tổ kéo dài",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGNGWmZ3Wkw1Mk11OUZPMzVRMTY5UE4wMGVEc3QycUplS05YNDdpNmtZVWJ2eTBSRFlZVjFBV01obG5JZkdaalZBWEI4UWNMQi1ROF92VDV1ZkZqVzRMSzBYSjV0WUhuOGIzRERXVWVXRDBJemZybFBYXzE4eWhCQ3Z4OFpKYVBvRmNoeXFTbUE1MEV1RVp3dExzUzFpMDZ3UVZjajVUVkRTZVZxRXc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T19:57:11+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "39a361dc7328",
-"title": "Tú 'Cơ' cùng người tình đổ cả chục ký ma túy xuống bồn cầu phi tang",
-"link": "https://tuoitre.vn/tu-co-cung-nguoi-tinh-do-ca-chuc-ky-ma-tuy-xuong-bon-cau-phi-tang-100261117184713667.htm",
-"summary": "Lê Thanh Tú (37 tuổi, tên gọi khác là Cơ) và Lê Thị Thanh Hà (25 tuổi, quê Đắk Lắk) bị cáo buộc mua 11kg Ketamine, 6kg Methamphetamine và 3,3kg Heroin để bán lại. Khi biết công an kiểm tra nơi cất giấu, cả hai mang ma túy đến nhà người quen, cắt các gói nylon rồi đổ xuống bồn…",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/tu-co-tai-phien-toa-1794915304844369818506-352-158-1230-1562-crop-1794920365849749493966.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T19:56:00+07:00",
-"found": "2026-11-17T21:37:02+07:00"
-},
-{
-"id": "b5a5eeddf78a",
-"title": "Ga Hà Nội chuyển về Phú Xuyên, khu 'đất vàng' nội đô dùng làm gì?",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTMwMlZZLXN6aTY1MlE0RFRPY1NZSjlsa3RHWk4zRWRGSHA5QXV6X3ZYcmVJUHhHS2tPakxVcm5nTzFrcnJ5Uzh4SXUtV2JIUEd1enM4Z3kzUGRRU1I4eWdHRDZFdm9jQ3l4eHBySGZPVlR4aGVweDZKQnJKSVFPdmVSUE5QQjN6NjFXUTRfaWNrUV94WlFXaU13?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T19:54:00+07:00",
-"found": "2026-11-18T00:39:53+07:00"
-},
-{
-"id": "87f7d06a214f",
-"title": "Xác minh vụ việc người chèo đò 'vòi tiền' ở khu du lịch Tam Cốc",
-"link": "https://kenh14.vn/xac-minh-vu-viec-nguoi-cheo-do-voi-tien-o-khu-du-lich-tam-coc-215261117170036488.chn",
-"summary": "Một hướng dẫn viên du lịch phản ánh việc người chèo đò tại khu du lịch Tam Cốc, Ninh Bình chạy theo, níu tay du khách nước ngoài để đòi tiền tip sau hành trình tham quan. Sự việc đang được cơ quan chức năng tỉnh Ninh Bình xác minh làm rõ.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/17/avatar1794909605624-1794909605958625540621.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-17T19:53:00+07:00",
 "found": "2026-11-17T20:40:15+07:00"
 }
 ]
