@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T16:35:08+07:00",
-"new": 12,
+"updated": "2026-11-20T16:46:35+07:00",
+"new": 13,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 56
+"count": 60
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,105 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "a881238dbbd5",
+"title": "Vietnam Connect Forum 2026: VietinBank kết nối cơ hội đầu tư, kiến tạo hệ sinh thái doanh nghiệp FDI tại Việt Nam",
+"link": "https://cafef.vn/vietnam-connect-forum-2026-vietinbank-ket-noi-co-hoi-dau-tu-kien-tao-he-sinh-thai-doanh-nghiep-fdi-tai-viet-nam-188261120164524424.chn",
+"summary": "Ngày 17/11/2026, tại TP. Hồ Chí Minh, VietinBank tổ chức Diễn đàn Kết nối đầu tư Việt Nam 2026 (Vietnam Connect Forum 2026), thu hút gần 300 đại diện doanh nghiệp FDI, nhà đầu tư trong và ngoài nước. Sự kiện quy tụ các chuyên gia kinh tế, đại diện cơ quan quản lý và cộng đồng…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795167877028-1795167878105205125840.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-20T16:45:00+07:00",
+"found": "2026-11-20T16:46:35+07:00"
+},
+{
+"id": "28031bb0609b",
+"title": "VPBank NEO ra mắt tính năng Quản lý tiền gửi theo nhóm",
+"link": "https://vietnamnet.vn/vpbank-neo-ra-mat-tinh-nang-quan-ly-tien-gui-theo-nhom-2577130.html",
+"summary": "VPBank ra mắt tính năng Quản lý tiền gửi theo nhóm của sản phẩm tiền gửi có kỳ hạn Hũ Mục Tiêu trên ứng dụng VPBank NEO. Sản phẩm có thông điệp: cùng nhau đặt mục tiêu, cùng nhau tích lũy và cùng nhau tiến gần hơn đến những kế hoạch trong tương lai.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/vpbank-neo-ra-mat-tinh-nang-quan-ly-tien-gui-theo-nhom-1656.png?width=0&s=u6DkW5hWlc9WYkoHDD97_w",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T16:40:00+07:00",
+"found": "2026-11-20T16:46:35+07:00"
+},
+{
+"id": "3d61e7abbe1e",
+"title": "Giả danh chủ nhà, làm giả hồ sơ vay ngân hàng chiếm đoạt 14 tỷ đồng.",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUE13MjR5bEpaWHZTVkVrQ25STWdHU3BGb0NWZklIeWdtQmM3blo3cmkwZUowd2J0VzRBb3FVMlVteExTZ0NRSm1Lc3hrbVdDcFRNZngtZk5LMVZ4X2VPLXVRbTZ1ZFkzTU9mSExiSm5KaHdPMFEtQXY2TS15WHZYSFMtR241LUJhWlBjOVUyTEVqZWl4eElSc2MydFRWRUdX?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T16:40:00+07:00",
+"found": "2026-11-20T16:46:35+07:00"
+},
+{
+"id": "dc8b3baed285",
+"title": "Maspero – Dòng sông lưu giữ ký ức những mùa ghe Ngo",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQlAwUmdrWm95dFNpakZVU01Kd040bTZ1anY2WUE0S3NreG05dTBRWEloaUlRenN5WjNPaUdXcnNFT3puaHVlZlNZQmdTRjJKazRsVGYzWDBlcmhENGZOcFlCY3hlSjZPek16LXlCZVFDcllJYWhRNm5IQk1GVkpCQy1MY1hPTjVmRXc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T16:39:00+07:00",
+"found": "2026-11-20T16:46:35+07:00"
+},
+{
+"id": "24a1ee32f21d",
+"title": "Cổ phiếu BMJ chính thức giao dịch trên HOSE từ ngày 20/11",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbDEzbHk2M1VZa3NSdlhjM05wNGU2TmlfeGplMERSZl8xbTQ0dHpLaXZLQkhFWlhPT3kzcEhlNzBGT3owRFhmUnBXeE4tM0cwdW40Nm82Q2l2NHVGRHZVUURqSXNVTHRUSTNDckxlaC1JeUJUWVptcmw1bGhON1UtRTloMXpKdnpaLWdpeGlxUF9Qc3Zz?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T16:39:00+07:00",
+"found": "2026-11-20T16:46:35+07:00"
+},
+{
+"id": "4059336f2bd0",
+"title": "Nhiều cơ sở nhà đất dôi dư giảm giá 10 lần vẫn chưa tìm được người thuê",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWNrQ3E0emlYVzJiejItZG9jMlF0U1NzOHJGTFdqUkkzdU5UZW93WW4wem43LXZtalVSaFBZTGNELWJTOXVsY1B4ejIzTnRlb0NBa1c1SUIxRlQ1Y1YxdmJUUm52S2dGRTc3M1dVSzlrUzFzcms5UUM3aU5EZjRrcmlCcFA0S1B1cmNweGRNNmpxcVZ3Vi1ZdENKQ1NXekpYQVBRWENnUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T16:38:00+07:00",
+"found": "2026-11-20T16:46:35+07:00"
+},
+{
+"id": "d7b97404bff1",
+"title": "Văn phòng có chứng nhận xanh có thể cho thuê cao hơn tới 23%",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd202Um5NVE9XdHhXMUtVZmJmaG1DM3JjcS1wbnlfUlNnNUdzdkNsQjJ6OW16NVlsZ2M4bE9QMnZrVU9SUlQxdjNvcmxKUnVjY05mTGxWRlJPeVItVGNQVC1sUlJHZlRxdWw0bElFWlFoRFM2bjZKQW8zWEY2eFpxd0VPNlFNeHVLbmF3WDc3eU5HOHA3RDNJ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T16:38:00+07:00",
+"found": "2026-11-20T16:46:35+07:00"
+},
+{
+"id": "ede402776b62",
+"title": "5 tuyến metro hơn 873.000 tỷ đồng kết nối sân bay Nội Bài, SVĐ 135.000 chỗ lớn nhất hành tinh và loạt KĐT lớn chính thức về tay liên danh của tỷ phú Phạm Nhật Vượng: Đã đặt mua hơn 100 dây chuyền TBM",
+"link": "https://kenh14.vn/5-tuyen-metro-hon-873000-ty-dong-ket-noi-san-bay-noi-bai-svd-135000-cho-lon-nhat-hanh-tinh-va-loat-kdt-lon-chinh-thuc-ve-tay-lien-danh-cua-ty-phu-pham-nhat-vuong-da-dat-mua-hon-100-day-chuyen-tbm-215261120161414859.chn",
+"summary": "Liên danh Vinhomes - SGC vừa được Hà Nội chỉ định thực hiện gói thầu chìa khóa trao tay trị giá 873.224 tỷ đồng để triển khai 5 tuyến đường sắt đô thị dài khoảng 253,5 km.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795165976688-1795165977254368472365.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T16:38:00+07:00",
+"found": "2026-11-20T16:46:35+07:00"
+},
+{
+"id": "85ed62530ec1",
+"title": "TP.HCM dự kiến sáp nhập Sở Du lịch và Sở An toàn thực phẩm",
+"link": "https://thanhnien.vn/tphcm-du-kien-sap-nhap-so-du-lich-va-so-an-toan-thuc-pham-185261120162131141.htm",
+"summary": "TP.HCM dự kiến sáp nhập Sở Du lịch vào Sở Văn hóa và Thể thao, đồng thời chuyển Sở An toàn thực phẩm thành chi cục trực thuộc Sở Y tế, hoàn thành trong tháng 12.2026.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-khach-du-lich-tham-quan-tphcm-nhat-thinh-1779181051426385314896-79-0-853-1240-crop-17951662588829866306-1795166295994395911865.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T16:37:00+07:00",
+"found": "2026-11-20T16:46:35+07:00"
+},
+{
 "id": "c95d7ff3ba09",
 "title": "Phát hiện 14 hài cốt liệt sĩ dưới hầm cá nhân, giao thông hào ở Quảng Trị",
 "link": "https://thanhnien.vn/phat-hien-14-hai-cot-liet-si-duoi-ham-ca-nhan-giao-thong-hao-o-quang-tri-185261120154524522.htm",
@@ -244,6 +343,18 @@
 "cat": "tc",
 "published": "2026-11-20T16:30:00+07:00",
 "found": "2026-11-20T16:35:08+07:00"
+},
+{
+"id": "f39a0ce7bc85",
+"title": "xổ số miền nam ngày 20 tháng 11",
+"link": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-an-giang-ngay-1911-1803173.ldo",
+"summary": "Kết quả xổ số An Giang ngày 19.11 (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgMKW7QoKOeDh4Do8-hizTYu67KwPaCr4OUUv1jilqBPL93BTIqoPFehE8oT8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T16:30:00+07:00",
+"traffic": "50000+",
+"found": "2026-11-20T16:46:35+07:00"
 },
 {
 "id": "97e762e9d5b2",
@@ -310,6 +421,17 @@
 "cat": "tc",
 "published": "2026-11-20T16:15:00+07:00",
 "found": "2026-11-20T16:19:51+07:00"
+},
+{
+"id": "626e5a277260",
+"title": "Dùng thùng hàng sàn thương mại điện tử chở thuốc lá lậu ở Tây Ninh",
+"link": "https://dantri.com.vn/phap-luat/dung-thung-hang-san-thuong-mai-dien-tu-cho-thuoc-la-lau-o-tay-ninh-20261120154216451.htm",
+"summary": "(Dân trí) - Nam thanh niên dùng thùng hàng mang thương hiệu sàn thương mại điện tử chở gần 1.500 bao thuốc lá nhập lậu trên đường ĐT816 và bị công an phát hiện, bắt giữ.",
+"image": "https://cdnphoto.dantri.com.vn/khm3Ndau13ArkxIPu1Xwm9JQVU8=/2026/11/20/1-1795163951030.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-20T16:13:17+07:00",
+"found": "2026-11-20T16:46:35+07:00"
 },
 {
 "id": "33532311267a",
@@ -818,6 +940,18 @@
 "cat": "mxh",
 "published": "2026-11-20T15:00:00+07:00",
 "found": "2026-11-20T16:04:37+07:00"
+},
+{
+"id": "8ca7785f2b91",
+"title": "ws wanderers đấu với adelaide utd",
+"link": "https://trends.google.com/trending/rss?geo=VN",
+"summary": "",
+"image": "",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T15:00:00+07:00",
+"traffic": "500+",
+"found": "2026-11-20T16:46:35+07:00"
 },
 {
 "id": "34dd650c5fb3",
@@ -17820,6 +17954,17 @@
 "found": "2026-11-20T15:33:19+07:00"
 },
 {
+"id": "e04bfb81a0f7",
+"title": "Preview phim Vui lên nào anh em ơi - Tập 8 | Quý nhân của Tiến - Hưng - Thắng xuất hiện",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE05YWo0dVo2VEVIWlZHS2d3MzJZN0tWZU05WTNScHE5VElyR1pYNWhmT0JSQldoeXVLc0IzdG54T3o?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-19T07:00:00+07:00",
+"found": "2026-11-20T16:46:35+07:00"
+},
+{
 "id": "d12167226498",
 "title": "Căn hộ 90 m² mang nét hoài cổ với sắc xanh olive và nâu gỗ",
 "link": "https://cafef.vn/can-ho-90-m-mang-net-hoai-co-voi-sac-xanh-olive-va-nau-go-188261119064541182.chn",
@@ -27790,149 +27935,6 @@
 "source": "VietnamNet",
 "cat": "xh",
 "published": "2026-11-18T10:35:53+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "1d2a758aad6c",
-"title": "Toản bức xúc trước sự hỗn láo của em gái Bình | Căn nhà không mái che | Tập 18",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1uOTNSNzhkWERybkp0Rm9XTHl0dnh3UHhBbE5VT0MyUkcyQnI3RzNyMHdPdWdhcV9Bal9PMW95Z1I?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-18T10:35:32+07:00",
-"found": "2026-11-20T01:30:06+07:00"
-},
-{
-"id": "4899782820e8",
-"title": "Từ Singapore, VIFC-HCMC mời gọi vốn quốc tế vào Việt Nam",
-"link": "https://tuoitre.vn/tu-singapore-vifc-hcmc-moi-goi-von-quoc-te-vao-viet-nam-100261118092429194.htm",
-"summary": "Trung tâm tài chính quốc tế Việt Nam tại TP.HCM (VIFC-HCMC) đang tìm kiếm cơ hội kết nối với các định chế tài chính, quỹ đầu tư quốc tế tại Singapore.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/voyage-vel04782-1794968370560963195730-17949730944521019764094-33-223-1346-2323-crop-17949731206331004152834.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T10:35:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "c82600fc4f11",
-"title": "Cận cảnh nghĩa trang có nhiều lăng mộ bề thế ở Huế trước ngày đóng cửa",
-"link": "https://vietnamnet.vn/can-canh-nghia-trang-co-nhieu-lang-mo-be-the-o-hue-truoc-ngay-dong-cua-2569709.html",
-"summary": "Phường Thuận An (TP Huế) sẽ đóng cửa các nghĩa trang, nghĩa địa từ ngày 31/10. Tại đây, nhiều lăng mộ được xây dựng bề thế, chạm trổ cầu kỳ, nằm san sát gần bờ biển và xen giữa khu dân cư.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/30/can-canh-nghia-trang-co-nhieu-lang-mo-be-the-o-hue-truoc-ngay-dong-cua-277.gif?width=0&s=8jG-vq--zgDWOfzJPrKW3Q",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:34:56+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "1ee740589f92",
-"title": "Vụ hoa Tết 2027: Nhà vườn lo thời tiết, tính đường tiêu thụ",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFJYZmVmNXVsNVZWMFhfandYSUtoLTRySzhfZXhEVFRTTEtsb2hoUDhJZ09mLV9MY1ItNUdGRWdtV0RmZGJlSkpLYVhNaVhIYVd4U2RLdldUQW1fLW1vc3FkRElTMlBKVFJkWGdQV09qU2E5V0x5Q2NRNGFZZnZWS2V0QnlNbmd0LWZ5WEE3cXBNRHN0?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T10:34:53+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "800deb751830",
-"title": "Dự báo thời tiết ngày 30/10/2026: Miền Bắc mưa rải rác ở đồng bằng, Hà Nội 30 độ",
-"link": "https://vietnamnet.vn/du-bao-thoi-tiet-ngay-30-10-2026-mien-bac-mua-rai-rac-o-dong-bang-ha-noi-30-do-2566048.html",
-"summary": "Miền Bắc mưa rải rác ở khu vực đồng bằng, nền nhiệt giảm nhẹ, trời mát. Trung Bộ và Nam Bộ mưa to cục bộ. VietNamNet cập nhật những diễn biến mới nhất về thời tiết trên cả nước.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/29/2026-mien-bac-mua-rai-rac-o-dong-bang-ha-noi-29-do-3231.jpg?width=0&s=QJw0XksYj-Dp2H0nfvYOTQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:34:29+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "ed145ad24908",
-"title": "Thanh khoản thị trường chạm đáy 21 tháng, dòng tiền ngập ngừng trước rào cản lãi suất",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0lzcDBJVDJpNllwUEFybldLT3YzRUVNYndSTFg4WHpEU2d1bjlvTzVDbUJjUmRjNFlxd295bkxPRWZsOXdVM0ZCR24zbTFVZzJYOFVLUDk0Nk94WU85MHhqNXVMMTJmOU01THk2RFA4ZVpkOWROem9hS09wTEJIbkJsYWJFUXo1VUp4MS1tUHgxSkg1bkVkVThBM3RjMk9ZMHZOQUVabDdLb045Rk9CaVBtekxVQTd3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T10:34:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "8246947614c6",
-"title": "Bỗng dưng nhận được 1,2 tỷ đồng, ba người phụ nữ liền báo công an",
-"link": "https://vietnamnet.vn/bong-dung-nhan-duoc-1-2-ty-dong-chuyen-khoan-nham-ba-phu-nu-lien-bao-cong-an-2567874.html",
-"summary": "Bất ngờ nhận tổng cộng 1,2 tỷ đồng do người khác chuyển nhầm vào tài khoản ngân hàng, 3 người phụ nữ ở Hà Nội và Quảng Ngãi đã chủ động trình báo công an để tìm người trả lại.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/23/bong-dung-nhan-duoc-12-ty-dong-ba-phu-nu-lien-bao-cong-an-2223.jpg?width=0&s=_xzjfVq4Hl9za7u_7EKG5g",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:33:57+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "d5b227e40ab9",
-"title": "Thời tiết cuối tuần 24-25/10: Cả nước nắng oi, bão Champi gây biển động mạnh",
-"link": "https://vietnamnet.vn/thoi-tiet-cuoi-tuan-24-25-10-ca-nuoc-nang-oi-bao-champi-gay-bien-dong-manh-2566061.html",
-"summary": "Thời tiết cuối tuần 24-25/10 trên cả nước chủ yếu ít mưa, ngày nắng, nhiệt độ phổ biến 31-34 độ. Bão Champi di chuyển hướng Bắc, không ảnh hưởng đến đất liền Việt Nam.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/23/10-ca-nuoc-nang-oi-bao-champi-gay-bien-dong-manh-2837.jpg?width=0&s=unCwbjGap2zhHZkVHtl_Hw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:33:43+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "86b494754b40",
-"title": "Jensen Huang rời ghế CEO, Nvidia vẫn lãi đậm",
-"link": "https://vietnamnet.vn/jensen-huang-roi-ghe-ceo-nvidia-van-lai-dam-2576197.html",
-"summary": "Nvidia vừa đưa ra dự báo doanh thu quý 4 cao hơn đáng kể so với kỳ vọng của Phố Wall, giữa khủng hoảng lãnh đạo sau cú sốc Jensen Huang.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/jensen-huang-roi-ghe-ceo-nvidia-van-lai-dam-660.png?width=0&s=AHDLcyvSOuu2YdhzlRSwlA",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-18T10:33:38+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "1ff704eb4053",
-"title": "Người phụ nữ 2 lần báo tin giúp quy tập 2 hài cốt liệt sĩ",
-"link": "https://vietnamnet.vn/nguoi-phu-nu-2-lan-bao-tin-giup-quy-tap-2-hai-cot-liet-si-2567861.html",
-"summary": "Sau 2 lần tiếp nhận thông tin từ một người phụ nữ, cơ quan chức năng tại Đắk Lắk đã quy tập 2 hài cốt liệt sĩ cùng nhiều di vật liên quan.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/23/nguoi-phu-nu-2-lan-bao-tin-giup-quy-tap-2-hai-cot-liet-si-2145.jpg?width=0&s=aS1_ZXfuBCijPlH94m2Yng",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:33:30+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "86d809ddb3c6",
-"title": "Bắt tạm giam đối tượng đâm đồng nghiệp rồi bỏ đi ngủ",
-"link": "https://vietnamnet.vn/bat-tam-giam-doi-tuong-giet-nguoi-do-mau-thuan-tren-tau-ca-2567873.html",
-"summary": "Mâu thuẫn với đồng nghiệp khi đang theo tàu cá đánh bắt hải sản trên biển, Huỳnh Văn Đúng (An Giang) đã dùng dao đâm nạn nhân tử vong.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/23/bat-tam-giam-doi-tuong-giet-nguoi-do-mau-thuan-tren-tau-ca-2064.jpg?width=0&s=y8ugtpf3_beGiiTk_yGL1g",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:33:15+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "03af4786b97e",
-"title": "Tạm giữ hình sự đối tượng xịt hơi cay vào nhiều người trước quán nhậu",
-"link": "https://dantri.com.vn/phap-luat/tam-giu-hinh-su-doi-tuong-xit-hoi-cay-vao-nhieu-nguoi-truoc-quan-nhau-20261118095352772.htm",
-"summary": "(Dân trí) - Sau khi dùng bình hơi cay xịt vào nhiều người trước một quán nhậu, nam thanh niên bỏ trốn vào khu vực rừng cây, sau đó đến cơ quan công an đầu thú.",
-"image": "https://cdnphoto.dantri.com.vn/ZtCgb-LITGIzlTA4jqYMXznZmbA=/2026/11/18/doituong-xithoicay-edited-1794970199984.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-18T10:33:01+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "b97ab59616e7",
-"title": "Tỷ giá USD hôm nay 18/11: USD ngân hàng giảm, DXY đi lên, thị trường đặt cược Fed tăng lãi suất đến tháng 3/2027",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNDVDUWdqMjAtX1FXN0pFZ3p2b0pfd0FBNmhpcGpHdEFDckk4ektUQXhCcmREaDgwaWlxVjVTSWMyQkktUlF5VW1XbXIyQkVVbmlfcGFhSUtlWVA3RWRvYnpHRW1QRFh6MXFHZDNzV2FOaUlMSXg1ZlhFWV9pdUxuZ0lLV09ROUx2UWRqaGRyR3pvVVVTUXJYMWY4RWVFZkkwMHhQY2NRQjNxdG95SU84TTdDTC1wNlJtVmVIc1lldTZENmhGdk9ZR1p3bzZCTUV6SDdrbmx3di1jZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T10:33:00+07:00",
 "found": "2026-11-18T11:23:38+07:00"
 }
 ]
