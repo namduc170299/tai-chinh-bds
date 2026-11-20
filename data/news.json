@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T08:27:09+07:00",
-"new": 17,
+"updated": "2026-11-20T08:52:42+07:00",
+"new": 27,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 28
+"count": 27
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,182 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "a5d9a46ecb5b",
+"title": "Giá vàng hôm nay 20.11.2026: Sầm sập lao dốc, xuống còn 134 triệu đồng/lượng",
+"link": "https://thanhnien.vn/gia-vang-hom-nay-20112026-sam-sap-lao-doc-xuong-con-134-trieu-dong-luong-185261120082200977.htm",
+"summary": "Giá vàng thế giới lao dốc không phanh đẩy thị trường trong nước xuống sát 134 triệu đồng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-vang-ngoc-thach-1676596534531768419667-1795138704036904043358-67-0-1317-2000-crop-17951387110481176959941.jpeg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-20T08:49:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "836930187807",
+"title": "Chinh phục những đỉnh cao để phụng sự cộng đồng",
+"link": "https://thanhnien.vn/chinh-phuc-nhung-dinh-cao-de-phung-su-cong-dong-185261119204531738.htm",
+"summary": "Có những người trẻ bền bỉ trong hành trình vươn lên, chinh phục những đỉnh cao về tri thức và khoa học công nghệ không phải chỉ để phát triển bản thân mà còn xuất phát từ động lực cống hiến và tinh thần phụng sự cộng đồng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/a1-1795095223664762155427-0-101-576-1023-crop-1795095267071969916022.png",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-20T08:45:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "707feabb64cf",
+"title": "Giá vàng hôm nay 20/11: Lao dốc xuống sát 3.690 USD/ounce, thấp nhất 14 tháng",
+"link": "https://vietnamnet.vn/gia-vang-hom-nay-20-11-lao-doc-xuong-sat-3-690-usd-ounce-thap-nhat-14-thang-2576914.html",
+"summary": "Giá vàng thế giới lại giảm sâu trong bối cảnh nhà đầu tư đánh giá các dữ liệu kinh tế Mỹ và triển vọng chính sách tiền tệ của Fed. Trong nước, giá vàng miếng SJC giảm về mức 133,2-136,2 triệu đồng/lượng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/ounce-thap-nhat-14-thang-3159.jpg?width=0&s=EgzVWYKDPwhCaHilsais-Q",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T08:44:03+07:00",
+"found": "2026-11-20T05:04:17+07:00"
+},
+{
+"id": "d135804dae30",
+"title": "VCBNeo đổi mới không gian giao dịch, nâng tầm trải nghiệm khách hàng",
+"link": "https://vietnamnet.vn/vcbneo-doi-moi-khong-gian-giao-dich-nang-tam-trai-nghiem-khach-hang-2576845.html",
+"summary": "VCBNeo đang từng bước chuẩn hóa nhận diện tại các Chi nhánh, Phòng giao dịch trên toàn hệ thống, kiến tạo không gian phục vụ hiện đại, thuận tiện, khẳng định cam kết không ngừng nâng cao chất lượng phục vụ khách hàng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/vcbneo-doi-moi-khong-gian-giao-dich-nang-tam-trai-nghiem-khach-hang-300.png?width=0&s=qtrMW2mS8CFfzWtgI3l19A",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T08:43:56+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "066ace37eef4",
+"title": "Từng làm thuê rồi tự mua lại công ty mẹ, giáo sư giàu nhất sàn chứng khoán đang chèo lái Vicostone ra sao?",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb1J5YzFxSXBPaE9tU0VvbmVVMHpCbzdwRHVqSks4UEh2REVHY0NPbzFzcUN5VTZlcFRfVTNWa19jRmtmSWFYM084TWEtRTlxTU9vWE51a2kyUnFhc0lWVUdzaTMzNlN5ekxQTDJBdHNKMUh4OGdmV2Jtd2xhQmRxeGNNMlNWdVV2cS1FeXQzSzNiYjdTYUNWYUhHS1ljcl9fc09WRWlIeGdwOUVkLUJ4X1pVQXVaTmI3VnNXX0RsRlFkMlh6ekNrTmU3YW5QbUlRSTd3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T08:42:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "ceac9b6b4f6f",
+"title": "Cháy cửa hàng thiết bị điện, nước ở Lâm Đồng khiến 1 trẻ nhỏ bị bỏng",
+"link": "https://thanhnien.vn/chay-cua-hang-thiet-bi-dien-nuoc-o-lam-dong-khien-1-tre-nho-bi-bong-185261120080853751.htm",
+"summary": "Vụ cháy cửa hàng thiết bị điện, nước xảy ra tối 19.11 tại xã Tân Thành, Lâm Đồng, khiến nhiều tài sản bị thiêu rụi, 1 trẻ nhỏ bị bỏng phải đưa đi cấp cứu.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/2aobordqyunyfufpwugdddrj1ovp51etl0qkmzzm-17951366226851594613584-100-0-876-1241-crop-17951368620441427088040.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T08:41:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "dfa0743a369a",
+"title": "Bảng tra cứu năm nghỉ hưu mới nhất cho người sinh từ 1969 đến 1980",
+"link": "https://kenh14.vn/bang-tra-cuu-nam-nghi-huu-moi-nhat-cho-nguoi-sinh-tu-1969-den-1980-215261120073926057.chn",
+"summary": "Lao động nam sinh từ năm 1967 trở đi đều nghỉ hưu ở tuổi 62, nên năm nghỉ hưu của nam bằng năm sinh cộng 62; với lao động nữ, phải đến người sinh từ tháng 5/1975 mới cố định ở tuổi 60.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795135106655-17951351095081680506387.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T08:38:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "096d1556380b",
+"title": "Giá xăng dầu hôm nay 20/11: Thế giới tăng, xăng trong nước về 19.000 đồng/lít",
+"link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-20-11-the-gioi-tang-xang-19-000-dong-lit-2576965.html",
+"summary": "Giá xăng dầu hôm nay (20/11) trên thị trường quốc tế tăng nhẹ do những lo ngại về an ninh nguồn cung. Trong nước, giá xăng dầu được điều chỉnh giảm từ chiều qua, giá xăng về mức 19.000 đồng/lít.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/lit-278.jpg?width=0&s=hABCiDxiUb9JhcBPtaXqvQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T08:36:16+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "7d77b38d42f6",
+"title": "Anthropic chào sàn, cổ phiếu AI vẫn bị bán tháo",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObm9oNlNtamhTcUhQeUVZOERBM2VvZWp5UFFQR0U3VDFoOS1LWHY4eTNRQ3kwS3hvZTBjRkVNSWVqbnZlZzBLX1FzMVdVVnk4clI2R0dBSDk3LV80TjAwT3Y1NHNWdEp5Snpaa0dyLXdsOUFmNjd5dUV3YzQ2WWtTVDFsUWZkZw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T08:35:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "bae36c182132",
+"title": "Cổ phiếu Anthropic ra mắt ấn tượng, chứng khoán Mỹ vẫn giảm mạnh",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNERPQkJMWnZxWEl2eGQ1cUpWY0VEVUtlUS02Qk44UEhxZWZMNng0NUtfamVZclJERFJnblRzeVExTHN5V1FKbFVlY2E3MFFNRTNuMmRYTG1NQWg3LW15cUZtV0ltTDVDYzE2QkY1VWQ3ZjB4dVhwWW1HeUFSTFZTbzRKaGZVeUFrRE1ndGRqNGpmbG1qWmRJZnkwY3o?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T08:35:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "8c2fa3f1e83d",
+"title": "Chứng khoán Mỹ bán tháo dù cổ phiếu Anthropic tăng 17% trong phiên chào sàn, giá dầu đi lên",
+"link": "https://vneconomy.vn/chung-khoan-my-ban-thao-du-co-phieu-anthropic-tang-17-trong-phien-chao-san-gia-dau-di-len.htm",
+"summary": "Thị trường chứng khoán Mỹ giảm điểm mạnh trong phiên giao dịch ngày thứ Năm (19/11), đóng cửa ở mức thấp nhất trong phiên, dù cổ phiếu của công ty trí tuệ nhân tạo (AI) tăng mạnh trong phiên giao dịch đầu tiên trên sàn Nasdaq...",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/20/2e6429f025f54a039518ffdcbbafde47-137261.webp?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-20T08:34:19+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "4a3b870dcc6c",
+"title": "ECB chỉ ra những điểm tương đồng giữa cơn sốt AI và bong bóng dotcom",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM09ZaXRKREM0MVNTeEFmSE82d0JvUW9rS1QxLVVZZkF2bmpaWjRWZGxvWVNfbDZ3bjg5Y3ltS3BXcGZwNVVFTlNGMEpmSDIwcFZNdXNLcC16MlBWdVQtZTdWNVUzOV9xcFRtMFhuRERiakcyRm1VeE51dGctbExwNXY4clBKTmNmQUdQbTJGVkluQzFueU1obTJiclJPb08yYWhZ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T08:33:37+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "f0da5c50cef4",
+"title": "PNJ tiếp tục có biến động về nhân sự cao cấp",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaUtmTzVzSkxVN0lvNlJwaHpMSzVNdDZuaHh5TjNRQTVJS0JUTWQzMVJqcWZuRHNSSGFjTFVCRjNQRG1OWUlYSWZ4VE1GaWJWdDZZU1ZNYkhNWDBFX2FCLVZ5TjFuZE1aR3dDQ3FwSm4tblIzYnBkWUlRUm5EXzVZNmREMA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T08:32:30+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "5b431ea2a50b",
+"title": "Tất cả người dân có lương hưu, trợ cấp trên cả nước chú ý thông tin mới nhất từ 2027",
+"link": "https://kenh14.vn/tat-ca-nguoi-dan-co-luong-huu-tro-cap-tren-ca-nuoc-chu-y-thong-tin-moi-nhat-tu-2027-215261120074048851.chn",
+"summary": "Người dân có lương hưu, trợ cấp trên cả nước cần lưu ý gì trong năm 2027?",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795135179098-17951351797501612323438.jpeg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T08:28:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "0c016ebc2356",
+"title": "Đồng USD hướng tới tuần tăng thứ tư sau thương vụ IPO của Anthropic",
+"link": "https://dantri.com.vn/kinh-doanh/dong-usd-huong-toi-tuan-tang-thu-tu-sau-thuong-vu-ipo-cua-anthropic-20261120075634267.htm",
+"summary": "(Dân trí) - Đồng USD đang hướng tới tuần tăng giá thứ tư liên tiếp, được hỗ trợ bởi dòng tiền đổ vào thương vụ IPO của Anthropic, kỳ vọng Fed tăng lãi suất và lợi suất trái phiếu Mỹ ở mức cao.",
+"image": "https://cdnphoto.dantri.com.vn/WqfT02nYGqHi7md3WMnEy7UF9ds=/2026/11/20/dong-usd-huong-toi-tuan-tang-thu-tu-sau-thuong-vu-ipo-cua-anthropic-cropped-1795136151442.jpg?watermark=v1",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-20T08:23:14+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
+"id": "e055f01640ba",
+"title": "Mức độ quan tâm chung cư giảm, giá căn hộ năm 2027 có hạ nhiệt?",
+"link": "https://dantri.com.vn/bat-dong-san/muc-do-quan-tam-chung-cu-giam-gia-can-ho-nam-2027-co-ha-nhiet-20261119220413878.htm",
+"summary": "(Dân trí) - Mức độ quan tâm chung cư tại Hà Nội và TPHCM cũ giảm trong tháng 10, nguồn cung mới dự báo tăng mạnh, tạo thêm áp lực hấp thụ và có thể khiến đà tăng giá căn hộ chậm lại trong năm 2027.",
+"image": "https://cdnphoto.dantri.com.vn/Ykgfo-jcSw88db8f40-_5-QTop0=/2026/11/19/chung-cu-tai-tphcm-cropped-1795100575751.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-20T08:23:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
 {
 "id": "5ed510857393",
 "title": "Lãi suất qua đêm hạ nhiệt, lượng vay liên ngân hàng tăng 17%: Bài toán kỳ hạn phía sau dòng vốn của 28 ngân hàng",
@@ -301,6 +477,17 @@
 "found": "2026-11-20T08:27:09+07:00"
 },
 {
+"id": "ef54a0c78bf0",
+"title": "TP.HCM khởi công khu nhà ở xã hội lớn nhất cả nước",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0l1bS1iaFVCV2xieWQ3bVRWVVUxUk5faUdPZmlaVDJnMXNmODY3Y1VCU0ttaE5tRVJZWWkySkp5aENGVWdmN1FFWWExV0p6U01nSWQ1bTh3dTl1SHJBYjRuQWRaeFdKTzEwS0MyX1ByNVJmRUFhTFdUVWV3ZUN6R1E4TXo5dFh5c1Vr?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T08:10:45+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
 "id": "57470c0bc051",
 "title": "Cổ đông ngoại tiếp tục rót vốn vào sàn tài sản số CAEX",
 "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2IwTTU2TzN2MFh6VG52VFVTUWFnNlRUVFdYcy1MRjgtREN1TkpTTDVBTTN2ZkR1dFpYQnZINjBPb3B5bU50T1l4aVpCVmdrbU9ZSjhFenU5VzFZQzBBaUVPei1SSVpvaGtPTG9Nc3d0dThCVnFTUlJxZ0JZb2RaYkFNN1RLV2FjLVNkV09Pdmc?oc=5",
@@ -332,6 +519,17 @@
 "cat": "tc",
 "published": "2026-11-20T08:08:00+07:00",
 "found": "2026-11-20T08:27:09+07:00"
+},
+{
+"id": "8d3d765f2114",
+"title": "Những 'nước cờ' độc lạ tại Taseco Land",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0aFFkcEVvV1B6cHJpclltY0FXN0lGZmVZRGI3R1Z3bndUWjdodU1lV0kxVHpyX1IxNkh3WkJ4eW01R21lMk95dDZSa2F4NURpXzhnNElVNjdiNDczTlB1RUtXMmRQcEhORVc3aFE0S3NBTmZpNEtyVw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T08:06:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
 },
 {
 "id": "65909aca807a",
@@ -378,6 +576,17 @@
 "found": "2026-11-20T08:12:00+07:00"
 },
 {
+"id": "44132d563a2c",
+"title": "Stress chồng chất vì điểm số, bạn trẻ chọn ‘ngồi yên’, thiền thở",
+"link": "https://tuoitre.vn/stress-chong-chat-vi-diem-so-ban-tre-chon-ngoi-yen-thien-tho-100261113110029707.htm",
+"summary": "Giữa nhịp sống đô thị hối hả, áp lực công việc, học tập khiến nhiều bạn trẻ tìm đến thiền như một cách cân bằng tinh thần. Thay vì những hình thức giải trí quen thuộc, các bạn chọn ngồi yên, hít thở và lắng nghe chính mình.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/179454106675026180094515431363610542773467023778955113dda69834994f7f156f1198ab9727-17945415324701920151795-493-325-1618-2124-crop-17951364113631359396109.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-20T08:04:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
 "id": "7f59351e24a3",
 "title": "Liên minh châu Âu xem xét khoản vay bổ sung 45 tỷ euro cho Ukraine",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTlYxUWp5Qk1WamlmdUZwaGNYZnZxWDZQcUFhaEs2cHZLN3lMYjE2MWY4YVllbmZUa2JZZ0FJLVM4SXZzSkdTOWswT1NEUUl3UHpGWkludTZGMVpDcXlxZ3UwS2p0Mjhzc3YwclR3S1d6V1BfTVZic2Rkd0VHaWdJQjA3M3ZiTzdrLXozVTl5Nk81V0R3WEFMUnFQdDJoajBC?oc=5",
@@ -387,6 +596,17 @@
 "cat": "tc",
 "published": "2026-11-20T08:03:30+07:00",
 "found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "b5336333d569",
+"title": "Bị hại vụ ông Lê Thanh Thản: Nếu hiểu nỗi khổ của cư dân 13 năm qua, đừng nói giá 56 triệu đồng/m² là cao",
+"link": "https://tuoitre.vn/bi-hai-vu-ong-le-thanh-than-neu-hieu-noi-kho-cua-cu-dan-13-nam-qua-dung-noi-gia-56-trieu-dong-m-la-cao-100261120002247627.htm",
+"summary": "Một bị hại phải di dời khỏi chung cư CT6C liên quan vụ ông Lê Thanh Thản bày tỏ, nếu thấu hiểu những thiệt thòi người dân phải chịu suốt 13 năm qua, có lẽ phía bào chữa không nên đặt vấn đề như vậy.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/le-thanh-than-3k-17951084075082144297820-67-0-1667-2560-crop-179510880690158065725.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T08:01:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
 },
 {
 "id": "4d63711835b6",
@@ -512,6 +732,17 @@
 "found": "2026-11-20T08:27:09+07:00"
 },
 {
+"id": "ca0a0428ebc8",
+"title": "Người mua Destino Centro có thể nhận nhà với 30% vốn tự có",
+"link": "https://vnexpress.net/nguoi-mua-destino-centro-co-the-nhan-nha-voi-30-von-tu-co-5146466.html",
+"summary": "Người mua căn hộ tại Destino Centro có thể nhận bàn giao nhà khi thanh toán 30% giá trị sản phẩm bằng vốn tự có, 70% còn lại thông qua khoản vay ngân hàng theo chính sách của Seaholdings.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/1-1795062186-5486-1795082599.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KWgzpcvVuGnnWBpP3KHG5w",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-20T08:00:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
 "id": "821c34b9e76b",
 "title": "Quốc hội biểu quyết Luật sửa đổi 3 luật Thuế",
 "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS2Mtam4wZ3g3WXFIYWVfVjl5NkRTZmVjb3YxYlY3VWV5UUNUZ2FaZzM3TnBDc0NROTNiVzVpQXhlLTRyc1NWSWE2Vld3S2xLQ084QVMyUjdBSUJxU0RPYmlCM2NzZTMzV2ltU3FWUFQ3ZkczUDMyOW8wY09CRE9wTXB2Yw?oc=5",
@@ -523,6 +754,17 @@
 "found": "2026-11-20T08:12:00+07:00"
 },
 {
+"id": "ca79ac0784ff",
+"title": "Xe ben chạy đường cấm ở phường Tân Hiệp, Tân Uyên, Long Nguyên",
+"link": "https://tuoitre.vn/xe-ben-chay-duong-cam-o-phuong-tan-hiep-tan-uyen-long-nguyen-100261120001615914.htm",
+"summary": "Nhiều xe ben tải trọng 24-37 tấn chạy vào những tuyến đường có biển cấm, chở đất đá không che chắn làm rơi vãi xuống đường tại một số khu vực ở TP.HCM.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/edit-xe-ben-2-17951083651841803371567-0-35-1032-1686-crop-17951083702092024850137.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T07:56:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
 "id": "e5299c7418d2",
 "title": "Miền Bắc rét nhất từ đầu mùa, miền Trung mưa đỉnh điểm",
 "link": "https://kenh14.vn/mien-bac-ret-nhat-tu-dau-mua-mien-trung-mua-dinh-diem-215261120073810383.chn",
@@ -532,6 +774,17 @@
 "cat": "xh",
 "published": "2026-11-20T07:53:00+07:00",
 "found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "9f21b2914007",
+"title": "Giá vàng thế giới mất mốc 3.600 USD",
+"link": "https://vnexpress.net/gia-vang-the-gioi-mat-moc-3-600-usd-5146847.html",
+"summary": "Kim loại quý lao dốc phiên thứ ba liên tiếp vì sức ép từ lãi suất và đồng đôla Mỹ, có lúc về 3.589 USD.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/goldsilverreuters-1795135532-1679-1795135561.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NXdWyCR8DSWT_u7flqnZlg",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-20T07:49:44+07:00",
+"found": "2026-11-20T08:52:42+07:00"
 },
 {
 "id": "5aad92ce0107",
@@ -655,6 +908,17 @@
 "found": "2026-11-20T07:41:21+07:00"
 },
 {
+"id": "3d312d29a024",
+"title": "Giá vàng 20-11: Vàng thế giới rơi sát 3.600 USD, cảnh báo còn giảm thêm",
+"link": "https://tuoitre.vn/gia-vang-20-11-vang-the-gioi-roi-sat-3600-usd-canh-bao-con-giam-them-100261120071749805.htm",
+"summary": "Giá vàng thế giới giảm gần 250 USD/ounce chỉ sau hai phiên, xuống sát mốc 3.600 USD/ounce. Trong nước, giá vàng miếng SJC và vàng nhẫn cũng điều chỉnh giảm, nhưng chênh lệch với giá thế giới vẫn ở mức hơn 23 triệu đồng/lượng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/17919395014042145362399469602018214536239946960201835fb8466b8ef5c867b21c5185e3c919b-1795133537164932108737-0-0-1249-1999-crop-17951336470081996722660.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-20T07:32:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
 "id": "78eee4f2881c",
 "title": "Nhà ống thiếu sáng, 4 loại cây phù hợp với không gian hẹp, sâu và tối",
 "link": "https://vietnamnet.vn/nha-ong-thieu-sang-4-loai-cay-cuu-khong-gian-hep-sau-va-toi-2576528.html",
@@ -686,7 +950,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T07:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-20T07:56:50+07:00"
 },
 {
@@ -1059,7 +1323,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T06:40:00+07:00",
-"traffic": "10000+",
+"traffic": "20000+",
 "found": "2026-11-20T07:26:10+07:00"
 },
 {
@@ -1231,6 +1495,17 @@
 "cat": "xh",
 "published": "2026-11-20T06:07:00+07:00",
 "found": "2026-11-20T06:25:12+07:00"
+},
+{
+"id": "30481984e08c",
+"title": "Trên công trường xây dựng Khu tái định cư Bậc Rây 1",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOal95MHd1OGtQWjN1V3V2SVJVc1pJUFpWZ0FYbTJDWEg2OHkzNkd5UDg2Z0Zlc2RBeFdhUHFYczhqOWpqbGVtU0V3S0RYZU5PUzRVQmxFRTZCZms5TEJqdkN6SnRMS2JIa25WbU95Z1dQM0R6d2NVNGhEdEptQ01TTkxFODhfOGVFZGFlZA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T06:07:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
 },
 {
 "id": "4fc6370e87c5",
@@ -1624,17 +1899,6 @@
 "cat": "xh",
 "published": "2026-11-20T05:06:00+07:00",
 "found": "2026-11-20T05:19:27+07:00"
-},
-{
-"id": "707feabb64cf",
-"title": "Giá vàng hôm nay 20/11: Lao dốc xuống sát 3.690 USD/ounce, thấp nhất 14 tháng",
-"link": "https://vietnamnet.vn/gia-vang-hom-nay-20-11-lao-doc-xuong-sat-3-690-usd-ounce-thap-nhat-14-thang-2576914.html",
-"summary": "Giá vàng thế giới lại giảm sâu trong bối cảnh nhà đầu tư đánh giá các dữ liệu kinh tế Mỹ và triển vọng chính sách tiền tệ của Fed. Trong nước, giá vàng miếng SJC giảm về mức 133,2-136,2 triệu đồng/lượng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/ounce-thap-nhat-14-thang-3159.jpg?width=0&s=EgzVWYKDPwhCaHilsais-Q",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-20T05:00:00+07:00",
-"found": "2026-11-20T05:04:17+07:00"
 },
 {
 "id": "4b932f50e324",
@@ -2398,6 +2662,17 @@
 "cat": "xh",
 "published": "2026-11-19T21:17:00+07:00",
 "found": "2026-11-19T21:28:56+07:00"
+},
+{
+"id": "37c81e5782d4",
+"title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Khu di tích Nhà ở cũ của Chủ tịch Hồ Chí Minh tại Côn Minh, Trung Quốc",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2ZzY3c1RF9DNmVkOGZVVXdHNzBoeVVJTHdRT1FpQ1lGS3gxSFl4ZUJIT25JUld1UFJqV1BROW1vc1FtT0xFS2xTT0VYTVQ3amRkLUVWNzNpdHlkYVI5OWdBckxSMEt3LVFJSW5vSnhpalZEUnk0ajJ4Snk4OTVpbC1zaXhXYlljTExLOUtSMmZyZldtdV82Wnk3WHdVWVZUMlREdDc3X01RY21HUzFzU0VWWDdHSzFlRTN0X2h5SDVQOVB0bGhqc2lTa1JlLU1KZUpjeTUxbw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T21:16:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
 },
 {
 "id": "fd8188ffcffc",
@@ -4043,6 +4318,17 @@
 "cat": "bds",
 "published": "2026-11-19T17:55:00+07:00",
 "found": "2026-11-19T18:01:45+07:00"
+},
+{
+"id": "49ff8034fc27",
+"title": "Cử tri kiến nghị gắn đô thị hóa với tạo việc làm, bảo đảm sinh kế bền vững",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQkt5Ymp3N0pGVUU0M1B5OURmYmRabXFqTjdaYk40SkIyV0NaSnBsNTFIeDVVNTFteUZtZnd1bFNNcmJEVDQzM1ZJN1piZnk0TW5TeG5zVTVrN2tJWTNMLVhLTGw2Mzg1Y1hkSXhhWVZRLWFtR1R2TWI4N0NZQmdzRHVETVRzZTJwQjQ0dEZ2YVc1LVpCVHV3SHMwZFNRTV91akUyNzgxV3oyUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T17:55:00+07:00",
+"found": "2026-11-20T08:52:42+07:00"
 },
 {
 "id": "105be82e9122",
@@ -21467,6 +21753,17 @@
 "found": "2026-11-18T11:23:38+07:00"
 },
 {
+"id": "8206b81a23e5",
+"title": "Phòng, chống \"rage bait - bẫy cảm xúc phẫn nộ” ở Việt Nam - Bài 3: Xây dựng “kháng thể số” là nhiệm vụ cấp bách (Tiếp theo và hết)",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORldwRVR4X2plSmFMUnRVNHIxZWU5ajFWUkxyQkZ1aW94RHBTWkNVaW9ieWctRF9qYXo0anYwbHNVbERfY2ZZejJsNTFwQU1VU0VvSHF6bVJ1ZkpNaURJak9HcjdobnByWENMQ1A3NFBKazN1TTdaVnFJQmJNekFVMWg5Rllra1cyMHl3YURqdEFyZ0RWS25fVUt1dFVLRG1XRGZRR2dGbmJCRE13SldQdGVYQkpGU0ZxRjFrLXJXenlJVjNiS3FXX1VuOXkxQ2VtYVVCM0d2Sk0?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-18T10:53:53+07:00",
+"found": "2026-11-20T08:52:42+07:00"
+},
+{
 "id": "e32d378a387f",
 "title": "Ngân hàng thông báo mới nhất: Người dùng khẩn trương liên kết tài khoản định danh điện tử VNeID trước thời hạn này",
 "link": "https://kenh14.vn/ngan-hang-thong-bao-moi-nhat-nguoi-dung-khan-truong-lien-ket-tai-khoan-dinh-danh-dien-tu-vneid-truoc-thoi-han-nay-215261118105558636.chn",
@@ -27677,306 +27974,6 @@
 "source": "Báo Mới",
 "cat": "bds",
 "published": "2026-11-17T19:38:34+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "46bade9ac2f5",
-"title": "Mùa đông năm nay có thể ấm hơn bình thường",
-"link": "https://vnexpress.net/mua-dong-nam-nay-co-the-am-hon-binh-thuong-5145804.html",
-"summary": "Mùa đông 2026-2027 được dự báo nền nhiệt cao hơn 0,5-2 độ C so với trung bình nhiều năm, số ngày rét đậm, rét hại ở miền Bắc có thể giảm.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/dsc2926-1794912359-5410-1794912434.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CtWW9cyKhSLR7WhQ-oozjQ",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-17T19:36:44+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "cd19dac70cbe",
-"title": "Làm gì để cây Robusta chống chịu khỏe trong mùa El Nino?",
-"link": "https://tuoitre.vn/lam-gi-de-cay-robusta-chong-chiu-khoe-trong-mua-el-nino-100261116101232993.htm",
-"summary": "Mới vào đầu tháng 11, chưa thu hoạch cà phê nhưng đã có nhà vườn phải đi tưới do nắng hạn. Sự chi phối rất mạnh của El Nino có thể khiến cây cà phê bị ảnh hưởng nặng nếu không chủ động phòng ngừa sớm.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/16/20261103-ca-phe-robusta-17-1-1794829557758168325564-5-0-1716-2738-crop-17948296648191518280269.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-17T19:35:00+07:00",
-"found": "2026-11-17T21:37:02+07:00"
-},
-{
-"id": "5118db587bdd",
-"title": "Đến 17-11, đã tìm thấy 1.026 hài cốt liệt sĩ ở công viên Lê Thị Riêng",
-"link": "https://tuoitre.vn/den-17-11-da-tim-thay-1026-hai-cot-liet-si-o-cong-vien-le-thi-rieng-100261117173713706.htm",
-"summary": "Ngày 17-11, các lực lượng tiếp tục phát hiện thêm 8 bộ hài cốt liệt sĩ tại công viên Lê Thị Riêng, nâng tổng số hài cốt liệt sĩ được tìm thấy tại đây lên 1.026 bộ.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/17949106701833982507751881643158g1827822888637244303299844567426f5fc2ad8122bf0b4c595-1794911425879405888023-408-162-1514-1932-crop-17949115419391976710194.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T19:35:00+07:00",
-"found": "2026-11-17T21:37:02+07:00"
-},
-{
-"id": "08c7efe2ae30",
-"title": "Một email giả mạo có thể khiến doanh nghiệp mất tiền, đình trệ kinh doanh",
-"link": "https://vietnamnet.vn/mot-email-gia-mao-co-the-khien-doanh-nghiep-mat-tien-dinh-tre-kinh-doanh-2575954.html",
-"summary": "Chỉ một email giả mạo đối tác cũng có thể khiến doanh nghiệp chuyển tiền nhầm tài khoản. Sự cố làm gián đoạn hệ thống bán hàng không chỉ khiến đơn hàng đình trệ mà còn ảnh hưởng trực tiếp đến dòng tiền và tiến độ giao hàng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/mot-email-gia-mao-co-the-khien-doanh-nghiep-mat-tien-dinh-tre-kinh-doanh-2526.jpg?width=0&s=u-gT87v8xqsdCY2iQ_smgA",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-17T19:34:10+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "51f5b764d56b",
-"title": "Gần 1/3 nhân sự rời Sacombank trong 9 tháng",
-"link": "https://vietnamnet.vn/gan-1-3-nhan-su-roi-sacombank-2575948.html",
-"summary": "Gần 1/3 nhân sự rời Sacombank trong 9 tháng đầu năm sau quá trình tinh gọn bộ máy thực hiện gần một năm qua. Ngân hàng hướng đến mục tiêu Top 1 về thu nhập cho nhân viên.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/3-nhan-su-roi-sacombank-trong-9-thang-2519.jpg?width=0&s=r809ZvzOXMdltB-W0K0xfg",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-17T19:33:11+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "20e7ebe0a60c",
-"title": "Vụ tham ô tại Công ty Cao su Đà Nẵng: Đình chỉ sinh hoạt Đảng cựu tổng giám đốc",
-"link": "https://thanhnien.vn/vu-tham-o-tai-cong-ty-cao-su-da-nang-dinh-chi-sinh-hoat-dang-cuu-tong-giam-doc-185261117190159744.htm",
-"summary": "Liên quan vụ án 'tham ô tài sản' xảy ra tại Công ty cổ phần cao su Đà Nẵng, Ủy ban Kiểm tra Thành ủy Đà Nẵng đã xem xét, đình chỉ sinh hoạt Đảng đối với ông Lê Hoàng Khánh Nhựt, cựu Tổng giám đốc công ty.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/1-1794916843155500432383-0-142-1453-2467-crop-1794916915527582724851.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T19:31:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "abc9732782a8",
-"title": "Khởi tố thanh niên 24 tuổi sát hại người tình 32 tuổi trong phòng trọ",
-"link": "https://tuoitre.vn/khoi-to-thanh-nien-24-tuoi-sat-hai-nguoi-tinh-32-tuoi-trong-phong-tro-100261117180803378.htm",
-"summary": "Nam thanh niên 24 tuổi giết người tình 32 tuổi tại phòng trọ ở xã Phú Quới, tỉnh Vĩnh Long. Công an tỉnh này ra quyết định khởi tố, bắt tạm giam bị can.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/img-8155-17949134410901515076986-512-71-1281-1301-crop-1794919146196202335718.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T19:30:00+07:00",
-"found": "2026-11-17T21:37:02+07:00"
-},
-{
-"id": "ce4244a5b8bf",
-"title": "Giá vàng hôm nay 17/11: Vàng thế giới tương đương 120 triệu/lượng, SJC hạ về 137,2 triệu/lượng",
-"link": "https://vietnamnet.vn/gia-vang-hom-nay-17-11-vang-sjc-ha-ve-137-2-trieu-luong-2575679.html",
-"summary": "Giá vàng miếng SJC sáng 17/11 giảm 300.000 đồng/lượng ở cả hai chiều, còn 137,2 triệu đồng/lượng ở chiều bán ra. Vàng nhẫn SJC bán ra ở mức 137 triệu đồng/lượng, thấp hơn vàng miếng 200.000 đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/11-vang-the-gioi-duoi-3-7.jpg?width=0&s=no5fqS0rAitjM2lYpBQC9g",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-17T19:29:17+07:00",
-"found": "2026-11-17T09:22:54+07:00"
-},
-{
-"id": "0d5f2182d4c7",
-"title": "Giả vờ mua, nam thanh niên giật 278 tờ vé số của người khuyết tật",
-"link": "https://dantri.com.vn/dt360/gia-vo-mua-nam-thanh-nien-giat-278-to-ve-so-cua-nguoi-khuyet-tat-20261117192316968.htm",
-"summary": "(Dân trí) - Khi ông D. đưa tập vé số để khách lựa chọn, người này bất ngờ giật toàn bộ 278 tờ vé số rồi tăng ga bỏ chạy. Nạn nhân sau đó đến cơ quan công an trình báo.",
-"image": "https://cdnphoto.dantri.com.vn/Mz9bqR1FBgLrPdTQs3xoHA-pRkQ=/2026/11/17/ve-so-1794918069709.gif",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-17T19:27:06+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "63cff0ca527b",
-"title": "Nvidia lập ủy ban giám sát xuất khẩu sau khi tỷ phú Jensen Huang rời ghế CEO",
-"link": "https://dantri.com.vn/kinh-doanh/nvidia-lap-uy-ban-giam-sat-xuat-khau-sau-khi-ty-phu-jensen-huang-roi-ghe-ceo-20261117182240658.htm",
-"summary": "(Dân trí) - Theo hãng tin Reuters, tập đoàn công nghệ Nvidia vừa thành lập Ủy ban Giám sát An ninh Quốc gia và Kiểm soát Xuất khẩu, trực thuộc Hội đồng Quản trị.",
-"image": "https://cdnphoto.dantri.com.vn/4PA_3pUyH8U7w-R7buZ59QUJpWM=/2026/11/17/nvidia20251009150236bloomberg-edited-1794914155471.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-17T19:26:51+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "f1f7a71754b1",
-"title": "Quảng Ngãi tăng tốc hoàn thành dữ liệu đất đai, nâng cao hiệu quả quản lý",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3J1TFEyb1RrQmFTQzZVOE1rM2F4VHZxOWkyM3A3T2dkUmFOQjdQZDBjemE3TVRnaHRhTmczMnFyZmZETWs2bHJOYVBCbGVPSUtGMzV6LV85QW5CVTlFYklvV1FPZHhpUElDNnctLU9ucXpaSzM0cjd0OUNBV2NKVFB0LTQtc1h1TXBpWkF0dV8xSU1rYlZzakh1WmhnSUFMbTBFYzJoT3g?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T19:26:50+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "55e9a542cd43",
-"title": "Thu hồi đất ở: Có nhà mới được bồi thường hay chỉ cần có đất ở?",
-"link": "https://vietnamnet.vn/thu-hoi-dat-o-co-nha-moi-duoc-boi-thuong-hay-chi-can-co-dat-o-2575761.html",
-"summary": "Cục Quản lý đất đai (Bộ Nông nghiệp và Môi trường) làm rõ cách hiểu quy định về đối tượng được bồi thường khi Nhà nước thu hồi đất ở, trong đó có vấn đề người sử dụng đất có bắt buộc phải sở hữu nhà ở gắn liền với đất hay không.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/thu-hoi-dat-o-co-nha-moi-duoc-boi-thuong-hay-chi-can-co-dat-o-2486.jpg?width=0&s=vA4EMWUXqkgdlT7p7xb1LQ",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-17T19:26:41+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "26a5543e7b9a",
-"title": "Hơn 869 tỷ đồng xây nhà ở cho lực lượng Công an tại Đắk Lắk",
-"link": "https://vietnamnet.vn/hon-869-ty-dong-xay-nha-o-cho-luc-luong-cong-an-tai-dak-lak-2575825.html",
-"summary": "Bộ Công an vừa phối hợp với Công an tỉnh Đắk Lắk khởi công dự án nhà ở dành cho lực lượng vũ trang Công an nhân dân tại phường Thành Nhất. Dự án có tổng vốn đầu tư 869,5 tỷ đồng, dự kiến cung cấp 500 căn nhà.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/hon-869-ty-dong-xay-nha-o-cho-luc-luong-cong-an-tai-dak-lak-2479.jpg?width=0&s=i72udyoDe0uX6ebo9q3Uog",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-17T19:26:19+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "6e62f1f808ea",
-"title": "Tin không khí lạnh mới nhất: Khi nào miền Bắc chuyển rét đậm dưới 10 độ?",
-"link": "https://kenh14.vn/tin-khong-khi-lanh-moi-nhat-khi-nao-mien-bac-chuyen-ret-dam-duoi-10-do-215261117164327345.chn",
-"summary": "Không khí lạnh tràn xuống từ ngày 18/11 khiến miền Bắc chuyển rét, vùng núi cao có nơi dưới 10 độ C, trong khi Bắc Bộ và Trung Bộ xuất hiện mưa dông, cục bộ có nơi mưa rất to.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/17/avatar1794908579462-17949085797302096072491.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-17T19:24:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "68d751067602",
-"title": "Cử tri kiến nghị tháo gỡ vướng mắc về thiết chế văn hóa cơ sở",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3FtTFktVFU0NkFmekJNZXZOWUNwWC1paXJPWk5MYkE3eDk0MTBYemhJTDJtbnRtdmtCLUQ3c05hYVoxM01wZm9lV3VvRk04QWVOQ2xjYVlYT3BJUGhlb2ZMWFFQV2swU0xxZHRISTVYTEM3WXpWc1Q4Q2N4c0diZ1NJWlhJaXBzTFFFa0ttUzV5c2N5dnBKSUJn?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T19:24:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "8557527da3a0",
-"title": "Di dời nguyên khối Cổng Parabol Đại học Bách khoa Hà Nội",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX2pPR3E1RnJLaHhsN1VCbDkzaHNoWE5VdDhYVmEtTEJraTFHdGJjMTVvMWNOVnUxZXpLVzRnZW5Yc3VfMU9oVVlhTWFnazY0ZnpWNzlvcEZ0N181aFZlRF9NUlBpV3l0Ui1VR29LMjhtQl9EVDRTcUMtZXdlM3Y0UE9hV2lHWE5aMU5tNjQ1S1RYcTQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T19:24:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "a56b669e1c8e",
-"title": "Bảo đảm đồng bộ ba dự thảo luật về đất đai, nhà ở và kinh doanh bất động sản",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZU16UjNCRExtUXB4MUNDM3JNQ3p1b1FsS2xyRk9sUVdFY0RXbVZ1MW5vSlI0TV9FNXV0eWhpblJEaVREdjgwTlpwSU9pYmFDYUZ3cENEU2JYMXZWUkZIVEt3b1hfZWxKeDZVZklXSC1HUWpIS1dIWnV2eGs4bTNUMWhKb1ZtUmc1TjFURU51ekhxVkhQV00zSWdzaUg5dmNnLTJKNFpZd0dNbDBE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T19:21:15+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "e8da553c5405",
-"title": "báo điện tử soha",
-"link": "https://dantri.com.vn/khoa-hoc/loi-ke-cua-giao-su-92-tuoi-ve-duong-cong-o-cong-parabol-dai-hoc-bach-khoa-20261112195929309.htm",
-"summary": "Lời kể của giáo sư 92 tuổi về đường cong ở cổng Parabol Đại học Bách Khoa (Báo Dân trí)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8IMkSS2qQ7-v0J5AVvx01xiPOR17ReC00bVt3WTuuMuxPaVZVbGmkkbWJs8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-17T19:20:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "f24a6b54d6fe",
-"title": "malawi đấu với ai cập",
-"link": "https://www.reuters.com/sports/soccer/salah-breaks-egypt-scoring-record-tunisia-lose-libya-2026-11-13/",
-"summary": "Salah breaks Egypt scoring record as Tunisia lose to Libya (Reuters)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9GxWdneA2m6HPIEy8Cm3rvmctDsvhCLf6e20W_nJqW-X3QTNwQuu6lHWf5nc",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-17T19:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "2975d693add7",
-"title": "thái lan vs",
-"link": "https://bongdaplus.vn/bong-da-chau-a/nhan-dinh-bong-da-tajikistan-vs-thai-lan-19h30-ngay-17-11-khach-khong-de-xoi-5290792611.html",
-"summary": "Nhận định bóng đá Tajikistan vs Thái Lan, 19h30 ngày 17/11: Khách không dễ hạ gục (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzPp9xAtGmyGPm3a53W7aBKm7WDkAG9w1gro_SKckV6CSmVBpsub-AS__SJoo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-17T19:20:00+07:00",
-"traffic": "500+",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "ba25d2e5fab0",
-"title": "Hàng trăm trụ sở công dôi dư ở Hải Phòng được khai thác, cho thuê tránh lãng phí",
-"link": "https://tuoitre.vn/hang-tram-tru-so-cong-doi-du-o-hai-phong-duoc-khai-thac-cho-thue-tranh-lang-phi-100261117174116602.htm",
-"summary": "Hàng trăm trụ sở, nhà đất công dôi dư sau sắp xếp đơn vị hành chính tại Hải Phòng được tính toán chuyển đổi công năng hoặc đưa ra cho thuê nhằm tránh lãng phí.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/tru-so-doi-du-1794909739057182983361-170-1014-1099-2500-crop-17949202462041100715395.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-17T19:20:00+07:00",
-"found": "2026-11-17T21:37:02+07:00"
-},
-{
-"id": "2ec3b57e73b8",
-"title": "Cục Thuế: Đã ban hành trên 250.000 thông báo tạm hoãn xuất cảnh",
-"link": "https://dantri.com.vn/kinh-doanh/cuc-thue-da-ban-hanh-tren-250000-thong-bao-tam-hoan-xuat-canh-20261117185825153.htm",
-"summary": "(Dân trí) - Cơ quan thuế đã ban hành hơn 250.000 thông báo tạm hoãn xuất cảnh. Trong đó, khoảng 20.000 chủ doanh nghiệp, hộ kinh doanh không hoạt động tại địa chỉ đăng ký đã được gỡ tạm hoãn xuất cảnh.",
-"image": "https://cdnphoto.dantri.com.vn/cu41H-iHIuvvAJxIoFteapMT6pI=/2026/11/17/auto-gate-noi-bai-2-1703260979386-1794916391795.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-17T19:17:38+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "56c9f26fc9f0",
-"title": "Tiếp tục hoàn thiện chính sách đất đai, bất động sản",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0pOSDVvM2N5Wm0zWHBfdlYxejRoZTU2Y2VVTVhHc09uUnhxVWJqVWtfTld6aGtLdjNJNmJJdFF6MHdldlZNYlZWbEpSZmIwaHVwQlZMcXVyRm11ZUtwclI0NzZnTHpuWHFZaXhrVTdmeWRrOWdnTm4wV0pWaURYdlZINEJlMjZEbG5haA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T19:15:00+07:00",
-"found": "2026-11-18T09:26:38+07:00"
-},
-{
-"id": "6e59d9e43bd4",
-"title": "Giá xăng, dầu tại Mỹ đồng loạt hạ nhiệt",
-"link": "https://dantri.com.vn/kinh-doanh/gia-xang-dau-tai-my-dong-loat-ha-nhiet-20261117185850095.htm",
-"summary": "(Dân trí) - Sau nhiều tháng neo ở mức cao kỷ lục, giá xăng và dầu diesel tại Mỹ vừa giảm sâu, mang lại tín hiệu tích cực cho người tiêu dùng và giúp giảm áp lực chi phí lên toàn bộ nền kinh tế.",
-"image": "https://cdnphoto.dantri.com.vn/0AmTJN1tTXeCp-l0saAVIBxQGqY=/2026/03/22/lead-gas-explainer-1774176964659.webp",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-17T19:14:29+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "33d2ccf27ef0",
-"title": "Giá vàng thế giới giảm chóng mặt, người dân Thượng Hải xếp hàng mua vàng",
-"link": "https://vietnamnet.vn/gia-vang-the-gioi-giam-chong-mat-nguoi-dan-thuong-hai-xep-hang-mua-vang-2575956.html",
-"summary": "TRUNG QUỐC - Giữa lúc giá vàng thế giới giảm xuống mức thấp nhất trong hơn một năm, Trung tâm Thương mại Trang sức Tử Cẩm Thành ở Thượng Hải (Trung Quốc) lại đông nghẹt khách. Nhiều người tranh thủ mua vàng trang sức khi giá giảm.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/gia-vang-the-gioi-giam-chong-mat-nguoi-dan-thuong-hai-xep-hang-mua-vang-2266.png?width=0&s=_mh-jwcbdV5pIN7u-ttlFQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-17T19:14:00+07:00",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "ba1ae906e88d",
-"title": "Từ đất xen kẹt đến những công viên trong phố",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0RHQU1mZGVhT0dyQzR2RUhacWRiNzhaakU4TGRSbWdUNWRYUUZnTzRDV203am5TZDNCZUtFdzg4ZVNFWFNBN3dGdXVSWS1EMHNWb24wRzlRQXo5RTY2RU96X2JEelVzZnBjaVNBV2RpSVJqLUVkdEM5ZFB3bDdGYjZMdw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T19:13:00+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "2fbddab4b1b4",
-"title": "Vinhomes Sài Gòn Park vinh danh đại sứ thương hiệu xuất sắc",
-"link": "https://dantri.com.vn/bat-dong-san/vinhomes-sai-gon-park-vinh-danh-dai-su-thuong-hieu-xuat-sac-20261117185239891.htm",
-"summary": "(Dân trí) - Sau gần ba tháng đào tạo, tranh tài và trải nghiệm thực tế tại Singapore, Trung Quốc, cuộc thi \"Road to the Elite 2026 - Tìm kiếm Đại sứ thương hiệu\" của Vinhomes Sài Gòn Park đã khép lại với đêm Gala vinh danh những Đại sứ thương hiệu xuất sắc.",
-"image": "https://cdnphoto.dantri.com.vn/HvLuJpjh4WFPkd3N03o-cpdgE-0=/2026/11/17/a1-29-1794915981985.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-17T19:12:23+07:00",
 "found": "2026-11-17T20:40:15+07:00"
 }
 ]
