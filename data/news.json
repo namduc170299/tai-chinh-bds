@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T16:19:51+07:00",
-"new": 15,
+"updated": "2026-11-20T16:35:08+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 29
+"count": 56
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,94 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "c95d7ff3ba09",
+"title": "Phát hiện 14 hài cốt liệt sĩ dưới hầm cá nhân, giao thông hào ở Quảng Trị",
+"link": "https://thanhnien.vn/phat-hien-14-hai-cot-liet-si-duoi-ham-ca-nhan-giao-thong-hao-o-quang-tri-185261120154524522.htm",
+"summary": "Trong số 14 hài cốt liệt sĩ vừa được tìm thấy tại xã Triệu Phong (Quảng Trị), có những hài cốt nằm sâu dưới hầm cá nhân, giao thông hào; một số được phát hiện trong tư thế nằm trên cáng thương, bọc trong tăng võng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/1795162814498-6788518679271905440-g8485376460275467351-e0705cde1cda9f8f1a953dccf8821fa2-1795164229026891876085-72-0-522-720-crop-1795164233242454087883.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T16:34:00+07:00",
+"found": "2026-11-20T16:35:08+07:00"
+},
+{
+"id": "9946712e96c9",
+"title": "Quản lý cửa hàng Bách Hóa Xanh bị bắt vì tham ô hàng trăm triệu đồng",
+"link": "https://thanhnien.vn/quan-ly-cua-hang-bach-hoa-xanh-bi-bat-vi-tham-o-hang-tram-trieu-dong-185261120153725702.htm",
+"summary": "Lợi dụng vị trí quản lý cửa hàng Bách Hóa Xanh tại phường Đồng Hới (Quảng Trị), Phạm Đức Tình bị cáo buộc tham ô, chiếm đoạt số hàng hóa trị giá hơn 250 triệu đồng của doanh nghiệp trong 2 tháng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/91384471621624254584829105908789977696787826n-17951635185071512673535-119-0-869-1200-crop-17951636671931064918003.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T16:31:00+07:00",
+"found": "2026-11-20T16:35:08+07:00"
+},
+{
+"id": "df0eb2a0586f",
+"title": "Doanh nghiệp Việt tăng tốc đầu tư, mở rộng hiện diện tại Trung Á và Nam Kavkaz",
+"link": "https://vietnamnet.vn/doanh-nghiep-viet-tang-toc-dau-tu-mo-rong-hien-dien-tai-trung-a-va-nam-kavkaz-2577127.html",
+"summary": "Từ năng lượng tái tạo, phát triển đô thị đến hàng không và vận tải xanh, doanh nghiệp Việt đang từng bước hiện diện tại Trung Á và Nam Kavkaz, mở thêm hướng tiếp cận các thị trường giàu tiềm năng trong chiến lược vươn ra thế giới.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/doanh-nghiep-viet-tang-toc-dau-tu-mo-rong-hien-dien-tai-trung-a-va-nam-kavkaz-1640.jpeg?width=0&s=jz0jCicXSLnKTY0yV9L69w",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T16:30:00+07:00",
+"found": "2026-11-20T16:35:08+07:00"
+},
+{
+"id": "97e762e9d5b2",
+"title": "Blog chứng khoán: Cầu bắt đáy tốt hơn, áp lực cắt lỗ vẫn còn",
+"link": "https://vneconomy.vn/blog-chung-khoan-cau-bat-day-tot-hon-ap-luc-cat-lo-van-con.htm",
+"summary": "VNI thoát khỏi một phiên giảm mạnh thứ 3 liên tiếp trong phiên cuối tuần nhờ sự phục hồi khá tốt của cổ phiếu blue-chips. Chỉ số rút về sát tham chiếu (chỉ còn giảm 0,83 điểm) nhưng đa số cổ phiếu phục hồi kém hơn nhiều.",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/20/8be414740aba439eb5550652d0a4ccbd-137384.jpg?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-20T16:26:15+07:00",
+"found": "2026-11-20T16:35:08+07:00"
+},
+{
+"id": "1ce22b5e2e75",
+"title": "Liên tiếp tai nạn chết người, CSGT TP.HCM kiểm tra xe tải, container dừng, đỗ trong khu công nghiệp",
+"link": "https://tuoitre.vn/lien-tiep-tai-nan-chet-nguoi-csgt-tphcm-kiem-tra-xe-tai-container-dung-do-trong-khu-cong-nghiep-100261120145158529.htm",
+"summary": "Ngày 20-11, Đội Cảnh sát giao thông Rạch Chiếc (Phòng Cảnh sát giao thông Công an TP.HCM) tổ chức tuần tra, kiểm soát, xử lý xe container, xe đầu kéo, xe tải dừng, đỗ sai quy định tại các khu công nghiệp.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/edit-edit-dung-do-xe-sai-quy-dinh-khu-cong-nghiep-song-than-3-17951607087812141707780-197-0-1797-2560-crop-17951607189021824812263.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T16:24:00+07:00",
+"found": "2026-11-20T16:35:08+07:00"
+},
+{
+"id": "6b65bf970710",
+"title": "Ngân hàng rao bán nợ 'khủng' liên quan ông Lê Hải Trà, Hà Văn Thắm",
+"link": "https://cafef.vn/ngan-hang-rao-ban-no-khung-lien-quan-ong-le-hai-tra-ha-van-tham-188261120151747792.chn",
+"summary": "Những khoản nợ gắn với tên tuổi các cựu lãnh đạo từng bị xử lý hình sự đang xuất hiện trong danh sách tài sản ngân hàng đưa ra đấu giá. Có khoản nợ gần 1.000 tỷ đồng phát sinh từ thời OceanBank dưới thời ông Hà Văn Thắm, cùng hai khoản vay hơn 25 tỷ đồng liên quan cựu Tổng Giám…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795162645188-17951626453991100498454.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-20T16:23:00+07:00",
+"found": "2026-11-20T16:35:08+07:00"
+},
+{
+"id": "9196ec4c3ccb",
+"title": "Phân công thêm nhiệm vụ cho 3 tân Phó chủ tịch UBND tỉnh Vĩnh Long",
+"link": "https://thanhnien.vn/phan-cong-them-nhiem-vu-cho-3-tan-pho-chu-tich-ubnd-tinh-vinh-long-185261120152219742.htm",
+"summary": "Ông Trần Trí Quang, Chủ tịch UBND tỉnh Vĩnh Long, vừa có thông báo phân công thêm nhiệm vụ cho 3 tân Phó chủ tịch UBND tỉnh này.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-2aoborbahj4pbhpmeyxyoxvx1ooco2mvt6sm2iqq-179516262972162002536-55-342-1441-2560-crop-17951628211271919592359.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T16:23:00+07:00",
+"found": "2026-11-20T16:35:08+07:00"
+},
+{
+"id": "74b941b6ae8c",
+"title": "Thanh tra tỉnh Lâm Đồng chỉ ra nhiều sai phạm tại xã Nghị Đức",
+"link": "https://thanhnien.vn/thanh-tra-tinh-lam-dong-chi-ra-nhieu-sai-pham-tai-xa-nghi-duc-185261120151458062.htm",
+"summary": "Thanh tra tỉnh Lâm Đồng phát hiện nhiều sai phạm trong quản lý đất đai, đấu giá đất công ích, đầu tư xây dựng và sử dụng ngân sách tại xã Nghị Đức, với số tiền kiến nghị thu hồi hơn 737 triệu đồng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-2026-11-20145903-17951618449771395828778-32-0-1023-1586-crop-1795162551070139508179.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T16:20:00+07:00",
+"found": "2026-11-20T16:35:08+07:00"
+},
 {
 "id": "e88b55e3f6ee",
 "title": "FPT mất gần một nửa vốn hóa từ đầu năm",
@@ -268,6 +356,17 @@
 "found": "2026-11-20T16:19:51+07:00"
 },
 {
+"id": "16c47ffa9d05",
+"title": "Bị chồng sắp cưới hủy hôn, cô gái 23 tuổi có hành động gây sốc",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFBKejh1cnVKdk85T0p1aXJ5TFJtT1o3cUVTellkSm9rZF9UVWZzX3ZMVDhzUXE3UHNvWC1NV3BNNlhvb25pQmpLQnpCQkpoc29lOVlJUnpFTjd1a2NWZHVsR3dXZWxaVWFpbzRBUkdLY0J1emZ5Z0JEN2VMTHJPbkxtUGJPc25YdzdRZw?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T16:05:16+07:00",
+"found": "2026-11-20T16:35:08+07:00"
+},
+{
 "id": "f2b25ef31126",
 "title": "Trình Quốc hội xóa nợ hàng chục nghìn tỉ cho 2,5 triệu người nộp thuế",
 "link": "https://thanhnien.vn/trinh-quoc-hoi-xoa-no-hang-chuc-nghin-ti-cho-25-trieu-nguoi-nop-thue-185261120152847816.htm",
@@ -301,6 +400,17 @@
 "found": "2026-11-20T16:19:51+07:00"
 },
 {
+"id": "3c91bb4f635c",
+"title": "Chứng khoán đảo chiều cuối phiên, khối ngoại bán ròng gần 900 tỷ đồng",
+"link": "https://dantri.com.vn/kinh-doanh/chung-khoan-dao-chieu-cuoi-phien-khoi-ngoai-ban-rong-gan-900-ty-dong-20261120154040118.htm",
+"summary": "(Dân trí) - Thị trường chứng khoán trải qua phiên giao dịch giằng co ngày 20/11 khi VN-Index rơi sâu đầu phiên rồi hồi phục về cuối ngày, thanh khoản 3 sàn đạt khoảng 17.000 tỷ đồng.",
+"image": "https://cdnphoto.dantri.com.vn/PeJIgrl3LSI9Yk0n3IBzrb60jpQ=/2026/11/10/50-cropped-1794299109037.jpg?watermark=v1,v2",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-20T16:01:01+07:00",
+"found": "2026-11-20T16:35:08+07:00"
+},
+{
 "id": "c597e67a079b",
 "title": "VRB giảm 1% lãi suất vay kinh doanh, hỗ trợ hộ kinh doanh tăng vốn cuối năm",
 "link": "https://vietnamnet.vn/vrb-giam-1-lai-suat-vay-kinh-doanh-ho-tro-ho-kinh-doanh-tang-von-cuoi-nam-2577108.html",
@@ -310,6 +420,17 @@
 "cat": "tc",
 "published": "2026-11-20T16:00:00+07:00",
 "found": "2026-11-20T16:04:37+07:00"
+},
+{
+"id": "35155df2b6a6",
+"title": "Chứng khoán giảm 4 phiên liên tiếp",
+"link": "https://vnexpress.net/chung-khoan-giam-4-phien-lien-tiep-5147106.html",
+"summary": "Đóng cửa phiên hôm nay ở 1.689 điểm, chứng khoán đã có 4 phiên điều chỉnh liên tiếp, đưa chỉ số VN-Index về vùng thấp nhất từ cuối tháng 7.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/233a7767-1795162466-3049-1795162508.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nK0zaUfi2mZ9o1ry6Cy7Cw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-20T15:59:33+07:00",
+"found": "2026-11-20T16:35:08+07:00"
 },
 {
 "id": "7ca14136540f",
@@ -387,6 +508,17 @@
 "cat": "xh",
 "published": "2026-11-20T15:50:01+07:00",
 "found": "2026-11-20T16:04:37+07:00"
+},
+{
+"id": "a3084e880d28",
+"title": "Giá xăng giảm 5 kỳ liên tiếp, vé máy bay Tết vẫn tăng",
+"link": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-5-ky-lien-tiep-ve-may-bay-tet-van-tang-20261120153640524.htm",
+"summary": "(Dân trí) - Giá xăng dầu giảm 5 kỳ liên tiếp, nhưng vé máy bay Tết 2027 trên nhiều chặng vẫn tăng 600.000 đồng so với đầu tháng.",
+"image": "https://cdnphoto.dantri.com.vn/KqsliE7w6vf1Vmpg_ewVuCf-xXE=/2026/11/20/img9366-2-cropped-1795163696690.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-20T15:45:03+07:00",
+"found": "2026-11-20T16:35:08+07:00"
 },
 {
 "id": "7357739f50fa",
@@ -27801,138 +27933,6 @@
 "source": "Báo Mới",
 "cat": "tc",
 "published": "2026-11-18T10:33:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "a3276ddba518",
-"title": "Giám đốc Công ty lâm nghiệp La Ngà nghi bị bắn vào đầu trong phòng làm việc",
-"link": "https://thanhnien.vn/giam-doc-cong-ty-lam-nghiep-la-nga-nghi-bi-ban-vao-dau-trong-phong-lam-viec-185261118095044142.htm",
-"summary": "Nghe tiếng nổ trong phòng làm việc của Giám đốc Công ty TNHH MTV lâm nghiệp La Ngà, các nhân viên chạy tới thì phát hiện người lãnh đạo bị thương nặng ở đầu, nghi do súng bắn.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/179496778549928095470556078342832809547055607834283beeb770c095db6a1148a5e304fcefe42-17949717605151355262355-0-0-517-827-crop-1794971839725112829589.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-18T10:32:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "d7b5ee659921",
-"title": "Hai nữ giảng viên liên quan đường dây làm giả gần 1.500 văn bằng, chứng chỉ",
-"link": "https://vietnamnet.vn/hai-nu-giang-vien-lien-quan-duong-day-lam-gia-gan-1-500-van-bang-chung-chi-2567966.html",
-"summary": "Góp vốn mua máy móc, hàng trăm con dấu giả để sản xuất văn bằng, chứng chỉ bán với giá 1-2 triệu đồng mỗi sản phẩm, đường dây do Hoàng Văn Đạt và Trần Anh Hào cầm đầu đã thu lời bất chính gần 3 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/24/hai-nu-giang-vien-lien-quan-duong-day-lam-gia-gan-1-140.jpg?width=0&s=5B1AorH_m0X6GW636oGLRw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:30:19+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "f8cd0378c010",
-"title": "Bốn công trình của EVNCPC đoạt Giải thưởng Sáng tạo Khoa học Công nghệ 2025",
-"link": "https://tuoitre.vn/bon-cong-trinh-cua-evncpc-doat-giai-thuong-sang-tao-khoa-hoc-cong-nghe-2025-100261118101355883.htm",
-"summary": "Tối 17-11, tại Hà Nội, Giải thưởng Sáng tạo Khoa học Công nghệ Việt Nam năm 2025 vinh danh 42 công trình. Tổng công ty Điện lực miền Trung (EVNCPC) có 4 công trình đoạt giải.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/4-1794971182791310298267-454-136-1795-2282-crop-17949713865071387333016.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T10:30:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "618784d607cb",
-"title": "Việt Nam có 5.500 người sở hữu tài sản trên 10 triệu USD",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmQ3NUlyMFJKUkxEUERPS1JrLVMxT3gwdHptLWZtWUpwbDZjWC14MXdfZWExTUZUOEZQeWUzQld3Q29tTnd1dHJyb1BKVVVhaFl6Q3I2ZENPQ0hZSFBqcGlWM0VzTWJyYVhOTzV1ODdBbU9jTE5td1UtVWpyNDNWMFdJSGx4SmdQU3dWZFdMTlRRZG8?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T10:30:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "0e9951d69592",
-"title": "Dự báo thời tiết 24/10/2026: Cả nước có nắng, miền Bắc nhiều nơi trên 34 độ",
-"link": "https://vietnamnet.vn/du-bao-thoi-tiet-24-10-2026-ca-nuoc-co-nang-mien-bac-nhieu-noi-tren-34-do-2566060.html",
-"summary": "Dự báo thời tiết ngày 24/10/2026, cả nước có nắng, ít mưa và khá ổn định với mức nhiệt cao nhất có nơi trên 34 độ . Riêng miền Tây Nam Bộ vẫn có mưa rào và giông rải rác vào chiều tối.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/23/2026-ha-noi-nang-manh-tren-34-do-tphcm-mua-rai-rac-2913.jpg?width=0&s=wnkdveSbJMmdv4Yah7plkQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:29:58+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "14d028d87c3c",
-"title": "Danh tính người đăng tin sai sự thật về Novaland để &apos;câu view&apos;",
-"link": "https://vietnamnet.vn/danh-tinh-nguoi-dang-tin-sai-su-that-ve-novaland-de-cau-view-2567908.html",
-"summary": "Đỗ Minh Quang bị bắt tạm giam vì dùng tài khoản mạng xã hội đăng tải nhiều bài viết sai sự thật liên quan đến hoạt động của Công ty Novaland nhằm &quot;câu view&quot;, &quot;câu tương tác&quot;.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/23/danh-tinh-nguoi-dang-tin-sai-su-that-ve-novaland-de-cau-view-2492.png?width=0&s=XlvDiSUF9kxji-LK_aBvgw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:29:39+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "7d51ee56aa96",
-"title": "Khám xét khẩn cấp, bắt Tổng giám đốc Công ty Bảo Phúc và 7 đối tượng ở TPHCM",
-"link": "https://vietnamnet.vn/kham-xet-khan-cap-bat-tong-giam-doc-cong-ty-bao-phuc-va-7-doi-tuong-o-tphcm-2570038.html",
-"summary": "Sử dụng mạng xã hội đăng tin bán nhà đất giá rẻ để &quot;dụ&quot; khách hàng lên xe ô tô chở đi Tây Ninh, dàn cảnh đặt cọc ảo rồi chiếm đoạt tiền, Tổng giám đốc Công ty Bảo Phúc cùng 7 đối tượng chủ chốt vừa bị Công an TPHCM khởi tố, bắt tạm giam.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/30/kham-xet-khan-cap-bat-tong-giam-doc-cong-ty-bao-phuc-va-7-doi-tuong-o-tphcm-2371.png?width=0&s=wY-PN00fn7STecb_qIqMzQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:27:02+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "a84f72462355",
-"title": "Ông Lê Thanh Thản hầu tòa lần thứ hai về tội Lừa dối khách hàng",
-"link": "https://cafef.vn/ong-le-thanh-than-hau-toa-lan-thu-hai-ve-toi-lua-doi-khach-hang-188261118100221485.chn",
-"summary": "Sáng 18-11, TAND thành phố Hà Nội mở phiên tòa sơ thẩm xét xử ông Lê Thanh Thản (76 tuổi, Tổng Giám đốc Công ty Bemes), người được biết đến với biệt danh \"đại gia điếu cày\", về tội Lừa dối khách hàng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1794970899958-1794970902014792476660.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T10:27:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "b261c7411e6e",
-"title": "Bị CSGT Hà Nội phát hiện vi phạm nồng độ cồn, nhiều tài xế nói &apos;vẫn tỉnh táo&apos;",
-"link": "https://vietnamnet.vn/bi-csgt-ha-noi-phat-hien-vi-pham-nong-do-con-nhieu-tai-xe-noi-van-tinh-tao-2570090.html",
-"summary": "Trong quá trình kiểm tra nồng độ cồn trên đường Lê Trọng Tấn (Hà Đông, Hà Nội), lực lượng CSGT phát hiện nhiều tài xế xe máy vi phạm. Một số người thừa nhận đã uống rượu, bia nhưng vẫn lái xe vì nghĩ bản thân còn tỉnh táo.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/31/bi-csgt-ha-noi-phat-hien-vi-pham-nong-do-con-nhieu-tai-xe-noi-van-tinh-tao-255.jpg?width=0&s=ji7KLQXwJz5tJdKbxBp8Jg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:26:44+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "666a86129011",
-"title": "Sinh viên mới ra trường nhận lương 15 triệu, lao động U50 bỏ lương nghìn USD tìm việc mới",
-"link": "https://vietnamnet.vn/sinh-vien-moi-ra-truong-nhan-luong-15-trieu-lao-dong-u50-bo-luong-nghin-usd-tim-viec-moi-2570173.html",
-"summary": "Một sinh viên mới tốt nghiệp tìm được việc lương 15 triệu đồng/tháng tại Phiên giao dịch việc làm ngành Xây dựng - Cơ khí - Giao thông lần 2. Trong khi một lao động 43 tuổi từng nhận lương 1.500 USD/tháng chấp nhận nghỉ việc để tìm cơ hội mới.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/31/roi-vi-tri-quan-ly-luong-nghin-usd-nguoi-dan-ong-43-tuoi-tim-viec-moi-gan-nha-891.jpg?width=0&s=gzWCwFSYnfdvB3Q3udNRLg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:26:20+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "5e3de453589b",
-"title": "Quỹ vàng lớn nhất thế giới bất ngờ gom thêm khi giá vàng \"thủng đáy\"",
-"link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-bat-ngo-gom-them-khi-gia-vang-thung-day-188261118102502568.chn",
-"summary": "Áp lực đối với giá kim loại quý hiện chủ yếu đến từ kỳ vọng Cục Dự trữ Liên bang Mỹ (Fed) tiếp tục duy trì chính sách tiền tệ thắt chặt trong bối cảnh lạm phát vẫn dai dẳng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/goldbars-1791897732164-17949721535371360218480-26-0-664-1020-crop-1794972156710365646772.webp",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-18T10:26:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "ebd0e7ba0679",
-"title": "Hải Phòng hỗ trợ doanh nghiệp làm chủ công nghệ",
-"link": "https://vietnamnet.vn/hai-phong-ho-tro-doanh-nghiep-lam-chu-cong-nghe-2576224.html",
-"summary": "Từ kết nối nhân lực, chuyên gia đến chương trình hỗ trợ khởi nghiệp, Hải Phòng đang cụ thể hóa Nghị quyết 57-NQ/TW bằng những hoạt động hướng vào nhu cầu công nghệ và năng lực cạnh tranh của doanh nghiệp.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/hai-phong-ho-tro-doanh-nghiep-lam-chu-cong-nghe-777.jpg?width=0&s=A5MO0yGguDjnk5eb7O7aKQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-18T10:25:33+07:00",
 "found": "2026-11-18T11:23:38+07:00"
 }
 ]
