@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T07:10:58+07:00",
-"new": 12,
+"updated": "2026-11-20T07:26:10+07:00",
+"new": 15,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,83 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "38d4168c78a5",
+"title": "Phố Wall lao dốc, Dow Jones mất hơn 1.100 điểm",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlQwSDR5MDJzZF9EUkU4MEpCRS1Fb3V4ZTY1X0dYX3JMWi05OC14UWY0R2ZpdXZ5MHdmSUE0cmotRmYzTGVEUDhRRTNmRDJ4Q2FMUC14V01uSVJPUGZJOFBDRGI1cG9aU2FZeEZIcjdKOEhQcnZVM2Z0ZGY1b0xnSGMwTEM?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T07:22:05+07:00",
+"found": "2026-11-20T07:26:10+07:00"
+},
+{
+"id": "425577d6a24b",
+"title": "Ngày 20/11: Giá lúa gạo tại Đồng bằng sông Cửu Long ổn định ở mức cao",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHZnR0d2SjlnV296c3ctVXhkTThJeUJoV3dFYnJnZFN3SXlCVGdtU1Z4VWRzZ0g1QTZvSjl5NmVvYzI0YllndHdYZllvTEFZOFFFRWtJdkRJalJuSndrZ1UzMWJWaVBBZjNhZy1tVWl1S3VQTGgySENRMmNzeDFsbVJMRXZlTmhXRVFyWU9fRXctRHN3X283cHZvWVRGcUotWXFv?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T07:21:00+07:00",
+"found": "2026-11-20T07:26:10+07:00"
+},
+{
+"id": "4e22ae961866",
+"title": "Công nghiệp văn hóa - động lực tăng trưởng mới",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ0pZT3JBXy1UclZqU2JfMFNTRUp0ZnQzaFZBTHNjY29leHk5MHU2QzB5Uk9VUjN1SHRDWVUxYkJDbzJEeldKY3ZQNUNzUmpYODZvV2p6dFFOY0V1cHctLWlacnNaMzREN2VqcW4tTXIyOTBXTUtYVFYzeGs3SDFMTU52Yw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T07:21:00+07:00",
+"found": "2026-11-20T07:26:10+07:00"
+},
+{
+"id": "6c11804d71a3",
+"title": "Đọc nhanh 20-11: Chứng khoán Mỹ mất hơn 1.100 điểm, Bầu Đức lấn sân sang lĩnh vực mới",
+"link": "https://tuoitre.vn/doc-nhanh-20-11-chung-khoan-my-mat-hon-1100-diem-bau-duc-lan-san-sang-linh-vuc-moi-100261120065134865.htm",
+"summary": "Chứng khoán Mỹ giảm điểm phiên 19-11, giá dầu gần như đi ngang. Trong nước, cổ phiếu của CMC xuống mức thấp nhất 5 năm.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/base64-1785922854243848205907-1788193118148616249080-1795132094920560032063-0-0-456-730-crop-179513216859921303473.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-20T07:19:00+07:00",
+"found": "2026-11-20T07:26:10+07:00"
+},
+{
+"id": "493907f1f5c2",
+"title": "Ngày 20/11: Giá cao su thế giới đồng loạt giảm mạnh",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUwzMkVsUGF0RDZUc2hTSmZfX0tMQWk1WkdvVzhxYkxRVzRaVW9LV3ppNUhtVWZvdkpNWmJFbW9YcXV6WXU4eGtudzJvVUg3SHp5TDMtVC11UkV0NTVtZFhteDZ3cVZac1pmSFk3MWhCWW1qRHcxSlhuMkxHLU9MR2gwajk1Nk40b1NV?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T07:13:00+07:00",
+"found": "2026-11-20T07:26:10+07:00"
+},
+{
+"id": "5f549a90f8ff",
+"title": "Đòn giáng mạnh với Man City",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52TmRfSnRrSy0wSWk3ZTJONHFPZXFSam5FeUJ2MFdtZ0J1ZlY4RXUwaDg2ZkJuX2FFTmRPRDlSSFdoNFVlaGxkdXYzR1R3MUJuZU8tMG9xVDZtXzNEa1daaVk2X0JuNkZmU2dFOQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T07:08:34+07:00",
+"found": "2026-11-20T07:26:10+07:00"
+},
+{
+"id": "1aeaed53a056",
+"title": "Malaysia đau đầu tìm giải pháp cho vấn nạn 'xe ma'",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUpMZzFHdjVZcVZPLUo0Q0hsd1Jwd0xWUF93MlQyNHEtZnhlekVTS3dCTlJkZFFIejladGMwV2xxbEtBbWpuaDB2NW14T1VxbU14emtRa2lpTVVyY1BueVBTWnRJcW9UZUhRaGx0UHg2d3JfWGJhZ3hPVHpkMFVFaGxnYTA1Q2sw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T07:08:00+07:00",
+"found": "2026-11-20T07:26:10+07:00"
+},
 {
 "id": "36fe34766e26",
 "title": "Ông Lê Thanh Thản nói lời sau cùng ngắn gọn, nhóm cựu cán bộ bày tỏ 'băn khoăn'",
@@ -268,6 +345,53 @@
 "found": "2026-11-20T07:10:58+07:00"
 },
 {
+"id": "07e4142d79a9",
+"title": "Hàng không, ngân hàng, công nghệ Mỹ chao đảo sau một tuần sự cố",
+"link": "https://dantri.com.vn/kinh-doanh/hang-khong-ngan-hang-cong-nghe-my-chao-dao-sau-mot-tuan-su-co-20261119184737990.htm",
+"summary": "(Dân trí) - Chuỗi gián đoạn kỹ thuật liên tiếp từ Microsoft, FAA đến các ngân hàng lớn đặt hạ tầng công nghệ của doanh nghiệp trước thử thách lớn về năng lực vận hành liên tục.",
+"image": "https://cdnphoto.dantri.com.vn/3A1CU8SwNRrpWs2YUUmPLHfQ4wU=/2026/11/19/novembers-technology-disruptions-cropped-1795088107426.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-20T07:00:00+07:00",
+"found": "2026-11-20T07:26:10+07:00"
+},
+{
+"id": "f182b823de53",
+"title": "orlando city đấu với cincinnati",
+"link": "https://thethao247.vn/441-nhan-dinh-orlando-city-vs-fc-cincinnati-ngay-phan-quyet-7h30-ngay-20-11-2026-c288-d445967.html",
+"summary": "Nhận định Orlando City vs FC Cincinnati: Ngày phán quyết, 7h30 ngày 20/11/2026 (Thể Thao 247)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtyc57K3YLgCZaDKIdyUV8dNoPRPbt2De-RQO-R2Rut4cBb6p8UB5Pp7aGpwg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T07:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-20T07:26:10+07:00"
+},
+{
+"id": "3a05662571b8",
+"title": "xổ số tây ninh ngày 19 tháng 11",
+"link": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-nam-ngay-1811-1802659.ldo",
+"summary": "Kết quả xổ số miền Nam ngày 18.11 (Laodong.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFfA6X3UWdH-6-Ry8GPdjzcuBesIoWinsGxQJRZL2pC1nNtCdUxrXSG6c-jhM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T07:00:00+07:00",
+"traffic": "200000+",
+"found": "2026-11-20T07:26:10+07:00"
+},
+{
+"id": "aab2988cb39a",
+"title": "bê tông",
+"link": "https://cafef.vn/phat-hien-264-coc-be-tong-khong-lo-duoc-cam-xuong-long-dat-cung-16500-tam-kinh-bao-phu-thi-cong-toa-nha-cao-tuong-duong-landmark-81-188261119141317518.chn",
+"summary": "Phát hiện 264 cọc bê tông khổng lồ được cắm xuống lòng đất cùng 16.500 tấm kính bao phủ, thi công tòa nhà cao tương đương Landmark 81 (CafeF)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTurUV6Duzw9kRf6soKlc77lPFlq6Fxw9UjE7az3yi8rf7zxQZRMvnRiCZfv4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T07:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T07:26:10+07:00"
+},
+{
 "id": "1e27a4bfee69",
 "title": "CEO Nvidia lên tiếng",
 "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMTjJxQ3d1N1hJZDk3OWc5X3R2V2U1MlowSU44eWp5aVdCRnMteEd0OGQyTUFfSF93QTJvSjF0aGZpcE92YXdvY0tibXotSTVQSUNJellVYlM4MjhJT1pvM0ZMYw?oc=5",
@@ -302,6 +426,18 @@
 "found": "2026-11-20T07:10:58+07:00"
 },
 {
+"id": "952e39a27faa",
+"title": "rắn hổ mang",
+"link": "https://www.nguoiduatin.vn/bat-song-ran-ho-mang-chua-dai-3-met-an-nap-trong-dong-co-o-to-204261119111546783.htm",
+"summary": "Bắt sống rắn hổ mang chúa dài 3 mét ẩn nấp trong động cơ ô tô (Người Đưa Tin)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSglxMGr2FQ4Kqd73b0LYzcper00kcCH833tA2pL2jKJiWH88JCeECXlkbcmMU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T06:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-20T07:26:10+07:00"
+},
+{
 "id": "f28bee6d0358",
 "title": "Giới trẻ hẹn nhau xem triển lãm miễn phí trong nhà kho trăm tuổi ở TPHCM",
 "link": "https://vietnamnet.vn/gioi-tre-hen-nhau-xem-trien-lam-mien-phi-trong-nha-kho-tram-tuoi-o-tphcm-2576701.html",
@@ -311,6 +447,17 @@
 "cat": "xh",
 "published": "2026-11-20T06:47:00+07:00",
 "found": "2026-11-20T06:55:32+07:00"
+},
+{
+"id": "2cf204a9b6bc",
+"title": "Anthropic lên sàn Nasdaq: Cổ phiếu tăng 17%, vốn hóa chạm mốc lịch sử",
+"link": "https://dantri.com.vn/kinh-doanh/anthropic-len-san-nasdaq-co-phieu-tang-17-von-hoa-cham-moc-lich-su-20261120062313696.htm",
+"summary": "(Dân trí) - Phiên chào sàn của Anthropic, công ty đứng sau chatbot nổi tiếng Claude tạo thêm hàng loạt triệu phú USD nhưng đặt ra phép thử lớn cho phố Wall.",
+"image": "https://cdnphoto.dantri.com.vn/hMxwqlXJhK-8rvtSjBbERIrtKxY=/2026/11/20/anthropic-cropped-1795130237755.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-20T06:46:37+07:00",
+"found": "2026-11-20T07:26:10+07:00"
 },
 {
 "id": "683c55adf207",
@@ -357,6 +504,18 @@
 "published": "2026-11-20T06:40:00+07:00",
 "traffic": "100+",
 "found": "2026-11-20T06:55:32+07:00"
+},
+{
+"id": "607edba66229",
+"title": "giá vàng hôm nay",
+"link": "https://tuoitre.vn/gia-vang-giam-mai-mua-luc-nay-co-phai-bat-dao-roi-100261119222507782.htm",
+"summary": "Giá vàng giảm mãi, mua lúc này có phải ‘bắt dao rơi’? (Báo Tuổi Trẻ)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkfVunhTgZqKnHkxAYLTmw7SxRiTZzHRj4YHM_ttH-OtFqD9SODiXOxnNKlH4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T06:40:00+07:00",
+"traffic": "5000+",
+"found": "2026-11-20T07:26:10+07:00"
 },
 {
 "id": "27a2aba4c7bc",
@@ -10933,6 +11092,17 @@
 "cat": "bds",
 "published": "2026-11-19T07:31:00+07:00",
 "found": "2026-11-19T07:58:28+07:00"
+},
+{
+"id": "0af4d52353ad",
+"title": "Giá vàng hôm nay ngày 19/11: Vàng thế giới thủng mốc 3.750 USD, trong nước giảm mạnh",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEVKdWdGbmxHdXl4Sm00Um1yR09zelY3M1dOa0JXQkdaWFZlczlVeWhIN3h4OFBZTnFpZUZfX3FndjBhSXFhekR2WE1uQVg4LVY5dmQyelJJY3lndkFkMFk1UDFEQ2tZUzFCRGtpYlIyc2NsUnRPOGhIOTE5bU04eWFlQTJmVXlpX1I0dGhkVjR5dy1jVlI3bTg1LTdDNXpEMmJaWkkwX0dDd2U0UnVlYTE1NXFDZw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-19T07:31:00+07:00",
+"found": "2026-11-20T07:26:10+07:00"
 },
 {
 "id": "5a7633b54bb1",
@@ -27805,171 +27975,6 @@
 "source": "VietnamNet",
 "cat": "xh",
 "published": "2026-11-17T17:54:20+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "51ca2fdc7c79",
-"title": "Khu đô thị 17.000 tỷ đồng ở Nha Trang được mở rộng thêm 16,22 ha",
-"link": "https://vnexpress.net/khu-do-thi-17-000-ty-dong-o-nha-trang-duoc-mo-rong-them-16-22-ha-5145789.html",
-"summary": "Khu đô thị hỗn hợp thành phố Nha Trang với tổng đầu tư hơn 17.000 tỷ đồng được mở rộng thêm 16,22 ha, đồng thời điều chỉnh cơ cấu sản phẩm nhà ở và địa điểm thực hiện.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/namnhatrang-1794909501-4169-1794909557.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Twkbz_Xf0z2JomcriJHWAw",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-17T17:54:16+07:00",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "72ded6117241",
-"title": "Thu giữ gần 170kg ma túy trong đường dây xuyên quốc gia",
-"link": "https://dantri.com.vn/phap-luat/thu-giu-gan-170kg-ma-tuy-trong-duong-day-xuyen-quoc-gia-20261117172620702.htm",
-"summary": "(Dân trí) - Công an tỉnh Sơn La mới phối hợp với các lực lượng chức năng triệt phá đường dây vận chuyển ma túy từ Lào về Việt Nam, bắt giữ 3 đối tượng, thu giữ gần 170kg ma túy các loại.",
-"image": "https://cdnphoto.dantri.com.vn/3YDcWJvD5N2ydNOyc_bF5XJjkGg=/2026/11/17/tangvat-vuan-1794911069183.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-17T17:53:13+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "cdf687c114ab",
-"title": "Cất lưới đường dây tội phạm, thu giữ gần 170kg ma túy",
-"link": "https://vietnamnet.vn/cat-luoi-duong-day-toi-pham-thu-giu-gan-170kg-ma-tuy-2575991.html",
-"summary": "Công an phát hiện một số đối tượng mua bán, vận chuyển trái phép ma túy từ Lào vào Sơn La nên đã lập chuyên án đấu tranh, bắt giữ 3 đối tượng, thu giữ gần 170kg ma túy các loại.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/17/cat-luoi-duong-day-toi-pham-thu-giu-gan-170kg-ma-tuy-2210.jpg?width=0&s=-FtAF4ISbmpnFB8NbQgwww",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-17T17:51:52+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "a013900e96fd",
-"title": "Vissan đầu tư 1.558 tỷ đồng di dời nhà máy về Tây Ninh",
-"link": "https://vnexpress.net/vissan-dau-tu-1-558-ty-dong-di-doi-nha-may-ve-tay-ninh-5145585.html",
-"summary": "Vissan vừa động thổ nhà máy chế biến thực phẩm hơn 1.558 tỷ đồng tại Tây Ninh, thay thế cơ sở sản xuất ở 420 Nơ Trang Long, TP HCM.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/17/screen-shot-at-am-1794886380-7609-1794886908.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=IT3hnypphszXyXRkp8KjEA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-17T17:51:34+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "2ef5e58d1ae8",
-"title": "Chính sách đất đai mở đường cho nền nông nghiệp quy mô lớn",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON2F4eGg5Qjc0UnFta1FBank5MnJyRlA5ejJrY3gzeWE5dlhwLTFLN19MT1ZvS3cxY2E0TXJjdG53X21NSkFzRWg3RG1UdF9PYTEwRmpmVjZDNmczT2ZWNmJoeE05UTdOQnozNFpQWG52ZF9wY0h4T2xKekhkR1NDUVE2aXNCWV85ekxfa2tpQ3BCcmpOT0E?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T17:47:00+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "549fc4d9dab2",
-"title": "Sau 1 ngày, Công an Vĩnh Long đã bắt nghi phạm giết chủ quán cà phê, cướp tài sản",
-"link": "https://tuoitre.vn/sau-1-ngay-cong-an-vinh-long-da-bat-nghi-pham-giet-chu-quan-ca-phe-cuop-tai-san-100261117171856422.htm",
-"summary": "Cơ quan Cảnh sát điều tra Công an tỉnh Vĩnh Long đang tạm giữ thanh niên 24 tuổi là nghi phạm giết hại chủ quán cà phê để cướp tài sản.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/ngi-pham-17949125984821857543163-141-624-737-1577-crop-17949126653321201486589.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T17:47:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "2f614b5730c0",
-"title": "Điều chỉnh chủ trương đầu tư Dự án Khu đô thị hỗn hợp thành phố Nha Trang",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVZqRWxIMklSM1ZwQnZ0M0xNLTBUaEhqVnJ3YUo0QzQ5RzI3V0Z2b2wxSXkyOHB4anJmYzl1SVJfczdKck1Xb0ZETDZCWjdWbDRVZmJaQXZaX2J0QXBJM3AxRXo3aDRETlh6NWtpS1VBcHJmSDRoeHF1ZEV6ajA2dGFOTWNhcHZrS1NuSm5ENlZRSV9abkV2VGk3WTc1SU9ScmswQ2xTbXFDdw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T17:46:00+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "7ac3942e4024",
-"title": "Nam thanh niên ở Hưng Yên bị bắt cùng gần 170 kg ma túy",
-"link": "https://thanhnien.vn/nam-thanh-nien-o-hung-yen-bi-bat-cung-gan-170-kg-ma-tuy-185261117172354959.htm",
-"summary": "Quá trình bắt giữ Nguyễn Đăng Chiến (35 tuổi, trú xã Việt Tiến, Hưng Yên), cảnh sát thu giữ gần 170 kg ma túy các loại.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/2-1794910966523430928264-106-0-1707-2561-crop-179491097178669369029.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T17:45:00+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "d9f5e55ae017",
-"title": "Miền Bắc nắng 31 độ C 'đột ngột' chuyển rét từ chiều mai 18.11",
-"link": "https://thanhnien.vn/mien-bac-nang-31-do-c-dot-ngot-chuyen-ret-tu-chieu-mai-1811-185261117173030475.htm",
-"summary": "Thời tiết miền Bắc hôm nay 17.11 trời nắng, nhiệt độ cao nhất lên tới 31 độ C nhưng sẽ chuyển rét, vùng núi rét đậm từ chiều tối và đêm mai 18.11.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/tnw-photo-1794911198753-17949112005322061804-1794911289942855604454-84-0-1334-2000-crop-1794911310060983589571.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T17:44:00+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "ebf0cea0f63c",
-"title": "Xây dựng đề án sửa đổi Bộ luật Tố tụng dân sự, Luật Tố tụng hành chính và Luật Hòa giải",
-"link": "https://tuoitre.vn/xay-dung-de-an-sua-doi-bo-luat-to-tung-dan-su-luat-to-tung-hanh-chinh-va-luat-hoa-giai-100261117160743349.htm",
-"summary": "Một trong những vấn đề khi tòa tối cao khảo sát thực tiễn thi hành Bộ luật Tố tụng dân sự, Luật Tố tụng hành chính là áp lực về thời hạn, thời gian xét xử một vụ án.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/bo-luat-to-tung-dan-su-to-tung-hanh-chinh-1794905716021435805418-17949127014901795981040-208-586-783-1507-crop-17949127533161768991624.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T17:43:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "e86811300cbc",
-"title": "Hoàn thiện hồ sơ dự án Luật Nhà ở (sửa đổi) với chất lượng cao nhất",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGtoTW5taVVYNzBMdktEVzlSV3dTalc2NC15ZG0yRWo0R1dZTS1QWkZReGVWcllCN1B2S0ZxeGZBc3F1YmQzZHZ0Skg5NTBEaldtZUpfNjctbkctUmJ3NmNNRlYyTUUyVTI1YXpDMTRVMTVFV1F1VHhnb1Y2WUlyNXZFSVVyTnUyVjF1RTl3dUpfUVdrbHFvajVoeGxUMWc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T17:41:00+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "c2c99e648676",
-"title": "Lâm Đồng siết tiến độ đầu tư công, lãnh đạo kiểm tra đột xuất công trường cả cuối tuần",
-"link": "https://thanhnien.vn/lam-dong-siet-tien-do-dau-tu-cong-lanh-dao-kiem-tra-dot-xuat-cong-truong-ca-cuoi-tuan-18526111617474346.htm",
-"summary": "Trước tình trạng giải ngân vốn đầu tư công chưa đạt yêu cầu, Lâm Đồng yêu cầu lãnh đạo các đơn vị bám sát công trường, thi công '3 ca, 4 kíp'; đồng thời kiểm tra đột xuất và xem xét thay thế nhà thầu chậm tiến độ.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/16/tnw-2aoborafm4gt4wrbxnz9amkf1rfmfhqolavprwbi-17948248477171284703858-0-258-1439-2560-crop-17948256973961500744136.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T17:38:00+07:00",
-"found": "2026-11-17T18:26:30+07:00"
-},
-{
-"id": "c2a9966620b8",
-"title": "Nghiên cứu sửa Nghị định 168, dự kiến phân hóa cụ thể lỗi vượt đèn đỏ ra sao?",
-"link": "https://tuoitre.vn/nghien-cuu-sua-nghi-dinh-168-du-kien-phan-hoa-cu-the-loi-vuot-den-do-ra-sao-100261117170456049.htm",
-"summary": "Cục Cảnh sát giao thông cho biết sẽ nghiên cứu, tham mưu Bộ Công an trình Chính phủ sửa đổi Nghị định 168/2024. Dự kiến hành vi không chấp hành hiệu lệnh của đèn tín hiệu giao thông sẽ được phân hóa cụ thể.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/vipham-1794914467331628532560-0-49-1219-2000-crop-17949145220971011574556.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T17:37:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "b23b77313b94",
-"title": "Blog chứng khoán: Thị trường 'ẩm ương' đến bao giờ?",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU2llSnJNVXZMdWlMb1NCNzFqNjBvTzZFU0tJekJIeWhzY2NmWThuQUxhMThGS0piSkpTblg0cUpsUF9zNUtGYlVzZnNzbjgtRFZsb1d4Ty1oQmZZZnBwWWJyQkdNN3lQclluNkVCTHByZ3lYQ2NIOTVKeU1sekVOMDNBYVhVd2c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-17T17:36:47+07:00",
-"found": "2026-11-18T05:18:46+07:00"
-},
-{
-"id": "c47f75dce430",
-"title": "Cướp cặp nhẫn vàng 200 triệu đồng ở TPHCM, nghi phạm sa lưới sau 30 phút",
-"link": "https://dantri.com.vn/phap-luat/cuop-cap-nhan-vang-200-trieu-dong-o-tphcm-nghi-pham-sa-luoi-sau-30-phut-20261117155330120.htm",
-"summary": "(Dân trí) - Nam thanh niên giả vờ mua vàng rồi bất ngờ cướp 2 chiếc nhẫn trị giá khoảng 200 triệu đồng tại một tiệm vàng ở xã Hiệp Phước (TPHCM). Chỉ sau khoảng 30 phút truy đuổi, công an đã bắt giữ nghi phạm.",
-"image": "https://cdnphoto.dantri.com.vn/ltyrznSmpBmn3sL45Ksm8KACD8I=/2026/11/17/b1-1794906555471.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-17T17:36:21+07:00",
 "found": "2026-11-17T18:26:30+07:00"
 }
 ]
