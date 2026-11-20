@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T03:30:17+07:00",
-"new": 0,
+"updated": "2026-11-21T03:45:38+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 28
+"count": 27
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,18 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "ad647d23a67f",
+"title": "đội tuyển bóng đá u-17 quốc gia thái lan",
+"link": "https://tuoitre.vn/u17-thai-lan-bi-loai-cay-dang-tai-vong-loai-u17-chau-a-2027-100261120211003329.htm",
+"summary": "U17 Thái Lan bị loại cay đắng tại vòng loại U17 châu Á 2027 (Báo Tuổi Trẻ)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB4NThMVrCBn3CxCaFH1kcO9f7NHPkKdqLldog7_2MrHS7zeeeUhULUUQ8xBQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T03:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-21T03:45:38+07:00"
+},
+{
 "id": "fa5fedf5be05",
 "title": "ath. bilbao đấu với espanyol",
 "link": "https://baonghean.vn/truc-tiep-athletic-club-vs-espanyol-doi-hinh-xuat-phat-10356273.html",
@@ -223,6 +235,18 @@
 "published": "2026-11-21T02:40:00+07:00",
 "traffic": "200+",
 "found": "2026-11-21T02:58:44+07:00"
+},
+{
+"id": "92dca6cc62b8",
+"title": "bayern – köln",
+"link": "https://www.stern.de/gesellschaft/regional/bayern/fussball-bundesliga--schreck-fuer-bayern--kane-frueh-verletzt-raus-38585898.html",
+"summary": "Fußball-Bundesliga: Schreck für Bayern: Kane früh verletzt raus (STERN.de)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTa7fjMX274npru0QXQZSKdc6-miRslLLxM7MTmxzGs13D9Wy91rnbiLLFHkns",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T02:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-21T03:45:38+07:00"
 },
 {
 "id": "227804f885f7",
@@ -518,7 +542,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T23:50:00+07:00",
-"traffic": "10000+",
+"traffic": "5000+",
 "found": "2026-11-21T00:16:31+07:00"
 },
 {
@@ -4937,6 +4961,17 @@
 "found": "2026-11-20T15:02:59+07:00"
 },
 {
+"id": "1ec71285f0b4",
+"title": "Giá nông sản hôm nay 20/11/2026: Giá cà phê trong nước mất mốc quan trọng, đà giảm chưa dừng; Bất chấp thuế tăng, hàng Trung Quốc vẫn áp đảo châu Âu",
+"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaVlvcldmYkFKQ1ZVTmcwdkpfMDMtMF93enBXUGpoYXBfcjdXM0lSUlFXTExGcDVidzJNVzJkUmNLeWo1Z1ladHZ0b2RfZTI4OWEwaEQxYkdhcDFwVEZpNEJlY044S1NfamdjV3VJSHZJZG9oT3ExcEJUcGU0aVJETUZVZGRpQ21DVVVMVkFPeXh6TjVLd2RrY2lvVFBxZnB0UjBmMEFpZTBKM0t2RFJBbFNpN09JLVhVcGlySHIwZElUbHA5M2Y2QVFWQVBsYjlUM3RzT0VVbkJQMm9jT2ljRktIX3c1cVJMMVRaam0xTVBFRkNUTTk3UEV1TktRN0o2VHh1MFo1cGo?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T13:46:00+07:00",
+"found": "2026-11-21T03:45:38+07:00"
+},
+{
 "id": "3eaa662eb270",
 "title": "Ngân hàng sắp đấu giá hai khoản nợ liên quan ông Lê Hải Trà",
 "link": "https://vietnamnet.vn/ngan-hang-chuan-bi-dau-gia-khoan-no-lien-quan-den-ong-le-hai-tra-2576967.html",
@@ -5444,6 +5479,17 @@
 "found": "2026-11-20T13:00:41+07:00"
 },
 {
+"id": "de90b9461636",
+"title": "Khoảng 20.000 trường hợp trạng thái 06 được hủy bỏ tạm hoãn xuất cảnh, thời gian xử lý còn 5 đến 7 phút",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ2IxVU1wclFiTFpsckNXa0docEdEQ3gweE95ZDB2eko1V2diamZMZ0l2LUR6aUlfSC1RZHlKSWs5aGVTNjUyU1JvNU5XY3dFNnFBR3J6UEpwNHl3QXFWYVFrNlNRR250SURVSjZweXF4WkZQZE9FUXJRVDBLRTcyLWw0dE5FN0ZDdjJCdzEtWEQ5QTBFS21mUHNMbVVzUlRxVmg4X3dZU3Z6al9pcm9HazZ4ckd6ekhkNW51X2UxS05fWnNXY1JlU3RJMUhmUERU?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T12:47:00+07:00",
+"found": "2026-11-21T03:45:38+07:00"
+},
+{
 "id": "97e9a2b3bbb8",
 "title": "Đề xuất bổ sung cơ chế miễn, giảm lãi vay tín dụng chính sách khi gặp rủi ro",
 "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTZkN1NRRVNJZEpPT3JDYkpwS1RTYTZkS3VQaHNJVEN6RXBXME9RTDA3ek5LR2cyS1VwX1ZVMVFTS1BmZHExcWN3b0NPUk1FdnI5ZmIzOFprOHcyZkw1azlzQk92V2w0c19ZcjZiTUl4LUJzSGxMQ094MXAwMV9QMFJ4aGJyakJIVzByTDNLTTFOXzNRZk9HaEhYNFRYNkw5dG5YQzJmQTRsQ0E5?oc=5",
@@ -5944,6 +5990,17 @@
 "cat": "xh",
 "published": "2026-11-20T11:55:00+07:00",
 "found": "2026-11-20T11:58:32+07:00"
+},
+{
+"id": "c0952c986ad0",
+"title": "Cựu giáo viên sở hữu tài sản gần 4.000 tỷ đồng, có chồng là chủ tịch tập đoàn nổi tiếng",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjFrcVY2REYwMVpvZ091VEV1ZVd0TFhKQUFyczN6cW5QSzJhNmozNGl2Yk1oUGlqMWxLLTFKck5IMndHdGpkdHdGOVI2bzBIaFFoX2ZzRm1zOFNtY1BzelRibDR3bUhkMG15MnE5Rk84aGxMU0R4U3ZqYXZPdVR3cmhxZWRkNnVncW5uYVFFOU1WLWJ5eDZOSFVjWjFZUjlIQkF3aEZYbVlSOXNfcnFYOVh3SjYwanhvVTQ4?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T11:54:00+07:00",
+"found": "2026-11-21T03:45:38+07:00"
 },
 {
 "id": "9a359ec9c521",
@@ -27919,62 +27976,6 @@
 "source": "Kenh14",
 "cat": "xh",
 "published": "2026-11-18T14:45:00+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "d13e5b2749fb",
-"title": "Hải Phòng đẩy nhanh tiến độ thu hồi, sắp xếp 273 cơ sở nhà, đất công",
-"link": "https://vietnamnet.vn/hai-phong-day-nhanh-tien-do-thu-hoi-sap-xep-273-co-so-nha-dat-cong-2576343.html",
-"summary": "Nhờ chú trọng tuyên truyền, đối thoại và vận động, TP. Hải Phòng đã thu hồi đạt 93% kế hoạch đối với nhóm nhà, đất công diện xử lý theo Nghị định 108/2024/NĐ-CP, quyết tâm hoàn thành sắp xếp toàn bộ 273 cơ sở ngay trong năm 2026.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/hai-phong-day-nhanh-tien-do-thu-hoi-sap-xep-273-co-so-nha-dat-cong-1759.jpeg?width=0&s=SfE0yuW8nN7sp4yYxdH7Tg",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-18T14:45:00+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "e647945352ba",
-"title": "Cấp điện ổn định làm ‘đòn bẩy’ cho doanh nghiệp tăng tốc sản xuất",
-"link": "https://tuoitre.vn/cap-dien-on-dinh-lam-don-bay-cho-doanh-nghiep-tang-toc-san-xuat-100261118112333851.htm",
-"summary": "Cuối năm luôn là giai đoạn vàng để các doanh nghiệp đẩy mạnh sản xuất, hoàn thành các đơn hàng xuất khẩu và phục vụ thị trường Tết do đó rất cần đảm bảo cấp điện ổn định.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/dsc0644-2-1794975452505691454303-0-76-1515-2501-crop-1794975719623182753308.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T14:45:00+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "829e259990a2",
-"title": "Đường dây mua bán 20 kg ma túy: \"Anh Cơ quận 8\" bị đề nghị tử hình",
-"link": "https://kenh14.vn/duong-day-mua-ban-20-kg-ma-tuy-anh-co-quan-8-bi-de-nghi-tu-hinh-215261118143526372.chn",
-"summary": "Trình bày quan điểm giải quyết vụ án liên quan đến các bị cáo trong đường dây mua bán hơn 20 kg ma túy, đại diện Viện Kiểm sát đề nghị mức án tử hình đối với Lê Thanh Tú (tên thường gọi là “anh Cơ quận 8”), trong khi người tình của Tú là Lê Thị Thanh Hà bị đề nghị mức án tù…",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/18/avatar1794987266604-1794987267087131623269.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-18T14:43:00+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "2bc2d38b539f",
-"title": "ra",
-"link": "https://cafef.vn/tuan-nao-cung-bay-tu-tphcm-ra-ha-noi-hoc-dai-hoc-co-gai-sn-2002-tiet-lo-rieng-tien-ve-khu-hoi-da-12-14-trieu-thang-188261118153019243.chn",
-"summary": "Tuần nào cũng bay từ TP.HCM ra Hà Nội học Đại học, cô gái SN 2002 tiết lộ: Riêng tiền vé khứ hồi đã 12-14 triệu/tháng (CafeF)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxIUiwe9vRWz5EjYxEt1l7QXQGmIsoDjsQD_36kLmnnRLRdiH6pHW8z2vU-u8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T14:40:00+07:00",
-"traffic": "100+",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "f0866fd5324f",
-"title": "Sai phạm xây dựng ở dự án Hòa Bình Green Đà Nẵng 7 năm chưa xử lý xong",
-"link": "https://tuoitre.vn/sai-pham-xay-dung-o-du-an-hoa-binh-green-da-nang-7-nam-chua-xu-ly-xong-100261118102358418.htm",
-"summary": "Sai phạm xây dựng tại dự án Hòa Bình Green Đà Nẵng được phát hiện từ năm 2019 nhưng việc xử lý kéo dài nhiều năm. Đến nay, việc cấp sổ hồng cho người mua căn hộ tại đây cũng chưa được giải quyết.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/edit-18-11-du-an-hoa-hinh-green-2-17949717891242145530218-146-265-1436-2330-crop-17949878466211155756849.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-18T14:39:00+07:00",
 "found": "2026-11-18T15:49:01+07:00"
 }
 ]
