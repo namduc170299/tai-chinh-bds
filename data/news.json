@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T22:30:11+07:00",
-"new": 4,
+"updated": "2026-11-20T22:45:33+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "56977d913691",
+"title": "Era City ra mắt nhà phố Dual-Living: Lời giải vừa ở vừa kinh doanh tại Ban Mê",
+"link": "https://vietnamnet.vn/era-city-ra-mat-nha-pho-dual-living-loi-giai-vua-o-vua-kinh-doanh-tai-ban-me-2575369.html",
+"summary": "Giải bài toán vừa giao thương thuận tiện, vừa an cư sinh thái biệt lập cho giới thương nhân Ban Mê, mô hình nhà phố Dual-Living tại Era City mang đến chuẩn mực không gian vừa ở vừa kinh doanh mới giữa lòng thủ phủ Tây Nguyên.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/16/era-city-ra-mat-nha-pho-dual-living-loi-giai-vua-o-vua-kinh-doanh-tai-ban-me-793.png?width=0&s=1dFVr9jnY-cYKaqHGY7ARg",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-20T22:41:47+07:00",
+"found": "2026-11-20T22:45:33+07:00"
+},
+{
 "id": "4adbf83ee345",
 "title": "Máy sưởi Fujihome: Khi thiết bị gia dụng hòa vào không gian sống hiện đại",
 "link": "https://vietnamnet.vn/may-suoi-fujihome-khi-thiet-bi-gia-dung-hoa-vao-khong-gian-song-hien-dai-2576974.html",
@@ -244,6 +255,30 @@
 "cat": "xh",
 "published": "2026-11-20T22:20:00+07:00",
 "found": "2026-11-20T22:30:11+07:00"
+},
+{
+"id": "6041d550ed14",
+"title": "u17 mali",
+"link": "https://tuoitre.vn/du-doan-ti-so-u17-world-cup-mali-vui-dap-new-zealand-100261119161638021.htm",
+"summary": "Dự đoán tỉ số U17 World Cup: Mali vùi dập New Zealand (Báo Tuổi Trẻ)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC01IdsKvMkF5qL4-tt3MnQe9LyPhvmlzl1x4_BXyqOme9WFH4T6x2yDXnH4U",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T22:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-20T22:45:33+07:00"
+},
+{
+"id": "bd01d168969a",
+"title": "cúp mls",
+"link": "https://www.vietnam.vn/suarez-tiet-lo-messi-con-lau-moi-giai-nghe-khat-khao-vo-dich-mls-cup",
+"summary": "Suarez tiết lộ Messi còn lâu mới giải nghệ, khát khao vô địch MLS Cup (Vietnam.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWUQS6oq1BR-y2xsyJahCNnbUnLD-ETGYPNoCXaTFrdZBLsetJ5SMz_MlXxL4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T22:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T22:45:33+07:00"
 },
 {
 "id": "d0cfa61f3c9f",
@@ -335,6 +370,17 @@
 "cat": "xh",
 "published": "2026-11-20T21:46:00+07:00",
 "found": "2026-11-20T21:59:08+07:00"
+},
+{
+"id": "737993e46854",
+"title": "Chính thức: Hộ kinh doanh doanh thu đến 10 tỉ đồng/năm được chọn tính thuế theo tỉ lệ",
+"link": "https://tuoitre.vn/chinh-thuc-ho-kinh-doanh-doanh-thu-den-10-ti-dong-nam-duoc-chon-tinh-thue-theo-ti-le-100261120212627122.htm",
+"summary": "Quốc hội chính thức thông qua quy định nâng ngưỡng doanh thu được lựa chọn phương pháp tính thuế từ 3 tỉ lên 10 tỉ đồng/năm.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/ho-kinh-doanh-thue-2-1-17791542057752067370537-1793408277640487724457-107-0-1707-2560-crop-17951845000142059876194.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-20T21:46:00+07:00",
+"found": "2026-11-20T22:45:33+07:00"
 },
 {
 "id": "c186dc6fe8c1",
@@ -1123,6 +1169,17 @@
 "cat": "bds",
 "published": "2026-11-20T19:14:00+07:00",
 "found": "2026-11-20T19:15:39+07:00"
+},
+{
+"id": "b8e2670ab8fe",
+"title": "Chủ đầu tư khó hạ giá nhà dù thanh khoản kém",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlRYVHh1V3B5bzVUdjhqMTMtQjktNnctSFk1dlJja0lUREJCZU81NF9uZGFITmg3YlNLYjBpaEtGMFFaXzlWVXpKN1o0YnJ5dHk2T3NHSzh0NE5Tek1tTzRKek54bXpDY3dUN0xPNVZCZXRDVDRaRTBPT0pMQnBfSVFHYw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T19:13:00+07:00",
+"found": "2026-11-20T22:45:33+07:00"
 },
 {
 "id": "64f37cec5153",
@@ -27902,61 +27959,6 @@
 "source": "Kenh14",
 "cat": "xh",
 "published": "2026-11-18T13:38:00+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "5fb14522250e",
-"title": "Hình ảnh 'đại gia điếu cày' Lê Thanh Thản trong ngày hầu tòa sáng 18/11",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmpSd3ROVUFZSHpMd3BRcEk2QnI3Ulh5Qk0wallEYTM5UmVpaEp6NEFaZWJ2aTRvblVNUm1rdHduaWRYb3J3OGNTWlozNmNIUVU0aWVqS29XUTd3SURaU0VZbFMwOWN3aFJGbkhJM0tqS2NfdEtUX3NWSHpPYTFjblVUTzdmQnJ3T3RkTm83NWl3cUlndU5fbmVielZZSUlHc2JsNg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T13:32:44+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "9259accb53bb",
-"title": "WinX mở rộng từ chương trình tích điểm thành nền tảng kết nối tiêu dùng",
-"link": "https://tuoitre.vn/winx-mo-rong-tu-chuong-trinh-tich-diem-thanh-nen-tang-ket-noi-tieu-dung-100261118123402432.htm",
-"summary": "WinX mở rộng từ chương trình tích điểm thành nền tảng kết nối tiêu dùng",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/photo-1794979551286-17949795520941121493401-0-0-800-1280-crop-1794979730239661671152.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T13:32:00+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "ea5f71379732",
-"title": "Giá vàng hôm nay (trưa 18-11): Đồng loạt giảm",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZC1EWHVaSUszbmJSTnhGTWNEQmdwMko5U2tEV3BFSnU4OUhyWVVGMmhZZkp3UDJXV2gzakxjcnJfOGVycDNzbno0LVNPN0dvV0JPb0RZb1YxNy1CZTlXcnlGUHRDNU1feU5kZ2U3cHpUVFVQbzlOOWpkXzNiLVdGdw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T13:32:00+07:00",
-"found": "2026-11-19T08:37:39+07:00"
-},
-{
-"id": "39234b6bcfe9",
-"title": "Tổ hợp ga Ngọc Hồi: Định hình đầu mối đường sắt phía Nam Thủ đô",
-"link": "https://cafef.vn/to-hop-ga-ngoc-hoi-dinh-hinh-dau-moi-duong-sat-phia-nam-thu-do-188261118133150477.chn",
-"summary": "Được quy hoạch trở thành đầu mối đường sắt lớn ở cửa ngõ phía Nam Hà Nội, Tổ hợp ga Ngọc Hồi sẽ tích hợp với đường sắt quốc gia, đường sắt tốc độ cao Bắc - Nam và mạng lưới đường sắt đô thị.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1794983493743-17949834945311497968059.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T13:31:00+07:00",
-"found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "b7c4f24f318c",
-"title": "Khai trương văn phòng bán hàng và khu nhà mẫu dự án Maison Privée",
-"link": "https://cafef.vn/khai-truong-van-phong-ban-hang-va-khu-nha-mau-du-an-maison-privee-188261118112131955.chn",
-"summary": "Tiếp nối sự kiện ra mắt văn phòng bán hàng, ngày 14/11, Chủ đầu tư CapitaLand Development chính thức khai trương khu nhà mẫu Maison Privée tại Khu đô thị Ciputra, Hà Nội. Tại đây mở ra không gian trải nghiệm thực tế cho nhà đầu tư và khách hàng có nhu cầu ở thực.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/photo1794970209570-1794970210077676565248-17949754231291629647327.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T13:30:00+07:00",
 "found": "2026-11-18T14:46:40+07:00"
 }
 ]
