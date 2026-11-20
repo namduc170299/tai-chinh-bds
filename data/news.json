@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T18:34:26+07:00",
-"new": 15,
+"updated": "2026-11-20T18:45:15+07:00",
+"new": 11,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 28
+"count": 27
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,62 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "a6c72eaca76f",
+"title": "Á Mỹ chào sàn HoSE, cổ phiếu ghi nhận thanh khoản hơn 14 tỷ đồng",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaHRwOWZ2UGhaRThweUJkT1lUcnNpeXE5RkQwZXc4dTVNUk92VUhkeFFadFNDZmEzVktHb3Y5X09oSE96MF9XM0VPLTNFOFhsVFYxLWhGZ3dKVDQxTkcteWxHNW5xeldmbF8ybWI0alZiY3JWZldQR2E3dlRVMW1jdWxiaUhUTWkzWF9zaTZTcm1Od0c4d2Y3RUgwUFk?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T18:39:00+07:00",
+"found": "2026-11-20T18:45:15+07:00"
+},
+{
+"id": "ebea24c01272",
+"title": "Cổ phiếu FPT đối diện áp lực bán lớn từ khối ngoại",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa1dBRzdZWlBEeVdiR1RXaUEyUVVTSXV5OU1WakZRblZnb2htQUNic3F3MnEyUVRNcExzcmVzVjU5d1BON2g0eWJVSDMxWWlPajdZUGoxQkViNERiTnVvWTVvTmdaQjlvM29FRkJncTd6djB0N0p3WnZQaV9iWkM3LXJXT1haVEozVHNV?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T18:38:00+07:00",
+"found": "2026-11-20T18:45:15+07:00"
+},
+{
+"id": "859adbc661c4",
+"title": "Hạ tầng đang triển khai và bài toán sở hữu căn hộ tại cực phát triển mới",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGFZNmFJb0dwY2tNUkpjSG1NUHY4TjdTd3RfMUZBdWwwWEhtaDVKUFl4VFc2aF8xSWdILWg2N3NncmFnYzZQbFhOWDkzS2xsQ2JTTzgwMVRLdTU3eVdvbUNBSS1iNl9fQlZmUm5saXRvODdNdzU4b2xhZzY4em9jNGtKaGQ5S3lPQ296MVFObDk2d3RyQzBCWmlXbzRMSFhHdlFpbFBWN2w?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T18:32:14+07:00",
+"found": "2026-11-20T18:45:15+07:00"
+},
+{
+"id": "4dcd1c5ae714",
+"title": "Dân chung cư 'ông Thản'- CT6 Kiến Hưng: 'Mong vẫn ở lại căn nhà mình, đừng nói bồi thường cao'",
+"link": "https://kenh14.vn/dan-chung-cu-ong-than-ct6-kien-hung-mong-van-o-lai-can-nha-minh-dung-noi-boi-thuong-cao-215261120173146346.chn",
+"summary": "Sau phiên xét xử vụ án xảy ra tại dự án CT6 Kiến Hưng (phường Kiến Hưng, Hà Nội), một số người dân đang sinh sống tại tòa CT6C cho biết, mong mỏi của họ vẫn là được ở lại căn nhà của mình. Đồng thời cho rằng mức giá 56 triệu đồng/m2 tại tòa nhà này là sát thực tế chứ không thể…",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795170693929-1795170694223577107065.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T18:31:00+07:00",
+"found": "2026-11-20T18:45:15+07:00"
+},
+{
+"id": "929de9126ef8",
+"title": "j league",
+"link": "https://www.jleague.jp/en/news/article/35365/?navicode=j1",
+"summary": "Records within Reach [MEIJI YASUDA J1 Matchweek 15] (Ｊリーグ公式サイト)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bzKK1YGX8tDYmmkQkzCSn1QAfY5yHJ7dwhsXoZIRhSHt9Aux2AhYBckXh-I",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T18:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T18:45:15+07:00"
+},
 {
 "id": "6d8351ff1fa3",
 "title": "Phường Hoàng Liệt bàn giao 67% chiều dài tuyến dự án Trục không gian Quốc lộ 1A",
@@ -290,6 +346,42 @@
 "found": "2026-11-20T18:34:26+07:00"
 },
 {
+"id": "8e949489b655",
+"title": "thứ hạng của western sydney wanderers fc gặp câu lạc bộ bóng đá adelaide united",
+"link": "https://www.bbc.com/sport/football/live/cmx29y80jpwyt",
+"summary": "Western Sydney Wanderers vs Adelaide United: A-League Men stats & head-to-head (BBC)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T18:20:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-20T18:45:15+07:00"
+},
+{
+"id": "97aa56fe4f66",
+"title": "viện kiểm sát nhân dân tối cao",
+"link": "https://www.24h.com.vn/tin-tuc-trong-ngay/chinh-thuc-bo-an-tu-hinh-voi-6-toi-danh-c46a1812745.html",
+"summary": "Chính thức bỏ án tử hình với 6 tội danh (Tin tức 24h)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDcBLNPUfg2gwoC-msJZPDEMfPpbFDubT0fhomOzhVT1JNbNgop1T2xhuS5k",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T18:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-20T18:45:15+07:00"
+},
+{
+"id": "6762b1cad1b2",
+"title": "trại giam hanh phúc",
+"link": "https://znews.vn/khong-nhan-ra-luong-the-thanh-post1697808.html",
+"summary": "Không nhận ra Lương Thế Thành (Znews)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHBAeaJ84h4yIS2sCdjbUBwx3iG25KWh06LVF9mDW42RKllufWky90LZSS-co",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T18:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-20T18:45:15+07:00"
+},
+{
 "id": "dc11aa1e5b56",
 "title": "Quốc hội quyết thu thuế 0,2% đối với đất bỏ hoang từ 1/7/2027",
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNE5HbzU5M2FpeXpfUjNKWVM0aFVkUG5Ud0ZsamExbUxhZVg1MmEtNEhISVlzclRyMTd2a3daZURHZUpROWpwNURCSW14YlhtZlQ4ZDVnMG00eUg2bWlXRXJuejhZTExnZ1ZGcUNiSG1iY0FzbEdhaTRPUDNmeXQwNHRXVTBIUUtVYjBXbFY1cDc3MUY2blhVWQ?oc=5",
@@ -356,6 +448,17 @@
 "found": "2026-11-20T18:19:12+07:00"
 },
 {
+"id": "a5ee98629f6c",
+"title": "Hơn 45.000 tỷ đồng phòng chống ma túy và tội phạm đến 2030",
+"link": "https://vnexpress.net/hon-45-000-ty-dong-phong-chong-ma-tuy-va-toi-pham-den-2030-5147176.html",
+"summary": "Việt Nam sẽ huy động 45.300 tỷ đồng để phòng chống ma túy và tội phạm trong 5 năm, hướng tới mục tiêu ít nhất 50% xã và 20% tỉnh thành không có ma túy vào năm 2030.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/2aobordwh87xvs9bmbgandhcexaidg-6024-7575-1795170178.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xcm6jLdCDAq7TMbwZgk2TA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-20T18:15:57+07:00",
+"found": "2026-11-20T18:45:15+07:00"
+},
+{
 "id": "4a1768be803d",
 "title": "Xem nhà lấy thông tin rồi làm giả giấy tờ, đóng giả luôn chủ nhà để bán và thế chấp ngân hàng",
 "link": "https://tuoitre.vn/xem-nha-lay-thong-tin-roi-lam-gia-giay-to-dong-gia-luon-chu-nha-de-ban-va-the-chap-ngan-hang-100261120144611867.htm",
@@ -409,6 +512,28 @@
 "cat": "xh",
 "published": "2026-11-20T18:04:00+07:00",
 "found": "2026-11-20T18:19:12+07:00"
+},
+{
+"id": "5eac7712eca7",
+"title": "Rao bán khoản nợ của ông Lê Hải Trà, tài sản bảo đảm là căn hộ 273m² ở Thảo Điền",
+"link": "https://tuoitre.vn/rao-ban-khoan-no-cua-ong-le-hai-tra-tai-san-bao-dam-la-can-ho-273m-o-thao-dien-100261120175415465.htm",
+"summary": "Agribank đang tìm đơn vị tổ chức đấu giá khoản nợ hơn 12,4 tỉ đồng của ông Lê Hải Trà. Tài sản bảo đảm cho khoản vay là căn hộ rộng gần 273m² tại chung cư ở Thảo Điền, TP.HCM.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/base64-178633289296761995127-17951717833891392183441.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "bds",
+"published": "2026-11-20T18:00:00+07:00",
+"found": "2026-11-20T18:45:15+07:00"
+},
+{
+"id": "b279be5a4919",
+"title": "Điều gì giữ chân doanh nghiệp Hàn Quốc suốt thời gian qua?",
+"link": "https://tuoitre.vn/dieu-gi-giu-chan-doanh-nghiep-han-quoc-suot-thoi-gian-qua-100261120154501116.htm",
+"summary": "Cộng đồng doanh nghiệp Hàn Quốc tiếp tục đẩy mạnh đầu tư, tạo việc làm, chuyển giao công nghệ và tăng cường trách nhiệm xã hội, góp phần xây dựng quan hệ hợp tác kinh tế bền vững với Việt Nam.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/img0911-1795163493244137573269-0-0-1529-2446-crop-17951637348221459223411.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-20T17:59:00+07:00",
+"found": "2026-11-20T18:45:15+07:00"
 },
 {
 "id": "88a7fc93b8aa",
@@ -518,7 +643,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T17:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-20T18:03:59+07:00"
 },
 {
@@ -1403,7 +1528,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T16:30:00+07:00",
-"traffic": "10000+",
+"traffic": "20000+",
 "found": "2026-11-20T16:46:35+07:00"
 },
 {
@@ -27817,128 +27942,6 @@
 "cat": "xh",
 "published": "2026-11-18T11:45:00+07:00",
 "found": "2026-11-18T14:46:40+07:00"
-},
-{
-"id": "5c4072a8e651",
-"title": "Nợ xấu gia tăng: Yêu cầu nâng cao hiệu quả xử lý nợ",
-"link": "https://cafef.vn/no-xau-gia-tang-yeu-cau-nang-cao-hieu-qua-xu-ly-no-188261118110816498.chn",
-"summary": "Hàng trăm tỷ đồng nợ ngân hàng đang được các tổ chức tín dụng đưa ra đấu giá, rao bán nhằm thu hồi vốn. Trong bối cảnh nợ xấu tiếp tục gia tăng, yêu cầu nâng cao hiệu quả xử lý nợ và phát triển thị trường mua bán nợ ngày càng cấp thiết.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1794974835519-17949748360511857576540.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-18T11:44:00+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "e83991757550",
-"title": "Chi tiết 135 căn hộ và nhà thấp tầng tại dự án CT6 Kiến Hưng phải di dời",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2VBR2Q0eGVJa3hhSXpNWENtQ2tNaWN0bGhQTThoVTNwMTkweEJ0WHFyTHB0WkdlUGRXTm1vaHRvbTl6SVpuaExsbEEyNnhTQ1hfTTNudnJEZXRjamRLbTR1RVFSN3FJNmppR1ZoNGYtTXMwbFM3WVgtbXBscDhSeXlRNnh4RFQycXhMTWFuSjFOUDJ0YWZwa1NxV0JpeTByM1c5X2xSUDg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T11:43:41+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "3288f745a474",
-"title": "Xịt hơi cay vào nhiều người trước quán nhậu, nam thanh niên bỏ chạy vào rừng",
-"link": "https://vietnamnet.vn/xit-hoi-cay-vao-nhieu-nguoi-nam-thanh-nien-bo-chay-vao-rung-2576253.html",
-"summary": "Sau khi xịt hơi cay vào nhiều người trước quán nhậu ở Đà Nẵng, nam thanh niên bỏ chạy vào rừng cây lẩn trốn. Sau đó, đối tượng ra đầu thú và bị tạm giữ hình sự.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/xit-hoi-cay-vao-nhieu-nguoi-truoc-quan-nhau-nam-thanh-nien-bo-chay-vao-rung-1173.gif?width=0&s=2ZaCSO8SYdCo5kjU10md0A",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T11:43:22+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "1827eb5da539",
-"title": "Hà Nội cấm nhiều tuyến phố quanh Hồ Gươm trong 6 ngày",
-"link": "https://vnexpress.net/ha-noi-cam-nhieu-tuyen-pho-quanh-ho-guom-trong-6-ngay-5146037.html",
-"summary": "Nhằm phục vụ các hoạt động nhân Ngày Văn hóa Việt Nam, Công an TP Hà Nội sẽ tạm cấm và hạn chế phương tiện trên nhiều tuyến phố trung tâm từ 18/11 đến sáng 23/11.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/HUY2111-1794973929-6685-1794974127.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hUuWaO_BrtRZ3WwVs4knUA",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-18T11:42:59+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "7fd1d72631fb",
-"title": "Xử lý một hành khách mang còng số 8 chuẩn bị lên máy bay",
-"link": "https://vietnamnet.vn/xu-ly-mot-hanh-khach-mang-cong-so-8-chuan-bi-len-may-bay-2576258.html",
-"summary": "Mang theo còng số 8 trong hành lý xách tay, một hành khách chuẩn bị lên chuyến bay từ TPHCM đi Đà Nẵng đã bị lực lượng công an phát hiện, xử lý.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/xu-ly-mot-hanh-khach-mang-cong-so-8-chuan-bi-len-may-bay-1148.png?width=0&s=tgp7UYfj4XxJsljRBU4N9Q",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T11:42:30+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "ddbdda622a68",
-"title": "Giá vàng trong nước, thế giới quay đầu giảm mạnh",
-"link": "https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-the-gioi-quay-dau-giam-manh-20261118113157233.htm",
-"summary": "(Dân trí) - Giá vàng miếng SJC sáng 18/11 giảm 500.000 đồng/lượng ở cả hai chiều mua vào và bán ra, trong khi vàng thế giới mất gần 60 USD/ounce, lùi xuống dưới mốc 3.800 USD.",
-"image": "https://cdnphoto.dantri.com.vn/6pI33Exs3zLTsKPO3oWCVvkX8Gw=/2025/08/24/gia-vang-46-anh-tien-tuan-edited-1755971819437.jpg?watermark=v1",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-18T11:42:06+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "7d5ab9121b57",
-"title": "Hỗ trợ một lần với người hoạt động không chuyên trách ở tổ dân phố",
-"link": "https://thanhnien.vn/ho-tro-mot-lan-voi-nguoi-hoat-dong-khong-chuyen-trach-o-to-dan-pho-185261118112845123.htm",
-"summary": "HĐND thành phố Bắc Ninh vừa ban hành Nghị quyết quy định chính sách hỗ trợ một lần đối với người hoạt động không chuyên trách ở thôn, tổ dân phố nghỉ do kiện toàn, cơ cấu lại.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/to-dan-pho-17949759608041206883587-63-0-876-1300-crop-17949760625491165565723.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-18T11:42:00+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "d937ca36b74f",
-"title": "Chị Dương Thị Vui làm Bí thư Tỉnh đoàn Lào Cai,",
-"link": "https://tuoitre.vn/chi-duong-thi-vui-lam-bi-thu-tinh-doan-lao-cai-10026111811135746.htm",
-"summary": "Ban Chấp hành Trung ương Đoàn TNCS Hồ Chí Minh quyết định về việc công nhận đồng chí Dương Thị Vui giữ chức danh Bí thư Tỉnh đoàn Lào Cai; anh Lê Hà Khương Anh giữ chức danh Phó Bí thư Tỉnh đoàn Lào Cai.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/duong-thi-vui-2-179497458652149131911-82-240-1403-2353-crop-17949769154991054021961.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-18T11:41:00+07:00",
-"found": "2026-11-18T13:28:20+07:00"
-},
-{
-"id": "3fd59e702a3b",
-"title": "Thanh khoản chung cư “lao dốc”, giá thứ cấp tại Hà Nội quay đầu giảm",
-"link": "https://cafef.vn/thanh-khoan-chung-cu-lao-doc-gia-thu-cap-tai-ha-noi-quay-dau-giam-188261118114059863.chn",
-"summary": "Lãi suất vay mua nhà neo cao cùng cơ cấu nguồn cung lệch pha về phân khúc cao cấp đã đẩy thị trường căn hộ Hà Nội vào thế khó. Ghi nhận thực tế cho thấy giá nhà thứ cấp và căn hộ bàn giao tại nhiều dự án lớn đã hạ nhiệt, mang lại áp lực nhưng cũng tạo thêm lựa chọn cho người mua…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1794976817114-1794976817363862806525.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T11:40:00+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "eaeb399f7c1a",
-"title": "Xuyên đêm truy bắt nhóm thanh niên xịt hơi cay tấn công nhiều người trước Festival Club",
-"link": "https://thanhnien.vn/xuyen-dem-truy-bat-nhom-thanh-nien-xit-hoi-cay-tan-cong-nhieu-nguoi-truoc-festival-club-185261118104643658.htm",
-"summary": "Sau khi dùng bình xịt hơi cay tấn công nhiều người trước quán bar ở Đà Nẵng, nhóm thanh niên lên ô tô bỏ trốn, một người chạy vào rừng. Lực lượng công an vào cuộc truy tìm xuyên đêm.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/13630-17949723799921061261814-27-0-702-1080-crop-17949735569782049471835.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-18T11:40:00+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "e1714c83c11f",
-"title": "malaysia",
-"link": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-warns-of-risks-to-ai-demand-as-quarterly-growth-beats-initial-estimates",
-"summary": "Malaysia Says Growth Stronger Than Expected But AI Risks Loom (Bloomberg)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSV4FEV3mtrilbxLsCXVE_-QEpTxdjgeIYnwei0Z-J_C4K5uLD1eLRXLZ-7txU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T11:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-18T12:27:07+07:00"
 }
 ]
 }
