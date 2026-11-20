@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T17:01:46+07:00",
-"new": 21,
+"updated": "2026-11-20T17:16:55+07:00",
+"new": 17,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 59
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,84 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "c26542581897",
+"title": "Sẽ xây thêm cầu Nhơn Trạch 2 nối TP.HCM - Đồng Nai",
+"link": "https://thanhnien.vn/se-xay-them-cau-nhon-trach-2-noi-tphcm-dong-nai-185261120170629875.htm",
+"summary": "Bộ Xây dựng vừa ban hành quyết định phê duyệt điều chỉnh Dự án thành phần 1A của Dự án đầu tư xây dựng đoạn Tân Vạn - Nhơn Trạch giai đoạn 1 thuộc đường Vành đai 3 TP.HCM. Trong đó, cầu Nhơn Trạch được đầu tư bổ sung đơn nguyên thứ 2 bên cạnh cầu Nhơn Trạch hiện hữu.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-dji0607-17907009842701316304079-1795169126977331946368-0-227-1440-2531-crop-1795169163023787766036.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-20T17:10:00+07:00",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
+"id": "efe0963ef71a",
+"title": "Cà Mau có 33 dự án được gỡ khó",
+"link": "https://thanhnien.vn/ca-mau-co-33-du-an-duoc-go-kho-185261120160424275.htm",
+"summary": "Trong 77 dự án của Cà Mau có 33 dự án đã hết vướng mắc, đủ điều kiện đưa ra khỏi hệ thống 751. Sở Tài chính cũng đề xuất chuyển nhóm 4 dự án có vướng mắc về đất đai vượt thẩm quyền của địa phương.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-img4830-17951649672861951935392-253-0-1853-2560-crop-17951651402981191308247.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-20T17:09:00+07:00",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
+"id": "e92b539c0c2f",
+"title": "Bánh gạo nướng An: Tự hào hạt ngọc Việt vươn tầm thế giới",
+"link": "https://thanhnien.vn/banh-gao-nuong-an-tu-hao-hat-ngoc-viet-vuon-tam-the-gioi-185261119101114767.htm",
+"summary": "Có những giá trị đi cùng người Việt qua nhiều thế hệ, bình dị đến mức đôi khi ta quên mất sự đặc biệt của chúng. Hạt gạo là một trong số đó. Từ cánh đồng lúa đến mâm cơm gia đình, hạt gạo không chỉ nuôi dưỡng cuộc sống mà còn lưu giữ ký ức, văn hóa và tình cảm của người Việt.…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/img2-1795168341722739140542-240-0-1440-1920-crop-1795168353033423311079.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-20T17:05:00+07:00",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
+"id": "d8ef2a50e7d8",
+"title": "Báo chí Thái Lan phẫn nộ vì đội nhà 'đá ai cũng thua', từ Việt Nam, Singapore đến cả... Campuchia",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1k1dmVWSGoxZ2JMRXFCOEpyaG5ncTVKS29hdTM4NFFoS2lHNXVOWktWc2VwTUh3UDlzOE5QTzdyT0Z6cF91aHZILUdDMkVUdTZkZnF3Y0d2TVNlaUdfTXphbzVqVm8tVHJfTlJYcmNXSUZYcVVZT0wyaXRpN1BSbjZpeF9mc2g2d3ZoeFdLSE02OHRRUlN2aVdFMDhNVTByNDZxVlc1b1c?oc=5",
+"summary": "Nguồn: tin.skydoor.net",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T17:04:26+07:00",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
+"id": "2273e61e06df",
+"title": "Quốc hội đồng ý áp thuế 0,2% với đất bỏ hoang",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbWw1N3JpLUJWbmE2THRGWWx4ZnBhWjhxNjFtc0R0Z3lyOUdHeGh3RV9hZXc5Q2RhcFJXSHVTYnI4YlQxWDNXTlBjS2hJVWVkak1zb0YtZXV3S3Q0OWtvMTJsTnU4VDlYT1J1YXJkUEJyWnlXd25wQjBWcmVNM25ya05vOA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T17:02:00+07:00",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
+"id": "0cd70ebd4cae",
+"title": "vissel kobe đấu với mito",
+"link": "https://bongdaplus.vn/j-league/nhan-dinh-bong-da-vissel-kobe-vs-mito-17h00-ngay-20-11-5293482611.html",
+"summary": "Nhận định bóng đá Vissel Kobe vs Mito, 17h00 ngày 20/11: Đội bóng cũ của Công Phượng lại thua (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0GaNjopEaLvsAqVY8euGI43mvLBkVT-4IpnlGGggak18CZa7sEy0cFth5qg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T17:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
+"id": "ea392d42121c",
+"title": "Khánh Hòa yêu cầu kiểm tra trật tự xây dựng dự án Nha Trang Diamond Resort",
+"link": "https://cafef.vn/khanh-hoa-yeu-cau-kiem-tra-trat-tu-xay-dung-du-an-nha-trang-diamond-resort-188261120160301375.chn",
+"summary": "Sau phản ánh của báo Tiền Phong về dấu hiệu đổ đất đá san lấp, lấn biển tại dự án Nha Trang Diamond Resort, Sở Xây dựng Khánh Hòa đã có văn bản đề nghị UBND phường Bắc Nha Trang khẩn trương kiểm tra trật tự xây dựng, làm rõ hoạt động thi công tại dự án.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795165354059-17951653542651490990433.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-20T16:59:00+07:00",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
 "id": "1c0e98e40fb2",
 "title": "Phường Bạch Mai: 72 hộ gia đình đã bàn giao mặt bằng cho dự án Trục Quốc lộ 1A",
 "link": "https://cafef.vn/phuong-bach-mai-72-ho-gia-dinh-da-ban-giao-mat-bang-cho-du-an-truc-quoc-lo-1a-188261120155841369.chn",
@@ -224,6 +302,28 @@
 "found": "2026-11-20T17:01:46+07:00"
 },
 {
+"id": "e2a0ce0f60f2",
+"title": "Tỉnh định hướng lên TP trực thuộc Trung ương chuẩn bị khởi công tuyến đường dài 74km kết nối hai đô thị, tổng mức đầu tư trên 20.700 tỷ đồng",
+"link": "https://kenh14.vn/tinh-dinh-huong-len-tp-truc-thuoc-trung-uong-chuan-bi-khoi-cong-tuyen-duong-dai-74km-ket-noi-hai-do-thi-tong-muc-dau-tu-tren-20700-ty-dong-215261120161833581.chn",
+"summary": "Theo Nghị quyết đã được HĐND tỉnh thông qua, tuyến đường này trực tiếp nâng cao điều kiện đi lại cho người dân, rút ngắn khoảng cách không gian và thời gian giữa hai đô thị.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795166187335-1795166187743973875856.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T16:58:00+07:00",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
+"id": "d0ef4582e4a6",
+"title": "Bắt tạm giam Giang Thị Quỳnh Anh SN 1992",
+"link": "https://kenh14.vn/bat-tam-giam-giang-thi-quynh-anh-sn-1992-215261120155740414.chn",
+"summary": "Giang Thị Quỳnh Anh bị khởi tố, tạm giam vì thuê 22 xe máy tự lái tại Đà Nẵng rồi mang đi cầm cố, chiếm đoạt tiền, cơ quan công an đã thu hồi được 19 phương tiện.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795164965709-17951649662531457440951.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T16:56:00+07:00",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
 "id": "f175b88f155e",
 "title": "Ninh Bình: Chưa đủ căn cứ kết luận lái đò Tam Cốc vòi tiền tip",
 "link": "https://thanhnien.vn/ninh-binh-chua-du-can-cu-ket-luan-lai-do-tam-coc-voi-tien-tip-185261120161841605.htm",
@@ -233,6 +333,17 @@
 "cat": "xh",
 "published": "2026-11-20T16:55:00+07:00",
 "found": "2026-11-20T17:01:46+07:00"
+},
+{
+"id": "2b2ca4a2ec58",
+"title": "Trình Quốc hội cơ chế xóa nợ thuế có điều kiện cho người nộp thuế",
+"link": "https://dantri.com.vn/kinh-doanh/trinh-quoc-hoi-co-che-xoa-no-thue-co-dieu-kien-cho-nguoi-nop-thue-20261120152800055.htm",
+"summary": "(Dân trí) - Chính phủ đề xuất cơ chế xóa nợ lệ phí môn bài, tiền chậm nộp cho một số trường hợp ngừng hoạt động, trong bối cảnh hơn 2,5 triệu người nộp thuế chưa hoàn tất thủ tục.",
+"image": "https://cdnphoto.dantri.com.vn/B-Iy_9SVx0Rs3H9J7-DuNcI4Wg4=/2026/11/20/bt-ngo-van-tuan-edited-cropped-1795163042274.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-20T16:54:10+07:00",
+"found": "2026-11-20T17:16:55+07:00"
 },
 {
 "id": "1b8c913e3d4b",
@@ -266,6 +377,18 @@
 "cat": "tc",
 "published": "2026-11-20T16:50:00+07:00",
 "found": "2026-11-20T17:01:46+07:00"
+},
+{
+"id": "79c747c2c6dc",
+"title": "kashiwa đấu với jef united",
+"link": "https://bongdaplus.vn/bong-da-the-gioi/nhan-dinh-bong-da-kashima-antlers-vs-shimizu-s-pulse-17h00-ngay-20-11-diem-tua-san-nha-5293492611.html",
+"summary": "Nhận định bóng đá Kashima Antlers vs Shimizu S-Pulse, 17h00 ngày 20/11: Điểm tựa sân nhà (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEnVlCP7gxEs0UUxh8C1NQ404u0leqx-FhBkUpRjILkOyIvChRsL_9Vo0M5d0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T16:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-20T17:16:55+07:00"
 },
 {
 "id": "9fd44c004df0",
@@ -312,6 +435,17 @@
 "found": "2026-11-20T16:46:35+07:00"
 },
 {
+"id": "83189d24422d",
+"title": "Chuyên gia: Luật mới tạo động lực để hộ kinh doanh chuyển lên doanh nghiệp",
+"link": "https://dantri.com.vn/kinh-doanh/chuyen-gia-luat-moi-tao-dong-luc-de-ho-kinh-doanh-chuyen-len-doanh-nghiep-20261120154756981.htm",
+"summary": "(Dân trí) - Các chính sách hỗ trợ về thuế, tài chính và hoạt động kinh doanh được kỳ vọng giúp hộ kinh doanh mạnh dạn chuyển đổi, đồng thời tạo thêm nguồn lực để doanh nghiệp nhỏ và vừa mở rộng quy mô.",
+"image": "https://cdnphoto.dantri.com.vn/oIKiAWfJX5Fdco-kUKQSSTltm4o=/2026/11/20/cho-dong-xuanminhhuyen-11-1790852834429-1795164204033.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-20T16:44:15+07:00",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
 "id": "bdf8769abc8d",
 "title": "Quảng Ninh nghiên cứu dùng thiết bị bay không người lái chở hàng",
 "link": "https://kenh14.vn/quang-ninh-nghien-cuu-dung-thiet-bi-bay-khong-nguoi-lai-cho-hang-215261120155055809.chn",
@@ -353,7 +487,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T16:40:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-20T17:01:46+07:00"
 },
 {
@@ -454,6 +588,28 @@
 "cat": "tc",
 "published": "2026-11-20T16:32:24+07:00",
 "found": "2026-11-20T17:01:46+07:00"
+},
+{
+"id": "884eaddef211",
+"title": "Báo Thanh Niên tổ chức tọa đàm 'Văn hóa doanh nghiệp: Từ giá trị đến sức cạnh tranh'",
+"link": "https://thanhnien.vn/bao-thanh-nien-to-chuc-toa-dam-van-hoa-doanh-nghiep-tu-gia-tri-den-suc-canh-tranh-185261120164329165.htm",
+"summary": "Nhân Ngày Văn hóa Việt Nam 24.11, Báo Thanh Niên tổ chức tọa đàm 'Văn hóa doanh nghiệp: Từ giá trị đến sức cạnh tranh', với sự phối hợp thực hiện của Tập đoàn GELEX. Chương trình tập trung trao đổi cách đưa các giá trị văn hóa vào quản trị, tạo dựng niềm tin và nâng cao sức cạnh…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/anh-tin-rao-2311moi-179516751111445874966-0-114-1441-2420-crop-1795167681393936170095.png",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-20T16:32:00+07:00",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
+"id": "aa05a4eadc65",
+"title": "8 năm gieo rắc kinh hoàng bằng AK của giang hồ Tài 'Đen'",
+"link": "https://vnexpress.net/8-nam-gieo-rac-kinh-hoang-bang-ak-cua-giang-ho-tai-den-5147103.html",
+"summary": "Trong 8 năm trốn truy nã, Tài \"Đen\" mang AK truy sát, bảo kê, gây hàng loạt trọng án khiến 4 người chết, 8 người bị thương, trước khi sa lưới sau vụ cướp ngân hàng.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/wm1-wm1-2-jpeg-1795162172-9199-1795162276.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=S0XgalLkyLXQjT32Y8fN_w",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-20T16:31:28+07:00",
+"found": "2026-11-20T17:16:55+07:00"
 },
 {
 "id": "9946712e96c9",
@@ -1075,6 +1231,18 @@
 "found": "2026-11-20T15:33:19+07:00"
 },
 {
+"id": "acbfcca5f7c4",
+"title": "lời chúc thầy 20.11",
+"link": "https://vietnamnet.vn/loi-chuc-ngay-20-11-cho-thay-co-da-nghi-huu-hay-nam-2026-2575086.html",
+"summary": "Lời chúc ngày 20/11 cho thầy cô đã nghỉ hưu hay năm 2026 (Báo VietNamNet)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy_ugtjA7TDaP0fHfeMc0eA4ZilWqyr-V11hOzkzo3ik7W9g3fzeN3kLE2fWY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T15:10:00+07:00",
+"traffic": "10000+",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
 "id": "8ec85e8b0573",
 "title": "Số hóa quản lý đất đai - Từ dữ liệu số đến hiệu quả phục vụ nhân dân",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjA2U0RyQ2pVaXZBamNOQVFadlgzcHZOaUZ0UXNhR1dCRnBxWHZxNHJxVjNmU3MzNmZibUN4Y1BMRi1nZXIxdFFRdDhNNnB3U184TGRUZUdvSU5vV2pKNTBhN3o4OUxIVndkVlh0b0swYmZNYmxDaF94UlY1YXlVdFZNbEZvTGJHR1B2Tjd3c0kyOW5YSXNnUjhNY2lkdWxu?oc=5",
@@ -1537,7 +1705,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-20T14:10:00+07:00",
-"traffic": "2000+",
+"traffic": "500+",
 "found": "2026-11-20T14:47:43+07:00"
 },
 {
@@ -2149,6 +2317,17 @@
 "found": "2026-11-20T13:16:06+07:00"
 },
 {
+"id": "57353c72d2fd",
+"title": "Ông Trump thừa nhận đối thoại ba bên về hạt nhân chắc chắn sẽ khó khăn",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEQxTU9Zenp2S1IzQTBhcnR6dzB4cjlkRVVXT1F0NXNxUFVjQndCTkxBb1FGeUxHVHdBTW9nWU80dFVGYnhWcTA4Y0tHYjBvd0tOTjgzR3ZaUGhwWWhhTjVjbV9JdnRPY3ZBcHlycGRYVXo3NVZnM3RnS2dkdTB0LTVtU2hNVlU1Z2FwYmlCbVRRVlR2NFJITg?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T13:03:19+07:00",
+"found": "2026-11-20T17:16:55+07:00"
+},
+{
 "id": "794d3fe1b728",
 "title": "Nhà máy thủy điện nằm trong lòng núi ở Việt Nam: Phía trên là lớp đá phủ hơn 1.000 m, đào hầm gặp hiện tượng nổ đá, 83% đường hầm không cần gia cố",
 "link": "https://kenh14.vn/nha-may-thuy-dien-nam-trong-long-nui-o-viet-nam-phia-tren-la-lop-da-phu-hon-1000-m-dao-ham-gap-hien-tuong-no-da-83-duong-ham-khong-can-gia-co-215261120121052704.chn",
@@ -2424,6 +2603,17 @@
 "cat": "bds",
 "published": "2026-11-20T12:22:21+07:00",
 "found": "2026-11-20T12:29:47+07:00"
+},
+{
+"id": "4893986625a1",
+"title": "Vợ Phú tìm tới nhà Tâm | Đội bóng nữ làng Xuân | Tập 23",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9MaU80ZkFFd0tnYkg2QkpPUF9uSTdFS2pTc1IzbHFNakJseEM2dF9pQ3NmMTBLbkZ6anhFOTNNUVQ?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T12:21:15+07:00",
+"found": "2026-11-20T17:16:55+07:00"
 },
 {
 "id": "1ce46c3690f8",
@@ -3732,17 +3922,6 @@
 "cat": "tc",
 "published": "2026-11-20T10:36:48+07:00",
 "found": "2026-11-20T14:47:43+07:00"
-},
-{
-"id": "58eee8a0824e",
-"title": "Báo chí Thái Lan phẫn nộ vì đội nhà 'đá ai cũng thua', từ Việt Nam, Singapore đến cả... Campuchia",
-"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6WFlJc2FEM0V0b3ZLQkhfT2Y4MWhFejJEVFFzQ1lnWm5HRVJVQjNPbF8wZkZaYVVtVGxvWmZlaWlhc0VYMkptdmRkV1NNNUpZZkgw?oc=5",
-"summary": "Nguồn: شبكة تواصل الإخبارية",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T10:35:27+07:00",
-"found": "2026-11-20T11:15:09+07:00"
 },
 {
 "id": "a1cbca0a3eb0",
@@ -27759,183 +27938,6 @@
 "source": "CafeF",
 "cat": "bds",
 "published": "2026-11-18T10:51:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "22a320c3c921",
-"title": "EU áp thuế 16% với thép nhập từ Việt Nam",
-"link": "https://tuoitre.vn/eu-ap-thue-16-voi-thep-nhap-tu-viet-nam-100261118103558765.htm",
-"summary": "Sản phẩm thép cán nguội Việt Nam xuất khẩu sang EU chính thức chịu thuế chống bán phá giá 16%.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/hoa-sen-group-1-17949727623841257145333-0-7-1352-2170-crop-179497279317329030155.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-18T10:51:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "43e9a332bbb6",
-"title": "Lái xe trộm 31 túi xách Hermès, Dior, Louis Vuitton của bà chủ ở Hà Nội đem bán",
-"link": "https://vietnamnet.vn/lai-xe-trom-31-tui-xach-hermes-dior-louis-vuitton-cua-ba-chu-o-ha-noi-dem-ban-2567304.html",
-"summary": "Lái xe Nguyễn Đức Son đã 26 lần trộm cắp tài sản của bà chủ, gồm 31 túi xách hàng hiệu, 1 vòng vàng Cartier và 1 khăn Louis Vuitton, với tổng giá trị được định giá hơn 8,5 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/22/lai-xe-trom-31-tui-xach-hermes-dior-louis-vuitton-cua-ba-chu-o-ha-noi-dem-ban-1258.jpeg?width=0&s=jvwNnMQuORVH2wiMD6e8pw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:50:20+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "d001593274f2",
-"title": "Đặc điểm nhận dạng 4 phạm nhân trốn khỏi Trại giam A2, đang bị truy bắt khẩn cấp",
-"link": "https://vietnamnet.vn/truy-bat-khan-cap-4-pham-nhan-tron-khoi-trai-giam-a2-2567297.html",
-"summary": "Lực lượng công an đang truy bắt khẩn cấp 4 phạm nhân, trong đó có một đối tượng thi hành án về tội Giết người, trốn khỏi Trại giam A2 đóng tại tỉnh Khánh Hòa.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/22/truy-bat-khan-cap-4-pham-nhan-tron-khoi-trai-giam-a2-1142.jpg?width=0&s=WIPYqlo78V0l1dkMaS7VSA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:50:04+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "9fbe26a5cd4c",
-"title": "sydney sweeney",
-"link": "https://www.rrstar.com/story/opinion/columns/guest/2026/11/14/the-sydney-sweeney-ad-for-novig-is-wrong-heres-why-opinion/92708555007/",
-"summary": "The Sydney Sweeney ad for Novig is wrong. Here's why | Opinion (Rockford Register Star)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfv7P9ZXYymp2yqU2RwsW2KalP-SWtnJcVOvWGAHD7qlkiMqd3BIvFuFukinw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T10:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "1c4986ae60f2",
-"title": "Vị trí phát sinh đám cháy tại quán karaoke gây thiệt hại gần 2 tỷ đồng",
-"link": "https://vietnamnet.vn/vi-tri-phat-sinh-dam-chay-tai-quan-karaoke-gay-thiet-hai-gan-2-ty-2576225.html",
-"summary": "Công an Đồng Nai chỉ ra những yếu tố khiến đám cháy quán karaoke Nữ Hoàng diễn biến phức tạp, lan nhanh gây thiệt hại tài sản gần 2 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/vi-tri-phat-sinh-dam-chay-tai-quan-karaoke-gay-thiet-hai-gan-2-ty-dong-883.gif?width=0&s=82tBPok7yVyLiJJTrwB4Qg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:49:53+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "684d97a61247",
-"title": "Cháy tại chung cư cao cấp Mandarin Garden ở Hà Nội",
-"link": "https://vietnamnet.vn/chay-tai-chung-cu-cao-cap-mandarin-garden-o-ha-noi-2576218.html",
-"summary": "Đám cháy xảy ra tại tầng 8, chung cư Mandarin Garden (Hà Nội) vào sáng nay. Lực lượng Cảnh sát PCCC và CNCH đã hướng dẫn 3 người, trong đó có 2 trẻ em, thoát nạn an toàn.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/ha-noi-chay-chung-cu-907994415-1294726236144653-648502173337805943-n-740.jpeg?width=0&s=SqtazGtQkp9jrU16WPx-kA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:48:57+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "52d92e4236e6",
-"title": "2 hồ thủy điện ở Đà Nẵng hạ mực nước đón lũ, 3 hồ vẫn còn mực nước thấp",
-"link": "https://tuoitre.vn/2-ho-thuy-dien-o-da-nang-ha-muc-nuoc-don-lu-3-ho-van-con-muc-nuoc-thap-100261118101020066.htm",
-"summary": "Trước dự báo thời tiết diễn biến phức tạp, Đà Nẵng yêu cầu hai hồ thủy điện Đak Mi 4A và Sông Tranh 2 hạ dần mực nước về mức quy định trước 17h ngày 19-11 để chủ động đón lũ.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/thuy-dien-17949750887991913889103-135-0-1318-1893-crop-17949751153041296893773.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-18T10:48:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "a76f03122fb2",
-"title": "Nghiên cứu sửa Nghị định 168: Có phải mọi hành vi vượt đèn đỏ lần đầu sẽ phạt cảnh cáo?",
-"link": "https://tuoitre.vn/nghien-cuu-sua-nghi-dinh-168-co-phai-moi-hanh-vi-vuot-den-do-lan-dau-se-phat-canh-cao-100261118100727794.htm",
-"summary": "Cơ quan chức năng dự kiến sẽ xử phạt nghiêm đối với trường hợp đèn đỏ đã bật sáng nhưng vẫn cố tình vượt; đi qua nút giao hoặc đi vào nút giao khi đèn đỏ, gây cản trở, xung đột với các luồng giao thông khác. Với những vi phạm trên, dù lần đầu hay tái diễn đều bị xử lý nghiêm…",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/vi-pham-giao-thong-17949745344751761046825-139-127-1122-1700-crop-1794974569600972279305.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-18T10:47:00+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "db8793d610b3",
-"title": "Giá vàng trong nước đảo chiều giảm 500.000 đồng mỗi lượng",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVW9tTDhpYXhRcmpJRGFqY185bTBDSk9XTzRJQzlUYmhQd3VUVlZqdXI0MkNmcVZPOXV2ZGhXRFJkVFFyajBqRUJpUjI0VWFEYlctcGlDSS1JUUs0d3F5bl9wVE96dFNlM0pFZktWb21ROW1RT3lNd0syQzBnbldFLXhfVVczSUh1a3ZFbHBJeGhPZGFt?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T10:47:00+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "3a04a823b047",
-"title": "Petrocons tìm nhà đầu tư khu đất 3.400 m2 tại Tam Đảo",
-"link": "https://vnexpress.net/petrocons-tim-nha-dau-tu-khu-dat-3-400-m2-tai-tam-dao-5145469.html",
-"summary": "Khu đất có mục đích sử dụng thương mại, dịch vụ, thời hạn lâu dài, nhà đầu tư có thể tham gia đấu giá hoặc đàm phán thuê trực tiếp.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/18/1794970844957d1bb2c7fa6391e732-9392-5480-1794972560.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f7hZyIZB2Hp0aAAcRBOREA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-18T10:45:00+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "9930bed7740b",
-"title": "Sea x OpenAI Codex Hackathon ghi nhận nhiều giải pháp AI từ nhà phát triển Việt",
-"link": "https://tuoitre.vn/sea-x-openai-codex-hackathon-ghi-nhan-nhieu-giai-phap-ai-tu-nha-phat-trien-viet-100261118104100809.htm",
-"summary": "Cuộc thi thu hút hơn 1.300 hồ sơ đăng ký, trong đó 40 đội vào vòng thi cuối để phát triển các dự án ứng dụng AI trong giáo dục, nghiên cứu và đời sống. Nhiều ý tưởng được hoàn thiện thành mô hình sản phẩm chỉ sau bảy giờ tranh tài.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/1-17949726758711723456455-0-0-800-1280-crop-17949729069841863654270.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T10:45:00+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "6aeb122ac871",
-"title": "Thịnh vượng của một nền kinh tế mở ra cơ hội cho tất cả",
-"link": "https://tuoitre.vn/thinh-vuong-cua-mot-nen-kinh-te-mo-ra-co-hoi-cho-tat-ca-100261117233836561.htm",
-"summary": "Khi bất đồng giữa các nền kinh tế gia tăng, đối thoại càng trở nên có giá trị. APEC tiếp tục là một trong số ít diễn đàn mà lãnh đạo cả 21 nền kinh tế, bao gồm Mỹ và Trung Quốc, có thể gặp gỡ trực tiếp để tìm kiếm lợi ích chung.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/apec-2017-1794974894693333803016-213-236-1062-1595-crop-1794974961877292511951-0-0-840-1345-crop-17949749760371569457805.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T10:45:00+07:00",
-"found": "2026-11-18T12:27:07+07:00"
-},
-{
-"id": "69a67cd7a422",
-"title": "Dự báo thời tiết 26/10/2026: Miền Bắc giảm nhiệt nhẹ, Trung Bộ mưa rải rác",
-"link": "https://vietnamnet.vn/du-bao-thoi-tiet-26-10-2026-mien-bac-giam-nhiet-nhe-trung-bo-mua-rai-rac-2566057.html",
-"summary": "Dự báo thời tiết ngày 26/10/2026, hầu khắp các vùng trên cả nước có nắng với mức nhiệt cao nhất dao động 33-34 độ. Miền Bắc cục bộ có mưa rào; Trung Bộ mưa rải rác; Nam Bộ ít mưa, nền nhiệt ở mức cao.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/25/2026-mien-bac-giam-nhiet-nhe-trung-bo-mua-rai-rac-1989.jpg?width=0&s=nBTj8DQmWw76O1ZUIgk43A",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:44:43+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "bfb05d5c01df",
-"title": "Nam thanh niên sống sót sau khi rơi xuống vực tại điểm cực Bắc ở Lũng Cú",
-"link": "https://vietnamnet.vn/nam-thanh-nien-roi-xuong-vuc-khi-tham-quan-diem-cuc-bac-o-lung-cu-2568141.html",
-"summary": "Trong lúc tham quan điểm cực Bắc tại xã Lũng Cú (tỉnh Tuyên Quang), một nam du khách 23 tuổi không may rơi xuống vực. Nạn nhân được lực lượng chức năng kịp thời cứu hộ.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/24/nam-thanh-nien-roi-xuong-vuc-khi-tham-quan-diem-cuc-bac-o-lung-cu-1490.jpg?width=0&s=MT-YGMVsoKEqjDGAgZT-KA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:44:22+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "21f8802b6b21",
-"title": "12 người liên quan vụ ném đá vào xe khách trên cao tốc Nội Bài - Lào Cai",
-"link": "https://vietnamnet.vn/12-nguoi-lien-quan-vu-nem-da-vao-xe-khach-tren-cao-toc-noi-bai-lao-cai-2568130.html",
-"summary": "Sau khi nhận trình báo về việc xe khách bị ném đá trên cao tốc Nội Bài - Lào Cai, cơ quan công an đã xác minh, làm rõ nhóm 12 thanh thiếu niên liên quan.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/24/12-nguoi-lien-quan-vu-nem-da-vao-xe-khach-tren-cao-toc-noi-bai-lao-cai-1408.jpg?width=0&s=7GDcA5fJGuPNAKzvP1VyPw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:44:13+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "6f06d7cf7182",
-"title": "Camera ghi lại cảnh phạm nhân trốn lên xe khách để tẩu thoát",
-"link": "https://vietnamnet.vn/camera-ghi-lai-canh-pham-nhan-tron-len-xe-khach-de-tau-thoat-2568041.html",
-"summary": "Sau gần 3 ngày trốn khỏi Trại giam A2, Lê Văn Cường lên xe khách định rời Khánh Hòa nhưng bị CSGT phát hiện, bắt giữ.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/24/camera-ghi-lai-canh-pham-nhan-tron-len-xe-khach-de-tau-thoat-717.jpg?width=0&s=ROzd2QGI1fq3hbfBXVE84g",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:44:00+07:00",
 "found": "2026-11-18T11:23:38+07:00"
 }
 ]
