@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T07:56:50+07:00",
-"new": 10,
+"updated": "2026-11-20T08:12:00+07:00",
+"new": 13,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 28
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,149 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "76138f6f0beb",
+"title": "Mùi khí lạ làm đảo lộn cuộc sống của hàng trăm người dân ở Ninh Bình",
+"link": "https://thanhnien.vn/mui-khi-la-lam-dao-lon-cuoc-song-cua-hang-tram-nguoi-dan-o-ninh-binh-185261120060658789.htm",
+"summary": "Thời gian qua, hàng trăm người dân tại thôn 5, xã Rạng Đông (tỉnh Ninh Bình) luôn sống trong tình trạng lo lắng, bất an bởi khu dân cư của họ sinh sống luôn phải hứng chịu mùi khí lạ từ Công ty TNHH dệt may Việt Bắc (địa chỉ tại lô F2 và F3, Khu công nghiệp Dệt may Rạng Đông, xã…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-2aobordqs7rwswptxajqi66lzbfzaskwqfvjgql6-17951326632841492253516-210-349-1490-2398-crop-17951330174721563529437.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T08:09:00+07:00",
+"found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "65909aca807a",
+"title": "Khoảnh khắc tài xế cứu nam thanh niên định nhảy cầu Thuận Phước",
+"link": "https://vietnamnet.vn/khoanh-khac-tai-xe-cuu-nam-thanh-nien-dinh-nhay-cau-thuan-phuoc-2576668.html",
+"summary": "Phát hiện nam thanh niên trèo qua lan can cầu Thuận Phước với ý định nhảy xuống sông Hàn, tài xế Đồng Viết Phi Vũ lập tức dừng xe, lao đến giữ chặt người này và kêu gọi hỗ trợ.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/khoanh-khac-tai-xe-cuu-nam-thanh-nien-dinh-nhay-cau-thuan-phuoc-836.gif?width=0&s=L0UBnjKnbUDJxKDqSj7gyQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T08:05:57+07:00",
+"found": "2026-11-19T11:26:14+07:00"
+},
+{
+"id": "83adba0d5008",
+"title": "Chấp thuận chủ trương đầu tư Khu đô thị Tây Bắc sườn đồi",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVmdvd3RrMl9wWjE0VmdPZlUxX0I5Y0hCcFExRFE5YnlGYWgtSWMxclhBZ0xCRFFScTFFcDN5ZEtWaVVCc3BKeEF3SEpLem9meC1uLWdxZ2puWUZka283VEpOZ0xxbUlDMDI0VDhCRHV0S2VjRXVYdHRyNndGT1Vxanlsem5wMXhYbkpTbDU5enh3bWc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T08:05:00+07:00",
+"found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "1c97cb523cd7",
+"title": "Vụ trại lợn khủng xây trái phép trên đất rừng: Xã báo cáo gì?",
+"link": "https://cafef.vn/vu-trai-lon-khung-xay-trai-phep-tren-dat-rung-xa-bao-cao-gi-18826112007043068.chn",
+"summary": "Sau phản ánh về trang trại nuôi lợn xây dựng trái phép trên đất rừng sản xuất, đại diện UBND xã Hoa Quân (Nghệ An), cho biết đã tổ chức nhiều cuộc kiểm tra hiện trường, nhiều buổi làm việc với chủ cơ sở để xử lý vi phạm.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795132966920-1795132968010855325498.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-20T08:04:00+07:00",
+"found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "d3cf5cfabc71",
+"title": "Bất động sản công nghiệp phía Nam: Tiêu chuẩn xanh là bắt buộc",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWtka3pic05BdG9qU3lzYUZnQi1VdGhESkpqNTdRWWRZZEYxVU41MFRuckxLMEwxUmRGWE1pRG5OYXltaVE1b0RaUzIyeEJBbm5LeEs5ZFM5dFJoY0FEMVlTU3hXdVBUNTJnMEdVRDNXN3NkT1UwM0F6WE1oMTZBMEdCWURwdFNhR25CSjY3MjdxQTliSFphWmZ3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T08:04:00+07:00",
+"found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "7f59351e24a3",
+"title": "Liên minh châu Âu xem xét khoản vay bổ sung 45 tỷ euro cho Ukraine",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTlYxUWp5Qk1WamlmdUZwaGNYZnZxWDZQcUFhaEs2cHZLN3lMYjE2MWY4YVllbmZUa2JZZ0FJLVM4SXZzSkdTOWswT1NEUUl3UHpGWkludTZGMVpDcXlxZ3UwS2p0Mjhzc3YwclR3S1d6V1BfTVZic2Rkd0VHaWdJQjA3M3ZiTzdrLXozVTl5Nk81V0R3WEFMUnFQdDJoajBC?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T08:03:30+07:00",
+"found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "4d63711835b6",
+"title": "“Kinh tế bạc” và xu hướng định hình mô hình bất động sản an cư mới tại Việt Nam",
+"link": "https://cafef.vn/kinh-te-bac-va-xu-huong-dinh-hinh-mo-hinh-bat-dong-san-an-cu-moi-tai-viet-nam-188261120080201725.chn",
+"summary": "Sự gia tăng tuổi thọ đang mở ra một thị trường giàu tiềm năng mang tên Silver Economy (Kinh tế bạc). Không chỉ thúc đẩy các ngành chăm sóc sức khỏe, du lịch và dịch vụ, xu hướng này còn định hình những mô hình đô thị mới, nơi chất lượng sống, sức khỏe và sự kết nối giữa các thế…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/photo1795059429277-17950594295452053308641-17951362524551386682260.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-20T08:00:00+07:00",
+"found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "19af2579def2",
+"title": "F88 tiếp tục được vinh danh Top 100 nơi làm việc tốt nhất Việt Nam 2026",
+"link": "https://cafef.vn/f88-tiep-tuc-duoc-vinh-danh-top-100-noi-lam-viec-tot-nhat-viet-nam-2026-188261120031908566.chn",
+"summary": "Trong lễ công bố ngày 18/11 tại TP.HCM, F88 tiếp tục được Anphabe vinh danh trong Top 100 nơi làm việc tốt nhất Việt Nam, xếp thứ 4 trong nhóm doanh nghiệp quy mô vừa thuộc ngành Dịch vụ tài chính, tăng 2 bậc so với năm 2025.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/photo1795088359708-17950883599861513881439-179511955724219164057.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-20T08:00:00+07:00",
+"found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "779f6ad94955",
+"title": "Vietbank tung ưu đãi cho doanh nghiệp nhỏ, hộ kinh doanh",
+"link": "https://vietnamnet.vn/vietbank-tung-uu-dai-cho-doanh-nghiep-nho-ho-kinh-doanh-2576824.html",
+"summary": "Vietbank triển khai chương trình “Đồng hành – Kinh doanh vững bước”, ưu đãi mở tài khoản, hoàn tiền thanh toán hóa đơn và hỗ trợ sử dụng các giải pháp ngân hàng số, quản lý bán hàng cho doanh nghiệp vừa và nhỏ, hộ kinh doanh.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/vietbank-tung-uu-dai-cho-doanh-nghiep-nho-ho-kinh-doanh-2253.jpeg?width=0&s=32SeEDjjl30siMzaVoLNwQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T08:00:00+07:00",
+"found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "d91e35c9cda8",
+"title": "Tập Đoàn Bảo Tín chính thức ra mắt MHJ - thương hiệu trang sức cao cấp",
+"link": "https://thanhnien.vn/tap-doan-bao-tin-chinh-thuc-ra-mat-mhj-thuonghieu-trang-suc-cao-cap-185261119160402685.htm",
+"summary": "Tập đoàn Bảo Tín phát triển hệ sinh thái đa ngành trên ba trụ cột: Vàng Bạc - Trang Sức; Đầu Tư - Tài Chính; Dịch Vụ Nhân Sinh, với chữ Tín là nền tảng hoạt động. Cùng với đội ngũ hơn 1.100 nhân sự phục vụ hơn 1 triệu khách hàng, Tập đoàn không ngừng phát triển với tầm nhìn trở…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/u1-17950787162061679239296-0-100-1151-1942-crop-17950787275591196726816.png",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-20T08:00:00+07:00",
+"found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "f8c4c33c3585",
+"title": "Norton Park - Chuẩn sống tinh chọn cho cộng đồng chuyên gia",
+"link": "https://thanhnien.vn/norton-park-chuan-song-tinh-chon-cho-cong-dong-chuyen-gia-185261119100431777.htm",
+"summary": "Vươn mình giữa cực công nghiệp - công nghệ phía bắc TP.HCM, Norton Park được kết tinh từ hai thập niên tâm huyết, thấu hiểu và kiến tạo của Gamuda Land, cùng tiềm năng của một vùng đất đang đón vận hội mới, để thiết lập chuẩn sống xứng tầm dành cho cộng đồng chuyên gia.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/facadefinal-17950571308661847080892-0-302-3375-5702-crop-17950571502661163885300.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-20T08:00:00+07:00",
+"found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "821c34b9e76b",
+"title": "Quốc hội biểu quyết Luật sửa đổi 3 luật Thuế",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS2Mtam4wZ3g3WXFIYWVfVjl5NkRTZmVjb3YxYlY3VWV5UUNUZ2FaZzM3TnBDc0NROTNiVzVpQXhlLTRyc1NWSWE2Vld3S2xLQ084QVMyUjdBSUJxU0RPYmlCM2NzZTMzV2ltU3FWUFQ3ZkczUDMyOW8wY09CRE9wTXB2Yw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T07:56:00+07:00",
+"found": "2026-11-20T08:12:00+07:00"
+},
+{
+"id": "e5299c7418d2",
+"title": "Miền Bắc rét nhất từ đầu mùa, miền Trung mưa đỉnh điểm",
+"link": "https://kenh14.vn/mien-bac-ret-nhat-tu-dau-mua-mien-trung-mua-dinh-diem-215261120073810383.chn",
+"summary": "Hôm nay (20/11), không khí lạnh tiếp tục tăng cường, miền Bắc rét nhất từ đầu mùa, đồng thời có lúc có mưa. Miền Trung bước vào hai ngày mưa lớn nhất đợt không khí lạnh lần này.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795134987789-1795134988282350960378.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-20T07:53:00+07:00",
+"found": "2026-11-20T08:12:00+07:00"
+},
+{
 "id": "5aad92ce0107",
 "title": "Giá lúa gạo hôm nay 20.11: Lúa tươi tăng, giao dịch chưa sôi động đều",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEtKLVhfUUl6YUc3M3JMX01tbE1ia09NakpJSGg3NUlMTk52c3U4QUhyVWFER2wxbWRDOVAxLVFsT2pmQUxGcDJCUml2QzViTkRtSjRYdDBDR3h4a0x2WWV3UzZWSVVaV2VsMk1JaXhoeW5oZ1Vza2hVS2czcDNZc2ZFWng3RVF2NHZWN2l1MmlKX3RVczB0aDE4cUpzRW0wNFE?oc=5",
@@ -233,6 +376,17 @@
 "cat": "tc",
 "published": "2026-11-20T07:48:59+07:00",
 "found": "2026-11-20T07:56:50+07:00"
+},
+{
+"id": "c8edcc3e587e",
+"title": "Chưa từng có: Bất động sản giảm giá khắp nơi, nhà đầu tư chấp nhận \"cắt lỗ\" tới 20% vẫn khó \"thoát hàng\"",
+"link": "https://cafef.vn/chua-tung-co-bat-dong-san-giam-gia-khap-noi-nha-dau-tu-chap-nhan-cat-lo-toi-20-van-kho-thoat-hang-188261112164420551.chn",
+"summary": "Thị trường bất động sản xuất hiện một nhóm nhà đầu tư chấp nhận \"cắt lỗ\" khoảng 20-30% giá trị căn hộ, biệt thự nhưng vẫn khó tìm khách mua.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/retro-cityscape-real-estate-sale-17948879617971866887074-35-8-987-1531-crop-1794887978803167083870.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-20T07:45:00+07:00",
+"found": "2026-11-20T00:11:44+07:00"
 },
 {
 "id": "ac47315e0fa2",
@@ -445,6 +599,17 @@
 "cat": "tc",
 "published": "2026-11-20T07:19:00+07:00",
 "found": "2026-11-20T07:26:10+07:00"
+},
+{
+"id": "09b61fd99059",
+"title": "Thành phố đáng sống bậc nhất Việt Nam sắp đấu thầu quốc tế khu đô thị gần 19.000 tỷ đồng, quy mô hơn 183ha, dân số dự kiến gần 34.000 người",
+"link": "https://cafef.vn/thanh-pho-dang-song-bac-nhat-viet-nam-sap-dau-thau-quoc-te-khu-do-thi-gan-19000-ty-dong-quy-mo-hon-183ha-dan-so-du-kien-gan-34000-nguoi-188261119224749258.chn",
+"summary": "Khu đô thị Hòa Vang có tổng vốn đầu tư dự kiến 18.922 tỷ đồng, quy hoạch nhà liền kề, chung cư, nhà ở xã hội cùng các công trình dịch vụ, hành chính.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/anh-man-hinh-2026-11-19-luc-224426-17951030855691038971520-80-0-1503-2276-crop-1795103104027816170763.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-20T07:19:00+07:00",
+"found": "2026-11-20T06:25:12+07:00"
 },
 {
 "id": "493907f1f5c2",
@@ -1635,17 +1800,6 @@
 "found": "2026-11-20T00:11:44+07:00"
 },
 {
-"id": "c8edcc3e587e",
-"title": "Chưa từng có: Bất động sản giảm giá khắp nơi, nhà đầu tư chấp nhận \"cắt lỗ\" tới 20% vẫn khó \"thoát hàng\"",
-"link": "https://cafef.vn/chua-tung-co-bat-dong-san-giam-gia-khap-noi-nha-dau-tu-chap-nhan-cat-lo-toi-20-van-kho-thoat-hang-188261112164420551.chn",
-"summary": "Thị trường bất động sản xuất hiện một nhóm nhà đầu tư chấp nhận \"cắt lỗ\" khoảng 20-30% giá trị căn hộ, biệt thự nhưng vẫn khó tìm khách mua.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/retro-cityscape-real-estate-sale-17948879617971866887074-35-8-987-1531-crop-1794887978803167083870.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-20T00:01:00+07:00",
-"found": "2026-11-20T00:11:44+07:00"
-},
-{
 "id": "af5395c19cc6",
 "title": "Cổ phiếu \"thủng đáy\", FPT bất ngờ hé lộ kế hoạch mới",
 "link": "https://cafef.vn/co-phieu-thung-day-fpt-bat-ngo-he-lo-ke-hoach-moi-188261119214257171.chn",
@@ -1833,17 +1987,6 @@
 "cat": "tc",
 "published": "2026-11-19T22:45:12+07:00",
 "found": "2026-11-19T22:55:20+07:00"
-},
-{
-"id": "09b61fd99059",
-"title": "Thành phố đáng sống bậc nhất Việt Nam sắp đấu thầu quốc tế khu đô thị gần 19.000 tỷ đồng, quy mô hơn 183ha, dân số dự kiến gần 34.000 người",
-"link": "https://cafef.vn/thanh-pho-dang-song-bac-nhat-viet-nam-sap-dau-thau-quoc-te-khu-do-thi-gan-19000-ty-dong-quy-mo-hon-183ha-dan-so-du-kien-gan-34000-nguoi-188261119224749258.chn",
-"summary": "Khu đô thị Hòa Vang có tổng vốn đầu tư dự kiến 18.922 tỷ đồng, quy hoạch nhà liền kề, chung cư, nhà ở xã hội cùng các công trình dịch vụ, hành chính.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/anh-man-hinh-2026-11-19-luc-224426-17951030855691038971520-80-0-1503-2276-crop-1795103104027816170763.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-19T22:45:00+07:00",
-"found": "2026-11-20T06:25:12+07:00"
 },
 {
 "id": "28117ce9358e",
@@ -8278,17 +8421,6 @@
 "found": "2026-11-19T11:41:23+07:00"
 },
 {
-"id": "65909aca807a",
-"title": "Khoảnh khắc tài xế cứu nam thanh niên định nhảy cầu Thuận Phước",
-"link": "https://vietnamnet.vn/khoanh-khac-tai-xe-cuu-nam-thanh-nien-dinh-nhay-cau-thuan-phuoc-2576668.html",
-"summary": "Phát hiện nam thanh niên trèo qua lan can cầu Thuận Phước với ý định nhảy xuống sông Hàn, tài xế Đồng Viết Phi Vũ lập tức dừng xe, lao đến giữ chặt người này và kêu gọi hỗ trợ.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/khoanh-khac-tai-xe-cuu-nam-thanh-nien-dinh-nhay-cau-thuan-phuoc-836.gif?width=0&s=L0UBnjKnbUDJxKDqSj7gyQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T11:34:44+07:00",
-"found": "2026-11-19T11:26:14+07:00"
-},
-{
 "id": "7c6537a6a40e",
 "title": "Bí thư Thành ủy Hà Nội Trần Đức Thắng: Ưu tiên đồng bộ hạ tầng, bảo đảm an sinh xã hội tại các dự án",
 "link": "https://cafef.vn/bi-thu-thanh-uy-ha-noi-tran-duc-thang-uu-tien-dong-bo-ha-tang-bao-dam-an-sinh-xa-hoi-tai-cac-du-an-188261119103350167.chn",
@@ -11566,17 +11698,6 @@
 "found": "2026-11-19T07:43:18+07:00"
 },
 {
-"id": "519c5f40176f",
-"title": "Cao điểm làm sạch dữ liệu đất đai",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hMGtXSXBiT2NaQURacy1CNmdyeFF6LXdJWjh4dnNXeW5FRzVBZUdNOHdEcHNSaHFUTlJiQ0FITUVEaFFfZGF5Z01EcWFnVEZWTkVQcElQbXEwU2s5SW95MHZXNDRuM0FRZFRRdi12bnVxZnht?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T07:10:54+07:00",
-"found": "2026-11-19T07:28:09+07:00"
-},
-{
 "id": "3563e30fe66d",
 "title": "cục cảnh sát giao thông",
 "link": "https://laodong.vn/xa-hoi/de-xuat-chi-phat-canh-cao-tru-diem-bang-lai-voi-nguoi-vi-pham-giao-thong-lan-dau-1802138.ldo",
@@ -13076,6 +13197,17 @@
 "cat": "tc",
 "published": "2026-11-19T00:00:00+07:00",
 "found": "2026-11-19T06:20:13+07:00"
+},
+{
+"id": "054a3ecfcfee",
+"title": "Lập đoàn kiểm tra giá cước vận tải",
+"link": "https://vnexpress.net/lap-doan-kiem-tra-gia-cuoc-van-tai-5146309.html",
+"summary": "Bộ Xây dựng sẽ kiểm tra doanh nghiệp vận tải kê khai tăng giá cước tại Lào Cai, Nghệ An, Hà Tĩnh, Đà Nẵng và Huế, rà soát việc điều chỉnh giá khi nhiên liệu giảm.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/untac-1795014704-3093-1795014955.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XpdZKiqA0Edolh_9Bpdrow",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-19T00:00:00+07:00",
+"found": "2026-11-20T08:12:00+07:00"
 },
 {
 "id": "06bfd7f6d9e3",
@@ -22716,6 +22848,17 @@
 "found": "2026-11-18T10:17:24+07:00"
 },
 {
+"id": "519c5f40176f",
+"title": "Cao điểm làm sạch dữ liệu đất đai",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hMGtXSXBiT2NaQURacy1CNmdyeFF6LXdJWjh4dnNXeW5FRzVBZUdNOHdEcHNSaHFUTlJiQ0FITUVEaFFfZGF5Z01EcWFnVEZWTkVQcElQbXEwU2s5SW95MHZXNDRuM0FRZFRRdi12bnVxZnht?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-18T09:38:00+07:00",
+"found": "2026-11-19T07:28:09+07:00"
+},
+{
 "id": "7fd9cb195357",
 "title": "Techcombank và Techcombank OneU góp phần thắp sáng bản đồ \"Việt Nam Rực Rỡ\" thu hút gần 1000 câu chuyện tích cực",
 "link": "https://cafef.vn/techcombank-va-techcombank-oneu-gop-phan-thap-sang-ban-do-viet-nam-ruc-ro-thu-hut-gan-1000-cau-chuyen-tich-cuc-188261118093909114.chn",
@@ -27835,149 +27978,6 @@
 "cat": "xh",
 "published": "2026-11-17T18:46:00+07:00",
 "found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "bae4612105f0",
-"title": "Áp lực hạ tầng sạc khi xe máy điện gia tăng",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc2FwR0xVRVZPNW1qeERiaVFpdEhZREY2TGtpd2xiWlhPTjRVemxabnNXbHVOWXBPcHJWQkFFc1FyaHU3eUdlcW9SRzkwZXRZQ3JLeG1ZUHQtWjF2NThqMmdtTDhGaEdzNEJ6R3BMaEFyTmpLSUxxZlJHSGZTQ2ZDOTl3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T18:46:00+07:00",
-"found": "2026-11-18T08:20:09+07:00"
-},
-{
-"id": "1c4af4059da7",
-"title": "Gia Lai công bố quyết định của Ban Bí thư về công tác cán bộ",
-"link": "https://tuoitre.vn/gia-lai-cong-bo-quyet-dinh-cua-ban-bi-thu-ve-cong-tac-can-bo-100261117172500446.htm",
-"summary": "Đại tá Trần Thế Phan, Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Gia Lai, được chỉ định tham gia Ban Thường vụ Tỉnh ủy Gia Lai.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/ban-thuong-vu-gia-lai-17949169985541559684726-165-869-847-1960-crop-17949170372361151465028.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T18:40:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "7b4698046f4f",
-"title": "10 lần đưa bé gái quen qua Facebook đến nhà nghỉ, Phan Quốc Vượng SN 2005 bị bắt tạm giam",
-"link": "https://kenh14.vn/10-lan-dua-be-gai-quen-qua-facebook-den-nha-nghi-phan-quoc-vuong-sn-2005-bi-bat-tam-giam-215261117165514763.chn",
-"summary": "Nam thanh niên 21 tuổi ở Đồng Tháp bị bắt tạm giam vì nhiều lần quan hệ tình dục với bé gái sinh năm 2010 quen qua Facebook.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/17/avatar1794909269713-17949092704461294844008-71-0-525-726-crop-1794913772997913620961.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-17T18:39:00+07:00",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "e91b08832faf",
-"title": "PNJ bất ngờ thay nhân sự tại vị trí quan trọng",
-"link": "https://cafef.vn/pnj-bat-ngo-thay-nhan-su-tai-vi-tri-quan-trong-188261117173921207.chn",
-"summary": "Sau khi miễn nhiệm, ông Nguyễn Anh Tuấn vẫn tiếp tục làm việc tại PNJ trên cương vị mới.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1794911949488-17949119508781845089667.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-17T18:39:00+07:00",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "7b8e30daae7e",
-"title": "Chính phủ đề xuất cho bán lại nhà ở xã hội sau 5 năm theo giá thỏa thuận",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVg4ZXJoX2Z5Z2ZOQXpSWUI4UE4xN3RLcF9Ba2dkR0pwVzQydE5EWDNNeVhvVWZTdDFLVGFPanpUNlo3RlNhUFJuWUU2LXdaX3ZHTWo3ODVBMDVfNzYyVWtGRmxBNVdfS1VKT0lYcThtRE84TkhxRHljcTFHbTlFM1l0T1B1LXd0a3JPTUtZLTlkc244dmZ2dnFhTnJnUUlfZFEzdjlYdkg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T18:37:57+07:00",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "a0127ef14bbb",
-"title": "BIDV ghi dấu ấn trong lĩnh vực tài chính phái sinh",
-"link": "https://cafef.vn/bidv-ghi-dau-an-trong-linh-vuc-tai-chinh-phai-sinh-188261117183701264.chn",
-"summary": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) vừa được Tạp chí Asia Risk trao giải thưởng “Derivatives house of the year Vietnam 2026” (Ngân hàng cung cấp sản phẩm tài chính phái sinh tốt nhất Việt Nam năm 2026). Đây là lần thứ 7 BIDV được trao tặng giải thưởng quốc tế uy…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/17949132297266246873126258791265g5434273031134287290d197f3bcdef6d2cf62f45d2d69a2378a-1794915384182292610199-0-0-1550-2480-crop-1794915389727977609986.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-17T18:36:00+07:00",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "5c79ecdf5faf",
-"title": "Vinh danh 10 nhà khoa học trẻ và 20 nữ sinh xuất sắc",
-"link": "https://thanhnien.vn/vinh-danh-10-nha-khoa-hoc-tre-va-20-nu-sinh-xuat-sac-185261117173844443.htm",
-"summary": "T.Ư Đoàn vinh danh 10 nhà khoa học trẻ xuất sắc được nhận Giải thưởng Quả cầu vàng và 20 nữ sinh viên xuất sắc nhận Giải thưởng Nữ sinh khoa học công nghệ Việt Nam năm 2026.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/anh1-1794911690807454268362-0-12-1185-1908-crop-17949116996642124180113.jpg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-17T18:36:00+07:00",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "c5b039055b75",
-"title": "Đã quy tập 295 hài cốt liệt sĩ trong đợt 2 tại công viên Lê Thị Riêng kèm nhiều di vật",
-"link": "https://thanhnien.vn/da-quy-tap-295-hai-cot-liet-si-trong-dot-2-tai-cong-vien-le-thi-rieng-kem-nhieu-di-vat-185261117181937724.htm",
-"summary": "Sau hơn một tháng triển khai đợt tìm kiếm thứ 2, các lực lượng đã quy tập 295 hài cốt liệt sĩ tại công viên Lê Thị Riêng, trong đó 66 hài cốt có di vật.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/17/17949098422147881976878533321678g38553959580992205257b32c283af75f1875727457b5369c699-17949142215151594854212-45-0-1645-2560-crop-1794914333790208781265.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-17T18:32:00+07:00",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "385257ff999a",
-"title": "Khởi tố tài xế sửa ứng dụng Xanh SM Driver để né đơn giao đồ ăn, bán phần mềm cho người khác",
-"link": "https://tuoitre.vn/khoi-to-tai-xe-sua-ung-dung-xanh-sm-driver-de-ne-don-giao-do-an-ban-phan-mem-cho-nguoi-khac-100261117180007722.htm",
-"summary": "Tài xế Huỳnh Trung Huy bị khởi tố vì chỉnh sửa trái phép ứng dụng Xanh SM Driver để né đơn giao đồ ăn, giao hàng chậm, đồng thời bán phần mềm đã can thiệp cho các tài xế khác để kiếm tiền.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/huynh-trung-huy-1794915327092363128776-75-350-665-1293-crop-17949153837231897317182.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T18:30:00+07:00",
-"found": "2026-11-17T20:40:15+07:00"
-},
-{
-"id": "4f9b8efc53de",
-"title": "Thị trường bất động sản hai tháng cuối năm phân hóa rõ nét",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTENPc1JnQjRqcVVrNDFVMFdEblJ4RW1uNzZjMkEyb0EtUnI1U3QzU3c2YmZfU24talY0REdzX2xsUWtZWHZwaW4yNHFkNWVtUWJBX1JLMDk0MUhzVTlpUkRWa0VtV1dxQkk4YTlYY1dpX2tpSmtUTTNxdnRweHVOS0h4YmNxSklNUVozNXZSUjZRazcwNEE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T18:29:00+07:00",
-"found": "2026-11-17T19:15:38+07:00"
-},
-{
-"id": "3ca9a77170d0",
-"title": "BIM góp phần nâng cao hiệu quả đầu tư và quản lý ngành Xây dựng",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbW51RkxmTzRHZTc1NE9LMXZmbkNDT2FqR1hWVUFLU0Zfb045ZTR1TmZUdHoySHpXanJLaUtOdnJkTG56ZGIwSVBhMGFCdDR4bkZ6T1JIdHlNOFBLMGh1YjJ6ZzRCWWxlVHZKcGdxcldHazBIY0JhUExVcXJncmI0WlZ1a3lhbFNva25ST3FVZy1pUGt5OWR5ZnRSenE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T18:29:00+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "d24604794f79",
-"title": "Công an giúp người dân nhận lại 1,4 tỷ đồng chuyển nhầm vào tài khoản người đã mất",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGNEb0VMcFJoSllnaER0QlVoNF9ZZXpDcVNjV0hBSUZrZFByTXVkQ3pEWGpEVVAtWVBDR3h0d3lNcm9QYzR0ZXlCY2JRMGFUUWlHRjR2eTJXMVI3NG05cFc0VUtmQlN2aERXV1N5MkZNSGRKR3l5dXlGTlhmY3pkejVUOXowUmRRNVk0M2hpSFcwOGlRTjd3RTlkV19YdExqZlFZcTFzS1Bkal95M2JEQnk0eFhGQQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-17T18:24:33+07:00",
-"found": "2026-11-18T06:16:16+07:00"
-},
-{
-"id": "d88475551f71",
-"title": "Nam A Bank nhận giải thưởng Thanh toán quốc tế xuất sắc năm thứ 8 liên tiếp",
-"link": "https://cafef.vn/nam-a-bank-nhan-giai-thuong-thanh-toan-quoc-te-xuat-sac-nam-thu-8-lien-tiep-188261117182431119.chn",
-"summary": "Ngày 16/11, Nam A Bank nhận giải thưởng Thanh toán quốc tế xuất sắc (BNY Payments Excellence Award) do Ngân hàng BNY (Mỹ) trao tặng. Đây là năm thứ 8 liên tiếp Nam A Bank được vinh danh, cho thấy năng lực duy trì chất lượng xử lý thanh toán theo những tiêu chuẩn khắt khe của hệ…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/giai-thuong-thanh-toan-quoc-te-3149-1794914402308-1794914405939976440513-1794914554266-1794914554710309647058-0-32-866-1418-crop-17949145994421702869231.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-17T18:24:00+07:00",
-"found": "2026-11-17T18:26:30+07:00"
 }
 ]
 }
