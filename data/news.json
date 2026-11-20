@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T15:33:19+07:00",
-"new": 30,
+"updated": "2026-11-20T15:49:22+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 59
+"count": 28
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,84 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "2235a8adee0b",
+"title": "Cầu bắt đáy cải thiện, cổ phiếu phục hồi giá tích cực",
+"link": "https://vneconomy.vn/cau-bat-day-cai-thien-co-phieu-phuc-hoi-gia-tich-cuc.htm",
+"summary": "Thị trường bất ngờ khởi sắc trong phiên chiều khi thanh khoản sàn HoSE tăng 22% so với buổi sáng và độ rộng tốt hơn. Nhiều cổ phiếu blue-chips phục hồi, thậm chí đảo chiều thành công giúp VN-Index leo lên sát tham chiếu.",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/20/c1c37acf6a3e44ffadb5de046914e02b-137363.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-20T15:37:57+07:00",
+"found": "2026-11-20T15:49:22+07:00"
+},
+{
+"id": "0bea24712856",
+"title": "Hàng trăm căn hộ chung cư khu tập thể di dời sau mở rộng Quốc lộ 1A qua Hà Nội",
+"link": "https://cafef.vn/hang-tram-can-ho-chung-cu-khu-tap-the-di-doi-sau-mo-rong-quoc-lo-1a-qua-ha-noi-188261120143730034.chn",
+"summary": "Triển khai dự án trục không gian Quốc lộ 1A với mặt cắt ngang 90m, nhiều khu tập thể dọc đường Giải Phóng (Hà Nội) thuộc diện phải cắt xén hoặc phá dỡ toàn bộ. Người dân còn ở lại bày tỏ mong muốn công tác thi công đảm bảo an toàn cho khu tập thể sau khi cắt xén.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795159923945-1795159927158546166280.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-20T15:37:00+07:00",
+"found": "2026-11-20T15:49:22+07:00"
+},
+{
+"id": "3da53eeb703b",
+"title": "Cư dân CT6 Kiến Hưng nói gì về giá bồi thường đề nghị tại phiên tòa xét xử ông Lê Thanh Thản?",
+"link": "https://cafef.vn/cu-dan-ct6-kien-hung-noi-gi-ve-gia-boi-thuong-de-nghi-tai-phien-toa-xet-xu-ong-le-thanh-than-188261120144047806.chn",
+"summary": "Sau phiên xét xử vụ án xảy ra tại dự án CT6 Kiến Hưng (phường Kiến Hưng, Hà Nội), một số người dân đang sinh sống tại tòa CT6C cho biết, mong mỏi của họ vẫn là được ở lại căn nhà của mình. Đồng thời cho rằng mức giá 56 triệu đồng/m2 tại tòa nhà này là sát thực tế.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795160073180-17951600744011539429207.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-20T15:36:00+07:00",
+"found": "2026-11-20T15:49:22+07:00"
+},
+{
+"id": "56eadff41957",
+"title": "Dân chung cư 'ông Thản'- CT6 Kiến Hưng: 'Mong vẫn ở lại căn nhà mình, đừng nói bồi thường cao'",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQnhST2xOQlNmOVMybVhHMVFuRlc2Vm8yZThYVUZVTVdrc1RRMlRvOThtalNKZ0NGalhfUE1GeXhMWFlwc3hyQy01eVk4VmsxQ3lRLWt3ZXVRZVZSY2V1ZjdJZjZ0M2M3ZkNkejh2MWlaNDBDNmx0SkVlYUVQM3BIZEdRY3ZlRTZSaDZHTHoxVWZ3MG9NZzc2REtydl9SWHRhUmlJQ1BJNmlLSGpqdlltdkNRWC0wZFhhODhuYw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T15:35:00+07:00",
+"found": "2026-11-20T15:49:22+07:00"
+},
+{
+"id": "4a63cca31991",
+"title": "Văn phòng xanh có thể đạt giá thuê cao hơn tới 23%?",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0dnUmphQkIycDR6aWlKYjFsYkZoeWRlSjZQNExqeFYzTkZQWmUxQmtyUlJvLXgwOXM1Zy0tWHMyVzZ1N1UyOGI4WUJpNEZMVGlvS0J6a3p5Y2luQUVlRjhYaFllMjlCUkZiQUo5bWIyamVzU1d6Q1o0M29WZXdIUjdjZWJhendlWnc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T15:34:00+07:00",
+"found": "2026-11-20T15:49:22+07:00"
+},
+{
+"id": "4e5cd648e0f7",
+"title": "Nói thuê xe cho khách, người phụ nữ đem 22 xe máy đi cầm cố",
+"link": "https://tuoitre.vn/noi-thue-xe-cho-khach-nguoi-phu-nu-dem-22-xe-may-di-cam-co-100261120143511431.htm",
+"summary": "Người phụ nữ ở Đà Nẵng giả vờ thuê xe máy cho khách lưu trú tại khách sạn, sau đó mang 22 xe đi cầm cố lấy tiền để trả nợ và tiêu xài.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/20-11-bat-nguoi-phu-nu-thue-22-xe-may-roi-mang-cam-co-lay-tien-tieu-xai-17951596928671904307727-187-284-1006-1594-crop-17951612710701295043815.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T15:31:00+07:00",
+"found": "2026-11-20T15:49:22+07:00"
+},
+{
+"id": "3db6f495b70b",
+"title": "đường sắt đô thị",
+"link": "https://www.24h.com.vn/tin-tuc-trong-ngay/toan-canh-ba-cay-cau-bac-qua-song-hong-vuot-tien-do-thi-cong-c46a1812400.html",
+"summary": "Toàn cảnh ba cây cầu bắc qua sông Hồng vượt tiến độ thi công (Tin tức 24h)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwZ8F99c0OIZtA5Euo3zDxpnnIEFlPjvUsaEf9TMJ4j4w9-2X537Du8hdF2eg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T15:20:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-20T15:49:22+07:00"
+},
 {
 "id": "3507884f077e",
 "title": "Việt Nam nhập khẩu LNG tăng gấp ba lần do El Niño",
@@ -412,6 +490,29 @@
 "found": "2026-11-20T14:47:43+07:00"
 },
 {
+"id": "49015d1006e2",
+"title": "quỹ đầu tư",
+"link": "https://cafef.vn/nhieu-quy-dau-tu-dong-loat-xa-co-phieu-188261120114409371.chn",
+"summary": "Nhiều quỹ đầu tư đồng loạt \"xả\" cổ phiếu (CafeF)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi6syCdQdH0yFUcpiwOVuObDOFlsKz3nEcbwrHT87gIOicAv0sSJDM4fLT19w",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T14:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-20T15:49:22+07:00"
+},
+{
+"id": "25099877eff1",
+"title": "Cựu Thứ trưởng Nguyễn Bá Hoan xin lại 4,9 tỉ nộp thừa, có gần 1.000 đơn xin giảm án",
+"link": "https://tuoitre.vn/cuu-thu-truong-nguyen-ba-hoan-xin-lai-49-ti-nop-thua-co-gan-1000-don-xin-giam-an-100261120132657315.htm",
+"summary": "Tại phiên phúc thẩm, cựu Thứ trưởng Nguyễn Bá Hoan tiếp tục xin được trả lại 4,9 tỉ đồng đã nộp thừa. Ông cũng có gần 1.000 đơn xin giảm nhẹ hình phạt.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/nguyen-ba-hoan-4-17951549570731722936695-335-270-781-983-crop-17951612159281097117286.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-20T14:48:00+07:00",
+"found": "2026-11-20T15:49:22+07:00"
+},
+{
 "id": "92f79f54392d",
 "title": "Quảng Ngãi: Lần đầu tiên lãnh đạo Sở Công thương đối thoại với doanh nghiệp khai thác khoáng sản",
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlNDb3YxWThsSFFqdlYzaXdhajR0Tnp4TUliYUozVFpfNFhuQUtlRWd6ODJYNUs0a0RidlpKeVJzcGp5aXdpeDdBd3lTUFAwdG0zS2pUWUltUU04Ni1CZzgyLXlLUF95QWhMTThiQ3lHNEhPcWkwdkNjcW5VcFBBN0YtSzdLWkpqWXhZb1hqczVKMDFWRXU4VWEtQnltZERxR09kSktHSTR3OGRYVHlzeVh1cG5vTk5nRXFha3J0Sk9fUEE4djc4?oc=5",
@@ -587,6 +688,17 @@
 "cat": "tc",
 "published": "2026-11-20T14:28:00+07:00",
 "found": "2026-11-20T15:33:19+07:00"
+},
+{
+"id": "e984a8ffb67b",
+"title": "Nguy cơ rò rỉ dữ liệu, sai lệch thông tin, suy giảm bản sắc khi lạm dụng AI trong báo chí",
+"link": "https://tuoitre.vn/nguy-co-ro-ri-du-lieu-sai-lech-thong-tin-suy-giam-ban-sac-khi-lam-dung-ai-trong-bao-chi-100261120121420164.htm",
+"summary": "Sự phát triển của trí tuệ nhân tạo (AI) đặt ra yêu cầu đổi mới đào tạo báo chí, từ kỹ năng tác nghiệp thực tế đến khả năng làm chủ công nghệ, kiểm chứng thông tin và giữ gìn bản sắc nghề nghiệp của người làm báo.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/620c7eb1ee406e1e3751-17951532881301151413351-24-361-1304-2409-crop-1795153469986406288051.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-20T14:26:00+07:00",
+"found": "2026-11-20T15:49:22+07:00"
 },
 {
 "id": "ad5d6df79f3d",
@@ -27823,118 +27935,6 @@
 "cat": "xh",
 "published": "2026-11-18T10:14:00+07:00",
 "found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "d8ee4e96d9c4",
-"title": "Lãi suất tiết kiệm LiveBank 18/11/2026: Kỳ hạn 12 tháng còn 5,35%/năm, giảm lần thứ ba liên tiếp",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOTM2emprRGdadVZNRzllQ2ZldVVJTzhid1cwd2ZhVkplUm9aejQtMGtHT2hzRXJOTmgzeUZqWld6d0lsd2FZT3g4TGRZNzIxWmdaUXpldmV0M1Y4UGY3am9tQnFxSkw4NnZaVjRsTkVjWGNfV0RZNlMxTDFXODN0SW1DSTFkQVl5b2VjUTFaaVM4RE50Y3U0UVRGUFFQOXdwV2Vmb1VkMTE1Z3VoTFIwcnJaMERWNzVkRXZzc1VzU3o4Sl81?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T10:14:00+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "47e54d99a8ee",
-"title": "Hình ảnh cựu Phó Chủ tịch UBND tỉnh Thanh Hóa Lê Đức Giang hầu tòa tại Hà Nội",
-"link": "https://vietnamnet.vn/hinh-anh-cuu-pho-chu-tich-ubnd-tinh-thanh-hoa-le-duc-giang-hau-toa-tai-ha-noi-2569407.html",
-"summary": "Sáng 29/10, cựu Phó Chủ tịch UBND tỉnh Thanh Hóa Lê Đức Giang cùng 10 bị cáo khác hầu tòa tại TAND TP Hà Nội trong vụ án liên quan đến sai phạm trong quản lý, khai thác khoáng sản, gây thất thoát tài sản Nhà nước hơn 5,1 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/29/hinh-anh-cuu-pho-chu-tich-ubnd-tinh-thanh-hoa-le-duc-giang-hau-toa-tai-ha-noi-1216.jpg?width=0&s=c8Uglh-3LgwVOIGVKnmUDg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:12:58+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "7cc2242b167f",
-"title": "Hà Nội rào chắn đường Cổ Linh 3 tháng để thi công đường trên cao",
-"link": "https://vietnamnet.vn/ha-noi-rao-chan-duong-co-linh-3-thang-de-thi-cong-duong-tren-cao-2569502.html",
-"summary": "Từ ngày 30/10/2026 đến hết ngày 30/1/2027, một phần đường Cổ Linh, phường Long Biên, sẽ được rào chắn để xén vỉa hè, mở rộng mặt đường phục vụ thi công dự án đường trên cao kết nối cao tốc Hà Nội – Hải Phòng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/29/ha-noi-rao-chan-duong-co-linh-3-thang-de-thi-cong-duong-tren-cao-1268.jpg?width=0&s=vBD03PIgREW6jG9U8Pz_hg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:12:25+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "307dd1bf7dcb",
-"title": "Cận cảnh dự án kè Bản Nguyên hơn 46 tỷ đồng ở Phú Thọ",
-"link": "https://vietnamnet.vn/can-canh-du-an-ke-hon-46-ty-dong-o-phu-tho-2567504.html",
-"summary": "Dự án xử lý cấp bách sạt lở bờ sông và kè Bản Nguyên tại Phú Thọ với tổng vốn hơn 46 tỷ đồng đang được Thanh tra Chính phủ thanh tra việc phân bổ, sử dụng nguồn kinh phí thực hiện.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/29/can-canh-du-an-ke-hon-46-ty-dong-o-phu-tho-dang-duoc-thanh-tra-1079.jpg?width=0&s=FgYJtld5bKzJUpSFjSYGRw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:11:39+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "b06f0c79c6a8",
-"title": "Người đàn ông vào trụ sở bắn Giám đốc Công ty Lâm nghiệp ở Đồng Nai rồi tự sát",
-"link": "https://vietnamnet.vn/nguoi-dan-ong-ban-giam-doc-cong-ty-lam-nghiep-la-nga-roi-tu-sat-2576202.html",
-"summary": "Sau khi dùng súng tự chế bắn trọng thương Giám đốc Công ty TNHH MTV Lâm nghiệp La Ngà ngay tại phòng làm việc, Nguyễn Thanh Tuấn (biệt danh Tuấn &quot;Số&quot;) bỏ trốn khỏi hiện trường và dùng súng tự sát khi bị lực lượng chức năng truy đuổi.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/nguoi-dan-ong-vao-tru-so-ban-giam-doc-cong-ty-lam-nghiep-o-dong-nai-roi-tu-sat-598.jpg?width=0&s=ihpBWHO_TyrMhyP9MxDO5A",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:11:34+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "e2a7d8ff1739",
-"title": "Nữ giám đốc ở Cà Mau bị điều tra vụ chiếm đoạt hơn 34,8 tỷ đồng",
-"link": "https://vietnamnet.vn/bat-nu-giam-doc-cong-ty-thuy-san-o-ca-mau-lua-dao-gan-35-ty-dong-2569480.html",
-"summary": "Công an tỉnh Cà Mau bắt tạm giam Hồ Thị Kiểng, Giám đốc Công ty TNHH MTV Chế biến thủy hải sản xuất nhập khẩu Thiên Phú, để điều tra hành vi lừa đảo chiếm đoạt tài sản với số tiền liên quan hơn 34,8 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/29/bat-nu-giam-doc-cong-ty-thuy-san-o-ca-mau-lua-dao-gan-35-ty-dong-1065.jpg?width=0&s=brYlylLudxn_nXhxUP8Dmg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:11:29+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "bf7a6c910924",
-"title": "Kanye West gây phẫn nộ khi được đề cử Grammy 2027",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNG5rYkhfMV9IOEtrMEhqX0JyMUZyTmM1MVFBOHMyNUJmbDRnQnV2RUw0UW5keXJFaUhPQUhaMHBCYnI1R1ZDNjFqOTBSUnNVdU1iNWdNTU9Ld0oyV2xWRUxaWlE5aVNwbnBtNkROdmhpUGNzMmtES3pYVmo5OWltZTNmV0lTY2ZjWktPazh2RWVXekRNd2FYWnZiUVA5QWZyaTVEdlJ2bXc?oc=5",
-"summary": "Nguồn: Tạp chí Saostar",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-18T10:11:12+07:00",
-"found": "2026-11-18T10:17:24+07:00"
-},
-{
-"id": "988fc50b21bb",
-"title": "williams minh hoàng",
-"link": "https://znews.vn/williams-minh-hoang-dut-day-chang-post1697170.html",
-"summary": "Williams Minh Hoàng đứt dây chằng (Znews)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjpTnRD1fQD3KZJBZQ9Tbe7Ub8PjXMtAtwVOIzSqFzgNGcB6I4gIjbRfMs5sU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T10:10:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "0fb41f162043",
-"title": "giải vô địch thế giới pubg",
-"link": "https://trends.google.com/trending/rss?geo=VN",
-"summary": "",
-"image": "",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T10:10:00+07:00",
-"traffic": "100+",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "a73db0ffd824",
-"title": "Bãi nhiệm một chủ tịch xã ở Thanh Hóa vì tham gia đánh bạc",
-"link": "https://vietnamnet.vn/bai-nhiem-mot-chu-tich-xa-o-thanh-hoa-vi-tham-gia-danh-bac-2576170.html",
-"summary": "Tham gia đường dây cá độ bóng đá trong mùa World Cup 2026, ông Trịnh Đức Hùng, Chủ tịch UBND xã Thiệu Toán (Thanh Hóa) vừa bị bãi nhiệm chức vụ trong nhiệm kỳ 2026-2031.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/bai-nhiem-mot-chu-tich-xa-o-thanh-hoa-vi-tham-gia-danh-bac-370.jpg?width=0&s=j4WIHlO7fyHEcAwQwfMDiQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T10:09:17+07:00",
-"found": "2026-11-18T09:26:38+07:00"
 }
 ]
 }
