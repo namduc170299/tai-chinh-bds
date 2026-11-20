@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T09:55:38+07:00",
-"new": 42,
+"updated": "2026-11-20T10:10:47+07:00",
+"new": 18,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,182 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "2fc3fe65b4be",
+"title": "Việt Nam chủ trì chuỗi hội nghị CPTPP: Kỳ vọng thúc đẩy liên kết kinh tế khu vực",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUwtekIyLTBPc0JpYXVFd3g3QW9iZTlSTkFTcjVlVHNLdDI5THFBZE5oYmxveWlRS0piUllpQkRQVVpYRi1WN0NkUFRYeGJzbHI0M1VqbGhqajZhbDFpSmtpbXA2enVfaDhIb1A5QlRzNWg4V2VfYzdINEIyQUdUb2F2NnpIT0Vud2lwYTAtd3pBSlh1Z0NieWEtdjc5TENKRzJkVHVzRGE1SGU0Z1RvWnNR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T10:04:14+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "04ebcf9312ca",
+"title": "Techcombank liên tiếp phát hành trái phiếu lãi suất gần 9%/năm",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQm5EajJNMUVFTHEzQ3VlcWdRTjVyRFdYc256NEtaRS1EVFJ6SlVuejlOZGphSTN4ZzgtcFdJZXBYVU94R28zOGZ6bTZOWGFham1kSDNWOFFQTjFncExIb3hJaWNIWXFycVNXbEFleTFpTjhUQV9ZWG14T3NtdmhleVZiREVsRUxGT1NDTHJLMTBTZ09WQzdRUmR3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T10:04:00+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "486edb60c8fd",
+"title": "Người đàn ông nằm trên vỉa hè ở Hà Nội, CSGT vào cuộc xác minh",
+"link": "https://vietnamnet.vn/nguoi-dan-ong-nam-tren-via-he-o-ha-noi-csgt-vao-cuoc-xac-minh-2569549.html",
+"summary": "Phát hiện người đàn ông nằm trên vỉa hè, có biểu hiện bất thường và không hợp tác khi được tiếp cận, lực lượng CSGT Hà Nội đã liên hệ xe cứu thương để đưa người này đến cơ sở y tế.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/29/1793246837282-6054255956240477176-g1921037834243786837-1ca815cb41ce16ec04a26e1c396abc26-1666.jpg?width=0&s=NX9Uc9ZT2x1jUwz1lRMArQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T10:02:22+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "0d21ad485581",
+"title": "Phát hiện thi thể người phụ nữ mặc áo khoác xanh trôi dạt bờ sông Sài Gòn",
+"link": "https://vietnamnet.vn/phat-hien-thi-the-nguoi-phu-nu-mac-ao-khoac-xanh-troi-dat-bo-song-sai-gon-2569569.html",
+"summary": "Trong lúc đi dạo ven sông Sài Gòn, người dân hốt hoảng phát hiện thi thể một phụ nữ mặc áo khoác xanh, tay đeo vòng đỏ trôi dạt vào bờ kè.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/29/phat-hien-thi-the-nguoi-phu-nu-mac-ao-khoac-xanh-troi-dat-bo-song-sai-gon-1888.jpg?width=0&s=4SMf12YU1ri3-AlU_l-rCA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T10:01:44+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "396ac3e5eec0",
+"title": "Phải ký giấy vay nợ trước khi ngồi ghế giám đốc ở Cây xanh Công Minh",
+"link": "https://vietnamnet.vn/phai-ky-giay-vay-no-truoc-khi-ngoi-ghe-giam-doc-o-cay-xanh-cong-minh-2569572.html",
+"summary": "Nhân viên được giao làm giám đốc trong hệ thống Cây xanh Công Minh phải ký giấy vay nợ Nguyễn Công Minh tương ứng số vốn góp và ký khống giấy chuyển nhượng công ty.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/29/phai-ky-giay-vay-no-truoc-khi-ngoi-ghe-giam-doc-o-cay-xanh-cong-minh-1968.jpg?width=0&s=N6AsnvY-GDE8IvxvKUfJdg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T10:01:15+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "802d68a61bd5",
+"title": "Hiện trường vụ cháy tại nhà máy giấy lớn nhất Cần Thơ, lửa bao trùm 30.000m²",
+"link": "https://vietnamnet.vn/hien-truong-vu-chay-tai-nha-may-giay-lon-nhat-can-tho-2576980.html",
+"summary": "Kho nguyên liệu rộng hàng chục nghìn mét vuông tại Nhà máy giấy Lee &amp; Man Việt Nam (Cần Thơ) chìm trong biển lửa suốt đêm. Đến sáng 20/11, khói vẫn bốc cao, nhiều điểm cháy âm ỉ bên trong các khối giấy.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/hien-truong-vu-chay-tai-nha-may-giay-lon-nhat-can-tho-lua-bao-trum-30-532.jpg?width=0&s=JMk_jwlQ7GbW3uY6tlcs0g",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T10:01:11+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "039cb2cfb7d1",
+"title": "Rác thải bủa vây bãi biển ở vịnh Cam Ranh",
+"link": "https://vietnamnet.vn/bai-bien-ven-vinh-cam-ranh-ngap-ngua-rac-boc-mui-khien-nguoi-dan-khong-dam-tam-2569475.html",
+"summary": "Bãi biển dài khoảng 2km ở xã Nam Cam Ranh (Khánh Hòa) ngập rác thải nhựa, lưới cũ và vỏ hàu, ốc từ hoạt động nuôi tôm hùm. Tình trạng ô nhiễm kéo dài khiến người dân không dám tắm biển.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/29/rac-thai-bua-vay-bai-bien-o-vinh-cam-ranh-2022.jpg?width=0&s=SlwPmCpQ_svkkpln7lYseA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T10:00:45+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "1f7b7c2fde24",
+"title": "Hàng trăm cảnh sát vào rừng truy bắt hai phạm nhân trốn Trại giam A2",
+"link": "https://vietnamnet.vn/hang-tram-canh-sat-vao-rung-truy-bat-hai-pham-nhan-tron-trai-giam-a2-2569608.html",
+"summary": "Hàng trăm cán bộ, chiến sĩ công an tiến sâu vào khu vực rừng núi Hòn Dữ (xã Diên Lâm, tỉnh Khánh Hòa) để truy tìm, vây bắt hai phạm nhân trốn khỏi Trại giam A2.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/29/hang-tram-canh-sat-vao-rung-truy-bat-hai-pham-nhan-tron-trai-giam-a2-2397.jpg?width=0&s=sFoFTIo0wU-jDukxxC42Vw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T10:00:02+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "aa3815ec1573",
+"title": "“Sống trọn tầm cao” trong bộ sưu tập 79 biệt thự hàng hiệu InterContinental tại thung lũng Mường Hoa",
+"link": "https://cafef.vn/song-tron-tam-cao-trong-bo-suu-tap-79-biet-thu-hang-hieu-intercontinental-tai-thung-lung-muong-hoa-188261120093831776.chn",
+"summary": "Từ tầm nhìn chiến lược của Tập đoàn Alphanam và uy tín toàn cầu của đơn vị quản lý vận hành InterContinental Hotels & Resorts, thung lũng Mường Hoa đang mở ra một tọa độ nghỉ dưỡng mang chuẩn mực quốc tế giữa miền di sản Tây Bắc. Tại đây, The Residences at InterContinental Sapa…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/muong-hoa2-17951417987051173054888-0-198-1126-2000-crop-17951419927981284826794.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-20T10:00:00+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "1cbd2f48b1c8",
+"title": "GPBank mở rộng hiện diện, định hình dấu ấn mới từ trải nghiệm khách hàng",
+"link": "https://cafef.vn/gpbank-mo-rong-hien-dien-dinh-hinh-dau-an-moi-tu-trai-nghiem-khach-hang-188261120095054855.chn",
+"summary": "Không chỉ làm mới hình ảnh thương hiệu, GPBank đang từng bước thay đổi cách tiếp cận và phục vụ khách hàng, từ các hoạt động kết nối trực tiếp tại nhiều thành phố lớn đến phát triển ngân hàng số, nâng cấp trải nghiệm giao dịch và mở rộng giải pháp tài chính.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/photo1795062814779-1795062814950981897565-1795143059253466219431.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-20T10:00:00+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "79a816dd7845",
+"title": "Chính thức nâng ngưỡng doanh thu được tính thuế đơn giản lên 10 tỉ",
+"link": "https://thanhnien.vn/chinh-thuc-nang-nguong-doanh-thu-duoc-tinh-thue-don-gian-len-10-ti-185261120093959118.htm",
+"summary": "Doanh nghiệp có tổng mức doanh thu năm không quá 10 tỉ đồng hoặc theo mức điều chỉnh của Chính phủ trong từng thời kỳ chính thức được lựa chọn áp dụng tính thuế theo thu nhập tính thuế hoặc doanh thu tính thuế.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/thue-tndn-17951417752582087399994-107-0-1707-2560-crop-17951418294821576473227.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-20T10:00:00+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "d32192409403",
+"title": "Metro Hà Nội: 5 tuyến đường sắt đô thị kết nối cực phát triển",
+"link": "https://vietnamnet.vn/metro-ha-noi-5-tuyen-duong-sat-do-thi-ket-noi-cuc-phat-trien-2576196.html",
+"summary": "Với 5 tuyến đường sắt đô thị dài khoảng 253 km, metro Hà Nội được kỳ vọng kết nối các cực phát triển mới. Thành phố triển khai cơ chế đặc thù, huy động nguồn vốn và kiểm soát chặt chi phí, chất lượng đầu tư.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/metro-ha-noi-5-tuyen-duong-sat-do-thi-ket-noi-cuc-phat-trien-512.png?width=0&s=X-6I8DZZYzUgPQNib3wLzw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T09:59:00+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "b4cfdf2a715d",
+"title": "Giáo sư, viện sĩ Trần Hồng Thái: Khoa học không có biên giới nhưng nhà khoa học có quê hương",
+"link": "https://vietnamnet.vn/gs-tran-hong-thai-khoa-hoc-khong-co-bien-gioi-nhung-nha-khoa-hoc-co-que-huong-2569735.html",
+"summary": "&quot;Người ta nói khoa học không có biên giới nhưng nhà khoa học thì có quê hương. Tôi nghĩ bất cứ nhà khoa học nào sinh ra ở Việt Nam đều tự hào khi được đóng góp cho quê hương, đất nước mình&quot;, Giáo sư, viện sĩ Trần Hồng Thái chia sẻ.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/30/giao-su-vien-si-tran-hong-thai-khoa-hoc-khong-co-bien-gioi-nhung-nha-khoa-hoc-co-que-huong-147.png?width=0&s=xo_2bqzOV5QlaJMiWcWQEg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T09:58:47+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "c03a70aa86b8",
+"title": "Điểm lại thông tin kinh tế ngày 19/11",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BTm1mcWhQTGluemFKWkI4WG4teXByQkpQd0NmbmU4c1N2Vkh0V2hVOGpjSnY1d3Q5LUtrNzV1YThMNTFrU1dfM3NXYVZGSHhYYWU4bkk0Q0tZMmRYTXBaYVJwQmFOSDZIemVuWXM0WmJPcENEZ3R5aFNn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T09:58:28+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "5e62e25cceb7",
+"title": "Cấm phương tiện qua đoạn sạt lở trên quốc lộ 28",
+"link": "https://vietnamnet.vn/cam-phuong-tien-qua-doan-sat-lo-tren-quoc-lo-28-2569835.html",
+"summary": "Tỉnh Lâm Đồng tạm cấm tất cả phương tiện lưu thông qua quốc lộ 28 cho đến khi có thông báo mới do mặt đường sạt lở, nguy cơ đứt gãy nền đường nghiêm trọng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/30/cam-phuong-tien-qua-doan-sat-lo-tren-quoc-lo-28-766.jpg?width=0&s=HuV0BLEU5Nd9rynh5SvDbw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-20T09:57:21+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "4adbf83ee345",
+"title": "Máy sưởi Fujihome: Khi thiết bị gia dụng hòa vào không gian sống hiện đại",
+"link": "https://vietnamnet.vn/may-suoi-fujihome-khi-thiet-bi-gia-dung-hoa-vao-khong-gian-song-hien-dai-2576974.html",
+"summary": "Từ thiết kế tinh tế, công nghệ sưởi tiên tiến đến các tính năng hỗ trợ an toàn và tiết kiệm điện, bộ sưu tập máy sưởi Fujihome 2026 hướng đến trải nghiệm làm ấm tiện nghi, phù hợp với nhiều không gian và phong cách sống.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/may-suoi-fujihome-khi-thiet-bi-gia-dung-hoa-vao-khong-gian-song-hien-dai-363.png?width=0&s=OIE5LJAqAFGCqcFb1zNwtQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-20T09:55:50+07:00",
+"found": "2026-11-20T09:23:42+07:00"
+},
+{
 "id": "282158abe849",
 "title": "Bố Mr Pips khai lý do đưa 100.000 USD cho cựu cán bộ công an",
 "link": "https://vietnamnet.vn/bo-mr-pips-khai-ly-do-dua-100-000-usd-cho-cuu-can-bo-cong-an-2569857.html",
@@ -255,6 +431,17 @@
 "cat": "xh",
 "published": "2026-11-20T09:53:00+07:00",
 "found": "2026-11-20T09:55:38+07:00"
+},
+{
+"id": "1708fb32812e",
+"title": "Tỷ giá USD hôm nay 20/11: Tỷ giá trung tâm lập đỉnh mới 25.659 đồng, thị trường đặt cược Fed tăng lãi suất ba lần",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdWtyMjkwaUgyWDhXTUY2VVJiR3RmNm1oUEdFdV9JUi16MWlTQlZXTVcwb3NvdXZXOXJpcGpSZGNaa2NOZlFWTk0xc2ZkQ2ZtRzBLamhNc2lOa0wwd2lLYVRpQTk3WWo3ZW4xazQxaFJGUnlodTFTelZOU2dtQUhkNW5NYUxQSUtXNU1TbTNxMWV6OVBkQl9ZZnBHQXhGQnhjQjdveVhvc0hnZGpCdkNTVnA0VnQ2MzNSWGJYUUhvaVJFY0tFLWNHSDJQOFpzclFIQ2FCNXVKdkt3b29w?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T09:53:00+07:00",
+"found": "2026-11-20T10:10:47+07:00"
 },
 {
 "id": "e43358e73c68",
@@ -500,6 +687,17 @@
 "found": "2026-11-20T05:04:17+07:00"
 },
 {
+"id": "7b44b154f45c",
+"title": "Chăm sóc vết mổ sau phẫu thuật ngực, tạo hình bụng lành đẹp: Những điều cần biết",
+"link": "https://thanhnien.vn/cham-soc-vet-mo-sau-phau-thuat-nguc-tao-hinh-bung-lanh-dep-nhung-dieu-can-biet-185261120093901216.htm",
+"summary": "Kiểm soát dịch tiết, duy trì môi trường vết thương phù hợp, hạn chế lực căng lên đường khâu và theo dõi dấu hiệu bất thường là những việc người sau phẫu thuật cần thực hiện theo hướng dẫn của bác sĩ.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/1-17951417704001194005295-0-47-941-1553-crop-17951418211611697734632.png",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-20T09:25:00+07:00",
+"found": "2026-11-20T10:10:47+07:00"
+},
+{
 "id": "127938f4affc",
 "title": "Hôm qua - 19/11, sân bay Nội Bài ghi nhận một máy bay đặc biệt hạ cánh",
 "link": "https://kenh14.vn/hom-qua-19-11-san-bay-noi-bai-ghi-nhan-mot-may-bay-dac-biet-ha-canh-215261120084715248.chn",
@@ -564,17 +762,6 @@
 "cat": "tc",
 "published": "2026-11-20T09:17:36+07:00",
 "found": "2026-11-20T09:55:38+07:00"
-},
-{
-"id": "4adbf83ee345",
-"title": "Máy sưởi Fujihome: Khi thiết bị gia dụng hòa vào không gian sống hiện đại",
-"link": "https://vietnamnet.vn/may-suoi-fujihome-khi-thiet-bi-gia-dung-hoa-vao-khong-gian-song-hien-dai-2576974.html",
-"summary": "Từ thiết kế tinh tế, công nghệ sưởi tiên tiến đến các tính năng hỗ trợ an toàn và tiết kiệm điện, bộ sưu tập máy sưởi Fujihome 2026 hướng đến trải nghiệm làm ấm tiện nghi, phù hợp với nhiều không gian và phong cách sống.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/may-suoi-fujihome-khi-thiet-bi-gia-dung-hoa-vao-khong-gian-song-hien-dai-363.png?width=0&s=OIE5LJAqAFGCqcFb1zNwtQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-20T09:15:46+07:00",
-"found": "2026-11-20T09:23:42+07:00"
 },
 {
 "id": "d82577a8a402",
@@ -1000,6 +1187,18 @@
 "published": "2026-11-20T08:40:00+07:00",
 "traffic": "100+",
 "found": "2026-11-20T09:08:12+07:00"
+},
+{
+"id": "91469bcda09f",
+"title": "thỏi vàng",
+"link": "https://giadinh.suckhoedoisong.vn/phat-hien-nguoi-phu-nu-dem-ban-thoi-vang-50g-tung-mua-o-ngan-hang-nhan-vien-giao-dich-lap-tuc-bao-cong-an-172261120090229699.htm",
+"summary": "Phát hiện người phụ nữ đem bán thỏi vàng 50g từng mua ở ngân hàng, nhân viên giao dịch lập tức báo công an (Gia đình & Xã hội)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ08b0dhUM1RsuMy2uNFWuc-TBPo5OT_C8_uiMnP9fAo43kG-c8KrlklBpcafY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-20T08:40:00+07:00",
+"traffic": "500+",
+"found": "2026-11-20T10:10:47+07:00"
 },
 {
 "id": "dfa0743a369a",
@@ -27770,205 +27969,6 @@
 "cat": "xh",
 "published": "2026-11-17T23:40:00+07:00",
 "found": "2026-11-18T01:30:01+07:00"
-},
-{
-"id": "4f8c4819ea07",
-"title": "Chủ tịch Quốc hội Trần Thanh Mẫn bắt đầu lịch trình dự AIPA-47",
-"link": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-bat-dau-lich-trinh-du-aipa-47-10026111722141628.htm",
-"summary": "Chiều 17-11, Chủ tịch Quốc hội Trần Thanh Mẫn dự phiên họp Ban Chấp hành Đại hội đồng liên Nghị viện ASEAN lần thứ 47 (AIPA-47) và gặp song phương Chủ tịch Quốc hội Timor-Leste.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/ttxvnchu-tich-quoc-hoi-tran-thanh-man-du-phien-hop-uy-ban-chap-hanh-aipa-8jpg-1794928029334228336571-92-157-382-620-crop-1794933874638834361678.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T23:39:00+07:00",
-"found": "2026-11-18T01:30:01+07:00"
-},
-{
-"id": "9c342b9e219b",
-"title": "Giá vàng bật tăng từ đáy một năm: Chuyên gia phố Wall chia rẽ sâu sắc",
-"link": "https://dantri.com.vn/kinh-doanh/gia-vang-bat-tang-tu-day-mot-nam-chuyen-gia-pho-wall-chia-re-sau-sac-20261117221043129.htm",
-"summary": "(Dân trí) - Sau khi lao dốc xuống vùng đáy thấp nhất một năm, giá vàng vừa phát tín hiệu hồi phục nhẹ. Tuy nhiên, giới tài chính quốc tế đang chia rẽ sâu sắc về đường đi sắp tới của kim loại quý.",
-"image": "https://cdnphoto.dantri.com.vn/MQPfqbHj3GEZphq-xHl1Tlr2v4g=/2026/11/17/gold-1794927662472.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-17T23:21:27+07:00",
-"found": "2026-11-17T23:39:59+07:00"
-},
-{
-"id": "a9dc8b008403",
-"title": "nga vs",
-"link": "https://baonghean.vn/nhan-dinh-nga-vs-venezuela-chuyen-di-nhieu-thu-thach-10356036.html",
-"summary": "Nhận định Nga vs Venezuela: Chuyến đi nhiều thử thách (Báo Nghệ An)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStLyuUEdmLanReuKRJgnWGeZRhNq_1ng0O8-bsUWeJIJr7LAVRTgpowAYneQA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-17T23:20:00+07:00",
-"traffic": "200+",
-"found": "2026-11-17T23:39:59+07:00"
-},
-{
-"id": "5ad18ea1b539",
-"title": "Jensen Huang lần đầu lên tiếng sau khi từ chức",
-"link": "https://vnexpress.net/jensen-huang-lan-dau-len-tieng-sau-khi-tu-chuc-5145860.html",
-"summary": "Trong lá thư công khai đầu tiên sau khi từ chức, Jensen Huang thể hiện sự hối hận và khẳng định Nvidia \"là tâm huyết cả đời\".",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/17/Screenshot20261110083913-17949-1884-7883-1794932077.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UiOyLB8BxmxL24tf1HOQiA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-17T23:16:28+07:00",
-"found": "2026-11-18T00:39:53+07:00"
-},
-{
-"id": "bb76d356acd1",
-"title": "Hội nghị thượng đỉnh CEO APEC 2026 khai mạc tại Trung Quốc",
-"link": "https://dantri.com.vn/kinh-doanh/hoi-nghi-thuong-dinh-ceo-apec-2026-khai-mac-tai-trung-quoc-20261117210626496.htm",
-"summary": "(Dân trí) - Theo Tân Hoa Xã, Hội nghị Thượng đỉnh CEO APEC 2026 khai mạc vào thứ ba (ngày 17/11) tại thành phố Thâm Quyến, Trung Quốc.",
-"image": "https://cdnphoto.dantri.com.vn/ppCNjxXsGhUqCGYKXSuBGNTon7Q=/2026/11/17/apec-ceo-cropped-1794923599061.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-17T23:15:52+07:00",
-"found": "2026-11-17T23:39:59+07:00"
-},
-{
-"id": "9ee238c12477",
-"title": "Vận tải cơ chở 17 người bốc cháy, rơi ở Nga",
-"link": "https://vnexpress.net/van-tai-co-cho-17-nguoi-boc-chay-roi-o-nga-5145856.html",
-"summary": "Vận tải cơ An-12 chở theo 17 người gặp nạn tại tỉnh Kemerovo, tây nam Siberia, nhiều khả năng không có ai sống sót.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/van-tai-co-1794930690-7373-1794930950.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pUAf5rInuERHIfPzkCsghQ",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-17T23:14:55+07:00",
-"found": "2026-11-18T17:36:56+07:00"
-},
-{
-"id": "8921d90c3413",
-"title": "Trái phiếu đô thị và bước chuyển trong huy động vốn hạ tầng",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFpvUkdCb0RZNzVGR2V0Skg2MUJ3TG9GVWJpM1BDbmVPZkNxb2pBT0MwYmpMMi1SS0ZYeXpQSDlMT2djeUZRbDNJTlpDcWdNYldYTHJIZVpsZGNVUWw4OHFFYk9pZUx4Vmdab3dMWC1RM281Unc0dnBlMkJLUkpPVWRuaWI1VEtwLVZyVWhXUWdjd0labVJj?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-17T23:11:00+07:00",
-"found": "2026-11-18T07:10:50+07:00"
-},
-{
-"id": "d2dddc641c21",
-"title": "Hà Nội chốt hạn di dời cư dân tại 12 dự án Mường Thanh",
-"link": "https://vnexpress.net/ha-noi-chot-han-di-doi-cu-dan-tai-12-du-an-muong-thanh-5145844.html",
-"summary": "Hà Nội yêu cầu hoàn thành di dời cư dân khỏi các căn hộ phải phá dỡ hoặc hoàn trả công năng công cộng tại 12 dự án liên quan Tập đoàn Mường Thanh trước 31/12/2027.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/tohopHHLinham-1794929344-9481-1794929507.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dAhCDdGACNAzdsUES9IXkA",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-17T23:08:42+07:00",
-"found": "2026-11-18T00:39:53+07:00"
-},
-{
-"id": "c0f8815b8cdd",
-"title": "Vùng công nghiệp lớn của Pháp muốn tăng tốc hợp tác với TP.HCM",
-"link": "https://tuoitre.vn/vung-cong-nghiep-lon-cua-phap-muon-tang-toc-hop-tac-voi-tphcm-100261117212748697.htm",
-"summary": "Với thế mạnh về công nghiệp, công nghệ và đào tạo, vùng Auvergne-Rhône-Alpes của Pháp muốn cùng TP.HCM mở rộng hợp tác kinh tế, kết nối doanh nghiệp và tìm kiếm cơ hội đầu tư.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/thp04691-17949249780951785386546-489-354-3961-5910-crop-1794925057745705133168.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-17T23:05:00+07:00",
-"found": "2026-11-17T23:39:59+07:00"
-},
-{
-"id": "e35945276217",
-"title": "Những môn thể thao nào dễ chấn thương khớp gối?",
-"link": "https://tuoitre.vn/nhung-mon-the-thao-nao-de-chan-thuong-khop-goi-10026111720361488.htm",
-"summary": "Chạy bộ, đá bóng, tennis, pickleball... đều là những môn thể thao có thể làm tăng nguy cơ chấn thương khớp gối do người chơi phải chạy nhảy, đổi hướng hoặc dùng chân trụ.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/edit-hinh-5-nguoi-benh-tap-phuc-hoi-chuc-nang-sau-mo-17949217263311242071744-103-0-1703-2560-crop-17949217356231734322356.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T23:02:00+07:00",
-"found": "2026-11-17T23:39:59+07:00"
-},
-{
-"id": "8bc69ca61964",
-"title": "Hà Nội sắp mở bán nhà ở xã hội giá gần 30 triệu đồng/m²",
-"link": "https://cafef.vn/ha-noi-sap-mo-ban-nha-o-xa-hoi-gia-gan-30-trieu-dong-m-188261117212358732.chn",
-"summary": "Sở Xây dựng Hà Nội công bố kế hoạch tiếp nhận hồ sơ đăng ký mua, thuê và thuê mua nhà ở xã hội tại xã Phúc Thịnh với giá bình quân hơn 29,7 triệu đồng/m².",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1794925126565-17949251270961587141783.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-17T23:01:00+07:00",
-"found": "2026-11-17T23:39:59+07:00"
-},
-{
-"id": "e89d5154578f",
-"title": "Chiếc xe đạp mơ ước tặng cậu bé Khe Sanh mỗi ngày đi bộ đến trường",
-"link": "https://tuoitre.vn/chiec-xe-dap-mo-uoc-tang-cau-be-khe-sanh-moi-ngay-di-bo-den-truong-100261117191549354.htm",
-"summary": "Vào những ngày mưa, đôi chân điệu nghệ trên sân cỏ của La Phi không giúp em tránh khỏi ướt áo quần, sách vở do lội bộ 2km đến trường.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/gmtt-la-phi-17949178414311703113078-33-81-735-1204-crop-1794931314429997087895.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-17T22:59:00+07:00",
-"found": "2026-11-17T23:39:59+07:00"
-},
-{
-"id": "a8cc6b077e87",
-"title": "Vì sao cổng Parabol Bách khoa trông đơn giản nhưng \"phá đi không ai có thể xây lại\" - Vingroup phải nhờ đến \"Thần đèn\"?",
-"link": "https://cafef.vn/vi-sao-cong-parabol-bach-khoa-trong-don-gian-nhung-pha-di-khong-ai-co-the-xay-lai-vingroup-phai-nho-den-than-den-188261117212734831.chn",
-"summary": "Phải chăng cổng Parabol là một công trình phức tạp, phá đi sẽ không thể xây mới nên phải chọn đến phương án dùng \"Thần đèn\" di dời?",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/17/avatar1794925346505-17949253472371547016785.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-17T22:53:00+07:00",
-"found": "2026-11-17T23:39:59+07:00"
-},
-{
-"id": "6698dcfc22f1",
-"title": "Chính phủ đề xuất xóa nợ lệ phí môn bài, tiền chậm nộp cho người nộp thuế diện '03, 06'",
-"link": "https://tuoitre.vn/chinh-phu-de-xuat-xoa-no-le-phi-mon-bai-tien-cham-nop-cho-nguoi-nop-thue-dien-03-06-100261117210152681.htm",
-"summary": "Dự thảo nghị quyết đề xuất xóa nợ lệ phí môn bài (gồm cả thuế môn bài trước ngày 1-1-2017) và tiền chậm nộp (gồm cả tiền phạt chậm nộp trước ngày 1-7-2013) của người nộp thuế ở trạng thái 03, 06 tính đến 21-11-2026.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/ong-nguyen-duc-chi-17949267915151942217386-copy-17949310126381354649015-162-68-1098-1566-crop-17949310750352005130863.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-17T22:47:00+07:00",
-"found": "2026-11-17T23:39:59+07:00"
-},
-{
-"id": "142a4b48b7c8",
-"title": "Tránh chia nhỏ công việc, tạo thêm vị trí việc làm không có căn cứ nhằm duy trì biên chế",
-"link": "https://tuoitre.vn/tranh-chia-nho-cong-viec-tao-them-vi-tri-viec-lam-khong-co-can-cu-nham-duy-tri-bien-che-100261117202044996.htm",
-"summary": "Kết luận của Trưởng Ban Tổ chức Trung ương Nguyễn Duy Ngọc yêu cầu kiên quyết khắc phục tình trạng mô tả chung chung, trùng lặp, tránh chia nhỏ công việc để tạo thêm vị trí việc làm không có căn cứ nhằm duy trì biên chế hiện có.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/nguyen-duy-ngoc-17949204370851661440807-copy-17949307877991710141104-165-39-1144-1605-crop-1794930826708426922573.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T22:45:00+07:00",
-"found": "2026-11-17T23:39:59+07:00"
-},
-{
-"id": "0f996b295f5d",
-"title": "Bộ trưởng Bộ Tài chính đề nghị ICBC nghiên cứu vốn cho đường sắt Việt - Trung",
-"link": "https://tuoitre.vn/bo-truong-bo-tai-chinh-de-nghi-icbc-nghien-cuu-von-cho-duong-sat-viet-trung-100261117211450241.htm",
-"summary": "Tại cuộc làm việc với lãnh đạo Ngân hàng Công Thương Trung Quốc (ICBC) ngày 17-11, Bộ trưởng Bộ Tài chính Ngô Văn Tuấn đề nghị ngân hàng nghiên cứu phương án thu xếp vốn cho các dự án hạ tầng, trong đó có đường sắt kết nối Việt Nam - Trung Quốc.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/doan-cong-tac-17949303472062072250971-165-84-690-925-crop-1794930401327876416295.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-17T22:42:00+07:00",
-"found": "2026-11-17T23:39:59+07:00"
-},
-{
-"id": "0713dea5b568",
-"title": "Phân công công tác với ông Lê Quốc Phong và 7 phó chủ tịch TP.HCM",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnYwQjIwTEl1NW9jYzdjYWtMRVJWUjBQM1pQS0NCVC12QVFCWmVaaEFkR1FBb1hwZHFTVFlLRnFBRll3VnRyM2Z5Ry1MUVNIRFNFVktaTVhMZnNKY05HNVlMNmsxS3dDMThUUXZhYmkzVFk4QVdTeFZQUjY2NW5OSlVzcF9tUXlIQjFXRE9WOTNzREhjbjNDbUtraVdhYVE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-17T22:40:35+07:00",
-"found": "2026-11-19T21:44:39+07:00"
-},
-{
-"id": "89d7a6021339",
-"title": "Vinh danh 234 sinh viên hàng hải tiêu biểu",
-"link": "https://tuoitre.vn/vinh-danh-234-sinh-vien-hang-hai-tieu-bieu-100261117211339493.htm",
-"summary": "Tối 17-11, Trường đại học Hàng hải Việt Nam tổ chức lễ tuyên dương 234 sinh viên tiêu biểu năm học 2025 - 2026, ghi nhận những thành tích nổi bật trong học tập, nghiên cứu khoa học, thi Olympic và các hoạt động phong trào.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/vinh-danh-17949244755651312538315-60-0-1207-1836-crop-17949301358111144762921.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-17T22:37:00+07:00",
-"found": "2026-11-17T23:39:59+07:00"
 }
 ]
 }
