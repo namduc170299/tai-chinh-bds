@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T17:27:08+07:00",
-"new": 9,
+"updated": "2026-11-21T17:42:16+07:00",
+"new": 14,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "f82b5267afa5",
+"title": "Áp dụng bảng giá đất, hệ số điều chỉnh từ ngày 01/01/2028",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbGV2M3FUWlltQ1pLdVlySUpwNVlHWWoydjZhcmVxN3FhU2NDVk5UZVEwWnk1Ry1FRWpGNTFpT0NQWHlySHY1ZEVfV3ZLTzJkYW0xWW1yVUJFLW50QUdpeFp5M215amptUjduSXFLa3ZJZVFTYnVZN1FKYzh0aHdCeHJ1dDJENWF3THVtaUVNNGN2SDA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T17:30:46+07:00",
+"found": "2026-11-21T17:42:16+07:00"
+},
+{
+"id": "cbe5e589f1f5",
+"title": "Làm rõ vụ đổ đất đá xuống biển ở Nha Trang",
+"link": "https://thanhnien.vn/lam-ro-vu-do-dat-da-xuong-bien-o-nha-trang-185261121165408308.htm",
+"summary": "Sau khi xuất hiện thông tin phản ánh việc đổ đất đá xuống biển tại khu nghỉ dưỡng dưới chân đèo Lương Sơn, phường Bắc Nha Trang, UBND tỉnh Khánh Hòa đã chỉ đạo cơ quan chức năng làm rõ vụ việc.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-dji0020-1795253749613866863759-0-256-1440-2560-crop-1795254758446267899561.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-21T17:30:00+07:00",
+"found": "2026-11-21T17:42:16+07:00"
+},
+{
+"id": "d470c22dead9",
+"title": "TPHCM: Bồi thường nhà đất dự án rạch Ông Bé, cao nhất 222 triệu đồng/m2",
+"link": "https://cafef.vn/tphcm-boi-thuong-nha-dat-du-an-rach-ong-be-cao-nhat-222-trieu-dong-m2-18826112117074801.chn",
+"summary": "Theo phương án bồi thường, hỗ trợ, tái định cư dự án nạo vét, cải tạo môi trường kết hợp chỉnh trang đô thị trục thoát nước rạch Ông Bé UBND phường Chánh Hưng vừa ban hành, đơn giá bồi thường nhà đất của các hộ dân thuộc diện giải tỏa, di dời cao hơn bảng giá đất của TPHCM…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795255314039-1795255314384512985371.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-21T17:29:00+07:00",
+"found": "2026-11-21T17:42:16+07:00"
+},
+{
+"id": "3e04eb455bd7",
+"title": "Phu nhân Ngô Phương Ly cùng Phu nhân Tổng thống Azerbaijan trải nghiệm văn hóa phố cổ Hà Nội",
+"link": "https://tuoitre.vn/phu-nhan-ngo-phuong-ly-cung-phu-nhan-tong-thong-azerbaijan-trai-nghiem-van-hoa-pho-co-ha-noi-100261121152852851.htm",
+"summary": "Trong tiết trời đầu đông, hương trà sen, tiếng phách ca trù và sắc lụa áo dài đã làm nên cuộc gặp thân tình, ấm áp giữa Phu nhân Ngô Phương Ly và Phu nhân Tổng thống Azerbaijan.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/phu-nhan-ngo-phuong-ly-azerbaijan-1-1795249767427216849201-999-1445-3275-5086-crop-1795249843332169348726.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-21T17:22:00+07:00",
+"found": "2026-11-21T17:42:16+07:00"
+},
+{
 "id": "34b0a2ab53af",
 "title": "Hải Phòng rà soát 3 dự án chậm triển khai",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WNHVzZW84WXFMV0tSZUJsaF80cnk5T3UtTE0yTnRwSXVVMFpmWTU4Q3NzT3VnZ3VnN1hkWi0zbkF3dmtwOUp0MFVodjIwRXdiT2FSQlA4MFRaTnktLTZ3aVRWYkd2VVlXZnhSMzRnV3N0Rkx4dk1vWHFDOTAxMnc?oc=5",
@@ -222,6 +266,17 @@
 "cat": "bds",
 "published": "2026-11-21T17:19:38+07:00",
 "found": "2026-11-21T17:27:08+07:00"
+},
+{
+"id": "1d0314c50cc0",
+"title": "Xổ số miền Nam ngày 21 tháng 11: Dãy số trúng độc đắc 025502 gây xôn xao",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWhSQUpCaUFzRkVVejh2S29DMEJiOUJZaW1tSFNrQVZOTEFUNTRMcHJfQnJLRnFvcl9aNUlUbmhUWTlYNzJGcFlTdjR5clk3T2pjZExlMHpzdTBCX0ZCNGNsYzhnUUxtaUlsY0tydzVJeTZKWGRrWktTUVktanFDblUwYlN6dVRlUGZid09OcGZqNHVHV3U4NllqRFJOckpwQ1N4X0tKaGFicGxaMFFDTXhYb2ZUdw?oc=5",
+"summary": "Nguồn: Báo Thanh Niên",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T17:18:00+07:00",
+"found": "2026-11-21T17:42:16+07:00"
 },
 {
 "id": "0bc321d03024",
@@ -244,6 +299,17 @@
 "cat": "bds",
 "published": "2026-11-21T17:17:00+07:00",
 "found": "2026-11-21T17:27:08+07:00"
+},
+{
+"id": "45a3fdcd4633",
+"title": "Vàng giảm gần 60 triệu đồng/lượng, nhà đầu tư nên làm gì?",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXJBUzZNalFwMGZxaGt1dHA4Wkg4ak9HUk9JNF9Kekd5SkgyZG1aQmtrMW5ORG5GSHNWWlhaRnlMZHlUdUZSeklzUWZDUVlXVTdtdVZBelBCNXJIQWkwMm1xNjE2YlpIMkJLNFJCQk1lbk9EREllZVlyT0dMeHR4OGRDTWZJV3NQUlJLUFRFMDAwQQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T17:16:06+07:00",
+"found": "2026-11-21T17:42:16+07:00"
 },
 {
 "id": "3eb4e6334eca",
@@ -279,6 +345,28 @@
 "found": "2026-11-21T17:27:08+07:00"
 },
 {
+"id": "3d5ff7230f23",
+"title": "Đà Nẵng: Cần chủ động hạ thấp mực nước hồ để hạn chế ngập đường phố",
+"link": "https://tuoitre.vn/da-nang-can-chu-dong-ha-thap-muc-nuoc-ho-de-han-che-ngap-duong-pho-100261121163801033.htm",
+"summary": "Mưa lớn chiều 20-11 khiến nhiều tuyến đường trung tâm Đà Nẵng lại ngập nước. Chuyên gia đã có những chia sẻ về giải pháp chống ngập cho khu vực này.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/edit-21-11-duong-giua-trung-tam-da-nang-lenh-lang-nuoc-sau-tran-mua-lon-giai-phap-nao-02-17952537640011517925712-73-409-1555-2780-crop-17952537762311380048785.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-21T17:16:00+07:00",
+"found": "2026-11-21T17:42:16+07:00"
+},
+{
+"id": "a1ecb39a30f6",
+"title": "Người dân liên tiếp nhặt được súng, chủ động mang đến công an giao nộp",
+"link": "https://tuoitre.vn/nguoi-dan-lien-tiep-nhat-duoc-sung-chu-dong-mang-den-cong-an-giao-nop-1002611211602005.htm",
+"summary": "Người dân ở các phường Hòa Hiệp và Phú Yên, tỉnh Đắk Lắk liên tiếp phát hiện súng trong lúc dọn vườn, nhặt củi ven biển. Sau đó, họ chủ động mang số vũ khí này đến cơ quan công an giao nộp.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/1-3513-1795251156005512609263-34-33-812-1278-crop-17952562049951133088572.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-21T17:13:00+07:00",
+"found": "2026-11-21T17:42:16+07:00"
+},
+{
 "id": "52e12c2846ed",
 "title": "Hộ kinh doanh có lợi gì khi nâng ngưỡng doanh thu tính thuế đơn giản lên 10 tỉ đồng?",
 "link": "https://thanhnien.vn/ho-kinh-doanh-co-loi-gi-khi-nang-nguong-doanh-thu-tinh-thue-don-gian-len-10-ti-dong-185261121140713049.htm",
@@ -290,6 +378,17 @@
 "found": "2026-11-21T17:11:19+07:00"
 },
 {
+"id": "881d15da9c23",
+"title": "Hà Nội nêu điều kiện giao chủ đầu tư dự án nhà ở cho thuê không qua đấu giá, đấu thầu",
+"link": "https://tuoitre.vn/ha-noi-neu-dieu-kien-giao-chu-dau-tu-du-an-nha-o-cho-thue-khong-qua-dau-gia-dau-thau-100261121163548783.htm",
+"summary": "Hà Nội ban hành quy định về điều kiện, trình tự, thủ tục giao chủ đầu tư dự án nhà ở cho thuê không sử dụng vốn đầu tư công. Ưu tiên nhà đầu tư có quyền sử dụng đất, năng lực tài chính và kinh nghiệm thực hiện dự án.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/90049272317932855752264208232419334438954416n-1795253642308455136554-0-0-934-1495-crop-17952557619141193693151.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-21T17:06:00+07:00",
+"found": "2026-11-21T17:42:16+07:00"
+},
+{
 "id": "7d0199ee1c39",
 "title": "Thái Nguyên đấu giá khu đất 137ha làm khu đô thị, du lịch Hồ Núi Cốc",
 "link": "https://cafef.vn/thai-nguyen-dau-gia-khu-dat-137ha-lam-khu-do-thi-du-lich-ho-nui-coc-188261121171024042.chn",
@@ -299,6 +398,17 @@
 "cat": "bds",
 "published": "2026-11-21T17:05:00+07:00",
 "found": "2026-11-21T17:27:08+07:00"
+},
+{
+"id": "327aa445fc24",
+"title": "Xuất khẩu tôm đạt 4,22 tỷ USD, cần động lực cạnh tranh mới ngoài giá bán",
+"link": "https://dantri.com.vn/kinh-doanh/xuat-khau-tom-dat-422-ty-usd-can-dong-luc-canh-tranh-moi-ngoai-gia-ban-20261121150747966.htm",
+"summary": "(Dân trí) - Dù xuất khẩu 10 tháng đạt 4,22 tỷ USD, ngành tôm Việt Nam vẫn phải giải bài toán giá thành cao, sản xuất nhỏ lẻ để nâng cao vị thế cạnh tranh trong năm 2027.",
+"image": "https://cdnphoto.dantri.com.vn/ew8DypLmd6iylfEwmx7-G1UU4Ec=/2026/11/21/cong-nhan-thuy-sanhuynh-hai-1795247391367.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-21T17:04:50+07:00",
+"found": "2026-11-21T17:42:16+07:00"
 },
 {
 "id": "b511d452b178",
@@ -321,6 +431,17 @@
 "cat": "xh",
 "published": "2026-11-21T16:52:00+07:00",
 "found": "2026-11-21T17:11:19+07:00"
+},
+{
+"id": "bc2b74c22b6b",
+"title": "Quốc hội thông qua 38 luật, đặt mục tiêu tăng trưởng GDP năm 2027 đạt từ 10% trở lên",
+"link": "https://tuoitre.vn/quoc-hoi-thong-qua-38-luat-dat-muc-tieu-tang-truong-gdp-nam-2027-dat-tu-10-tro-len-100261121161036949.htm",
+"summary": "Kỳ họp thứ 2, Quốc hội khóa XVI đã thông qua 38 luật, 5 nghị quyết quy phạm pháp luật và quyết định nhiều vấn đề quan trọng của đất nước; đồng thời đặt mục tiêu triển khai đồng bộ các quyết sách, phấn đấu tăng trưởng GDP năm 2027 đạt từ 10% trở lên...",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/17952507561071113794694636773611111379469463677361107b4be06d1c37a746d2a2c2c83e14d2e-17952519715581405394768-0-0-1279-2047-crop-17952520742631381962959.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-21T16:51:00+07:00",
+"found": "2026-11-21T17:42:16+07:00"
 },
 {
 "id": "e36e97ab7e1b",
@@ -432,7 +553,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T16:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-21T16:55:49+07:00"
 },
 {
@@ -478,6 +599,17 @@
 "cat": "bds",
 "published": "2026-11-21T16:22:24+07:00",
 "found": "2026-11-21T16:40:17+07:00"
+},
+{
+"id": "9c03659ac0f6",
+"title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Azerbaijan",
+"link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-azerbaijan-100261121151440524.htm",
+"summary": "Tổng thống Azerbaijan Ilham Aliyev đề nghị hai bên khuyến khích doanh nghiệp hai nước thành lập liên doanh, tham gia đầu tư vào các dự án năng lượng tại cuộc hội đàm với Tổng Bí thư, Chủ tịch nước Tô Lâm.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/tbt-17952534633711408955513-247-233-3198-4955-crop-17952535646081592521635.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-21T16:21:00+07:00",
+"found": "2026-11-21T17:42:16+07:00"
 },
 {
 "id": "2567f4f4715c",
@@ -636,6 +768,17 @@
 "cat": "xh",
 "published": "2026-11-21T15:46:00+07:00",
 "found": "2026-11-21T15:53:55+07:00"
+},
+{
+"id": "315e8e152676",
+"title": "Công an điều tra vụ bé trai tử vong sau khi bất tỉnh tại lớp mầm non",
+"link": "https://tuoitre.vn/cong-an-dieu-tra-vu-be-trai-tu-vong-sau-khi-bat-tinh-tai-lop-mam-non-100261121150516416.htm",
+"summary": "Cơ quan công an đang điều tra nguyên nhân vụ bé trai 2 tuổi được phát hiện bất tỉnh, tím tái khi đang ở nhóm lớp mầm non tại xã Tây Hòa, Đắk Lắk, sau đó tử vong tại bệnh viện.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/be-trai-tu-vong-edit-1795251601961625666016-320-0-1700-2207-crop-1795251691939482111678.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-21T15:42:00+07:00",
+"found": "2026-11-21T17:42:16+07:00"
 },
 {
 "id": "3d590944f884",
@@ -1054,6 +1197,17 @@
 "cat": "xh",
 "published": "2026-11-21T14:43:00+07:00",
 "found": "2026-11-21T14:52:31+07:00"
+},
+{
+"id": "4c535cd1bb6a",
+"title": "Công an TP Huế thông tin về hai vụ án đang gây xôn xao trên mạng xã hội",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHQzM05PaHVKVy01enhwUUx2Tk9oSlFxY1haaGRCWE9Cd28zbF94ZE1wZkNDaVh0MkNDWG12ZDQxY0tCcUVhajhxUzB4WHMxNmU3VUpfb29rREItTVRJc1ZMQUxCdVBVWjdsWGxrMEREN0VjMGVLUGhuZjc5dEdSSHZ3VVlFeUF2MmkxVUF5ckZIbzhDa2tVRXVXaXRqM2FnMGNsd1RhV2ZmeVE?oc=5",
+"summary": "Nguồn: Báo Công Luận",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T14:42:58+07:00",
+"found": "2026-11-21T17:42:16+07:00"
 },
 {
 "id": "6b05f6c42d60",
@@ -27823,164 +27977,6 @@
 "cat": "xh",
 "published": "2026-11-19T07:59:00+07:00",
 "found": "2026-11-19T08:22:31+07:00"
-},
-{
-"id": "9d62c7026fbe",
-"title": "Đọc nhanh 19-11: Hơn 17.000 tỉ đồng cổ phiếu LPBank được sang tay, danh tính bên mua vẫn là ẩn số",
-"link": "https://tuoitre.vn/doc-nhanh-19-11-hon-17000-ti-dong-co-phieu-lpbank-duoc-sang-tay-danh-tinh-ben-mua-van-la-an-so-100261119073447729.htm",
-"summary": "Chứng khoán Mỹ phân hóa phiên 18-11. Giá dầu giảm mạnh sau thông tin tồn kho dầu thô và nhiên liệu Mỹ tăng cao. Trong nước, nhiều tin tức đáng chú ý liên quan đến VietinBank, LPBank, PNJ, Bảo Tín Minh Châu…",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/toa-nha-lpb-tower-ban-dem-bai-2-1024x767-17950476620771005721169.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T07:56:00+07:00",
-"found": "2026-11-19T09:25:52+07:00"
-},
-{
-"id": "6df70de256df",
-"title": "Quảng Ngãi: Dự án hơn 70 tỷ đồng dang dở sau 9 năm triển khai",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjhZT0Rra290UzlhU0t4TWp5UVJkUjhWRXpRNVRLemxqd1ZYVjZjZzQwQzJjRFNnOFFIZmE3U1RtVEhjM0lDMlkxaVFqNFhPTUd2by1RYkFLTFZ0Ylh0NEpET1hTdURQSTNMVjFlX1hLNlZ5d0M2THZrOHJUdkJ6OUZOdlgyNjlrWEhSWmRjYmx0aXEyTkhVOQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T07:55:00+07:00",
-"found": "2026-11-19T09:25:52+07:00"
-},
-{
-"id": "ac9d3f148906",
-"title": "Becamex Group (BCM) lập công ty con vốn 300 tỷ đồng, nợ vay tài chính vượt 26.200 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmNKR3lweHBXSzdUTjhMVXVpbXdrT1JiYlc5R3BpWWgwcUZyOGFrbWhRTmttT0NKd19jcl95b2x1RUVkNTJNdXItc2lRaGFnSTcwemRzeXBtTkk4SWVlcWQ3Rk5ZdF81YWFNWXEyLVBmZEtzYWhPX0Mza29UdHdtWDMzazZtT1NHWVJ3dGk2UnNmTWthbVMwekw0NFlrd09sRjFFYmhyVE1wZmdnX0RFaXdqbzdfTlczcnFR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T07:54:00+07:00",
-"found": "2026-11-19T07:58:28+07:00"
-},
-{
-"id": "23b56b565c3b",
-"title": "Giá vàng thế giới tiếp tục lao dốc hơn 3% trước tín hiệu từ Fed",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1R0VVZpVzFEOVpVbnlKOWYyVWE3dnJXQndONjRhSDNmdEpDem80M3Qyb25RZnVZWlc4d05xWW9kWWZrel9ySVZlMG5IX0R6aEJ6OHFXUjJKNEVOQmpkb09Eb3lyd2pma0FFTENPalZmTHhwQS16OEgxMHh5a0xoNWRfTUY0U0puTDVQdmNSbEUxSHhQV3NVbjVrUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T07:54:00+07:00",
-"found": "2026-11-19T07:58:28+07:00"
-},
-{
-"id": "ccb72901d65d",
-"title": "Thành phố có đường bờ biển dài nhất Việt Nam sẽ xây khu đô thị gần 10.000 tỷ đồng gần cây cầu không bắc qua dòng sông nào, khiến cả thế giới phải nhắc tên",
-"link": "https://kenh14.vn/thanh-pho-co-duong-bo-bien-dai-nhat-viet-nam-se-xay-khu-do-thi-gan-10000-ty-dong-gan-cay-cau-khong-bac-qua-dong-song-nao-khien-ca-the-gioi-phai-nhac-ten-215261119070549734.chn",
-"summary": "Khu đô thị Tây Bắc sườn đồi tại xã Bà Nà và Hòa Vang có diện tích 326ha, vốn đầu tư gần 10.000 tỷ đồng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795046598776-17950465990141517218124.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T07:52:00+07:00",
-"found": "2026-11-19T08:22:31+07:00"
-},
-{
-"id": "ba16a260c358",
-"title": "phá sản",
-"link": "https://cafef.vn/danh-tinh-nguoi-dan-ong-viet-nam-pha-san-o-tuoi-24-bi-chu-nha-duoi-phai-song-va-vat-trong-cong-vien-nay-la-chu-so-huu-cua-cong-ty-cung-cap-toi-1-trieu-don-vi-rang-nam-xuat-khau-sang-my-uc-188261118170332301.chn",
-"summary": "Danh tính người đàn ông Việt Nam phá sản ở tuổi 24, bị chủ nhà đuổi, phải sống vạ vật trong công viên: Nay là chủ sở hữu của công ty cung cấp tới 1 triệu đơn vị răng/năm, xuất khẩu sang Mỹ, Úc (CafeF)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm4fT_BV0el_dEOMTXtu16DfXexNJmbpbSspuwF2HgtIBXciDSa88yZ4TenkE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T07:50:00+07:00",
-"traffic": "500+",
-"found": "2026-11-19T08:22:31+07:00"
-},
-{
-"id": "3f2340883733",
-"title": "gemini 4 neon",
-"link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-"summary": "Introducing Gemini 4 Neon (blog.google)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpPjm-30CfRCgzv1E9OMsM3oaTs6yz9Qx4Ku0vgc5AOhVEQ4LnxYJeISKw2A",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T07:50:00+07:00",
-"traffic": "500+",
-"found": "2026-11-19T08:22:31+07:00"
-},
-{
-"id": "50c44b55a7a9",
-"title": "jennifer phạm",
-"link": "https://www.24h.com.vn/dep/ve-dep-diu-dang-o-tuoi-41-cua-hoa-hau-jennifer-pham-c78a1812085.html",
-"summary": "Vẻ đẹp dịu dàng ở tuổi 41 của Hoa hậu Jennifer Phạm (Tin tức 24h)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvd-6wnvRUmCEIFp4nQQEZugkjobRgbafjLZd8Iav5etFupjOiAnQ3b8Wn4g",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T07:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-19T08:37:39+07:00"
-},
-{
-"id": "b418b66820a6",
-"title": "Giá vàng hôm nay 19-11: Vàng thế giới giảm xuống đáy 14 tháng sau tín hiệu từ Fed",
-"link": "https://tuoitre.vn/gia-vang-hom-nay-19-11-vang-the-gioi-giam-xuong-day-14-thang-sau-tin-hieu-tu-fed-100261119072229981.htm",
-"summary": "Giá vàng thế giới tiếp tục giảm hơn 124 USD/ounce xuống còn 3.737 USD/ounce vào lúc 7h sáng 19-11, sau khi biên bản họp Fed cho thấy các quan chức vẫn lo ngại lạm phát và để ngỏ khả năng tăng lãi suất.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/179193950142821453623994696020182145362399469602018933b541e76b6e11daa00bdc6662dad8d-1795047126094181917887-547-732-1515-2281-crop-17950495082251108574660.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T07:49:00+07:00",
-"found": "2026-11-19T09:25:52+07:00"
-},
-{
-"id": "ae162c14744b",
-"title": "TP.HCM và Nam bộ hôm nay nắng nóng 35 độ C",
-"link": "https://thanhnien.vn/tphcm-va-nam-bo-hom-nay-nang-nong-35-do-c-18526111907324657.htm",
-"summary": "Trong khi đợt không khí lạnh cường độ mạnh đang tác động đến thời tiết ở nhiều nơi trên cả nước thì tại TP.HCM và Nam bộ nắng nóng đến 34 - 35 độ C.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-tnw-179504822455120012550051415708763568764129611676799496da6f7b0f076f2cc3bed2723207d20-1795048253493843941810-0-0-800-1280-crop-1795048314637467699227-17950483235381174510089.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-19T07:41:00+07:00",
-"found": "2026-11-19T07:43:18+07:00"
-},
-{
-"id": "ae1a842e76e0",
-"title": "Phố Wall phân hóa, S&P 500 nối dài chuỗi giảm điểm",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFYwazlmdHNfOV9nTjFicFlWWHhDblJXV2FkVUR4UFQweGtzelNSN3ZoREotQ29SS0pPRW94cGxmS0Y3T09pVEpsNFAtWGRYUEJkQUFTMEUtdXRrUzdUdVNYOXV6N1VVODNyR2dxWWVnVGtCVzlSME5pSWZheEd4TjVITlc2Y205M0E?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T07:40:07+07:00",
-"found": "2026-11-19T07:58:28+07:00"
-},
-{
-"id": "32284784de89",
-"title": "ngày quốc tê đàn ông",
-"link": "https://vnexpress.net/xom-o-ha-noi-mo-lon-lam-co-mung-ngay-quoc-te-dan-ong-5145246.html",
-"summary": "Xóm ở Hà Nội mổ lợn, làm cỗ mừng Ngày Quốc tế Đàn ông (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_SH2Q3_M3_BF0ZVLcurT4fSnFFl6hqTC9bOS8Dnugl-xiGmVtrozeIFFUl-o",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T07:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-19T07:58:28+07:00"
-},
-{
-"id": "58c484bcbf3a",
-"title": "TP.HCM quyết liệt sắp xếp, xử lý 10.257 nhà, đất công: Khơi thông nguồn lực, chống lãng phí",
-"link": "https://tuoitre.vn/tphcm-quyet-liet-sap-xep-xu-ly-10257-nha-dat-cong-khoi-thong-nguon-luc-chong-lang-phi-100261118235121635.htm",
-"summary": "UBND TP.HCM vừa phê duyệt phương án sắp xếp, xử lý 10.257 nhà, đất công sau tổ chức chính quyền địa phương 2 cấp, nhằm khơi thông nguồn lực cho phát triển và kiên quyết chống thất thoát, lãng phí.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/h2-tru-so-doi-du-17950199136621243574923-0-186-1440-2490-crop-17950200856121226274766-71-105-1196-1904-crop-17950506486821058106291.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T07:39:00+07:00",
-"found": "2026-11-19T09:25:52+07:00"
-},
-{
-"id": "a4f591b01401",
-"title": "Từ đêm nay không khí lạnh tăng cường",
-"link": "https://kenh14.vn/tu-dem-nay-khong-khi-lanh-tang-cuong-215261119065316291.chn",
-"summary": "Dự báo từ đêm nay (19/11), không khí lạnh tăng cường xuống nước ta khiến miền Bắc rét thêm, trong khi miền Trung đón mưa lớn diện rộng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/18/avatar1795045902110-17950459025391864690243.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T07:38:00+07:00",
-"found": "2026-11-19T07:58:28+07:00"
 }
 ]
 }
