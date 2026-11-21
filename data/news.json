@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T17:57:42+07:00",
-"new": 1,
+"updated": "2026-11-21T18:12:52+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 56
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "412e96011350",
+"title": "Miền Bắc sắp đón thêm đợt không khí lạnh mới, mưa to trở lại",
+"link": "https://kenh14.vn/mien-bac-sap-don-them-dot-khong-khi-lanh-moi-mua-to-tro-lai-21526112117583134.chn",
+"summary": "Theo dự báo, ngày mai, Bắc Bộ tăng nhiệt, nắng ấm trước khi đón đợt không khí lạnh mới.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795258607117-1795258607370759672717.jpeg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T18:02:00+07:00",
+"found": "2026-11-21T18:12:52+07:00"
+},
+{
 "id": "fd419f4bc987",
 "title": "Ngành tôm đặt mục tiêu xuất khẩu 4,7 tỉ USD",
 "link": "https://thanhnien.vn/nganh-tom-dat-muc-tieu-xuat-khau-47-ti-usd-185261121154105335.htm",
@@ -233,6 +244,17 @@
 "cat": "bds",
 "published": "2026-11-21T17:48:00+07:00",
 "found": "2026-11-21T17:57:25+07:00"
+},
+{
+"id": "48bc0b6e8390",
+"title": "Danh tính người phụ nữ U70 bật khóc khi đỗ bằng lái ô tô sau 6 lần trượt: Đằng sau là tâm nguyện đặc biệt",
+"link": "https://kenh14.vn/danh-tinh-nguoi-phu-nu-u70-bat-khoc-khi-do-bang-lai-o-to-sau-6-lan-truot-dang-sau-la-tam-nguyen-dac-biet-215261121175540775.chn",
+"summary": "Ở tuổi 66, khi nhiều người đã nghĩ đến việc nghỉ ngơi, người phụ nữ Tuyên Quang này vẫn quyết tâm đăng ký học và thi lấy giấy phép lái xe.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795258429710-17952584301101629312675-77-0-240-260-crop-17952584638981408980048.gif",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T17:48:00+07:00",
+"found": "2026-11-21T18:12:52+07:00"
 },
 {
 "id": "4b8fe8e91aba",
@@ -27957,28 +27979,6 @@
 "cat": "xh",
 "published": "2026-11-19T08:04:04+07:00",
 "found": "2026-11-19T09:07:59+07:00"
-},
-{
-"id": "de27fb200c73",
-"title": "Vua thị phần chưa chắc là vua trải nghiệm: 6 app chứng khoán tung “vũ khí”, cái tên nào sẽ chiếm lĩnh màn hình điện thoại của nhà đầu tư?",
-"link": "https://cafef.vn/vua-thi-phan-chua-chac-la-vua-trai-nghiem-6-app-chung-khoan-tung-vu-khi-cai-ten-nao-se-chiem-linh-man-hinh-dien-thoai-cua-nha-dau-tu-188261119080620009.chn",
-"summary": "Từ việc đưa trí tuệ nhân tạo trực tiếp vào khâu đặt lệnh đến xây dựng hệ sinh thái quản lý gia sản, các công ty chứng khoán đang mang đến những trải nghiệm đầu tư ngày càng khác biệt. Sau cuộc đua vốn, margin và thị phần, một mặt trận cạnh tranh mới đang nóng lên.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/app-chung-khoan-2-17950503592791741010715-0-11-675-1091-crop-17950503634024498127.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-19T08:04:00+07:00",
-"found": "2026-11-19T08:22:31+07:00"
-},
-{
-"id": "04f3b3ca7599",
-"title": "Chứng khoán 19-11: VN-Index áp sát mốc 1.700 điểm, có nên xuống tiền bắt đáy?",
-"link": "https://tuoitre.vn/chung-khoan-19-11-vn-index-ap-sat-moc-1700-diem-co-nen-xuong-tien-bat-day-100261119064238961.htm",
-"summary": "Vùng 1.690 - 1.700 điểm dự báo là phép thử quan trọng đối với VN-Index trong phiên 19-11. Các công ty chứng khoán cảnh báo rủi ro điều chỉnh tiếp tục gia tăng, khuyến nghị nhà đầu tư hạn chế bắt đáy.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/qdchungkhoanocbs66-1795044613581965293092.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T08:02:00+07:00",
-"found": "2026-11-19T09:25:52+07:00"
 }
 ]
 }
