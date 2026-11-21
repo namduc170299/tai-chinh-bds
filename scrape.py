@@ -44,7 +44,7 @@ FEEDS = [
     ("Thanh Niên", "tc", "https://thanhnien.vn/rss/kinh-te.rss"),
     ("Tuổi Trẻ", "tc", "https://tuoitre.vn/rss/kinh-doanh.rss"),
     # Báo Mới (baomoi.com) không còn RSS riêng -> lấy bài của Báo Mới qua Google News
-    ("Báo Mới", "bds", GN + "q=site:baomoi.com+(b%E1%BA%A5t+%C4%91%E1%BB%99ng+s%E1%BA%A3n+OR+nh%C3%A0+%C4%91%E1%BA%A5t+OR+chung+c%C6%B0)+when:2d"),
+    ("Báo Mới", "bds", GN + "q=site:baomoi.com+(b%E1%BA%A5t+%C4%91%E1%BB%99ng+s%E1%BA%A3n+OR+nh%C3%A0+%C4%91%E1%BA%A5t+OR+chung+c%C6%B0+OR+c%C4%83n+h%E1%BB%99+OR+d%E1%BB%B1+%C3%A1n)+when:7d"),
     ("Báo Mới", "tc", GN + "q=site:baomoi.com+(t%C3%A0i+ch%C3%ADnh+OR+ch%E1%BB%A9ng+kho%C3%A1n+OR+ng%C3%A2n+h%C3%A0ng+OR+l%C3%A3i+su%E1%BA%A5t)+when:2d"),
     # Xã hội: thời sự & pháp luật mới nhất
     ("VnExpress", "xh", "https://vnexpress.net/rss/thoi-su.rss"),
