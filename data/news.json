@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T12:10:20+07:00",
-"new": 19,
+"updated": "2026-11-21T12:21:06+07:00",
+"new": 16,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 60
+"count": 27
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,94 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "bcf9550104fe",
+"title": "Luật Kinh doanh bất động sản (sửa đổi): Siết đặt cọc, thanh toán, tăng bảo vệ người mua nhà",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcEtkX0lhOHp3ODZvdTd3UUNtWTVhMjZmYjJ3dVkyNmlrME1hTmlXUVYwbk5iMnpmSUo1RTJvdVk0cFhMT1FxUkVHdVIwRGExalp5ZjFWek9lZlgxb294b2JrS2FIVTVqT3M2MXBJMFZ0OEVsLVZoaWdTWEdDV18yRzI4UkU1a2hwX2EzdFpWcGNObkc0T2xOajgwTHN4UmlzbWE3Q2hQQzJ0WUFuT0p5UFE1YTZZQjFjNW5n?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T12:17:00+07:00",
+"found": "2026-11-21T12:21:06+07:00"
+},
+{
+"id": "913d8d957ea2",
+"title": "Cuộc đua AI mở 'mặt trận' cạnh tranh mới cho công ty chứng khoán - Tạp chí Nhà Quản Trị - TheLEADER",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNERGSDhEUEpQWFB4ZGVVLUdFbVVqMlZnRkF2RUpHbjRfSk1rcTVYV0Z0ZVRqZzJpcHpoTjAtZXc2QlZhNDN2RFFZcHFDVWw3dW52VkhLT0R3dUtqVDFpeUNBTmpFZUdDcnpWb0NBeDU3QW5xa29mMlk4azlyZlJIeUc2alNidWI0ZUI0dF94V1NnRHpRaHBBREpEbw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T12:17:00+07:00",
+"found": "2026-11-21T12:21:06+07:00"
+},
+{
+"id": "7b8a0cb38ac4",
+"title": "Không được tự do bán lại nhà ở xã hội sau 5 năm",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT0prNU5NUlp5UEVaRWM3N1hZQnlkWEZvWHZCSldzT0hIdUl4YkJ0X0xDc2d4a1NiNGoyNzgtU0VfSDRWVWhJem5EV0pWY2ZtU3lYMTVQa2I3N3ljcWFadXh2NE9OU2dpMFFfbTlNT09UZG54RWJQaURNajNyS3lGcVlfX0lEajQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T12:14:00+07:00",
+"found": "2026-11-21T12:21:06+07:00"
+},
+{
+"id": "0a73db4af48c",
+"title": "Cuộc đua mới quanh những nhà ga metro TP.HCM - Tạp chí Nhà Quản Trị - TheLEADER",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSERZaVBVOW1YWFRIWVBUS0hBWWhuWUFFN01PeWc2LU5tWGFjYkdrNG84Rk1wUkJGX1FKNVViSlFHY1dlcWU0Z3RHR3N4SWlnMlBrckEtTjVwdUVZMDFnMkl6WVQwTERLOUVDWENDemoxTjNqZXFyeU5udE8tdlpFV3lycw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T12:12:00+07:00",
+"found": "2026-11-21T12:21:06+07:00"
+},
+{
+"id": "6b2e38dfdf68",
+"title": "Xử lý cơ sở chữa bệnh &apos;nghe tả triệu chứng là tiêm&apos; ở Hà Nội",
+"link": "https://vietnamnet.vn/xu-ly-co-so-chua-benh-nghe-ta-trieu-chung-la-tiem-o-ha-noi-2577326.html",
+"summary": "Cơ sở khám, chữa bệnh trái phép ở Hà Nội bị phát hiện tiêm thuốc không rõ nguồn gốc cho người bệnh, chỉ định tiêm truyền qua mô tả triệu chứng, tiềm ẩn nguy cơ sốc phản vệ, tử vong.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/21/xu-ly-co-so-chua-benh-nghe-ta-trieu-chung-la-tiem-o-ha-noi-1141.jpg?width=0&s=Va5kC9UyQoeZtMTYfhlSBQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-21T12:11:13+07:00",
+"found": "2026-11-21T12:21:06+07:00"
+},
+{
+"id": "10f249e05bf4",
+"title": "Giảm giá 70-80%, nhiều người chen chân săn hàng 'sale khủng'",
+"link": "https://thanhnien.vn/giam-gia-70-80-nhieu-nguoi-chen-chan-san-hang-sale-khung-185261121013659536.htm",
+"summary": "Dù còn khoảng một tuần nữa mới đến Black Friday, nhiều cửa hàng thời trang tại TP.HCM đã tung chương trình giảm giá sâu, đồng giá, mua 1 tặng 1… thu hút đông đảo người trẻ tìm đến mua sắm, nhiều nơi đông khách đến mức không còn chỗ gửi xe.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-2aobore16lea5vsbpdorjsmhq2av9p3ckuprovjm-17951973608551664349125-320-0-1920-2560-crop-17951988702391619926192.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-21T12:10:00+07:00",
+"found": "2026-11-21T12:21:06+07:00"
+},
+{
+"id": "072c97551b2d",
+"title": "Luật Nhà ở (sửa đổi): Siết chuyển nhượng nhà ở xã hội, phát triển nhà cho thuê",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDNGV09JOTc2cUIxRFBkOFd1dEpnY0ZsM3IxUUlOSjlFNFc3N3hZd3ozRFNvS2xQaU81Nlc1bURwV3lOR2pfM1c0aEFSclJ0R2NweWM0TTUwcUwwaURZX2E3NEtnZjJnVk1RUVEyV2M4X2JVY2hqMEN2aGR2bDRQTlVIcnlQYTRFeVYtTzFoVFpKNmliajZ5NHRSRFVjanhBR01rbG5Rb09iUnc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T12:09:00+07:00",
+"found": "2026-11-21T12:21:06+07:00"
+},
+{
+"id": "082b29df738a",
+"title": "Việt Nam có gia đình giàu có với 2 người con thành đạt: Cha mẹ từng phải bán xe máy để khởi nghiệp, bán 4 - 5 kg vàng để trả lương nhân viên, 3 người trong nhà nay được phong Anh hùng Lao động",
+"link": "https://kenh14.vn/viet-nam-co-gia-dinh-giau-co-voi-2-nguoi-con-thanh-dat-cha-me-tung-phai-ban-xe-may-de-khoi-nghiep-ban-4-5-kg-vang-de-tra-luong-nhan-vien-3-nguoi-trong-nha-nay-duoc-phong-anh-hung-lao-dong-215261121092656516.chn",
+"summary": "Đây còn là một gia đình với truyền thống dạy con đặc biệt.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795227982013-1795227982539727674787.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T12:09:00+07:00",
+"found": "2026-11-21T12:21:06+07:00"
+},
+{
 "id": "30e5f02f41a6",
 "title": "Sau 5 năm, nhà ở xã hội vẫn phải bán lại đúng đối tượng",
 "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaEk1MkluZHNKVk5mcG1qV3BhbDVOOVQ2MFhpQkNjaTU0c1pQWGhROEFxUmpBQnNMN1RhT2RidDg1MVZIck1Mc0pibS1PTGdRbmhvc0dFY1F6ZTVJMWlORU84VTIwZUs0TENsQnU1RGh5Q3RqVmFhTTJhc3V5d1p3R2xKMGxRaGZqLU5hRHRreHA?oc=5",
@@ -257,6 +345,17 @@
 "found": "2026-11-21T12:10:20+07:00"
 },
 {
+"id": "4dd5de2a74bb",
+"title": "Cấm thu tiền giữ chỗ mua nhà hình thành trong tương lai",
+"link": "https://vnexpress.net/cam-thu-tien-giu-cho-mua-nha-hinh-thanh-trong-tuong-lai-5147383.html",
+"summary": "Theo luật mới vừa thông qua, chủ đầu tư không được thu tiền dưới mọi hình thức để bảo đảm việc ký hợp đồng mua trước khi dự án được phép kinh doanh.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/DJI0914-1795236441-7593-1795236774.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wF_r0JJFWlFnyadiGhvWkg",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-21T12:01:45+07:00",
+"found": "2026-11-21T12:21:06+07:00"
+},
+{
 "id": "a7a0e63b6f77",
 "title": "Kỳ họp thứ 2, Quốc hội khóa XVI: Quốc hội thông qua Luật Đất đai (sửa đổi)",
 "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaEJFV2ZPOEtqclBvaEFnTWV0cV9xRzV5aHM1QWQxTjU5MXNhdlMzRDhlY1lRaTl0am1obXE1WEpQV0lQX2trVk1TdnAxbmt1MlFFeFhpRGdEM191VE9HQURic1hKVmJkc3FtdmFVVEQtcmRFRjE1cS00V2FqbXRfOURSMk9jdC1BeGVMV2JfY2s2V2dTTDN3V0tRUFBGbzNmZHlmTkF3?oc=5",
@@ -288,6 +387,29 @@
 "cat": "xh",
 "published": "2026-11-21T12:00:00+07:00",
 "found": "2026-11-21T12:10:20+07:00"
+},
+{
+"id": "75f23c20791f",
+"title": "EVNHCMC rà soát điều kiện áp dụng quy chuẩn trạm sạc xe điện",
+"link": "https://vnexpress.net/evnhcmc-ra-soat-dieu-kien-ap-dung-quy-chuan-tram-sac-xe-dien-5147388.html",
+"summary": "EVNHCMC yêu cầu rà soát trạm sạc, đánh giá tác động đến lưới điện, kiểm tra hồ sơ đấu nối và hướng dẫn khách hàng đáp ứng yêu cầu về vận hành, an toàn điện từ 1/7/2027.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/2-1795235565-1666-1795235649.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uqbsv2cfidYj_ws66_aS1w",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-21T12:00:00+07:00",
+"found": "2026-11-21T12:21:06+07:00"
+},
+{
+"id": "44f41e064100",
+"title": "bạc",
+"link": "https://laodong.vn/tien-te-dau-tu/bien-dong-gia-bac-2111-bac-mieng-bac-thoi-giam-manh-1803509.ldo",
+"summary": "Biến động giá bạc 21.11: Bạc miếng, bạc thỏi giảm mạnh (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLfxWo3llc65ZmGvMA0V3Fgjp9c8zMHh2x0GjBLhFgq2poSJ4obZ83tGdxRHo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T12:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-21T12:21:06+07:00"
 },
 {
 "id": "4a897e52b910",
@@ -334,6 +456,17 @@
 "found": "2026-11-21T12:10:20+07:00"
 },
 {
+"id": "32c5a7bfc5ec",
+"title": "Công an Huế thông tin nguyên nhân 2 hiệu trưởng trường tiểu học bị khởi tố",
+"link": "https://dantri.com.vn/phap-luat/cong-an-hue-thong-tin-nguyen-nhan-2-hieu-truong-truong-tieu-hoc-bi-khoi-to-20261121102115432.htm",
+"summary": "(Dân trí) - Cơ quan chức năng thành phố Huế đang điều tra vụ án đưa, nhận hối lộ liên quan 2 hiệu trưởng trường tiểu học trên địa bàn.",
+"image": "https://cdnphoto.dantri.com.vn/D5LgSJFQQLw4q9T8iuvpA243mIc=/2026/11/21/truongtieuhoc-hue-vithao-edited-1795236297346.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-21T11:55:59+07:00",
+"found": "2026-11-21T12:21:06+07:00"
+},
+{
 "id": "e1751e8cda04",
 "title": "SOOBIN Hoàng Sơn công khai giấy khám bệnh, nam ca sĩ đang mắc bệnh gì mà gây xôn xao?",
 "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNlVVRWxrMkVrb1Z5NkF3Ri0yQ09TUXhBcWRGSkRBZFpuNnhpQ2w1bW14TFprLS1VcDYzbXFfOW9yeDQ3QW04dWo3VjhpdDFuY1l3b0JyamxBQThReG9sQ1pYeERFUmhpemlJU3gwODEtQmU4N0hOYjE1QXJjQTBYS29Hampxd19wVWpnU3otRVJKeWxRLVFQbHUwNTFnYmNna2Y0dHNjRVN2WWtIUjdES1hiMTZfeEpDQ0VrdlZTUVJ6ajBjTURKcERTYzNWMFE4dlRnVzZvVl9tQQ?oc=5",
@@ -365,6 +498,17 @@
 "cat": "xh",
 "published": "2026-11-21T11:49:07+07:00",
 "found": "2026-11-21T11:54:52+07:00"
+},
+{
+"id": "25db1d898b42",
+"title": "Vụ mua dâm người dưới 18 tuổi gây xôn xao ở Huế: Khởi tố 11 bị can",
+"link": "https://dantri.com.vn/phap-luat/vu-mua-dam-nguoi-duoi-18-tuoi-gay-xon-xao-o-hue-khoi-to-11-bi-can-20261121112859754.htm",
+"summary": "(Dân trí) - Cơ quan chức năng thành phố Huế đã khởi tố 11 bị can liên quan các hành vi quan hệ tình dục, mua dâm đối với người chưa thành niên.",
+"image": "https://cdnphoto.dantri.com.vn/-XbssGfNYOXlo1fude0VoDRH79Y=/2026/11/21/cong-an-tphue-thong-tin-vu-mua-dam-nguoi-duoi-18-tuoi-edited-1795234961171.jpg?watermark=v1",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-21T11:49:07+07:00",
+"found": "2026-11-21T12:21:06+07:00"
 },
 {
 "id": "fc312d1f1ac5",
@@ -442,6 +586,17 @@
 "cat": "xh",
 "published": "2026-11-21T11:45:00+07:00",
 "found": "2026-11-21T11:54:52+07:00"
+},
+{
+"id": "fab6b678e5ca",
+"title": "Xử phạt người phụ nữ đăng thông tin bịa đặt về người yêu của chồng cũ",
+"link": "https://dantri.com.vn/phap-luat/xu-phat-nguoi-phu-nu-dang-thong-tin-bia-dat-ve-nguoi-yeu-cua-chong-cu-20261121112832639.htm",
+"summary": "(Dân trí) - Từ mâu thuẫn, ghen tuông trong quan hệ tình cảm, người phụ nữ ở Phú Thọ sử dụng nhiều tài khoản mạng xã hội đăng tải bài viết, hình ảnh, bình luận có nội dung bịa đặt về người yêu của chồng cũ.",
+"image": "https://cdnphoto.dantri.com.vn/24SHcDc1UZ-CHDiejqU5pTbbV80=/2026/11/21/cong-an-xa-tam-duong-cropped-1795235110187.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-21T11:44:41+07:00",
+"found": "2026-11-21T12:21:06+07:00"
 },
 {
 "id": "fac61a6b23fb",
@@ -586,6 +741,17 @@
 "cat": "xh",
 "published": "2026-11-21T11:34:00+07:00",
 "found": "2026-11-21T11:54:52+07:00"
+},
+{
+"id": "9d92ea94112a",
+"title": "Ít nhất 15% ngân sách chi sự nghiệp khoa học dành cho công nghệ chiến lược",
+"link": "https://vnexpress.net/it-nhat-15-ngan-sach-chi-su-nghiep-khoa-hoc-danh-cho-cong-nghe-chien-luoc-5147349.html",
+"summary": "Quốc hội yêu cầu dành ít nhất 15% ngân sách nhà nước chi sự nghiệp khoa học cho nghiên cứu công nghệ chiến lược, đẩy mạnh khoán chi, đầu tư mạo hiểm và thương mại hóa kết quả nghiên cứu.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/202611121449493811-g3587189976-5671-2604-1795235601.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=h3jy58-hJ9QRRaS9Znh8ew",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-21T11:33:53+07:00",
+"found": "2026-11-21T12:21:06+07:00"
 },
 {
 "id": "bf48e4113e83",
@@ -1249,7 +1415,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T10:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-21T10:59:26+07:00"
 },
 {
@@ -1451,6 +1617,17 @@
 "cat": "bds",
 "published": "2026-11-21T10:24:47+07:00",
 "found": "2026-11-21T11:14:36+07:00"
+},
+{
+"id": "dfc1e238d8db",
+"title": "Nhà ở xã hội được chuyển nhượng theo giá thị trường nhưng phải đúng đối tượng",
+"link": "https://vnexpress.net/nha-o-xa-hoi-duoc-chuyen-nhuong-theo-gia-thi-truong-nhung-phai-dung-doi-tuong-5147341.html",
+"summary": "Từ 1/7/2027, nhà ở xã hội đã trả đủ tiền sau 5 năm được bán lại theo giá thị trường nhưng phải đúng đối tượng, thay vì chuyển nhượng tự do như hiện nay.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/1795225654176-g231198626839434-7948-1554-1795231320.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=X_5QuNTWTDyhtqgshuZfbQ",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-21T10:24:47+07:00",
+"found": "2026-11-21T12:21:06+07:00"
 },
 {
 "id": "9278e74a775b",
@@ -27817,184 +27994,6 @@
 "published": "2026-11-18T20:50:00+07:00",
 "traffic": "500+",
 "found": "2026-11-18T21:19:28+07:00"
-},
-{
-"id": "fcca3196afec",
-"title": "Nhóm cựu cán bộ khai không thể tiếp cận kiểm tra dự án CT6 Kiến Hưng",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGc3Wkt5TjFtcTd6Q3JQVVVXYUdPSkFQUE5HYmtyTzBDMEVTWUs5b2JiaGdtUURWRHhXLW1yaVZIbEdGRTdCVGRLQmp0bE5HWE55Vkc1WEdoSWp4T3V1MUFLdHdlYm5POVlWeTRfU21xcE9pdmYzRzVZWkJVdzBTUG9NOG05S01pYTlFbmxPWld1ZWstNVNvRjFqVENzaGdGWGdj?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T20:47:00+07:00",
-"found": "2026-11-19T10:47:50+07:00"
-},
-{
-"id": "6cab4cf8674f",
-"title": "Dự kiến thanh tra 5 doanh nghiệp vàng lớn về phòng, chống rửa tiền trong năm 2027",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkRUeXNpS3J6VXEwb2hnMGVtbV9pcGlueDdpWklkQ0JEUEdkcDVRRjZhcERCa1hUc1MxUmNCQjM1YVFiQ3NLTWZnYlhxTV84ZV8yZks5QUlJZ3dWSEVWT05wTnpfUk5HYksycW1WS1o4ZE1lSW04R1luRVItekVpZEhwQ3ZLeWNQN2tXZVdqdjk1NV93MTlqbmFJWTgwM01Ua3hKMFlwR0RYODgwOFJsRXBYNA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T20:46:00+07:00",
-"found": "2026-11-18T21:04:06+07:00"
-},
-{
-"id": "dae28b5bf21c",
-"title": "Dòng tiền thanh toán trái phiếu doanh nghiệp dự kiến đạt đỉnh vào tháng 12",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3Eyc0xwV0toR0xFNVN2ckR5MUpyY1VKYUpUeEZjSlpqc1kyVlN6dnhMdXliY3BMNGN6WldmNTh3aFZ6MEtoSUx6U1NrQVJsZWVNTER6OTR3cGVLMTZXR2t6YlUzYlVwOTFEZnJpXy1sY0FBTU9tNmlsaTZNZm5IOER4bUcwMUlJREUxQlZlZVlFWXpwUEFFY2J1aVNYNWZocmFjNVhrSWUzbTQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T20:46:00+07:00",
-"found": "2026-11-18T21:04:06+07:00"
-},
-{
-"id": "bdffb0062d3e",
-"title": "92% người Việt trả lời khảo sát UOB tự tin vào khả năng quản lý tài chính của mình",
-"link": "https://tuoitre.vn/92-nguoi-viet-tra-loi-khao-sat-uob-tu-tin-vao-kha-nang-quan-ly-tai-chinh-cua-minh-100261118200207631.htm",
-"summary": "62% người tham gia khảo sát tại Việt Nam lo ngại chi phí sinh hoạt gia tăng, người tiêu dùng chủ yếu chi cho các nhu cầu thiết yếu như điện, nước, gas, thực phẩm, đi lại, giáo dục và chăm sóc sức khỏe.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/paul-kim-edit-17950098515181752510-447-119-1333-1536-crop-1795010434676808408808.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T20:43:00+07:00",
-"found": "2026-11-18T21:34:38+07:00"
-},
-{
-"id": "ae3085422d00",
-"title": "'Anh Cơ quận 8' lĩnh án tử hình, người tình bị tuyên phạt tù chung thân",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWs3MXBJTkdoWDExZDNTc3k1Q2xOYzlnNnR3cWUwUlR0Tkxpdk9fc05hSmdnblA1TzA1bm5RQmpBZEJjUVBCX2J2RWt4Snp6X0lhekN6clhCWFlsSGkzSk5yMGZ6X0piNzh1NmJNZUZPSElST2x0cnhnN1QwVGVKRWNHNFlKX0ZDMWlNMGJWd1V0Z2hiak83aGxCWC1nbkxTSXQ0?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T20:42:00+07:00",
-"found": "2026-11-19T08:22:31+07:00"
-},
-{
-"id": "d8070dbe6dac",
-"title": "Việt Nam đang lên kế hoạch khôi phục sân bay ven biển, được xây dựng từ tận những năm 1950",
-"link": "https://kenh14.vn/viet-nam-dang-len-ke-hoach-khoi-phuc-san-bay-ven-bien-duoc-xay-dung-tu-tan-nhung-nam-1950-21526111820155488.chn",
-"summary": "Hiện, sân bay này đang được lên kế hoạch khôi phục, mở mới đường bay và đầu tư mở rộng, nhằm kết nối với Hà Nội, Đà Nẵng, Huế và khu vực miền Trung…",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/18/avatar1795007616159-1795007616698119285133.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-18T20:37:00+07:00",
-"found": "2026-11-18T21:04:06+07:00"
-},
-{
-"id": "828112fcf886",
-"title": "Tuyên án tử hình &apos;anh Cơ quận 8&apos; và 4 đồng phạm, hotgirl Ly Meo lĩnh 1 năm tù",
-"link": "https://vietnamnet.vn/tphcm-tuyen-an-tu-hinh-anh-co-quan-8-va-4-dong-pham-2576469.html",
-"summary": "TAND TPHCM tuyên án tử hình Lê Thanh Tú (biệt danh &quot;anh Cơ quận 8&quot;) cùng 4 bị cáo khác trong đường dây mua bán trái phép chất ma túy.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/tuyen-an-tu-hinh-anh-co-quan-8-va-4-dong-pham-hotgirl-ly-meo-linh-1-nam-tu-2935.jpg?width=0&s=WFbz2zNsp7HAtTp1fXpU8A",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T20:34:29+07:00",
-"found": "2026-11-18T20:05:11+07:00"
-},
-{
-"id": "80dd3965c5d3",
-"title": "Chân dung tân Giám đốc Tài chính Eximbank: 15 năm gắn bó với hệ sinh thái Techcombank, từng giữ chức Phó Tổng Giám đốc TCBS",
-"link": "https://cafef.vn/chan-dung-tan-giam-doc-tai-chinh-eximbank-15-nam-gan-bo-voi-he-sinh-thai-techcombank-tung-giu-chuc-pho-tong-giam-doc-tcbs-188261118203334281.chn",
-"summary": "Sau khoảng 15 năm đảm nhiệm nhiều vị trí quản lý cấp cao trong hệ sinh thái Techcombank, ông Ngô Hoàng Hà chính thức gia nhập Eximbank với vai trò Giám đốc Tài chính (CFO).",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/chan-dung-ong-ngo-hoang-ha-cfo-eximbank-17950084865512002017746-1795008668590-1795008669107705725496-0-0-749-1199-crop-1795008699878811859698.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-18T20:31:00+07:00",
-"found": "2026-11-18T21:04:06+07:00"
-},
-{
-"id": "60aa79029567",
-"title": "nguyễn quỳnh anh",
-"link": "https://vnexpress.net/hoa-hau-quynh-anh-bi-tuoc-danh-hieu-5146286.html",
-"summary": "Hoa hậu Quỳnh Anh bị tước danh hiệu (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QJW1NjZsLEj8cgaOuXza6YIXqAfEioDR5unjYumdHRSSSNq9d4-_KtMj3kw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T20:30:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-18T21:04:06+07:00"
-},
-{
-"id": "a36ac333a058",
-"title": "ngoại ngữ",
-"link": "https://hanoionline.vn/hop-tac-chuong-trinh-ngoai-ngu-246261118120302396.htm",
-"summary": "Hợp tác chương trình ngoại ngữ (Báo và Phát thanh Truyền hình Hà Nội)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjkdPwGMSHcsbDw4d9m7G_dhRs9688Li-U-FNmBaLdTJRFnL4djVncxLnEeC8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T20:30:00+07:00",
-"traffic": "100+",
-"found": "2026-11-18T21:04:06+07:00"
-},
-{
-"id": "522722562b56",
-"title": "Từng phải nhờ cậy đến chuyên gia Australia, Việt Nam nay tự làm chủ công nghệ hiện đại bậc nhất, tạo nên siêu công trình hơn 5.000 tỷ đồng",
-"link": "https://kenh14.vn/tung-phai-nho-cay-den-chuyen-gia-australia-viet-nam-nay-tu-lam-chu-cong-nghe-hien-dai-bac-nhat-tao-nen-sieu-cong-trinh-hon-5000-ty-dong-215261118200838768.chn",
-"summary": "Sau hơn 20 năm, Việt Nam đã làm được điều từng phải nhờ chuyên gia nước ngoài.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/18/avatar1795007146921-1795007147987546535592.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-18T20:26:00+07:00",
-"found": "2026-11-18T21:04:06+07:00"
-},
-{
-"id": "fcc86b98c2a3",
-"title": "Nhà dân nứt, lún do công trình thi công: Phía sau câu chuyện bồi thường",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObzBGbllGVnRXX2hnODBOalZRWFItYlRFdHpDX1pValEtOXdpUGZxVDRYQjlmNEZiY1JRM1BBbm5WczRrZFpxSzRMZGNTU2E1bjBLSXF5ODB3Vk1iN25WS0MzVDRzYnJFajFwWlB2WmJEQ3I2c0NkSjZza1pJMUhwTXhtcnd5ZHNpbDE5Y0UybnhLWUV4XzNCc0VFZUxSRXdxbHlJVg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T20:25:00+07:00",
-"found": "2026-11-19T10:47:50+07:00"
-},
-{
-"id": "e00e9887c949",
-"title": "Công ty con của Hanel Mirolin làm chủ đầu tư cụm công nghiệp Việt Ngọc",
-"link": "https://cafef.vn/cong-ty-con-cua-hanel-mirolin-lam-chu-dau-tu-cum-cong-nghiep-viet-ngoc-188261118190634165.chn",
-"summary": "Bắc Ninh quyết định thành lập cụm công nghiệp Việt Ngọc, xã Ngọc Thiện do Công ty Cổ phần Mirolin Bắc Ninh làm chủ đầu tư.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1795003511025-17950035118181060085914.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T20:24:00+07:00",
-"found": "2026-11-18T20:35:31+07:00"
-},
-{
-"id": "f0a950bc2f78",
-"title": "Người tiêu dùng Việt Nam dẫn đầu ASEAN về tâm lý lạc quan",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObUVkSUF0YlJCYTVFYU9FNnM2cmpDVC01OXN2VFZmbDY0bUlWMlQ0MGVSMHRhcDNnVmRKaFFlQTVMbXYtbE1mWHptM3F1dHVYTF9ER21yMHMyVmNWYU1TX21hd1lzMnNIdWdtMGVGcmk3N1ROeEFITHIwMF9iQWE5TkphTVdmQlcyd3dkYjluZllNSUY1?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T20:24:00+07:00",
-"found": "2026-11-18T20:35:31+07:00"
-},
-{
-"id": "065a6ce5f3d0",
-"title": "Hoa hậu Quỳnh Anh bị tước danh hiệu",
-"link": "https://vnexpress.net/hoa-hau-quynh-anh-bi-tuoc-danh-hieu-5146286.html",
-"summary": "BTC Miss Universe Vietnam thu hồi danh hiệu của Hoa hậu Quỳnh Anh sau hơn một tháng đăng quang vì cho rằng cô vi phạm điều khoản, chưa thực hiện đúng trách nhiệm.",
-"image": "https://vcdn1-giaitri.vnecdn.net/2026/11/18/QunhAnh1-1795007663-7891-1795007828.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EBs1zlJhWTcZMIzsk2uuHA",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-18T20:21:55+07:00",
-"found": "2026-11-19T10:32:41+07:00"
-},
-{
-"id": "9fb73699b9df",
-"title": "F88 cải chính thông tin về thành viên HĐQT Nguyễn Xuân Giao sau án phạt",
-"link": "https://vietnamnet.vn/f88-cai-chinh-thong-tin-ve-thanh-vien-hdqt-nguyen-xuan-giao-sau-an-phat-2574383.html",
-"summary": "CTCP Đầu tư F88 cải chính thông tin trong bản cáo bạch chào bán cổ phiếu, xác nhận thành viên HĐQT Nguyễn Xuân Giao giữ chức vụ tương tự tại 5 doanh nghiệp khác, thay vì 7 như đã công bố.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/f88-cai-chinh-thong-tin-ve-thanh-vien-hdqt-nguyen-xuan-giao-sau-an-phat-3119.jpg?width=0&s=9r531CdDySwKZb8xoCew7w",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-18T20:21:37+07:00",
-"found": "2026-11-18T20:20:21+07:00"
 }
 ]
 }
