@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T15:08:01+07:00",
-"new": 9,
+"updated": "2026-11-21T15:23:13+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,61 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "7f93c447862c",
+"title": "Cổ phiếu Novaland bán cho cổ đông bị... ế",
+"link": "https://cafef.vn/co-phieu-novaland-ban-cho-co-dong-bi-e-188261121151831464.chn",
+"summary": "Tập đoàn Novaland lần thứ hai kéo dài thời gian chuyển nhượng quyền mua, đăng ký và nộp tiền mua khi bán hơn 800 triệu cổ phiếu cho cổ đông hiện hữu. Tương tự, Công ty CP Đầu tư Thương mại SMC cũng kéo dài thêm gần 1 tháng thời gian đăng ký mua và nộp tiền cho đợt chào bán gần…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795249082991-17952490862161261034757.webp",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-21T15:18:00+07:00",
+"found": "2026-11-21T15:23:13+07:00"
+},
+{
+"id": "bd94a7d5abbc",
+"title": "Chuyển đổi số tái định hình nhân lực ngân hàng",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0F0QmZTTkUzY2pXWUZkNnZwMEh1b3N1OTJHSXhKa3QtajBBd2dZUkRBSVVENmFyTUp4SVo4Nl90UDY3NnhxVWN1SV9Iam42R3o2cU1INlBtYVJ5aVBTdXNHRVlLdHBrSEVtQmE2WGlYOWJzMDNXSk5JcTI0TzR4QkdmUGpnUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T15:10:14+07:00",
+"found": "2026-11-21T15:23:13+07:00"
+},
+{
+"id": "037b6c2840e3",
+"title": "Thiếu tá công an Trúc Mai vừa trở lại sóng VTV đã khiến khán giả bức xúc",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORmhXaGJVM1R0RVZ4Q1lNd2hsazNWNE8wZ3UxUXhtbTZvQkgtT3M3RXpjdW9JTDlhTDB3ZUtxcUhjQUZPUWNNMVVkRGFwNnVhaEFQVWlHblR0OUxRZVc1cTVtbWhuMDJaM2lpcFRjRGJhYXJWQi1qYXZGWkpQb1NRdmhCaU80MzRkMUN1M25TcnZWbXVTR1psV0FzTQ?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T15:09:01+07:00",
+"found": "2026-11-21T15:23:13+07:00"
+},
+{
+"id": "db05f1d25a43",
+"title": "Cổ đông ABBank sắp được mua thêm cổ phiếu tỷ lệ 50%, nhận thưởng 12%",
+"link": "https://thanhnien.vn/co-dong-abbank-sap-duoc-mua-them-co-phieu-ty-le-50-nhan-thuong-12-185261121143925344.htm",
+"summary": "Ủy ban Chứng khoán Nhà nước (UBCKNN) vừa cấp giấy chứng nhận cho ABBank chào bán hơn 803 triệu cổ phiếu giá 10.000 đồng cho cổ đông hiện hữu, đồng thời xác nhận đã nhận đủ hồ sơ phát hành gần 193 triệu cổ phiếu thưởng. Đây là cấu phần trọng tâm trong kế hoạch tăng vốn điều lệ…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/abbank-17952458660021942250983-62-0-956-1430-crop-17952465223541416032526.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-21T15:09:00+07:00",
+"found": "2026-11-21T15:23:13+07:00"
+},
+{
+"id": "3d89a1fe4fe7",
+"title": "Dự án cao tốc ở miền Trung có mức đầu tư 48.283 tỷ đồng vừa được Quốc hội thông qua: Dài 132 km, tốc độ tối đa 100 km/h, rút ngắn 50-60% thời gian di chuyển, đã chốt thời gian khởi công",
+"link": "https://kenh14.vn/du-an-cao-toc-o-mien-trung-co-muc-dau-tu-48283-ty-dong-vua-duoc-quoc-hoi-thong-qua-dai-132-km-toc-do-toi-da-100-km-h-rut-ngan-50-60-thoi-gian-di-chuyen-da-chot-thoi-gian-khoi-cong-215261121145618746.chn",
+"summary": "Cao tốc được kỳ vọng tháo gỡ điểm nghẽn giao thông, mở rộng kết nối liên vùng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795247728355-17952477289451837429700.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T15:08:00+07:00",
+"found": "2026-11-21T15:23:13+07:00"
+},
 {
 "id": "b9081504fff3",
 "title": "Thông qua Luật Nhà ở (sửa đổi), chốt điều kiện bán lại nhà ở xã hội sau 5 năm",
@@ -576,7 +631,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T14:00:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-21T14:22:05+07:00"
 },
 {
@@ -2320,17 +2375,6 @@
 "published": "2026-11-21T11:20:00+07:00",
 "traffic": "100+",
 "found": "2026-11-21T11:39:24+07:00"
-},
-{
-"id": "86fd0a393288",
-"title": "Thiếu tá công an Trúc Mai vừa trở lại sóng VTV đã khiến khán giả bức xúc",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcU1JOWlTdGNvMzM1X1A2Z3RZU2dkbVB6RnB5UVQxVEh4RUt4ejA1LVJreDZoSkp2YnpaNENnREUtbGNBNnhtaUhCNDJ3bW14ZXhTaVdRSm9QVDRKZDdUU0ZhTXdneVdwZkVxTllUbk1jcFVMY0ZjcHhyTVJfY3picTVueFZCUjRIYVRfblpnc2Nid3Y0?oc=5",
-"summary": "Nguồn: Báo VietNamNet",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T11:18:00+07:00",
-"found": "2026-11-21T11:23:57+07:00"
 },
 {
 "id": "5b8b261374a7",
@@ -27945,50 +27989,6 @@
 "source": "Báo Mới",
 "cat": "tc",
 "published": "2026-11-19T06:05:15+07:00",
-"found": "2026-11-19T06:15:11+07:00"
-},
-{
-"id": "d0e722aeeeba",
-"title": "Green SM của tỉ phú Phạm Nhật Vượng dẫn đầu nơi làm việc tốt nhất Việt Nam",
-"link": "https://thanhnien.vn/green-sm-cua-ti-phu-pham-nhat-vuong-dan-dau-noi-lam-viec-tot-nhat-viet-nam-185261118231032911.htm",
-"summary": "Tập đoàn Vingroup tiếp tục giữ vững vị trí thứ 6 trong bảng xếp hạng 100 Nơi làm việc tốt nhất VN năm 2026 do mạng cộng đồng nghề nghiệp Anphabe công bố ngày 18.11.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/anh-tin-vin-online-1795017786225488472051-42-0-682-1024-crop-17950181017791257064704.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-19T06:03:00+07:00",
-"found": "2026-11-19T06:15:11+07:00"
-},
-{
-"id": "b341b383b56a",
-"title": "Xử phạt tiệm net ở TP.HCM hoạt động sau 22 giờ",
-"link": "https://thanhnien.vn/xu-phat-tiem-net-o-tphcm-hoat-dong-sau-22-gio-185261118204817108.htm",
-"summary": "Sau loạt bài 'Tiệm net ở TP.HCM hoạt động sau 22 giờ bất chấp lệnh cấm' đăng trên Báo Thanh Niên, chính quyền địa phương đồng loạt vào cuộc kiểm tra, xử lý.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/-black-kingdom-pthanh-my-tay-nghiem-tuc-chap-hanh-dong-cua-luc-22-gio-theo-quy-dinhanh-ni-na-online-17950094294741292519726-109-0-749-1024-crop-1795012155333386359536.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T06:03:00+07:00",
-"found": "2026-11-19T06:15:11+07:00"
-},
-{
-"id": "6328a216d883",
-"title": "Hàng triệu người được xóa nợ lệ phí môn bài và tiền phạt chậm nộp",
-"link": "https://thanhnien.vn/hang-trieu-nguoi-duoc-xoa-no-le-phi-mon-bai-va-tien-phat-cham-nop-185261118221444466.htm",
-"summary": "Dự kiến từ ngày 21.11, người nộp thuế thuộc trạng thái 03, 06 có thể được xóa nợ lệ phí môn bài và tiền chậm nộp nếu đáp ứng các điều kiện quy định.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/tnw-thuend-1795014734428772454612-0-17-1092-1764-crop-179501474892572219413.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-19T06:02:00+07:00",
-"found": "2026-11-19T06:15:11+07:00"
-},
-{
-"id": "0ca144f1bc2d",
-"title": "Gấp rút đường kết nối TP.HCM tới sân bay Long Thành",
-"link": "https://thanhnien.vn/gap-rut-duong-ket-noi-tphcm-toi-san-bay-long-thanh-18526111822105674.htm",
-"summary": "Trước thời điểm Cảng hàng không quốc tế Long Thành chính thức đưa vào khai thác thương mại, một số đại lý vé máy bay đã bắt đầu hé lộ lịch bay dự kiến của các hãng nội địa đến và đi từ siêu sân bay này. Song song với việc theo dõi lịch mở bán vé, người dân TP.HCM và các tỉnh lân…",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/khu-vuc-cau-long-thanh-thuoc-du-an-mo-rong-cao-toc-tphcm-long-thanhanh-to-chi-hung-17950143735372061056763-58-0-1658-2560-crop-1795014529208675611193.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-19T06:00:00+07:00",
 "found": "2026-11-19T06:15:11+07:00"
 }
 ]
