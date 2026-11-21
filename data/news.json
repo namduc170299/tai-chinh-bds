@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T09:48:16+07:00",
-"new": 9,
+"updated": "2026-11-21T10:03:28+07:00",
+"new": 11,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,116 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "82feb7cdae2e",
+"title": "Ngắt điện khắc phục sự cố xe công nghệ tông gãy trụ điện trong hẻm ở TP.HCM",
+"link": "https://thanhnien.vn/ngat-dien-khac-phuc-su-co-xe-cong-nghe-tong-gay-tru-dien-trong-hem-o-tphcm-185261121093102077.htm",
+"summary": "Chiếc xe công nghệ lưu thông trong hẻm 107 Liên khu 4-5 (phường Bình Tân, TP.HCM) bất ngờ tông gãy trụ điện, khiến phần đầu xe hư hỏng nặng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/2111-tru-dien-2-1795227411495593905990-263-0-1863-2560-crop-17952280743901744750689.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-21T10:01:00+07:00",
+"found": "2026-11-21T10:03:28+07:00"
+},
+{
+"id": "0d91362c3543",
+"title": "Chàng trai biến những cuộn len thành búp bê có giá gần 1 triệu đồng",
+"link": "https://thanhnien.vn/chang-trai-bien-nhung-cuon-len-thanh-bup-be-co-gia-gan-1-trieu-dong-185261120183416194.htm",
+"summary": "Từ những cuộn len nhiều màu sắc, Nguyễn Văn Nghĩa (28 tuổi, quê Đồng Tháp) tạo nên những con búp bê khoác áo dài, áo bà ba, và trang phục của các dân tộc Việt Nam. Những sản phẩm thủ công độc đáo này đang được rất nhiều khách hàng trẻ yêu thích và tìm mua.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/anh-6-17951742318591507633075-108-0-1708-2560-crop-17951742413451494499221.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-21T10:00:00+07:00",
+"found": "2026-11-21T10:03:28+07:00"
+},
+{
+"id": "72bf1c5bac2a",
+"title": "Điểm tin xây dựng - bất động sản ngày 21/11: Quảng Ngãi đề xuất chuyển hơn 125 ha rừng làm khu đô thị",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQam9TN1d5aHItb2dtRjU0Uzd2RGZOVGtWc29Cbkh2ZFpWZERZcjZtbEp1ZFpPVWdCRzllS3kzcHRyVEhhTjZLZUZZcldNMlRYdzdNdFQzTDZpZGlNaXBYNXZNS1lRek5DS2lIdk1zZTJqUE5wdUZMdmMtTFBob3oxdllONkZDOEFCN3NmYjRWMlR2R1M1WGJyWjhBVFFpSnFSWW1PUTU2R1g5aEZIWTN0Snk1TzlqZmFMbmRvMVV1aE1kUXlGenVUMzJEMA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T09:59:00+07:00",
+"found": "2026-11-21T10:03:28+07:00"
+},
+{
+"id": "35df2f969a75",
+"title": "Quốc hội thông qua Luật Đất đai với nhiều quy định quan trọng về bồi thường, tái định cư",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWWRpdm5aZkM2Tzdud0E1TEFkbGtMWUpjVUJkUTVVdG4yWXA1ekwyZnFsenFFaTZrSmR5RVB0NmdzdlB4T1lSZndsNTUzRnBlMjZvemZWT2N6aS1xcHVYSGJjVEMtTm13MHBuYUx2VWFDWEQ4eDR5QjdLRHVpUW1NYXFVd3d3bWs3OUExcEVPdmFOTG9maUJRWVUwY1RVWHNoM0EtZDN1cE5CNkRmY3BIdGdrVThDcWF2cG4zMQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T09:56:12+07:00",
+"found": "2026-11-21T10:03:28+07:00"
+},
+{
+"id": "397d50db0d11",
+"title": "Giá vàng giảm chóng mặt về gần 3.500 USD/oz khi cổ phiếu AI bị bán tháo",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ21Xbmpac2kwT2R0dl9VNzNMSUUtZzFZZDE5RXB6am51TkhsZDRybkxPaU9PajBxOV9YcWZmOFRVQ0liVGJyNllXNm9vWGFCWlh4T1FIQlUtOWRZM290NGxtel9BQzQ5aVNnVl81Sk0xNTFIaWw2M2ZMOGNzTDlDRGYydW5ULXdQTmRIcERLRjB4UDNkUkQ2a0w5c2tueEVmZlVfSzdmdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T09:55:01+07:00",
+"found": "2026-11-21T10:03:28+07:00"
+},
+{
+"id": "beb20104b6cb",
+"title": "Mở rộng dư địa vay vốn nước ngoài: Cơ hội và thách thức",
+"link": "https://cafef.vn/mo-rong-du-dia-vay-von-nuoc-ngoai-co-hoi-va-thach-thuc-18826112109544298.chn",
+"summary": "Hạn mức vay nước ngoài trung, dài hạn tự vay, tự trả nâng lên 10 tỷ USD/năm mở thêm cơ hội cho doanh nghiệp. Tuy nhiên, khả năng huy động vốn chỉ phát huy hiệu quả khi gắn với năng lực trả nợ và kiểm soát rủi ro.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795229657326-1795229658164131017305.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-21T09:54:00+07:00",
+"found": "2026-11-21T10:03:28+07:00"
+},
+{
+"id": "92a2b8faf340",
+"title": "THACO huy động 3.000 tỷ đồng trái phiếu, dùng cổ phần Đại Quang Minh bảo đảm",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3IwU3RvQ0IzVHpoVkpaczlsTWRTU2E5SEpuaEEyOUoyLW0zSXhRTnh2Z1czdXQwSS00Y2tRV1pRRnBucGNQWDNhYmlPVURZSUlzNm04LWJWNm5Da3Nyb1lSN3B0V3Rxclh2VktUa001SnFSaUJPXzhHNE96eXBTV1RnYUszTm5DZllrbl9zVndIS255NUd6T2xDYjhyWnlrbXlTWm1YbUhCNV9m?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T09:52:00+07:00",
+"found": "2026-11-21T10:03:28+07:00"
+},
+{
+"id": "86d76b2b1be1",
+"title": "Chủ tịch DNSE: AI thu hẹp khoảng cách giữa nhà đầu tư cá nhân và tổ chức",
+"link": "https://cafef.vn/chu-tich-dnse-ai-thu-hep-khoang-cach-giua-nha-dau-tu-ca-nhan-va-to-chuc-188261121095040124.chn",
+"summary": "Ngày 20/11, sự kiện công nghệ thường niên DNSE Future Tech Summit 2026 đã diễn ra tại TP. Hồ Chí Minh, quy tụ hơn 500 nhà đầu tư cùng các chuyên gia tài chính, đầu tư và công nghệ, tập trung vào xu hướng ứng dụng AI tối ưu chiến lược đầu tư và phương pháp phân bổ tài sản theo…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795229416414-179522941687936496838.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-21T09:50:00+07:00",
+"found": "2026-11-21T10:03:28+07:00"
+},
+{
+"id": "874662b23481",
+"title": "Quốc hội 'chốt' nhà ở xã hội không được tự do bán lại sau 5 năm",
+"link": "https://thanhnien.vn/quoc-hoi-chot-nha-o-xa-hoi-khong-duoc-tu-do-ban-lai-sau-5-nam-185261121092603944.htm",
+"summary": "Từ 1.7.2027, người sở hữu nhà ở xã hội được bán lại theo giá thị trường sau 5 năm, nhưng chỉ được bán cho đối tượng thuộc trường hợp được mua nhà ở xã hội, không được chuyển nhượng tự do như hiện nay.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/261121090311017917952267399342162376588907177512g3194982797251543164bbd9e32798785ca09bd3a37f3d31f9e5-17952278952872008478303-0-0-885-1416-crop-1795227955429790433763.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-21T09:49:00+07:00",
+"found": "2026-11-21T10:03:28+07:00"
+},
+{
+"id": "76d24a43b93f",
+"title": "Thanh tra Chính phủ phát hiện loạt vi phạm tại Tập đoàn TKV và nhóm công ty con",
+"link": "https://kenh14.vn/thanh-tra-chinh-phu-phat-hien-loat-vi-pham-tai-tap-doan-tkv-va-nhom-cong-ty-con-215261121092444006.chn",
+"summary": "Qua thanh tra việc chấp hành pháp luật trong quản lý, khai thác than tại 13 điểm mỏ của 6 công ty than thuộc Tập đoàn Than – Khoáng sản Việt Nam trong giai đoạn 2020 – 2024, cơ quan chức năng phát hiện có 4 công ty khai thác vượt công suất theo giấy phép.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795227867850-17952278684441559580468.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T09:43:00+07:00",
+"found": "2026-11-21T10:03:28+07:00"
+},
 {
 "id": "b061b8314103",
 "title": "Tỷ giá USD hôm nay (21-11): Đồng USD hạ nhiệt",
@@ -322,6 +432,18 @@
 "cat": "tc",
 "published": "2026-11-21T09:23:52+07:00",
 "found": "2026-11-21T00:16:31+07:00"
+},
+{
+"id": "4e1f9f9c2af1",
+"title": "ngày văn hóa việt nam 24/11",
+"link": "https://tuoitre.vn/ngay-van-hoa-viet-nam-lan-dau-tien-san-khau-dien-anh-mien-giam-gia-ve-ran-ran-100261114162316694.htm",
+"summary": "Ngày Văn hóa Việt Nam lần đầu tiên: Sân khấu giảm giá vé ‘mua 2 tặng 1’, rạp phim ‘bung deal hết ý’ (Báo Tuổi Trẻ)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyaklDMHMmM00L0L5VwR1LTIWykJ6GvQnPk3F2HnR2l9g-7TeA3xFuO5J2ezo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T09:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-21T10:03:28+07:00"
 },
 {
 "id": "c245f7393816",
@@ -762,7 +884,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T08:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-21T08:58:32+07:00"
 },
 {
@@ -1761,7 +1883,7 @@
 "summary": "Trước những tranh chấp, bất ổn xảy ra tại các chung cư liên quan đến quỹ bảo trì chung cư 2%, câu hỏi đặt ra là liệu có nên để ban quản trị các chung cư nắm nguồn tiền hàng trăm tỉ đồng hay giao cho chủ đầu tư quản lý dưới sự giám sát chặt chẽ của cư dân và cơ quan chức năng?",
 "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-photo-1795179937851-179517993925046804081-1795179949160496004465-250-0-1500-2000-crop-17951799777731655277675.jpeg",
 "source": "Thanh Niên",
-"cat": "tc",
+"cat": "bds",
 "published": "2026-11-21T06:00:00+07:00",
 "found": "2026-11-21T06:14:20+07:00"
 },
@@ -6987,18 +7109,6 @@
 "cat": "tc",
 "published": "2026-11-20T14:11:00+07:00",
 "found": "2026-11-21T02:31:17+07:00"
-},
-{
-"id": "df9cab051269",
-"title": "ngày văn hóa việt nam 24/11",
-"link": "https://vietnamnet.vn/han-che-phuong-tien-luu-thong-quanh-san-van-dong-my-dinh-trong-3-ngay-2577018.html",
-"summary": "Hạn chế phương tiện lưu thông quanh sân vận động Mỹ Đình trong 3 ngày (Báo VietNamNet)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO9M6TXg68L22_fxB0TPdFAprTekRBeS5W4P4lWMVrJ2bL-1uBoSSjWnwmfrc",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T14:10:00+07:00",
-"traffic": "500+",
-"found": "2026-11-20T14:47:43+07:00"
 },
 {
 "id": "fb4526f57b28",
@@ -27894,116 +28004,6 @@
 "cat": "xh",
 "published": "2026-11-18T17:25:00+07:00",
 "found": "2026-11-18T17:36:56+07:00"
-},
-{
-"id": "1ec1254421f5",
-"title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Năng lực làm chủ công nghệ phải được nâng lên tương xứng với khát vọng phát triển",
-"link": "https://kenh14.vn/tong-bi-thu-chu-tich-nuoc-to-lam-nang-luc-lam-chu-cong-nghe-phai-duoc-nang-len-tuong-xung-voi-khat-vong-phat-trien-215261118172655055.chn",
-"summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm bày tỏ mong muốn hợp tác khoa học, công nghệ và đào tạo nhân lực Việt Nam – Vùng Vịnh lớn trở thành điểm sáng, đồng thời, đưa ra năm định hướng lớn.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/18/avatar1794997508540-17949975096651813961772.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-18T17:23:16+07:00",
-"found": "2026-11-18T17:52:26+07:00"
-},
-{
-"id": "e878b025eebd",
-"title": "Quảng Ngãi dừng 4 dự án tồn đọng, có dự án sau 7 năm vẫn 'bất động'",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT0xiUi1YZHYtUkwxVTJHM3dsRm9taS16dFlteDhFZlBmX29EcGlmR3RxQ1lfdC1VWlk2bGU2S1hfWTF1NXhRSjZoSDhVMjdCdzBra1o2aUQtcE96dElpdWRVT2QxcC1XMXdyS2otYWJzcEhrSXNSVVRGZWVJOTlvUmk2Tnpxa0pCVjZTN3p6ZmJFemN5Qmw4dVVSMVA5dw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T17:23:00+07:00",
-"found": "2026-11-18T17:36:56+07:00"
-},
-{
-"id": "a5c3ab77f407",
-"title": "Bắc Ninh giám sát việc giải quyết kiến nghị của cử tri và tiến hành giải trình nhiều vấn đề",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2JHR3JqbEJGRzRlbkljX0V3YlVDMUp6ZEpKZU16T2RYd2xySWVUSjkxZ08ycHQxdHlfRFc0MUZKcmhmVWx4TkxHdE5GMTJrT3EwcV85a2RJdVpnVDIxN3ZFNENnSU5JYlgxYlJoZWtCcXBCSkViWk5QalNVY2swUjNrdEhzckp4Um1peTVhRnJnazRrSlhPdkF3SFdzTy1tSnVRTDAzLUgzYWUzXzRjMC1ESVd3Q1FjTGprMUlqcHR5QQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T17:22:00+07:00",
-"found": "2026-11-18T17:36:56+07:00"
-},
-{
-"id": "ea883e42d2c4",
-"title": "Cuộc chiến lãi suất khiến cả nước Mỹ chao đảo",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2tQSHl3QUNEejVSVFY2YUs3QTRKLTI5NGJ5eGJVbkNHcEJHcFh4ODhzX2ZKUnd2UVlyaUJvdFpIVUoyUHhyTmlmWHpMZG5mZ0lQY2Z0UXFNVV9UY3dTNnJFY1Blc05nWHFFcmlSazB2SVhPbzVmeDI5ZFp5WXlEbTcwS0sydw?oc=5",
-"summary": "Nguồn: Znews",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-18T17:18:15+07:00",
-"found": "2026-11-20T01:45:22+07:00"
-},
-{
-"id": "ca72ae363cb4",
-"title": "Nghe nói có bắt nạt học sinh, 6 người đi đánh 'dằn mặt' bị xử tội giết người",
-"link": "https://tuoitre.vn/nghe-noi-co-bat-nat-hoc-sinh-6-nguoi-di-danh-dan-mat-bi-xu-toi-giet-nguoi-100261118164708659.htm",
-"summary": "6 người hùa nhau đi đánh \"dằn mặt\" một người bị cho là bắt nạt học sinh khiến người này bị nứt sọ nên cả 6 bị phạt tù về tội giết người.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/giet-nguoi-bat-nat-hoc-sinh-1-1794994906348794926968-0-0-1250-2000-crop-1794995116482770018234.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-18T17:17:00+07:00",
-"found": "2026-11-18T17:36:56+07:00"
-},
-{
-"id": "8ab4cb221108",
-"title": "Việt Nam tiếp tục dẫn đầu ASEAN về mức độ lạc quan của người tiêu dùng",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTZFaGM4NU9uUmpxZEJ1SHV3ZW10T19seEVtZ0p4MXdxVkxWeXlRU2FiRy11MEFEZ21KZXJQbXVDOHpYSWVhLThQYjlVWXpLQXNKSngzdG9mYnZuYXVnczMyY21MdWJMU0xKWFFrZWtkczhOOXkxeEp0elBKUjQyajNZa1MwSnh5X0JvdnVZbGFQdGhtNDBCa04xbzl2LWNqTzlYM0l3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T17:13:02+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "68e96447f095",
-"title": "Cận cảnh đôi rồng khổng lồ bên hồ Hoàn Kiếm gây xôn xao",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2tobzZwYURPZWF0Vi1TUEU3WWxTOWItWTc0QjBWbU8tZkdHSnl4RGZiZnlsNnlCdVZZRnNWNGJYSmlBZWx2bkxrTWVPT3dKWWZzQ0VUOWFTZEVWSW1OTWR5SjhEU3VKWnRLbWEzQnllNHRnaGNKTEVBUXNFNkxHR3lOYl8?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-18T17:12:13+07:00",
-"found": "2026-11-20T15:33:19+07:00"
-},
-{
-"id": "359e69324a08",
-"title": "Công an thông báo đến tất cả người tham gia giao thông ở Hà Nội ngay từ hôm nay",
-"link": "https://kenh14.vn/cong-an-thong-bao-den-tat-ca-nguoi-tham-gia-giao-thong-o-ha-noi-ngay-tu-hom-nay-215261118150855753.chn",
-"summary": "Công an thành phố Hà Nội đề nghị Nhân dân phối hợp, chấp hành.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/18/avatar1794989245820-17949892464241725912827.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-18T17:12:00+07:00",
-"found": "2026-11-18T17:36:56+07:00"
-},
-{
-"id": "fc3a8fc661e8",
-"title": "Nóng: Bảo Tín Minh Châu, PNJ, DOJI, SJC vào danh sách thanh tra năm 2027",
-"link": "https://cafef.vn/nong-bao-tin-minh-chau-pnj-doji-sjc-vao-danh-sach-thanh-tra-nam-2027-188261118165650139.chn",
-"summary": "Kế hoạch năm 2027 của Thanh tra Chính phủ có 49 cuộc thanh tra dự phòng. Trong số này có cuộc thanh tra việc chấp hành pháp luật về phòng, chống rửa tiền tại SJC, DOJI, PNJ, Phú Quý, Bảo Tín Minh Châu và một số đơn vị liên quan, dự kiến triển khai trong quý IV/2027.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/img0043-17949957463181871183739-0-38-315-542-crop-1794995753717544802347.jpeg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-18T17:11:00+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "c21b6549ccb4",
-"title": "Khối ngoại bán ròng hơn 1.100 tỷ đồng, VN-Index giảm mạnh",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVk9VNDF1WUd1Y3JxRlJMbkhXYWZnZ21UZUoyMXlBV1doQnlkRUlSN29ocjV2ZXJDNU5xQlpOQzVtbjBTRENZUDlWbTcteHVjXzlRX212NFU4Z1FJdC1PUS1IeDN2QmJjZGp3M3hsc2FPdDlBM2duWGllcDFORjJzUTVrTDRoeUl4ZE1haFVGM2lQa3M?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T17:06:36+07:00",
-"found": "2026-11-19T07:43:18+07:00"
 }
 ]
 }
