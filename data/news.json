@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T08:17:18+07:00",
-"new": 14,
+"updated": "2026-11-21T08:43:22+07:00",
+"new": 15,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,138 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "fdd0149f54a5",
+"title": "Giá vàng hôm nay 21/11: Lao dốc gần 87 USD, mất mốc 3.600 USD/ounce",
+"link": "https://vietnamnet.vn/gia-vang-hom-nay-21-11-the-gioi-di-xuong-vang-sjc-giam-manh-2577216.html",
+"summary": "Giá vàng thế giới lúc 0h11 ngày 21/11 (giờ Việt Nam) giảm mạnh, mất mốc 3.600 USD/ounce. Kim loại quý có thời điểm rơi xuống gần 3.514 USD/ounce, trước khi hồi phục nhẹ nhưng vẫn chịu áp lực bán lớn.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/21/ounce-44.jpg?width=0&s=iTcxU1-Sw-O_MSPoFDD6Lw",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-21T08:40:17+07:00",
+"found": "2026-11-21T00:16:31+07:00"
+},
+{
+"id": "e850cd4477ce",
+"title": "Giá nhà ở xã hội tăng gấp 3 lần sau 5 năm, đề xuất 'khóa' người mua",
+"link": "https://cafef.vn/gia-nha-o-xa-hoi-tang-gap-3-lan-sau-5-nam-de-xuat-khoa-nguoi-mua-188261121075906812.chn",
+"summary": "Dự thảo Luật Nhà ở (sửa đổi) mới nhất đề xuất sau 5 năm, chủ sở hữu chỉ được bán lại cho người đủ điều kiện mua nhà ở xã hội, dù giá chuyển nhượng do hai bên tự thỏa thuận. Bộ Xây dựng muốn ngăn trục lợi chính sách, nhưng đề xuất này đang vấp phải những ý kiến trái chiều về…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795222415261-1795222415525687095815.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-21T08:38:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
+},
+{
+"id": "12e5dc7a233d",
+"title": "Điều gì xảy ra nếu những chuyến tàu không còn về ga Hà Nội, Giáp Bát?",
+"link": "https://vietnamnet.vn/dieu-gi-xay-ra-neu-tau-khong-con-ve-ga-ha-noi-giap-bat-2576920.html",
+"summary": "Đề xuất chuyển hoạt động khai thác đường sắt tại các ga Hà Nội, Giáp Bát về khu vực Phú Xuyên đặt ra nhiều vấn đề về tổ chức vận tải, trung chuyển hàng hóa và kết nối hành khách với trung tâm.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/dieu-gi-xay-ra-neu-nhung-chuyen-tau-khong-con-ve-ga-ha-noi-giap-bat-3295.jpg?width=0&s=5mJM61i2VvrrdlGdRKa16A",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-21T08:34:47+07:00",
+"found": "2026-11-21T05:43:42+07:00"
+},
+{
+"id": "40a17cc8285e",
+"title": "5 giải pháp giúp giảm nứt tường khi xây nhà",
+"link": "https://cafef.vn/5-giai-phap-giup-giam-nut-tuong-khi-xay-nha-188261121082855566.chn",
+"summary": "Từ lựa chọn vật liệu đến kỹ thuật thi công, nhiều yếu tố có thể ảnh hưởng đến độ bền của tường, vậy làm thế nào để hạn chế nứt tường khi xây nhà?",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795224519441-17952245199831294694693.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-21T08:28:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
+},
+{
+"id": "302ba6e6e09a",
+"title": "Ngụy trang hơn 128 kg ma túy trong túi cà phê, hộp giày để giao khắp TPHCM",
+"link": "https://kenh14.vn/nguy-trang-hon-128-kg-ma-tuy-trong-tui-ca-phe-hop-giay-de-giao-khap-tphcm-21526112107435619.chn",
+"summary": "Các đối tượng trong đường dây ma túy sử dụng ứng dụng giao hàng công nghệ, cố tình nhập sai số điện thoại người nhận, ngụy trang ma túy trong túi cà phê, hộp giày, thùng trái cây nhằm qua mặt cơ quan chức năng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795221819547-17952218242181121132635.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T08:26:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
+},
+{
+"id": "68bb2897f9d0",
+"title": "Cách đo khoảng cách, diện tích đất bằng Google Maps",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYVJnZzZkYk01TXQtMmk3RFZuNFhSdDdEMWZaMldTRjNFazFsdWdtSTlCVmRlcWctcXZncU9zME14cndfSzUtaGR1aFJRMFBkTlRZbC1RcldKT1hyaWlNOHVVa2NpVFhHR1V3S2R6LVJTZXFfNFYzbVE4ZUdKeFIxRkgxb1c5Qm4wOGFJ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T08:23:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
+},
+{
+"id": "8b32cae94dc3",
+"title": "Được thừa kế bất động sản, vì sao nhiều người Nhật Bản sợ hãi từ chối?",
+"link": "https://cafef.vn/duoc-thua-ke-bat-dong-san-vi-sao-nhieu-nguoi-nhat-ban-so-hai-tu-choi-188261121082204549.chn",
+"summary": "Nhà đất thừa kế luôn được xem là khoản lộc lớn, thế nhưng rất nhiều người Nhật Bản từ chối thừa kế bất động sản hoặc tìm cách né tránh đứng tên nhà đất được để lại.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795224105977-1795224106701330232789.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-21T08:21:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
+},
+{
+"id": "83cf7ac074b9",
+"title": "Bên trong các khu tập thể cũ dọc đường Giải Phóng trước ngày mở rộng Quốc lộ 1A",
+"link": "https://cafef.vn/ben-trong-cac-khu-tap-the-cu-doc-duong-giai-phong-truoc-ngay-mo-rong-quoc-lo-1a-188261121082038039.chn",
+"summary": "Dọc đường Giải Phóng (Hà Nội), những khu tập thể cũ với ban công cơi nới, hành lang chật hẹp đang nằm trong diện giải phóng mặt bằng để mở rộng Quốc lộ 1A.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795223946500-17952239469811458042761.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-21T08:19:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
+},
+{
+"id": "bfa6d7cbc8e9",
+"title": "Hà Nội thông tin về dự án cải tạo sông Tô Lịch sau gần 1 năm khởi công",
+"link": "https://cafef.vn/ha-noi-thong-tin-ve-du-an-cai-tao-song-to-lich-sau-gan-1-nam-khoi-cong-18826112107563516.chn",
+"summary": "Phó Chủ tịch UBND thành phố Hà Nội Đỗ Anh Tuấn cho biết thành phố đang điều chỉnh quy hoạch, tập trung hoàn thiện hệ thống dẫn nước thải về Nhà máy xử lý nước thải Yên Xá, đồng thời nghiên cứu phương án bổ cập nước từ sông Hồng nhằm duy trì mực nước và cải thiện chất lượng nước…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795222265534-17952222676531733716763.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-21T08:18:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
+},
+{
+"id": "7e90556b3691",
+"title": "Giá vàng hôm nay 21/11: SJC, Bảo Tín Mạnh Hải, Bảo Tín Minh Châu, PNJ,... đồng loạt giảm",
+"link": "https://cafef.vn/gia-vang-hom-nay-21-11-sjc-bao-tin-manh-hai-bao-tin-minh-chau-pnj-dong-loat-giam-188261121081706324.chn",
+"summary": "Giá vàng trong nước sáng 21/11 tiếp tục có sự điều chỉnh giữa các thương hiệu.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795223797980-1795223798486835102272.jpeg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-21T08:16:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
+},
+{
+"id": "1c29bb9542b6",
+"title": "Thay đổi đáng lưu ý về kỳ chi trả lương hưu tháng 12/2026: Người nhận lương hưu, trợ cấp BHXH cần biết",
+"link": "https://kenh14.vn/thay-doi-dang-luu-y-ve-ky-chi-tra-luong-huu-thang-12-2026-nguoi-nhan-luong-huu-tro-cap-bhxh-can-biet-215261121000830626.chn",
+"summary": "Theo Phụ lục ban hành kèm Công văn 1343/BHXH-TCKT năm 2025, lịch chi trả lương hưu tháng 12 2026 được chi trả qua tài khoản cá nhân vào ngày 01/12/2026 hoặc ngày 02/12/2026, tùy từng tỉnh, thành.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795194489867-1795194491312483384422.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T08:15:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
+},
+{
+"id": "d494ec698bb2",
+"title": "Sun Group sẽ làm khu đô thị lấn biển 72.200 tỷ đồng tại hòn đảo đẹp bậc nhất châu Á, liên tục được Oscar du lịch vinh danh",
+"link": "https://cafef.vn/sun-group-se-lam-khu-do-thi-lan-bien-72200-ty-dong-tai-hon-dao-dep-bac-nhat-chau-a-lien-tuc-duoc-oscar-du-lich-vinh-danh-1882611210254457.chn",
+"summary": "Công ty TNHH Mặt trời Phú Quốc (thành viên Sun Group) sẽ đầu tư Khu đô thị hỗn hợp lấn biển Bãi Xếp ở phía nam Đặc khu Phú Quốc. Dự án này có diện tích 83,6 ha, hiện trạng toàn bộ là mặt biển.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/phu-quoc-17506756503251936667562-17952044427191297509917-0-200-1125-2000-crop-17952044482531158207405.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-21T08:14:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
+},
+{
 "id": "50a4d17b1cae",
 "title": "Thêm một vụ hành hình bằng tiêm thuốc độc gây xôn xao dư luận Mỹ",
 "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHhWRnVQVjBFemdra0kzRUlzcnZybHlCSFdLcC1SZ2Q5UWZBeHFURERNZnFBRGIxYVBwa0hRU2xuZXRsNDlqbEFxSDMxT2pFUm1KSnZIWXBZNmVOV083b0xaa0hUR1hkck5pZVRKRXZveTlVYmVxRlp3UE9VY0c0V3RrRk00MTVIS3A3MDl5QklncF94OWVVNzNkSlRfX2szUzFXNXAxQTFTNks2?oc=5",
@@ -222,6 +354,41 @@
 "cat": "xh",
 "published": "2026-11-21T08:11:00+07:00",
 "found": "2026-11-21T08:17:18+07:00"
+},
+{
+"id": "d257bfba3a47",
+"title": "toyota",
+"link": "https://www.foxbusiness.com/lifestyle/over-314k-older-toyota-lexus-vehicles-recalled-potentially-dangerous-airbag-issue",
+"summary": "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue (Fox Business)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzobVXI7_PZf3zcKlH8gXPV2zZh38_F9GPFV4OI2ThuEbjT75a5bxqRbf1_7k",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T08:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-21T08:43:22+07:00"
+},
+{
+"id": "8c3546055e99",
+"title": "sầu riêng",
+"link": "https://www.24h.com.vn/thi-truong-tieu-dung/sau-rieng-ri6-giam-gia-manh-khi-vao-mua-thu-hoach-ro-tai-dong-thap-c52a1812801.html",
+"summary": "Sầu riêng Ri6 giảm giá mạnh khi vào mùa thu hoạch rộ tại Đồng Tháp (Tin tức 24h)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJrmPBDEA3FGULHtdEEMR6bwnYcN4ptfqNxDQ4zBVDnGpu0k2wkoSJKGYlKRI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T08:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-21T08:43:22+07:00"
+},
+{
+"id": "9563544b9402",
+"title": "Sau cơn sốt tăng giá, vàng đối mặt với phép thử lớn trong năm 2026",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGJ2cEpiQUxhZ1JtNVJIcnJJTVloWklGUi1oeHlKeTVJam1DeG1uMXRlLXpaVDV6ZjJOQnNieDlVNEFxVmZzb2lRMFJaUXFaVGxYdkFwc016U2ZySVA0MGFXdU9vR0VOSm50VmZhRUd6ZGthT0stbGdCb2R2M2s5TDFDVURwZHd4cUNpQWN2YVc3N0RSSUkzRC1KVkZxdTA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T08:08:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
 },
 {
 "id": "d88d1d21efab",
@@ -488,7 +655,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T07:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-21T07:46:21+07:00"
 },
 {
@@ -511,7 +678,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T07:10:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-21T07:30:37+07:00"
 },
 {
@@ -635,7 +802,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T06:50:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-21T07:15:28+07:00"
 },
 {
@@ -706,6 +873,17 @@
 "published": "2026-11-21T06:40:00+07:00",
 "traffic": "200+",
 "found": "2026-11-21T07:00:19+07:00"
+},
+{
+"id": "e0c212812bbe",
+"title": "Giá vàng hôm nay (21-11): Tiếp tục giảm mạnh",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nUU5tajFxMVdSU2U5a2tSX3E5cGlsSkhjWTB6UkNuQ2JVOEt5UnpFSC1aQk9yMjZHYW9lTnk3aXFTTHZWbVMtTDNTRmJVbzRiSkh2TWFaOF9mUzZlVEFvMDJCUUctdDBMUGE1YXJfajh0ZDNCTVRzc3B5X3E0NUE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T06:36:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
 },
 {
 "id": "1a95e125a7eb",
@@ -1057,17 +1235,6 @@
 "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/hon-20-thang-dao-ham-khoet-nui-lam-cuc-pin-khong-lo-21-2722.png?width=0&s=7NNTzvAHAJOPOvhkpVno_g",
 "source": "VietnamNet",
 "cat": "tc",
-"published": "2026-11-21T05:30:00+07:00",
-"found": "2026-11-21T05:43:42+07:00"
-},
-{
-"id": "12e5dc7a233d",
-"title": "Điều gì xảy ra nếu những chuyến tàu không còn về ga Hà Nội, Giáp Bát?",
-"link": "https://vietnamnet.vn/dieu-gi-xay-ra-neu-tau-khong-con-ve-ga-ha-noi-giap-bat-2576920.html",
-"summary": "Đề xuất chuyển hoạt động khai thác đường sắt tại các ga Hà Nội, Giáp Bát về khu vực Phú Xuyên đặt ra nhiều vấn đề về tổ chức vận tải, trung chuyển hàng hóa và kết nối hành khách với trung tâm.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/dieu-gi-xay-ra-neu-nhung-chuyen-tau-khong-con-ve-ga-ha-noi-giap-bat-3295.jpg?width=0&s=5mJM61i2VvrrdlGdRKa16A",
-"source": "VietnamNet",
-"cat": "xh",
 "published": "2026-11-21T05:30:00+07:00",
 "found": "2026-11-21T05:43:42+07:00"
 },
@@ -1489,17 +1656,6 @@
 "published": "2026-11-21T00:20:00+07:00",
 "traffic": "500+",
 "found": "2026-11-21T02:58:44+07:00"
-},
-{
-"id": "fdd0149f54a5",
-"title": "Giá vàng hôm nay 21/11: Lao dốc gần 87 USD, mất mốc 3.600 USD/ounce",
-"link": "https://vietnamnet.vn/gia-vang-hom-nay-21-11-the-gioi-di-xuong-vang-sjc-giam-manh-2577216.html",
-"summary": "Giá vàng thế giới lúc 0h11 ngày 21/11 (giờ Việt Nam) giảm mạnh, mất mốc 3.600 USD/ounce. Kim loại quý có thời điểm rơi xuống gần 3.514 USD/ounce, trước khi hồi phục nhẹ nhưng vẫn chịu áp lực bán lớn.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/21/ounce-44.jpg?width=0&s=iTcxU1-Sw-O_MSPoFDD6Lw",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-21T00:15:31+07:00",
-"found": "2026-11-21T00:16:31+07:00"
 },
 {
 "id": "8124c2628b2d",
@@ -2591,6 +2747,17 @@
 "cat": "xh",
 "published": "2026-11-20T20:04:00+07:00",
 "found": "2026-11-20T20:18:36+07:00"
+},
+{
+"id": "4998b95d0c3f",
+"title": "Hết thời tăng nóng, chuyên gia hé lộ triển vọng giá vàng",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM0ZBYXBtdl9yTERIeHZpVk5vOFJGOTBKZ1N2ODBjTS1SYTRiOFFkbzZSeE9qUXd0Uk1LbTBUYS1wWW5mbERkMzhxRVVBX2xWdUhMZ1RFNkpMa1VUSVNOXzFCSk82MUFxNS1qcTBpdm11eDBBZ1ROWHJvZ05aTGk5bTVCbWJMc2VjSnhlV1lCOG5Edw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T20:03:00+07:00",
+"found": "2026-11-21T08:43:22+07:00"
 },
 {
 "id": "fa10489c6e5b",
@@ -27834,172 +28001,6 @@
 "cat": "xh",
 "published": "2026-11-18T16:16:00+07:00",
 "found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "975aae3c340c",
-"title": "Căn hộ chung cư được thừa kế qua các thế hệ ra sao?",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMy1veHNMb19zekxuOF9xQUJQYVAzbG81Wkl3eThVWm5TM0R0cVcwRDM2SXZpaVNOMXVXenhhQUlMNGZwLTZiZGl6UFMxTTduMGNUMDRaWGxnVEhMZG1UVE5TekxaU2ZjU0FVS3dhZDFJaFZ5ajdxUHpWUzBLTmdwNlVPSkNfTkh3Ri1F?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T16:15:00+07:00",
-"found": "2026-11-18T16:46:44+07:00"
-},
-{
-"id": "98f6420f0c0e",
-"title": "Dự án nghỉ dưỡng ồ ạt san đất đá, lấn hàng trăm mét ra biển Nha Trang",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWl9ENkloQXo5cHV3aDdUVWFfQ212MUhuNS1aNS1KUlI4blZLX2g1OFZWbkozTXFzOG4ySXdxR2RsLURPd0ZYd1V0TWo2b25UTlFQaWo2QzdMOHBJU3hfZnBpeUI3MTlxZGVzaDJOU2Vyd2lVTDJrb0Q5VExzWUtUODBfTTdEaFE0TjJ3aFctUzVWZE43dWMwTGtjTU1pNUppc1VJ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T16:15:00+07:00",
-"found": "2026-11-19T07:05:44+07:00"
-},
-{
-"id": "67435ac62fee",
-"title": "Lãnh đạo gắn bó với Chứng khoán APEC từ năm 2009 xin rời HĐQT",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaE9WakJZWlI0R2xCOGo5TjZzUmZhOFVXSldvUWlMOExKZS1aa3ladnVFYURreDlTLWpBVmxkZGhab1hXVEllbUJWWGpmT2xGQWNsMzl2d2lmaUxnc28yQzBYY1FlajdFM2hmU1g0NzB2WnhPS2FSekZkNUlVOUl5RGtkNFptTVR3NnNXcy1tbU5MOEhLZldhcW1B?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T16:14:40+07:00",
-"found": "2026-11-18T16:46:44+07:00"
-},
-{
-"id": "babb8fa6b1df",
-"title": "Blog chứng khoán: Phái sinh vẫn hi vọng?",
-"link": "https://vneconomy.vn/blog-chung-khoan-phai-sinh-van-hi-vong.htm",
-"summary": "Một phiên mở biên độ giảm dữ dội xuất phát từ sự giải tỏa ức chế theo hướng tiêu cực. Thanh khoản không cao do bên cầm tiền cũng chẳng việc gì phải vội.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/18/971ca7873b3240c88a09c11d4989f4c9-136746.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-18T16:14:31+07:00",
-"found": "2026-11-18T16:46:44+07:00"
-},
-{
-"id": "91ed198e0277",
-"title": "Công đoàn EVNHCMC được tuyên dương điển hình ‘Dân vận khéo’ cấp thành phố năm 2026",
-"link": "https://thanhnien.vn/cong-doan-evnhcmc-duoc-tuyen-duong-dien-hinh-dan-van-kheo-cap-thanh-pho-nam-2026-185261118162800096.htm",
-"summary": "Ngày 17.11.2026, tại Hội trường Thành ủy TP.HCM, Công đoàn Tổng công ty Điện lực TP.HCM (EVNHCMC) là một trong những tập thể được tuyên dương điển hình 'Dân vận khéo' cấp thành phố năm 2026.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/1-17949938055161242565649-58-0-924-1386-crop-1794993960989923770238.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-18T16:13:00+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "78cce5f0d281",
-"title": "Cổ phiếu trụ đồng loạt giảm, VN Index về sát mốc 1.700 điểm",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTVJuZ0pPLUhVc0llbEJ6LXBjWVlsdklIUWlKRzNhYU4xaGx1SEdsbXY0OUNWeEpqYnRrNktLSHlfYXNqdTh4cDIwaThuY3B2YllOV21wUW9lNkhHM2lSQVNDT01IYlFlMU1oODV6aXhiUE0zaXluVlk2LUZ3N2ZQT1NEeFdxSXVuejhXNUQ4NW9NZVBZY3c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T16:12:00+07:00",
-"found": "2026-11-18T16:46:44+07:00"
-},
-{
-"id": "0768377aa1f4",
-"title": "tập đoàn fpt",
-"link": "https://vnexpress.net/vn-index-giam-hon-23-diem-5146202.html",
-"summary": "VN-Index giảm hơn 23 điểm (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqoXQav1pr6JtGa6v4LmpjF11JFDe_LYOtBfW1erkD0fSzpcdRzRIW8pLoJqk",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T16:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-18T16:46:44+07:00"
-},
-{
-"id": "340d613602ab",
-"title": "Vì sao có thời điểm VN-Index rơi hơn 50 điểm?",
-"link": "https://tuoitre.vn/vi-sao-co-thoi-diem-vn-index-roi-hon-50-diem-100261118154505778.htm",
-"summary": "VN-Index có lúc rơi hơn 50 điểm sau đó kết phiên mất 23,71 điểm. Áp lực bán tập trung ở nhóm cổ phiếu vốn hóa lớn, đặc biệt là ngân hàng và nhóm Vingroup.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/qdi3094-1794990972960978388306.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T16:10:00+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "98f05642f22b",
-"title": "Doanh nghiệp xếp hạng tín nhiệm: Bổ sung thêm biện pháp nhằm ngăn ngừa xung đột lợi ích",
-"link": "https://vneconomy.vn/doanh-nghiep-xep-hang-tin-nhiem-bo-sung-them-bien-phap-nham-ngan-ngua-xung-dot-loi-ich.htm",
-"summary": "Theo dự thảo, nhằm ngăn ngừa xung đột lợi ích, doanh nghiệp xếp hạng tín nhiệm phải thực hiện luân chuyển chuyên viên phân tích và thành viên Hội đồng xếp hạng tín nhiệm, đảm bảo các cá nhân này không tham gia quá 3 hợp đồng xếp hạng tín nhiệm liên tiếp của cùng một tổ chức.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/18/9ad35d979e6a4a60b7755f36cb562c5a-136725.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-18T16:09:52+07:00",
-"found": "2026-11-18T19:10:17+07:00"
-},
-{
-"id": "0109d5fa35df",
-"title": "Gia Lai sắp có khu nhà ở sinh thái hơn 11.400 tỷ đồng ven đầm Thị Nại",
-"link": "https://dantri.com.vn/bat-dong-san/gia-lai-sap-co-khu-nha-o-sinh-thai-hon-11400-ty-dong-ven-dam-thi-nai-20261118115450884.htm",
-"summary": "(Dân trí) - Dự án khu nhà ở sinh thái rộng gần 118ha, với gần 800 lô nhà ở thấp tầng cùng chung cư, trường học, công viên. Đáng chú ý, chủ đầu tư phải giữ lại và trồng mới gần 10ha rừng ngập mặn.",
-"image": "https://cdnphoto.dantri.com.vn/VnpCdu5GKR3iFpCtbVPH4a9hDoI=/2026/11/18/bat-dong-sangia-lai-sap-co-khu-nha-sinh-thai-hon-11-cropped-cropped-1794977443769.jpg?watermark=v1",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-18T16:08:29+07:00",
-"found": "2026-11-18T16:46:44+07:00"
-},
-{
-"id": "055527031a68",
-"title": "Vì sao giá nhà phố, biệt thự sơ cấp neo cao trong khi giá thứ cấp giảm 8%?",
-"link": "https://dantri.com.vn/bat-dong-san/vi-sao-gia-nha-pho-biet-thu-so-cap-neo-cao-trong-khi-gia-thu-cap-giam-8-20261118140204835.htm",
-"summary": "(Dân trí) - Chủ đầu tư giữ giá niêm yết nhờ chiết khấu, hỗ trợ lãi suất và giãn tiến độ thanh toán, trong khi người bán lại nhà phố, biệt thự tại TPHCM và vùng phụ cận chịu áp lực lãi vay, phải hạ giá trung bình 8% trong tháng 10.",
-"image": "https://cdnphoto.dantri.com.vn/z35cj7v1BBGFwe9zLYkfBnzU6ks=/2026/11/18/nha-dat-anh-trinh-nguyen-1794984940084.png",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-18T16:08:00+07:00",
-"found": "2026-11-18T16:46:44+07:00"
-},
-{
-"id": "de5f75adbd66",
-"title": "Tăng trưởng hai con số cần thị trường hàng hóa phái sinh đủ mạnh",
-"link": "https://vneconomy.vn/tang-truong-hai-con-so-can-thi-truong-hang-hoa-phai-sinh-du-manh.htm",
-"summary": "Với kim ngạch xuất khẩu hàng hóa gần 500 tỷ USD mỗi năm và mục tiêu tăng trưởng kinh tế từ 10% trở lên, Việt Nam cần nhiều hơn những động lực mở rộng sản xuất và thương mại. Khi quy mô giao dịch ngày càng lớn, biến động giá trên thị trường thế giới cũng trở thành rủi ro trực…",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/18/525e273fae4c44809534e3adabd8130c-136701.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-18T16:07:15+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "ca7b5f71ac56",
-"title": "Tây Ninh tháo gỡ các điểm nghẽn để nâng cao năng lực cạnh tranh",
-"link": "https://tuoitre.vn/tay-ninh-thao-go-cac-diem-nghen-de-nang-cao-nang-luc-canh-tranh-100261117124554949.htm",
-"summary": "UBND tỉnh Tây Ninh vừa chỉ đạo các sở, ngành tỉnh và UBND các xã, phường chủ động tăng cường triển khai kế hoạch cải thiện môi trường kinh doanh, nâng cao chỉ số năng lực cạnh tranh cấp tỉnh (PCI) năm 2026.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/17/ket-noi-doanh-nghiep-1794893932889741560367-262-153-1637-2354-crop-1794894344932683011960.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T16:07:00+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "6078fa6e1f06",
-"title": "Hải Phòng muốn làm hai khu lấn biển gần 300 ha ở Đồ Sơn",
-"link": "https://vnexpress.net/hai-phong-muon-lam-hai-khu-lan-bien-gan-300-ha-o-do-son-5146147.html",
-"summary": "Tập đoàn BRG nghiên cứu phương án thiết kế quy hoạch kiến trúc tổng thể phường Đồ Sơn, trong đó có hai khu lấn biển phía đông và tây.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/wm1-wm1-bien-do-son-hp-1794991604-6807-1794991626.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ghDbk5dDgoSRLBhgr0SnNg",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-18T16:06:00+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "670ba7c612cd",
-"title": "'Luật hoá' để khơi thông quỹ đất dự án, chấm dứt tình trạng lệch pha cung - cầu nhà ở",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXdPVmdGemVaNTFIWE82TGpUSTlCRHRZZXQ2Sk96aF93RG1mUmJLUVVaYnRDd29IV1V0N1BweEdvUUNSeDExU2VRRTByMThZc0R2YWNWRlN3VVhIOEtGQ25NaHAwLWRTZTRpZ2Q3WFZhdXlqVTNSbDZZamQ2MFI5OXVSbE5XdjJBTk5mUlBLcWhNc2kwaU9MNTRNekR2dkFJUFRqb2t2cHpDSDkxVlFyelNwNA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T16:05:52+07:00",
-"found": "2026-11-18T16:46:44+07:00"
 }
 ]
 }
