@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T18:43:44+07:00",
-"new": 2,
+"updated": "2026-11-21T18:58:54+07:00",
+"new": 11,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 55
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,105 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "f349f2501fca",
+"title": "Bé trai hai tuổi tử vong sau khi bất tỉnh tại lớp mầm non",
+"link": "https://vnexpress.net/be-trai-hai-tuoi-tu-vong-sau-khi-bat-tinh-tai-lop-mam-non-5147473.html",
+"summary": "Bé trai 2 tuổi được phát hiện bất tỉnh, cơ thể tím tái tại một lớp mầm non ở xã Tây Hòa, được đưa cấp cứu nhưng không qua khỏi.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/anhmanhinh20261121luc170658-17-2612-4192-1795255713.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=V8aZZv1SLb9GlTkWntMJTw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-21T18:53:08+07:00",
+"found": "2026-11-21T18:58:54+07:00"
+},
+{
+"id": "48041989c049",
+"title": "Mở hụi online trên Facebook, chiếm đoạt 4,5 tỷ đồng",
+"link": "https://vnexpress.net/mo-hui-online-tren-facebook-chiem-doat-4-5-ty-dong-5147453.html",
+"summary": "Lư Ngọc Thùy bị cáo buộc tổ chức các dây hụi online trên Facebook, sau đó lập 46 phần hụi khống, đưa thông tin gian dối để chiếm đoạt hơn 4,5 tỷ đồng.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/thuy-1795250082-1623-1795250098.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4S6YxYF38NEUcW0dqTqY-A",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-21T18:52:46+07:00",
+"found": "2026-11-21T18:58:54+07:00"
+},
+{
+"id": "5f4dfdc2430b",
+"title": "Dùng đất rừng ở Phú Quốc lừa khách Hà Nội 16 tỷ đồng",
+"link": "https://vietnamnet.vn/biet-dat-thuoc-rung-nha-nuoc-van-rao-ban-cho-khach-ha-noi-de-lua-dao-16-ty-dong-2577413.html",
+"summary": "Hai người ở An Giang bị khởi tố, bắt tạm giam vì bị cáo buộc gian dối về nguồn gốc pháp lý của 11.000m² đất rừng tại Phú Quốc, bán cho một người ở Hà Nội để lừa đảo 16 tỷ đồng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/21/dung-dat-rung-o-phu-quoc-lua-khach-ha-noi-16-ty-dong-2046.jpg?width=0&s=HdhMJbfvkx7iPdlGSMDbEQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-21T18:49:41+07:00",
+"found": "2026-11-21T18:58:54+07:00"
+},
+{
+"id": "b1eb4c919d0b",
+"title": "Nữ chủ hụi online bị bắt vì lừa hơn 4,5 tỷ đồng",
+"link": "https://vietnamnet.vn/choi-hui-qua-facebook-nhieu-nguoi-bi-lua-dao-hon-4-5-ty-dong-2577409.html",
+"summary": "Tin tưởng tham gia các dây hụi trên Facebook, nhiều người bị Lư Ngọc Thùy lừa chiếm đoạt hơn 4,5 tỷ đồng bằng cách lập 46 phần hụi khống để rút tiền.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/21/nu-chu-hui-online-bi-bat-vi-lua-hon-45-ty-dong-2036.jpg?width=0&s=MWvHx9BkFB9QTmehgkHZ-g",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-21T18:44:21+07:00",
+"found": "2026-11-21T18:58:54+07:00"
+},
+{
+"id": "a4b055014abd",
+"title": "Bắt tạm giam Lê Thanh Tuấn lừa đảo bán đất rừng Phú Quốc 16 tỉ đồng",
+"link": "https://thanhnien.vn/bat-tam-giam-le-thanh-tuan-lua-dao-ban-dat-rung-phu-quoc-16-ti-dong-185261121180443289.htm",
+"summary": "Công an tỉnh An Giang vừa khởi tố, bắt tạm giam bị can Lê Thanh Tuấn để điều tra hành vi mua đất rừng do Nhà nước quản lý ở Phú Quốc rồi bán cho người khác để chiếm đoạt số tiền 16 tỉ đồng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/le-thanh-tuan-1-jpg-1795258760136517453242-0-0-750-1200-crop-17952590206961934840249.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-21T18:43:00+07:00",
+"found": "2026-11-21T18:58:54+07:00"
+},
+{
+"id": "1d0314c50cc0",
+"title": "Xổ số miền Nam ngày 21 tháng 11: Dãy số trúng độc đắc 025502 gây xôn xao",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWhSQUpCaUFzRkVVejh2S29DMEJiOUJZaW1tSFNrQVZOTEFUNTRMcHJfQnJLRnFvcl9aNUlUbmhUWTlYNzJGcFlTdjR5clk3T2pjZExlMHpzdTBCX0ZCNGNsYzhnUUxtaUlsY0tydzVJeTZKWGRrWktTUVktanFDblUwYlN6dVRlUGZid09OcGZqNHVHV3U4NllqRFJOckpwQ1N4X0tKaGFicGxaMFFDTXhYb2ZUdw?oc=5",
+"summary": "Nguồn: Báo Thanh Niên",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T18:41:53+07:00",
+"found": "2026-11-21T17:42:16+07:00"
+},
+{
+"id": "4e0b77ba545f",
+"title": "Người đàn ông chặn đầu taxi, cầm dao tấn công tài xế",
+"link": "https://vnexpress.net/nguoi-dan-ong-chan-dau-taxi-cam-dao-tan-cong-tai-xe-5145233.html",
+"summary": "Cho rằng tài xế taxi chạy ẩu, ông Trần Ngọc Danh chặn đầu xe, dùng dao tấn công khiến nạn nhân bị thương ở vùng mặt.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/179480765018421486803112921729-7883-4499-1794808844.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DDoNQfzXbGJiYDiqJFg4sA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-21T18:39:47+07:00",
+"found": "2026-11-21T18:58:54+07:00"
+},
+{
+"id": "0ed61d25e7d3",
+"title": "Ai là người đưa hối lộ hai hiệu trưởng ở Huế liên quan thực phẩm bán trú?",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMjJYM0VfWHUtbjVEeV9WdDJoS0tnMVlHQWR4MWJuQ3NGQUo5VEFYdWlvc2t4QTZocVNzTHIteVh0aEFManJmbEVtX1BtclJUZXZwMHQ1YVVoY29kcE1BM3RTV3V4Z01Jb3lCVGlCSDR1VFhtS0hHSDBXenlYZ0huNGtEUUpOTkV2Q2tTQzF0ekNsanlDbzQ1S0ozQzhlNjE2SFhuYXJrdVFVNFhIakE?oc=5",
+"summary": "Nguồn: Báo Tiền Phong",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T18:37:00+07:00",
+"found": "2026-11-21T18:58:54+07:00"
+},
+{
+"id": "869d556e687e",
+"title": "Xúc động lễ thắp nến tưởng niệm tại cầu tàu lịch sử 914 ở Côn Đảo",
+"link": "https://thanhnien.vn/xuc-dong-le-thap-nen-tuong-niem-tai-cau-tau-lich-su-914-o-con-dao-185261121165604529.htm",
+"summary": "Chiều tối 21.11, trong khuôn khổ Hội sách Côn Đảo, lễ thắp nến tưởng niệm tại cầu tàu lịch sử 914 diễn ra trang nghiêm, tưởng nhớ các anh hùng liệt sĩ và đồng bào đã hy sinh.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-tuong-niem-con-dao-2-1795260264531153551231-320-0-1920-2560-crop-1795260918749536095784.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-21T18:36:00+07:00",
+"found": "2026-11-21T18:58:54+07:00"
+},
+{
 "id": "ad5bbd73ab83",
 "title": "Bắt chủ hụi online ở An Giang trong vụ lừa đảo chiếm đoạt tiền tỉ",
 "link": "https://thanhnien.vn/bat-chu-hui-online-o-an-giang-trong-vu-lua-dao-chiem-doat-tien-ti-185261121175534591.htm",
@@ -233,6 +332,18 @@
 "cat": "mxh",
 "published": "2026-11-21T18:34:00+07:00",
 "found": "2026-11-21T18:43:21+07:00"
+},
+{
+"id": "833ad75c8611",
+"title": "man city đấu với fulham",
+"link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-man-city-fulham-khong-duoc-phep-say-chan-ngoai-hang-anh-c48a1812819.html",
+"summary": "Trực tiếp bóng đá Man City - Fulham: Không được phép sảy chân (Ngoại hạng Anh) (Tin tức 24h)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCO1SJDUscGFv_j2E2RRDTWRFYhn-i6WvmZ1IOA020IC_ef8TbvhBQQD4gTMY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T18:30:00+07:00",
+"traffic": "10000+",
+"found": "2026-11-21T18:58:54+07:00"
 },
 {
 "id": "c178237dd39e",
@@ -391,6 +502,28 @@
 "found": "2026-11-21T18:28:02+07:00"
 },
 {
+"id": "6467578410de",
+"title": "Kim Oanh Group tổ chức trải nghiệm đô thị tích hợp 50 ha",
+"link": "https://vnexpress.net/kim-oanh-group-to-chuc-trai-nghiem-do-thi-tich-hop-50-ha-5147476.html",
+"summary": "Sự kiện trải nghiệm tổ chức tại đô thị One Era ngày 20/11, giới thiệu không gian sống tích hợp cùng những sản phẩm thấp tầng đầu tiên tại phân khu Central District.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/image2066814893extractword2out-1795257088.jpeg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ofv13VDVpMON1CUNqOajcA",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-21T18:00:00+07:00",
+"found": "2026-11-21T18:58:54+07:00"
+},
+{
+"id": "37e16997a010",
+"title": "COP31 kéo dài thời gian do vẫn bất đồng về nhiên liệu hóa thạch và tài chính",
+"link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxON09fMXVhVElBTFB5YVhJY2c4X1hzNFE3N3RBUEtWWXM0cUZjZDVfWXl5OGhwdXE2alhQWXFNbVd1UTlQNGVzQWwzZXhXT0NwNVhSOEVOakpTVXlGOElGYm5pSlhGZi1iUFgtN0w5dklWTXQ4NWFzM3VTYlhnRWFSNDYwUjRZWm1fMHRERUhPUGkwSFNXZGk0ZHFkSUtrOEJnRXB5aGVfaW9TOTlNc0JHbEVhYlBXRU1fYTc4eVk1YVlLMFUxTVNtUllZbGNWcmllMjJyODJuYTBDLTlTRTdVYVVaZFFtb0taeTdCdk14Z0NTODVrVExIYXhyM2J0RERxRW0yVDZDVVJrNC1PbS1ZVUlGOWFkWGJ1TllOQVN0cjVvNUZGWDBNalNnQ3FXU201djdyMjFqbnVtcTByUUZqMG4yUFk3SEpxZ1hr?oc=5",
+"summary": "Nguồn: RFI",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T17:55:59+07:00",
+"found": "2026-11-21T18:58:54+07:00"
+},
+{
 "id": "fd419f4bc987",
 "title": "Ngành tôm đặt mục tiêu xuất khẩu 4,7 tỉ USD",
 "link": "https://thanhnien.vn/nganh-tom-dat-muc-tieu-xuat-khau-47-ti-usd-185261121154105335.htm",
@@ -455,7 +588,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T17:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-21T17:57:25+07:00"
 },
 {
@@ -479,7 +612,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T17:40:00+07:00",
-"traffic": "1000+",
+"traffic": "500+",
 "found": "2026-11-21T18:28:02+07:00"
 },
 {
@@ -581,17 +714,6 @@
 "cat": "bds",
 "published": "2026-11-21T17:19:38+07:00",
 "found": "2026-11-21T17:27:08+07:00"
-},
-{
-"id": "1d0314c50cc0",
-"title": "Xổ số miền Nam ngày 21 tháng 11: Dãy số trúng độc đắc 025502 gây xôn xao",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWhSQUpCaUFzRkVVejh2S29DMEJiOUJZaW1tSFNrQVZOTEFUNTRMcHJfQnJLRnFvcl9aNUlUbmhUWTlYNzJGcFlTdjR5clk3T2pjZExlMHpzdTBCX0ZCNGNsYzhnUUxtaUlsY0tydzVJeTZKWGRrWktTUVktanFDblUwYlN6dVRlUGZid09OcGZqNHVHV3U4NllqRFJOckpwQ1N4X0tKaGFicGxaMFFDTXhYb2ZUdw?oc=5",
-"summary": "Nguồn: Báo Thanh Niên",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T17:18:00+07:00",
-"found": "2026-11-21T17:42:16+07:00"
 },
 {
 "id": "0bc321d03024",
@@ -923,7 +1045,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T16:30:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-21T16:55:49+07:00"
 },
 {
@@ -27856,131 +27978,6 @@
 "cat": "xh",
 "published": "2026-11-19T08:39:00+07:00",
 "found": "2026-11-19T08:52:48+07:00"
-},
-{
-"id": "bdfc6dbf8779",
-"title": "Hơn 1.200 người bám biển thi công cầu vượt biển Hòn Khoai",
-"link": "https://thanhnien.vn/hon-1200-nguoi-bam-bien-thi-cong-cau-vuot-bien-hon-khoai-185261118091036272.htm",
-"summary": "Trên tuyến đường và cầu vượt biển dài hơn 18 km nối đất liền Cà Mau với đảo Hòn Khoai, hơn 1.200 cán bộ, kỹ sư, công nhân đang ngày đêm bám công trường.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/tnw-15-17950201888811925885766-0-163-1440-2467-crop-1795020488225681535691.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T08:34:00+07:00",
-"found": "2026-11-19T08:37:39+07:00"
-},
-{
-"id": "78ab9ee149a2",
-"title": "4 loại cây có lá đổi màu theo mùa, khu vườn đẹp như tranh",
-"link": "https://vietnamnet.vn/4-loai-cay-co-la-doi-mau-theo-mua-khu-vuon-dep-nhu-tranh-2576515.html",
-"summary": "Không cần những chậu hoa rực rỡ, một số loại cây vẫn tạo điểm nhấn cho khu vườn nhờ sắc lá thay đổi theo mùa. Từ đỏ cam, vàng óng đến đỏ thẫm, những gam màu tự nhiên này giúp không gian sống thêm sinh động.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/4-loai-cay-co-la-doi-mau-theo-mua-khu-vuon-dep-nhu-tranh-3628.png?width=0&s=-cQ_7CEggv6-wzMoY-2Jvg",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-19T08:30:22+07:00",
-"found": "2026-11-19T07:43:18+07:00"
-},
-{
-"id": "4f81e5290bc3",
-"title": "Nữ giảng viên được tuyển dụng năm 22 tuổi, có hàng trăm ngàn lượt thích trên mạng",
-"link": "https://thanhnien.vn/nu-giang-vien-hot-ran-ran-tren-mang-duoc-tuyen-dung-dac-biet-nam-22-tuoi-185261118140127493.htm",
-"summary": "Trần Hồng Nhung bắt đầu \"đầu quân\" tại Trường ĐH Kinh tế Quốc dân khi mới 22 tuổi. Đầu tháng 5.2026, cô nhận bằng tiến sĩ, hiện vừa là giảng viên NEU, vừa làm biên tập viên kênh Vietnam Today",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/base64-17950141304291553491729-0-0-519-830-crop-17950146824201760107189.jpeg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-19T08:30:00+07:00",
-"found": "2026-11-19T08:37:39+07:00"
-},
-{
-"id": "880cfdff9230",
-"title": "Gần hai thập kỷ theo đuổi dự án cao ốc 40 tầng ở trung tâm Bến Thành của Eximbank",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWW1WNV96QmYxT0gyUG1SWUdmeEVGdjlsSEIyTmdsQTR0WTd2TFFXNl9HeU5oelZEVHdyTFRpVGNwOGU2WEVmTWpNU0xJMnNDcmZaMC1TZVFFQ1hNU1NTdHNLTmp4ajBqYjdlVEs3VEJaOC1uTnZXOVVlS3JKWTBjemxiWVNZM0tCMi1yM0szR1A3VUlpeHhyRkNwUmFvektrNTB2V1l4aEJBU25QZnY2Rkx2QjM?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T08:24:00+07:00",
-"found": "2026-11-19T10:11:41+07:00"
-},
-{
-"id": "e08729d0ce35",
-"title": "Tăng trưởng kinh tế cuối năm nhìn từ dòng vốn và \"sức khỏe\" doanh nghiệp",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbENrcno0RW9ic0tHVm5lVmo5TUpMRUZ6dkU5UnhNVDI0c1ladlRQOEZEX0NkNktCbE9OSnpBdjJzN09obU4xNEdWZDFfMjhYREpoN3RiU1FOSkhQekFBa1NrQTRibnFKV1ZkblVUV3dJbjJneTNkbUZIZFJ6dVJuSy1ySHVqak83M1pES3N2aVc0TUxCUnFaSFVWQzBFNEZVWHByakJB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T08:23:00+07:00",
-"found": "2026-11-19T08:37:39+07:00"
-},
-{
-"id": "5423e8653d55",
-"title": "Vốn ngày càng đắt giá, JPMorgan khuyên nhà đầu tư rót tiền vào đâu trong năm 2027?",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3d4RW44NTI4OWxpdFJpazRWSWtKRGh6by1YQlo4Y3NjNndsU1h5NDFQQTJjWnVBQ3BiU0tOejdRVkxZNDRTQ1N3bHQyaW81UUVlWmRUSUpPcGV1V0c4Z2VyNUVPVXhRWl9oc1Y4NmJrLVNnYlVGaG5Pd1FuOE1meTEwSEdhV1k4N1pQX2N5Rm1JTHFPOERQeEMzaFQ2LXJyV3dpS2tIZGpFSmhkR3ZXZ2h2bw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T08:23:00+07:00",
-"found": "2026-11-19T08:37:39+07:00"
-},
-{
-"id": "b5f26378e413",
-"title": "lý liên kiệt",
-"link": "https://znews.vn/cuoc-song-kin-tieng-cua-hoang-phi-hong-kinh-dien-man-anh-post1695767.html",
-"summary": "Cuộc sống kín tiếng của 'Hoàng Phi Hồng kinh điển màn ảnh' (Znews)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaBD5xvXa1HIqJpO3aNNJmrZoEiLs5EM_q3Yy1TmG0noOJRlO4u2gvW8iS5qo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T08:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-19T08:37:39+07:00"
-},
-{
-"id": "3c4f178508e0",
-"title": "부산광역시",
-"link": "https://trends.google.com/trending/rss?geo=VN",
-"summary": "",
-"image": "",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T08:20:00+07:00",
-"traffic": "100+",
-"found": "2026-11-19T08:37:39+07:00"
-},
-{
-"id": "3499fff73d21",
-"title": "thứ hạng của coritiba gặp santos fc",
-"link": "https://sports.yahoo.com/articles/santos-vs-coritiba-lineups-neymar-204816821.html",
-"summary": "Santos vs. Coritiba Lineups: Is Neymar Playing Tonight? (Yahoo Sports)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD5WPXsWYp93LFZzcrfDNAXPnodM-u_vM0y7KgDADxFJgjYJVJ7TnStMg2Wfk",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T08:20:00+07:00",
-"traffic": "500+",
-"found": "2026-11-19T08:52:48+07:00"
-},
-{
-"id": "125d2529993f",
-"title": "gemini neon",
-"link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-"summary": "Introducing Gemini 4 Neon (blog.google)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpPjm-30CfRCgzv1E9OMsM3oaTs6yz9Qx4Ku0vgc5AOhVEQ4LnxYJeISKw2A",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T08:20:00+07:00",
-"traffic": "200+",
-"found": "2026-11-19T08:52:48+07:00"
-},
-{
-"id": "b8b708d8a5c1",
-"title": "Giá xăng dầu hôm nay 19/11: Thế giới giảm, trong nước chiều nay điều chỉnh",
-"link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-19-11-the-gioi-giam-trong-nuoc-dieu-chinh-2576577.html",
-"summary": "Giá xăng dầu hôm nay (19/11) trên thị trường thế giới giảm trong bối cảnh thị trường lo ngại nguồn cung dư thừa. Trong nước, giá xăng dầu sẽ được điều chỉnh vào chiều nay.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/11-the-gioi-giam-trong-nuoc-chieu-nay-dieu-chinh-250.jpg?width=0&s=IRR8uXcuhLYPkjOvY-NkZw",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-19T08:19:17+07:00",
-"found": "2026-11-19T08:22:31+07:00"
 }
 ]
 }
