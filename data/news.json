@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T19:14:07+07:00",
-"new": 10,
+"updated": "2026-11-21T19:29:18+07:00",
+"new": 13,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 55
+"count": 22
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "7acf035fcccc",
+"title": "Bộ Chính trị đồng ý thành lập Khu kinh tế đặc biệt Vân Phong",
+"link": "https://cafef.vn/bo-chinh-tri-dong-y-thanh-lap-khu-kinh-te-dac-biet-van-phong-188261121190556697.chn",
+"summary": "Bộ Chính trị vừa đồng ý chủ trương thành lập Khu kinh tế đặc biệt Vân Phong, tỉnh Khánh Hòa, với cơ chế, chính sách ưu đãi tối đa như Khu kinh tế Dung Quất (Quảng Ngãi).",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795262439909-17952624403081831661054.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-21T19:20:00+07:00",
+"found": "2026-11-21T19:29:18+07:00"
+},
+{
+"id": "f56a103a0409",
+"title": "Dâu tây nhập khẩu có dư lượng thuốc trừ sâu vượt ngưỡng gần 6 lần, hải quan siết kiểm tra",
+"link": "https://tuoitre.vn/dau-tay-nhap-khau-co-du-luong-thuoc-tru-sau-vuot-nguong-gan-6-lan-hai-quan-siet-kiem-tra-10026112116342858.htm",
+"summary": "Kết quả kiểm nghiệm mẫu từ một lô dâu tây tươi 4 tấn nhập khẩu từ Trung Quốc phát hiện dư lượng thuốc bảo vệ thực vật vượt giới hạn cho phép gần 6 lần. Cục Hải quan yêu cầu các Chi cục Hải quan khu vực chủ động phối hợp kiểm tra chặt các lô hàng liên quan.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/dau-tay-2-1795253555993314787789-192-43-815-1040-crop-1795253573973785466757.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-21T19:17:00+07:00",
+"found": "2026-11-21T19:29:18+07:00"
+},
+{
+"id": "1f0ba28557d3",
+"title": "152 clip dự thi Đại sứ OCOP TP.HCM, top 16 chính thức lộ điện",
+"link": "https://tuoitre.vn/152-clip-du-thi-dai-su-ocop-tphcm-top-16-chinh-thuc-lo-dien-100261121180455424.htm",
+"summary": "Sau chưa đầy một tháng phát động, cuộc thi Đại sứ OCOP TP.HCM đã nhận được 152 clip dự thi. Thay vì chỉ thuyết minh sản phẩm, nhiều thí sinh kể lại sinh động câu chuyện về vùng đất, con người phía sau mỗi đặc sản.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/chan-dung-ben-vuon-hoa-dem-do-thi-17952567440611507588419-269-48-1070-1330-crop-17952589017611410931288.png",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-21T19:16:00+07:00",
+"found": "2026-11-21T19:29:18+07:00"
+},
+{
+"id": "6958678a6019",
+"title": "Thu gom 300 tấn chất thải công nghiệp, chờ tiêu hủy trái phép",
+"link": "https://dantri.com.vn/phap-luat/thu-gom-300-tan-chat-thai-cong-nghiep-cho-tieu-huy-trai-phep-20261121185035756.htm",
+"summary": "(Dân trí) - Đối tượng Phan Quang Tuyến tập kết hàng trăm tấn chất thải công nghiệp thu mua được trong Khu công nghiệp Trung Hà, lợi dụng hoạt động san lấp mặt bằng để tiêu hủy trái phép, thu lợi bất chính.",
+"image": "https://cdnphoto.dantri.com.vn/XyPL1CxLErpR-aa_JaVTfrxcLO8=/2026/11/21/cong-an-xa-dao-xa-cropped-1795261726388.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-21T19:10:14+07:00",
+"found": "2026-11-21T19:29:18+07:00"
+},
+{
 "id": "2ae9b13d8300",
 "title": "Đồng Nai thành lập Ban Chỉ đạo chính sách nhà ở và thị trường bất động sản",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXhIN3NiWUpsbldJMXQwWndYcVNWNWZmZFkzdGR4anpmeWJVWUFaNjY1ODM4cmpOeUlHLURabk5IdS1aeUptNE5IVHlPd3p4cWE4azlyNWp2a09Vb2x4dVZiU1JNYmJLb2ZkdFV1WVRfUk9hREJCNDdsT1ZsWVl0V1RwMTlNSkYzSm9aWDhpb1I0ZkVOSFEzSXR0NE9aYVJxSlc2UktOOHFtMnc?oc=5",
@@ -222,6 +266,51 @@
 "cat": "bds",
 "published": "2026-11-21T19:10:00+07:00",
 "found": "2026-11-21T19:14:07+07:00"
+},
+{
+"id": "439540c667f8",
+"title": "fulham – newcastle",
+"link": "https://www.24h.com.vn/bong-da/mu-se-hoc-arsenal-khien-liverpool-tat-dien-tam-diem-wirtz-fernandes-clip-1-phut-bong-da-24h-c48a1812980.html",
+"summary": "MU sẽ học Arsenal khiến Liverpool tắt điện, tâm điểm Wirtz - Fernandes (Clip 1 phút Bóng đá 24H) (Tin tức 24h)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6yguO5ANkxi-_WeaLLUVQpByMgBiLbbRFr2Bgfckyzjac5RtJbPrBKGXHCsg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T19:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-21T19:29:18+07:00"
+},
+{
+"id": "f25dab9d17d0",
+"title": "Tất cả người dân chú ý, công an đang điều tra các giao dịch chuyển và nhận tiền sau",
+"link": "https://kenh14.vn/tat-ca-nguoi-dan-chu-y-cong-an-dang-dieu-tra-cac-giao-dich-chuyen-va-nhan-tien-sau-21526112119160024.chn",
+"summary": "Cơ quan Cảnh sát điều tra Công an tỉnh Lâm Đồng đang điều tra các giao dịch cho vay nặng lãi liên quan đến Huỳnh Minh Lâm (SN 1980, trú tại phường Phan Thiết, tỉnh Lâm Đồng).",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795263313204-1795263313778825099488.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T19:08:00+07:00",
+"found": "2026-11-21T19:29:18+07:00"
+},
+{
+"id": "286629a40470",
+"title": "Thủ tướng chỉ đạo loạt giải pháp kích cầu tiêu dùng cuối năm",
+"link": "https://dantri.com.vn/kinh-doanh/thu-tuong-chi-dao-loat-giai-phap-kich-cau-tieu-dung-cuoi-nam-20261121185044904.htm",
+"summary": "(Dân trí) - Thủ tướng yêu cầu các bộ, ngành, địa phương triển khai đồng bộ giải pháp kích cầu tiêu dùng, phát triển thị trường trong nước; bảo đảm nguồn cung hàng hóa thiết yếu, kiểm soát giá cả...",
+"image": "https://cdnphoto.dantri.com.vn/nG89zjWVnPXyBIGj_LooH6o8p_k=/2026/11/21/sieu-thi-mo-cua-toi-xuyen-dem-cho-dan-sam-tet-co-noi-ban-ca-mung-1-tet-1770973600583-1795261675678.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-21T19:05:22+07:00",
+"found": "2026-11-21T19:29:18+07:00"
+},
+{
+"id": "bbe7de4f82d7",
+"title": "Đôi rồng cao 10 m bên Hồ Gươm được tháo dỡ chớp nhoáng",
+"link": "https://kenh14.vn/doi-rong-cao-10-m-ben-ho-guom-duoc-thao-do-chop-nhoang-21526112119104329.chn",
+"summary": "Ngay sau lễ khai mạc Ngày Văn hóa các dân tộc Việt Nam diễn ra sáng 21/11, đôi rồng thời Lý dài 70 m, cao khoảng 10 m được lắp đặt bên Hồ Hoàn Kiếm đã được tháo dỡ.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795262906319-17952629067301937033711.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T19:03:00+07:00",
+"found": "2026-11-21T19:29:18+07:00"
 },
 {
 "id": "d1edd6588ded",
@@ -255,6 +344,30 @@
 "cat": "tc",
 "published": "2026-11-21T19:00:00+07:00",
 "found": "2026-11-21T19:14:07+07:00"
+},
+{
+"id": "b7cf44f3052e",
+"title": "southampton đấu với derby county",
+"link": "https://www.yardbarker.com/soccer/articles/derby_county_west_ham_must_provide_southampton_escape_route_for_man_city_star/s1_17896_44595598",
+"summary": "Derby County & West Ham must provide Southampton escape route for Man City star (Yardbarker)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCtUyNYmAZNUglwC9uIb5tWHxfe8R1lWpQIbKID2UiN_tZPeg4fZCyvfXw0Zo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T19:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-21T19:29:18+07:00"
+},
+{
+"id": "9430d680f195",
+"title": "azerbaijan",
+"link": "https://www.qdnd.vn/chinh-tri/tin-tuc/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-le-don-tong-thong-azerbaijan-tham-chinh-thuc-viet-nam-1065574",
+"summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì Lễ đón Tổng thống Azerbaijan thăm chính thức Việt Nam (Báo Quân đội nhân dân)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtYIoAHIpm7vIAymO_74Vn0-qqlAjNfLxN_EK8v8YH0bAwfhPiIqLInERguV0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T19:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-21T19:29:18+07:00"
 },
 {
 "id": "29b18348f2e5",
@@ -310,6 +423,17 @@
 "cat": "xh",
 "published": "2026-11-21T18:49:41+07:00",
 "found": "2026-11-21T18:58:54+07:00"
+},
+{
+"id": "331c456fb924",
+"title": "Ngày 21-11 tìm thấy thêm 30 hài cốt liệt sĩ ở công viên Lê Thị Riêng",
+"link": "https://tuoitre.vn/ngay-21-11-tim-thay-them-30-hai-cot-liet-si-o-cong-vien-le-thi-rieng-100261121182857716.htm",
+"summary": "Trong ngày 21-11, các lực lượng làm nhiệm vụ tại công viên Lê Thị Riêng tìm thấy thêm 30 hài cốt liệt sĩ, nâng tổng số bộ hài cốt đã phát hiện ở công viên lên 1.091 bộ.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/3-1795260106707229040672-45-0-1645-2560-crop-17952605120491503648969.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-21T18:45:00+07:00",
+"found": "2026-11-21T19:29:18+07:00"
 },
 {
 "id": "b1eb4c919d0b",
@@ -430,8 +554,20 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T18:30:00+07:00",
-"traffic": "10000+",
+"traffic": "20000+",
 "found": "2026-11-21T18:58:54+07:00"
+},
+{
+"id": "d50bc98f876c",
+"title": "xsmb",
+"link": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-hau-giang-ngay-2111-1804294.ldo",
+"summary": "Kết quả xổ số Hậu Giang ngày 21.11 (Laodong.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDQOcvdVYK5TNoJ2pxR6GCmw9WIFsXSWOZVc8-a9ADMczPiTvt4f74J4b5hI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T18:30:00+07:00",
+"traffic": "200000+",
+"found": "2026-11-21T19:29:18+07:00"
 },
 {
 "id": "c178237dd39e",
@@ -486,7 +622,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T18:20:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-21T18:43:21+07:00"
 },
 {
@@ -724,6 +860,17 @@
 "cat": "bds",
 "published": "2026-11-21T17:32:00+07:00",
 "found": "2026-11-21T18:28:02+07:00"
+},
+{
+"id": "074520d70545",
+"title": "Một đoạn cao tốc TP.HCM - Long Thành chuyển làn, tài xế cần lưu ý gì?",
+"link": "https://tuoitre.vn/mot-doan-cao-toc-tphcm-long-thanh-chuyen-lan-tai-xe-can-luu-y-gi-100261121142613746.htm",
+"summary": "Từ 0h ngày 22-11, xe cộ đi cao tốc TP.HCM - Long Thành - Dầu Giây (đoạn từ cầu dẫn Long Thành đến nút giao quốc lộ 51) sẽ được chuyển sang phần đường mở rộng vừa hoàn thành, để phục vụ thi công nâng cấp mặt đường hiện hữu.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/179525201489718099154321354508281809915432135450828959a755a68f3d72c3c087c321871d450-1795254030260697196375-98-0-1625-2443-crop-1795255529991305463050.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-21T17:31:00+07:00",
+"found": "2026-11-21T19:29:18+07:00"
 },
 {
 "id": "f82b5267afa5",
@@ -9900,18 +10047,6 @@
 "published": "2026-11-20T18:20:00+07:00",
 "traffic": "200+",
 "found": "2026-11-20T18:45:15+07:00"
-},
-{
-"id": "1c99183c9c3d",
-"title": "xsmb",
-"link": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-nam-hom-nay-ngay-2011-1803640.ldo",
-"summary": "Kết quả xổ số miền Nam hôm nay ngày 20.11 (Laodong.vn)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF1GHuY5f1OSPaI4fbTD7XfVG9kqB9ytWj3_gPjaWnW1W2I1kYSCeHz1g7Dqc",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T18:20:00+07:00",
-"traffic": "100000+",
-"found": "2026-11-20T19:00:27+07:00"
 },
 {
 "id": "500cd1622eec",
@@ -27843,140 +27978,6 @@
 "published": "2026-11-19T09:00:00+07:00",
 "traffic": "2000+",
 "found": "2026-11-19T09:41:05+07:00"
-},
-{
-"id": "d36957eb6b62",
-"title": "Hoàn thiện thể chế và quản trị rủi ro trong bảo vệ môi trường: Từ cắt giảm thủ tục, phân cấp đến tài chính công",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYUtZS0NESjJHOERZdjZkS3lsc01Fa3pQU0R0M0dsTUhmd19UXzFPS1JMU2RhOHhmTENYUmwybW92Q3VCSnNUOUs5ZV9uMUhnb1ZfUmd3T0luaEJ5WGw1OGJBVjdpTVpTNF9abVJ5aU1rUnFlNl93N2E5aWpVaUdCaVNwUVlCcmRONWdBLWZIWExGUkdQbUp3QnNUeEtGZU0wTF9rYnZ2eVpaRlU0SGF5MjJCNnJKdVRyeUY3UVl0NDJzaFRucVZSNDB2VnFvem9aSWF5X2RLdUQtZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T09:00:00+07:00",
-"found": "2026-11-19T10:11:41+07:00"
-},
-{
-"id": "37887f86f289",
-"title": "seungri",
-"link": "https://znews.vn/ban-gai-20-tuoi-cua-cuu-thanh-vien-bigbang-lo-dien-post1697487.html",
-"summary": "Bạn gái 20 tuổi của cựu thành viên BigBang lộ diện (Znews)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRomL97ZF_yyLUJ_eiMQ7CtGk4xT5bNMmnAMHLx1bl75X8tPvoiW69vEjHP2Ds",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T09:00:00+07:00",
-"traffic": "100+",
-"found": "2026-11-19T11:26:14+07:00"
-},
-{
-"id": "ccd3a5e088a6",
-"title": "Lãi suất tiết kiệm tiếp tục xu hướng giảm",
-"link": "https://cafef.vn/lai-suat-tiet-kiem-tiep-tuc-xu-huong-giam-188261119075855436.chn",
-"summary": "Làn sóng giảm lãi suất huy động tiếp tục lan rộng trong tháng 11.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/tien-89047743887332892188635-93866490412896094270432-1795049849871-17950498501961954546474.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-19T08:58:00+07:00",
-"found": "2026-11-19T09:07:59+07:00"
-},
-{
-"id": "46ed33cd8fa7",
-"title": "Sếp Techcombank làm Giám đốc Tài chính Eximbank",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSDRGQ3BIRXRmdURzTUNjbWVZdElXOTV2dndHNWN0RUdhdE1iYUNMbGVjTkdydTVQUXlzdWlPU2ZtaVA0amhQamxGQXF0U0hRRnRJTWlHVkZ0NEk1ck5HNzBqSFdfOWtreVg5aE00X3NVSTd0Zk9keUNhRl91NUZDVG1XbFJkUzg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T08:57:00+07:00",
-"found": "2026-11-20T09:23:42+07:00"
-},
-{
-"id": "f3d07b9d4604",
-"title": "Khởi công xong tháp tài chính 108 tầng ở Hà Nội, cụ bà 70 tuổi về Đồ Sơn làm dự án lấn biển 290ha",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQek1pRkhXWC1lNWtEMzNXdzBfVGNreXVWNjhGeDhnZTBvWkxzTi11WjU1Y2xVQUVtdk1pUUtoNXVFbklqaWJNM0F5bHNDWHdYTm51X0lBMGlrLWk4ODhBalYtbVhNbFRuR0RmZ0V4d2s0MzF2YkFsT3ZHWkpTczFiX2taeWpMLTRnc1ZrZzNZZ0w0TThhQkhGR3lvVURKTzlUbWRjbmJvQWdkMmJCcF9sdjYwbERibjVOWkRyN1gza1lOdlJXeFZtdg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T08:56:00+07:00",
-"found": "2026-11-19T09:07:59+07:00"
-},
-{
-"id": "9fca6f4d374f",
-"title": "Giá USD hôm nay 19.11.2026: Ngân hàng tăng mạnh",
-"link": "https://thanhnien.vn/gia-usd-hom-nay-19112026-ngan-hang-tang-manh-18526111908475012.htm",
-"summary": "Giá USD trên thị trường thế giới tiếp tục tăng lên mức cao trước những thông tin liên quan đến lãi suất. Các ngân hàng trong nước mua USD với mức giá cao hơn Ngân hàng Nhà nước.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/edit-9-17932384534461964912661-99-0-1699-2560-crop-17950527496242145486114.jpeg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-19T08:54:00+07:00",
-"found": "2026-11-19T09:07:59+07:00"
-},
-{
-"id": "455c5302a2a0",
-"title": "Gần 300 cổ phiếu rời HNX sang HoSE cuối tháng 12, thị trường niêm yết vận hành hai bảng giao dịch mới",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSV93aUNTVWhlTk5RSWtPYng0U2RuWGVKckhpME4zRmtKbm9EYlJjZGJYSkVLUnJ0aFB2LTV6R09ITjc5Vy1wenh2RTFGdVFJUDE5QjVzd0xYUEo4RTBFVkhNajdCbW80Y2FHN0lSbHlQSVotNE1YN29CREdWSzRxNERvOXdIRzNDMWFWWVBWZlFyMlZOVXRfbUtMc3k5RTJlZTBROG1SUGU3bkktSHFnVzFNQWpzWDREZS1FNjZGM0wwQU9oenczcnhCYUNCZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T08:54:00+07:00",
-"found": "2026-11-19T19:45:01+07:00"
-},
-{
-"id": "a8799c4d3073",
-"title": "Thời sự sáng 19/11: Ông Lê Thanh Thản nói phương án đền bù cho người mua nhà",
-"link": "https://vietnamnet.vn/thoi-su-sang-19-11-ong-le-thanh-than-noi-phuong-an-den-bu-2576397.html",
-"summary": "Ông Lê Thanh Thản nhận sai, nói phương án đền bù cho người mua nhà; đề nghị tử hình giang hồ &quot;anh Cơ quận 8&quot; và 5 bị cáo... là các tin tức thời sự đáng chú ý sáng ngày 19/11/2026.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/11-ong-le-thanh-than-noi-phuong-an-den-bu-cho-nguoi-mua-nha-2453.png?width=0&s=YzprPVchOURpxY-tWiPkbA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T08:53:01+07:00",
-"found": "2026-11-19T06:20:13+07:00"
-},
-{
-"id": "9fb8934771a1",
-"title": "Giá vàng hôm nay 19.11.2026: Tiếp tục lao dốc, rớt khỏi mức 137 triệu đồng",
-"link": "https://thanhnien.vn/gia-vang-hom-nay-19112026-tiep-tuc-lao-doc-rot-khoi-muc-137-trieu-dong-185261119082401846.htm",
-"summary": "Giá vàng thế giới lẫn trong nước tiếp tục đà giảm khi kỳ vọng Mỹ tăng lãi suất lên cao.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-vang-pq-17877312207481855559836-85-0-1685-2560-crop-1795052627987274698456.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-19T08:53:00+07:00",
-"found": "2026-11-19T09:07:59+07:00"
-},
-{
-"id": "c95960e11d02",
-"title": "Hà Nội công bố hướng tuyến, vị trí đặt nhà ga 5 tuyến đường sắt đô thị",
-"link": "https://vietnamnet.vn/ha-noi-cong-bo-huong-tuyen-nha-ga-5-tuyen-duong-sat-do-thi-2576200.html",
-"summary": "Hồ sơ hướng tuyến, vị trí nhà ga của 5 tuyến đường sắt đô thị số 1, 2, 8, 10 và 14 được công khai tại 22 xã, phường, gồm ranh giới giải phóng mặt bằng, lối lên xuống ga và tháp thông gió.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/ha-noi-cong-bo-huong-tuyen-vi-tri-dat-nha-ga-5-tuyen-duong-sat-do-thi-934.webp?width=0&s=ev2i5svuGLdnUdnG3ey07A",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T08:50:08+07:00",
-"found": "2026-11-18T11:23:38+07:00"
-},
-{
-"id": "c57e87a0654b",
-"title": "giải vô địch thế giới liên minh huyền thoại",
-"link": "https://znews.vn/chovy-guc-nga-truoc-thien-duong-blg-len-ngoi-vo-dich-the-gioi-post1696470.html",
-"summary": "Chovy gục ngã trước thiên đường, BLG lên ngôi vô địch thế giới (Znews)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNkcav9Z-v4OgR3Iw-wF7Na9C87QqKe4HM27voRZD0dQ_eexqhNEK1OrmakL4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T08:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-19T09:07:59+07:00"
-},
-{
-"id": "4412532b239f",
-"title": "Cuộc đua hút tiền gửi khiến chi phí huy động tăng vọt",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSERVeG93UDBoak1Hd2RPX2lpWExaN20xMDdkbnJ3eDgyZS13N2R3YmI1MHhKcnFndDlHX3Bxb3BkUW9NS2FiTUp2bUNuUk9HbVJCLWdYdmpyYk5JWEtrWmpjTzFNVjF2ajR2Q3ctdU9fcmRlSDB1N1RlemVIaGpXZ2xnQk9QcXl2U2JPNlNNTQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T08:49:00+07:00",
-"found": "2026-11-19T08:52:48+07:00"
 }
 ]
 }
