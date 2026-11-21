@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T12:51:57+07:00",
-"new": 13,
+"updated": "2026-11-21T13:07:24+07:00",
+"new": 18,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 27
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,138 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "b61e32e0affa",
+"title": "Luật Đất đai sửa đổi: Dự án chậm đưa vào sử dụng phải đóng tiền sử dụng đất, thuê đất tăng thêm",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS09Jc25MZjU3SUVRdzNIWlNrbklIRWlWVG5DalU4YXV2SFdCaHNpc3RoMWlCelotWE02VndzXzFaUjJkOE9SUG4zNDgxVWFXZUJ0eDdSLTc3R0FDa2JCN0Q4dFRDd0Etd0pfZFNPaTJTdlFWS0Nxd1hnUlJKejNrOUJzbHVzOHNyWXNUUW1UaHJpWFBvQ3pNdTZVN0pxRWtvdFlBNDlCbmhoMVUzUm9od3Y5ZE9OdklZMUdsb01BVXVjLWdn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T13:02:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "6c53be49de14",
+"title": "Quân khu 5 với những chiến công làm nên lịch sử",
+"link": "https://thanhnien.vn/quan-khu-5-voi-nhung-chien-cong-lam-nen-lich-su-185261121113642717.htm",
+"summary": "Đảng bộ Quân khu 5 trải qua 80 năm lãnh đạo lực lượng vũ trang lập nhiều chiến công vang dội, góp phần viết nên những trang sử hào hùng của dân tộc.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/13821-1795235174955590505730-110-417-862-1621-crop-1795235701931860668631.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-21T13:00:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "758132b7f182",
+"title": "Quốc hội thông qua Luật Đất đai: Loạt điểm mới về cấp sổ đỏ, thu hồi đất",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjQyMS1jU240TWkxR0djZ2RZU1hQXzhIai1YaFdSX0JORGd1Z2U3VjVMMWt1dTBIanNlNEJsMll5dmJMMWZNaDZmOWNSQmFBYmpNcHNXQUtOeVNvb0ZjdXVfYnZCYXQtS3M3cWNCc3liQmRoczhYVzkxNTRLOHJyOXkyMWxmQUFxOGxoRzlQNTVWNS1sVEJQOEkzbThuMTcwQmtCVTZB?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T12:59:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "5acce986e144",
+"title": "Đà Nẵng: Phường Hương Trà phát triển du lịch theo hướng làng quê, sinh thái và văn hóa",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQclFMWDZFZ01pUEdRelhnRHVWU3JLb1EwRWxGSzd6TUNuRjBDVFNWdHBKQW5sdDBDbkY5UFB6QjBxbnRHQTlQa0J6MXdwSkRCY2xsM1hrTXRJeEhwSlZGMjZELTFZN0EyVlY5SHpfczNSWGVGYUxsNk0tRDRpTXhIR2lqV21zajFfaTVKS3BsbFBQSl9BRnExRjFjOF9QTWlNTVJPT0VCT3FkTnFxRGNsZnIzMjk5aDN2?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T12:59:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "aa6e1dc5d1a6",
+"title": "Quốc hội thông qua Luật Kinh doanh bất động sản sửa đổi, bổ sung nhiều quy định về giao dịch nhà đất",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjdLSHpnSHdHRmNpaXRURnBYWmtkOVFnM1g4bWtySXozbUtmQ3RtaFFrWEt6NFk5bXNWTGd3dG5qWXFHbVhxa0lqc3B6SzNCXy12SjNwVllpb2dUN2luMDZiRFpNcFE0QzQtV3RtdVkwTmlOQy00NEN1QmxGVjc2MUdlcGRHb1VvUkcyVXUzbG1rYnhhNTNtcEpoNUFiaDZ1M1FEQ09xQXRRd2pwa3owNFhRUEgyZXB3Mmxod0dEQXR4QXB5eFcwYVdPWlE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T12:56:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "ad8f85e408be",
+"title": "Luật Kinh doanh bất động sản (sửa đổi): Công khai đầy đủ thông tin, bảo vệ quyền lợi người mua nhà",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaTduX096MHFRbXFzMlUyWFlJUXR0M3RSWVQ2OFZpTkhDOTVBcnFHVFNRQWJqY25rNmIyNWcyeVItNkVWTmFxaEs1LWFEMV94bE5Wdk1zOHhOaEhtbExhc1hKeTBuSXl0UHNzdm0tSmEzTHV6cE5LeVg0ODlPd1JQODZiU3cxNVFyX3VzOE9sN1djWERQNU1NeTlrT2RvYklaeFVJRWtvVGg1ZTNrSUVJVldweGY5cEp6eTNWbW8xY3JQZ3ZzS2c?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T12:56:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "479c55cde8bf",
+"title": "Giải mã 'cú rơi' của giá vàng",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0ajVaRzEwUWJKTk13OUM4ZDZXMUJSdk9VZ0ZGTjdMYzF1TWJIc0xJN2xXcW00UU1ZUUU2Y2Y1Y19zMC1oWVkxMFBfMFNJUXVXYTE4aWlRYWlZQlVXcXMzRmw5ZGlJZ3Fld3dhaQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T12:56:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "40919c52a66b",
+"title": "Thêm hình thức bồi thường nào khi Nhà nước thu hồi đất?",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMDZrcFd6QkZ0LTZ1Wm1LWEpzMFdzMmNtOVEzQjg3SU9wVVJRQnlaSEthUmM2SndNeUdfQkZZWFVfQjNWaGlaTXJ0R2hNWDE0RG5OTEUwWkpDRllUWkQzeEVuNHRlREhTazhUTzRDcDZ0ZXhRM0dsMzRwR2NCc0U1ZU5jRW5YVjZ3T191Y1FNOTk?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T12:55:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "f0ccb64df23d",
+"title": "Sắp di dời 33 hộ dân khỏi vùng nguy cơ cao sạt lở tại Núi Một",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2pCMzZtbGtteE5yT1NOc3czTVgtamEzeERoWGFxME4wT3pnTG5QNkJVVDBDbHBvSlg0Q0hIM0o4eHZETlFxM3BCaHp3SGo5RDFOTXpqcG5sWXpSVDVPT252dzJUNXNHZ2hqeVZjYUUxbjVuSUVXNnBEOUtCbWtqZjRlemYyUGpYNjZ1dEpsTkpvNjd6TWY1bmhB?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T12:55:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "c6a59dc86c15",
+"title": "Quốc hội thông qua 3 luật mới về nhà ở, bất động sản và trưng mua tài sản",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVBmbGhkc09wTWxDWlhPYzY3STNsR0k4NFh2dndMeGJEdVhlVFFBc0wwNEpMeGtZdU95eC1IWk02S21RSjRuWDBPeTlBbkZFU0VGRkVRcW1oSHJpWVY3aG8tRXU5bUxHOXBZMW9GVWk3MC1BV0Vub2lidzc5MXVsM2xjZDVjYlh1Z2pqUTVHaG1MMjQ3dlpuTHJIRU5pdWxjb3FvU2w2anE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T12:54:28+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "885d3fe5f05c",
+"title": "Thủ khoa khiến nhiều người bật khóc vì những 'màu áo' mưu sinh",
+"link": "https://thanhnien.vn/thu-khoa-khien-nhieu-nguoi-bat-khoc-vi-nhung-mau-ao-muu-sinh-185261121002925845.htm",
+"summary": "Tốt nghiệp sớm sau 3 năm học với danh hiệu xuất sắc, Thái An khiến nhiều người xúc động khi kể về những tháng ngày vừa học vừa làm. Phía sau tấm bằng thủ khoa là những nỗ lực, mất mát và mong muốn giản dị được nhìn thấy ba mẹ cùng hiện diện trong ngày con trưởng thành.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/2aobore0jf127xvkz8ox9lh0rhtpt3m9r8gdivg0-17951951766341354622594-3-0-1073-1712-crop-1795195568281412019504.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-21T12:54:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "d56d6b64637f",
+"title": "Cần Thơ chấp thuận thêm 2 khu đất thí điểm nhà ở thương mại theo Nghị quyết số 171",
+"link": "https://cafef.vn/can-tho-chap-thuan-them-2-khu-dat-thi-diem-nha-o-thuong-mai-theo-nghi-quyet-so-171-188261121125348103.chn",
+"summary": "Hai lô đất có tổng diện tích 5.040m2 đều nằm ở vị trí Khu dân cư lô số 3A, Khu đô thị Nam Cần Thơ, phường Hưng Phú, được chấp thuận thí điểm nhà ở thương mại theo Nghị quyết số 171.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795240388199-1795240388678512521620.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-21T12:53:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
 "id": "2f5e81c3d0cc",
 "title": "Được bổ nhiệm lúc thử việc, giám đốc sản xuất kiện đòi 740 triệu khi bị cho nghỉ",
 "link": "https://vietnamnet.vn/nghi-viec-doi-740-trieu-nguoi-lao-dong-nhan-100-trieu-dong-2577293.html",
@@ -224,6 +356,17 @@
 "found": "2026-11-21T12:51:57+07:00"
 },
 {
+"id": "aa4919f86d07",
+"title": "Đề xuất không thu tiền bổ sung đất nếu doanh nghiệp không vi phạm",
+"link": "https://cafef.vn/de-xuat-khong-thu-tien-bo-sung-dat-neu-doanh-nghiep-khong-vi-pham-188261121125008076.chn",
+"summary": "HoREA đề xuất miễn khoản tiền nộp bổ sung trong giai đoạn chưa tính tiền sử dụng đất, tiền thuê đất nếu người sử dụng đất không vi phạm pháp luật về đất đai.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795240191787-17952401920642083163894.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-21T12:49:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
 "id": "cb548d6e052d",
 "title": "Quốc hội chốt chuyển hơn 40 km² đất và 1.057 người dân Phú Thọ về Hà Nội",
 "link": "https://cafef.vn/quoc-hoi-chot-chuyen-hon-40-km-dat-va-1057-nguoi-dan-phu-tho-ve-ha-noi-188261121124722047.chn",
@@ -233,6 +376,17 @@
 "cat": "bds",
 "published": "2026-11-21T12:47:00+07:00",
 "found": "2026-11-21T12:51:57+07:00"
+},
+{
+"id": "d88c8ac10f89",
+"title": "Ai thay ông Trần Bá Dương làm Chủ tịch HĐQT Thaco Agri?",
+"link": "https://cafef.vn/ai-thay-ong-tran-ba-duong-lam-chu-tich-hdqt-thaco-agri-188261121124755412.chn",
+"summary": "Ông Trần Đăng Khoa thay ông Trần Bá Dương làm Chủ tịch HĐQT Thaco Agri.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795240048563-17952400491261810209165.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-21T12:47:00+07:00",
+"found": "2026-11-21T13:07:24+07:00"
 },
 {
 "id": "e7d9439eb0db",
@@ -255,6 +409,53 @@
 "cat": "xh",
 "published": "2026-11-21T12:45:00+07:00",
 "found": "2026-11-21T12:51:57+07:00"
+},
+{
+"id": "f4dd9b9749fe",
+"title": "vùng phát thải thấp",
+"link": "https://vnexpress.net/kiem-soat-xe-chay-xang-dau-tai-vung-phat-thai-thap-5147337.html",
+"summary": "Kiểm soát xe chạy xăng, dầu tại vùng phát thải thấp (VnExpress)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqeVm1wmPGVAVDr5kGxaNLos7rxRo-Lj1tLHqWSwEQ2HeLuTyanLKhXDWapMk",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T12:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "9f6c320fca1c",
+"title": "cải cách",
+"link": "https://laodong.vn/thoi-su/80400-ti-dong-cai-cach-tien-luong-can-tao-thu-nhap-xung-dang-cho-nguoi-co-nang-luc-1804007.ldo",
+"summary": "80.400 tỉ đồng cải cách tiền lương cần tạo thu nhập xứng đáng cho người có năng lực (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7bnvACmdVK8i2W4LIxY1RzK8-b4WDZ1gbOROgVvIP7Yn0ZE1K345LcbAvaG0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T12:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "5adf0a8a8136",
+"title": "phú thọ",
+"link": "https://dantri.com.vn/noi-vu/hon-1000-nguoi-phu-tho-thanh-cong-dan-ha-noi-tu-ngay-112027-20261121101106264.htm",
+"summary": "Hơn 1.000 người Phú Thọ thành công dân Hà Nội từ ngày 1/1/2027 (Báo Dân trí)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVJ2KkKbzfh4Fw8Drsf3ItxlElTjPRl0x7R2L8_T0WZZLpt0N1KFwcwekyvZo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T12:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-21T13:07:24+07:00"
+},
+{
+"id": "ea344427d103",
+"title": "“Giảm giá sập sàn” trước Black Friday: Khách xem nhiều, chốt đơn ít",
+"link": "https://dantri.com.vn/kinh-doanh/giam-gia-sap-san-truoc-black-friday-khach-xem-nhieu-chot-don-it-20261121085930005.htm",
+"summary": "(Dân trí) - Biển giảm giá 50-80% phủ kín các phố thời trang trước Black Friday cả tuần, nhưng nhiều cửa hàng vẫn thưa khách. Người mua ghé xem, hỏi giá, thử đồ, song không vội xuống tiền.",
+"image": "https://cdnphoto.dantri.com.vn/hKB-tJEXqJNir7UI32oJk6vJ4Qo=/2026/11/21/hinh-mua-hang-1-cropped-1795225753687.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-21T12:33:16+07:00",
+"found": "2026-11-21T13:07:24+07:00"
 },
 {
 "id": "88a8a1cc6d6a",
@@ -309,7 +510,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T12:30:00+07:00",
-"traffic": "1000+",
+"traffic": "500+",
 "found": "2026-11-21T12:51:57+07:00"
 },
 {
@@ -684,7 +885,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T12:00:00+07:00",
-"traffic": "2000+",
+"traffic": "200+",
 "found": "2026-11-21T12:21:06+07:00"
 },
 {
@@ -1137,7 +1338,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T11:20:00+07:00",
-"traffic": "5000+",
+"traffic": "2000+",
 "found": "2026-11-21T11:39:24+07:00"
 },
 {
@@ -27793,204 +27994,6 @@
 "cat": "bds",
 "published": "2026-11-18T22:37:00+07:00",
 "found": "2026-11-19T10:47:50+07:00"
-},
-{
-"id": "94782dc48311",
-"title": "Điểm tin kinh tế thế giới nổi bật ngày 18/11/2026",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkQwUHVLek9uMkJNMVdQc19xcXpIaHEyUzJqMXNsZjE3SjBxLXdGOEF0NFI3QWtUeElRLVoyanFNa0d2OVNTY3lHUDhCQl9YbE1GeHFGY1ZuZmVjMDZZekdXTU9QeXBUYkZ4R1diUnFqMkdRN3U2SFRtQUxxaTU0S3VjS1Y4YWVoSHc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T22:35:00+07:00",
-"found": "2026-11-18T22:45:26+07:00"
-},
-{
-"id": "c539d87be92a",
-"title": "Ông Lê Hoàng Khánh Nhựt bị khởi tố, doanh nghiệp phát thông báo nóng",
-"link": "https://cafef.vn/ong-le-hoang-khanh-nhut-bi-khoi-to-doanh-nghiep-phat-thong-bao-nong-188261118221410167.chn",
-"summary": "DN dự kiến tổ chức ĐHĐCĐ bất thường vào ngày 20/12 tới để xem xét một số nội dung, trong đó có việc miễn nhiệm và bầu bổ sung thành viên HĐQT nhiệm kỳ 2024–2029.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/images-7-17921476906991826050708-23-0-432-654-crop-179214770319359427870-17950148279741027839254.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-18T22:33:00+07:00",
-"found": "2026-11-18T22:45:26+07:00"
-},
-{
-"id": "b54543d63ac7",
-"title": "Công an TPHCM bắt 2 người Trung Quốc bị truy nã quốc tế",
-"link": "https://dantri.com.vn/phap-luat/cong-an-tphcm-bat-2-nguoi-trung-quoc-bi-truy-na-quoc-te-20261118221212242.htm",
-"summary": "(Dân trí) - Hai người đàn ông quốc tịch Trung Quốc bị công an nước này truy nã quốc tế. Công an phường Phú Lợi (TPHCM) phát hiện, bắt giữ họ khi đang lẩn trốn trên địa bàn.",
-"image": "https://cdnphoto.dantri.com.vn/MItVBWtJ7o0X4ijMlV2ChqU-0vU=/2026/11/18/20190322151958-cong-so-8-cropped-1795015436620.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-18T22:27:09+07:00",
-"found": "2026-11-18T23:08:11+07:00"
-},
-{
-"id": "a0d06c95206f",
-"title": "Sang tay thỏa thuận hơn 17.355 tỷ đồng giá trị cổ phiếu trong thời gian ngắn, thị trường hồi hộp chờ bức tranh cổ đông lớn LPBank được vén màn",
-"link": "https://cafef.vn/sang-tay-thoa-thuan-hon-17355-ty-dong-gia-tri-co-phieu-trong-thoi-gian-ngan-thi-truong-hoi-hop-cho-buc-tranh-co-dong-lon-lpbank-duoc-ven-man-188261118222652589.chn",
-"summary": "Trong phiên giao dịch ngày 18/11/2026, hơn 80 triệu cổ phiếu LPB của Ngân hàng LPBank đã được sang tay thỏa thuận sát giá sàn ở mức 34.200 đồng, tổng giá trị giao dịch ước đạt 2.736 tỷ đồng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1795015500937-17950155013741972279420.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-18T22:26:00+07:00",
-"found": "2026-11-18T22:30:13+07:00"
-},
-{
-"id": "14bca2fae115",
-"title": "Phó Thống đốc Phạm Thanh Hà tham gia Đoàn công tác Chính phủ làm việc tại Hưng Yên",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFNMX3ZRWGRGVG1BbHcxZ1BZN2h0VDd4RTRBcGtReURsMHBoYmRIR2NSZTV3dmc2a25zTHJRWk9uTGVGa1cwdTdnb3FtRHAyZWhMUzJmdmhwMm5ySzhhYVlVUHdaWEtud1JUcG5YLVlmek1neElNSDZCRVRrdFZ3M0VoMHcxamswUW5KNGgyRnV0clpZbERsTGZNV0s4VWhuWU9zVmxfb1YzUWk1WldKT3UtTElBQQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T22:25:30+07:00",
-"found": "2026-11-18T23:38:36+07:00"
-},
-{
-"id": "a8219c2be4e5",
-"title": "Vụ bắn vào đầu giám đốc công ty lâm nghiệp: 'Không ngờ anh ấy lại nghĩ bước đường cùng như vậy'",
-"link": "https://kenh14.vn/vu-ban-vao-dau-giam-doc-cong-ty-lam-nghiep-khong-ngo-anh-ay-lai-nghi-buoc-duong-cung-nhu-vay-215261118221309397.chn",
-"summary": "Chị L. là vợ nghi phạm Nguyễn Thanh Tuấn buồn bã kể: Trước khi xảy ra vụ việc tại Công ty Lâm nghiệp La Ngà, buổi trưa anh ấy vẫn ăn cơm, dặn dò vợ con để cho mình nghỉ ngơi, sau đó rời khỏi nhà như thường ngày, không có biểu hiện nào bất thường.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/18/avatar1795014637021-1795014639287622992546-18-151-567-1030-crop-1795014714020240960199.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-18T22:23:00+07:00",
-"found": "2026-11-18T22:45:26+07:00"
-},
-{
-"id": "3eb0bb0b933a",
-"title": "Nhóm cựu cán bộ khai không thể tiếp cận kiểm tra dự án CT6 Kiến Hưng",
-"link": "https://cafef.vn/nhom-cuu-can-bo-khai-khong-the-tiep-can-kiem-tra-du-an-ct6-kien-hung-18826111820451271.chn",
-"summary": "Nhóm cựu lãnh đạo UBND phường Kiến Hưng cho biết, không thể kiểm tra và tiếp cận hồ sơ dự án CT6 Kiến Hưng; còn cựu cán bộ Thanh tra xây dựng quận Hà Đông nêu lý do khách quan để giải thích cho việc chưa thực hiện đầy đủ công tác kiểm tra.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1795009384453-17950093848692077581013.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T22:18:00+07:00",
-"found": "2026-11-18T22:30:13+07:00"
-},
-{
-"id": "d9de9d7c66f4",
-"title": "TP.HCM dùng 3 lô đất Thủ Thiêm hơn 23.000 tỷ thanh toán Trung tâm hành chính mới",
-"link": "https://cafef.vn/tphcm-dung-3-lo-dat-thu-thiem-hon-23000-ty-thanh-toan-trung-tam-hanh-chinh-moi-188261118204640131.chn",
-"summary": "Tổng đầu tư quảng trường, Trung tâm hành chính Thủ Thiêm và các hạng mục khoảng 29.616 tỷ đồng; TP.HCM dùng 3 khu đất hơn 23.000 tỷ thanh toán kết hợp ngân sách.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1795009542927-17950095450861692845158.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-18T22:17:00+07:00",
-"found": "2026-11-18T22:30:13+07:00"
-},
-{
-"id": "56a55c232278",
-"title": "Đà Nẵng chấp thuận chủ trương đầu tư Khu đô thị Tây Bắc sườn đồi hơn 9.900 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdzc2bWlieWZGR2RURFFfQVdjNWV1V1VQc3ZUSGxfQ3ZMaHlhemdFSWdFdHVSWGFmX2ZhRkowcVRLcFhCTUcwNUk3NFhVVTJwcVZzQmF5WXNDZUlqeWdOc29sSy1aUkc4SzZBZEg2TzIzekhGTk1zaFViSDY3NUNrdXJ5ZkdMUzVZNmtneWZUSUFrYzJiQUEyV19ORlJCcDR0UDlJeHd3VGJqWGJDWGluZHBBWWxaZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T22:16:21+07:00",
-"found": "2026-11-18T23:38:36+07:00"
-},
-{
-"id": "1882984c7b28",
-"title": "Phát hiện vật thể lạ nghi \"cát lợn\" quý hiếm trong dạ dày lợn ở Nghệ An",
-"link": "https://kenh14.vn/phat-hien-vat-the-la-nghi-cat-lon-quy-hiem-trong-da-day-lon-o-nghe-an-215261118222402393.chn",
-"summary": "Vật thể hình cầu, cứng, phủ lông dày và có mùi thoang thoảng thuốc bắc được phát hiện trong dạ dày lợn nái, khiến người đàn ông tò mò về lời đồn giá trị tiền tỷ.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/18/avatar1795015358500-17950153587591878641839.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-18T22:16:00+07:00",
-"found": "2026-11-18T22:30:13+07:00"
-},
-{
-"id": "ff8d4b07a7d8",
-"title": "Tìm người làm chứng vụ nam sinh bị bạn thả xuống sông sau tai nạn",
-"link": "https://vietnamnet.vn/tim-nguoi-lam-chung-vu-nam-sinh-bi-ban-tha-xuong-song-sau-tai-nan-2576305.html",
-"summary": "Liên quan vụ nam sinh 18 tuổi tử vong sau khi đi cùng bạn, Công an Nghệ An đang tìm người làm chứng, người biết việc để phục vụ điều tra.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/tim-nguoi-lam-chung-vu-nam-sinh-bi-ban-tha-xuong-song-sau-tai-nan-3494.avif?width=0&s=XD49pSVRDIAsJqw8pnJ-Xg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-18T22:09:50+07:00",
-"found": "2026-11-18T22:15:00+07:00"
-},
-{
-"id": "086a860362c5",
-"title": "Công ty do ông Phan Tấn Đạt làm Chủ tịch bị phạt",
-"link": "https://vietnamnet.vn/cong-ty-do-ong-phan-tan-dat-lam-chu-tich-bi-phat-2576474.html",
-"summary": "Do vi phạm quy định về công bố thông tin, công ty liên quan đến Chủ tịch Hội Doanh nhân trẻ TPHCM vừa bị xử phạt 177,5 triệu đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/18/cong-ty-do-ong-phan-tan-dat-lam-chu-tich-bi-phat-2972.png?width=0&s=Xw4YNICfvo2mrLfEaP-T6Q",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-18T22:06:58+07:00",
-"found": "2026-11-18T20:05:11+07:00"
-},
-{
-"id": "1a1065ed5ac1",
-"title": "“Đến 2028, bong bóng AI có thể vỡ và gây suy thoái kinh tế Mỹ”",
-"link": "https://vneconomy.vn/den-2028-bong-bong-ai-co-the-vo-va-gay-suy-thoai-kinh-te-my.htm",
-"summary": "Lời cảnh báo này được đưa ra vào một thời điểm nhạy cảm đối với ngành công nghiệp AI sau hàng loạt cú sốc liên tiếp trong những tuần gần đây...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/18/7d82abb9a89744daa823dabcfc9537e5-136753.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-18T22:06:10+07:00",
-"found": "2026-11-18T22:15:00+07:00"
-},
-{
-"id": "991311a517af",
-"title": "Khối ngoại bán ròng đột biến lên 1.200 tỷ",
-"link": "https://vneconomy.vn/khoi-ngoai-ban-rong-dot-bien-len-1200-ty.htm",
-"summary": "Khối ngoại bán ròng đột biến lên gần 1.200 tỷ trên cả ba sàn. Nhà đầu tư nước ngoài mua ròng mạnh nhất KDH với 41,6 tỷ đồng, tiếp đến là FRT 21,9 tỷ đồng và BSR 21 tỷ đồng.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/18/49683d4d9a7a4c3d975c9e7295553e33-136780.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-18T22:02:23+07:00",
-"found": "2026-11-18T22:15:00+07:00"
-},
-{
-"id": "dba88bfe0f31",
-"title": "VN-Index giảm mạnh, kiểm định vùng hỗ trợ 1680-1700 điểm",
-"link": "https://vneconomy.vn/vn-index-giam-manh-kiem-dinh-vung-ho-tro-1680-1700-diem.htm",
-"summary": "VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 19/11/2026",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/18/2a92a269f2d24c0a8e623daed97e17b2-136797.gif",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-18T22:02:14+07:00",
-"found": "2026-11-18T22:15:00+07:00"
-},
-{
-"id": "909bac5a52bc",
-"title": "Gỡ vướng đóng mã số thuế: Miễn hồ sơ, giảm đến 85% tiền phạt",
-"link": "https://tuoitre.vn/go-vuong-dong-ma-so-thue-mien-ho-so-giam-den-85-tien-phat-100261118212816631.htm",
-"summary": "Bộ Tài chính trình Chính phủ phương án giảm tới 85% tiền phạt đối với hộ kinh doanh kê khai khi làm thủ tục đóng mã số thuế. Đồng thời, Bộ đề nghị miễn nộp một số hồ sơ thuế.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/ho-kinh-doanh-1787470786507855486193-0-0-1199-1918-crop-17950113373281286444974.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T22:02:00+07:00",
-"found": "2026-11-18T23:23:21+07:00"
-},
-{
-"id": "290a48639923",
-"title": "Khởi tố quản trị viên của 25 fanpage vì đăng bài bôi nhọ, đòi tiền",
-"link": "https://dantri.com.vn/phap-luat/khoi-to-quan-tri-vien-cua-25-fanpage-vi-dang-bai-boi-nho-doi-tien-20261118215352904.htm",
-"summary": "(Dân trí) - Đàm Hải Hoàng đã sử dụng 10 tài khoản Facebook, quản trị 25 fanpage để đăng thông tin tiêu cực về cá nhân, cơ sở kinh doanh rồi yêu cầu chuyển tiền để gỡ bài.",
-"image": "https://cdnphoto.dantri.com.vn/RK-rDvlrTk8bxgoWqEQjTHzOgAs=/2026/11/18/bi-can-dam-hai-hoang-cropped-1795013511701.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-18T21:59:46+07:00",
-"found": "2026-11-18T22:45:26+07:00"
-},
-{
-"id": "9a3648595224",
-"title": "Thu ngân sách nhà nước về đích, đạt hơn 2,52 triệu tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3FvY0thWlpyeW0zSk1zOV94Q2NuTkRIZU5yanRzYmxwX0VWZ25aQzNYeWhmX19BS3FGa3JlTkdWT0tKekgwUlhBUnliQVBuWFJUM25zNl9TLVdkc0VNMklCRGJMdDc5Z1VoamFqZ3pTb201ZWk5YU1FV3J1aHlLelE3NGNGQTlIenF5VERtU3p2UFQx?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T21:58:00+07:00",
-"found": "2026-11-18T22:15:00+07:00"
 }
 ]
 }
