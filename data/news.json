@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T19:45:05+07:00",
-"new": 7,
+"updated": "2026-11-21T20:00:35+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 23
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "e46eb1929399",
+"title": "Miền Bắc sắp đón không khí lạnh, rét trở lại sau ít ngày ấm lên",
+"link": "https://vietnamnet.vn/mien-bac-sap-don-khong-khi-lanh-ret-tro-lai-sau-it-ngay-am-len-2572300.html",
+"summary": "Sau những ngày rét sâu, miền Bắc sẽ ấm dần từ cuối tuần, nhiệt độ tại Hà Nội có thể lên 27 độ vào đầu tuần tới. Tuy nhiên, không khí lạnh tiếp tục tăng cường khoảng đêm 23-24/11, khiến khu vực này lại chuyển mưa rét.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/21/mien-bac-sap-don-khong-khi-lanh-ret-tro-lai-sau-it-ngay-am-len-2163.jpg?width=0&s=aNZXp9E9KIeYaQ1TiQM4kg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-21T19:58:33+07:00",
+"found": "2026-11-21T20:00:35+07:00"
+},
+{
+"id": "9b6532a83476",
+"title": "Thủ tướng chỉ thị kích cầu tiêu dùng cuối năm",
+"link": "https://vnexpress.net/thu-tuong-chi-thi-kich-cau-tieu-dung-cuoi-nam-5147500.html",
+"summary": "Thủ tướng yêu cầu Bộ Tài chính điều hành chính sách thuế, phí hợp lý, nhằm giảm chi phí sinh hoạt và tăng khả năng chi tiêu của các hộ gia đình, kích cầu tiêu dùng cuối năm.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/img-1795264545-4321-1795264577.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yirqD19ta2l2YSM1MDF1FA",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-21T19:51:24+07:00",
+"found": "2026-11-21T20:00:35+07:00"
+},
+{
+"id": "c0095f87b3b9",
+"title": "PNJ thay đổi chính sách thu đổi: Vàng nhận tiền sau 1 ngày, kim cương chờ 4 tháng",
+"link": "https://cafef.vn/pnj-thay-doi-chinh-sach-thu-doi-vang-nhan-tien-sau-1-ngay-kim-cuong-cho-4-thang-188261121182046949.chn",
+"summary": "PNJ rút ngắn thời gian thanh toán thu đổi đối với nhiều nhóm vàng và trang sức, mở rộng lên 141 điểm tiếp nhận trên toàn quốc, trong bối cảnh doanh nghiệp đối mặt áp lực dòng tiền, tồn kho lớn và thua lỗ hàng tháng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795260012333-1795260012765407069734.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-21T19:51:00+07:00",
+"found": "2026-11-21T20:00:35+07:00"
+},
+{
 "id": "5d82caa82d58",
 "title": "Nghiêm cấm vận động, ép buộc người khác sử dụng thuốc lá",
 "link": "https://thanhnien.vn/nghiem-cam-van-dong-ep-buoc-nguoi-khac-su-dung-thuoc-la-185261121185732629.htm",
@@ -222,6 +255,17 @@
 "cat": "xh",
 "published": "2026-11-21T19:41:00+07:00",
 "found": "2026-11-21T19:45:05+07:00"
+},
+{
+"id": "1e5cd1e53260",
+"title": "Tìm thấy 99 liệt sĩ nằm chồng 4 lớp lên nhau ở mộ tập thể trong Công viên Lê Thị Riêng",
+"link": "https://kenh14.vn/tim-thay-99-liet-si-nam-chong-4-lop-len-nhau-o-mo-tap-the-trong-cong-vien-le-thi-rieng-215261121191309236.chn",
+"summary": "Quá trình thực hiện việc tìm kiếm quy tập hài cốt liệt sĩ, các cán bộ chiến sĩ Đội K74 - Bộ Tư lệnh TPHCM đã ghi lại chi tiết sơ đồ vị trí, tư thế của từng liệt sĩ khi tìm được.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795263142246-1795263143008882549678.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T19:40:00+07:00",
+"found": "2026-11-21T20:00:35+07:00"
 },
 {
 "id": "f536a9a2f77d",
@@ -847,6 +891,17 @@
 "cat": "tc",
 "published": "2026-11-21T17:52:00+07:00",
 "found": "2026-11-21T17:57:25+07:00"
+},
+{
+"id": "28ee2c615087",
+"title": "Toàn cảnh vụ Mbappe bị cả Trung Quốc phẫn nộ",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN053cF9pOG9ndExacWJzYVpGMWNrVFlpekZTS3pqbkpWMHZWaTFYS2JEMXFNeGx6aVVaQjFYdThiZkRUVGZxSHJxMGxDWUktUVdXZUxyRE1hamRHeTdqbTBVRzk5dEczU2hobHZkQjNqeEdRODVOQjRzMlRJb0ZCMVVn?oc=5",
+"summary": "Nguồn: SkyDoor News",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T17:49:17+07:00",
+"found": "2026-11-21T20:00:35+07:00"
 },
 {
 "id": "dc54c9960ffc",
@@ -27923,61 +27978,6 @@
 "cat": "xh",
 "published": "2026-11-19T09:02:00+07:00",
 "found": "2026-11-19T09:41:05+07:00"
-},
-{
-"id": "7812a60203c4",
-"title": "Niềm vui an cư của người dân vùng ngập lụt Ia Tul",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdGVOdkdaTVIyUjRnT05IT3JSWEtwNHJuaVpiaUNtb05vNWxsR1dWQ29RM3VrSTE3ektwTkVIZmxnY0Y0THY5RUlINlNzX3Z4dkU1NGYzMVFfb2VWX2M1eVkzM0puZldGVVJrNU5HbzY1bzdyVzhXdWF1NDZwZm01d2gtZURwLXI2M0E?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T09:01:00+07:00",
-"found": "2026-11-19T09:07:59+07:00"
-},
-{
-"id": "510451edb9a8",
-"title": "Chuẩn bị toàn diện cho APEC 2027 tại Phú Quốc",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFh6S3hpMDh1cmxoYThGeU5aUWc4eDg3bjJPZmdqVm1lRlZRODk4OTVrbmFWNnF3dmM5U0piNWtBbkxJc3FnTktCSGVPRXdvc0dJSmtOajcyNGFsTHJIb0ltSE1JVlhwT2V5V0NKNU9UTHdBZkVEdnNOeml6SXN6VzljU2s?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T09:01:00+07:00",
-"found": "2026-11-19T09:07:59+07:00"
-},
-{
-"id": "ffb4f1be040f",
-"title": "Lợi nhuận doanh nghiệp lớn tăng mạnh, VN-Index còn dư địa tăng?",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2Ytd29LZ1lQQkFHMVRNY1dUR0lKdmQ0ZUVEYV9lblBwQjZNWTZCelUyejdUWC16TUc0Z0Y3N3RnSHFyM1NoZ0NoY2tGcWVUVUhMTFVGOXM4Qy1SUGVwbjJJcnRvU1A4djQ4TVlPMUhZXzBKNlFBbmVLQko3RlVnWEtCLWI1cXNEOFFWNjJmakhhNVc1MmxwVF93?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T09:01:00+07:00",
-"found": "2026-11-19T09:07:59+07:00"
-},
-{
-"id": "1b98410e32db",
-"title": "Tiêu chí mới khi chọn căn hộ: Nước sạch, nhà an toàn, công trình bền",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbmxzbzdZdnBHcjdYSmZpUHdVR3hHNDc5aTlmZFNUMEtjNnhKVkNjMXFSY2dFWnhSVlZDUnBiSE4yeEt4WGxQOWs1RFlaMDhyNk9xVVNPRDUtTEI2aG1IX2ZraUQyQ1NCVGlQbFdNWnRxbVY2VGNCNTRUeWV5eDZCLXZrZ3QxbzJuTUtjcm9qZmRxYjNLckMybkVWMm1UREk?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T09:00:20+07:00",
-"found": "2026-11-19T09:07:59+07:00"
-},
-{
-"id": "b9a23776cbf4",
-"title": "Mega Tour: Chuẩn hoá dịch vụ, nâng tầm trải nghiệm du lịch theo tour",
-"link": "https://vietnamnet.vn/mega-tour-chuan-hoa-dich-vu-nang-tam-trai-nghiem-du-lich-theo-tour-2576597.html",
-"summary": "Định hướng phát triển các sản phẩm du lịch trải nghiệm, Mega Tour không ngừng đa dạng hóa hành trình khám phá, tập trung vào thị trường Trung Quốc và đáp ứng nhu cầu ngày càng phong phú của du khách hiện đại.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/mega-tour-chuan-hoa-dich-vu-nang-tam-trai-nghiem-du-lich-theo-tour-325.png?width=0&s=bYJEIX1ySe1orG6RJ_YJ3w",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-19T09:00:00+07:00",
-"found": "2026-11-19T09:07:59+07:00"
 }
 ]
 }
