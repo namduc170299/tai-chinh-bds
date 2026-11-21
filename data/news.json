@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T06:45:04+07:00",
-"new": 0,
+"updated": "2026-11-21T07:00:19+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 60
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "52cd28ff4861",
+"title": "[Bài 4] Hiểu hợp đồng quyền chọn trên chỉ số chứng khoán",
+"link": "https://vneconomy.vn/bai-4-hieu-hop-dong-quyen-chon-tren-chi-so-chung-khoan.htm",
+"summary": "Khi muốn tham gia một đợt tăng của thị trường hoặc bảo vệ danh mục trước nguy cơ giảm giá, nhà đầu tư thường nghĩ đến việc mua, bán cổ phiếu. Quyền chọn trên chỉ số chứng khoán mở thêm một cách tiếp cận bằng cách trả một khoản phí để có quyền hưởng khoản chênh lệch nếu chỉ số…",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/17/494729671eb54baba70da8a19c841e2b-136359.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-21T07:00:00+07:00",
+"found": "2026-11-21T07:00:19+07:00"
+},
+{
+"id": "efe25a69f8bb",
+"title": "Không khí lạnh suy yếu, vùng núi miền Bắc rét đậm 11 độ C",
+"link": "https://thanhnien.vn/khong-khi-lanh-suy-yeu-vung-nui-mien-bac-ret-dam-11-do-c-185261121064212258.htm",
+"summary": "Dự báo thời tiết ngày hôm nay 21.11, vùng núi miền Bắc có rét đậm, nhiệt độ dưới 11 độ C. Dự báo trong 2 ngày cuối tuần, không khí lạnh suy yếu dần và lệch dần sang phía đông.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-edit-khong-khi-lanh-17952178373721027471046-1795217888679591985185-57-0-898-1345-crop-17952178978181516282608.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-21T07:00:00+07:00",
+"found": "2026-11-21T07:00:19+07:00"
+},
+{
+"id": "b061b8314103",
+"title": "Tỷ giá USD hôm nay (21-11): Đồng USD hạ nhiệt",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVhmelV0T2JFczJQVDFId2ZkdW9VTHYwNDgtMU1HMWFoQkVMUkNpZC1qbjk0UU1kcUlCNzFuM2NUQTRKcVJlbERIRGZRdWFQWFh5amVzWFVkY0Qzd3lIMXFoVHFobmdhR1VSN25pb0lNSW5KZHFoWVluRV92cWJheg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T06:43:00+07:00",
+"found": "2026-11-21T07:00:19+07:00"
+},
+{
 "id": "485b71519efe",
 "title": "Được bệnh viện tuyến cuối tiếp sức, Bệnh viện đa khoa Bà Rịa thay đổi ra sao?",
 "link": "https://thanhnien.vn/duoc-benh-vien-tuyen-cuoi-tiep-suc-benh-vien-da-khoa-ba-ria-thay-doi-ra-sao-185261120205721068.htm",
@@ -224,6 +257,29 @@
 "found": "2026-11-21T06:44:45+07:00"
 },
 {
+"id": "359f25f04a0f",
+"title": "đường cao tốc thành phố hồ chí minh - long thành - dầu giây",
+"link": "https://vnexpress.net/10-km-cao-toc-tp-hcm-long-thanh-hoan-thanh-mo-rong-len-10-lan-5146798.html",
+"summary": "10 km cao tốc TP HCM - Long Thành hoàn thành mở rộng lên 10 làn (VnExpress)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcWoODP8k35i9hFvztjn2_JrVZbupaz2q18Fa2qrx8u_wwZJntDU9EEmaRr-I",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T06:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-21T07:00:19+07:00"
+},
+{
+"id": "1a95e125a7eb",
+"title": "Doanh nghiệp xuất khẩu cà phê đổ về sân nhà, cuộc đua mở quán thêm nóng",
+"link": "https://dantri.com.vn/kinh-doanh/doanh-nghiep-xuat-khau-ca-phe-do-ve-san-nha-cuoc-dua-mo-quan-them-nong-20261120163144197.htm",
+"summary": "(Dân trí) - Thị trường cà phê Việt sôi động hơn khi nhiều doanh nghiệp xuất khẩu cà phê nhân quay về, lấn sân sang rang xay, chế biến và bán lẻ.",
+"image": "https://cdnphoto.dantri.com.vn/rWDQXWxaBxNvW60hssDnb3F_dBk=/2026/11/20/ca-phe-7-cropped-1795166968875.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-21T06:30:01+07:00",
+"found": "2026-11-21T07:00:19+07:00"
+},
+{
 "id": "c63d36a07eee",
 "title": "Người phụ nữ SN 1969 mang sấp tiền 170 triệu đồng đến bưu điện giao dịch, nhân viên lập tức trình báo công an",
 "link": "https://kenh14.vn/nguoi-phu-nu-sn-1969-mang-sap-tien-170-trieu-dong-den-buu-dien-giao-dich-nhan-vien-lap-tuc-trinh-bao-cong-an-215261120234611976.chn",
@@ -233,6 +289,42 @@
 "cat": "xh",
 "published": "2026-11-21T06:30:00+07:00",
 "found": "2026-11-21T06:44:45+07:00"
+},
+{
+"id": "263913232ac1",
+"title": "cup mls",
+"link": "https://www.espn.com/soccer/story/_/id/50520734/mls-playoff-round-1-predictions-lionel-messi",
+"summary": "MLS playoff Round 1 predictions: Who will move on to the conference semifinals? (ESPN)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYIXNRs_7vx8_QBoXOQQnTceDlwmVwz0Ow2WKa4WpMpEw63VMwQkcpFQWsxp8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T06:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-21T07:00:19+07:00"
+},
+{
+"id": "613e23ba7568",
+"title": "dan tri",
+"link": "https://vtv.vn/vinh-danh-55-tac-pham-bao-chi-xuat-sac-ve-phat-trien-van-hoa-viet-nam-100261120135259107.htm",
+"summary": "Vinh danh 55 tác phẩm báo chí xuất sắc về phát triển văn hóa Việt Nam (VTV.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3Fy4P-Yy_1thFaB6t_N79kYtsY93oYPodN4KOp3FQyZERwDIK6LYWxwdkkEg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T06:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-21T07:00:19+07:00"
+},
+{
+"id": "27482950c725",
+"title": "thời tiết huế",
+"link": "https://vietnamnet.vn/du-bao-thoi-tiet-cuoi-tuan-mien-bac-ret-trung-bo-mua-lon-150mm-2572299.html",
+"summary": "Dự báo thời tiết cuối tuần: Miền Bắc rét, Trung Bộ mưa lớn trên 150mm (Báo VietNamNet)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyxedmy4ciIaCtCkh88jpOrNjhzg2wabjNuCelGGDyPhSflFd80QD0wGi-IMw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T06:30:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-21T07:00:19+07:00"
 },
 {
 "id": "54178f279440",
@@ -255,7 +347,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T06:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-21T06:44:45+07:00"
 },
 {
@@ -4541,6 +4633,17 @@
 "found": "2026-11-20T16:04:37+07:00"
 },
 {
+"id": "9f6224096bdb",
+"title": "Hồ Ngọc Hà muốn 'xử lý' người phát tán ảnh gây hiểu lầm",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRmdOTmlYMTRuaFNGQTZvbG9MeWh5MEh5ZFFlY29ISm5jb3VGSWNxRGc4am55S0ZUdkpUQkZWQXRPdjFnNG1na0ktZkVSaDRxUmxCd2RGSXhhazFOQ2t1VWNEcE5XNlZDdWd1VFBBQjJ2NkRIMG9RMy0wX0ZnVElTZkd5WGFGaVlJNjl3NEZVX1Z5UHRCbXNTeGx4QlVBVjdNQWVGWEZKY3ZpdXlJ?oc=5",
+"summary": "Nguồn: Tạp chí Saostar",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T16:00:00+07:00",
+"found": "2026-11-21T07:00:19+07:00"
+},
+{
 "id": "35155df2b6a6",
 "title": "Chứng khoán giảm 4 phiên liên tiếp",
 "link": "https://vnexpress.net/chung-khoan-giam-4-phien-lien-tiep-5147106.html",
@@ -5960,6 +6063,17 @@
 "found": "2026-11-21T05:28:31+07:00"
 },
 {
+"id": "0d0b9b6a5e2a",
+"title": "Dự đoán tỉ số U17 World Cup: Mali vùi dập New Zealand",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFkyREd5TkFRSE5PNEdPZW1fZTBRT3FIQkEyeUJPSWpWbV80VVRWVUlfc25tVy1TSTZ2RndWTkc0S1liLVBRa1J0ME1WZllIUkNWaWRFS0ZRR2dxTjhOT2RXMmdJblFDR3pUbmRhMm1NTWs1M2pUazV6MGxzWjNVcg?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T13:13:19+07:00",
+"found": "2026-11-21T07:00:19+07:00"
+},
+{
 "id": "d6639c3bd8b5",
 "title": "Lịch thi đấu V.League vòng 8 mùa giải 2026/27: Viettel vs SLNA, Thành phố Đồng Nai vs Hà Nội, Đà Nẵng vs Ninh Bình",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUGs5VmJ6T05qVzFQYy1vWVpxVGFhZFhnVlpvRDVIdFdDcjF6bU50dV9kZE90eG5GaEMwWjlRNDkyYjZ2azM3QktNMzJpSXVONEsweG5lT19ybEhPd1FMa0tIZ1gtdlhaTEZVbFRVSTRRdjM3aGt2SEpaM0RNOW00b2ozTm9VTEpYYW1zazdYUEI4WFRyZllrcFlJb3JMY011bk9aMFQ2YlgxcDRDVTNRSl94S1F6QTM4cDVJQjFySTllalBNYTBFa2trQ1pIeUk?oc=5",
@@ -6002,6 +6116,17 @@
 "cat": "xh",
 "published": "2026-11-20T13:13:15+07:00",
 "found": "2026-11-20T15:33:19+07:00"
+},
+{
+"id": "f46699cb9679",
+"title": "Vovinam thành phố Đồng Nai giành 4 huy chương tại Đại hội Thể thao toàn quốc lần thứ X",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObktwMEVhaS03QTJIYmowelUydzJOckVlWWU5QWlTQXc3Y0RCRWpLLU5XS3JhVFp4emU1X2RaMmNSVlpsY0trMVVYZ1dsQnMwQ0xWUndldUFfMEFFZ2U0LWVJTEpCSFA1WHR3cTdZQ3VYbEtkOXR5N2pmRlpYQVhKUUxSWDFpUGExenRNb3hUR0JobUZ6alBGT0RDRHk4SFZ6cW81X1hIaGV2eGpWM0E?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T13:13:15+07:00",
+"found": "2026-11-21T07:00:19+07:00"
 },
 {
 "id": "f3a1db21693d",
@@ -18933,6 +19058,17 @@
 "found": "2026-11-19T11:26:14+07:00"
 },
 {
+"id": "af18ef5da838",
+"title": "Giao ô tô cho con trai chưa có bằng lái xe rồi livestream khoe trên mạng xã hội, bố mẹ nhận mức phạt khủng",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN3Bjb1phaEN0aXl6OGppcE9DelhIbU5kVmNCeElpV0ZWS0lqMTFsRTRsS1Uwczl3TldWZTByRW9xdjl4V1lFS1lFWjhTOTJndzJ6Q2xzcTVpVUcwdDRlTFA1QU9oTTdOUUJoQjZKMmJKR3dWWWgtRVdFbThrTGtXakFKT1FwRHlCVDVBbklyakNLekZJVVQ5MklXYkpWUWFPUjJmbERmWXQyQ0FjbVJaR0R3NGNBWWtsbGNZOWs5eXA2eUpxNWh3NVk4WWYxdWdUdHRwV1VoTEtQZw?oc=5",
+"summary": "Nguồn: Phụ nữ Mới",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-19T11:11:00+07:00",
+"found": "2026-11-21T07:00:19+07:00"
+},
+{
 "id": "fa6feb6e74d3",
 "title": "Ông Lê Thanh Thản bị đề nghị 30-36 tháng tù treo",
 "link": "https://cafef.vn/ong-le-thanh-than-va-5-cuu-can-bo-o-ha-noi-duoc-de-nghi-an-tu-treo-188261119102555742.chn",
@@ -27857,138 +27993,6 @@
 "source": "VnEconomy",
 "cat": "tc",
 "published": "2026-11-18T15:33:25+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "c590d5ee9f02",
-"title": "Cháy căn hộ chung cư Mandarin, 4 người dân thoát nạn an toàn",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNEcySUJvNWkydXlkU1VRX2luc0dGLTFRVWdNSUE2UWVSbEZjWWVNSmVBdUZJaWdPTmdYRFJHSktXeXZpMFRQRmpVc25zaXBzdHRHQWtScDVaS3ZSbDRKaEJyLVBxWnAxZXdxWkJYd3BSOEJhSzdVR1UyS0lfUWw0a0toQTRMaG1FRHJrZDhJNnY1VExPVGJZ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T15:32:31+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "09e7aac8c0ad",
-"title": "Xét xử bị cáo Lê Thanh Thản: Sở Xây dựng Hà Nội nói về hiện trạng tòa CT6 Kiến Hưng",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU0JoNm5meDRoWUxuQ1daSzJaanN2cmpnd3JtR3ZfR3FTY2JobHhrZkJNV2wtT3RZeEFnWGQ4YkdiZFVaa0RvWHlwWlRhZ0pxZTU4RlFiUndFci04SDBKa2VCN0pBT3N6c1BhWWQ4M1FKLW8tdDNpUXl0dDFfTFhqbHRPV3VFTUZaMHZXcXdhM0RTcHhFZE55azFUNG5DR3FCYlhzN24yN2pEQU01V0tzWC1JVnRtUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T15:31:00+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "c5621e4a8d32",
-"title": "Fed có thể tăng lãi suất thận trọng để kiềm chế lạm phát",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFQxSTBpcmRyVWFHN3pZSnJ6ZjFTS2Z1U25xRXBVSWhVcEV2YnoyVGpqZUk5M1pOX3Z6Smp3V2FLZHhrTm8tWXNJbUFJbDNaY25WeWUxdGlWbmZYUFhqS1o4bFQ1RFNDcjlxNjdMeXZfOFVDaW16SGRkbzY4ZktEWUI4dEgwakdSVklOaE9ScVpVZ1U?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T15:31:00+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "bbf8aaf45ea9",
-"title": "Thống đốc NHTW Nhật nói gì về việc tăng lãi suất?",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFpsTmNuRTJ0UXl6WHQ1a1BGbGZEX3dvQnBvd2lyRFY5Z3IyNmFkcm1fbGtocXdob0dEWUhsRTFiR1hxaTNyb3JOSGhHbWJKVlJTX3ZyTTg0cnEwTF9MT3AyNFdySDFOa0k4OVk3cUx1ZE9JUm9yaVloMEJaUkxsN081OE9MSWdK?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T15:30:50+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "0cc057a68329",
-"title": "Bán tháo, gần một phần ba cổ phiếu “bốc hơi” quá 2%, VN-Index rơi sát 1700 điểm",
-"link": "https://vneconomy.vn/ban-thao-gan-mot-phan-ba-co-phieu-boc-hoi-qua-2-vn-index-roi-sat-1700-diem.htm",
-"summary": "Sự kiên nhẫn của nhà đầu tư cầm cổ phiếu có thể đã đến giới hạn. Chiều nay một đợt bán tháo mạnh xuất hiện, không chỉ đẩy thanh khoản tăng vọt 64% so với buổi sáng mà khiến gần một phần ba cổ phiếu trong VN-Index giảm vượt 2%.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/18/8eb5a9c0c5e7449599d45d9476fe953f-136723.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-18T15:29:51+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "d282a3fc9553",
-"title": "Hòa giải từ cơ sở, vun đắp đồng thuận trong cộng đồng dân cư",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkpvcFdQOTZRQnZSQnA5cWhIUHl3QjBWZU5zdHVET3d2ZzhobXBfSzR0dTFTX2R1UTZOM2ZHWElwV05CcF9JOGY5d1h0bkphRmRzdUtRaWN1X0hGSHdMd3FhaUo1RlBQMEZSOVpZR0pLWjdoNzlFVTJ3REthSjRBUlRoUkt6eWpiVWg3dzNoOUpSRU9YSFFF?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T15:28:00+07:00",
-"found": "2026-11-18T18:07:35+07:00"
-},
-{
-"id": "765097805c49",
-"title": "Hơn 250.000 thông báo tạm hoãn xuất cảnh, phần lớn do không kinh doanh ở địa chỉ đăng ký",
-"link": "https://tuoitre.vn/hon-250000-thong-bao-tam-hoan-xuat-canh-phan-lon-do-khong-kinh-doanh-o-dia-chi-dang-ky-100261118151632396.htm",
-"summary": "Theo Cục Thuế, trong hơn 250.000 thông báo tạm hoãn xuất cảnh được ban hành, có trên 240.000 trường hợp liên quan đến chủ doanh nghiệp, hộ kinh doanh không còn hoạt động tại địa chỉ đăng ký. Đây là số liệu lũy kế từ tháng 7-2007 đến hết tháng 10-2026",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/thue-1794990575764849034097-85-186-1002-1653-crop-1794990618149379684856.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T15:26:00+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "fdd12dc9310d",
-"title": "Iran tuyên bố tập kích tổ hợp Patriot Mỹ ở Kuwait",
-"link": "https://vnexpress.net/iran-tuyen-bo-tap-kich-to-hop-patriot-my-o-kuwait-5146065.html",
-"summary": "Iran thông báo tấn công loạt mục tiêu ở căn cứ Mỹ tại Kuwait, trong đó có tổ hợp Patriot, sau khi đảo chiến lược Qeshm bị tấn công.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/settop-1794985335-7096-1794985943.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5qZceP850p1eBiAMv4HDfQ",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-18T15:22:30+07:00",
-"found": "2026-11-18T18:54:29+07:00"
-},
-{
-"id": "ddbb17eec116",
-"title": "Quân khu 5 tìm thông tin các khu mộ tập thể liệt sĩ chiến dịch Cấm Dơi - Quế Sơn năm 1972",
-"link": "https://tuoitre.vn/quan-khu-5-tim-thong-tin-cac-khu-mo-tap-the-liet-si-chien-dich-cam-doi-que-son-nam-1972-100261118150044497.htm",
-"summary": "Quân khu 5 đang tìm kiếm thông tin về các ngôi mộ tập thể liệt sĩ được cho là nằm gần tuyến đường cơ động của lực lượng tăng thiết giáp trong chiến dịch Cấm Dơi - Quế Sơn (TP Đà Nẵng) năm 1972.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/liet-si-17949903401361214756679-118-326-712-1277-crop-17949903798002041840446.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-18T15:22:00+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "6c2a4e6b38bd",
-"title": "Chênh lệch giá mua USD tự do và ngân hàng tăng hơn gấp đôi",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMm9hN2diWkJwZm42X29DREMxQkNJVEVnb2IxMlZYNWk1RFo4UTNUVlp0MjZ5ZDdDZjRUeUlpUlIycE9Nd2oxcDZreHFKaDlOUzBvWHU0LWo3czNZUXQxZ1FMeUh6WmsxQkdPSlJnTU5NWWw4cm5fUzEtdTUyRktkc2hGOFJUZjAzRDRzeUVMTVBnRVVKWHc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T15:21:29+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "38a31b59ba41",
-"title": "Chủ tịch thành phố Huế đối thoại, giúp người trẻ tháo gỡ khó khăn để bứt phá",
-"link": "https://thanhnien.vn/chu-tich-thanh-pho-hue-doi-thoai-giup-nguoi-tre-thao-go-kho-khan-de-but-pha-185261118124510821.htm",
-"summary": "Ông Lê Trí Thanh, Chủ tịch UBND thành phố Huế, chủ trì hội nghị đối thoại với hơn 300 đoàn viên, thanh niên trên địa bàn thành phố, lắng nghe tâm tư, nguyện vọng cũng như định hướng khát vọng cống hiến cho thế hệ trẻ.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/base64-17949904832991771095988-50-0-1241-1906-crop-1794990495099491682345.jpeg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-18T15:21:00+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "6c5ea83e11a5",
-"title": "Khảo sát tiến độ giải quyết kiến nghị của cử tri tại các xã phía Bắc",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGJ4VElGTHNmRGdueFB0TExXeEVxZHZSdjRJZl9KNldqcnZveWs3T2s3enJ6Rk9CQ3I1bnQtdnF0ZE0xX0UzbEFSTVgzU2tHQzNhdEd1SHY5eGh5R2VaTjlVUG5wUVAwbldOcjBFSUM2RE9oVjRxUG5DM2V2UldiQUx3b2NfNG80T1N0MHVUX3NfYUxCdGZNaGV2Yk1hMXhwVFEw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T15:20:17+07:00",
 "found": "2026-11-18T15:49:01+07:00"
 }
 ]
