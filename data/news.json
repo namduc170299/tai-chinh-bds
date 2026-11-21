@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T07:00:19+07:00",
-"new": 12,
+"updated": "2026-11-21T07:15:28+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 60
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "bfdbcb61925b",
+"title": "Nhà đầu tư đất nền 'mắc kẹt'",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pdTFtWHNLUElnVFF0em5xUERJcVlfSlBGWXlnZTZrOGpaNG9DcWpUdFl6b2pONUZzV2k0QnNDTlFNU0JPMmQ4aUd4MlBseXk2cVppWmpURXFSbmVJaDBIem1QQjJiYWJ6ZUJr?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T07:00:53+07:00",
+"found": "2026-11-21T07:15:28+07:00"
+},
+{
 "id": "52cd28ff4861",
 "title": "[Bài 4] Hiểu hợp đồng quyền chọn trên chỉ số chứng khoán",
 "link": "https://vneconomy.vn/bai-4-hieu-hop-dong-quyen-chon-tren-chi-so-chung-khoan.htm",
@@ -233,6 +244,76 @@
 "cat": "xh",
 "published": "2026-11-21T07:00:00+07:00",
 "found": "2026-11-21T07:00:19+07:00"
+},
+{
+"id": "50e0712ee490",
+"title": "Vụ ông Lê Thanh Thản ở CT6 Kiến Hưng, cư dân nói gì về mức giá đền bù 53 triệu/m2?",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON1U2aDRsbkh1dENvSEluVFk0R0RJWVkxbXRTUmR2WTZzYWZpcEhfV1BZS2p5bEhKaWVkVzY3eUNNTmZJVWliSnRfQjQ2ekNIWjRycUJ2TG9FN1FZV3JER1lGaE1ER0JkZTV5Z2h6SmxtWmY3NVNQTVZlZUJJU3B6MEJOZFQ3UlFKZzlVeU83Vko5d2VXZi1Dejhta2NLRlQ0a1BpTEhKSmFlRTNaUDU1VHNZRQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T07:00:00+07:00",
+"found": "2026-11-21T07:15:28+07:00"
+},
+{
+"id": "9ecadf6d0eec",
+"title": "Ngày cuối kỳ họp thứ 2, Quốc hội thông qua nhiều nội dung quan trọng",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1FYMFJxcW1faWMyLXZZajhTbGNWNHNUWTJiVjZGNzl6c3RKcGdQQV9lSWhoMGp2cW5sVElPZ1JZcVJrZTZpSkNaNHc1OWxnNVpQblFzb0FxcjJMSlBybjJkWmRZQTI5RDJEZi1hUGhvWVJYcUpVM3JiQUh3OW1Qd0FLQ1NBLXJ5YXFJM2FUUzROdlpyeUF1eVZNRUVDZjNFbnc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T07:00:00+07:00",
+"found": "2026-11-21T07:15:28+07:00"
+},
+{
+"id": "be5e7072ac0a",
+"title": "trần bá dương",
+"link": "https://trends.google.com/trending/rss?geo=VN",
+"summary": "",
+"image": "",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T07:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-21T07:15:28+07:00"
+},
+{
+"id": "fe27f74e576d",
+"title": "câu lạc bộ bóng đá real madrid",
+"link": "https://bongdaplus.vn/la-liga/ke-hoach-real-madrid-2030-va-bo-khung-cho-mot-thap-ky-toi-5295482611.html",
+"summary": "Kế hoạch Real Madrid 2030 và bộ khung cho một thập kỷ tới (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRnB435cv_94cmtNPKpUWVRi2Nwvj6u5PvdoOgGukYr_ZGy_jmAt00kiny1Oo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T06:50:00+07:00",
+"traffic": "500+",
+"found": "2026-11-21T07:15:28+07:00"
+},
+{
+"id": "2202eb31be59",
+"title": "al-ahli saudi fc vs al-nassr standings",
+"link": "https://www.goal.com/en/news/cristiano-ronaldo-moves-within-14-of-1-000-career-goals-then-misses-a-penalty-and-loses-to-ibanez-and-demiral/bltb763f54c7f6edf52",
+"summary": "Cristiano Ronaldo scores and misses a penalty as he closes in on 1,000 career goals (Goal.com)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjbq_1iQUPDiIfCA5xtMyvgvyDcBgKWHPXq_5PafrrjoBp6R7fnPa_pmCm1Mw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T06:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-21T07:15:28+07:00"
+},
+{
+"id": "00a63df8d232",
+"title": "nhà ở xã hội",
+"link": "https://tuoitre.vn/khoi-cong-khu-do-thi-nha-o-xa-hoi-lon-nhat-tphcm-tu-truoc-den-nay-100261118224120141.htm",
+"summary": "Khởi công khu đô thị nhà ở xã hội lớn nhất TP.HCM từ trước đến nay (Báo Tuổi Trẻ)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEHeJdDw2r9LpiwVflge3hLxfM9yA0lSoPOpjhMjhPhNNIYB4JikrW69lINx0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T06:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-21T07:15:28+07:00"
 },
 {
 "id": "b061b8314103",
@@ -265,7 +346,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T06:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-21T07:00:19+07:00"
 },
 {
@@ -325,6 +406,18 @@
 "published": "2026-11-21T06:30:00+07:00",
 "traffic": "1000+",
 "found": "2026-11-21T07:00:19+07:00"
+},
+{
+"id": "882ccd0f671c",
+"title": "voyager 1",
+"link": "https://www.nytimes.com/2026/11/18/science/nasa-voyager-1-earth-light-day.html",
+"summary": "After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth (The New York Times)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGJ7A9457hsIjQ_IMVZdNzwu7nN0bFGboZUk4gCmfpHkCSjQxjqR7hYcX_FHA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T06:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-21T07:15:28+07:00"
 },
 {
 "id": "54178f279440",
@@ -494,6 +587,17 @@
 "published": "2026-11-21T06:00:00+07:00",
 "traffic": "500+",
 "found": "2026-11-21T06:29:33+07:00"
+},
+{
+"id": "9841e8399f5f",
+"title": "Bệnh viện xã hội chủ nghĩa tại Quảng Ninh khác gì bệnh viện công?",
+"link": "https://vnexpress.net/benh-vien-xa-hoi-chu-nghia-tai-quang-ninh-khac-gi-benh-vien-cong-5147211.html",
+"summary": "Từ năm 2027, Bệnh viện Việt Nam - Thụy Điển Uông Bí thí điểm mô hình xã hội chủ nghĩa, mở rộng hỗ trợ người bệnh khó khăn, nâng chất lượng điều trị và cải thiện chế độ đãi ngộ nhân viên y tế.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/1795170704957eec82db0dc47d81a1-5626-6852-1795172950.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KLF1_4VRenu1bpTFiP0PCw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-21T06:00:00+07:00",
+"found": "2026-11-21T07:15:28+07:00"
 },
 {
 "id": "cc6f160f66a6",
@@ -11342,18 +11446,6 @@
 "found": "2026-11-20T05:35:17+07:00"
 },
 {
-"id": "ff8072e077f8",
-"title": "câu lạc bộ bóng đá real madrid",
-"link": "https://vietnamnet.vn/real-madrid-tang-luong-gap-doi-cho-jude-bellingham-2575942.html",
-"summary": "Real Madrid tăng lương gấp đôi cho Jude Bellingham (Báo VietNamNet)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX5pwA03vYP040dI0qWDkYZHubbw5RnScLX_kZeYzLSsr32uNbpNto4AIMvqo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T05:20:00+07:00",
-"traffic": "200+",
-"found": "2026-11-20T05:50:42+07:00"
-},
-{
 "id": "a3e900fdb1cc",
 "title": "cảnh sát",
 "link": "https://vtv.vn/khoi-to-8-bi-can-trong-duong-day-mai-dam-tai-cac-co-so-massage-o-tp-ho-chi-minh-100261117170155456.htm",
@@ -11629,6 +11721,17 @@
 "cat": "xh",
 "published": "2026-11-20T04:00:00+07:00",
 "found": "2026-11-20T00:35:37+07:00"
+},
+{
+"id": "c6ee35cba1df",
+"title": "Tổ trưởng dân phố Gen Z phụ trách 2.500 nhân khẩu",
+"link": "https://vnexpress.net/to-truong-dan-pho-gen-z-phu-trach-2-500-nhan-khau-5146321.html",
+"summary": "Nguyễn Hoàng Nhật Trung, 25 tuổi, tổ trưởng dân phố Tàng Thơ, phường Phú Xuân, dùng video ngắn và mạng xã hội để truyền tải thông tin, kết nối người dân.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/wm1-wm1-1-1795067849-2240-1795067860.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=inzJuuD9PPvMhbfdMnxe4A",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-20T04:00:00+07:00",
+"found": "2026-11-21T07:15:28+07:00"
 },
 {
 "id": "db1397b31754",
@@ -17019,18 +17122,6 @@
 "cat": "mxh",
 "published": "2026-11-19T14:12:00+07:00",
 "found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "d7deafbb0453",
-"title": "nhà ở xã hội",
-"link": "https://tuoitre.vn/khoi-cong-khu-do-thi-nha-o-xa-hoi-lon-nhat-tphcm-tu-truoc-den-nay-100261118224120141.htm",
-"summary": "Khởi công khu đô thị nhà ở xã hội lớn nhất TP.HCM từ trước đến nay (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEHeJdDw2r9LpiwVflge3hLxfM9yA0lSoPOpjhMjhPhNNIYB4JikrW69lINx0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T14:10:00+07:00",
-"traffic": "100+",
-"found": "2026-11-19T14:45:57+07:00"
 },
 {
 "id": "b3601f8f3265",
@@ -27904,95 +27995,6 @@
 "source": "Báo Mới",
 "cat": "tc",
 "published": "2026-11-18T15:41:00+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "825f7e541bb1",
-"title": "Đại diện TP Hà Nội nói gì trong phiên xét xử ông Lê Thanh Thản",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTC1CRG9LNzloSlRzcFA2TlEtcFNyQ1F0NzNudENrVU5kaC10NHhmSG0xUjE0MUNiTDFCTXlSVXZ0U09XTTdXU21WS0M4djEyTlo2cmZiTkNpMXNSa0d5cHpsTG9zUV9kbjlWN24zWWJhckJTUTZIYV9uM0R6dnNxLXgyRkRPWEdXVXhvazU3NXhLWm5Hc09SZFV3NA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T15:41:00+07:00",
-"found": "2026-11-20T09:55:38+07:00"
-},
-{
-"id": "ec2f8e160d7f",
-"title": "Triệu tập nhiều người liên quan vụ Giám đốc Công ty Lâm nghiệp La Ngà bị bắn vào đầu: Hé lộ tình tiết mới",
-"link": "https://kenh14.vn/trieu-tap-nhieu-nguoi-lien-quan-vu-giam-doc-cong-ty-lam-nghiep-la-nga-bi-ban-vao-dau-he-lo-tinh-tiet-moi-215261118154637886.chn",
-"summary": "Cơ quan chức năng đã triệu tập bà P.T.D. (hộ đang canh tác tại khu vực Đồi 5 Cho) cùng nhiều người có mặt tại trụ sở công ty thời điểm xảy ra vụ Giám đốc Công ty Lâm nghiệp La Ngà bị bắn vào đầu tại phòng làm việc để điều tra làm rõ.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/18/avatar1794970412149-17949704129981507122793-0-0-1237-1979-crop-1794991545630764615410.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-18T15:40:00+07:00",
-"found": "2026-11-18T16:46:44+07:00"
-},
-{
-"id": "7f6f33732762",
-"title": "gta6",
-"link": "https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868",
-"summary": "PS5 Gets Last-Minute Software Update That’s Required To Play GTA 6 (Kotaku)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5HqQ3_jYA6w5HbNcZ6fpctl5Udk1r40NmWmUPFF5eJGzehai3eyU8PM2I8R4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T15:40:00+07:00",
-"traffic": "500+",
-"found": "2026-11-18T16:46:44+07:00"
-},
-{
-"id": "a03ebe10bb7a",
-"title": "22 học sinh ngộ độc sau uống nước ngọt mua ở cổng trường",
-"link": "https://vnexpress.net/22-hoc-sinh-ngo-doc-sau-uong-nuoc-ngot-mua-o-cong-truong-5146177.html",
-"summary": "22 học sinh lớp 7 trường THCS Chu Văn An, xã Hương Khê, buồn nôn, đau bụng sau khi uống nước ngọt mua trước cổng trường, sáng 18/11.",
-"image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/18/thcs-chu-van-an-1794990300-3417-1794990389.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y9hcnneLAqOVj5A-qjErPA",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-18T15:39:28+07:00",
-"found": "2026-11-18T18:54:29+07:00"
-},
-{
-"id": "7290a3a1f440",
-"title": "MXV-Index đi ngang, diễn biến giằng co trên thị trường hàng hóa thế giới",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN09RMUEwS2ktSkIxUlNYZmV1M09mUzU5NVhGSk9wRFdTUWlZdnozdE5qMmtrQm0tbGhiMFA2eDU3VVVyNXp4S2Y0UkNCUW84OHpWZ0pDVzJucjFTclJaV201UDhBM09RS0VLUGZFNTAyMGVVRGVWV0Z4RldDRmRpV0FXN0ZMazFZUW1Sd1p4MEs0TW0zb1ZBWTY1OGVISDBhaUR1V3otbw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T15:37:00+07:00",
-"found": "2026-11-18T15:49:01+07:00"
-},
-{
-"id": "a471f759c0ab",
-"title": "Cháy tại chung cư Mandarin, 4 người kịp thời thoát hiểm",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSmRHcm5udnNGV3RJQzhNLXR2Yy1GVUNnVm1fbGRGbDhVR2doazV2VmxqSTZrU0x0RmJZdS1sYVIyOGhnbFN6S3JGbmdZNmlkdUVWakpXRWRkdGZFVlQ0RnJaS3NkdTNyS0FlSS1md29xaXNpWWRhSF93aXV3ZUQyck5Sc0c5RUxLMFNobldTbXA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T15:37:00+07:00",
-"found": "2026-11-20T13:00:41+07:00"
-},
-{
-"id": "9d260fc4d98f",
-"title": "TP.HCM: Gắn tem truy xuất cho 16.000 suất ăn mỗi ngày tại 9 trường của một phường",
-"link": "https://tuoitre.vn/tphcm-gan-tem-truy-xuat-cho-16000-suat-an-moi-ngay-tai-9-truong-cua-mot-phuong-100261118150051203.htm",
-"summary": "Tại phường Bình Tân (TP.HCM), 9 trường công lập có tổ chức bán trú với hơn 16.000 suất ăn mỗi ngày được gắn tem QR, giúp phụ huynh dễ dàng giám sát nguồn gốc thực phẩm, quy trình chế biến suất ăn mỗi ngày.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/suat-an-17949910475321826002367-71-0-805-1174-crop-17949910667381508113476.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-18T15:35:00+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "e9c7a984f519",
-"title": "Xuất hiện dự báo giá vàng có thể giảm về 3.500 USD/oz",
-"link": "https://vneconomy.vn/xuat-hien-du-bao-gia-vang-co-the-giam-ve-3500-usdoz.htm",
-"summary": "Ngoài ra, ngân hàng Goldman Sachs cũng mạnh tay cắt giảm mức dự báo giá vàng cho cuối năm 2026 và 2027...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/18/2bba336f7a3a4722a633fdaae4839893-136602.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-18T15:33:25+07:00",
 "found": "2026-11-18T15:49:01+07:00"
 }
 ]
