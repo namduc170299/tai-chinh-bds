@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T17:11:19+07:00",
-"new": 11,
+"updated": "2026-11-21T17:11:59+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 57
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -311,6 +311,17 @@
 "cat": "xh",
 "published": "2026-11-21T16:36:39+07:00",
 "found": "2026-11-21T17:11:19+07:00"
+},
+{
+"id": "c4a2ae0bc97e",
+"title": "Ngành tôm Việt Nam đặt mục tiêu xuất khẩu 4,7 tỷ USD",
+"link": "https://vnexpress.net/nganh-tom-viet-nam-dat-muc-tieu-xuat-khau-4-7-ty-usd-5147435.html",
+"summary": "Ngành tôm đặt mục tiêu kim ngạch xuất khẩu đạt 4,6-4,7 tỷ USD trong năm 2027, sau khi ghi nhận mức tăng trưởng gần 9% trong 10 tháng năm nay, dù thị trường được dự báo tiếp tục cạnh tranh gay gắt về giá và yêu cầu chất lượng.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/dsc-1795246346-1359-1795246436.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GRvWU4A2Yd1VeHborP-I9g",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-21T16:36:16+07:00",
+"found": "2026-11-21T17:11:59+07:00"
 },
 {
 "id": "dc42b4ec534b",
@@ -581,6 +592,17 @@
 "cat": "xh",
 "published": "2026-11-21T15:34:00+07:00",
 "found": "2026-11-21T15:53:55+07:00"
+},
+{
+"id": "a8b2003509a5",
+"title": "Quốc hội thông qua Luật Đấu thầu (sửa đổi), bệnh viện tự quyết định mua sắm thuốc",
+"link": "https://tuoitre.vn/quoc-hoi-thong-qua-luat-dau-thau-sua-doi-benh-vien-tu-quyet-dinh-mua-sam-thuoc-100261121150016749.htm",
+"summary": "Luật Đấu thầu (sửa đổi) vừa thông qua có nhiều quy định siết chặt nhằm chống thông thầu; đồng thời trao quyền tự quyết định hoạt động mua sắm, đấu thầu trên cơ sở bảo đảm công khai, minh bạch và hiệu quả.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/179524637009811137946946367736111113794694636773611e53588d658027d2553872aa5f7e98489-17952477802901593792281-27-0-1627-2560-crop-1795247841123179840709.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-21T15:33:00+07:00",
+"found": "2026-11-21T17:11:59+07:00"
 },
 {
 "id": "36bf404b4ebe",
@@ -5705,6 +5727,17 @@
 "cat": "xh",
 "published": "2026-11-21T07:03:00+07:00",
 "found": "2026-11-21T07:30:37+07:00"
+},
+{
+"id": "007d4b6eb11e",
+"title": "USD hướng tới tuần tăng thứ tư liên tiếp nhờ kỳ vọng Fed thắt chặt",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQk9KYUYtTVVydThnbGZZd19ZVUhqRUdQRkJaLUktUjkza01yQnl2Mm1jb2c1dEFPQllOU0p0VXd4QjZEdzhwV3U1UmhTWW9tbUdYLXRubFdrS1BaMVU2MHBWU3g2bTg5OThDSVFFSTFaaDZzQzByYVBFQUpkZDRQUEhIbnFPRlRJNFZ1eTFET1VCR1RPY0ZrdWQwVmRBZUtP?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T07:03:00+07:00",
+"found": "2026-11-21T17:11:59+07:00"
 },
 {
 "id": "bfdbcb61925b",
@@ -27948,41 +27981,6 @@
 "cat": "bds",
 "published": "2026-11-19T07:30:00+07:00",
 "found": "2026-11-19T07:43:18+07:00"
-},
-{
-"id": "fc1c434e49fc",
-"title": "Thầy giáo trẻ giúp học sinh sử dụng công nghệ hiệu quả",
-"link": "https://thanhnien.vn/thay-giao-tre-giup-hoc-sinh-su-dung-cong-nghe-hieu-qua-185261118230641345.htm",
-"summary": "Không chỉ đổi mới giờ học bằng công nghệ, thầy Phạm Thành Nghĩa (33 tuổi), giáo viên Trường THPT Lê Quý Đôn (xã Bình Sơn, Quảng Ngãi), còn chọn cách đồng hành, lắng nghe, trao cơ hội để học sinh trưởng thành qua từng bài học, hoạt động cộng đồng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/anh-4-1795017841101204418832-45-0-608-900-crop-17950178589881335436091.jpeg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-19T07:30:00+07:00",
-"found": "2026-11-19T07:43:18+07:00"
-},
-{
-"id": "156daa4b4345",
-"title": "neymar",
-"link": "https://e.vnexpress.net/news/sports/football/neymar-denies-rumors-of-intimate-encounter-with-vinicius-junior-s-ex-girlfriend-5145787.html",
-"summary": "Neymar denies rumors of intimate encounter with Vinicius Junior's ex-girlfriend (VnExpress International)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStIMi-Z-BCWDfCmFwa3ZugOIINazEJkMWpaxBlgAYTUxFLZNoHLqO9bKPjts4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T07:30:00+07:00",
-"traffic": "200+",
-"found": "2026-11-19T07:58:28+07:00"
-},
-{
-"id": "54c7f73d01a9",
-"title": "game",
-"link": "https://znews.vn/gta-vi-nong-the-nao-truoc-gio-g-post1697350.html",
-"summary": "Tựa game được tải nhiều nhất từ trước tới nay (Znews)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6mB7oykzPW0XczuzJznM8T81E57TbFnieZ1vk__vP-IpxlumF42EWEU71iec",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T07:30:00+07:00",
-"traffic": "500+",
-"found": "2026-11-19T07:58:28+07:00"
 }
 ]
 }
