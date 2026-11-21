@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T09:28:51+07:00",
-"new": 20,
+"updated": "2026-11-21T09:33:05+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,28 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "00315ffb8475",
+"title": "Sinh viên sáng tạo chậu cây thông minh, chăm sóc từ xa bằng AI",
+"link": "https://thanhnien.vn/sinh-vien-sang-tao-chau-cay-thong-minh-cham-soc-tu-xa-bang-ai-185261120182914828.htm",
+"summary": "Nhóm sinh viên Trường ĐH FPT Cần Thơ phát triển chậu cây thông minh Synora, tích hợp cảm biến, hệ thống tưới nước tự động và trí tuệ nhân tạo (AI), giúp người dùng theo dõi, chăm sóc từ xa.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-anh-3-1795173902552824095472-7-0-1287-2048-crop-17951740156101626401193.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-21T09:30:00+07:00",
+"found": "2026-11-21T09:33:05+07:00"
+},
+{
+"id": "84fa4d68799f",
+"title": "Quốc hội 'chốt' thời hạn làm sạch mã số thuế trong quý 1-2028",
+"link": "https://tuoitre.vn/quoc-hoi-chot-thoi-han-lam-sach-ma-so-thue-trong-quy-1-2028-100261121090059301.htm",
+"summary": "Tại nghị quyết được thông qua, Quốc hội yêu cầu chậm nhất là đến quý 1-2028, hoàn thành việc rà soát, chuẩn hóa dữ liệu, làm sạch mã số thuế.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/qh111-1795225796257764300982-44-0-981-1500-crop-17952258396731123757333.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-21T09:25:00+07:00",
+"found": "2026-11-21T09:33:05+07:00"
+},
 {
 "id": "fdd0149f54a5",
 "title": "Giá vàng hôm nay 21/11: Lao dốc gần 87 USD, mất mốc 3.600 USD/ounce",
@@ -288,6 +310,17 @@
 "cat": "tc",
 "published": "2026-11-21T09:09:00+07:00",
 "found": "2026-11-21T09:13:42+07:00"
+},
+{
+"id": "c581d074710e",
+"title": "30 năm chứng khoán Việt: Chuyện đi vận động doanh nghiệp lên sàn và những bao tải tiền... mua cổ phiếu",
+"link": "https://tuoitre.vn/30-nam-chung-khoan-viet-chuyen-di-van-dong-doanh-nghiep-len-san-va-nhung-bao-tai-tien-mua-co-phieu-100261118121130328.htm",
+"summary": "Thuở thị trường chứng khoán Việt Nam mới hình thành, cán bộ quản lý phải đi khắp nơi vận động doanh nghiệp niêm yết, có người còn e ngại công khai tài chính chẳng khác nào tự đưa mình ra để bị soi xét.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/hose-1794978529836906615861-3-0-1162-1854-crop-1794978533777406798188.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-21T09:08:00+07:00",
+"found": "2026-11-21T09:33:05+07:00"
 },
 {
 "id": "efb8ab8ea9f5",
@@ -509,6 +542,17 @@
 "cat": "xh",
 "published": "2026-11-21T08:50:00+07:00",
 "found": "2026-11-21T08:58:32+07:00"
+},
+{
+"id": "0a5a18d405f2",
+"title": "Đà Nẵng đấu thầu quốc tế dự án Khu đô thị Hòa Vang gần 19.000 tỷ đồng",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQblVLNks4cmxiVDhZLUtQMWpsemY3djh5THZSYUxLd3Q3ZHVOUkpCMFVmd2RGX1ZUTHBJTkdQczNnc1NwOGczTUMtWng4OWtPNkNmNVVmMjBlVkRXd0x3X1pma0ppRmw1ZnlJUUpIcXVycmc0SHc0SjUwenNoc1cyOUtUQlE1WEZjc1VvZ1ZiMVh2WFNJZmJvTzJubE50Y3pXREtEQw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T08:50:00+07:00",
+"found": "2026-11-21T09:33:05+07:00"
 },
 {
 "id": "cf2aa24be0e6",
@@ -9975,6 +10019,17 @@
 "cat": "xh",
 "published": "2026-11-20T09:59:00+07:00",
 "found": "2026-11-20T10:10:47+07:00"
+},
+{
+"id": "1cb5866d1a90",
+"title": "Giá vàng hôm nay 20/11: Vàng SJC 'rơi' xuống mức thấp nhấp kể từ đầu năm - Bnews",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVU8xM29GTnpzaWpkV3lDaWZ3NEtSWWRpUTFGSmZkQ0FRcGRiaFdnbHRTaFRaT3V3R3ZRemNGSy1vMEVoRDV0ZmNqRW05ZVdRbVo3N0NrbURSTmFCWDA4RzhGa09ZQzBZVlgtdDVRMmhZLWh6czRfeGJQbmdtZlpRd0hMZzdVQUhMTWpTM0RaNUZuNVBTRUlQVDBGbUxpMFBtYnczMQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T09:59:00+07:00",
+"found": "2026-11-21T09:33:05+07:00"
 },
 {
 "id": "b4cfdf2a715d",
@@ -27948,61 +28003,6 @@
 "cat": "tc",
 "published": "2026-11-18T17:00:00+07:00",
 "found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "c017fe896e2a",
-"title": "Cựu chủ tịch phường 'bất lực' vì công ty ông Lê Thanh Thản không cho vào kiểm tra",
-"link": "https://thanhnien.vn/cuu-chu-tich-phuong-bat-luc-vi-cong-ty-ong-le-thanh-than-khong-cho-vao-kiem-tra-185261118163135166.htm",
-"summary": "Cựu Chủ tịch UBND P.Kiến Hưng cũ nói từng đến kiểm tra dự án CT6 Kiến Hưng nhưng công ty ông Lê Thanh Thản không cho vào, trong khi quận không giao nhiệm vụ, nên xin không truy cứu trách nhiệm hình sự.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/le-thanh-than-15-17949942085501144320822-107-0-1707-2560-crop-1794994284028551377871.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-18T17:00:00+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "b1b5cb41f50a",
-"title": "Techcombank OneU đồng hành lan tỏa gần 1.000 câu chuyện 'Sống rực rỡ'",
-"link": "https://vnexpress.net/techcombank-oneu-dong-hanh-lan-toa-gan-1-000-cau-chuyen-song-ruc-ro-5146197.html",
-"summary": "Gần 1.000 bài hưởng ứng bản đồ \"Việt Nam Rực Rỡ\" ghi lại những câu chuyện về gia đình, lòng tử tế và văn hóa địa phương, với sự đồng hành của Techcombank và Techcombank OneU.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/18/ae870p4hg-1794991564-9469-1794991761.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pJpR2xQ6CljWzLEJkSLLAQ",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-18T17:00:00+07:00",
-"found": "2026-11-18T17:36:56+07:00"
-},
-{
-"id": "05563b229d31",
-"title": "Techcombank OneU đồng hành lan tỏa hơn 1.200 câu chuyện 'Sống rực rỡ'",
-"link": "https://vnexpress.net/techcombank-oneu-dong-hanh-lan-toa-hon-1-200-cau-chuyen-song-ruc-ro-5146197.html",
-"summary": "Hơn 1.200 bài hưởng ứng bản đồ \"Việt Nam Rực Rỡ\" ghi lại những câu chuyện về gia đình, lòng tử tế và văn hóa địa phương, với sự đồng hành của Techcombank và Techcombank OneU.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/18/ae870p4hg-1794991564-9469-1794991761.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pJpR2xQ6CljWzLEJkSLLAQ",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-18T17:00:00+07:00",
-"found": "2026-11-18T19:40:37+07:00"
-},
-{
-"id": "a5b7ee47bd41",
-"title": "Gánh nặng nợ công ở các nước giàu làm gia tăng sức ép lên các nước nghèo",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmdKUzRDdjBfSllaUVdqbnRuRC1kSGtPQ0hObWFVWkNITVNBaWJ3Mzk2aXlRNWtncFdBWnNSZnZvb2Z1ck1IWkwwTzM4dmtSZS1jQXZsejZrODlWd1Y4SE84TUtaVVJWdXMwNkRMOXV6RUhCS1c3LU10OWZvQllwM0hQSVpxcDI2X2FFMm9fRWlpLXFISGJtVzkxRDJKWGVLSlhHVVA5U1Q?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T16:59:27+07:00",
-"found": "2026-11-18T17:21:45+07:00"
-},
-{
-"id": "7e25e4424188",
-"title": "Nhà hàng tiệc cưới đang xây ở TP HCM bốc cháy",
-"link": "https://vnexpress.net/nha-hang-tiec-cuoi-dang-xay-o-tp-hcm-boc-chay-5146238.html",
-"summary": "Nhà hàng tiệc cưới đang xây ở xã Long Hải bốc cháy khi công nhân đang thi công hệ thống phòng cháy chữa cháy, chiều 18/11.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/1118-1794994911-5359-1794995131.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=4dLZEjy6GIQoJ3j5XleAdw&t=image",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-18T16:59:07+07:00",
-"found": "2026-11-18T17:52:26+07:00"
 }
 ]
 }
