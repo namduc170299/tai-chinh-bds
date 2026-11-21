@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T16:09:09+07:00",
-"new": 6,
+"updated": "2026-11-21T16:24:19+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -212,6 +212,39 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "5baf1d18f2f1",
+"title": "Nam thanh niên 18 tuổi tử vong bên đường ở Hà Nội",
+"link": "https://vietnamnet.vn/ha-noi-phat-hien-nam-thanh-nien-18-tuoi-tu-vong-ben-duong-2577397.html",
+"summary": "Nam thanh niên 18 tuổi, quê Sơn La, được phát hiện tử vong trong tư thế treo cổ bên đường ĐH 08, xã Hạ Bằng, Hà Nội.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/21/nam-thanh-nien-18-tuoi-tu-vong-ben-duong-o-ha-noi-1629.jpg?width=0&s=L2lxLP1NjVjJozSoVF6ScA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-21T16:18:56+07:00",
+"found": "2026-11-21T16:24:19+07:00"
+},
+{
+"id": "f23c9cac9793",
+"title": "Người đàn ông tử vong khi lao xuống biển Nha Trang cứu người",
+"link": "https://kenh14.vn/nguoi-dan-ong-tu-vong-khi-lao-xuong-bien-nha-trang-cuu-nguoi-215261121152940827.chn",
+"summary": "Phát hiện người phụ nữ chới với giữa biển, hai người lao xuống ứng cứu nhưng một người tử vong, người còn lại phải nhập viện cấp cứu.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795249745167-17952497456441539916142.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T16:00:00+07:00",
+"found": "2026-11-21T16:24:19+07:00"
+},
+{
+"id": "c0cf336301d3",
+"title": "Đồng chí Bí thư Tỉnh ủy kiểm tra các dự án tại phường Đồng Hới và Đồng Thuận",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNekN1TTVRZzFLQmMySm1wN0JqU05oNWRMN19yU0dIYVpnVnotZ0hIWVV2bzhzRzhEc2drUlhGdmdRTzkyTmw2ZFVzTFJ0a3h5SC16bjE1cFdSZExjSUJWNi0wQ0swS2NxZURIeWR3RlU3LTRpanNaMUdxbS1wYUU1R0JXdEpUbnB0VHZ1XzE3UGl6eGZQR3gxNG1pd3pZNzl6RHlBUEJsSmROOEp0a3c?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T15:54:00+07:00",
+"found": "2026-11-21T16:24:19+07:00"
+},
 {
 "id": "ff021a61f9f3",
 "title": "PNJ trả tiền mua lại vàng trong 1 ngày, kim cương vẫn chờ 4 tháng",
@@ -27950,39 +27983,6 @@
 "cat": "xh",
 "published": "2026-11-19T07:00:00+07:00",
 "found": "2026-11-20T03:47:43+07:00"
-},
-{
-"id": "ab61a185e6b0",
-"title": "Giới thiệu trận đấu giữa ĐT Việt Nam và ĐT Lào | Vòng loại Asian Cup 2027 | VTV2 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1Zd29qR2dFcmJfUFo2WmxlMUlaRzZENmNVN1g3RnAzQS11WFNablFDbFNYTFFxN2Q1SkxzZVR1T1U?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-19T07:00:00+07:00",
-"found": "2026-11-20T03:47:43+07:00"
-},
-{
-"id": "23c0b516f63c",
-"title": "Nền tảng truyền hình số quốc gia",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9zWE5HQTlybjdYcVFwbmRxYzhPVUc4SG9FWDNKWXYxektNYlhTN0QzUENxNDBjRURNSURNbVdSakY?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-19T07:00:00+07:00",
-"found": "2026-11-20T04:49:04+07:00"
-},
-{
-"id": "45b634715bb6",
-"title": "Giới thiệu chương trình \"Bước nhảy mùa Xuân\" | VTV1 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9wSmVuRnBaS2xhOWFsM3pnTVhldnZsczFicTc4VHJmbmRYNko5VEl6cUczeGhKaDZ3dmllN2E5cnU?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-19T07:00:00+07:00",
-"found": "2026-11-20T15:33:19+07:00"
 }
 ]
 }
