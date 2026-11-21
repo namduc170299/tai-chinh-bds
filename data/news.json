@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T10:18:39+07:00",
-"new": 18,
+"updated": "2026-11-21T10:29:04+07:00",
+"new": 11,
 "sources": [
 {
 "name": "VnExpress",
@@ -167,9 +167,8 @@
 "name": "Kenh14",
 "cat": "xh",
 "url": "https://kenh14.vn/xa-hoi.rss",
-"ok": false,
-"count": 0,
-"error": "TimeoutError: The read operation timed out"
+"ok": true,
+"count": 50
 },
 {
 "name": "Google Trends",
@@ -208,9 +207,77 @@
 }
 ],
 "bad_dates": {},
-"tz_fixed": {},
+"tz_fixed": {
+"Kenh14": "-7h"
+},
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "b21e58d2ef54",
+"title": "Chính thức thông qua Luật Đất đai sửa đổi",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Yb2NyaXpPZy1LMFN1LTFkUTNYOUFQYzdid3pHY0pZZFpuZE8zckpVTmtVejV0OWN3R2xFX1RUU1dVRDRaNjdMYWFzbVpBLUtjQ1ZOdnBpc1ZqYWRSS3gweUw0RnZJS1ltNGNfdUJiX3lVUnJmR1c1MWJpSlM0NDQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T10:26:00+07:00",
+"found": "2026-11-21T10:29:04+07:00"
+},
+{
+"id": "af552281814f",
+"title": "Công an thành phố Huế thông tin vụ mại dâm gây xôn xao dư luận",
+"link": "https://thanhnien.vn/cong-an-thanh-pho-hue-thong-tin-vu-mai-dam-gay-xon-xao-du-luan-185261121094629672.htm",
+"summary": "Lãnh đạo Công an thành phố Huế thông tin việc khởi tố vụ án, bị can liên quan vụ mại dâm, đồng thời khẳng định đây là vụ việc độc lập với vụ nhận hối lộ của 2 hiệu trưởng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-lequ6096-17952291112811000874271-107-0-1707-2560-crop-17952291416291097432782.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-21T10:21:00+07:00",
+"found": "2026-11-21T10:29:04+07:00"
+},
+{
+"id": "a867f4cb682c",
+"title": "Công an thành phố Huế thông tin vụ mại dâm gây xôn xao dư luận",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWd5ai1rSElzbER5MnZMbjZDSUVqNkhSMElEREtsNFFmXzZRaHN6eVpiVzJWZVNONUZxNGlCMXFVMkFUUnhzWWg1MlFiVFJaVWpLU19UeWtUNW4zbkpDRzJMOG45dzRDN2VRTTVhOVA4R0Q3dnBhc3ZJcUJGRi1pOUhxeDBfRW02NFlvX3JCQTliczB2UkxlTWZXMnRVTmlTSVJ4anZyZmR1QQ?oc=5",
+"summary": "Nguồn: Thanh Niên",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T10:21:00+07:00",
+"found": "2026-11-21T10:29:04+07:00"
+},
+{
+"id": "b580c79261fe",
+"title": "Vàng bạc liên tục phá đáy, hai “cá mập” bất ngờ hành động trái ngược",
+"link": "https://cafef.vn/vang-bac-lien-tuc-pha-day-hai-ca-map-bat-ngo-hanh-dong-trai-nguoc-188261121102002294.chn",
+"summary": "Theo Reuters, đà bán tháo kim loại quý diễn ra trong bối cảnh kỳ vọng Fed tiếp tục tăng lãi suất ngày càng mạnh, đồng USD neo ở vùng cao và làn sóng bán tháo cổ phiếu liên quan đến trí tuệ nhân tạo (AI) lan rộng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/gold-1768968026413-17689680268931972315403-1795231029147228765709-0-0-469-750-crop-17952310328001219389128.webp",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-21T10:20:00+07:00",
+"found": "2026-11-21T10:29:04+07:00"
+},
+{
+"id": "66742f2f2aaf",
+"title": "Chứng khoán Mỹ tiếp tục bị bán tháo, giá dầu sụt 4% trong tuần này",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONGphN1JnTDJodVM0NHlqNlFoaFo5TWx1QTAtN19LZ3NKYy15S2lWOGlZeXhqMmVhTG8zcWtvd1ViYW5PLTFyclRaUmstRjVCRS1HaURkZ19XMVg4bEdmY1FJTmlQaUd1Tlh2RXFDT3A0dGNaaU93U3kxZlN0bzVscFdVYWw5ZTBwLVpYMEJjUkwzbW9mNEJLNkRXUGZlUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T10:18:40+07:00",
+"found": "2026-11-21T10:29:04+07:00"
+},
+{
+"id": "a3c1091e6fd4",
+"title": "Tỷ giá USD hôm nay 21/11: DXY tăng 4 tuần liên tiếp; tỷ giá EUR, GBP và vàng cùng chịu sức ép",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbFVYRWMtVzJ5LUZ0M3JfWDd4cWV6czYyTUZiNkpnVmlPa2I3NHJUMEdsMEdZQ0R0cVd1eWM4MWZPY2RHdWZPZXhLZ3lWYXcxWnhEUG04Ym9oMWVvNGEtOERVNkU3b0QyWjhpSlItd2NRRVNaQl9MTXU3cFhvYlNiWHZHWHJOUElVcmFqMC1rODFmS292eTVmZU51OUlUbFlVWUJ3TGpGblEzWWxIVENiLVVfYVJ6ZUJIUlMwVjVUcTg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T10:18:00+07:00",
+"found": "2026-11-21T10:29:04+07:00"
+},
 {
 "id": "f696b942c998",
 "title": "3 xe đầu kéo tông liên hoàn, bốc cháy ngùn ngụt, 2 tài xế dương tính ma túy",
@@ -221,6 +288,17 @@
 "cat": "xh",
 "published": "2026-11-21T10:15:48+07:00",
 "found": "2026-11-20T10:25:56+07:00"
+},
+{
+"id": "b061b8314103",
+"title": "Tỷ giá USD hôm nay (21-11): Đồng USD hạ nhiệt",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVhmelV0T2JFczJQVDFId2ZkdW9VTHYwNDgtMU1HMWFoQkVMUkNpZC1qbjk0UU1kcUlCNzFuM2NUQTRKcVJlbERIRGZRdWFQWFh5amVzWFVkY0Qzd3lIMXFoVHFobmdhR1VSN25pb0lNSW5KZHFoWVluRV92cWJheg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T10:15:24+07:00",
+"found": "2026-11-21T07:00:19+07:00"
 },
 {
 "id": "938d05159779",
@@ -265,6 +343,18 @@
 "cat": "bds",
 "published": "2026-11-21T10:10:00+07:00",
 "found": "2026-11-21T10:18:39+07:00"
+},
+{
+"id": "0f86fc8d1661",
+"title": "tijuana đấu với atlante",
+"link": "https://thethao247.vn/63-nhan-dinh-club-tijuana-vs-atlante-khac-biet-phong-do-10h00-ngay-21-11-2026-c288-d446259.html",
+"summary": "Nhận định Club Tijuana vs Atlante: Khác biệt phong độ, 10h00 ngày 21/11/2026 (Thể Thao 247)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSew7otWLxKyxQjyNrPCXmQ_w5N5Gez8DQXkfkWVdOzrsQHXhgkUTyBwi4vGw4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-21T10:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-21T10:29:04+07:00"
 },
 {
 "id": "474f1ef37d96",
@@ -322,6 +412,17 @@
 "found": "2026-11-21T10:18:39+07:00"
 },
 {
+"id": "6f200a56e101",
+"title": "Cà phê ngắm máy bay, bất ngờ gặp 'pháo đài bay' Tu-95",
+"link": "https://tuoitre.vn/ca-phe-ngam-may-bay-bat-ngo-gap-phao-dai-bay-tu-95-100261121075011435.htm",
+"summary": "Những quán cà phê 'chill chill' có tầm nhìn ôm trọn đường bay tại Đà Nẵng được nhiều bạn trẻ yêu thích. Nếu may mắn, nhiều người còn bắt gặp những máy bay trước giờ chỉ thấy trên ti vi.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/2aobordefqzsjojgtqp8jqrq5hrd4hilgabgwrdu-17952215020791191649007-0-0-1600-2560-crop-17952220936461530681774.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-21T10:03:00+07:00",
+"found": "2026-11-21T10:29:04+07:00"
+},
+{
 "id": "82feb7cdae2e",
 "title": "Ngắt điện khắc phục sự cố xe công nghệ tông gãy trụ điện trong hẻm ở TP.HCM",
 "link": "https://thanhnien.vn/ngat-dien-khac-phuc-su-co-xe-cong-nghe-tong-gay-tru-dien-trong-hem-o-tphcm-185261121093102077.htm",
@@ -364,6 +465,17 @@
 "cat": "bds",
 "published": "2026-11-21T09:59:00+07:00",
 "found": "2026-11-21T10:03:28+07:00"
+},
+{
+"id": "b11a6c80da90",
+"title": "Một hòn đảo của Việt Nam được tạo nên từ những đợt phun trào núi lửa từ hàng triệu năm trước sắp được xây sân bay, cáp treo, tàu điện 76.600 tỷ đồng",
+"link": "https://kenh14.vn/mot-hon-dao-cua-viet-nam-duoc-tao-nen-tu-nhung-dot-phun-trao-nui-lua-tu-hang-trieu-nam-truoc-sap-duoc-xay-san-bay-cap-treo-tau-dien-76600-ty-dong-215261121092400799.chn",
+"summary": "Quảng Ngãi vừa ban hành kế hoạch phát triển đặc khu Lý Sơn thành trung tâm du lịch biển đảo, với tổng nhu cầu đầu tư hơn 76.656 tỷ đồng. Danh mục có sân bay 11.300 tỷ đồng, cáp treo nối đảo Lớn – đảo Bé và khu nghỉ dưỡng, thể thao golf Hòn Sỏi 20.000 tỷ đồng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795227748307-17952277489221476826290.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T09:59:00+07:00",
+"found": "2026-11-21T10:29:04+07:00"
 },
 {
 "id": "a7321bda0427",
@@ -432,6 +544,28 @@
 "found": "2026-11-21T10:18:39+07:00"
 },
 {
+"id": "ba30635252e7",
+"title": "Cụm trang trại bò sữa tập trung công nghệ cao khép kín của TH true MILK giữ vững kỷ lục lớn nhất thế giới",
+"link": "https://kenh14.vn/cum-trang-trai-bo-sua-tap-trung-cong-nghe-cao-khep-kin-cua-th-true-milk-giu-vung-ky-luc-lon-nhat-the-gioi-215261121092822566.chn",
+"summary": "Sáu năm sau lần đầu xác lập (2020), Tập đoàn TH tiếp tục được Liên minh Kỷ lục Thế giới (World Records Union) chứng nhận danh hiệu “Cụm trang trại bò sữa tập trung ứng dụng công nghệ cao với quy trình khép kín lớn nhất thế giới” vào cuối tháng 9 vừa qua.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/photo1795146482800-17951464850741020191429-1795228106960778058651.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-21T09:53:00+07:00",
+"found": "2026-11-21T10:29:04+07:00"
+},
+{
+"id": "390ebd75504d",
+"title": "Quyền trẻ em không phải là câu chuyện bên lề của doanh nghiệp",
+"link": "https://dantri.com.vn/kinh-doanh/quyen-tre-em-khong-phai-la-cau-chuyen-ben-le-cua-doanh-nghiep-20261120161735736.htm",
+"summary": "(Dân trí) - Hồi chuông mở phiên sáng 20/11 tại HNX phát đi thông điệp rằng bo vệ thế hệ tương lai không còn là việc thiện nguyện ngoài lề, mà đã trở thành bài toán quản trị rủi ro sống còn của doanh nghiệp.",
+"image": "https://cdnphoto.dantri.com.vn/mh6mQ31V70pDxBWkJ_7skDsCtcE=/2026/11/20/2-1795165523528.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-21T09:52:21+07:00",
+"found": "2026-11-21T10:29:04+07:00"
+},
+{
 "id": "92a2b8faf340",
 "title": "THACO huy động 3.000 tỷ đồng trái phiếu, dùng cổ phần Đại Quang Minh bảo đảm",
 "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3IwU3RvQ0IzVHpoVkpaczlsTWRTU2E5SEpuaEEyOUoyLW0zSXhRTnh2Z1czdXQwSS00Y2tRV1pRRnBucGNQWDNhYmlPVURZSUlzNm04LWJWNm5Da3Nyb1lSN3B0V3Rxclh2VktUa001SnFSaUJPXzhHNE96eXBTV1RnYUszTm5DZllrbl9zVndIS255NUd6T2xDYjhyWnlrbXlTWm1YbUhCNV9m?oc=5",
@@ -496,17 +630,6 @@
 "cat": "tc",
 "published": "2026-11-21T09:39:00+07:00",
 "found": "2026-11-21T10:18:39+07:00"
-},
-{
-"id": "b061b8314103",
-"title": "Tỷ giá USD hôm nay (21-11): Đồng USD hạ nhiệt",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVhmelV0T2JFczJQVDFId2ZkdW9VTHYwNDgtMU1HMWFoQkVMUkNpZC1qbjk0UU1kcUlCNzFuM2NUQTRKcVJlbERIRGZRdWFQWFh5amVzWFVkY0Qzd3lIMXFoVHFobmdhR1VSN25pb0lNSW5KZHFoWVluRV92cWJheg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T09:35:39+07:00",
-"found": "2026-11-21T07:00:19+07:00"
 },
 {
 "id": "81b6710ae986",
@@ -1292,7 +1415,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T08:10:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-21T08:43:22+07:00"
 },
 {
@@ -1304,7 +1427,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T08:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-21T08:43:22+07:00"
 },
 {
@@ -27880,128 +28003,6 @@
 "cat": "tc",
 "published": "2026-11-18T17:52:00+07:00",
 "found": "2026-11-18T18:07:35+07:00"
-},
-{
-"id": "61e8c5f718b6",
-"title": "Chọc ghẹo nhân viên, xịt hơi cay vào mặt quản lý quán nhậu",
-"link": "https://vnexpress.net/choc-gheo-nhan-vien-xit-hoi-cay-vao-mat-quan-ly-quan-nhau-5146258.html",
-"summary": "Châu Văn Tuấn, 27 tuổi, dùng bình xịt hơi cay tấn công quản lý quán nhậu ở phường Tam Kỳ sau khi chọc ghẹo nữ nhân viên, rồi bỏ trốn vào rừng.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/1794997674880e873b5aa2beeba9ae-8329-7994-1794998079.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ym22PBuh2mhlJU8id06YSQ",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-18T17:50:52+07:00",
-"found": "2026-11-18T18:23:24+07:00"
-},
-{
-"id": "8e9f75f1f676",
-"title": "TP HCM đề xuất lập quy hoạch 1/500 quanh các ga metro",
-"link": "https://vnexpress.net/tp-hcm-de-xuat-lap-quy-hoach-1-500-quanh-cac-ga-metro-5146254.html",
-"summary": "Sở Quy hoạch - Kiến trúc TP HCM đề xuất lập quy hoạch 1/500 quanh các ga metro để sớm tạo quỹ đất đấu giá, thanh toán cho dự án BT.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/metro-1794998995-2051-1794999012.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wreZadYipeHdfw4OSPoNhA",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-18T17:50:45+07:00",
-"found": "2026-11-18T18:23:24+07:00"
-},
-{
-"id": "4c7221ce4ea9",
-"title": "iphone 20 pro max",
-"link": "https://dantri.com.vn/cong-nghe/he-lo-thiet-ke-san-pham-dac-biet-chao-mung-20-nam-iphone-ra-mat-20261117161444515.htm",
-"summary": "Hé lộ thiết kế sản phẩm đặc biệt chào mừng 20 năm iPhone ra mắt (Báo Dân trí)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKqNFHhsT3R0KyH1HTy49wb3QX0dOpfI6Bw-FqPBjlpkpozBBzY_vqL_its-o",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-18T17:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-18T18:07:35+07:00"
-},
-{
-"id": "788dd0590e94",
-"title": "Đà Nẵng tri ân những người mẹ tiễn con ra trận, mãi mãi không về",
-"link": "https://thanhnien.vn/da-nang-tri-an-nhung-nguoi-me-tien-con-ra-tran-mai-mai-khong-ve-18526111816594676.htm",
-"summary": "Thành phố Đà Nẵng tổ chức truy tặng danh hiệu vinh dự Nhà nước Bà mẹ Việt Nam anh hùng cho 7 mẹ và trao Huân chương Độc lập hạng Ba cho 6 gia đình có nhiều liệt sĩ hy sinh.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/dsc04946-1794995999566278947066-0-0-977-1563-crop-17949960547341385293775.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-18T17:46:00+07:00",
-"found": "2026-11-18T17:52:26+07:00"
-},
-{
-"id": "0a0fc39c10d2",
-"title": "TP Hồ Chí Minh kiên quyết không để tài sản công bị bỏ hoang",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2NTRnZpU181NVd4X3hiTkMtUHFPOXlCMThxZnphMk9WX0FmMXNxZ2hDdC1nUnRtZjVrRGVYVEpZRExQVXBjOTRWZXZpS0VTeUtEdWtGV3JPU3l3WjFXX1hEODZkN0FIOWxEU3BvUk1xWVR2NFZOanRiRFpMcW1TejZ3b2NDcDdaTzlRQkN2aTBfSkVocFZv?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T17:45:00+07:00",
-"found": "2026-11-18T17:52:26+07:00"
-},
-{
-"id": "ca820c72117d",
-"title": "Hơn 500 căn hộ CT6 Kiến Hưng có tổng giá trị hơn 2.000 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUUxbzIxYTUtTnVzd1hmVHVybXljZF9qX3VvalJHenVKS0JydWc2dWpOZERnZ3hzYXptYWZTQ3ZEQ25iU29NTnkxakphdm4xVmJfNnp5d1E2aTkxM08zYjZVLTNGM3N5N3Y0R3hJRmIwRTRvY0FnWTg0aFpoLVIyM0pzWGtrOXpBNjRPcUZzdzhjcGV0Ry1FU2ZPZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-18T17:44:00+07:00",
-"found": "2026-11-18T17:52:26+07:00"
-},
-{
-"id": "d4c611be1dfe",
-"title": "Cựu Chủ tịch phường Kiến Hưng khai rất đau buồn khi bị truy tố",
-"link": "https://dantri.com.vn/phap-luat/cuu-chu-tich-phuong-kien-hung-khai-rat-dau-buon-khi-bi-truy-to-20261118172811836.htm",
-"summary": "(Dân trí) - Tại phiên xét xử \"đại gia điếu cày\" Lê Thanh Thản, cựu Chủ tịch phường Kiến Hưng Đỗ Văn Hưng cho rằng bản thân bị truy tố là \"không đúng người\" và bày tỏ sự đau buồn.",
-"image": "https://cdnphoto.dantri.com.vn/BBHyJ_qEQcjlO0SSplTX_OLHi7s=/2026/11/18/bicao-hung-1794997286323.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-18T17:42:12+07:00",
-"found": "2026-11-18T18:07:35+07:00"
-},
-{
-"id": "c6a538eb4ddb",
-"title": "Chứng khoán châu Á diễn biến trái chiều khi Nvidia vẫn là tâm điểm",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZldxXzlhWmc4SGVDWEtaSUhuTzZBNDdvS1M2S2JJc3R4M1FuSWlCanY1eDlscTBIczFibDdfY2JzWGhheTQzZlMtRTJyLUpwM3BkMFpER0lBOWd5NGF2OW1lelZVZ1Q0YXl0XzBxc1pIUGdJUWFNUWlLZW93TDlYQXRrbnp0bVJRRHEyVjNtMWE5WjBHWDczb1VsMmZMUDBk?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T17:42:00+07:00",
-"found": "2026-11-18T17:52:26+07:00"
-},
-{
-"id": "0db6fd8613fc",
-"title": "Lãi suất tiết kiệm tiếp tục xu hướng giảm, có ngân hàng đưa về 0%",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcm15Vmo2bXFLVWR2WTNKVUpfdG56VW54YVF4Tm5vUHQyNEQxRFZ6a0xObGYtcVlaaEU1Q2dfb2lDY0RoTHNuaGwxTXliVjJSWHFuNFYzNV9weWkwOWNCMERYQjlybXlRd1pCQ3F0VHBobUIxcm1ObFRLSmJlNWdwR0ptRVo5Mk9TTU9QWTI2OVAzQjFCd0IwWjJCUzg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T17:41:00+07:00",
-"found": "2026-11-18T17:52:26+07:00"
-},
-{
-"id": "01d243ad8717",
-"title": "Chứng khoán hôm nay 18/11/2026: VN-Index giảm sâu kiểm định vùng hỗ trợ",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNakgxRWhFMktzbVZSTVRNNl9KNUw4dmZBMnhMT0RfUXdoRVExX1N5d3NrTVZseUswT0tuR3YwV3pBX2JRcXVUUWIzSUVhRjRURmhhU3RmdHprZ0h3U050NXktUjI4MkV1TWZLTi11YWVUZ2lJQWlTUDlrRUNGYVRHT0FMeV9wSi16Y181OHFSa2RxTFEwd1hPUnhaR3dCV1hfWll3SmFR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-18T17:41:00+07:00",
-"found": "2026-11-18T17:52:26+07:00"
-},
-{
-"id": "75dcace1db31",
-"title": "Truy tố tài xế xe Lexus đâm liên hoàn ở Hà Nội",
-"link": "https://kenh14.vn/truy-to-tai-xe-xe-lexus-dam-lien-hoan-o-ha-noi-215261118165612279.chn",
-"summary": "Tài xế xe Lexus Vũ Quang Chiến không làm chủ được tốc độ và thiếu chú ý quan sát nên điều khiển xe ô tô đâm vào đuôi xe ô tô khác rồi lao sang đường ngược chiều gây tai nạn liên hoàn.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/18/avatar1794995688779-1794995689635938658486.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-18T17:40:00+07:00",
-"found": "2026-11-18T17:52:26+07:00"
 }
 ]
 }
