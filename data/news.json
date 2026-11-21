@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T02:09:36+07:00",
-"new": 2,
+"updated": "2026-11-22T02:24:44+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 28
+"count": 49
 },
 {
 "name": "Kenh14",
@@ -479,7 +479,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T00:00:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-22T01:08:20+07:00"
 },
 {
@@ -552,6 +552,17 @@
 "cat": "bds",
 "published": "2026-11-21T23:39:00+07:00",
 "found": "2026-11-21T23:51:48+07:00"
+},
+{
+"id": "346f7ad65858",
+"title": "Khởi tố 11 bị can liên quan vụ án mua bán dâm gây xôn xao dư luận tại Huế",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkJDdzN1bW5tUTdNTFotTzE0bF94YVdiQXIzTkk3NDRJS1FqWWE0TWR2bWRjT1ZDbE5kUXBFaGkxTElzZzg2cmtYTGI5azE3RGhONUxqcUtBaXZtOTBsT0xaYTlCOTZDWUJwS1gzVms3dHBGamJpRnc3MTc3Rlo4bS1QTHg3cExGR3pGUXNDOFhZcTVzWGI3MXRpVE1aSmlRN183ZkN0bw?oc=5",
+"summary": "Nguồn: tin.skydoor.net",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T23:31:46+07:00",
+"found": "2026-11-22T02:24:44+07:00"
 },
 {
 "id": "8476a0879bbd",
@@ -632,6 +643,17 @@
 "cat": "xh",
 "published": "2026-11-21T23:01:00+07:00",
 "found": "2026-11-21T23:36:33+07:00"
+},
+{
+"id": "8719951e7bf0",
+"title": "Để lại vợ là người mẫu, 'bê bối ngoại tình siêu khủng' gây xôn xao → \"Thực ra có ba con...\" Huyền thoại quần vợt hạng nhất lịch sử 'lại' gây sốc khi thú nhận",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3SERuQlZvME5IVHpTU2c2RWZ0SnIxZ0VCZFpzaG5qdGJNdTE5TEZSVjg5SEpMYlJOc1dlOGNTUmxSS2dfb0tFM0t1SmVtR09YWWl4UU5BU3dFNFNyRVlNWjA1X2RlR1FVQS1MYUwyVXE5V0NrSTBWNnJn?oc=5",
+"summary": "Nguồn: 스타뉴스",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T23:01:00+07:00",
+"found": "2026-11-22T02:24:44+07:00"
 },
 {
 "id": "29d919498fbe",
@@ -3290,17 +3312,6 @@
 "cat": "xh",
 "published": "2026-11-21T15:13:00+07:00",
 "found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "cda62df5dcde",
-"title": "Khởi tố 11 bị can liên quan vụ án mua bán dâm gây xôn xao dư luận tại Huế",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDFndUxQWnBsUzE2N1A0Z1k5NmZVdjZseDNuYXVqa3d0OW15RVdRV0liWmJtOVJIZkc0QTB0eFVRTTM5VGRRMFRpd2tZNVBvaW5MeEhBQnRZWDJDMjA1U3VLYnJTSGR5WmtaOTQzSk9oeTUzcFdoTThwNERfRm5XRmxrYUczVXMwanJqLUtSTklIWm9MaGRnWVBiYUpxd0tOYkNPeUo2VkRqTVFFSUlySFZtUFBTQQ?oc=5",
-"summary": "Nguồn: aFamily",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T15:12:00+07:00",
-"found": "2026-11-21T19:14:07+07:00"
 },
 {
 "id": "2397eca68b34",
@@ -26742,6 +26753,17 @@
 "found": "2026-11-19T14:45:57+07:00"
 },
 {
+"id": "c68eaf8d24e5",
+"title": "TP.HCM khởi công xây dựng 45.000 căn nhà ở xã hội",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT0lpNjJpY3JRNkp1elZJMHptNEszM05WeHBmVUtvenZ1bnNqNno2NXJJaDdyZ2lOTVNCcDhNd0dqNXJGU0kydmR5SHU1OWJZd01uaXMtLVczcWhuTkt0cUtySHlPcVlGUVFrRHpScTlYdno3WDlsSThOTVg1cU9zSnNSLTF1TU9ULVE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-19T12:49:00+07:00",
+"found": "2026-11-22T02:24:44+07:00"
+},
+{
 "id": "72640dbe4787",
 "title": "Sun Group xác nhận trở thành chủ mới của VietinBank Tower",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb2tjWUQxak9RY1hvb1NXb3JsWjlGTUtfc0M1ZmUydmhSalB0dGRkWURYNjlfNFRYaG5Jb25uQ3k0Z2Y4YXBxeTBMWm92QklPSUtjbDNrMlhPVXF0TlNGUW44WWdkZ25CVWV4c1FuTXZBZ2N5a2ZMLUdIVzBJQnZtb1dSTWJNcDJHVVVyVXJTNHZwY1hK?oc=5",
@@ -28001,28 +28023,6 @@
 "source": "Kenh14",
 "cat": "xh",
 "published": "2026-11-19T11:03:00+07:00",
-"found": "2026-11-19T11:26:14+07:00"
-},
-{
-"id": "8310591fbf74",
-"title": "Giá vàng bốc hơi hơn 30% từ đỉnh, chuyên gia chỉ ra tín hiệu tạo đáy quan trọng",
-"link": "https://cafef.vn/gia-vang-boc-hoi-hon-30-tu-dinh-chuyen-gia-chi-ra-tin-hieu-tao-day-quan-trong-188261119104559267.chn",
-"summary": "Các chuyên gia tại Heraeus cho rằng đợt lao dốc gần đây của giá vàng đã tái khẳng định mối tương quan nghịch đảo giữa kim loại quý này và lợi suất thực. Để xác lập một vùng đáy bền vững, thị trường cần thêm những tín hiệu quan trọng từ chính sách tiền tệ của Fed.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/images-5-1795059726770886715191-0-54-364-636-crop-17950597301777778862.jpeg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-19T11:01:00+07:00",
-"found": "2026-11-19T11:26:14+07:00"
-},
-{
-"id": "a0aee9ebb43e",
-"title": "TTC AgriS (SBT) dự kiến huy động 1.000 tỷ đồng trái phiếu để thanh toán nợ vay",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbTJKR09CWDZ0MlIyQ3R3bDB2aDl1SG9PUTZsZmt3Zkw0NHhvWUVocDR0bW1tU2pnUURpWnhBYXBXbmd0OExnM3JyWkI5THkzOWVvVGxqZ1ZYcHI2NG1rNVZYdkJKVEE1dFVPZ253Y0x2RkljaEFxZzBDcjBHSUJsNzJVdWNmSlplR25fbk5DaExWMlo2akNOZ1RmVDNNdXMxQjRIQ2N5WUNwRXVMY1E?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T11:01:00+07:00",
 "found": "2026-11-19T11:26:14+07:00"
 }
 ]
