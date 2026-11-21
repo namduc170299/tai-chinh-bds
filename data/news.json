@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21T17:11:59+07:00",
-"new": 3,
+"updated": "2026-11-21T17:27:08+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,72 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "34b0a2ab53af",
+"title": "Hải Phòng rà soát 3 dự án chậm triển khai",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WNHVzZW84WXFMV0tSZUJsaF80cnk5T3UtTE0yTnRwSXVVMFpmWTU4Q3NzT3VnZ3VnN1hkWi0zbkF3dmtwOUp0MFVodjIwRXdiT2FSQlA4MFRaTnktLTZ3aVRWYkd2VVlXZnhSMzRnV3N0Rkx4dk1vWHFDOTAxMnc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T17:19:38+07:00",
+"found": "2026-11-21T17:27:08+07:00"
+},
+{
+"id": "0bc321d03024",
+"title": "Óc Eo trao hai căn nhà Đại đoàn kết cho hộ khó khăn",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX21kUU5DTWJJRlJxRGRTRW5uazkyWF9udktaNU10RkVtTzJaSlMxUVpvUHR4b2RCaXh6OGV5U180NHpqMDl2aDlkVnNoREg2OHVXM0VnMHpvNDNVbUY5V3lWdkdLODNXWlBjLVNMNDNhQV9DbUJ6TEQ1SVRHS0Y3MjI2WlRfLV9lYjd6eQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T17:17:00+07:00",
+"found": "2026-11-21T17:27:08+07:00"
+},
+{
+"id": "a24a11c61053",
+"title": "Quy định mới về tiến độ thanh toán, tiền đặt cọc bất động sản",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGExNUE3UHp5MXpQTk5meUt5Y0ZYR212YmxydURVOGpQYWJDVGYwNjItcEVWUUR4WWZTaWJXdi1ucU1PUzBRaV9Ta01VVjVoZ2JFTUxsN1RnNGhELXJRR0phdFVIN0V2ejBfUGY0czJiMjQ5b1ZCUTQtMl93TjFmcHNabGRpUVlnNE1PaS16OXZvM2hXUVl1Mw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T17:17:00+07:00",
+"found": "2026-11-21T17:27:08+07:00"
+},
+{
+"id": "3eb4e6334eca",
+"title": "TPHCM: Bồi thường nhà đất dự án rạch Ông Bé, cao nhất 222 triệu đồng/m2",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZTl3NDNoOXJBZmpLdEhkOERqbXpOeFJ1bnpQNVdjQzRueTFZeGxGM3AwQVU4UVZhd1ZPRHBQLVdKcHBHbVpYdUVVQnZlQjRVaE5CcjU0SlFoR3lEQll0YU5RdkJFR0plV3N6V25Ga1d2a3ZhNHRnWTNSeE1fc3lSSGdUY0tZc2VwNC1IMGVxR2pfU0hvQkhxWmo4UlJQNC1ZMHQtRw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T17:16:00+07:00",
+"found": "2026-11-21T17:27:08+07:00"
+},
+{
+"id": "b27276934772",
+"title": "Quốc hội thông qua Luật Ngân sách nhà nước (hợp nhất)",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVFxR1ZnSnJXeTR2S1BwZlpRNWRNeGpvSVNxYkhGa2VzYi02SHU4QXpvNkVVNUk4bmJmSG1DdklVRVI3ajlUUGlqbERRMWFLelhxaFgzYmRxRWhCRXVUSjdKRG51TDZvbVUtUEZPSkFheUhoQVRuM1VKZUxxQzdlYUxnOFlsS3d0b2hRcg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T17:16:00+07:00",
+"found": "2026-11-21T17:27:08+07:00"
+},
+{
+"id": "e5959b07edf6",
+"title": "Khánh Hòa yêu cầu làm rõ nguyên nhân dòng nước đen đổ ra vịnh Nha Phu",
+"link": "https://thanhnien.vn/khanh-hoa-yeu-cau-lam-ro-nguyen-nhan-dong-nuoc-den-do-ra-vinh-nha-phu-185261121160410656.htm",
+"summary": "UBND tỉnh Khánh Hòa yêu cầu cơ quan chức năng khẩn trương kiểm tra, xác định nguyên nhân và nguồn phát sinh dòng nước đen đổ ra vịnh Nha Phu ở thôn Lương Hòa, phường Bắc Nha Trang, sau phản ánh của Báo Thanh Niên.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-1795074680123313182093575453941313182093575453941daceaf6bc5555a8ed3f914766433b895-17952512407411127207486-318-0-1918-2560-crop-17952518290572024177555.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-21T17:16:00+07:00",
+"found": "2026-11-21T17:27:08+07:00"
+},
+{
 "id": "52e12c2846ed",
 "title": "Hộ kinh doanh có lợi gì khi nâng ngưỡng doanh thu tính thuế đơn giản lên 10 tỉ đồng?",
 "link": "https://thanhnien.vn/ho-kinh-doanh-co-loi-gi-khi-nang-nguong-doanh-thu-tinh-thue-don-gian-len-10-ti-dong-185261121140713049.htm",
@@ -222,6 +288,17 @@
 "cat": "tc",
 "published": "2026-11-21T17:09:00+07:00",
 "found": "2026-11-21T17:11:19+07:00"
+},
+{
+"id": "7d0199ee1c39",
+"title": "Thái Nguyên đấu giá khu đất 137ha làm khu đô thị, du lịch Hồ Núi Cốc",
+"link": "https://cafef.vn/thai-nguyen-dau-gia-khu-dat-137ha-lam-khu-do-thi-du-lich-ho-nui-coc-188261121171024042.chn",
+"summary": "UBND tỉnh Thái Nguyên vừa phê duyệt phương án đấu giá quyền sử dụng khu đất rộng gần 137ha để lựa chọn nhà đầu tư thực hiện Dự án Khu đô thị hỗn hợp, dịch vụ du lịch Hồ Núi Cốc, với tổng chi phí đầu tư xây dựng sơ bộ khoảng 4.481 tỷ đồng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795255478091-17952554786891265479706.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-21T17:05:00+07:00",
+"found": "2026-11-21T17:27:08+07:00"
 },
 {
 "id": "b511d452b178",
@@ -456,7 +533,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-21T16:10:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-21T16:40:17+07:00"
 },
 {
@@ -4912,6 +4989,17 @@
 "cat": "bds",
 "published": "2026-11-21T08:50:00+07:00",
 "found": "2026-11-21T09:33:05+07:00"
+},
+{
+"id": "a5ae993741a1",
+"title": "Nguồn vốn ưu đãi tiếp sức phụ nữ phát triển kinh tế",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUldzV3lQNmlRSXFXUDNRWGlaQXZaU2xfd2lpS1VuM21RbXdTR1NnUm5HZHdIX1BERW80aWhhTkVCUk1DZlUwR3M1ZURwTVlWSG9ZY0JnRlVpZ1Y1bkZtRFFHbW8zQnhCVnFzSHZvc0VNUkZJWktxUmw1aHZyNkRCQXAxR1ZTME9tMnVWbQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T08:50:00+07:00",
+"found": "2026-11-21T17:27:08+07:00"
 },
 {
 "id": "cf2aa24be0e6",
@@ -12684,6 +12772,17 @@
 "cat": "xh",
 "published": "2026-11-20T12:04:00+07:00",
 "found": "2026-11-20T13:29:23+07:00"
+},
+{
+"id": "7b41555d75ee",
+"title": "Kiểm tra, giám sát hoạt động tín dụng chính sách tại Chi nhánh Ngân hàng Chính sách xã hội tỉnh Ninh Bình",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcnVwS1ZDWXVWeG1NRkZfM2FvQklncDgwbWEwdnVieWlNNHU1MHRXazNXMlpDcm10d01VTTdyakZoZ0thcVE4Wk1CcERqdzRNZlJaenpaMlVrX0pGYUVpcXZiZnNZMmFwUXZZU04zTmJ3bFZ4U25vUmxTNGNzZVRjTEVMLXczWkN5RTdiVTdZcVYxbVFSR3FzMG04T2g5OWNsd0RUWkZMX19qR29HU3BwQUZ0WFZ6TkdSS1NlOGVpaHVPbVJ6Z0hZbDFIOGJDZ1JiUTFj?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T12:04:00+07:00",
+"found": "2026-11-21T17:27:08+07:00"
 },
 {
 "id": "07b09ec5d49c",
@@ -27882,105 +27981,6 @@
 "cat": "xh",
 "published": "2026-11-19T07:38:00+07:00",
 "found": "2026-11-19T07:58:28+07:00"
-},
-{
-"id": "5b3e40e64701",
-"title": "ECB cân nhắc nâng tỷ lệ dự trữ bắt buộc lên 2%",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGNhQktFRGpaSDVWak9uZi1KZTZieHFaVFhwRG44a29LaFNXcWtMM0xWdlFrYXJMQnlkYWtfUHpsd3p3N0szdmwzZVQ0UWVURWhkTjB6Q01nekhwSjUyMXBOT21keFlBWXhvWmFaVk1Rc2RjM2J3YWp5N3dnZExEZmEwVVQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T07:37:00+07:00",
-"found": "2026-11-19T07:43:18+07:00"
-},
-{
-"id": "28ee2c615087",
-"title": "Toàn cảnh vụ Mbappe bị cả Trung Quốc phẫn nộ",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN053cF9pOG9ndExacWJzYVpGMWNrVFlpekZTS3pqbkpWMHZWaTFYS2JEMXFNeGx6aVVaQjFYdThiZkRUVGZxSHJxMGxDWUktUVdXZUxyRE1hamRHeTdqbTBVRzk5dEczU2hobHZkQjNqeEdRODVOQjRzMlRJb0ZCMVVn?oc=5",
-"summary": "Nguồn: SkyDoor News",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-19T07:35:01+07:00",
-"found": "2026-11-20T01:30:06+07:00"
-},
-{
-"id": "b76695c6622a",
-"title": "Canada, Trung Quốc mở rộng hợp tác tài chính",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjZoeW5kUjV2WFpxTUhmcm02X2FpbXRLbUNKblNldjUzME9qWjlDdVlLN3FGTEpNeXJfdTVDanZfTWpyU1pFU3AzSnhyeUlhNWtFV2xLaDVPbVRhQkVLYnhmSElPOWc4WHFYdjlpdnkzRmF5dkRJUGxOd3dGTWxtQ0p3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T07:35:00+07:00",
-"found": "2026-11-19T07:43:18+07:00"
-},
-{
-"id": "bd1a03c2b74b",
-"title": "Tài xế Lexus gây tai nạn với 7 xe khác, nạn nhân đòi bồi thường hơn 2 tỉ",
-"link": "https://thanhnien.vn/tai-xe-lexus-gay-tai-nan-voi-7-xe-khac-nan-nhan-doi-boi-thuong-hon-2-ti-185261118224553482.htm",
-"summary": "Tài xế Lexus bị truy tố sau khi gây tai nạn liên hoàn khiến 2 người bị thương nặng và 7 phương tiện hư hỏng. Nạn nhân yêu cầu bồi thường nhiều nhất là hơn 2 tỉ đồng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/anh-chup-man-hinh-2026-11-18-luc-224239-17950166145701897259813-35-0-1036-1602-crop-17950167068721968201663.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T07:35:00+07:00",
-"found": "2026-11-19T07:43:18+07:00"
-},
-{
-"id": "af2a2ad71856",
-"title": "Sân bay Gia Bình và Nội Bài sẽ 'chia' đường bay nội địa, quốc tế ra sao?",
-"link": "https://thanhnien.vn/san-bay-gia-binh-va-noi-bai-se-chia-duong-bay-noi-dia-quoc-te-ra-sao-18526111823421016.htm",
-"summary": "Sân bay Gia Bình ban đầu dự kiến sẽ khai thác 17 tuyến bay nội địa, tập trung vào đường trục Bắc - Nam tới các trung tâm lớn như TP.HCM, Đà Nẵng, Phú Quốc, Cam Ranh, Phù Cát, Liên Khương, Cần Thơ…",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/screenshot-2026-10-06-143017-17913638209111498262302-17950199357071608664655-84-0-712-1004-crop-17950200457102112246652.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T07:33:00+07:00",
-"found": "2026-11-19T07:43:18+07:00"
-},
-{
-"id": "1bd6076850e0",
-"title": "Bổ sung và đa dạng hóa nguồn cung nhà ở",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1M0FQMWNmbFhYZF9sdGM1YXNFeTlRVGRwNWZLXy1YbGZYR0lqSnhZX0lPTzl0dE5CY3lmZXVuMGZCVVFObTZVZ1dLdkRIUlcxQjZVRnpXRG1TdnJnZDh3WmlfTnc3aTlzUGlKN1Q4MVhodDF5N1VIMFE1RzI?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T07:31:00+07:00",
-"found": "2026-11-19T07:58:28+07:00"
-},
-{
-"id": "0af4d52353ad",
-"title": "Giá vàng hôm nay ngày 19/11: Vàng thế giới thủng mốc 3.750 USD, trong nước giảm mạnh",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEVKdWdGbmxHdXl4Sm00Um1yR09zelY3M1dOa0JXQkdaWFZlczlVeWhIN3h4OFBZTnFpZUZfX3FndjBhSXFhekR2WE1uQVg4LVY5dmQyelJJY3lndkFkMFk1UDFEQ2tZUzFCRGtpYlIyc2NsUnRPOGhIOTE5bU04eWFlQTJmVXlpX1I0dGhkVjR5dy1jVlI3bTg1LTdDNXpEMmJaWkkwX0dDd2U0UnVlYTE1NXFDZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T07:31:00+07:00",
-"found": "2026-11-20T07:26:10+07:00"
-},
-{
-"id": "5a7633b54bb1",
-"title": "VIB chủ động đón cơ hội tối ưu thanh khoản từ giải pháp hoán đổi ngoại tệ của NHNN",
-"link": "https://cafef.vn/vib-chu-dong-don-co-hoi-toi-uu-thanh-khoan-tu-giai-phap-hoan-doi-ngoai-te-cua-nhnn-188261119065406558.chn",
-"summary": "Gần 50.000 tỷ đồng đã được Ngân hàng Nhà nước cung ứng cho hệ thống ngân hàng thông qua nghiệp vụ hoán đổi ngoại tệ (FX Swap) kỳ hạn 182 ngày. Trong bối cảnh các công cụ điều hành thanh khoản tiếp tục được mở rộng, đại diện Ngân hàng Quốc Tế (VIB) đánh giá đây là diễn biến tích…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/18/avatar1795045726428-17950457268201160024623.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-19T07:30:00+07:00",
-"found": "2026-11-19T07:43:18+07:00"
-},
-{
-"id": "a50b73a0dc73",
-"title": "MSB: Lợi nhuận quý III tăng 27%, cho vay bất động sản hơn 30.300 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGtiWHdLenVlaFItXzV6TXVMbXdiZkZiRWlwMnI3RWY5alJ0TW5lMXhKT0JDRVdRd005emY2ZWFvaDJQQXlmWjU4YUZoS2VtclVxOENBeUxJdVZFaGFaejRTMkZtSWxsR2JVekEycjB1bXdsMTMxemRXeHZ1YmxKbVo2X2kzQlZULVNWVHhTOG1BaEhWZkJNdUFZOE84RmlZcDRYVQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T07:30:00+07:00",
-"found": "2026-11-19T07:43:18+07:00"
 }
 ]
 }
