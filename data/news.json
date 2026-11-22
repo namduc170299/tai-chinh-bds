@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T17:29:06+07:00",
-"new": 13,
+"updated": "2026-11-22T17:44:28+07:00",
+"new": 14,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "05180900858e",
+"title": "Tìm bị hại vụ lừa đảo ở viện thẩm mỹ hoạt động 'chui'",
+"link": "https://tuoitre.vn/tim-bi-hai-vu-lua-dao-o-vien-tham-my-hoat-dong-chui-100261122111013378.htm",
+"summary": "Công an tỉnh Đắk Lắk ra thông báo tìm bị hại trong vụ lừa đảo tại viện thẩm mỹ JK, nơi người không có chuyên môn được thuê đóng giả bác sĩ để dụ khách mua dịch vụ.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/edit-3cd788bfbd433d1d6452-1795319743143959924911-4-0-1438-2294-crop-1795319885795164255199.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T17:36:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
+},
+{
+"id": "9e529210359e",
+"title": "Hoàng Anh Gia Lai (HAG) dự kiến phát hành 400 tỷ đồng trái phiếu được TPBank bảo lãnh, rót 3.050 tỷ đồng trồng thêm 5.000 ha cà phê",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRUZxQkNlUENNTFNNMVV4SURidTAwSXhGVEw4dTJ5RXNNNDY4T0Z0RnR0UUdMeTVvWThjQW5PX2J2TUk1ZmFJNFg1ZnNULWZZeEJIZXRuNDlZaDhad2dmdDdyMDlZNTFTQTBwMzJXN0JmaHpiVFpFVFlSSTZUZHhiZUppYTRxOUg1cTBoLUNYSFBpTGdlN2Ewc3hpVFNvSVZjSVhPZkxNb1ZobFJ5WmRmbXFNWkJVZ3JsdjBGSi1lQmEwSmdzaTVNS0t2ck03ZjgtUzdjbUhCNk8yYU9jcUlLWWRDcmgxMnRsN2Y4dTc3ME5pMjg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T17:32:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
+},
+{
+"id": "a0f2193b1af2",
+"title": "Liên danh 8 doanh nghiệp Pháp - Hàn Quốc - Việt Nam trúng thầu gói tư vấn đường sắt tốc độ cao Bắc - Nam",
+"link": "https://tuoitre.vn/lien-danh-8-doanh-nghiep-phap-han-quoc-viet-nam-trung-thau-goi-tu-van-duong-sat-toc-do-cao-bac-nam-100261122170451116.htm",
+"summary": "Dự án đường sắt tốc độ cao Bắc - Nam đã chọn được tư vấn khảo sát, lập Báo cáo nghiên cứu khả thi (bao gồm thiết kế FEED, lập hồ sơ mời thầu).",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/duong-sat-cao-toc-1-17292198272741418531000-1778387619768633982662-1795338695754870655906-0-24-417-691-crop-17953387087571748151258.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T17:29:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
+},
+{
 "id": "7c2990a8801a",
 "title": "Cảnh hợp long cầu đi bộ 1.000 tỷ đồng",
 "link": "https://vietnamnet.vn/canh-hop-long-cau-di-bo-1-000-ty-dong-noi-lien-hai-bo-song-sai-gon-2566836.html",
@@ -233,6 +266,28 @@
 "cat": "xh",
 "published": "2026-11-22T17:24:35+07:00",
 "found": "2026-11-22T17:29:06+07:00"
+},
+{
+"id": "22b0c56540f8",
+"title": "Đột nhập hái trộm ở nhiều vườn cà phê, bị công an mật phục bắt quả tang",
+"link": "https://tuoitre.vn/dot-nhap-hai-trom-o-nhieu-vuon-ca-phe-bi-cong-an-mat-phuc-bat-qua-tang-100261122150952458.htm",
+"summary": "Người đàn ông ở Đắk Lắk đột nhập hàng loạt vườn cà phê của người dân để hái trộm, bị công an mật phục, bắt quả tang lúc rạng sáng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/bat-nguoi-hai-trom-ca-phe-o-dak-lak-le-trung-2026-11-22-2-17953344383941652950168-0-0-735-1176-crop-1795334624944409477320.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T17:19:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
+},
+{
+"id": "57daa8eccb84",
+"title": "Khu kinh tế Vân Phong có gì đặc biệt?",
+"link": "https://dantri.com.vn/bat-dong-san/khu-kinh-te-van-phong-co-gi-dac-biet-20261122151332513.htm",
+"summary": "(Dân trí) - Bộ Chính trị vừa đồng ý chủ trương thành lập Khu kinh tế đặc biệt Vân Phong. Đây là khu kinh tế rộng khoảng 150.000ha, được quy hoạch phát triển cảng biển quốc tế, đô thị, du lịch, dịch vụ logistics..",
+"image": "https://cdnphoto.dantri.com.vn/IZZuBzqJ5iuFTrB85QpYPIHxCQQ=/2026/11/22/a14-1653294531199-1795335145175.png",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-22T17:17:03+07:00",
+"found": "2026-11-22T17:44:28+07:00"
 },
 {
 "id": "bece73f7d413",
@@ -345,6 +400,39 @@
 "found": "2026-11-22T17:13:20+07:00"
 },
 {
+"id": "8f057a03160b",
+"title": "Bắt đầu lấy ý kiến người dân về thành lập phường Vân Phong",
+"link": "https://tuoitre.vn/bat-dau-lay-y-kien-nguoi-dan-ve-thanh-lap-phuong-van-phong-100261122163637694.htm",
+"summary": "Một số địa phương ở Khánh Hòa đã bắt đầu lấy ý kiến người dân về đề án sắp xếp các đơn vị hành chính cấp xã, trong đó thành lập phường Vân Phong.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/lay-y-kien-17953423649871680882082-33-0-839-1290-crop-1795342390047273833104.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T17:04:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
+},
+{
+"id": "cdedf92bae6e",
+"title": "Nhộn nhịp cảnh thu hoạch cá tra khi giá ở mức cao nhất 3 năm",
+"link": "https://tuoitre.vn/nhon-nhip-canh-thu-hoach-ca-tra-khi-gia-o-muc-cao-nhat-3-nam-100261122162548008.htm",
+"summary": "Hiện giá cá tra thương phẩm ở mức 38.000 - 38.500 đồng/kg, người nuôi cá ở Đồng Tháp phấn khởi. Đây là mức giá cao nhất trong 3 năm gần đây, nhiều vùng nuôi tất bật thu hoạch cung ứng cho nhà máy chế biến.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/thu-cac-tra-2-17953384176411927371795-17953420015721621828425-0-0-1441-2306-crop-1795342025416961895137-64-0-1250-1898-crop-1795342041021517253500.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T17:01:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
+},
+{
+"id": "6168c64b7def",
+"title": "Thắp đèn xuyên đêm, Đội K51 quy tập 2 hài cốt liệt sĩ nằm gần nhau có danh tính",
+"link": "https://tuoitre.vn/thap-den-xuyen-dem-doi-k51-quy-tap-2-hai-cot-liet-si-nam-gan-nhau-co-danh-tinh-100261122143804297.htm",
+"summary": "Dưới ánh đèn chiếu sáng giữa đêm, lực lượng Đội K51 cùng chính quyền địa phương đã tìm kiếm, quy tập được 2 hài cốt liệt sĩ xác định được danh tính tại xã Tuy An Tây, Đắk Lắk.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/liet-si-17953419112562062077946-167-0-1367-1920-crop-1795341927551866472369.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T17:01:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
+},
+{
 "id": "23af4acfff1d",
 "title": "Tập đoàn T&T của bầu Hiển đón tin vui tại khu đô thị 50ha, gần 4.750 tỷ đồng ở tỉnh biên giới: Có tòa nhà 18 tầng, hơn 1.500 căn nhà ở xã hội",
 "link": "https://kenh14.vn/tap-doan-tt-cua-bau-hien-don-tin-vui-tai-khu-do-thi-50ha-gan-4750-ty-dong-o-tinh-bien-gioi-co-toa-nha-18-tang-hon-1500-can-nha-o-xa-hoi-215261122153111732.chn",
@@ -367,6 +455,17 @@
 "found": "2026-11-22T17:13:55+07:00"
 },
 {
+"id": "bcdc71c469e4",
+"title": "TP.HCM xây dựng đề án sáp nhập Sở Du lịch",
+"link": "https://tuoitre.vn/tphcm-xay-dung-de-an-sap-nhap-so-du-lich-100261120172539437.htm",
+"summary": "Cổng thông tin UBND TP.HCM vừa thông tin chỉ đạo của UBND TP.HCM về việc xây dựng đề án sáp nhập Sở Du lịch vào Sở Văn hóa và Thể thao, đồng thời sắp xếp Sở An toàn thực phẩm thành Chi cục An toàn thực phẩm thuộc Sở Y tế.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/550de7239f5c1f02464d-1791180564022970922795-17953394626681561183370-0-0-1600-2560-crop-1795339734674195944723.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T16:52:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
+},
+{
 "id": "d5dedd6622a8",
 "title": "Tỷ giá USD hôm nay (22-11): Đồng USD trải qua tuần tăng giá thứ tư liên tiếp",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnlXNURPa0lnX1JEOVpsN0lqRXRYdlFEa1hpam1nSEtUcTZodlB2T0UtWV9HSm94MldtVVMtSlBaY3ZqeVl3Nnh2Tmp0enBFTjRuQldsVHhEOFJyTmRxV3FNX0NiVnhZYU91VExVcEdlYU15VEpYQzEtVGZXRHlPRDVvdzBoZGcyR25zSFN1eHh1ZERieDJhdTJfZlZCYWRUUkZPZGU3Y0pkUQ?oc=5",
@@ -376,6 +475,17 @@
 "cat": "tc",
 "published": "2026-11-22T16:49:26+07:00",
 "found": "2026-11-22T06:16:11+07:00"
+},
+{
+"id": "eb47fe039c5a",
+"title": "Những con số ấn tượng của Kỳ họp thứ 2, Quốc hội khóa XVI",
+"link": "https://tuoitre.vn/nhung-con-so-an-tuong-cua-ky-hop-thu-2-quoc-hoi-khoa-xvi-100261122101308079.htm",
+"summary": "Kỳ họp thứ 2, Quốc hội khóa XVI đã quyết định ban hành mới và sửa đổi toàn diện, căn bản 22 luật, bộ luật quan trọng; thông qua 16 luật sửa đổi, bổ sung một số điều của 38 luật hiện hành.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/quoc-hoi-17953409496732018994759-418-470-1102-1565-crop-1795340976252149016562-23-58-661-1079-crop-17953409882561102705911.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T16:45:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
 },
 {
 "id": "8385849e5b6a",
@@ -556,6 +666,17 @@
 "found": "2026-11-22T17:13:55+07:00"
 },
 {
+"id": "f2e88882bfdf",
+"title": "TP.HCM sẽ thông qua nhiều nghị quyết mới trong tháng 12 để cụ thể hóa Luật Phát triển đô thị",
+"link": "https://tuoitre.vn/tphcm-se-thong-qua-nhieu-nghi-quyet-moi-trong-thang-12-de-cu-the-hoa-luat-phat-trien-do-thi-100261122140827163.htm",
+"summary": "TP.HCM đang chuẩn bị các điều kiện để áp dụng ngay hàng chục nghị quyết mới, dự kiến được HĐND TP.HCM thông qua trong tháng 12-2026, cụ thể hóa Luật Phát triển đô thị.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/adasdsd-1795331086529322845161-60-0-1660-2560-crop-1795331203421574435251.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T16:02:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
+},
+{
 "id": "2a294a3a0580",
 "title": "Quá nhanh: Đại lộ rộng gần gấp 3 lần đường băng sân bay, chạy xuyên siêu dự án 925.000 tỷ đồng, kết nối trực tiếp tới sân vận động 135.000 chỗ lớn nhất thế giới của Vingroup dự kiến hoàn tất xây dựng sau 10 ngày nữa",
 "link": "https://kenh14.vn/qua-nhanh-dai-lo-rong-gan-gap-3-lan-duong-bang-san-bay-chay-xuyen-sieu-du-an-925000-ty-dong-ket-noi-truc-tiep-toi-san-van-dong-135000-cho-lon-nhat-the-gioi-cua-vingroup-du-kien-hoan-tat-xay-dung-sau-10-ngay-nua-215261122152314175.chn",
@@ -621,8 +742,19 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T15:50:00+07:00",
-"traffic": "500+",
+"traffic": "2000+",
 "found": "2026-11-22T16:09:34+07:00"
+},
+{
+"id": "2eb93a01dabc",
+"title": "Huế muốn giao phường, xã quản lý bữa ăn bán trú ở trường học, thay vì hiệu trưởng",
+"link": "https://tuoitre.vn/hue-muon-giao-phuong-xa-quan-ly-bua-an-ban-tru-o-truong-hoc-thay-vi-hieu-truong-100261122133831459.htm",
+"summary": "UBND TP Huế đang nghiên cứu phương án giao chính quyền phường, xã chịu trách nhiệm kiểm soát việc cung cấp bữa ăn bán trú tại các trường học, thay vì để hiệu trưởng trực tiếp phụ trách như hiện nay.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/bua-an-ban-tru-17953293303261523009690-copy-1795337505083107461318-86-0-888-1284-crop-1795337545711172058274.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T15:48:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
 },
 {
 "id": "725cd8773519",
@@ -1360,6 +1492,17 @@
 "found": "2026-11-22T14:51:42+07:00"
 },
 {
+"id": "e8c0360676e7",
+"title": "10 trường hợp được chỉ định thầu từ ngày 1/3/2027",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSWszdkxyS2YtTzlfVXAwaFlHekpJcGRjM25NVmJ4YXE2emQ5a3dHSXNNbnBoY3l6aHlYM1MxVTdmQjMwSVNVU3Y5NDdBaEhsYWlTLUxGa1dTd1hRZmo4ZjZlNzNyYUpRMzJMVE5kRnRSZEdVMG9Qd2dELUw5cXRBMFM4WnZFNmZqbVE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-22T13:16:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
+},
+{
 "id": "de8b55f02390",
 "title": "Chiêu huy động hơn 1.700 tỷ đồng của cựu Chủ tịch Sen Tài Thu và con gái",
 "link": "https://dantri.com.vn/phap-luat/chieu-huy-dong-hon-1700-ty-dong-cua-cuu-chu-tich-sen-tai-thu-va-con-gai-20261122124211357.htm",
@@ -1902,6 +2045,17 @@
 "published": "2026-11-22T12:00:00+07:00",
 "traffic": "500+",
 "found": "2026-11-22T12:24:07+07:00"
+},
+{
+"id": "4c02bce1ecae",
+"title": "Những ngày đầu khai thác, Vietnam Airlines và Vietjet tổ chức bay thế nào tại Long Thành?",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzlwRnQwOVdDUnJodjJ6TzlNblEzVHFGT2Zrb3QwY1RqNjhYelR1Qnd1dlFtUGs4Xy0zZXZ1NHNBbDR2UTRXcWNIOXBUZ0NCYk5tX1Blb1FBa01md2lSajJvLWlYMkFiQlptNl9JZHNKRzB3SF9OVTcwWUNoSEVESFpzMXF4ZVpiMXExREVyNC15ZXNYT09WUnVTdHUwdUExUDRycUMxbzc1VVkyZzR5ank0YlhPLXZtSmphMg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-22T12:00:00+07:00",
+"found": "2026-11-22T17:44:28+07:00"
 },
 {
 "id": "542ef1728a20",
@@ -27916,161 +28070,6 @@
 "cat": "bds",
 "published": "2026-11-19T18:24:00+07:00",
 "found": "2026-11-19T18:32:06+07:00"
-},
-{
-"id": "324b1c2104b7",
-"title": "Tái thiết nội đô Hà Nội: Dành thêm không gian cho cộng đồng",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnJsS29meFRBcUQzYlVOY2h5Vlg0UGs0WkNoX05wS0x5NVY0aWhKY3puZ2ZmbVM2VjkyTzFlZDduR0QzekIxM1BJd21hRE5jXzh6d29DcDhpblNnQWtXTFBZNVREZ1hTQU9yLU1RN3NxRV9hUk9kLXozSDBOWXYyQmtMcEpvSER0WXpJRVRSZUZEM3BQMGc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T18:24:00+07:00",
-"found": "2026-11-19T18:32:06+07:00"
-},
-{
-"id": "ed1e57037556",
-"title": "5 nguy cơ có thể làm chao đảo kinh tế toàn cầu trong năm 2027",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV3hhcmpJNWdYQVVpY3QyencyalpyTi00UkNMLWhOY2VjWHVYSEFoaW05a2RyXzZJVEhfTlRCWmlCcHZoS1JMVkZsMFJDYXAxb0NsVFZ5cjBkay0wOUlnUWo4N1FZcm9YbHlJTkZ3bU1obFNCRWdhbWU2cktjd29vX3VOazJwVXM5VVhobzZUUTdMdktTeWZVTG9R?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T18:23:00+07:00",
-"found": "2026-11-19T19:45:01+07:00"
-},
-{
-"id": "015af3a27374",
-"title": "Huế: Áp dụng cơ chế 'luồng xanh' gỡ điểm nghẽn về nhà ở xã hội",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObE9QOWN4cFNHLXNELWExalJmcGw1UUgyVVN6bjhWNTFTZklRWkpCbml1WTNkU003eER5TWxJNzV0RWtlWk83eHowRmRLR1lkSHJiQjJDOGhSa2NGVUJTbURMWm1aM2RfaEVyNmxpUFNUWk9kVFF6UVlSM092WHY2UXc5c2taQVhxVzNkZ3pxWkdTN20wSWNJ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T18:23:00+07:00",
-"found": "2026-11-20T06:10:02+07:00"
-},
-{
-"id": "6207ac002903",
-"title": "u17",
-"link": "https://sports.yahoo.com/articles/werneck-delighted-surprise-u17-world-200700181.html",
-"summary": "Werneck delighted by surprise U17 World Cup call-up, hails team unity (Yahoo Sports)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLiV1G_-lKnTwJCRrZVpuQj-y2tLeOwl3dD5tX9qdYgRJ7FocixpejMJI5aw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T18:20:00+07:00",
-"traffic": "500+",
-"found": "2026-11-19T18:44:43+07:00"
-},
-{
-"id": "e5d67821b7de",
-"title": "Viện kiểm sát và luật sư của ông Lê Thanh Thản tranh luận về mức định giá căn hộ",
-"link": "https://tuoitre.vn/vien-kiem-sat-va-luat-su-cua-ong-le-thanh-than-tranh-luan-ve-muc-dinh-gia-can-ho-100261119180554319.htm",
-"summary": "Luật sư của ông Lê Thanh Thản đưa ra mức giá căn hộ khoảng 38-40 triệu đồng/m², cho rằng việc lấy giá nhà có sổ đỏ để định giá những căn chưa được cấp sổ là bất lợi cho bị cáo. Đối đáp, nữ kiểm sát viên nhấn mạnh người dân đã trả đủ tiền để mua căn hộ hợp pháp, có sổ đỏ, chủ đầu…",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/le-thanh-than-2g-17950859821401417838111-386-519-1105-1670-crop-1795088064482323956215-41-28-695-1075-crop-17950880759301022716457.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T18:19:00+07:00",
-"found": "2026-11-19T19:30:12+07:00"
-},
-{
-"id": "dfdc3807a52d",
-"title": "Viện kiểm sát: Ông Lê Thanh Thản phải bồi thường theo giá căn hộ có sổ đỏ",
-"link": "https://dantri.com.vn/phap-luat/vien-kiem-sat-ong-le-thanh-than-phai-boi-thuong-theo-gia-can-ho-co-so-do-20261119180411063.htm",
-"summary": "(Dân trí) - Viện kiểm sát cho rằng việc 519 căn hộ tại CT6 Kiến Hưng không được cấp sổ đỏ là hậu quả từ hành vi sai phạm của ông Lê Thanh Thản nên chủ đầu tư phải bồi thường theo giá căn hộ có sổ đỏ hợp pháp.",
-"image": "https://cdnphoto.dantri.com.vn/R5r24IvK7H0i6aTBSl8dbGR0vv8=/2026/11/19/ongthanhthanavar-1795085586927.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-19T18:16:43+07:00",
-"found": "2026-11-19T18:59:52+07:00"
-},
-{
-"id": "e0dfb06b1608",
-"title": "Việt Nam tiếp nhận vai trò chủ nhà APEC 2027 từ Trung Quốc",
-"link": "https://vnexpress.net/viet-nam-tiep-nhan-vai-tro-chu-nha-apec-2027-tu-trung-quoc-5146690.html",
-"summary": "Lễ chuyển giao diễn ra trước sự chứng kiến của các lãnh đạo nền kinh tế thành viên APEC, sau phần thảo luận và thông qua các văn kiện quan trọng.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/19/top1-1795079781-4462-1795079812.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=c5RJCEcC_XwgA3MXYOZUfw",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-19T18:11:59+07:00",
-"found": "2026-11-20T09:55:38+07:00"
-},
-{
-"id": "12c90154d683",
-"title": "Không khí lạnh tăng cường: Miền Bắc rét hơn, 5 tỉnh thành Trung Bộ mưa dồn dập",
-"link": "https://vietnamnet.vn/khong-khi-lanh-tang-cuong-mien-bac-ret-hon-5-tinh-mua-lon-2572302.html",
-"summary": "Không khí lạnh tiếp tục được bổ sung trong những ngày tới khiến Bắc Bộ và Bắc Trung Bộ duy trì trạng thái rét, vùng núi có nơi rét đậm. Trung Bộ đối mặt đợt mưa lớn kéo dài.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/khong-khi-lanh-tang-cuong-mien-bac-ret-hon-5-tinh-thanh-trung-bo-mua-don-dap-2154.jpg?width=0&s=v-gerSq_tHAbripl_upaqQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T18:10:45+07:00",
-"found": "2026-11-19T17:20:06+07:00"
-},
-{
-"id": "c59ac326d21e",
-"title": "Anthropic có thể tạo ra hàng ngàn triệu phú mới",
-"link": "https://tuoitre.vn/anthropic-co-the-tao-ra-hang-ngan-trieu-phu-moi-100261119172008188.htm",
-"summary": "Anthropic ấn định giá chào bán 83 USD/cổ phiếu trên sàn giao dịch Nasdaq, được đánh giá là thương vụ IPO lớn nhất lịch sử.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/lz6hwl2enznptddhfbk67rkl6e-17950842070122052477235-47-0-1247-1920-crop-17950842520741696987302.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T18:10:00+07:00",
-"found": "2026-11-19T18:32:06+07:00"
-},
-{
-"id": "0550a5001308",
-"title": "Án tù cho 5 cộng tác viên tổ trật tự đô thị phường thu tiền 'bảo kê'",
-"link": "https://tuoitre.vn/an-tu-cho-5-cong-tac-vien-to-trat-tu-do-thi-phuong-thu-tien-bao-ke-100261119174948893.htm",
-"summary": "Chiều 19-11, Tòa án nhân dân TP.HCM đã tuyên phạt 5 bị cáo nguyên là cộng tác viên Tổ trật tự đô thị phường Phạm Ngũ Lão, quận 1 (nay là phường Bến Thành) cùng về tội nhận hối lộ.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/29168-17950879494931919790912-119-79-1112-1669-crop-17950879822041415752551.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T18:08:00+07:00",
-"found": "2026-11-19T19:30:12+07:00"
-},
-{
-"id": "3f5f9eda4f92",
-"title": "Nước đen ngòm đổ ra vịnh Nha Phu đến từ đâu?",
-"link": "https://thanhnien.vn/nuoc-den-ngom-do-ra-vinh-nha-phu-den-tu-dau-185261119155153422.htm",
-"summary": "Tỉnh Khánh Hòa đã đầu tư, nâng cấp Trạm xử lý nước rỉ rác Lương Hòa, nhưng dòng nước đen ngòm đổ ra vịnh Nha Phu vẫn tồn tại, bốc mùi hôi thối chảy qua khu dân cư thôn Lương Hòa.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-anh-1-nuoc-ri-rac-17950758597061083705437-263-0-1863-2560-crop-17950864033961100283387.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T18:05:00+07:00",
-"found": "2026-11-19T18:01:45+07:00"
-},
-{
-"id": "8b942989b3d4",
-"title": "Metro số 1 TP.HCM đông khách thấy rõ",
-"link": "https://tuoitre.vn/metro-so-1-tphcm-dong-khach-thay-ro-10026111917465136.htm",
-"summary": "Metro số 1 (Bến Thành - Suối Tiên) ghi nhận hơn 20,25 triệu lượt khách trong 10 tháng đầu năm 2026, tăng khoảng 21% so với cùng kỳ năm 2025. Lượng khách đi học, đi làm đang ngày càng rõ hơn.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/t62a9742-17950849744931756618807-49-0-1649-2560-crop-17950851199871906688922.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T18:04:00+07:00",
-"found": "2026-11-19T18:32:06+07:00"
-},
-{
-"id": "f5823d3ecdbd",
-"title": "Vay qua thẻ phù hợp khả năng chi trả, góp phần đẩy lùi tín dụng đen",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeG5Dc09haG9iMHlUX0FOODlQSVVtWVdMR2pFai1VNGY1SVhlU2VwdHhJR2x0QzZva0pYdGxKd3pON3JKZzFtUFVwUC1HU3lTMTg3cHJMdHhuOGZYQTdmcndsd2pJSS1IQk9jb3dXV1ppSk5xZVgzMlRQQkVLVGU1dzdhQlpJeWVkb3FGT0tIdEozNGhndnR6M1dBTVptcjlQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T18:01:00+07:00",
-"found": "2026-11-19T18:59:52+07:00"
-},
-{
-"id": "6f2eeda87b5f",
-"title": "Bác sĩ Tô Việt Thanh giữ chức Phó giám đốc Bệnh viện Răng hàm mặt Trung ương TP.HCM",
-"link": "https://thanhnien.vn/bac-si-to-viet-thanh-giu-chuc-pho-giam-doc-benh-vien-rang-ham-mat-trung-uong-tphcm-185261119172752276.htm",
-"summary": "Ngày 19.11, Bộ Y tế tổ chức Hội nghị công bố quyết định về công tác cán bộ, bổ nhiệm bác sĩ Tô Việt Thanh giữ chức vụ Phó giám đốc Bệnh viện Răng hàm mặt Trung ương TP.HCM.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/base64-179508411181278948270-34-65-1154-1857-crop-17950842172771735210389.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T18:00:00+07:00",
-"found": "2026-11-19T18:01:45+07:00"
 }
 ]
 }
