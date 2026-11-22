@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T11:53:47+07:00",
-"new": 7,
+"updated": "2026-11-22T12:08:56+07:00",
+"new": 11,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 53
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,83 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "6dbd91a3d1ac",
+"title": "Đuổi đánh nhau trước cửa quán karaoke, 9 người bị bắt tạm giam",
+"link": "https://vietnamnet.vn/duoi-danh-nhau-truoc-cua-quan-karaoke-9-nguoi-bi-bat-tam-giam-2577578.html",
+"summary": "Mâu thuẫn khi hát karaoke, hai nhóm người dùng dao, hung khí đâm chém khiến một người nhập viện cấp cứu. Công an đã khởi tố 10 bị can, bắt tạm giam 9 đối tượng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/22/duoi-danh-nhau-truoc-cua-quan-karaoke-9-nguoi-bi-bat-tam-giam-967.jpg?width=0&s=Z2lS5iDwd5mi0MxshTlzxA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T12:06:16+07:00",
+"found": "2026-11-22T12:08:56+07:00"
+},
+{
+"id": "9fbca46a5267",
+"title": "TPHCM bán nhà ở xã hội giá chưa tới 15 triệu/m2",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREZ2Q1AwaExPVDVlNTdxczcxbU9aWHc5VXJtVkNPMV9MZlNGel9YWnZmZWJyVHZBMUdaeEhyc1ZmVFVlZERWbTNuc25RTGZMQkRCQ2QwejhURjg1a1ZKZ0VzdDllWWU4MUJubFMxUWJqV1RBbjRuM0gwUi1nN1VwdVdiZ2xkNzA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-22T12:04:00+07:00",
+"found": "2026-11-22T12:08:56+07:00"
+},
+{
+"id": "8278907f24c0",
+"title": "Đề xuất áp giá điện sản xuất cho trung tâm dữ liệu",
+"link": "https://thanhnien.vn/de-xuat-ap-gia-dien-san-xuat-cho-trung-tam-du-lieu-185261122111538388.htm",
+"summary": "Bộ Công thương vừa có công văn \"hỏa tốc\" lấy ý kiến về dự thảo thông tư sửa đổi, bổ sung một số điều của Thông tư 60 quy định về giá bán điện. Mục tiêu hướng dẫn áp dụng giá điện cho trung tâm dữ liệu.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/1-1792250745614412742764-17953206086281169164207-8-0-749-1185-crop-17953206365271209364647.gif",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-22T12:02:00+07:00",
+"found": "2026-11-22T12:08:56+07:00"
+},
+{
+"id": "542ef1728a20",
+"title": "Gần 10 km cao tốc TP.HCM - Long Thành mở rộng lên 10 làn, xe di chuyển thế nào?",
+"link": "https://thanhnien.vn/gan-10-km-cao-toc-tphcm-long-thanh-mo-rong-len-10-lan-xe-di-chuyen-the-nao-185261122113751644.htm",
+"summary": "Gần 10 km cao tốc TP HCM - Long Thành - Dầu Giây, đoạn từ cầu Long Thành đến nút giao QL 51 (Đồng Nai) đã cơ bản hoàn thành mở rộng lên 10 làn xe. Từ hôm nay (22.11), các phương tiện sẽ được điều tiết lưu thông trên làn đường mới mở, đồng thời đóng làn đường cũ để tiếp tục dự án…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/cao-toc-tphcm-long-thanh-vne-17953222291431857449730-21-0-1621-2560-crop-17953222609441830350844.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-22T11:59:00+07:00",
+"found": "2026-11-22T12:08:56+07:00"
+},
+{
+"id": "b70befce65d3",
+"title": "Cuốn sổ tay đặc biệt ghi hành trình tìm 99 liệt sĩ nằm chồng 4 lớp ở công viên Lê Thị Riêng",
+"link": "https://vietnamnet.vn/cuon-so-tay-dac-biet-tim-kiem-liet-si-o-cong-vien-le-thi-rieng-2577546.html",
+"summary": "Trong quá trình tìm kiếm, quy tập hài cốt liệt sĩ tại Công viên Lê Thị Riêng, Đội K74 ghi chép tỉ mỉ sơ đồ, tư thế từng hài cốt, trong đó có 99 liệt sĩ được phát hiện nằm chồng lên nhau thành 4 lớp trong một ngôi mộ tập thể.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/22/cuon-so-tay-dac-biet-ghi-hanh-trinh-tim-99-liet-si-nam-chong-4-lop-o-cong-vien-le-thi-rieng-952.jpg?width=0&s=zEaxmoIfOsGMXApIPa562Q",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T11:58:12+07:00",
+"found": "2026-11-22T12:08:56+07:00"
+},
+{
+"id": "594bacc105de",
+"title": "Miền Bắc sắp rét 14 độ, miền Trung có nơi mưa trên 200mm",
+"link": "https://kenh14.vn/mien-bac-sap-ret-14-do-mien-trung-co-noi-mua-tren-200mm-215261122114853889.chn",
+"summary": "Dự báo khoảng đêm 23 và sáng 24/11, thêm một đợt không khí lạnh có cường độ mạnh tràn xuống nước ta khiến miền Bắc mưa rét trở lại, khu vực miền Trung xuất hiện mưa lớn trên diện rộng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795322889507-17953228899421796113524.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T11:55:00+07:00",
+"found": "2026-11-22T12:08:56+07:00"
+},
+{
+"id": "158742d7ee2f",
+"title": "Cựu Tổng Giám đốc Sen Tài Thu bị cáo buộc rửa tiền, hưởng lợi hơn 225 tỷ đồng",
+"link": "https://kenh14.vn/cuu-tong-giam-doc-sen-tai-thu-bi-cao-buoc-rua-tien-huong-loi-hon-225-ty-dong-215261122105337397.chn",
+"summary": "Cựu Tổng Giám đốc Sen Tài Thu Nguyễn Thị Lan Hương bị cáo buộc rửa tiền, hưởng lợi hơn 225 tỷ đồng từ hoạt động huy động vốn, dùng tiền mua nhà và ô tô BMW.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795319551710-17953195521302116227939.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T11:52:00+07:00",
+"found": "2026-11-22T12:08:56+07:00"
+},
+{
 "id": "c18323babb40",
 "title": "Hàng loạt sai phạm tại Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEFCcVVRQXRSODFHUjRTaTBIdUcyNU1WMnc4Q0NaTDdmM0w2bnJkYWQ1SWUzWTRpdi1Ddm1FLTNGVXoxMFJVRmw5Y1hQOW03amdJWkRLVzhPQ1dmNWdyMjVTRVR2eTF0TlNxSjhhVWdtWEdQNzlpUFFBcE51N05ydmtZd0V6SmtYQnpTcTc3QWlTa1RhcG54RmRheVRrVTZCTklR?oc=5",
@@ -222,6 +299,30 @@
 "cat": "tc",
 "published": "2026-11-22T11:46:00+07:00",
 "found": "2026-11-22T11:53:47+07:00"
+},
+{
+"id": "ffb80364f412",
+"title": "sạt lở",
+"link": "https://laodong.vn/moi-truong/canh-bao-2-tinh-co-mua-to-nguy-co-lu-quet-sat-lo-trong-6-gio-toi-1804563.ldo",
+"summary": "Cảnh báo 2 tỉnh có mưa to, nguy cơ lũ quét, sạt lở trong 6 giờ tới (Laodong.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAmnz-k7Sp4Rz8yXFJZVpULhJLc2Yd84A5UuAoMp3rtKgkeHQ7rREftw_XZTM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T11:40:00+07:00",
+"traffic": "500+",
+"found": "2026-11-22T12:08:56+07:00"
+},
+{
+"id": "e1b557efde08",
+"title": "boeing 787 dreamliner",
+"link": "https://www.rolls-royce.com/media/press-releases/2026/19-11-2026-rr-welcomes-royal-brunei-airlines-order-for-eight-trent-1000-xe-engines.aspx",
+"summary": "Rolls-Royce welcomes Royal Brunei Airlines order for eight Trent 1000 XE engines (Rolls-Royce plc)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkiLtCNnlNtX05jO81OyG29LCjUYxhOur3ypkZqG65MYMsZuUj7Xd0QpgwRPs",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T11:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-22T12:08:56+07:00"
 },
 {
 "id": "09ddeae21a8d",
@@ -564,7 +665,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T10:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-22T11:38:37+07:00"
 },
 {
@@ -986,7 +1087,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T09:50:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-22T10:20:03+07:00"
 },
 {
@@ -1119,7 +1220,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T09:30:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-22T10:04:32+07:00"
 },
 {
@@ -2314,6 +2415,17 @@
 "cat": "xh",
 "published": "2026-11-22T07:00:00+07:00",
 "found": "2026-11-22T10:30:20+07:00"
+},
+{
+"id": "80eafd9942db",
+"title": "Xem lại bộ phim \"Bí thư Tỉnh ủy\" trên VTV2 và VTVgo",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9iNkhiT0w1X3E0VjlWYkEzMHFvcjhHcGcxRHJ3b0lUSEtEaHhkZlphYU9la0g0NEJmbzVOTEdXOEQ?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T07:00:00+07:00",
+"found": "2026-11-20T03:47:43+07:00"
 },
 {
 "id": "2bd6742a14f5",
@@ -11686,17 +11798,6 @@
 "found": "2026-11-21T09:13:42+07:00"
 },
 {
-"id": "80eafd9942db",
-"title": "Xem lại bộ phim \"Bí thư Tỉnh ủy\" trên VTV2 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9iNkhiT0w1X3E0VjlWYkEzMHFvcjhHcGcxRHJ3b0lUSEtEaHhkZlphYU9la0g0NEJmbzVOTEdXOEQ?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T07:00:00+07:00",
-"found": "2026-11-20T03:47:43+07:00"
-},
-{
 "id": "e81da585a4be",
 "title": "Đấu trường thông thái | VTV3 và VTVgo",
 "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1ES0JQT3V0NnNhM3RyYTJmdVktRG54WW9BVlgtaV9lM3JBNGt5Z25ZX0xLVTN2ZVlVRG0wejN4TG8?oc=5",
@@ -11739,6 +11840,17 @@
 "cat": "xh",
 "published": "2026-11-21T07:00:00+07:00",
 "found": "2026-11-22T03:13:06+07:00"
+},
+{
+"id": "584e66ee6328",
+"title": "Mẹ Nguyên ra đi, bố Việt xuất hiện | Cha tôi, người ở lại | Tập 9 | VTV3 và VTVgo",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAtaXk5VzFLQ0NXaExteEk1b2xld3BQSkxzOEFpdzNTbk9VU29Jak44bHMwTHhxRGVNQXNGV3g2eTI?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T07:00:00+07:00",
+"found": "2026-11-22T12:08:56+07:00"
 },
 {
 "id": "e4f72be2dd94",
@@ -14651,6 +14763,17 @@
 "cat": "bds",
 "published": "2026-11-20T18:32:14+07:00",
 "found": "2026-11-20T18:45:15+07:00"
+},
+{
+"id": "a2ba652189d4",
+"title": "Đoạn clip 15 giây gây tranh cãi nhất mạng xã hội ngày 19/11: \"Bóc\" hàng loạt vi phạm",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSlBOaUhCYm55VVVSZ1otbXAya2hOUUFvVm9tWDE2b29sa3lWYXYtLTNzQjhicFkzVm45cXVrWENZVnk1OGxXLVRGZ3N1cjFWSHN6LVBGTVVqdGRQWDVsTGJoNDlYYmV5bW55SHZNS1UwUUNoREpaeFlXYVRDWDE0NldHcVNINE53NFo3aVE3QVJ3b2xoanpSamxaTkNNa3BaNERKQXl4OEdsbUVscVJudmhJSVQ5QlhuZ3hVcw?oc=5",
+"summary": "Nguồn: SOHA",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T18:32:00+07:00",
+"found": "2026-11-22T12:08:56+07:00"
 },
 {
 "id": "0de8ca2a3500",
@@ -27936,127 +28059,6 @@
 "source": "CafeF",
 "cat": "bds",
 "published": "2026-11-19T15:22:00+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "b8299c2b1a58",
-"title": "Hãng bay chở hàng hóa của Mỹ có thể tăng gấp đôi chuyến đến Việt Nam",
-"link": "https://vnexpress.net/hang-bay-cho-hang-hoa-cua-my-co-the-tang-gap-doi-chuyen-den-viet-nam-5146535.html",
-"summary": "Atlas Air - hãng có đội tàu bay chở hàng thân rộng nhiều nhất thế giới - có thể tăng gấp đôi số chuyến đến Việt Nam, nếu hạ tầng cho phép.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/3eca0914dec50c42c0a2-jpeg-1795-8307-3921-1795066087.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0oucQmFFR24JfxM-iSlUCw",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-19T15:19:36+07:00",
-"found": "2026-11-19T15:50:10+07:00"
-},
-{
-"id": "4d360ab8fabd",
-"title": "ECB xem xét tăng tỷ lệ dự trữ bắt buộc của các ngân hàng, tiết kiệm 4,4 tỷ euro mỗi năm",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTHdVN2YxZGpMQ2h6dFhxMW5zRzB3V2xuY0l2aWNzdkY4cjVmVGVwTjJWMGQ0eE1UQTFGNGREb3FzOUNfa3FsMDhlamRNRDhsdmEzZG4zZU92QVlUbUJMZ21QaW12eF96UVVTTUJfOXhNM241M0lWbHh0b3k3RW1vLWhRSllSMUxzcFhBd2llRFJiZ3FpZlhEWTFYYVJ0T1F5X3hvUkdvV0NBV3U2aktTU0pLX2xMdFBvZnJN?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T15:18:00+07:00",
-"found": "2026-11-19T17:04:55+07:00"
-},
-{
-"id": "ec0118b5bd4c",
-"title": "Danh tính cựu sinh viên biến khoản vay 10.000 USD thành đế chế bất động sản 70 tỷ USD, hào phóng tặng gần nửa tỷ USD cho trường cũ",
-"link": "https://cafef.vn/danh-tinh-cuu-sinh-vien-bien-khoan-vay-10000-usd-thanh-de-che-bat-dong-san-70-ty-usd-hao-phong-tang-gan-nua-ty-usd-cho-truong-cu-188261119150745658.chn",
-"summary": "Không chỉ sở hữu khối tài sản 21,5 tỷ USD và đứng sau những tổ hợp bất động sản đình đám tại New York, vị tỷ phú này còn được biết đến với khoản tài trợ gần nửa tỷ USD cho trường đại học cũ.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795075579719-17950755801942139706866.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-19T15:17:00+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "040d9d1df6c7",
-"title": "16 triệu người cao tuổi mở ra thị trường tỷ USD: Doanh nghiệp vẫn thờ ơ",
-"link": "https://dantri.com.vn/kinh-doanh/16-trieu-nguoi-cao-tuoi-mo-ra-thi-truong-ty-usd-doanh-nghiep-van-tho-o-20261119145325161.htm",
-"summary": "(Dân trí) - Việt Nam hiện có khoảng 16 triệu người cao tuổi và đang già hóa rất nhanh. Tuy nhiên, phần lớn doanh nghiệp vẫn đứng ngoài thị trường \"kinh tế bạc\" đầy tiềm năng này.",
-"image": "https://cdnphoto.dantri.com.vn/WWTJPW5dNWUMB4SaewCsHQy98R8=/2026/11/19/doanh-nghiep-con-bo-ngo-thi-truong-phuc-vu-hang-chuc-trieu-nguoi-cao-tuoi-cropped-1795074701661.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-19T15:16:03+07:00",
-"found": "2026-11-19T15:50:10+07:00"
-},
-{
-"id": "e4eb2c76dfb0",
-"title": "Phát hiện thi thể người đàn ông trong hộp quảng cáo ở Nha Trang",
-"link": "https://thanhnien.vn/phat-hien-thi-the-nguoi-dan-ong-trong-hop-quang-cao-o-nha-trang-18526111914002863.htm",
-"summary": "Người dân phát hiện thi thể người đàn ông trong hộp quảng cáo ở công viên bờ biển Nha Trang, trong tình trạng đang phân hủy.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/edit-edit-17950705657501558022148541688370313182093575453941085b4a6da6c10ce9a5651bfa382a70bf-17950712131032116747897-154-0-1434-2048-crop-1795071229924918384305.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T15:16:00+07:00",
-"found": "2026-11-19T15:16:17+07:00"
-},
-{
-"id": "d12b07f9673c",
-"title": "Hòn đảo của Việt Nam chuẩn bị đón các VVIP thế giới tại sự kiện quốc tế đặc biệt, sắp có thêm 11.000 phòng khách sạn cao cấp: Chuyên gia Savills chỉ ra bài toán lớn sau sự kiện",
-"link": "https://cafef.vn/hon-dao-cua-viet-nam-chuan-bi-don-cac-vvip-the-gioi-tai-su-kien-quoc-te-dac-biet-sap-co-them-11000-phong-khach-san-cao-cap-chuyen-gia-savills-chi-ra-bai-toan-lon-sau-su-kien-188261119151634779.chn",
-"summary": "Phú Quốc đang bước vào giai đoạn phát triển mới khi hàng loạt dự án hạ tầng trọng điểm được đẩy nhanh tiến độ nhằm chuẩn bị cho APEC 2027. Cùng với đó, thị trường du lịch và lưu trú trên đảo cũng ghi nhận những chuyển biến tích cực, thu hút sự tham gia của nhiều nhà đầu tư và…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795075927333-1795075928177122005656.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-19T15:16:00+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "17a96f1c3aca",
-"title": "VN-Index về vùng định giá đáy, lộ diện loạt cổ phiếu đầu ngành hút vốn",
-"link": "https://cafef.vn/vn-index-ve-vung-dinh-gia-day-lo-dien-loat-co-phieu-dau-nganh-hut-von-188261119151630389.chn",
-"summary": "Bất chấp lợi nhuận doanh nghiệp niêm yết quý III/2026 tăng trưởng bứt phá, dòng tiền suy yếu đã kéo định giá VN-Index lùi về vùng đáy lịch sử, mở ra cơ hội tích lũy nhiều cổ phiếu đầu ngành có nền tảng cơ bản vững chắc.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795075903743-17950759059031624738194.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-19T15:16:00+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "f521c32dfba5",
-"title": "Bất động sản năm 2027: Cơ hội đón chu kỳ mới nhưng áp lực nguồn cung gia tăng",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZVJya2J2dzM0cm5ZRHN0cGZUQXFJV0hRb1VQdzV6WF9zLUllN245TUVhbTlMV3BxcGJ6cHhXMFJEaTlnbGRiNHdYWHdBcVQ1cVFBbU1OR0xtamNBdm1ZcS1DN2JFYmZVN0JXbTZrLVAta0VmQS1pOGVsSmF3eXNyYm9lbUlfbHdFSHJrTjV2MVR2WmRSVXhHS2pZZGpqc0dTWUo3T01aczRnZkRoMEE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T15:15:40+07:00",
-"found": "2026-11-19T21:44:39+07:00"
-},
-{
-"id": "6d03cbb89ed3",
-"title": "Doanh nghiệp thuộc Tập đoàn Kosy nợ thuế hơn 8,6 tỷ đồng, Chủ tịch Nguyễn Việt Cường bị tạm hoãn xuất cảnh",
-"link": "https://cafef.vn/doanh-nghiep-thuoc-tap-doan-kosy-no-thue-hon-86-ty-dong-chu-tich-nguyen-viet-cuong-bi-tam-hoan-xuat-canh-188261119151513014.chn",
-"summary": "Những diễn biến đáng chú ý tại Tập đoàn Kosy xuất hiện trong bối cảnh doanh nghiệp ghi nhận kết quả kinh doanh suy giảm mạnh và cổ phiếu KOS trải qua giai đoạn lao dốc.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795075963292-17950759647401403825865.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-19T15:15:00+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "4a6a3e6b7aec",
-"title": "Đà Nẵng lấy ý kiến kế hoạch ứng phó sự cố hóa chất",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYjBBZi1lZ3ZXTTRiaU5mVkxBeGQ5bzVPSW5wSnpDZndmTGRvM05VN1N0VERXUy12OVE0SENDeWxfZ2xsZHBuWWtsTmNkZkFQLTR1bWFHd3AwLVkwS1pETkI5OXRzRHBEOXhhMllVdFA1Zml2U3dpYl9JczlSSUF5R0s5TTd2ejMtZkNr?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T15:15:00+07:00",
-"found": "2026-11-20T04:33:53+07:00"
-},
-{
-"id": "d07705b79bd1",
-"title": "Chủ đầu tư khó hạ giá nhà dù thanh khoản kém",
-"link": "https://vnexpress.net/chu-dau-tu-kho-ha-gia-nha-du-thanh-khoan-kem-5141495.html",
-"summary": "Giá đất, nghĩa vụ tài chính, vốn và vật liệu xây dựng cùng đội lên trong quá trình phát triển dự án, khiến dư địa giảm giá nhà của chủ đầu tư thu hẹp.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/dji-1794984242-5180-1794984605.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=y_kRaBmivx99i2ia3rjUxA",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-19T15:14:18+07:00",
 "found": "2026-11-19T15:31:26+07:00"
 }
 ]
