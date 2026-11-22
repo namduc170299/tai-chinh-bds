@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T17:13:20+07:00",
-"new": 4,
+"updated": "2026-11-22T17:13:55+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "0c3bc1e0977a",
+"title": "C/O điện tử: Gỡ vướng thủ tục, thúc đẩy xuất khẩu",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS0I5YS00bjNraXBnZEFsYkpvSXFJb1JXcV9fU1FzdUpnTENaLVBqS2E3RmpRaW9pMHNRYnRmRS1OeGdZUnFfb1lHVU11WkdXdHRLMnlnb2tZOHpsNDNlVWEyZl8yRkZzS3pNMHpBUThMNGhVVkNueXM1NkcyLUR6S01HWDV0ajA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T17:11:00+07:00",
+"found": "2026-11-22T17:13:55+07:00"
+},
+{
+"id": "be9c59a548d7",
+"title": "Nhiều loại rau xanh và gia vị giảm giá một nửa",
+"link": "https://vnexpress.net/nhieu-loai-rau-xanh-va-gia-vi-giam-gia-mot-nua-5147620.html",
+"summary": "Sau thời gian dài neo cao, giá nhiều loại rau xanh, gia vị tại TP HCM giảm 15-50%, riêng ngò rí giảm đến 75%.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/22/wm1-wm1-rua-1795319955-2632-1795320099.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ypfMAMz524e6HpqWLbWo8A",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-22T17:08:29+07:00",
+"found": "2026-11-22T17:13:55+07:00"
+},
+{
 "id": "eb9214563ef1",
 "title": "Gần 45.000 mẫu hài cốt liệt sĩ và &apos;mệnh lệnh từ trái tim&apos; trên bầu trời",
 "link": "https://vietnamnet.vn/gan-45-000-mau-hai-cot-liet-si-va-menh-lenh-tu-trai-tim-tren-bau-troi-2567157.html",
@@ -233,6 +255,17 @@
 "cat": "xh",
 "published": "2026-11-22T16:54:00+07:00",
 "found": "2026-11-22T17:13:20+07:00"
+},
+{
+"id": "f7f411c12e02",
+"title": "Công ty bầu Đức muốn phát hành 400 tỷ đồng trái phiếu",
+"link": "https://vnexpress.net/cong-ty-bau-duc-muon-phat-hanh-400-ty-dong-trai-phieu-5147667.html",
+"summary": "HAGL dự kiến phát hành riêng lẻ tối đa 4.000 trái phiếu, kỳ hạn 48 tháng, mệnh giá 100 triệu đồng mỗi trái phiếu, tương ứng tổng giá trị tối đa 400 tỷ đồng.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/22/wm1-wm1-ca-phe-1795333420-4090-1795333783.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=opMsRP0R_YPDRENiWLfQdw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-22T16:53:34+07:00",
+"found": "2026-11-22T17:13:55+07:00"
 },
 {
 "id": "d5dedd6622a8",
@@ -346,6 +379,17 @@
 "found": "2026-11-22T16:26:54+07:00"
 },
 {
+"id": "cd40d5d28597",
+"title": "Bộ đội mũ nồi xanh tổ chức Ngày hội hóa Việt Nam giữa lòng châu Phi",
+"link": "https://tuoitre.vn/bo-doi-mu-noi-xanh-to-chuc-ngay-hoi-hoa-viet-nam-giua-long-chau-phi-100261122140610404.htm",
+"summary": "Bệnh viện Dã chiến cấp 2 số 8 (BVDC 2.8) và Đội công binh số 5 (ĐCB5) vừa tổ chức Ngày Văn hóa Việt Nam tại Nam Sudan và khu vực Abyei, mang đến cho bạn bè quốc tế những trải nghiệm đặc sắc về đất nước, con người và bản sắc văn hóa dân tộc.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/bvdc-28-1-1795330393825618499038-90-0-1690-2560-crop-1795335421324415112120.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-22T16:15:00+07:00",
+"found": "2026-11-22T17:13:55+07:00"
+},
+{
 "id": "5a029a6aac44",
 "title": "30 năm chứng khoán: Lời gửi gắm từ những người đặt nền móng thị trường",
 "link": "https://tuoitre.vn/30-nam-chung-khoan-loi-gui-gam-tu-nhung-nguoi-dat-nen-mong-thi-truong-100261118131613521.htm",
@@ -366,6 +410,17 @@
 "cat": "xh",
 "published": "2026-11-22T16:04:45+07:00",
 "found": "2026-11-22T16:09:34+07:00"
+},
+{
+"id": "1529f7abdf3c",
+"title": "Cảnh sát biển Việt Nam lên đường tuần tra chung hơn 260 hải lý cùng Trung Quốc",
+"link": "https://tuoitre.vn/canh-sat-bien-viet-nam-len-duong-tuan-tra-chung-hon-260-hai-ly-cung-trung-quoc-100261122145039724.htm",
+"summary": "Ngày 22-11, thông tin từ Vùng Cảnh sát biển 1 cho biết tại Hải Phòng, biên đội tàu Cảnh sát biển Việt Nam xuất phát thực hiện chuyến tuần tra liên hợp lần thứ hai năm 2026 với Cảnh sát biển Trung Quốc trên vùng biển Vịnh Bắc Bộ.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/canh-sat-bien-viet-nam-thuc-hien-nghi-thuc-chao-cang-1795333318616430682067-0-0-1033-1653-crop-1795333641048475200341.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-22T16:04:00+07:00",
+"found": "2026-11-22T17:13:55+07:00"
 },
 {
 "id": "2a294a3a0580",
@@ -869,6 +924,17 @@
 "published": "2026-11-22T14:20:00+07:00",
 "traffic": "1000+",
 "found": "2026-11-22T16:09:34+07:00"
+},
+{
+"id": "8876d0d9dec1",
+"title": "Sân bay Long Thành dự kiến khai thác thương mại từ ngày 24/12",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ01EbHItSTJfNEctT0FDZHM1VXZWMzhLZ2VxMVhqT0htYmdhNGR1bXZpelhIZ3pYX0FTdVliWVNGT0J3aXd3eFVfMGI1QTRmUzhGV3dZcnBxbmRNWU4zYmVQR1RzeEpFcFpmS2VJQzUwdGNfS0VSRll2bEU5cTJ4bU5yV1NQcTBqaHpqY0VUM1haNmNUMlk4cVRn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-22T14:19:00+07:00",
+"found": "2026-11-22T17:13:55+07:00"
 },
 {
 "id": "5bd0d9722092",
@@ -28004,72 +28070,6 @@
 "cat": "xh",
 "published": "2026-11-19T17:47:36+07:00",
 "found": "2026-11-19T18:16:55+07:00"
-},
-{
-"id": "457959b01bd7",
-"title": "Nhận tiền \"bảo kê\" vỉa hè, nhóm trật tự đô thị ở TPHCM lĩnh án",
-"link": "https://dantri.com.vn/phap-luat/nhan-tien-bao-ke-via-he-nhom-trat-tu-do-thi-o-tphcm-linh-an-20261119173242187.htm",
-"summary": "(Dân trí) - Bị cáo Nguyễn Tiến Mãi bị xác định chỉ đạo cấp dưới nhận tiền “chung chi” của các hộ kinh doanh để bỏ qua vi phạm lấn chiếm lòng, lề đường, với tổng số tiền gần 555 triệu đồng.",
-"image": "https://cdnphoto.dantri.com.vn/a1cNnDgJ9rcxGUTrVzjfrKxLQns=/2026/11/19/179508423721718668955814270010228059889764723040908e5f447eff02fcbdfabfd113bcd1a834b-edited-1795084309136.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-19T17:47:36+07:00",
-"found": "2026-11-19T18:44:43+07:00"
-},
-{
-"id": "4cf0fad92fd1",
-"title": "Mô hình TOD: Kiến tạo các cực phát triển đô thị mới của Hà Nội",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSEpWZ24tLU5pOTduenJhS2hzVktrUFBMZU0tbGdyNGp2UjN5S0ZJT1hWUmxTTG9LS2V5WXB3MUx5QVU1OWF5cDEzbG43QmZnQVBfdXIzU0Rkd0xwMUp6OWZEX3ZtRHRmZnUtdl9tV05YNV9GNFhIRGo5Uk9RaDlwQUVsRnktU0tKckFLNUxvaEJIWTJPbTdSSW9B?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T17:47:00+07:00",
-"found": "2026-11-20T03:47:43+07:00"
-},
-{
-"id": "9aa2376d7635",
-"title": "5 cựu thành viên tổ trật tự đô thị ở TPHCM lĩnh án vì nhận hối lộ",
-"link": "https://vietnamnet.vn/nhan-hoi-lo-to-trat-tu-xa-hoi-nham-mat-lam-ngo-cho-vi-pham-2576843.html",
-"summary": "Nhận tiền hàng trăm triệu đồng của các hộ kinh doanh để bỏ qua vi phạm lấn chiếm lòng, lề đường và vệ sinh môi trường, 5 cựu thành viên Tổ trật tự đô thị phường Phạm Ngũ Lão, quận 1 cũ, bị phạt từ 2 đến 8 năm 6 tháng tù.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/mainhanhoilo-2306.webp?width=0&s=fJMxoWdiFH6zZxHYSGoOzA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T17:46:13+07:00",
-"found": "2026-11-19T18:01:45+07:00"
-},
-{
-"id": "645279b9eb2b",
-"title": "Cổ phiếu công nghệ tăng điểm nhờ IPO kỷ lục của Anthropic",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzliSVg5dTlfUDNDRDc4YnVLc3ZnM3VKYTNzODdTTGpac05fbW40NXRMRl9sV3BGRURlLWIwbmRrT2tOMGE5VVh6VVFQMXBBQ1RNVE5tY3hEcEZOZWxlUmdQeHhha0Z4T3R3OEhEenBZekN0R1p6ZTkxM2pWeVJZdHVEY2FsNGVsOXdMeEI1RTBCcDFS?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T17:45:00+07:00",
-"found": "2026-11-19T18:01:45+07:00"
-},
-{
-"id": "51a0b03bfa16",
-"title": "Đấu giá thành công 39 thửa đất 'vàng' bỏ hoang ở Ninh Bình, thu về 522 tỉ",
-"link": "https://thanhnien.vn/dau-gia-thanh-cong-39-thua-dat-vang-bo-hoang-o-ninh-binh-thu-ve-522-ti-185261119165427377.htm",
-"summary": "Trong 360 thửa đất được đấu giá tại P.Hoa Lư (Ninh Bình) có 39 thửa đất trúng đấu giá, dự kiến thu về ngân sách khoảng 522,260 tỉ đồng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-2aoborde8f5togaftyffe9nju3kg7wm59p3ly7ps-1795081553342604372065-11-0-1609-2557-crop-1795082030556426899064.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T17:43:00+07:00",
-"found": "2026-11-19T17:46:35+07:00"
-},
-{
-"id": "6e6d5678acfa",
-"title": "Đà Nẵng phát hiện 3 hài cốt liệt sĩ, có bia khắc tên và đơn vị",
-"link": "https://thanhnien.vn/da-nang-phat-hien-3-hai-cot-liet-si-co-bia-khac-ten-va-don-vi-185261119170844563.htm",
-"summary": "3 hài cốt liệt sĩ cùng hai tấm bia xi măng khắc tên, đơn vị, vừa được phát hiện tại Đà Nẵng, mở thêm manh mối trong hành trình tìm kiếm, xác định danh tính các liệt sĩ.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/13731-17950825469851746701375-574-0-1774-1920-crop-1795082828983531420095.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T17:43:00+07:00",
-"found": "2026-11-19T18:01:45+07:00"
 }
 ]
 }
