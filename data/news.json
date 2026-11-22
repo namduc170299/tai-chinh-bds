@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T15:39:13+07:00",
-"new": 2,
+"updated": "2026-11-22T15:54:23+07:00",
+"new": 11,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 50
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "2a95de967d9c",
+"title": "Dòng vốn cho quá trình chuyển đổi xanh",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaY2E5Y1JIZWQ0dVFURDNLczBva0pSWDBLTFpSU2xTb25OZmhRQWRtZUxWRDRqellyNTlyODVxQVktVVNHSW5ON3EyV2pzYjdDSHFfTEdkc2RlUGtkSFE4enA0X3NvUV9Pd2doXzVBMkRxWDczYnp1ckJUUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T15:42:00+07:00",
+"found": "2026-11-22T15:54:23+07:00"
+},
+{
+"id": "9b71b41ed4df",
+"title": "Bắt giữ thành công Lê Xuân Hưng SN 1999 trong chuyên án lớn",
+"link": "https://kenh14.vn/bat-giu-thanh-cong-le-xuan-hung-sn-1999-trong-chuyen-an-lon-215261122151805307.chn",
+"summary": "Lê Xuân Hưng SN 1999 là đối tượng trong đường dây mua bán trái phép chất ma túy xuyên quốc gia từ Thái Lan về Ninh Bình tiêu thụ.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795335385958-179533538626734889769.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T15:42:00+07:00",
+"found": "2026-11-22T15:54:23+07:00"
+},
+{
+"id": "fb26cb5744a1",
+"title": "Chuyên gia: Cảnh giác chiêu “câu phẫn nộ”, nhóm chủ yếu ở Việt Nam dùng AI bịa tin",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkVkZ19WR1N2cDF2RlZIRHRHNDNrZDVWNlN2QU51bUxRbkxFTWNXUTNLYnFQSm9EcHlNdDZvVTltSnhNVWpoVEo5MmlxeUIwdURxSkMtTzFuVkowZGZ6YTdCdkxvbEgydDk0U1NXVnA1cE5mM3FFS1h1REg2Z29qd2twekxpZlFHMU9tZnBqVDEyekV2dlQ4a1AzdmdIT0had19YTmJCRWlfUnVaQ0JkYXZ1Y3Z1UdIBuwFBVV95cUxQS0I2QUZURFhBM1YwV0VXb3pPUkJEN1F3c1BtN2pIS3p0Y3VyVUNIRVVyaHRiQjVfOXdyRmFRa1F3Q2UtdWZUYW1FazNOQ1ZQUWxtYUlTaGh2SFo1bXpKSHJOU0s0bFJSMGhqczNUYlRQYmw5azY2M3dIN3BTeHRPTmJaZlpnY2c5QUR0VGY2d1YzZ0hpV3BMdWZkbG9vMkNzWEdoSHVrTURtWU11NFZDcmoyRm10OS1Qc0dv?oc=5",
+"summary": "Nguồn: Trí Thức VN",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T15:31:08+07:00",
+"found": "2026-11-22T15:54:23+07:00"
+},
+{
+"id": "7bfaafb95fc7",
+"title": "Hội Chữ thập đỏ Việt Nam và Bộ GD&ĐT ký kết chương trình phối hợp giai đoạn 2026–2031",
+"link": "https://kenh14.vn/hoi-chu-thap-do-viet-nam-va-bo-gddt-ky-ket-chuong-trinh-phoi-hop-giai-doan-20262031-215261122153852048.chn",
+"summary": "Hội Chữ thập đỏ Việt Nam đã ký kết với Bộ Giáo dục và Đào tạo Chương trình phối hợp về phát triển thanh thiếu niên Chữ thập đỏ và hoạt động nhân đạo trong trường học giai đoạn 2026 - 2031.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795336514448-179533651774472304269.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T15:31:00+07:00",
+"found": "2026-11-22T15:54:23+07:00"
+},
+{
 "id": "05c4b0ae204a",
 "title": "Nhận ngay chiết khấu đến 17,5% tại căn hộ The Fest Nha Trang",
 "link": "https://cafef.vn/nhan-ngay-chiet-khau-den-175-tai-can-ho-the-fest-nha-trang-188261122151247694.chn",
@@ -222,6 +266,18 @@
 "cat": "bds",
 "published": "2026-11-22T15:30:00+07:00",
 "found": "2026-11-22T15:37:13+07:00"
+},
+{
+"id": "9e0b35008928",
+"title": "bất động sản",
+"link": "https://tienphong.vn/su-that-ve-tin-rao-ban-cat-lo-bat-dong-san-post1896533.tpo",
+"summary": "Sự thật về tin rao bán cắt lỗ bất động sản (Báo Tiền Phong)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc1DW6QaY4IYFYlCM5LjimdtNgZb88-o6NrCqVmYmAFtbzlyD8sbDz17dTVB0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T15:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-22T15:54:23+07:00"
 },
 {
 "id": "1b797b342f52",
@@ -255,6 +311,17 @@
 "cat": "xh",
 "published": "2026-11-22T15:28:00+07:00",
 "found": "2026-11-22T15:39:13+07:00"
+},
+{
+"id": "a8a05c0c9be7",
+"title": "Người bị thu hồi đất được bồi thường, tái định cư ra sao theo luật mới?",
+"link": "https://dantri.com.vn/bat-dong-san/nguoi-bi-thu-hoi-dat-duoc-boi-thuong-tai-dinh-cu-ra-sao-theo-luat-moi-20261122144643680.htm",
+"summary": "(Dân trí) - Luật Đất đai mới quy định các hình thức bồi thường, bố trí tái định cư khi Nhà nước thu hồi đất, đồng thời bổ sung cơ chế hỗ trợ phục hồi sinh kế cho người dân.",
+"image": "https://cdnphoto.dantri.com.vn/b7LYrynvBjIZeo58p_kMLWSrHW4=/2026/08/27/ai-phai-di-doi-khi-ha-noi-tai-cau-truc-1769515460866-1781158870097-1787805184116.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-22T15:26:31+07:00",
+"found": "2026-11-22T15:54:23+07:00"
 },
 {
 "id": "b3ffba1158e2",
@@ -323,6 +390,17 @@
 "found": "2026-11-22T15:22:02+07:00"
 },
 {
+"id": "bde63546fc06",
+"title": "Cơ sở thẩm mỹ thuê người đóng giả bác sĩ \"dụ\" khách làm đẹp",
+"link": "https://dantri.com.vn/phap-luat/co-so-tham-my-thue-nguoi-dong-gia-bac-si-du-khach-lam-dep-20261122141751102.htm",
+"summary": "(Dân trí) - Một cơ sở thẩm mỹ tại Đắk Lắk đã thuê người không có chuyên môn giả danh bác sĩ để tư vấn, lôi kéo khách hàng sử dụng các dịch vụ làm đẹp.",
+"image": "https://cdnphoto.dantri.com.vn/7F7Sy0fU3QZakRKigkMMNhXN7WA=/2026/11/22/tham-my-edited-1795331530457.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-22T15:05:24+07:00",
+"found": "2026-11-22T15:54:23+07:00"
+},
+{
 "id": "bbd7f604c15a",
 "title": "Sự thật về tin rao bán cắt lỗ bất động sản",
 "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXhQVW54Qnd4ZFEtNzBOMGVmcUpVLU5xR3VnLUdtTnVIUFZzNVE5RnNpYWJrN3dfMGZpMzhjS3V5UU01Zkw1MXZXV3NjblAwcno2UkVDbGRxcnlkQ2pFNEFkRGo2RXFudmpzTk1VSzV5RzkyNnFyelhSTmhyeDBlcw?oc=5",
@@ -365,6 +443,17 @@
 "cat": "xh",
 "published": "2026-11-22T14:55:00+07:00",
 "found": "2026-11-22T15:06:52+07:00"
+},
+{
+"id": "b2dcffd5810d",
+"title": "Messi thoát thẻ đỏ sau hành động gây tranh cãi, HLV đối thủ bức xúc: 'Ai cũng biết'",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNakxGaUNsRC1GU05wZ2N1ZGZDOXo3akZKVFFIQkkzbDJhd1VQTWU2aTktdXNEZ2c1Nk9vLUVFQzZ5T3hMTnF4VmhyblpPOHZHZllCOTRLTXpDenUxZHRsYXpBRWtUTEdVYnczdjdRWHIweUFIN2VXMjRIamhGR09BUFAyR3l2emNGaXNxVVVVcWNCZ2VLeHp6NkJaSWpfeEVRTGRzc012Z2ZTTWh2aGRaaHlScUIxSnl4aDh1NktPTTRqZ2NZ?oc=5",
+"summary": "Nguồn: thethaovanhoa.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T14:52:00+07:00",
+"found": "2026-11-22T15:54:23+07:00"
 },
 {
 "id": "202bebb05c5c",
@@ -489,6 +578,17 @@
 "cat": "xh",
 "published": "2026-11-22T14:26:00+07:00",
 "found": "2026-11-22T14:51:42+07:00"
+},
+{
+"id": "5bd0d9722092",
+"title": "Nhận mưa giải thưởng trong nước, phá vỡ kỷ lục, tựa game bom tấn này vẫn bị TGA ngó lơ, người chơi bức xúc tột độ",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbnRBRm1xbVp4LVlVcFdSaFY4Q2pGbUpOa2JXbkRYRnBZVGpHbEo0UExxd1JDUEgwWUJKM1pOa0pjM085bjBtTTQzaHVkcVBGbjZPaEFxX01TNEQxOW4zT0tHdXVJbHdjVDBSRmpTSE1VbWRucmtqUXE3WjJyZFJfdVVTNDlIb21YeWdMTjJMZ3l4aklDSmVadUl5SWFVSzV2S3VMX3ByZzFTV2RfYTFFd3hlVU9DR2prNGk5aXRpYWZSM2QwTlRFcXE3M0V0QnhDN3hmSFpOZnE4Y0tDejNjR3BBOTc?oc=5",
+"summary": "Nguồn: m.gamek.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T14:18:00+07:00",
+"found": "2026-11-22T15:54:23+07:00"
 },
 {
 "id": "e12fe51c57d0",
@@ -13170,6 +13270,28 @@
 "cat": "xh",
 "published": "2026-11-21T07:00:00+07:00",
 "found": "2026-11-22T12:08:56+07:00"
+},
+{
+"id": "f753c72fd980",
+"title": "Tháo dỡ các kiot xây trái phép | Chào buổi sáng",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFA4bXZCTU84YjBKVFkzOVJ0eU5IUnUyTkRqNVRqTFNMZTlCUGpzS3VoVTRaSUNQUWpSb2xyZVVvVTA?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T07:00:00+07:00",
+"found": "2026-11-22T15:54:23+07:00"
+},
+{
+"id": "54922b61d129",
+"title": "Cương ra mặt bảo vệ Mai khi cô bị nghi ngờ tiếp tay cho Santana | Lửa trắng | Tập 17",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8tUnQzMjM4TERjTGl4RnNXZ0NQdjRxb210RWZGakR6ejJYeGJCTkdnUWMwQlNqa24wOWE5V01lSWg?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T07:00:00+07:00",
+"found": "2026-11-22T15:54:23+07:00"
 },
 {
 "id": "e4f72be2dd94",
@@ -27943,128 +28065,6 @@
 "cat": "tc",
 "published": "2026-11-19T17:10:24+07:00",
 "found": "2026-11-19T17:35:18+07:00"
-},
-{
-"id": "145fedd9fef8",
-"title": "Chủ tịch Hải Phòng: Đừng chỉ nhìn tăng trưởng, phải tạo cơ hội cho người trẻ",
-"link": "https://tuoitre.vn/chu-tich-hai-phong-dung-chi-nhin-tang-truong-phai-tao-co-hoi-cho-nguoi-tre-100261119162713776.htm",
-"summary": "Nội dung được Chủ tịch UBND TP Hải Phòng Đỗ Thành Trung nhấn mạnh tại buổi đối thoại với hàng trăm thanh niên đại diện cho những người trẻ thành phố.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/doi-thoai-thanh-nien-1795079461755465626397-0-273-1016-1898-crop-1795083427359544055190.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T17:10:00+07:00",
-"found": "2026-11-19T17:35:18+07:00"
-},
-{
-"id": "3632d61c0b42",
-"title": "u17 world cup 2026",
-"link": "https://www.24h.com.vn/bong-da/u17-viet-nam-dau-u17-bi-dau-la-chia-khoa-tao-dia-chan-tai-world-cup-c48a1812339.html",
-"summary": "U17 Việt Nam đấu U17 Bỉ: Đâu là chìa khóa tạo địa chấn tại World Cup? (Tin tức 24h)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnAH3LAryhkuW2YVMM2UU8dP7iNh6eE5Kc3J7Hx63CcXmeZYHWr--H0lmsWcM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T17:10:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-19T18:16:55+07:00"
-},
-{
-"id": "f470ab350aa4",
-"title": "Cấm thuốc lá trong bệnh viện ở TP.HCM: Biển cấm khắp nơi, khói thuốc vẫn còn",
-"link": "https://tuoitre.vn/cam-thuoc-la-trong-benh-vien-o-tphcm-bien-cam-khap-noi-khoi-thuoc-van-con-100261119162527065.htm",
-"summary": "Trung tâm Kiểm soát bệnh tật TP.HCM đã giám sát 18 bệnh viện, có đến 94,4% bệnh viện ghi nhận mẩu thuốc lá trong khuôn viên.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/edit-1-1795079849426857386061-0-2-450-722-crop-17950798564091694630113.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T17:08:00+07:00",
-"found": "2026-11-19T17:35:18+07:00"
-},
-{
-"id": "c4b7fe37253d",
-"title": "TPHCM lần đầu bồi dưỡng nghiệp vụ phát ngôn báo chí, truyền thông đối ngoại",
-"link": "https://vietnamnet.vn/tphcm-lan-dau-boi-duong-nghiep-vu-phat-ngon-truyen-thong-doi-ngoai-2576711.html",
-"summary": "TPHCM lần đầu tổ chức bồi dưỡng về kỹ năng phát ngôn, cung cấp thông tin cho báo chí và truyền thông đối ngoại, dành cho đội ngũ cán bộ, công chức, viên chức trên địa bàn.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/tphcm-lan-dau-boi-duong-nghiep-vu-phat-ngon-bao-chi-truyen-thong-doi-ngoai-2149.png?width=0&s=buhtdfGTl84wiLJdXuQmHA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T17:06:08+07:00",
-"found": "2026-11-19T17:20:06+07:00"
-},
-{
-"id": "98ee2203d284",
-"title": "Đồng USD lên mức cao nhất trong 19 tháng",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQLTh5NE9Wc2RJX1k3Q0RFZ2s0bzk0YTJMSmV4RXVkLVpTcnVnYkc0SzNxdFVhVVVtcmloQjIyRXZjWkdBeXMtX1hkRnMwVDRfVGM0TGlJOWluaHViRlptdm42ZEVEOFJQLWpkdGxmM0FLc0cyQ3c1MXJseXJndw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T17:03:00+07:00",
-"found": "2026-11-20T00:26:55+07:00"
-},
-{
-"id": "d9878aa01574",
-"title": "Kiểm tra hàng hóa phục vụ Tết Nguyên đán ở TP.HCM",
-"link": "https://tuoitre.vn/kiem-tra-hang-hoa-phuc-vu-tet-nguyen-dan-o-tphcm-100261119162821618.htm",
-"summary": "Chiều 19-11, HĐND TP.HCM đã làm việc cùng Liên hiệp Hợp tác xã TP.HCM tại Saigon Co.op Xa lộ Hà Nội để kiểm tra, nghe báo cáo về tình hình chuẩn bị hàng hóa trước, trong và sau Tết 2027.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/ong-nhan-dang-kiem-tra-17950796841331342972321-0-0-3376-5402-crop-17950797015991945050404.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T17:01:00+07:00",
-"found": "2026-11-19T17:35:18+07:00"
-},
-{
-"id": "a66c6a7ee97e",
-"title": "Chứng khoán mất mốc 1.700 điểm, một mã bị khối ngoại bán liên tục 8 phiên",
-"link": "https://dantri.com.vn/kinh-doanh/chung-khoan-mat-moc-1700-diem-mot-ma-bi-khoi-ngoai-ban-lien-tuc-8-phien-20261119164059625.htm",
-"summary": "(Dân trí) - VN-Index giảm hơn 13 điểm trong phiên 19/11, lùi về dưới mốc 1.700 điểm. Trên sàn HoSE, khối ngoại bán ròng gần 996 tỷ đồng, tập trung vào cổ phiếu FPT.",
-"image": "https://cdnphoto.dantri.com.vn/VbF00Phi9N-PU8FgD93cIDCW-pI=/2026/06/16/tienttckmai-chi-cropped-1781601009506.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-19T17:00:05+07:00",
-"found": "2026-11-19T17:35:18+07:00"
-},
-{
-"id": "06f37b619267",
-"title": "MoMo đồng hành cùng chương trình Vibrant HCMC, tung loạt ưu đãi mùa mua sắm cuối năm",
-"link": "https://thanhnien.vn/momo-dong-hanh-cung-chuong-trinh-vibrant-hcmc-tung-loat-uu-dai-mua-mua-sam-cuoi-nam-185261119170730643.htm",
-"summary": "Trở thành đối tác chính thức của chương trình tổng kích cầu Vibrant HCMC, MoMo trải ưu đãi khắp hệ sinh thái tài chính số, từ chuyển tiền, hóa đơn, vé phim đến Ví Trả Sau, dịch vụ công và bảo hiểm. Với MoMo, đây là dịp tiếp tục đồng hành cùng chính thành phố nơi ứng dụng ra đời…",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/u1-17950824998201432605367-0-84-941-1590-crop-17950825202721495655815.png",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-19T17:00:00+07:00",
-"found": "2026-11-19T17:20:06+07:00"
-},
-{
-"id": "72a31f704acb",
-"title": "SSI Research: Mặt bằng lãi suất ổn định nhưng khó giảm mạnh?",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlV4c2NkclJJOVRjUDJjUTduQ2lkbTlzTERzZWdKODdvMThZQVh2NmN6OEtBcGFKOVJfbGpJTHdxa1ZRUUdJS0JsNGM5bTMxUDdBRHlSZkZsd2xfRTI0ZVg3cWplZlhRLWZ6OXBHUllDUV9uRHg1bm83MWxPV093ZkRURmRZVmxCZTNMbVRUcm5qT1ROd3c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T16:58:06+07:00",
-"found": "2026-11-19T17:04:55+07:00"
-},
-{
-"id": "86126018c615",
-"title": "ACB bố cáo thay đổi địa điểm PGD Bình Chánh",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOekVhenhFMFZxVVhJNTN0TmNLeVZoWVY4SWgweFVMSEZYcWUzLW42VmlUX1c1enJoZl9mNFBLZmFPMnFOeWRQYnFibjduU2h4NXRPQ2x6TEFMYnY1NjhwRjlDdWdlSVBLQVBZX1NfdllPVnlhenRPQjNGYU11eWhZREx3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T16:58:02+07:00",
-"found": "2026-11-20T03:17:10+07:00"
-},
-{
-"id": "49bcc9301a86",
-"title": "Tín dụng đen: Công nhân thường xuyên bị đòi nợ, gây sức ép",
-"link": "https://cafef.vn/tin-dung-den-cong-nhan-thuong-xuyen-bi-doi-no-gay-suc-ep-188261119161622784.chn",
-"summary": "Những khoản chi đột xuất như tiền thuê nhà, học phí, viện phí có thể đẩy công nhân vào cảnh thiếu hụt tài chính và tìm đến tín dụng đen với lãi suất, chi phí vay khó lường. Trong khi đó, hàng triệu lao động vẫn gặp rào cản về điều kiện cấp thẻ tín dụng, giải ngân.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795079736269-17950797370351369448391.webp",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-19T16:58:00+07:00",
-"found": "2026-11-19T17:04:55+07:00"
 }
 ]
 }
