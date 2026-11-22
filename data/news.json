@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T13:05:58+07:00",
-"new": 15,
+"updated": "2026-11-22T13:21:11+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 52
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,61 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "dd9431353887",
+"title": "Diện mạo trung tâm triển lãm với hai khối nhà nghiêng ở Thủ Thiêm",
+"link": "https://vnexpress.net/dien-mao-trung-tam-trien-lam-voi-hai-khoi-nha-nghieng-o-thu-thiem-5147624.html",
+"summary": "Sau 13 năm xây dựng với vốn đầu tư 800 tỷ đồng, Trung tâm triển lãm quy hoạch TP HCM hoàn thành, nổi bật với kiến trúc hai khối nhà đặt nghiêng, mở cửa từ 23/11.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/wm1-dji-1795326915.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sAsRZOHqtzp07Bfw3I63kw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-22T13:18:12+07:00",
+"found": "2026-11-22T13:21:11+07:00"
+},
+{
+"id": "77a5d4eaba71",
+"title": "Lâm Đồng quy hoạch trung tâm hành chính mới ở xã Đức Trọng, phía tây Liên Nghĩa",
+"link": "https://thanhnien.vn/lam-dong-quy-hoach-trung-tam-hanh-chinh-moi-o-xa-duc-trong-phia-tay-lien-nghia-185261122114151216.htm",
+"summary": "UBND tỉnh Lâm Đồng vừa phê duyệt quy hoạch xã Đức Trọng, trong đó dành 150 - 500 ha phía tây Liên Nghĩa để hình thành trung tâm hành chính - chính trị mới của tỉnh trong tương lai.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/tnw-2026-11-22112219-17953215263981527430755-0-128-737-1307-crop-1795325467319447861233.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-22T13:17:00+07:00",
+"found": "2026-11-22T13:21:11+07:00"
+},
+{
+"id": "6ebb6dfdae82",
+"title": "Bất động sản nhiễu loạn vì ma trận tin cắt lỗ ảo: Làm sao triệt tận gốc?",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHVfV1g3bTNDWGdRZzlvSzNJSkM3dG50N3FTVHFRNlduOXc1aHZDT1pDNFNxZFA4VnIxWk1jbWlGeEtnSHNGaVExalJ2b1BaVXpnWjhOQlRQYnpsdmw2Z2stV282YldscENHTDhGRmM0SDJCU3psMkt3TG1uRUR6VXZZdlR0WUhMX0N0bV81MFVIaURxelVNUjBuM1hzMkt3R2NaM0tB?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-22T13:12:00+07:00",
+"found": "2026-11-22T13:21:11+07:00"
+},
+{
+"id": "3162344a8ed4",
+"title": "Công an tỉnh Quảng Trị bắt vụ vận chuyển 'khí cười' qua biên giới Việt - Lào",
+"link": "https://thanhnien.vn/cong-an-tinh-quang-tri-bat-vu-van-chuyen-khi-cuoi-qua-bien-gioi-viet-lao-185261122104705764.htm",
+"summary": "Công an tỉnh Quảng Trị vừa khởi tố 2 bị can liên quan đến hành vi vận chuyển trái phép 2 tấn 'khí cười' N2O qua biên giới để lấy tiền công.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/screenshot-2026-11-22-102915-1795318853340727043479-0-179-832-1510-crop-1795319156497809354042.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-22T13:11:00+07:00",
+"found": "2026-11-22T13:21:11+07:00"
+},
+{
+"id": "a1ea9cdb9b20",
+"title": "Vành đai 3,5: Tập trung tháo gỡ điểm nghẽn, thúc đẩy tiến độ các dự án thành phần",
+"link": "https://cafef.vn/vanh-dai-35-tap-trung-thao-go-diem-nghen-thuc-day-tien-do-cac-du-an-thanh-phan-188261122130907756.chn",
+"summary": "Vành đai 3,5 là tuyến giao thông quan trọng, kết nối khu vực phía Tây và phía Nam Hà Nội. Hiện tại nhiều dự án thành phần đang được triển khai, song tiến độ còn chênh lệch đáng kể. Giải phóng mặt bằng, di dời hạ tầng kỹ thuật và tổ chức thi công trên những phần mặt bằng chưa…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795327698134-1795327704931941810552.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-22T13:08:00+07:00",
+"found": "2026-11-22T13:21:11+07:00"
+},
 {
 "id": "83005506fa0a",
 "title": "Giải mã hành trình chiếc Lada 'đầu đời' của tỷ phú Phạm Nhật Vượng",
@@ -390,6 +445,17 @@
 "found": "2026-11-22T12:50:49+07:00"
 },
 {
+"id": "0ec92bad3bb0",
+"title": "Thêm một mùa MAMA chìm trong tranh cãi: Ưu ái 'gà nhà' HYBE?",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTzdMVjhSSGFrNFFkbGhmaXZHaUdoamdoS0JKUV8xT0wyTmJfRmVJbzl0ek4yWUdGMmc1bjBnbFlGd2cxci1OTUhrZ2JqRGpvYUhPeEFYU1JQeDMxVG1FV09hbjhtZG1PcnZNUFcycmNFWll1VDRrX1Vvem94Z0stQ2d5TGpadw?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T12:33:47+07:00",
+"found": "2026-11-22T13:21:11+07:00"
+},
+{
 "id": "b88b05497c69",
 "title": "VN-Index dưới 1.700 điểm: Chuyên gia dự báo khó giảm sâu kéo dài",
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmVDMVlUSTJtRGVqQ2JqTGxLRUU2Znp4LUhvSDNybU9wNmltSXhQa0htZDZhQzBCYnI5RF9nUzdRNFg0QVNjMzRubGUtRkY4NE5BVHZQTFptcDZoN2dPQ0ZNZjB5bnZJSElTRVBfSzc0QkNtQVIyZ3FKYWF1MDRob2NCaXR1WFMyb3I2T2M1X185UlZMQ2EzR3lwRlU?oc=5",
@@ -444,6 +510,17 @@
 "cat": "xh",
 "published": "2026-11-22T12:27:14+07:00",
 "found": "2026-11-22T13:05:58+07:00"
+},
+{
+"id": "35f6d37b5c7c",
+"title": "Cứu 6 người khỏi nhà cháy",
+"link": "https://vnexpress.net/cuu-6-nguoi-khoi-nha-chay-5147645.html",
+"summary": "Ngôi nhà ở xã Cát Tiên bùng cháy lúc rạng sáng, lực lượng chức năng và người dân phá cửa sau, cứu 5 người lớn và một trẻ em bên trong.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/chaynhaCatTienLamDong-17953247-7370-3069-1795324766.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=a4AC2ATOBjmjaWhe8M0fxg&t=image",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-22T12:27:14+07:00",
+"found": "2026-11-22T13:21:11+07:00"
 },
 {
 "id": "6ba712cc3048",
@@ -1287,6 +1364,17 @@
 "cat": "bds",
 "published": "2026-11-22T10:15:55+07:00",
 "found": "2026-11-22T11:15:48+07:00"
+},
+{
+"id": "1e10dec1c1d4",
+"title": "Công viên Lãm Làng tại Bắc Ninh ổn định trật tự sau thời gian gây xôn xao",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0xsaFRkZDdFdzBZSzlpeW1xYkJWcGNRT2o5TG5LaU1icFVGcWpSd0c3Yk55UTZHQV95Q2ZNTTcwMXdnMmRhUDIyWUpQLVdhQXBqSEJIUzBQUV9IZkg0QkUzTU8zRmRuVEhnX2NVUzV6QWw5UVAtNm03Z3ctazhTdjZNeGJtdw?oc=5",
+"summary": "Nguồn: tin.skydoor.net",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T10:15:40+07:00",
+"found": "2026-11-20T03:47:43+07:00"
 },
 {
 "id": "dab8cfad003b",
@@ -2478,6 +2566,17 @@
 "published": "2026-11-22T07:50:00+07:00",
 "traffic": "2000+",
 "found": "2026-11-22T08:38:53+07:00"
+},
+{
+"id": "cd39829d1698",
+"title": "Ngày 22/11: Giá một số loại lúa tươi tại Đồng bằng sông Cửu Long biến động mạnh",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX2N2bXNTd0FFRlozY3RNWnVfNlR2R1dmQVhfM2RIck5kNWxEeFhMZ2U4WTJzaW5SNVJVS1dTTDQ0bElnelRwdDZYci11aFpNT1Z3MmFEeEJTcTE4cVhIY1BIZGs1akF6bHFRaWYtY0ZROWl0cmhRQlhwLTZ2em4zMkRFVnJPOTQ1ajNobS1tTTg2QkxUYlJxV1draGx1NmhsTFhReXdoX2t5cmdmU2ZGdQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T07:47:00+07:00",
+"found": "2026-11-22T13:21:11+07:00"
 },
 {
 "id": "17cd0eef3bd8",
@@ -12015,17 +12114,6 @@
 "cat": "tc",
 "published": "2026-11-21T07:34:00+07:00",
 "found": "2026-11-21T07:46:21+07:00"
-},
-{
-"id": "1e10dec1c1d4",
-"title": "Công viên Lãm Làng tại Bắc Ninh ổn định trật tự sau thời gian gây xôn xao",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0xsaFRkZDdFdzBZSzlpeW1xYkJWcGNRT2o5TG5LaU1icFVGcWpSd0c3Yk55UTZHQV95Q2ZNTTcwMXdnMmRhUDIyWUpQLVdhQXBqSEJIUzBQUV9IZkg0QkUzTU8zRmRuVEhnX2NVUzV6QWw5UVAtNm03Z3ctazhTdjZNeGJtdw?oc=5",
-"summary": "Nguồn: tin.skydoor.net",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T07:33:36+07:00",
-"found": "2026-11-20T03:47:43+07:00"
 },
 {
 "id": "11f5f0563865",
@@ -27976,94 +28064,6 @@
 "cat": "bds",
 "published": "2026-11-19T16:00:00+07:00",
 "found": "2026-11-19T16:49:44+07:00"
-},
-{
-"id": "49af1f62fccf",
-"title": "34 năm tạo 'đô thị sáng đèn' nhờ giá trị thực của Nam Long",
-"link": "https://vnexpress.net/34-nam-tao-do-thi-sang-den-nho-gia-tri-thuc-cua-nam-long-5146622.html",
-"summary": "Nam Long theo đuổi triết lý \"làm những gì xã hội cần\", cân bằng lợi ích kinh doanh và quyền lợi cư dân, tạo giá trị thực để hình thành những đô thị sáng đèn suốt 34 năm.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/nla-1795075665-9897-1795075889.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qdSgMKzGJgRO6fmfkrrOKw",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-19T16:00:00+07:00",
-"found": "2026-11-19T16:49:44+07:00"
-},
-{
-"id": "dd1e6d301feb",
-"title": "SSI Research: Mặt bằng lãi suất ổn định nhưng khó giảm mạnh?",
-"link": "https://vneconomy.vn/ssi-research-mat-bang-lai-suat-on-dinh-nhung-kho-giam-manh.htm",
-"summary": "Nhu cầu vốn của nền kinh tế vẫn ở mức cao trong bối cảnh hiện nay, trong khi hệ thống ngân hàng vẫn là kênh cung ứng vốn chủ đạo do các kênh huy động vốn dài hạn khác chưa thực sự phát huy vai trò. Đây vẫn là những yếu tố then chốt khiến lãi suất khó có thể giảm mạnh.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/19/0cc952811f204e4aaf07519eba9cb452-136922.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-19T15:58:06+07:00",
-"found": "2026-11-19T16:05:19+07:00"
-},
-{
-"id": "144966d58bfb",
-"title": "Công nhân vay 30 triệu chữa bệnh cho mẹ, một nơi báo lãi và phí tới 15 triệu",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajVGQ3UxZlZsUW1aLUxENVlPU3B3Vm91Zmc5Qm9nQ3J6aTF4MU9oMk10alA5cXhFMF95dU5BTEJhOW9FUEZBUk9vYkRVVGJtUWJKMGQ4dHFXY1ZQM0tJQ093NTZ4MFJpZTNTQkFmSVJlWS1GNXBNdXpDYkp1RGJDaTVfRzFWM2N4cU1aTi03bFJwczJEVlVpNW5NV3dGWFd3aVowcWtqV0tYSnky?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T15:57:00+07:00",
-"found": "2026-11-19T16:05:19+07:00"
-},
-{
-"id": "dd09f83ada30",
-"title": "Phát hiện thi thể người đàn ông đang phân hủy trong hộp quảng cáo ở Nha Trang",
-"link": "https://kenh14.vn/phat-hien-thi-the-nguoi-dan-ong-dang-phan-huy-trong-hop-quang-cao-o-nha-trang-215261119160437042.chn",
-"summary": "Thi thể người đàn ông trong tình trạng phân hủy mạnh được phát hiện bên trong hộp quảng cáo tại khu vực công viên bờ biển, gần Quảng trường 2 tháng 4 (phường Nha Trang, tỉnh Khánh Hòa).",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795078989998-17950789921921614957600.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T15:57:00+07:00",
-"found": "2026-11-19T16:20:32+07:00"
-},
-{
-"id": "573ca0c39df1",
-"title": "Bộ Tài chính đề xuất giảm mạnh mức phạt vi phạm thuế cho hộ kinh doanh",
-"link": "https://dantri.com.vn/kinh-doanh/bo-tai-chinh-de-xuat-giam-manh-muc-phat-vi-pham-thue-cho-ho-kinh-doanh-20261119150600836.htm",
-"summary": "(Dân trí) - Bộ Tài chính đề xuất mức phạt đối với hộ kinh doanh, cá nhân kinh doanh nộp thuế theo phương pháp kê khai chỉ bằng 15% mức phạt thông thường.",
-"image": "https://cdnphoto.dantri.com.vn/WfWCUzg_paceLiYHORKqBjThk-Y=/2026/09/03/tieu-thuongnguyenvy-10-1743424902456-1788370726758.jpg?watermark=v1",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-19T15:56:00+07:00",
-"found": "2026-11-19T16:20:32+07:00"
-},
-{
-"id": "de6e4475e2a2",
-"title": "Cuộc thi trực tuyến tìm hiểu Bảo hiểm tiền gửi 2026: Cơ hội nâng cao nhận thức cho người gửi tiền",
-"link": "https://vneconomy.vn/cuoc-thi-truc-tuyen-tim-hieu-bao-hiem-tien-gui-2026-co-hoi-nang-cao-nhan-thuc-cho-nguoi-gui-tien.htm",
-"summary": "Bảo hiểm tiền gửi Việt Nam (BHTGVN) vừa công bố tổ chức cuộc thi trực tuyến \"Tìm hiểu về Bảo hiểm tiền gửi năm 2026\", diễn ra từ ngày 23/11 đến 13/12/2026. Đây là một nỗ lực nhằm phổ biến các quy định của Luật Bảo hiểm tiền gửi năm 2025, đồng thời nâng cao nhận thức của người…",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/19/5d03672e9912419ebf5266f7c912d74f-137078.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-19T15:53:49+07:00",
-"found": "2026-11-19T16:05:19+07:00"
-},
-{
-"id": "7117316c08f4",
-"title": "Hàng nghìn nhân viên Anthropic có thể thành triệu phú",
-"link": "https://vnexpress.net/hang-nghin-nhan-vien-anthropic-co-the-thanh-trieu-phu-5146346.html",
-"summary": "IPO của công ty mẹ Claude có thể giúp hàng nghìn nhân viên hãng này thành triệu phú nhờ nắm cổ phiếu.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/Screenshot20261119154516-17950-4869-3365-1795077984.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=liT4KDQcyI2ZJvkCRl4MNw",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-19T15:53:06+07:00",
-"found": "2026-11-19T16:35:42+07:00"
-},
-{
-"id": "8d61a95be0f7",
-"title": "Công an sẽ điều tra các giao dịch quét mã QR và chuyển tiền như sau",
-"link": "https://kenh14.vn/cong-an-se-dieu-tra-cac-giao-dich-quet-ma-qr-va-chuyen-tien-nhu-sau-215261119154817972.chn",
-"summary": "Công an xã Xuân Phú, TP Đồng Nai vừa cảnh báo về thủ đoạn lừa đảo chuyển khoản nhầm, gửi mã QR yêu cầu hoàn tiền nhằm chiếm đoạt tài sản.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795077982486-17950779829341765090711.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T15:53:00+07:00",
-"found": "2026-11-19T16:05:19+07:00"
 }
 ]
 }
