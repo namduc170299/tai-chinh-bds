@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T21:16:32+07:00",
-"new": 10,
+"updated": "2026-11-22T21:31:42+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "0798c950f3e2",
+"title": "Quảng cáo Việt giữa cơn lốc AI: Bản sắc văn hóa là thứ không thể sao chép",
+"link": "https://tuoitre.vn/quang-cao-viet-giua-con-loc-ai-ban-sac-van-hoa-la-thu-khong-the-sao-chep-100261122203341584.htm",
+"summary": "Ông Nguyễn Thanh Đảo, Chủ tịch Hiệp hội Quảng cáo TP.HCM, cho rằng AI không thể thay thế sức sáng tạo của con người, trong khi bản sắc văn hóa Việt là lợi thế giúp ngành quảng cáo tạo dấu ấn riêng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/phat-bieu-truoc-bang-quang-cao-ngoai-troi-17953533315241871746792-350-431-804-1156-crop-17953569590011243288327.png",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T21:09:00+07:00",
+"found": "2026-11-22T21:31:42+07:00"
+},
+{
+"id": "2161da1459d1",
+"title": "Câu lạc bộ Niềm Tin Số Thủ Đô trở thành một trong những thành viên sáng lập đầu tiên của Mạng lưới Người Gần Nhất",
+"link": "https://kenh14.vn/cau-lac-bo-niem-tin-so-thu-do-tro-thanh-mot-trong-nhung-thanh-vien-sang-lap-dau-tien-cua-mang-luoi-nguoi-gan-nhat-215261122210355772.chn",
+"summary": "Sự đồng hành của Câu lạc bộ Niềm tin số Thủ đô góp phần mở rộng Mạng lưới Người Gần Nhất, hướng tới xây dựng một cộng đồng nhân ái, có kiến thức, kỹ năng và sẵn sàng hành động vì nhau.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795356144792-1795356145082828081781.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T21:07:00+07:00",
+"found": "2026-11-22T21:31:42+07:00"
+},
+{
 "id": "9f615d0bb263",
 "title": "sân bay quốc tế seattle tacoma",
 "link": "https://vnexpress.net/dac-vu-ice-bat-nguoi-ngay-tai-cua-len-may-bay-5147669.html",
@@ -303,7 +325,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T20:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-22T20:55:59+07:00"
 },
 {
@@ -375,6 +397,17 @@
 "found": "2026-11-22T20:25:37+07:00"
 },
 {
+"id": "797b5903e986",
+"title": "Cảnh báo chiêu nhắn tin lừa đảo nhưng chèn vào luồng tin nhắn của ngân hàng",
+"link": "https://tuoitre.vn/canh-bao-chieu-nhan-tin-lua-dao-nhung-chen-vao-luong-tin-nhan-cua-ngan-hang-100261122121836949.htm",
+"summary": "Thủ đoạn lừa đảo bằng cách gửi tin nhắn hưởng hoa hồng, đổi điểm thưởng hấp dẫn kèm đường dẫn không còn mới. Tuy nhiên dựa vào công nghệ, loại tội phạm này đã tinh vi hơn để dụ nạn nhân \"dính bẫy\".",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/1795324188532191102112990775327738560378301743084117b80a55f05931ab058f471373de0853d-17953244034211579541449-0-0-745-1192-crop-17953245298701609845155.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T20:17:00+07:00",
+"found": "2026-11-22T21:31:42+07:00"
+},
+{
 "id": "4c48a81935ea",
 "title": "Sự thật về tin rao bán cắt lỗ bất động sản",
 "link": "https://cafef.vn/su-that-ve-tin-rao-ban-cat-lo-bat-dong-san-188261122160245701.chn",
@@ -405,7 +438,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T20:10:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-22T20:25:37+07:00"
 },
 {
@@ -430,6 +463,17 @@
 "cat": "tc",
 "published": "2026-11-22T20:09:00+07:00",
 "found": "2026-11-22T20:20:28+07:00"
+},
+{
+"id": "440c4d7be4e7",
+"title": "Các ngân hàng 'vay mượn' nhau hàng triệu tỉ đồng, ai dẫn đầu?",
+"link": "https://tuoitre.vn/cac-ngan-hang-vay-muon-nhau-hang-trieu-ti-dong-ai-dan-dau-100261122161106563.htm",
+"summary": "Dữ liệu từ báo cáo tài chính của 28 ngân hàng niêm yết, đến cuối quý 3-2026, tổng tiền gửi và vay từ các tổ chức tín dụng khác đạt gần 3,75 triệu tỉ đồng. Đây là nguồn vốn các nhà băng huy động từ nhau thông qua hoạt động nhận tiền gửi và vay vốn trên thị trường liên ngân hàng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2023/6/14/noxau-16227691083691887055260-16867522999811732080952.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T20:06:00+07:00",
+"found": "2026-11-22T21:31:42+07:00"
 },
 {
 "id": "bd74f7da889b",
@@ -11841,6 +11885,17 @@
 "found": "2026-11-22T01:39:12+07:00"
 },
 {
+"id": "0934c30c4bec",
+"title": "CEO Dragon Capital chỉ ra 3 yếu tố quyết định tỷ trọng cổ phiếu trong danh mục đầu tư",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXhKT0M1TzNvRnBXOUtoeElmU2VfNVliWmRsaVkwOHozLVUtdlctbi16R3l4azdiQnptWmgwWHdrendWY0VydkdZT0I1TEZvUkZsbGhSYmNhaWdqeHR1NUlWNTFmLXQ2d3R6enM2RktVd0VjeTlicGZmVEhRczhlZ1NjRG9pUkhma1VfMXJBT0NEY2xlb20zWHUwOUl6dk0xeDl2a25sOEJpOHFFbkh4ckJhV2IxeHdtVWc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T12:00:00+07:00",
+"found": "2026-11-22T21:31:42+07:00"
+},
+{
 "id": "4a897e52b910",
 "title": "Luật Kinh doanh bất động sản (sửa đổi): Siết chặt tính minh bạch và trách nhiệm",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVFXN3VNeDIxZDgzYml5djZEQ3I2Wlo0WEQ3dkNNcDJIMzFZZ2NYNGxsS3RJUC1pbERFVkxVMnRuT2tnZkZFdzJINnFjY0VOdm9xdkx1RHdRSjh2c0pHU3ZSVEcxU2RVWDBSb2UtYXVocFNEbDhLeFVkOVV4QXUzZDJOaXZaMno4aDJXcXd0TGxYaUxiRnUyRENEQ0JMZkhvSHEzR1VpMGdmUTVPamc?oc=5",
@@ -14138,6 +14193,17 @@
 "cat": "tc",
 "published": "2026-11-21T09:00:00+07:00",
 "found": "2026-11-21T09:48:16+07:00"
+},
+{
+"id": "495423bdbb76",
+"title": "Lịch cổ tức tuần tới: FPT góp mặt cùng nhiều doanh nghiệp, tỷ lệ cao nhất 20%",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0Q4NmFYU09PdWpwSldPS2xIaHdqQ2hLYVJ6aHgwSElHcnRiY3JBZkFEZHpTUFhuaDdhdGE1X0JKVTlNMG9ld25RX2lLTndvMVA2RGEzbkJtejJ2aWJFaUNJNmdqWWtlOWE1X0JIOWp2TndtMEE5QWtyckU0SWFKcGdOZGtLT1NvNWN1b29zODVGVWRZZkZrdW9pdFdCZHBPV1lXZW5iZkdVYXM?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T09:00:00+07:00",
+"found": "2026-11-22T21:31:42+07:00"
 },
 {
 "id": "3ce139ed90dc",
@@ -28017,72 +28083,6 @@
 "cat": "tc",
 "published": "2026-11-19T20:52:00+07:00",
 "found": "2026-11-20T09:23:42+07:00"
-},
-{
-"id": "cf9861ebdac7",
-"title": "Đổi đất từ năm 1990, giấy xác nhận của HTX có đủ căn cứ cấp sổ đỏ?",
-"link": "https://vietnamnet.vn/doi-dat-nam-1990-giay-xac-nhan-cua-htx-co-du-can-cu-cap-so-do-2576872.html",
-"summary": "Gia đình sử dụng ổn định thửa đất từ năm 1990 sau khi đổi đất với một hộ dân khác. Việc đổi đất có giấy xin xác nhận và được HTX xã xác nhận. Người dân băn khoăn giấy tờ này có đủ căn cứ pháp lý để được cấp sổ đỏ hay không.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/doi-dat-tu-nam-1990-giay-xac-nhan-cua-htx-co-du-can-cu-cap-so-do-2833.jpg?width=0&s=9nk_ytvBbNbPvrgvc6zpaA",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-19T20:51:54+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "5d282a97132d",
-"title": "Hải Phòng trao giải Cuộc thi chính luận bảo vệ nền tảng tư tưởng của Đảng",
-"link": "https://vietnamnet.vn/hai-phong-trao-giai-cuoc-thi-chinh-luan-bao-ve-nen-tang-tu-tuong-cua-dang-2576905.html",
-"summary": "Cuộc thi chính luận về bảo vệ nền tảng tư tưởng của Đảng năm 2026 tại Hải Phòng thu hút 28.626 tác phẩm, trong đó 46 tác phẩm xuất sắc được lựa chọn trao giải cấp thành phố.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/hai-phong-trao-giai-cuoc-thi-chinh-luan-bao-ve-nen-tang-tu-tuong-cua-dang-2813.jpg?width=0&s=40FLrHNXtTtufm7AqPUYOg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T20:50:12+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "bb58606f4775",
-"title": "Vibrant HCMC 2026 thêm điểm nhấn mới với ba triển lãm quốc tế ngành tiêu dùng",
-"link": "https://tuoitre.vn/vibrant-hcmc-2026-them-diem-nhan-moi-voi-ba-trien-lam-quoc-te-nganh-tieu-dung-100261119183019505.htm",
-"summary": "Hơn 200 thương hiệu thuộc các lĩnh vực thời trang, mẹ và bé, dệt may gia dụng, trang trí nhà ở cùng quy tụ tại ba triển lãm quốc tế ở TP.HCM, mở rộng cơ hội kết nối giao thương và hợp tác quốc tế.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/anh-man-hinh-2026-11-19-luc-181722-179508705061893346511-18-0-1102-1734-crop-1795087431462309577787-196-14-1084-1434-crop-1795093780867562550644.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T20:50:00+07:00",
-"found": "2026-11-19T21:28:56+07:00"
-},
-{
-"id": "8488802d5e49",
-"title": "Phú Thọ: Quyết liệt xử lý nhà, đất dôi dư, ngăn nguy cơ thất thoát, lãng phí",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVljbXFsc2NmaXNwUXpnV1dEMkkxSVpwUVQyUjBENFpLeVRYZVh3VFVtWWs3QWtxOTF2MW5aNTNFaC1DWDc0YUhlSzRnd0R2WkQ0Tm9wakFFUnBDM0Jqd25uYmRvSE5JY1JuaWExdFl5OERXVEd5NTlvOGVEUWU3OXlCWDRlMXZWMFU3em8tMEZlR1Y0X2lsLUQ4Tm5LRmZrcW1zWVp3S2E?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T20:49:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "16d6ebb3d12b",
-"title": "Giá thuê đất khu công nghiệp phía Nam quý 3/2026: TP.HCM lập đỉnh mới, Tây Ninh giảm sâu hút khách",
-"link": "https://cafef.vn/gia-thue-dat-khu-cong-nghiep-phia-nam-quy-3-2026-tphcm-lap-dinh-moi-tay-ninh-giam-sau-hut-khach-188261119204744743.chn",
-"summary": "Mức độ khan hiếm quỹ đất tiếp tục tạo ra sự phân hóa mạnh về giá thuê đất công nghiệp tại Vùng Kinh tế trọng điểm phía Nam trong quý 3/2026. Trong khi giá thuê tại TP.HCM tăng 7,5% theo năm lên mức 4,99 triệu VNĐ/m²/kỳ thuê, thì Tây Ninh lại điều chỉnh giảm 7,2% để gia tăng sức…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795095974921-179509597601990866130.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-19T20:47:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "535404f9ca26",
-"title": "Giá căn hộ TPHCM giảm 39%, người mua có thực sự được lợi?",
-"link": "https://dantri.com.vn/bat-dong-san/gia-can-ho-tphcm-giam-39-nguoi-mua-co-thuc-su-duoc-loi-20261119203353614.htm",
-"summary": "(Dân trí) - Giá căn hộ sơ cấp bình quân tại TPHCM giảm tới 39% trong quý III, nhưng mức giảm chủ yếu do thay đổi cơ cấu nguồn cung, không đồng nghĩa giá nhà tại các dự án đang giảm mạnh.",
-"image": "https://cdnphoto.dantri.com.vn/jTP6JUkS5d_GnOMakCzDUwXctsM=/2026/11/19/khach-xem-du-an-edited-1795095088142.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-19T20:45:45+07:00",
-"found": "2026-11-19T21:13:47+07:00"
 }
 ]
 }
