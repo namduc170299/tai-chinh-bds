@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T06:36:03+07:00",
-"new": 0,
+"updated": "2026-11-23T06:51:14+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "df6ce3aa3d2a",
+"title": "Nghệ An bơm nước sông 'cứu' hào thành cổ",
+"link": "https://thanhnien.vn/nghe-an-bom-nuoc-song-cuu-hao-thanh-co-185261122190925678.htm",
+"summary": "Được đầu tư hàng trăm tỉ đồng để cải tạo, nhưng hào thành cổ Vinh và kênh Bắc ở TP.Vinh cũ (Nghệ An) vẫn ô nhiễm nghiêm trọng do nước thải chưa được xử lý triệt để. Dự án bơm nước sông vào hào thành và tách nước thải được kỳ vọng sẽ cải thiện tình trạng này.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/tnw-anh-hao-thanh-3-1795349193609201416363-167-0-1767-2560-crop-179534929200624275910.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-23T06:48:00+07:00",
+"found": "2026-11-23T06:51:14+07:00"
+},
+{
+"id": "6bff93e33499",
+"title": "Cựu Chủ tịch Sen Tài Thu lừa đảo gần 1.000 tỉ để lấy tiền trả nợ",
+"link": "https://thanhnien.vn/cuu-chu-tich-sen-tai-thu-lua-dao-gan-1000-ti-de-lay-tien-tra-no-185261122230515337.htm",
+"summary": "Do cần tiền trả nợ và chi tiêu cá nhân, cựu Chủ tịch Tập đoàn Sen Tài Thu cùng 2 cấp dưới lên kế hoạch lừa đảo gần 1.000 tỉ đồng của các nhà đầu tư.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/bi-can-hoa-17720048487901355668261-1795390407883265825248-11-0-447-698-crop-17953904743481748805364.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-23T06:44:00+07:00",
+"found": "2026-11-23T06:51:14+07:00"
+},
+{
 "id": "9b8e09a7f1e6",
 "title": "Sắp thêm 11.000 phòng khách sạn cao cấp tại Phú Quốc",
 "link": "https://cafef.vn/sap-them-11000-phong-khach-san-cao-cap-tai-phu-quoc-188261123060034072.chn",
@@ -222,6 +244,30 @@
 "cat": "bds",
 "published": "2026-11-23T06:33:00+07:00",
 "found": "2026-11-23T06:35:46+07:00"
+},
+{
+"id": "ddff66513f5a",
+"title": "chivas đấu với cruz azul",
+"link": "https://thethao247.vn/63-nhan-dinh-guadalajara-chivas-vs-cruz-azul-dai-chien-ngoi-dau-6h07-ngay-23-11-2026-c288-d446527.html",
+"summary": "Nhận định Guadalajara Chivas vs Cruz Azul: Đại chiến ngôi đầu, 6h07 ngày 23/11/2026 (Thể Thao 247)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjZVpejEDYMEfXEpvlQpiPGLtYhzmUVdwGG4dUwIgPQKZIFIGkb4MCfRmj95I",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T06:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-23T06:51:14+07:00"
+},
+{
+"id": "2a27e27ae5be",
+"title": "cà phê",
+"link": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2311-gia-ca-phe-trong-nuoc-va-the-gioi-on-dinh-post1352445.vov",
+"summary": "Giá cà phê hôm nay 23/11: Giá cà phê trong nước và thế giới ổn định (VOV.VN)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe6DRwZ0W36LgH07QOABgBab-X0GkPgTQM9Q8CkUq36OXGvB6jECY1iufTof4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T06:30:00+07:00",
+"traffic": "500+",
+"found": "2026-11-23T06:51:14+07:00"
 },
 {
 "id": "c09fe352b397",
@@ -266,7 +312,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T06:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-23T06:35:46+07:00"
 },
 {
@@ -413,8 +459,19 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T06:00:00+07:00",
-"traffic": "500+",
+"traffic": "100+",
 "found": "2026-11-23T06:35:46+07:00"
+},
+{
+"id": "0fec66f2b7a6",
+"title": "Mẹ con cựu Chủ tịch Sen Tài Thu ra tòa trong vụ lừa đảo nghìn tỷ",
+"link": "https://vnexpress.net/me-con-cuu-chu-tich-sen-tai-thu-ra-toa-trong-vu-lua-dao-nghin-ty-5147715.html",
+"summary": "Dù kinh doanh thua lỗ, mẹ con cựu Chủ tịch Sen Tài Thu bị cáo buộc quảng bá doanh nghiệp làm ăn phát đạt, dụ 459 người góp hơn 1.700 tỷ đồng, chiếm đoạt gần 989 tỷ đồng.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/sentaithu90301706693242-179535-7766-6696-1795356417.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lbDa67syCokoZuIT2MeerQ",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-23T06:00:00+07:00",
+"found": "2026-11-23T06:51:14+07:00"
 },
 {
 "id": "33e5b15a9455",
@@ -17722,18 +17779,6 @@
 "found": "2026-11-21T05:58:51+07:00"
 },
 {
-"id": "1c3e0000bb53",
-"title": "cà phê",
-"link": "https://laodong.vn/thi-truong/nong-san-hom-nay-1711-gia-ca-phe-ho-tieu-o-at-giam-1801854.ldo",
-"summary": "Nông sản hôm nay 17.11: Giá cà phê, hồ tiêu ồ ạt giảm (Laodong.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7Amc6MvP0JXdENpSMvmVT8HK6l4XoVC42NTvyhD3xDvYGEDnGmiQei80Ysf8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T05:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T05:58:51+07:00"
-},
-{
 "id": "5a4492b93c4e",
 "title": "Hơn 20 tháng đào hầm, khoét núi làm ‘cục pin’ khổng lồ 21.100 tỷ của Việt Nam",
 "link": "https://vietnamnet.vn/hanh-trinh-dao-ham-khoet-nui-lam-thuy-dien-bac-ai-21-100-ty-dong-2577161.html",
@@ -28076,50 +28121,6 @@
 "cat": "tc",
 "published": "2026-11-20T07:13:00+07:00",
 "found": "2026-11-20T07:26:10+07:00"
-},
-{
-"id": "5f549a90f8ff",
-"title": "Đòn giáng mạnh với Man City",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52TmRfSnRrSy0wSWk3ZTJONHFPZXFSam5FeUJ2MFdtZ0J1ZlY4RXUwaDg2ZkJuX2FFTmRPRDlSSFdoNFVlaGxkdXYzR1R3MUJuZU8tMG9xVDZtXzNEa1daaVk2X0JuNkZmU2dFOQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T07:08:34+07:00",
-"found": "2026-11-20T07:26:10+07:00"
-},
-{
-"id": "1aeaed53a056",
-"title": "Malaysia đau đầu tìm giải pháp cho vấn nạn 'xe ma'",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUpMZzFHdjVZcVZPLUo0Q0hsd1Jwd0xWUF93MlQyNHEtZnhlekVTS3dCTlJkZFFIejladGMwV2xxbEtBbWpuaDB2NW14T1VxbU14emtRa2lpTVVyY1BueVBTWnRJcW9UZUhRaGx0UHg2d3JfWGJhZ3hPVHpkMFVFaGxnYTA1Q2sw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T07:08:00+07:00",
-"found": "2026-11-20T07:26:10+07:00"
-},
-{
-"id": "36fe34766e26",
-"title": "Ông Lê Thanh Thản nói lời sau cùng ngắn gọn, nhóm cựu cán bộ bày tỏ 'băn khoăn'",
-"link": "https://cafef.vn/ong-le-thanh-than-noi-loi-sau-cung-ngan-gon-nhom-cuu-can-bo-bay-to-ban-khoan-188261120070551705.chn",
-"summary": "Nói lời sau cùng trước khi Tòa nghị án, bị cáo Lê Thanh Thản cảm ơn Hội đồng xét xử, không có ý kiến gì thêm; nhóm cựu cán bộ phường Kiến Hưng và Thanh tra quận Hà Đông cũ, đều mong tòa xem xét hành vi, nhân thân và thành tích công tác để lượng hình.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795133094131-17951330949842008409734.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-20T07:05:00+07:00",
-"found": "2026-11-20T07:10:58+07:00"
-},
-{
-"id": "96aaf5685ded",
-"title": "Ảnh vệ tinh cầu Crimea sau loạt vụ tập kích của Ukraine",
-"link": "https://vnexpress.net/anh-ve-tinh-cau-crimea-sau-loat-vu-tap-kich-cua-ukraine-5146831.html",
-"summary": "Hình ảnh mới công bố cho thấy làn đường sắt của cầu Crimea vẫn trụ vững sau 3 cuộc tập kích của Ukraine trong tuần này.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/5563187178137269584a-179513110-8100-8374-1795131426.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sOu7ZmsEk7tJ6jG-d5pKuw",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-20T07:01:02+07:00",
-"found": "2026-11-20T10:29:40+07:00"
 }
 ]
 }
