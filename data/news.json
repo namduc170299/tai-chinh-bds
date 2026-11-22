@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T18:45:26+07:00",
-"new": 5,
+"updated": "2026-11-22T18:45:47+07:00",
+"new": 0,
 "sources": [
 {
 "name": "VnExpress",
@@ -97,15 +97,17 @@
 "name": "Báo Mới",
 "cat": "bds",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=site:baomoi.com+(b%E1%BA%A5t+%C4%91%E1%BB%99ng+s%E1%BA%A3n+OR+nh%C3%A0+%C4%91%E1%BA%A5t+OR+chung+c%C6%B0+OR+c%C4%83n+h%E1%BB%99+OR+d%E1%BB%B1+%C3%A1n)+when:7d",
-"ok": true,
-"count": 100
+"ok": false,
+"count": 0,
+"error": "HTTPError: HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Báo Mới",
 "cat": "tc",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=site:baomoi.com+(t%C3%A0i+ch%C3%ADnh+OR+ch%E1%BB%A9ng+kho%C3%A1n+OR+ng%C3%A2n+h%C3%A0ng+OR+l%C3%A3i+su%E1%BA%A5t)+when:2d",
-"ok": true,
-"count": 100
+"ok": false,
+"count": 0,
+"error": "HTTPError: HTTP Error 503: Service Unavailable"
 },
 {
 "name": "VnExpress",
@@ -160,8 +162,9 @@
 "name": "Google News",
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
-"ok": true,
-"count": 48
+"ok": false,
+"count": 0,
+"error": "HTTPError: HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Kenh14",
