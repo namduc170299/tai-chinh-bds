@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T16:42:24+07:00",
-"new": 4,
+"updated": "2026-11-22T16:57:52+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,51 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "d5dedd6622a8",
+"title": "Tỷ giá USD hôm nay (22-11): Đồng USD trải qua tuần tăng giá thứ tư liên tiếp",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnlXNURPa0lnX1JEOVpsN0lqRXRYdlFEa1hpam1nSEtUcTZodlB2T0UtWV9HSm94MldtVVMtSlBaY3ZqeVl3Nnh2Tmp0enBFTjRuQldsVHhEOFJyTmRxV3FNX0NiVnhZYU91VExVcEdlYU15VEpYQzEtVGZXRHlPRDVvdzBoZGcyR25zSFN1eHh1ZERieDJhdTJfZlZCYWRUUkZPZGU3Y0pkUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T16:49:26+07:00",
+"found": "2026-11-22T06:16:11+07:00"
+},
+{
+"id": "fbedb8a3d108",
+"title": "Tỷ giá USD/VND chịu sức ép tăng: Ngân hàng Nhà nước chủ động điều hành linh hoạt",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXA3RGdNX0xkcFBvVW12ZUtHd281MF9yekl4dGsyeTRhenBBS3hmN2JsdlNNZ2stanVOTUFYa2RtdjBiVWVoaGpFMHpiTTJtQXV4UmNzSTZaWXRlTUJzLWpuejhoVTJhMnpFZm9odGlIQnY4UFgtTHJDZU1JVXkya0J4dkVwNGRud0VVaml0Tm5tOHp5ZzhHT2tZOERYNFZSR3BTSFZKcFpZNzljNG1OS2h3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T16:44:00+07:00",
+"found": "2026-11-22T16:57:52+07:00"
+},
+{
+"id": "3b31948c2b74",
+"title": "Ngân hàng lớn nhất Việt Nam đặt mục tiêu tăng trưởng tín dụng 16% năm 2027, lên kế hoạch phát hành riêng lẻ 780 triệu cổ phiếu",
+"link": "https://cafef.vn/ngan-hang-lon-nhat-viet-nam-dat-muc-tieu-tang-truong-tin-dung-16-nam-2027-len-ke-hoach-phat-hanh-rieng-le-780-trieu-co-phieu-188261122163933055.chn",
+"summary": "BIDV đặt mục tiêu tăng trưởng tín dụng khoảng 16% trong năm 2027, đồng thời lên kế hoạch phát hành riêng lẻ 780 triệu cổ phiếu và huy động thêm 25.000–28.000 tỷ đồng qua kênh trái phiếu.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795340286762-179534028780914835975.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-22T16:38:00+07:00",
+"found": "2026-11-22T16:57:52+07:00"
+},
+{
+"id": "ad799c807439",
+"title": "chặt cây",
+"link": "https://dantri.com.vn/giao-duc/vu-tu-y-to-chuc-cua-cay-trong-san-truong-canh-cao-hieu-truong-20261122151738422.htm",
+"summary": "Vụ tự ý tổ chức cưa cây trong sân trường: Cảnh cáo hiệu trưởng (Báo Dân trí)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWlrk254knseIEfSZcGRfka_OqCiLM3do0Vzj1NcO0P5tBVYwg9B3gp9Bs0h4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T16:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-22T16:57:52+07:00"
+},
+{
 "id": "005edd2bae2f",
 "title": "Hưng Yên: Khởi tố tài xế liên tục đánh lái khiến người đàn ông bám trên xe tử vong",
 "link": "https://vietnamnet.vn/hung-yen-khoi-to-tai-xe-lien-tuc-danh-lai-khien-nguoi-bam-tren-xe-tu-vong-2577618.html",
@@ -255,6 +300,17 @@
 "cat": "tc",
 "published": "2026-11-22T16:19:00+07:00",
 "found": "2026-11-22T16:26:54+07:00"
+},
+{
+"id": "5a029a6aac44",
+"title": "30 năm chứng khoán: Lời gửi gắm từ những người đặt nền móng thị trường",
+"link": "https://tuoitre.vn/30-nam-chung-khoan-loi-gui-gam-tu-nhung-nguoi-dat-nen-mong-thi-truong-100261118131613521.htm",
+"summary": "Ba mươi năm sau ngày Ủy ban Chứng khoán Nhà nước được thành lập, những người từng tham gia xây dựng và quản lý thị trường chứng khoán Việt Nam nhìn lại hành trình nhiều thử thách, từ những tranh luận về mô hình quản lý, xây dựng hành lang pháp lý đến dấu mốc nâng hạng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/screenshot-2026-11-18-at-131235-179498244233053509796-0-0-771-1234-crop-17949824472441356224801.png",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T16:08:00+07:00",
+"found": "2026-11-22T16:57:52+07:00"
 },
 {
 "id": "71b729cd90f1",
@@ -335,6 +391,17 @@
 "published": "2026-11-22T15:50:00+07:00",
 "traffic": "200+",
 "found": "2026-11-22T16:09:34+07:00"
+},
+{
+"id": "725cd8773519",
+"title": "Mỹ và EU giảm nhập tôm Việt, dự báo xuất khẩu 2027 ra sao?",
+"link": "https://tuoitre.vn/my-va-eu-giam-nhap-tom-viet-du-bao-xuat-khau-2027-ra-sao-100261122132159534.htm",
+"summary": "Hiệp hội Chế biến và Xuất khẩu thủy sản Việt Nam (VASEP) dự báo năm 2027, xuất khẩu tôm Việt Nam có thể giảm hơn 2% so với năm nay, xuống 4,4 tỉ USD do thị trường Mỹ và EU phục hồi chậm, hàng tồn kho nhiều.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/cac-cong-nhan-phan-co-tom-o-nha-may-che-bien-thuy-san-o-bac-lieu-17952743172261283052633-0-45-1440-2349-crop-1795328095253739586283.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T15:47:00+07:00",
+"found": "2026-11-22T16:57:52+07:00"
 },
 {
 "id": "71768df7a2e1",
@@ -422,7 +489,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T15:30:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-22T15:54:23+07:00"
 },
 {
@@ -756,7 +823,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T14:20:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-22T16:09:34+07:00"
 },
 {
@@ -2257,17 +2324,6 @@
 "cat": "bds",
 "published": "2026-11-22T10:26:00+07:00",
 "found": "2026-11-22T11:38:37+07:00"
-},
-{
-"id": "d5dedd6622a8",
-"title": "Tỷ giá USD hôm nay (22-11): Đồng USD trải qua tuần tăng giá thứ tư liên tiếp",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnlXNURPa0lnX1JEOVpsN0lqRXRYdlFEa1hpam1nSEtUcTZodlB2T0UtWV9HSm94MldtVVMtSlBaY3ZqeVl3Nnh2Tmp0enBFTjRuQldsVHhEOFJyTmRxV3FNX0NiVnhZYU91VExVcEdlYU15VEpYQzEtVGZXRHlPRDVvdzBoZGcyR25zSFN1eHh1ZERieDJhdTJfZlZCYWRUUkZPZGU3Y0pkUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T10:25:33+07:00",
-"found": "2026-11-22T06:16:11+07:00"
 },
 {
 "id": "854e1f9d1543",
@@ -28014,61 +28070,6 @@
 "cat": "tc",
 "published": "2026-11-19T17:38:13+07:00",
 "found": "2026-11-19T17:46:35+07:00"
-},
-{
-"id": "fad209c1c88c",
-"title": "100% chất thải của Carlsberg Việt Nam không chôn lấp",
-"link": "https://thanhnien.vn/100-chat-thai-cua-carlsberg-viet-nam-khong-chon-lap-185261119162532921.htm",
-"summary": "100% chất thải được tái sử dụng và không chôn lấp ra môi trường là thông tin mà Carlsberg Việt Nam đã công bố tại sự kiện đưa vào sử dụng hệ thống điện mặt trời áp mái mới tại Nhà máy bia Phú Bài (thành phố Huế).",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/edit-179508247025220614683064283791959128712211875272207538165bdc0623b84bdedbe5463ff0cda-17950825764301620604896-0-0-559-894-crop-1795082591924449560394.jpeg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-19T17:38:00+07:00",
-"found": "2026-11-19T17:46:35+07:00"
-},
-{
-"id": "ef9cd30d776b",
-"title": "Chứng khoán hôm nay 19/11/2026: 207 mã giảm giá, VN-Index về dưới kháng cự quan trọng 1.700 điểm",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUzY2YkU0aHUya1RjTE4taWltbEs2bm55dmRYNUYtV3JZSUVNM015V0N2S3BMV09UZzFsMjZmSi14VEhUZzk3ZENma0hUVlQ4d0FFd256MEQ0NVRjcnpLOUs1bjk2TUREd3EwNmsxeVFKYjk5MkRWZXJKdllONHV4b1JpM253MVU0RDZBWjUtMURmaEtybGNNRGtHS00wWm1vZmdkZGNFUkRXNjluZ05zQjhPT0E4WEdQT215amUwVFprendZT0E?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T17:38:00+07:00",
-"found": "2026-11-19T17:46:35+07:00"
-},
-{
-"id": "7645b83a7342",
-"title": "Vụ nổ tại cửa hàng gas ở Tân Thuận: Có thể khởi tố hình sự những cá nhân liên quan",
-"link": "https://tuoitre.vn/vu-no-tai-cua-hang-gas-o-tan-thuan-co-the-khoi-to-hinh-su-nhung-ca-nhan-lien-quan-100261119171041979.htm",
-"summary": "Công an TP.HCM thông tin về vụ việc liên quan hoạt động sang chiết gas trái phép tại cuộc họp báo kinh tế và xã hội chiều 19-11.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/t62a2794-17950801243011086053646-100-481-1000-1921-crop-17950850314651676184181.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T17:37:00+07:00",
-"found": "2026-11-19T19:30:12+07:00"
-},
-{
-"id": "68ed9fcc400b",
-"title": "Không để làm chậm việc cấp giấy chứng nhận quyền sử dụng đất cho người dân tại phường Nam Sầm Sơn",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZkI1VXh5M2t4Y2RPbUZqbGM2ZWE4NnFjYll5UUdNck1QMENFS25NdmFTM3dNOVd3dGptdGNxQjdJMjdDUzBIbnRnNDhGeDgzcFcwekwtWWJIMko3d3lYcjZpYjdqMHNWQ0xtLTdjNWg2YUpZUkd1aTJibWJMdUlYUFF1ZkxQZ19leWRjM1dGRXNja0hMMDlPWXc5anBtdHBHVjlJZmtaMnNqSi1wUll3MU51YXRTbExhZ0piaUhaNGpCdEZmNVoxMlpB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T17:34:00+07:00",
-"found": "2026-11-19T17:46:35+07:00"
-},
-{
-"id": "5e7e81b46e3f",
-"title": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân đến Côn Minh, bắt đầu thăm Vân Nam",
-"link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-den-con-minh-bat-dau-tham-van-nam-100261119154124859.htm",
-"summary": "Trưa 19-11, khép lại các hoạt động tại Thâm Quyến, Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân cùng đoàn đại biểu cấp cao lên đường đến Côn Minh, Trung Quốc.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/tong-bi-thu-phu-nhan-con-minh-6-179508030117478162638-100-0-3072-4755-crop-1795080330294346583726.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T17:31:00+07:00",
-"found": "2026-11-19T19:30:12+07:00"
 }
 ]
 }
