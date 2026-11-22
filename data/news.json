@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T22:25:19+07:00",
-"new": 3,
+"updated": "2026-11-22T22:40:47+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 29
+"count": 44
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "a64df3315824",
+"title": "Nga gây xôn xao vì cố giữ công nghệ cổ hủ mà thế giới \"bỏ thùng rác\" từ lâu: Rồi sau này tất cả sẽ phải khen họ đúng?",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNW1qV19OR1lSZ0JBYWtCOXJJaXBCS0dtZERvQ05XekttR1d3c0JROW9uMjNHbTd4VlIxdXBsOGpYUWRDaWxucm5pMkhodXZjOGxyV0xWc0VYWlVHcTBfQmUyYWhleEQ5VVZ5andnbGVjd2JrMFZrbDlIMjRBUlZfSmtUU1hjRUpUQU5BQWw2VzJnMWNIQ1R5azRFYlVDUkVxNjZLMGt2S0VrWkVWckFuMExNQ1ZhS3ozM29Yb00wNEZUMXlDU0FGQ2hndVdxX1ZrdkR0eWt1c0tDM1JVSlVHeGFGcUlhcjg?oc=5",
+"summary": "Nguồn: CafeF",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T22:26:00+07:00",
+"found": "2026-11-22T22:40:47+07:00"
+},
+{
+"id": "53d19dae2b9d",
+"title": "Tìm thân nhân thi thể nam thanh niên chưa rõ lai lịch trên sông ở TP.HCM",
+"link": "https://kenh14.vn/tim-than-nhan-thi-the-nam-thanh-nien-chua-ro-lai-lich-tren-song-o-tphcm-215261122220012211.chn",
+"summary": "Công an phát thông báo truy tìm tung tích nạn nhân nam giới (khoảng 20-35 tuổi) được phát hiện tử vong trên sông Mương Chuối, thuộc địa bàn xã Nhà Bè. Thời điểm phát hiện, nạn nhân không mặc áo, mặc quần tây dài màu đen, trên người không có giấy tờ tùy thân hay hình xăm, sẹo dị…",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795359514028-17953595144661598818954.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T22:22:00+07:00",
+"found": "2026-11-22T22:40:47+07:00"
+},
+{
 "id": "62270be09ebf",
 "title": "pau navarro",
 "link": "https://www.goal.com/en/news/flick-explains-garcia-and-de-jong-positions-and-justifies-faith-in-adeyemi/blt4fe7555b6c6a64a4",
@@ -223,6 +245,18 @@
 "published": "2026-11-22T22:00:00+07:00",
 "traffic": "200+",
 "found": "2026-11-22T22:25:19+07:00"
+},
+{
+"id": "741a468464d3",
+"title": "lamine yamal",
+"link": "https://www.goal.com/en/news/flick-explains-garcia-and-de-jong-positions-and-justifies-faith-in-adeyemi/blt4fe7555b6c6a64a4",
+"summary": "Flick explains García and De Jong positions and justifies faith in Adeyemi (Goal.com)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83K3ph4qIPdV4WuvmG6hkOx82TCg_mmCWCPZFfaa4TFKX8JRIiv-EF-hWxvM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T22:00:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-22T22:40:47+07:00"
 },
 {
 "id": "ddf74dfb72e4",
@@ -312,7 +346,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T21:20:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-22T21:46:53+07:00"
 },
 {
@@ -338,6 +372,17 @@
 "published": "2026-11-22T21:20:00+07:00",
 "traffic": "100+",
 "found": "2026-11-22T21:46:53+07:00"
+},
+{
+"id": "b16b4123b134",
+"title": "Phó Thủ tướng Thường trực: Cần nghe được tiếng nói phản ánh những bức xúc của người dân và giải quyết kịp thời",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUEttMHVFRjN4akN2WWFGVHhSaTYtbjRzRDQ2S1hJLVhON0dsNjVFdUtERzA5U2d6WXZWMWZLbVJ0dVo2V1lRbjVoZHRPX2NTcnR1T0MyTHZvTzF4UHJCa2JwS2RManhIdEJzcTI0aS1iSndOWlNTcWxNdXpCaHRwanpORTJxMTRfUkI2VXdEZnB2eWsxNExKSmpJc3JUcmF5SE5tNWpYYkROR3FQYVVZNEFMMVdwSWgxZmxseWd4S3lYUFNCdGViYTRDWmVlXzl1M2VMaDRzaXdWZw?oc=5",
+"summary": "Nguồn: Báo Dân Việt",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T21:13:57+07:00",
+"found": "2026-11-22T22:40:47+07:00"
 },
 {
 "id": "1cdcdeaa8f4a",
@@ -441,7 +486,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T20:50:00+07:00",
-"traffic": "200+",
+"traffic": "2000+",
 "found": "2026-11-22T21:11:11+07:00"
 },
 {
@@ -487,7 +532,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T20:40:00+07:00",
-"traffic": "2000+",
+"traffic": "500+",
 "found": "2026-11-22T20:55:59+07:00"
 },
 {
@@ -499,7 +544,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T20:30:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-22T20:55:59+07:00"
 },
 {
@@ -658,17 +703,6 @@
 "cat": "tc",
 "published": "2026-11-22T20:01:25+07:00",
 "found": "2026-11-22T20:40:49+07:00"
-},
-{
-"id": "cfe13116ee30",
-"title": "Nga gây xôn xao vì cố giữ công nghệ cổ hủ mà thế giới \"bỏ thùng rác\" từ lâu: Rồi sau này tất cả sẽ phải khen họ đúng?",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYkVRNXhwVFZSVk5nUXRHbFRZRHUya0xwU3RBYng2N3BydWFYMEFvb19NemVJNHV6ejBMeTFaUUNER2lGY2xya1dhLXhfSXpWd29UZ3JPQ1BYUW5NNXJKaTZUUXpKZjhCYzhCMHdjNFZEU3JWQVRBRU1BNGR0VFpYVkhrT0RTMFFub0dXVmVSdDUwdUxwZlU1QzF3cW1GV0R2eW05WW8xS1RBMjM5MVF2ZURhMWIyM3dYaktWbWRDRUp1Y2YwZXNDQkhPWE9Id2pucHp0dFcySEMyMzRaX2hkZTJIck9yMDliN1U4?oc=5",
-"summary": "Nguồn: SOHA",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-22T20:00:00+07:00",
-"found": "2026-11-22T20:20:28+07:00"
 },
 {
 "id": "cf81408aead4",
@@ -5748,6 +5782,17 @@
 "cat": "xh",
 "published": "2026-11-22T07:00:00+07:00",
 "found": "2026-11-22T18:30:15+07:00"
+},
+{
+"id": "3834932826c4",
+"title": "Điểm nhấn cuối tuần | Thời gian ơi! Kể chuyện | VTV3 và VTVgo",
+"link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aaTNRY0t4ajFlenZUemhRUE9EVkFRWldkVVVQZDJseEZvM1J3WXFmbVRUenUxUlFkRVQ4X0pKcmhOMURjNTF4ZA?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T07:00:00+07:00",
+"found": "2026-11-22T03:13:06+07:00"
 },
 {
 "id": "2bd6742a14f5",
@@ -15490,17 +15535,6 @@
 "cat": "xh",
 "published": "2026-11-21T07:00:00+07:00",
 "found": "2026-11-21T17:57:42+07:00"
-},
-{
-"id": "3834932826c4",
-"title": "Điểm nhấn cuối tuần | Thời gian ơi! Kể chuyện | VTV3 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aaTNRY0t4ajFlenZUemhRUE9EVkFRWldkVVVQZDJseEZvM1J3WXFmbVRUenUxUlFkRVQ4X0pKcmhOMURjNTF4ZA?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T07:00:00+07:00",
-"found": "2026-11-22T03:13:06+07:00"
 },
 {
 "id": "584e66ee6328",
@@ -28058,39 +28092,6 @@
 "cat": "tc",
 "published": "2026-11-19T21:30:30+07:00",
 "found": "2026-11-20T08:27:09+07:00"
-},
-{
-"id": "6b4bb12ec281",
-"title": "Sẽ có hơn 220 chuyến bay/tuần khai thác ở Long Thành 3 tháng đầu",
-"link": "https://kenh14.vn/se-co-hon-220-chuyen-bay-tuan-khai-thac-o-long-thanh-3-thang-dau-215261119181733205.chn",
-"summary": "Trong 3 tháng đầu khai thác sân bay Long Thành, căn cứ đăng ký của hai hãng hàng không Vietnam Airlines và Vietjet Air, dự kiến có tối đa hơn 220 chuyến bay/tuần được triển khai.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795086958954-17950869596901062506480.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T21:29:00+07:00",
-"found": "2026-11-19T21:44:08+07:00"
-},
-{
-"id": "2aa94d59f418",
-"title": "Đề xuất giảm phạt hơn 12.600 tỷ đồng cho người nộp thuế trạng thái 03, 06",
-"link": "https://dantri.com.vn/kinh-doanh/de-xuat-giam-phat-hon-12600-ty-dong-cho-nguoi-nop-thue-trang-thai-03-06-20261119211051912.htm",
-"summary": "(Dân trí) - Bộ Tài chính đề xuất giảm mức phạt đối với người nộp thuế ở trạng thái 03, 06 khi bổ sung hồ sơ khai thuế, hóa đơn còn thiếu. Mức giảm tiền phạt ước tính tối đa hơn 12.600 tỷ đồng.",
-"image": "https://cdnphoto.dantri.com.vn/PtDAqPZ_PzqSICr15m_eUQGX6TU=/2026/03/07/chinh-thuc-ho-kinh-doanh-doanh-thu-tu-1-ty-dong-buoc-dung-hoa-don-dien-tu-1772864582921.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-19T21:28:24+07:00",
-"found": "2026-11-19T21:59:49+07:00"
-},
-{
-"id": "0df68011ad7b",
-"title": "Từ vụ án ông Lê Thanh Thản: Đừng nhầm lẫn hiệu quả kinh doanh và trách nhiệm pháp lý",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlhnTVE3UUVvMnNnVlBlRTR0Z0dDVldaVkdYUW9PYkJfZGY2SUVlMzlZWGIycUxHV2F0eGF3ZEZuY0dJWnlLYVpnZHdIU3RqWTIwMVAzekE1UEJVNU1KWUpZX1dCRjlRcV9UYWNiaDdiaFZOeE5SekJ2dl9uV0o2dlhocjMtMUNDcHd2dlI0NExMY1BxenJnUGRZNFRfOXBaSVpweElpNlM5bUl0cTdqTnZGWnY1RG8?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T21:27:00+07:00",
-"found": "2026-11-19T23:10:48+07:00"
 }
 ]
 }
