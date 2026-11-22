@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T10:20:03+07:00",
-"new": 14,
+"updated": "2026-11-22T10:30:20+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 52
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "79affefa4d34",
+"title": "Quảng Trị sẽ kiểm điểm trách nhiệm nếu chậm tìm kiếm hài cốt liệt sĩ",
+"link": "https://thanhnien.vn/quang-tri-se-kiem-diem-trach-nhiem-neu-cham-tim-kiem-hai-cot-liet-si-185261122092808328.htm",
+"summary": "Quảng Trị yêu cầu đẩy nhanh tìm kiếm hài cốt liệt sĩ, lấy kết quả quy tập thực tế làm thước đo đánh giá trách nhiệm và kiểm điểm tập thể, cá nhân nếu triển khai chậm, bỏ sót thông tin.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/tnw-bctn3435-17953140642541528946103-80-0-1680-2560-crop-1795314428452546889477.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-22T10:28:00+07:00",
+"found": "2026-11-22T10:30:20+07:00"
+},
+{
+"id": "c907a5fc7a08",
+"title": "Quảng Ngãi tìm thấy 7 hài cốt liệt sĩ tại điểm chôn cất tập thể",
+"link": "https://thanhnien.vn/quang-ngai-tim-thay-7-hai-cot-liet-si-tai-diem-chon-cat-tap-the-185261122090211491.htm",
+"summary": "Lực lượng chức năng đã tìm thấy 7 hài cốt liệt sĩ tại điểm chôn cất tập thể ở Gò Mồ, xã Bình Chương (Quảng Ngãi).",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/91152850315065704080013077637522142577700827n-17953124427221834709374-41-0-855-1302-crop-1795312665932489251922.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-22T10:26:00+07:00",
+"found": "2026-11-22T10:30:20+07:00"
+},
+{
+"id": "854e1f9d1543",
+"title": "Thủ tướng yêu cầu bố trí đầy đủ kinh phí thực hiện chính sách tiền lương",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQzJZVDR5OUJ3OC00OGNTbFVlNk1NYkJVc2d3eVFEZHVCWDJaXzJOM0xsUU1qR2NrTGZmbEpRakdKRFRKMjFJZXN2YVBSbXZjRGRYZVF2ZlJvMkRzaUhmTWNVc1c5RkRHaDdNV3RjVGpfaWY0Y3BXRjljODRqLUl0NHZXSUcwU09rSmZwSHdtV2U0Zi1ubGQxaDdweFk5MmJjb3B3Q2FwVTE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T10:24:00+07:00",
+"found": "2026-11-22T10:30:20+07:00"
+},
+{
+"id": "8c17e317f6d7",
+"title": "Ngân hàng trước sức ép giữ đà sinh lời",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lNkRfeXVmX3VYWlpDczVJNXplSnp4NGkwQkVMTEFpck9TdHRhUWo5T2x1b3lIakZtMHVvZWxEMU12azBLODF1T0daWFQ3azE3UmNwb2g0X3FqalVnRnIzY2pWYk4tWU1GeTA1b3pGdlpCSkV6cW5yVWhzQQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T10:22:00+07:00",
+"found": "2026-11-22T10:30:20+07:00"
+},
+{
 "id": "232677c84332",
 "title": "Nét độc đáo tại làng nhà cổ hơn trăm tuổi ở Đồng Tháp",
 "link": "https://cafef.vn/net-doc-dao-tai-lang-nha-co-hon-tram-tuoi-o-dong-thap-188261122091027855.chn",
@@ -246,6 +290,17 @@
 "found": "2026-11-22T10:20:03+07:00"
 },
 {
+"id": "7f6838b60686",
+"title": "TPHCM kích cầu mua sắm cuối năm, doanh thu bán lẻ vượt 60.000 tỷ đồng",
+"link": "https://dantri.com.vn/kinh-doanh/tphcm-kich-cau-mua-sam-cuoi-nam-doanh-thu-ban-le-vuot-60000-ty-dong-20261122094030938.htm",
+"summary": "(Dân trí) - Theo Sở Công Thương TPHCM, doanh thu bán lẻ tại các hệ thống và nền tảng được khảo sát đạt hơn 60.000 tỷ đồng từ đầu quý IV đến tháng 11.",
+"image": "https://cdnphoto.dantri.com.vn/qLdZI6PPN73RDX_yn7zjJfTuqyc=/2026/11/22/mua-sam-cropped-1795315123636.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-22T10:05:54+07:00",
+"found": "2026-11-22T10:30:20+07:00"
+},
+{
 "id": "6df9b99b1b5e",
 "title": "Những chính sách mới của Luật Đất đai sửa đổi có hiệu lực từ 1/7/2027",
 "link": "https://kenh14.vn/nhung-chinh-sach-moi-cua-luat-dat-dai-sua-doi-co-hieu-luc-tu-1-7-2027-215261122091047749.chn",
@@ -268,6 +323,18 @@
 "found": "2026-11-22T10:04:32+07:00"
 },
 {
+"id": "e12c6a0db53c",
+"title": "wellington đấu với câu lạc bộ bóng đá macarthur",
+"link": "https://trends.google.com/trending/rss?geo=VN",
+"summary": "",
+"image": "",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T10:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-22T10:30:20+07:00"
+},
+{
 "id": "1da0fba3f540",
 "title": "Luật mới cấm thu tiền giữ chỗ nhà chưa đủ điều kiện, giữ trần đặt cọc 5%",
 "link": "https://vietnamnet.vn/luat-moi-cam-thu-tien-giu-cho-nha-chua-du-dieu-kien-giu-tran-dat-coc-5-2577552.html",
@@ -288,6 +355,17 @@
 "cat": "xh",
 "published": "2026-11-22T09:58:00+07:00",
 "found": "2026-11-22T10:20:03+07:00"
+},
+{
+"id": "34d26fd4ddba",
+"title": "Tràn lan ảnh sao nữ hôn Chủ tịch tập đoàn công nghệ 63 tuổi, công chúng phẫn nộ",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcktWUktITm1BbEw2RXloYUFHdzFTQVlPeHhrRm9FNmtDVDhDc0M2MkVocHJLbjNOaFpZaTA3d29vczAzYVNPYkR6eDlndkdiYmtiSHFhSDZkSVAwdi1wQmJ0MS1KSDZJQ1dSTG1qTXVRbW5adFRIazVhVkJMVFotbzdZNGRPV1NVWURPdDBjQTlPX0pJc1VUR0s0WFZBdVdYY09oMEsyNGpoUnB2NEZjVkQ2Rk9xdw?oc=5",
+"summary": "Nguồn: Phụ nữ Mới",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T09:56:00+07:00",
+"found": "2026-11-22T10:30:20+07:00"
 },
 {
 "id": "a3f2655214f3",
@@ -732,6 +810,17 @@
 "cat": "xh",
 "published": "2026-11-22T09:01:00+07:00",
 "found": "2026-11-22T09:09:33+07:00"
+},
+{
+"id": "6b789af5e42f",
+"title": "Vợ hoặc chồng tự ý vay tiền ngân hàng, người còn lại có phải trả nợ?",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdThlR3VRTHFwaE5iX3hSZkJXYTNvNlFyb25YWlNpTHA4THZmN1h0NllVY1RORm05ejV4akdZdkJ1UUZzNlQwbjUzeXFYVjVfMnJqTTV2OElwaDh1YndSS1A0cm5KRkVWcGc5V2FXQnQ3aklkWHJHanVVZmJxTXdTTWZfX2lOYWhhcDFsLVRyazNRUG5wVlVZd21zUnZXRkNW?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T09:00:45+07:00",
+"found": "2026-11-22T10:30:20+07:00"
 },
 {
 "id": "efef940f4c4b",
@@ -1549,6 +1638,17 @@
 "cat": "xh",
 "published": "2026-11-22T07:00:00+07:00",
 "found": "2026-11-22T07:47:54+07:00"
+},
+{
+"id": "7ab269b9a008",
+"title": "Cùng diễn viên Lưu Ly khám phá hậu trường phim \"Xóm nhỏ\"",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5JS3A1YWhwZmNadWFGZkJfbzlVSWxMTmVVTEh0U01heGpXaG5KUTY2MmMzb0tuTERDWUFTRnIzbk8?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T07:00:00+07:00",
+"found": "2026-11-22T10:30:20+07:00"
 },
 {
 "id": "2bd6742a14f5",
@@ -16169,6 +16269,17 @@
 "found": "2026-11-21T22:50:47+07:00"
 },
 {
+"id": "9ee44e67a3d1",
+"title": "CSGT An Giang xử phạt 3 người sau vụ xe không thắt dây an toàn gây xôn xao",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS0l5djk0WDhqSzBtMllWRnFkaFZPTnJmWmMzYzZMUXJETm9HaU5KWklZWTlfNU5VTDNBZmxmVUlNekZfck4xUHZfTGtXX2UtUVdRVnR2UlZyZEpyLUdBLTZKaUZhTXlKcmtoZTUzTFlLTlRrT1dIM1UxVmx1Ynl4UzUxMm5sdw?oc=5",
+"summary": "Nguồn: SkyDoor News",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-20T15:00:00+07:00",
+"found": "2026-11-22T10:30:20+07:00"
+},
+{
 "id": "34dd650c5fb3",
 "title": "Jeon So-mi bày tỏ sự bức xúc về tranh cãi trang phục trung tâm của I.O.I mà cô tạo ra cho dàn hậu vệ..\"Tôi không muốn nổi bật hơn ai cả\" [STAR ISSUE]",
 "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VLU9lQVNuRXE2bjh2ZWJMdExwNElxVjBNa1c4M0NlZ3ZGODdyZm15WGhhcVBkX1Y4RjFqZ3dfMUw5TTRuenhzY1AtUGhmczdLUU5sV0ZraU4tNUxSbXRndGtfV0dlTWplV08yR2xPZkNtTE15bHdV?oc=5",
@@ -27944,116 +28055,6 @@
 "source": "Thanh Niên",
 "cat": "xh",
 "published": "2026-11-19T14:23:00+07:00",
-"found": "2026-11-19T14:45:57+07:00"
-},
-{
-"id": "6afeab1047d5",
-"title": "Phụ huynh để con trai lái ô tô, CSGT lập biên bản phạt 77 triệu đồng",
-"link": "https://vietnamnet.vn/phu-huynh-de-con-trai-lai-o-to-csgt-lap-bien-ban-phat-77-trieu-2576722.html",
-"summary": "Cục CSGT (Bộ Công an) cho biết chủ xe đã có hành vi giao ô tô cho người không đủ điều kiện điều khiển phương tiện tham gia giao thông.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/anh-man-hinh-2026-11-19-luc-131325-1272.png?width=0&s=cfSuva9SVFG92kODkyzAnA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T14:20:25+07:00",
-"found": "2026-11-19T13:41:01+07:00"
-},
-{
-"id": "475d52a49785",
-"title": "Phim AI Đại Ngọc Trùng Sinh bị gỡ bỏ, 17 diễn viên Hồng Lâu Mộng bị \"trộm mặt\" trắng trợn",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWtvbUZCU2pDdUI5aVdHVGVzaEFJaXB0WHFXV3dCMDRvd1B6VGVuVU5GaEdZUGVSTW1LZE8xaTQtd3owOERLd3A2aGNmeXFXY0lxdXRUYXBPNXZBcXNjZERxTlhEX0w5Qk4xTDJSRjg4NzRzVTJ1MU1HTHBKSjN0OGVMYXRkR0VQWWNkRmNUM3VsU290WUhzR3VpRlBsME9ZVEwzbmdRd3RZSXlqdWhlUmtpTzhyQmdCVlpwMnZIemJnQlBK?oc=5",
-"summary": "Nguồn: VOH",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-19T14:18:54+07:00",
-"found": "2026-11-20T01:30:06+07:00"
-},
-{
-"id": "fe7bc4f894f6",
-"title": "Bí thư Thành ủy Hà Nội Trần Đức Thắng kiểm tra tiến độ khu đô thị 100.000 tỷ của Liên danh Sunshine Group: Ưu tiên đồng bộ hạ tầng, bảo đảm sinh kế bền vững",
-"link": "https://cafef.vn/bi-thu-thanh-uy-ha-noi-tran-duc-thang-kiem-tra-tien-do-khu-do-thi-100000-ty-cua-lien-danh-sunshine-group-uu-tien-dong-bo-ha-tang-bao-dam-sinh-ke-ben-vung-188261119141835664.chn",
-"summary": "Sáng 19/11, Ủy viên Bộ Chính trị, Bí thư Thành ủy, Trưởng đoàn đại biểu Quốc hội thành phố Hà Nội Trần Đức Thắng cùng Đoàn công tác Thành phố đã trực tiếp kiểm tra, khảo sát thực địa tiến độ triển khai Khu đô thị đa mục tiêu Bắc Thăng Long Urban City (Handico Sunshine New Ha…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795072659233-1795072659836641451540.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-19T14:18:00+07:00",
-"found": "2026-11-19T14:45:57+07:00"
-},
-{
-"id": "c8d8db535999",
-"title": "Hà Nội thúc tiến độ loạt dự án đô thị và nhà ở xã hội quy mô gần 100.000 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOenMzc3dUUmhiMDJ3Wk9hWG5Ca3ZKbUhyMzZRdGVkUS1QZmN2MlA3cTBMampBNV9tcmREZGh2V2RhVEo1QTBhbFdaVXRWQVZCajN6bUN2SWlkVHdZWXdWRHUzZFRJNmdlbjBVY1ljM1VTRklNd3hobGkyQmpUYXdyU3RSTVpFQmtOMmhYbU9XeWJiOVFwUHQ2QnVZZWNWcnlMZkdRTjZGNG5MZjltUmY1WF9pOA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T14:18:00+07:00",
-"found": "2026-11-19T14:45:57+07:00"
-},
-{
-"id": "427678273661",
-"title": "Bán hàng chục nghìn hóa đơn khống, đưa hối lộ cựu cán bộ thuế ở TPHCM",
-"link": "https://dantri.com.vn/phap-luat/ban-hang-chuc-nghin-hoa-don-khong-dua-hoi-lo-cuu-can-bo-thue-o-tphcm-20261119125116741.htm",
-"summary": "(Dân trí) - Trịnh Trác Nhiên bị cáo buộc điều hành đường dây mua bán hơn 47.000 hóa đơn khống, với tổng giá trị hơn 4.180 tỷ đồng; đồng thời đưa hơn 3,8 tỷ đồng hối lộ một cựu cán bộ thuế.",
-"image": "https://cdnphoto.dantri.com.vn/zz47R7oLQeQ_gcEoNL4CJTVy8y0=/2026/11/17/17948830051461866895581427001022g6625312003087252903f0cc53b093603a12494b1453211b8ce2-edited-1794885724750.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-19T14:17:30+07:00",
-"found": "2026-11-19T14:45:57+07:00"
-},
-{
-"id": "3ece9ba620e1",
-"title": "El Nino, hạn hán và thảm họa lịch sử - Kỳ cuối: Bài học lịch sử bi thảm không được lặp lại",
-"link": "https://tuoitre.vn/el-nino-han-han-va-tham-hoa-lich-su-ky-cuoi-bai-hoc-lich-su-bi-tham-khong-duoc-lap-lai-100261119140221614.htm",
-"summary": "50 triệu người chết đói vì mất mùa do El Nino nghiêm trọng nhất trong những năm 1876 - 1878. Hàng triệu người bần cùng cũng phải di cư tha phương cầu thực. Bài học gì cho tương lai?",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/family-dying-in-famine-1795073063549616863678-54-0-617-900-crop-17950731117001447195345.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T14:15:00+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "08bae2bf23f0",
-"title": "Hà Nội hỗ trợ lãi vay đầu tư bãi đỗ xe, đẩy mạnh trạm sạc điện công cộng",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWhMMUd1eXpBd1JoSTNXTll5TldfRGNSZk9QTGJYX3FwbDVVNUhHSHNKdjZNNmJFUUhuREh4S3dUN0Z4MC04MzFrRzJrX3VlTXhVTURlNENqVzltSXBBZnpLM1FVZTdDalM0NWhYVFpRRkkyLWx3bEVoTTFkdGlTUnVlclNGY3Bwb3VHbDgtd0JEbUpKSTZqOGNKOUdDSGhVY1JiaU1BNA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T14:15:00+07:00",
-"found": "2026-11-20T04:18:23+07:00"
-},
-{
-"id": "fe236f0b37f4",
-"title": "Cô gái Việt Nam bị đe dọa, tống tiền tại Malaysia: Cảnh báo thủ đoạn mới",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMW1DOFRsOWd6TWpuaHhjNTNJVkFSLTgxX3FEQUctWDREVnZJbVlNdEs0bUN4RGx0LXdKRUswalcxQUFlV3dudjE4TGR3dXM2TllYeXhiM3NaR0l1VXctd3ZhTjU5clNmUjE1RzQ1emtGMGEydHVmcG5URnVFNEFZbWkxOWY1VG1CVnV1SWh4MWFBSlNiNHRQOXpnVWs5Q2FKaGRjMF9ycnBvbkRTUlVn?oc=5",
-"summary": "Nguồn: CafeF",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-19T14:14:00+07:00",
-"found": "2026-11-20T06:10:02+07:00"
-},
-{
-"id": "fe503bbd12e9",
-"title": "Bác sĩ Lý Quý Lộc sát hại hai mẹ con người tình lĩnh án tử hình",
-"link": "https://vietnamnet.vn/bac-si-sat-hai-hai-me-con-nguoi-tinh-lanh-an-tu-2576736.html",
-"summary": "Khi bị chị T. nói lời chia tay, nam bác sĩ nổi cơn ghen, siết cổ người tình đến tử vong. Phát hiện con trai nạn nhân chứng kiến sự việc, bị cáo tiếp tục sát hại cháu bé.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/bac-si-ly-quy-loc-sat-hai-hai-me-con-nguoi-tinh-linh-an-tu-hinh-1437.jpg?width=0&s=uJXgpADIXAMOi2grjJPJQA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T14:12:58+07:00",
-"found": "2026-11-19T14:12:03+07:00"
-},
-{
-"id": "dd0795024d02",
-"title": "Tắm bãi biển Trung Lương 4 học sinh bị sóng cuốn, 1 nữ sinh mất tích",
-"link": "https://thanhnien.vn/tam-bai-bien-trung-luong-4-hoc-sinh-bi-song-cuon-1-nu-sinh-mat-tich-185261119135222049.htm",
-"summary": "Sóng lớn cuốn 4 học sinh lớp 6 ở bãi biển Trung Lương, lực lượng chức năng cứu được 3 em, một nữ sinh đang mất tích.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/edit-91604167310738122490440408872570345069427527n-17950709753861789543775-0-71-897-1506-crop-1795071162119426965373.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T14:12:00+07:00",
 "found": "2026-11-19T14:45:57+07:00"
 }
 ]
