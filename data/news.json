@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T05:50:16+07:00",
-"new": 0,
+"updated": "2026-11-23T06:05:27+07:00",
+"new": 17,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 30
+"count": 31
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,107 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "9238bccca942",
+"title": "Thông tin mới về dự án đường sắt tốc độ cao Bắc - Nam",
+"link": "https://cafef.vn/thong-tin-moi-ve-du-an-duong-sat-toc-do-cao-bac-nam-188261123060225594.chn",
+"summary": "Liên danh nhà thầu Việt Nam, Pháp và Hàn Quốc vừa trúng gói thầu tư vấn khảo sát, lập Báo cáo nghiên cứu khả thi dự án đường sắt tốc độ cao Bắc - Nam, với giá hơn 10.240 tỷ đồng. Thời gian thực hiện là 30 tháng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795388516518-1795388517758460987466.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-23T06:02:00+07:00",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
+"id": "26850b16aae8",
+"title": "Võ Hạ Trâm, Hoàng Dũng, 14 Casper, Tăng Phúc… khuấy đảo bữa tiệc âm nhạc sinh viên",
+"link": "https://thanhnien.vn/vo-ha-tram-hoang-dung-14-casper-tang-phuc-khuay-dao-bua-tiec-am-nhac-sinh-vien-185261122155717627.htm",
+"summary": "Sự góp mặt của các ca sĩ Hoàng Dũng, 14 Casper, Tăng Phúc, Võ Hạ Trâm, Phùng Khánh Linh và nhóm nhạc Chillies tại đêm công diễn và trao giải Liên hoan Âm nhạc học sinh, sinh viên ĐH Quốc gia TP.HCM năm 2026 đã mở ra một đêm nhạc sôi động và rực rỡ sắc màu.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/tnw-anh-1-21-1795336463910331024384-85-0-1685-2560-crop-17953376289571973947734.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-23T06:00:00+07:00",
+"found": "2026-11-22T16:09:34+07:00"
+},
+{
+"id": "4806753c851e",
+"title": "Tổng lực kích cầu cuối năm",
+"link": "https://thanhnien.vn/tong-luc-kich-cau-cuoi-nam-185261122222721155.htm",
+"summary": "Thị trường hàng hóa bước vào mùa cao điểm mua sắm cuối năm 2026 và Tết Nguyên đán 2027 với một nghịch lý đáng chú ý: giá xăng dầu trong nước đã trải qua 5 tuần giảm liên tiếp, song chi phí vận tải vẫn chậm hạ nhiệt, khiến mặt bằng giá nhiều mặt hàng thiết yếu chưa giảm tương…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/en-mai-tap-trung-va-binh-on-thi-truong-dang-duoc-dia-phuong-cung-doanh-nghiep-kich-hoat-nham-thuc-day-suc-mua-dip-cuoi-nam-40-0-1640-2560-crop-17953611141841701617874.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-23T06:00:00+07:00",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
+"id": "bebb27d47ab4",
+"title": "Vì sao mua vàng từ lỗ đến lỗ?",
+"link": "https://thanhnien.vn/vi-sao-mua-vang-tu-lo-den-lo-18526112220471244.htm",
+"summary": "Trong ngày, giá vàng có tăng 4 - 5 triệu đồng/lượng, người mua vẫn lỗ. Đó là lý do dù kim loại quý đang ở vùng giá thấp, nhiều người vẫn \"ghẻ lạnh\" với vàng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/tnw-anh-ngoc-thach-1795355034468503184524-77-0-1677-2560-crop-17953550471631023072475.jpeg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-23T06:00:00+07:00",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
+"id": "254ca9c6600b",
+"title": "Người bị thu hồi đất có thêm nhiều quyền lợi",
+"link": "https://thanhnien.vn/nguoi-bi-thu-hoi-dat-co-them-nhieu-quyen-loi-185261122194514371.htm",
+"summary": "Luật Đất đai (sửa đổi) có hiệu lực từ ngày 1.7.2027 bổ sung nhiều chính sách bảo vệ quyền lợi người bị thu hồi đất khi được hoán đổi đất trong cùng xã, hỗ trợ phục hồi sinh kế và hưởng thêm chính sách bồi thường, tái định cư.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/i-trong-luat-dat-dai-sua-doi-lan-nay-nguoi-bi-thu-hoi-dat-co-them-nhieu-quyen-loi-honanh-ngoc-duong-online-1795351360758213-44-0-684-1024-crop-17953513876321982494816.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-23T06:00:00+07:00",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
+"id": "33e5b15a9455",
+"title": "Có nhà, sân bê tông, chuồng trại: Căn cứ nào xác định đất ở khi làm sổ đỏ?",
+"link": "https://vietnamnet.vn/cach-tinh-dat-o-khi-lam-so-do-dat-co-nha-san-be-tong-chuong-trai-2577415.html",
+"summary": "Bộ Nông nghiệp và Môi trường hướng dẫn về cách xác định diện tích đất ở khi làm giấy chứng nhận (sổ đỏ) lần đầu khi trên đất có nhà cấp IV, sân bê tông và chuồng trại chăn nuôi.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/22/co-nha-san-be-tong-chuong-trai-can-cu-nao-xac-dinh-dat-o-khi-lam-so-do-1851.jpg?width=0&s=UnC0A8JCeBPpYfK4WTmhFA",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-23T05:50:00+07:00",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
+"id": "62bcaaf62fb8",
+"title": "Đóng mã số thuế, có phải thông báo hủy hóa đơn điện tử chưa sử dụng?",
+"link": "https://vietnamnet.vn/dong-ma-so-thue-co-phai-thong-bao-huy-hoa-don-dien-tu-chua-dung-2577639.html",
+"summary": "Sau khi mã số thuế bị chấm dứt hiệu lực, số hóa đơn điện tử chưa sử dụng có phải làm thủ tục hủy hay được hệ thống thuế tự động khóa? Cơ quan thuế đã giải đáp trường hợp cụ thể này.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/22/dong-ma-so-thue-co-phai-thong-bao-huy-hoa-don-dien-tu-chua-su-dung-1859.jpg?width=0&s=IN3ei4x8iHRuyzzhCXnsSA",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-23T05:50:00+07:00",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
+"id": "38c6b1dc5363",
+"title": "câu lạc bộ thể thao união torreense đấu với benfica",
+"link": "https://sportsbook.fanduel.com/soccer/portuguese-cup/torreense-v-benfica-36346332",
+"summary": "Torreense v Benfica Odds (FanDuel Sportsbook)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBWTCP24ziiSwNlO9PZ8sJIg_pE9rDl3xMB3kJGkOKsUzCPOo-hm5VCSHJgA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T05:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
+"id": "2bdece7671bf",
+"title": "hiến tạng",
+"link": "https://nhandan.vn/khong-cho-phep-lay-mo-bo-phan-co-the-tu-nguoi-duoi-18-tuoi-sau-khi-chet-nao-chet-tuan-hoan-post1004399.html",
+"summary": "Không cho phép lấy mô, bộ phận cơ thể từ người dưới 18 tuổi sau khi chết não, chết tuần hoàn (Báo Nhân Dân điện tử)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYJOeQHzHp5y6Ce_Eyqj5EaoGyeRVShRB6R7cWykdmoKi7WnzSBp4yCQSFNKA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T05:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
 "id": "e6f6ef24fd38",
 "title": "Chị kiện chia hơn 3.700m2 đất, em trai nói cha mẹ đã chia từ lâu",
 "link": "https://vietnamnet.vn/chi-kien-chia-hon-3-700m2-dat-em-trai-noi-cha-me-da-chia-tu-lau-2577597.html",
@@ -222,6 +323,66 @@
 "cat": "bds",
 "published": "2026-11-23T05:45:00+07:00",
 "found": "2026-11-23T05:49:58+07:00"
+},
+{
+"id": "7baf59d20090",
+"title": "thứ hạng của marseille gặp le mans fc",
+"link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921748",
+"summary": "Cincinnati 78-68 UMass Lowell (Nov 22, 2026) Final Score (ESPN)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV5XIQl0gPnyghxaBd7SnXEKpqf0lICaYLNX51yI1rMxP5E6Mi8Y4j2vqX9ww",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T05:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
+"id": "012e10af7919",
+"title": "lương hưu",
+"link": "https://laodong.vn/thoi-su/thieu-thoi-gian-dong-bao-hiem-xa-hoi-nguoi-lao-dong-co-them-co-hoi-huong-luong-huu-1804702.ldo",
+"summary": "Thiếu thời gian đóng bảo hiểm xã hội, người lao động có thêm cơ hội hưởng lương hưu (Laodong.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUHL9fLCOLs4oyKGGtVy3_S1ZxTdzZprfoIqYy89lbVvA8GUAm_ReBDFES5cI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T05:40:00+07:00",
+"traffic": "500+",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
+"id": "cf62d321cb4b",
+"title": "văn khấn rằm tháng 10",
+"link": "https://vietnamnet.vn/van-khan-ram-thang-10-am-lich-nam-2026-theo-truyen-thong-2577550.html",
+"summary": "Văn khấn Rằm tháng 10 năm Bính Ngọ 2026 theo truyền thống (Báo VietNamNet)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqKWYtBXXMc_aq-oPl-3we9L4YFEXNwolF3JAPeuUUKFomyXcFZQQfsxPZw9o",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T05:40:00+07:00",
+"traffic": "500+",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
+"id": "37c322caecb6",
+"title": "tử hình",
+"link": "https://vietnamnet.vn/bo-sung-toi-xuc-pham-dang-ky-bi-xu-ly-hinh-su-2577664.html",
+"summary": "Bổ sung tội xúc phạm Đảng kỳ bị xử lý hình sự (Báo VietNamNet)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUcxXHnFYs29_MDGP3vuG1vY2WUH9sypU7LTcKmF2clazzGS6hVNZa67gtuXI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T05:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
+"id": "9481f5d46e11",
+"title": "bảng xếp hạng bóng đá anh",
+"link": "https://www.24h.com.vn/bong-da/nong-bang-xep-hang-ngoai-hang-anh-arsenal-lo-thoi-co-bo-xa-man-city-tottenham-ap-sat-chelsea-c48a1813087.html",
+"summary": "Nóng bảng xếp hạng Ngoại hạng Anh: Arsenal lỡ thời cơ bỏ xa Man City, Tottenham áp sát Chelsea (Tin tức 24h)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrFj299ALyu8XYVvLj_Mv3_GL-tp3ltWybuZY0hy3_4nyAjYEXG3CAKKPStZg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T05:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-23T06:05:27+07:00"
 },
 {
 "id": "6a47a51b5ee6",
@@ -280,6 +441,28 @@
 "found": "2026-11-23T05:49:58+07:00"
 },
 {
+"id": "e702b9ef691d",
+"title": "Cựu Chủ tịch Sen Tài Thu cùng con gái hầu tòa",
+"link": "https://dantri.com.vn/phap-luat/cuu-chu-tich-sen-tai-thu-cung-con-gai-hau-toa-20261122232612650.htm",
+"summary": "(Dân trí) - Bằng việc đưa ra thông tin gian dối về hoạt động kinh doanh, bà Phạm Thị Hòa (cựu Chủ tịch Sen Tài Thu Việt Nam) cùng con gái và đồng phạm bị cáo buộc chiếm đoạt hơn 757 tỷ đồng của 266 nhà đầu tư.",
+"image": "https://cdnphoto.dantri.com.vn/IMwJFX9IXRHXs13PXwnCztYSBrA=/2026/11/22/sentaithu-cropped-1795364663353.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-23T05:30:00+07:00",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
+"id": "6124c609a813",
+"title": "Xét xử ông Lê Thanh Thản: Từ lời nhận sai đến tranh cãi tiền bồi thường",
+"link": "https://dantri.com.vn/phap-luat/xet-xu-ong-le-thanh-than-tu-loi-nhan-sai-den-tranh-cai-tien-boi-thuong-20261122214146933.htm",
+"summary": "(Dân trí) - Thừa nhận xây sai quy hoạch và xin lỗi người mua nhà, ông Lê Thanh Thản sau đó lại cho rằng mức bồi thường \"cao quá\". Sau đó phiên tòa xuất hiện nhiều tranh luận về mức giá bồi thường cho các bị hại.",
+"image": "https://cdnphoto.dantri.com.vn/o_uHQGx2KQjc6bcL4w4aY7HJEdc=/2026/11/18/ong-le-thanh-than-1794978279355.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-23T05:30:00+07:00",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
 "id": "ecd999f80620",
 "title": "Roy Keane bức xúc vì CĐV vỗ tay dù MU thua Liverpool 0-4",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOME9lenJtMDdCNTZhSGFaWDlxdXZUV0htV2ZNNTF0bUROdDIweExLS0Z6aVBrdXloY2l6eC1aNDhYWnlISktoN2hQVDI0MnBhNEVELW03QjVKbk00VjRpSUZ2Z3I5RU0tOUZ0UF9fQW5KTktaNlJTUDNpX3piQXJQQ0hicGlzUmZyQzNxUU0weWFoOFZ6Wmc?oc=5",
@@ -311,7 +494,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T05:20:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-23T05:49:58+07:00"
 },
 {
@@ -3088,17 +3271,6 @@
 "cat": "tc",
 "published": "2026-11-22T15:59:03+07:00",
 "found": "2026-11-22T16:24:43+07:00"
-},
-{
-"id": "26850b16aae8",
-"title": "Võ Hạ Trâm, Hoàng Dũng, 14 Casper, Tăng Phúc… khuấy đảo bữa tiệc âm nhạc sinh viên",
-"link": "https://thanhnien.vn/vo-ha-tram-hoang-dung-14-casper-tang-phuc-khuay-dao-bua-tiec-am-nhac-sinh-vien-185261122155717627.htm",
-"summary": "Sự góp mặt của các ca sĩ Hoàng Dũng, 14 Casper, Tăng Phúc, Võ Hạ Trâm, Phùng Khánh Linh và nhóm nhạc Chillies tại đêm công diễn và trao giải Liên hoan Âm nhạc học sinh, sinh viên ĐH Quốc gia TP.HCM năm 2026 đã mở ra một đêm nhạc sôi động và rực rỡ sắc màu.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/tnw-anh-1-21-1795336463910331024384-85-0-1685-2560-crop-17953376289571973947734.jpg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-22T15:55:00+07:00",
-"found": "2026-11-22T16:09:34+07:00"
 },
 {
 "id": "bc6725de5f3c",
@@ -7892,18 +8064,6 @@
 "found": "2026-11-22T04:44:30+07:00"
 },
 {
-"id": "2b762c4a49dd",
-"title": "lương hưu",
-"link": "https://laodong.vn/tu-van-phap-luat/nguoi-don-than-ngheo-nuoi-con-co-the-duoc-huong-dong-thoi-nhieu-khoan-tro-cap-xa-hoi-1803136.ldo",
-"summary": "Người đơn thân nghèo nuôi con có thể được hưởng đồng thời nhiều khoản trợ cấp xã hội (Laodong.vn)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRpw3uU-sByWt-smZgI_afC3Rq2X5Tl-ZIxNDito7YelYjHpUnHM4_1e9X1ew",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T04:20:00+07:00",
-"traffic": "500+",
-"found": "2026-11-22T04:44:30+07:00"
-},
-{
 "id": "141876c488ed",
 "title": "bão áp thấp nhiệt đới",
 "link": "https://trends.google.com/trending/rss?geo=VN",
@@ -11714,6 +11874,17 @@
 "cat": "tc",
 "published": "2026-11-21T14:49:00+07:00",
 "found": "2026-11-21T14:52:49+07:00"
+},
+{
+"id": "196868c2523d",
+"title": "Giá vàng hôm nay (chiều 21-11): Tiếp đà giảm",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mVHFvZzJfZ0hpRzBlUng1ZFhtd29VdmtFYTBBV2hvRFpKcWpTUS1xanlfMGxuRkRMdHg5Z0s3TVdSa1hjb0hLY014ZGhsQmtEXy1GTkhfQ09jSzV3eUZkMzRJSjJlb3ZzZnJDWHpsZEl0WkhXSnRpbURmZW9yc00?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T14:48:00+07:00",
+"found": "2026-11-23T06:05:27+07:00"
 },
 {
 "id": "959a81d450b8",
@@ -15658,6 +15829,17 @@
 "found": "2026-11-21T09:48:16+07:00"
 },
 {
+"id": "b2ec2f6f5f52",
+"title": "Nàng thơ chuyên trị phim chuyển thể anime Nhật Bản gây xôn xao vì diện mạo khác lạ sau khi giảm cân",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkNwVjFzMTVHZUtCcFpYTnhRbzN4V1pfYzBlYXctTGxobmU3Y3ctRGRfdFU1VEEwTEp3SVRxb1R0X1FxX2tEemJDdTdKYkl0TTBoQ0FDRk5odnJIMmI4M2QwWmczZXZJZVdBQmtUNE1ZanZnV2pib3FwVFVIdENEczU4a2owNnRhejRWZkJVcEdBUlVOQkVDcno4VTU5TXAzQVh6cGRaejNJWFJaZFRWWmZCeVZMRDBlTVBaeVFxWUU4ZEt6LWI4eVg3eFExRmMyRmYtTzBn?oc=5",
+"summary": "Nguồn: m.gamek.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T09:01:00+07:00",
+"found": "2026-11-23T06:05:27+07:00"
+},
+{
 "id": "0018eb74db86",
 "title": "Mở rộng dư địa vay vốn nước ngoài: Cơ hội và thách thức",
 "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUt5akR0UUhsWWtaNWxSUjViV0k5VVplSjJfOG8tMnkxS0praThXZWRRZUJXZ1VER3h2ZTV1M2FLVkxwd3VsOGdrejk3d3NRZk1UQ2pOaWdsakc2eEJxLXJmWmtVMF9DV1AxelFJQXkxMDZXXzF6Y2NmY1hBX2hleko3ZzE3QU1NblJjeWZ4S2E?oc=5",
@@ -17307,17 +17489,6 @@
 "summary": "Một số tin tức đáng chú ý: Hôm nay, bế mạc kỳ họp thứ 2 của Quốc hội; TP.HCM đốc thúc hoàn thành chỉ tiêu bảo hiểm xã hội, bảo hiểm y tế năm 2026; Hỗ trợ 3-7 triệu đồng/tháng mỗi người lao động ở bệnh viện điều trị tâm thần, phong, HIV...",
 "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/kenh-hang-bang-ct-4-edit-17952202691161060773869-0-0-1600-2560-crop-17952203719482134742509.jpg",
 "source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T06:00:00+07:00",
-"found": "2026-11-21T07:30:37+07:00"
-},
-{
-"id": "092d04c3b2ab",
-"title": "Nàng thơ chuyên trị phim chuyển thể anime Nhật Bản gây xôn xao vì diện mạo khác lạ sau khi giảm cân",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjR3NW9GeHpOdl9XUzRjaXVsakJxVXR3elhURlVfU3AtanNQRk1Dc0UzbGlFZEhTenV3SnZ1UXhRM0Q4VmVJVWVwVXlxUF90UEs0Q1hFeVlOeGEtaGNWNU1XMDh6RzhlQm5uejRFOFo4R0JackEyMDlyb2dfTTJrMDJwVXd4WjV4YTA4R1ZVbXU5LWE0WmdhME1ycmpRQ19FMkE?oc=5",
-"summary": "Nguồn: 2SAO",
-"image": "",
-"source": "Google News",
 "cat": "xh",
 "published": "2026-11-21T06:00:00+07:00",
 "found": "2026-11-21T07:30:37+07:00"
@@ -27948,175 +28119,6 @@
 "cat": "tc",
 "published": "2026-11-20T06:58:24+07:00",
 "found": "2026-11-20T07:10:58+07:00"
-},
-{
-"id": "54c9364d6384",
-"title": "Vợ chồng ở TP.HCM bán hơn một cây vàng, cả cặp nhẫn cưới, để xây lớp học cho những em nhỏ bán vé số",
-"link": "https://kenh14.vn/vo-chong-o-tphcm-ban-hon-mot-cay-vang-ca-cap-nhan-cuoi-de-xay-lop-hoc-cho-nhung-em-nho-ban-ve-so-215261119152636814.chn",
-"summary": "Mỗi tối, khi phố phường lên đèn, một lớp học nhỏ ở phường Hiệp Thành Ngọc Việt lại sáng đèn. Ở đó, những đứa trẻ từng phải nghỉ học, đi bán vé số, phụ giúp gia đình được thầy Khải kiên trì dìu dắt trở lại với con chữ.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795076665400-17950766668001866801050.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T06:53:00+07:00",
-"found": "2026-11-20T07:10:58+07:00"
-},
-{
-"id": "f8d79e77a848",
-"title": "bóng đá bãi biển",
-"link": "https://bongdaplus.vn/bong-da-chau-a/choi-tuyet-hay-viet-nam-van-thua-lebanon-tai-giai-bong-da-bai-bien-chau-a-5294752611.html",
-"summary": "Chơi tuyệt hay, Việt Nam vẫn thua Lebanon tại giải bóng đá bãi biển châu Á (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYIV-68su92QqtYyxJqETHEIFR6lIGjprTfC1oiwKtrQzLnq1g6uyuMRCSSok",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T06:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-20T07:10:58+07:00"
-},
-{
-"id": "952e39a27faa",
-"title": "rắn hổ mang",
-"link": "https://www.nguoiduatin.vn/bat-song-ran-ho-mang-chua-dai-3-met-an-nap-trong-dong-co-o-to-204261119111546783.htm",
-"summary": "Bắt sống rắn hổ mang chúa dài 3 mét ẩn nấp trong động cơ ô tô (Người Đưa Tin)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSglxMGr2FQ4Kqd73b0LYzcper00kcCH833tA2pL2jKJiWH88JCeECXlkbcmMU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T06:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-20T07:26:10+07:00"
-},
-{
-"id": "f28bee6d0358",
-"title": "Giới trẻ hẹn nhau xem triển lãm miễn phí trong nhà kho trăm tuổi ở TPHCM",
-"link": "https://vietnamnet.vn/gioi-tre-hen-nhau-xem-trien-lam-mien-phi-trong-nha-kho-tram-tuoi-o-tphcm-2576701.html",
-"summary": "Triển lãm “Toàn - Dân - Tiến” chủ đề thiên nhiên và con người diễn ra tại nhà kho hơn 100 tuổi ở Cảng Sài Gòn, trưng bày 40 tác phẩm hội họa và sắp đặt của ba họa sĩ Phạm Thanh Toàn, Nguyễn Ngọc Dân và Đặng Quang Tiến.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/gioi-tre-hen-nhau-xem-trien-lam-mien-phi-trong-nha-kho-tram-tuoi-o-tphcm-1766.gif?width=0&s=KSixNxkNc7cTtid4F5Yd9w",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-20T06:47:00+07:00",
-"found": "2026-11-20T06:55:32+07:00"
-},
-{
-"id": "2cf204a9b6bc",
-"title": "Anthropic lên sàn Nasdaq: Cổ phiếu tăng 17%, vốn hóa chạm mốc lịch sử",
-"link": "https://dantri.com.vn/kinh-doanh/anthropic-len-san-nasdaq-co-phieu-tang-17-von-hoa-cham-moc-lich-su-20261120062313696.htm",
-"summary": "(Dân trí) - Phiên chào sàn của Anthropic, công ty đứng sau chatbot nổi tiếng Claude tạo thêm hàng loạt triệu phú USD nhưng đặt ra phép thử lớn cho phố Wall.",
-"image": "https://cdnphoto.dantri.com.vn/hMxwqlXJhK-8rvtSjBbERIrtKxY=/2026/11/20/anthropic-cropped-1795130237755.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-20T06:46:37+07:00",
-"found": "2026-11-20T07:26:10+07:00"
-},
-{
-"id": "683c55adf207",
-"title": "12 ngân hàng tăng lãi suất cho vay bình quân trong tháng 10",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXE0SkptZjRQV3ZmaWlEekVjQl9ZZjNhN1FrM0padGNJMkYtOTB3VGtJb3Vqb21BNDNnWHktb2NzUEtncjNKTW1tcXc3WUhuZVZta3ZMY1pHRUlQWVlvOHQwbUV5Mjl2WWVMNUhNVHNmWnFDbjB6WEJLX210eFg1dDZHSTY2YXhZcko1ZzRRX2xrNHhWMHE4?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T06:45:00+07:00",
-"found": "2026-11-20T07:10:58+07:00"
-},
-{
-"id": "5e69871a6723",
-"title": "Khách kiện đòi lại hơn 2 tỷ đồng vì chủ đầu tư chậm giao condotel ở Quảng Ninh",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2VFNFdpaWZMcXdLRWdwUWdRNGo2dENGaDQ3US1BbDZmMVRmYVI4a3JldlpMY0JMUWZnaDV5ZmNxa0JwWU82cGNRdklxejFrdG5aVGlpNERFMk1RLUtMakx1Y0dseVhpVlM1Y1JuR2RTQTBVX0JDcTNqVEhnbXl2bTdETFl2NWwyRlhQbDBMaFpYTHZOVTkwMGNLaEJIbXpyLVVhWndZd2pCTEYtaFZzUw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T06:45:00+07:00",
-"found": "2026-11-20T10:59:59+07:00"
-},
-{
-"id": "167314c47122",
-"title": "Tăng tốc lắp điện mặt trời mái nhà",
-"link": "https://thanhnien.vn/tang-toc-lap-dien-mat-troi-mai-nha-185261119210457582.htm",
-"summary": "Làn sóng đầu tư điện mặt trời mái nhà (ĐMTMN) đang lan rộng tại các đô thị và khu công nghiệp miền Bắc. Không chỉ là giải pháp tự chủ nguồn điện, mà nhờ nguồn điện sạch này, hóa đơn tiền điện nhiều hộ gia đình, doanh nghiệp không còn 'tăng sốc'.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/1794818212364420685274098866442942068527409886644290a2ac56a4284cec2e65311a2346721b8-17950969339921512505742-107-0-1707-2560-crop-17950970141342042663518.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-20T06:43:00+07:00",
-"found": "2026-11-20T06:55:32+07:00"
-},
-{
-"id": "7b2b77a58eb0",
-"title": "đinh văn nơi",
-"link": "https://www.24h.com.vn/tin-tuc-trong-ngay/sau-mot-thang-chi-dao-cua-ong-dinh-van-noihon-76000m-dat-rung-duoc-thu-hoi-giao-vuon-quoc-gia-phu-quoc-quan-ly-c46a1812491.html",
-"summary": "Sau một tháng chỉ đạo của ông Đinh Văn Nơi,hơn 76.000m² đất rừng được thu hồi giao Vườn Quốc gia Phú Quốc quản lý (Tin tức 24h)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfk7DOVllVVDsrce9f1LdksIYCgQJcnZz53gBKAXOxbAFvCXURkYINGRrbalQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T06:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-20T06:55:32+07:00"
-},
-{
-"id": "607edba66229",
-"title": "giá vàng hôm nay",
-"link": "https://tuoitre.vn/gia-vang-giam-mai-mua-luc-nay-co-phai-bat-dao-roi-100261119222507782.htm",
-"summary": "Giá vàng giảm mãi, mua lúc này có phải ‘bắt dao rơi’? (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkfVunhTgZqKnHkxAYLTmw7SxRiTZzHRj4YHM_ttH-OtFqD9SODiXOxnNKlH4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T06:40:00+07:00",
-"traffic": "20000+",
-"found": "2026-11-20T07:26:10+07:00"
-},
-{
-"id": "27a2aba4c7bc",
-"title": "Tăng trưởng hai con số cần thêm 2 triệu tỷ đồng vốn quý IV, tín dụng đạt 20,87 triệu tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWMteVBudFRLWC1oR1NkU1N3VWNpa0d3bUkybWZrajhuSC1NVG00NlRSbXN3MGsyVnJSanI3T1ZVTnBwMDdaSmlPYzNxUFNzRl9DRHBjc25ZMld3cHZOMDBweUo5ZWNVclVKZDhUM1lZSnF5YkxsVXR0YTY1UFQ3TDVtNEZvRzc5TFRCMUVrY2ZLZnBielN6N28yQkVGS1RJNVRPQkdNc2s2Q1hMV283d2pJRE5IelEzcUl6MEZHWHQ1Zw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T06:39:00+07:00",
-"found": "2026-11-20T06:55:32+07:00"
-},
-{
-"id": "e4cf53a06db3",
-"title": "Houthi đánh trúng tòa nhà cao nhất ở thủ đô của Arab Saudi",
-"link": "https://vnexpress.net/houthi-danh-trung-toa-nha-cao-nhat-o-thu-do-cua-arab-saudi-5146829.html",
-"summary": "Cuộc tập kích của Houthi làm hư hại tháp PIF, tòa nhà cao nhất ở thủ đô Riyadh với chiều cao 385 m.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/ThpPIF-1795129920-4533-1795130318.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8J8Hj2H5Wm6YuMRWENSFsw",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-20T06:38:06+07:00",
-"found": "2026-11-20T10:29:40+07:00"
-},
-{
-"id": "9e27914773da",
-"title": "Hộ kinh doanh mong tính thuế đơn giản, chỉ còn 1 sổ kế toán",
-"link": "https://tuoitre.vn/ho-kinh-doanh-mong-tinh-thue-don-gian-chi-con-1-so-ke-toan-100261120055852812.htm",
-"summary": "Quốc hội sẽ thông qua Luật Phát triển doanh nghiệp nhỏ và vừa. Trong đó, với doanh thu đến 10 tỉ đồng/năm, hộ kinh doanh có thể được lựa chọn cách tính thuế theo tỉ lệ trên doanh thu, sổ kế toán giảm từ 4 xuống còn 1.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/ho-kinh-doanh-anh-huu-hanh-1764335860118735141361-40-0-840-1280-crop-17951284632771921027259.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-20T06:35:00+07:00",
-"found": "2026-11-20T07:10:58+07:00"
-},
-{
-"id": "7863f3557fd1",
-"title": "Thời sự sáng 20/11: Ông Lê Thanh Thản bị đề nghị 30-36 tháng tù treo",
-"link": "https://vietnamnet.vn/thoi-su-sang-20-11-ong-le-thanh-than-bi-de-nghi-muc-an-30-36-thang-tu-treo-2576784.html",
-"summary": "Ông Lê Thanh Thản bị Viện Kiểm sát đề nghị mức án 30-36 tháng tù nhưng cho hưởng án treo; tài xế kịp thời túm áo, cứu nam thanh niên định nhảy cầu Thuận Phước... là những tin tức thời sự đáng chú ý sáng ngày 20/11/2026.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/11-ong-le-thanh-than-bi-de-nghi-30-36-thang-tu-treo-3133.png?width=0&s=UYdLJGuYzsTF-_HfDTsYNA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-20T06:30:00+07:00",
-"found": "2026-11-20T06:40:21+07:00"
-},
-{
-"id": "b0935d79e4a0",
-"title": "Chênh lệch giá vàng trong nước và thế giới nới rộng lên 20 triệu đồng/lượng",
-"link": "https://dantri.com.vn/kinh-doanh/chenh-lech-gia-vang-trong-nuoc-va-the-gioi-noi-rong-len-20-trieu-dongluong-20261118224949710.htm",
-"summary": "(Dân trí) - Đà giảm sâu của giá vàng thế giới xuống đáy 14 tháng trong khi vàng miếng SJC điều chỉnh chậm hơn đã đẩy mức chênh lệch giữa hai thị trường lên 20 triệu đồng/lượng, cao nhất từ đầu năm.",
-"image": "https://cdnphoto.dantri.com.vn/kCF8HUpy0y4RAisoaQMdnB274yE=/2026/11/19/vang-nhan-1795095193117.jpg?watermark=v1,v2",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-20T06:30:00+07:00",
-"found": "2026-11-20T06:55:32+07:00"
 }
 ]
 }
