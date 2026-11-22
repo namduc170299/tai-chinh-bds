@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T15:22:02+07:00",
-"new": 10,
+"updated": "2026-11-22T15:37:13+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 23
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "05c4b0ae204a",
+"title": "Nhận ngay chiết khấu đến 17,5% tại căn hộ The Fest Nha Trang",
+"link": "https://cafef.vn/nhan-ngay-chiet-khau-den-175-tai-can-ho-the-fest-nha-trang-188261122151247694.chn",
+"summary": "Thay vì chờ tăng giá thụ động, dòng vốn đầu tư hiện nay ưu tiên các sản phẩm sớm đưa vào vận hành và tạo nguồn thu đều đặn. Tại Nam Nha Trang, căn hộ thương mại dịch vụ The Fest (Festival Island) ghi điểm nhờ đón dòng khách quanh năm từ hệ sinh thái giải trí, khoáng nóng cùng…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/photo1795315668275-1795315671153554136972-1795335170549900560705.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-22T15:30:00+07:00",
+"found": "2026-11-22T15:37:13+07:00"
+},
+{
+"id": "1b797b342f52",
+"title": "Chính phủ yêu cầu cảnh báo sớm rủi ro với nhóm hàng xuất siêu lớn",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0JrdkVBNHNMT3pSRk1HeW03VlZzWU1Hdk8yU1g0OWVXMGdISWZNMi13b0dVTGxhTGFCTnZqRlFjLW1XcktBenNPVl83bEFHMUswYWMwM0I1R0ZuZS1pUFVNSzN0N21IR2NjQy11NERJQ1QyUjlYQWx0YXowT2FOUXBPb2ZjcVR3bklGU1hDQjlkV08xVGNDcF9Ba1JmekU?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T15:29:43+07:00",
+"found": "2026-11-22T15:37:13+07:00"
+},
+{
+"id": "b3ffba1158e2",
+"title": "Một vòng Ngày Cộng đồng, ra mắt chương trình Người Gần Nhất ở Hà Nội: Khi lòng tốt bắt đầu từ những hành động nhỏ",
+"link": "https://kenh14.vn/mot-vong-ngay-cong-dong-ra-mat-chuong-trinh-nguoi-gan-nhat-o-ha-noi-khi-long-tot-bat-dau-tu-nhung-hanh-dong-nho-215261122152857714.chn",
+"summary": "Từ những hàng người đăng ký hiến máu, các hoạt động trải nghiệm kỹ năng sơ cấp cứu đến sự ra mắt của chương trình “Người Gần Nhất”, mỗi khoảnh khắc đều góp phần lan tỏa thông điệp về một cộng đồng nhân ái, chủ động và sẵn sàng giúp đỡ nhau.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795335321642-17953353226961910047213.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T15:21:00+07:00",
+"found": "2026-11-22T15:37:13+07:00"
+},
+{
 "id": "052fae0a2bc3",
 "title": "Rà soát trách nhiệm bồi thường thiệt hại sau sự cố vỡ hồ chứa nước Tân Lai",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcU1weWVnSnoyaUVmeGJuZWd2bVVrMUhtTTcwQkVObm9PUkZwRVAtLUZsQmZhczhOQnpMb0tFUU1hRC1mbkV3bGRjSE05VW1UTVVFRkIyckROTjdGbVc1QjhxRWlpT1huMnRKRFFjR0xEUlY5RVZHLUJMWU9ub3dSUmRjd1JGeWJRWVM5WjZsMlM2dnhPelZrYlk2bkRWQTZxYjNFSlQ3bHhHV3c?oc=5",
@@ -232,6 +265,17 @@
 "source": "Báo Mới",
 "cat": "bds",
 "published": "2026-11-22T15:11:00+07:00",
+"found": "2026-11-22T15:22:02+07:00"
+},
+{
+"id": "84886787246f",
+"title": "Giá vàng hôm nay 22/11: SJC mất 6 triệu đồng/lượng chỉ trong ít ngày",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHl1S3QydlduRjg0cU9YYTNUQ1FqTmZobVhCS3JISHFvQVdZVkd6dHBGa0ttbmdJR1owODBTTkc3VURlNjg2YVZOYnRIdHpVMGhPZUNjTEJ5RjdGX0R3YTBqLVUyWUxKZ0tPQ1dIMjktMUZoWUtaX1hLbFdXQnIwRFRXVVd1SHhOOFpxZloxeVpmSENmMjhzMUpMVm5tZWNDU2c?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T15:10:56+07:00",
 "found": "2026-11-22T15:22:02+07:00"
 },
 {
@@ -366,7 +410,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T14:30:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-22T14:51:42+07:00"
 },
 {
@@ -401,6 +445,17 @@
 "cat": "xh",
 "published": "2026-11-22T14:27:05+07:00",
 "found": "2026-11-22T15:06:52+07:00"
+},
+{
+"id": "e01b6bcea149",
+"title": "Đại tá Lê Hãn từ trần ở tuổi 97",
+"link": "https://tuoitre.vn/dai-ta-le-han-tu-tran-o-tuoi-97-100261122124211789.htm",
+"summary": "Theo thông tin từ gia đình, Đại tá Lê Hãn, nguyên Phó Cục trưởng Cục Kỹ thuật Quân khu 7 đã từ trần, thượng thọ 97 tuổi.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/tuong-niem-dai-ta-le-han-17953259726251187577520-0-149-941-1655-crop-17953260372451268695238.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T14:27:00+07:00",
+"found": "2026-11-22T15:37:13+07:00"
 },
 {
 "id": "1b743812cce7",
@@ -511,6 +566,17 @@
 "cat": "mxh",
 "published": "2026-11-22T13:53:00+07:00",
 "found": "2026-11-22T14:19:47+07:00"
+},
+{
+"id": "bca98d19c932",
+"title": "Cậu bé tai nhỏ và cộng đồng yêu thương",
+"link": "https://tuoitre.vn/cau-be-tai-nho-va-cong-dong-yeu-thuong-100261122120258072.htm",
+"summary": "Cùng con trai Nhật An với đôi tai nhỏ bẩm sinh, vợ chồng chị Trần Lan Hương không chỉ có tình yêu thương vô bờ, mà cần cả thông tin y khoa lẫn kinh nghiệm giúp con tự tin.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/02nhat-an-hoi-be-17953221241912144520008-103-0-1169-1706-crop-1795323190771147945367.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T13:51:00+07:00",
+"found": "2026-11-22T15:37:13+07:00"
 },
 {
 "id": "60e095fba603",
@@ -635,6 +701,17 @@
 "cat": "xh",
 "published": "2026-11-22T13:18:12+07:00",
 "found": "2026-11-22T13:21:11+07:00"
+},
+{
+"id": "8a9b48207064",
+"title": "Trung tâm triển lãm 800 tỷ đồng ở Thủ Thiêm trước ngày mở cửa",
+"link": "https://vnexpress.net/trung-tam-trien-lam-800-ty-dong-o-thu-thiem-truoc-ngay-mo-cua-5147624.html",
+"summary": "Sau 13 năm xây dựng, Trung tâm triển lãm quy hoạch TP HCM hoàn thành, nổi bật với kiến trúc hai khối nhà đặt nghiêng, mở cửa từ 23/11.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/wm1-dji-1795326915.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sAsRZOHqtzp07Bfw3I63kw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-22T13:18:12+07:00",
+"found": "2026-11-22T15:37:13+07:00"
 },
 {
 "id": "77a5d4eaba71",
@@ -3923,17 +4000,6 @@
 "found": "2026-11-22T07:02:04+07:00"
 },
 {
-"id": "84886787246f",
-"title": "Giá vàng hôm nay 22/11: SJC mất 6 triệu đồng/lượng chỉ trong ít ngày",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHl1S3QydlduRjg0cU9YYTNUQ1FqTmZobVhCS3JISHFvQVdZVkd6dHBGa0ttbmdJR1owODBTTkc3VURlNjg2YVZOYnRIdHpVMGhPZUNjTEJ5RjdGX0R3YTBqLVUyWUxKZ0tPQ1dIMjktMUZoWUtaX1hLbFdXQnIwRFRXVVd1SHhOOFpxZloxeVpmSENmMjhzMUpMVm5tZWNDU2c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T06:00:00+07:00",
-"found": "2026-11-22T15:22:02+07:00"
-},
-{
 "id": "40873d44e3a1",
 "title": "Cấp sổ đỏ cho người đã qua đời, 307m2 đất bị ‘biến mất’ sau khi đo đạc",
 "link": "https://vietnamnet.vn/cap-so-do-cho-nguoi-da-chet-307m2-dat-bi-bien-mat-sau-do-dac-2573297.html",
@@ -4508,6 +4574,17 @@
 "cat": "mxh",
 "published": "2026-11-22T01:00:00+07:00",
 "found": "2026-11-22T10:45:30+07:00"
+},
+{
+"id": "2757b9cf8644",
+"title": "Daily Mail: Man City bị la ó trên sân nhà, bàn thắng của Haaland bị từ chối gây bức xúc",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS3R0QXdkZXc0Y0NnaUUyNlFsaHZqVEdhR1dCOUwtSTJCa1JyaW9wdkh2MjZFZDUxWXhFeEZxUllvTUpLcS1uQklPVmE4QXczNjJTR29PRF9aSC1ZOVdCZTFvUldnLVZEcHRDSW55bjlaalVYTHViUXI3b0tlTDI4N3lR?oc=5",
+"summary": "Nguồn: AllFootball",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T00:38:34+07:00",
+"found": "2026-11-22T15:37:13+07:00"
 },
 {
 "id": "6933a7a5b761",
@@ -27988,83 +28065,6 @@
 "cat": "bds",
 "published": "2026-11-19T16:57:00+07:00",
 "found": "2026-11-20T14:15:00+07:00"
-},
-{
-"id": "1f9faeb1a486",
-"title": "Từ vụ rapper MCK: Sở VH-TT TP.HCM nói gì về 'khóa sóng' nghệ sĩ vi phạm?",
-"link": "https://thanhnien.vn/tu-vu-rapper-mck-so-vh-tt-tphcm-noi-gi-ve-khoa-song-nghe-si-vi-pham-185261119163409357.htm",
-"summary": "Từ vụ rapper MCK xin lỗi, gỡ nhạc phản cảm, Sở Văn hóa và Thể thao TP.HCM cho biết sẽ phối hợp xem xét biện pháp 'khóa sóng', 'hạn chế hình ảnh' nghệ sĩ tùy tính chất, mức độ vi phạm.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/mck-17854056015051880338095-0-0-791-1266-crop-17950808328861886009742.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T16:56:00+07:00",
-"found": "2026-11-19T17:04:55+07:00"
-},
-{
-"id": "ebc3a8df3427",
-"title": "Tiến độ sân bay Long Thành trước mốc khai thác thương mại tháng 12",
-"link": "https://vnexpress.net/tien-do-san-bay-long-thanh-truoc-moc-khai-thac-thuong-mai-thang-12-5146679.html",
-"summary": "Hơn một tháng trước ngày vận hành thương mại, sân bay Long Thành còn khối lượng lớn phải hoàn thành, từ thi công nhà ga, đường nội cảng đến nghiệm thu, cấp phép.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/sblongthanh-znews-1795081693-3000-1795082140.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lCWDgiZXLS0AemoprZeWtw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-19T16:55:40+07:00",
-"found": "2026-11-19T17:20:06+07:00"
-},
-{
-"id": "c693532674cf",
-"title": "Bốn hạng mục có thể ảnh hưởng khai thác Long Thành vào tháng 12",
-"link": "https://vnexpress.net/bon-hang-muc-co-the-anh-huong-khai-thac-long-thanh-vao-thang-12-5146679.html",
-"summary": "Hơn một tháng trước ngày vận hành thương mại, sân bay Long Thành còn khối lượng lớn phải hoàn thành, từ thi công nhà ga, đường nội cảng đến nghiệm thu, cấp phép.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/wm1-wm1-dji-d-1795084032-5306-1795084043.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A4ORC3eI-uwsiZJx1ebMJA",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-19T16:55:40+07:00",
-"found": "2026-11-19T18:16:55+07:00"
-},
-{
-"id": "d57fa12e76b8",
-"title": "Thủ đoạn dùng 28 công ty 'ma' bán hóa đơn hơn 3.700 tỷ đồng",
-"link": "https://vnexpress.net/thu-doan-dung-28-cong-ty-ma-ban-hoa-don-hon-3-700-ty-dong-5146235.html",
-"summary": "Vũ Hải Đông Dương mua 28 công ty \"ma\", tổ chức bán hơn 23.000 hóa đơn khống trị giá 3.730 tỷ đồng, thu lợi bất chính hơn 16,7 tỷ đồng.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/cac-bi-cao-tai-toa-ha-tinh-179-9184-4798-1794997664.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_j7ucYlhcVSCVnNJoE6htg",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-19T16:55:11+07:00",
-"found": "2026-11-19T17:20:06+07:00"
-},
-{
-"id": "6f6a7ec7c2aa",
-"title": "Ông Lê Thanh Thản đề nghị đánh giá lại phương án bồi thường",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNemdjbzcwY1dyc3VrVldqbFhkYkFFRFhWU0F4eU1KZnhGRF9IaWZVSDdRNGxMX1dNVFA4dVlzTEg2eFlzU3hYUVNvSENVQ21CX1lYUEJ6Zmd1Z2dsXzdkb2lGNkUzdzRaczdoQzJmTnYwQkdtUU03UFFrMzl1eHFTb2ZmT0hVczVhRkJ4bWlYaVFTTTRVcGVz?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T16:55:00+07:00",
-"found": "2026-11-19T17:04:55+07:00"
-},
-{
-"id": "ed802cf65f04",
-"title": "Bộ Y tế bổ nhiệm phó giám đốc Bệnh viện Răng hàm mặt trung ương TP.HCM",
-"link": "https://tuoitre.vn/bo-y-te-bo-nhiem-pho-giam-doc-benh-vien-rang-ham-mat-trung-uong-tphcm-100261119151309042.htm",
-"summary": "Bác sĩ Chuyên khoa II Tô Việt Thanh vừa được Bộ Y tế bổ nhiệm làm Phó giám đốc phụ trách chuyên môn của bệnh viện.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/to-viet-thanh-17950750754081019179758-1122-1784-2921-4663-crop-179507510055365756748.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T16:55:00+07:00",
-"found": "2026-11-19T17:35:18+07:00"
-},
-{
-"id": "58badc24d391",
-"title": "Nhựa Chất lượng cao Bình Thuận (BQP) phát hành cổ phiếu trả cổ tức, nợ vay tăng gần 131 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN01CZDlmN1dJcExnRzY1eEgwbjh4NU9yQWViM2F3Z2QtMk95el85bkRqR1ZYdU5MSThJN2JxbDdFbWlDODVtMk9kMmVaejVVeU05Z294R0pBdGt0LU5EU0R2QWNWYU5MOVlIWUxyUkJDZ0h0a29wY0pEcGdoYXp3eGRoZUY4MHRibWxHVDk2Vmt5LVE0c0dCR0VBdjI0eWFsVFFLMC1DMWlwVTI1XzVha3o3VUhMc2MwUjBGZ3FLM1Z6S2M?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T16:55:00+07:00",
-"found": "2026-11-19T23:26:05+07:00"
 }
 ]
 }
