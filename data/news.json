@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T20:55:59+07:00",
-"new": 4,
+"updated": "2026-11-22T21:11:11+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 28
+"count": 29
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,53 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "fc3e186d843f",
+"title": "bologna đấu với udinese",
+"link": "https://bongdaplus.vn/serie-a/nhan-dinh-bong-da-bologna-vs-udinese-21h00-ngay-22-11-dim-khach-xuong-day-5295792611.html",
+"summary": "Nhận định bóng đá Bologna vs Udinese, 21h00 ngày 22/11: Dìm khách xuống đáy (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbcjt94gBj4k5nLBu-jEAimwO1zcbYjUIqZduaGS63Aflh26rrRCCnRh1csM0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T20:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-22T21:11:11+07:00"
+},
+{
+"id": "3bafd1f85149",
+"title": "augsburg đấu với mainz",
+"link": "https://bongdaplus.vn/bundesliga/nhan-dinh-bong-da-augsburg-vs-mainz-21h30-ngay-22-11-niem-vui-cho-doi-khach-5295882611.html",
+"summary": "Nhận định bóng đá Augsburg vs Mainz, 21h30 ngày 22/11: Niềm vui cho đội khách (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy3YJn7QmaKJyXKFtOc2zUhkzQr5iip9pICy2EZA2BwVLZoRXdg0vTeW4Ulxw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T20:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-22T21:11:11+07:00"
+},
+{
+"id": "740f5c41ac1c",
+"title": "brighton vs",
+"link": "https://bongdaplus.vn/ngoai-hang-anh/nhan-dinh-bong-da-hull-vs-brighton-21h00-ngay-22-11-brighton-thang-tien-5293672611.html",
+"summary": "Nhận định bóng đá Hull vs Brighton, 21h00 ngày 22/11: Brighton thẳng tiến (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJUHfAhl7BakMzaUH90SX6dVXWhglVxafijihAfhfDFVf8JdHeVEtPDAmEPIE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T20:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-22T21:11:11+07:00"
+},
+{
+"id": "119481b42993",
+"title": "Liên danh Việt - Pháp - Hàn trúng gói tư vấn lớn nhất đường sắt tốc độ cao Bắc Nam",
+"link": "https://vnexpress.net/lien-danh-viet-phap-han-trung-goi-tu-van-lon-nhat-duong-sat-toc-do-cao-bac-nam-5147718.html",
+"summary": "Liên danh 8 doanh nghiệp Việt Nam, Pháp và Hàn Quốc trúng gói thầu tư vấn lớn nhất dự án đường sắt tốc độ cao Bắc Nam, trị giá hơn 10.243 tỷ đồng.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/395afd4a-ee7da30d70b0fe0-17953-8878-3722-1795353176.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=dvtE8qrf55-4hwz73-pgJQ",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-22T20:47:24+07:00",
+"found": "2026-11-22T21:11:11+07:00"
+},
+{
 "id": "23d679dfaa57",
 "title": "Lộ trình và thiết kế tuyến metro số 2 Thủ Dầu Một - Tao Đàn",
 "link": "https://cafef.vn/lo-trinh-va-thiet-ke-tuyen-metro-so-2-thu-dau-mot-tao-dan-188261122194458021.chn",
@@ -232,7 +279,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T20:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-22T20:55:59+07:00"
 },
 {
@@ -404,6 +451,18 @@
 "published": "2026-11-22T20:00:00+07:00",
 "traffic": "200+",
 "found": "2026-11-22T20:20:28+07:00"
+},
+{
+"id": "aabd8b076dcd",
+"title": "thứ hạng của hồng lĩnh hà tĩnh gặp catphcm",
+"link": "https://www.24h.com.vn/bong-da/video-bong-da-ha-tinh-cong-an-tp-hcm-cay-dang-phut-89-v-league-c48a1813249.html",
+"summary": "Video bóng đá Hà Tĩnh - Công an TP HCM: Cay đắng phút 89 (V-League) (Tin tức 24h)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkfYaxPu_JDu-9aeYsnS91oT7AurJpttLEr3BP0_5vw4A6Q5ZanFikUd1FZd4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T20:00:00+07:00",
+"traffic": "10000+",
+"found": "2026-11-22T21:11:11+07:00"
 },
 {
 "id": "6d5ec5a279c0",
@@ -28022,61 +28081,6 @@
 "cat": "xh",
 "published": "2026-11-19T20:35:00+07:00",
 "found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "8e687fad4d59",
-"title": "\"Bão\" năng lượng càn quét hơn 100 quốc gia, Việt Nam thuộc nhóm vẫn ổn định",
-"link": "https://dantri.com.vn/kinh-doanh/bao-nang-luong-can-quet-hon-100-quoc-gia-viet-nam-thuoc-nhom-van-on-dinh-20261119192705321.htm",
-"summary": "(Dân trí) - Tính đến 9/11, có 102 trên 177 quốc gia được khảo sát rơi vào tình trạng khó khăn về năng lượng, chiếm tỷ lệ 57,6%. Trong \"cơn bão\" đó, chỉ 13 quốc gia duy trì được trạng thái ổn định, gồm Việt Nam.",
-"image": "https://cdnphoto.dantri.com.vn/jf5Em-J2qoz3mqY_YiuSYiIjOeg=/2026/10/27/evn-phuquocnamanh0d7a9852-1786376879678-1793104880097.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-19T20:34:00+07:00",
-"found": "2026-11-19T21:13:47+07:00"
-},
-{
-"id": "82496e3e7365",
-"title": "Ông Lê Thanh Thản cảm ơn tòa, 'không có ý kiến gì'",
-"link": "https://thanhnien.vn/ong-le-thanh-than-cam-on-toa-khong-co-y-kien-gi-185261119201404293.htm",
-"summary": "Được nói lời sau cùng trước khi tòa vào nghị án, ông Lê Thanh Thản chỉ mất vài giây để gửi lời cảm ơn hội đồng xét xử, 'không có ý kiến gì'.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/edit-le-thanh-than111-17950939013872041367640-4-0-815-1298-crop-1795094019029567712225.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T20:33:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "d9e3519bc4c1",
-"title": "Viện kiểm sát: Không làm đúng cam kết, ông Lê Thanh Thản phải bồi thường căn hộ theo giá thị trường",
-"link": "https://kenh14.vn/vien-kiem-sat-khong-lam-dung-cam-ket-ong-le-thanh-than-phai-boi-thuong-can-ho-theo-gia-thi-truong-215261119201246574.chn",
-"summary": "Đại diện Viện kiểm sát cho rằng, việc ông Lê Thanh Thản và doanh nghiệp làm chủ đầu tư dự án CT6 Kiến Hưng không giao được tài sản đúng cam kết nên phải bồi thường theo giá trị căn hộ hợp pháp tương đương trên thị trường.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795093822867-17950938236151704721664.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T20:33:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "4f829f9d7efd",
-"title": "Từ Kiến tạo Thịnh vượng đến Thịnh vượng Trường tồn: VPBank Private hướng tới vai trò “Kiến trúc sư gia sản”",
-"link": "https://cafef.vn/tu-kien-tao-thinh-vuong-den-thinh-vuong-truong-ton-vpbank-private-huong-toi-vai-tro-kien-truc-su-gia-san-188261119194009198.chn",
-"summary": "VPBank định hướng phát triển VPBank Private theo mô hình “Wealth Architect\" (Kiến trúc sư gia sản), kết nối tư vấn chuyên sâu, năng lực đầu tư và kinh nghiệm quốc tế, đồng hành cùng khách hàng trong hành trình từ Kiến tạo Thịnh vượng đến Thịnh vượng Trường tồn.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/photo1795091686226-17950916864472074395557-17950920122701372658427.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-19T20:30:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "dbcb6173e293",
-"title": "Nữ giám đốc bị tuyên 20 năm tù vụ lừa đảo hơn 54 tỉ đồng",
-"link": "https://tuoitre.vn/nu-giam-doc-bi-tuyen-20-nam-tu-vu-lua-dao-hon-54-ti-dong-100261119195917977.htm",
-"summary": "Bị cáo Huỳnh Thị Thanh Hiền bị tuyên 20 năm tù vì dùng thông tin gian dối về các dự án bất động sản để huy động vốn, chiếm đoạt hơn 54,3 tỉ đồng của một phụ nữ.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/19-11-ba-huynh-thi-thanh-hien-lua-dao-1-1795092470668295046592-140-797-891-1999-crop-1795095123488994319626.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T20:28:00+07:00",
-"found": "2026-11-19T21:28:56+07:00"
 }
 ]
 }
