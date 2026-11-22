@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T21:11:11+07:00",
-"new": 5,
+"updated": "2026-11-22T21:16:32+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,30 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "9f615d0bb263",
+"title": "sân bay quốc tế seattle tacoma",
+"link": "https://vnexpress.net/dac-vu-ice-bat-nguoi-ngay-tai-cua-len-may-bay-5147669.html",
+"summary": "Đặc vụ ICE bắt người ngay tại cửa lên máy bay (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ8kgcgizMb7uNvreO-X1DfaulrBnkfeC22vKy3yPtZXIHHC8CKZQ99bOo4YU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T21:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-22T21:16:32+07:00"
+},
+{
+"id": "98e38f9b2332",
+"title": "tajon buchanan",
+"link": "https://www.corsicanadailysun.com/sports/national_sports/spain-la-liga-soccer/image_ed8e0f43-29f7-5818-9e2e-7396c03e76cb.html",
+"summary": "Spain La Liga Soccer (Corsicana Daily Sun)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLzlvmqCVW9TddOlkbmDnxbPnQfJKF7y1bNNk9Fj4hoQBIdJUzGWbAS7UDPYs",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T21:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-22T21:16:32+07:00"
+},
+{
 "id": "fc3e186d843f",
 "title": "bologna đấu với udinese",
 "link": "https://bongdaplus.vn/serie-a/nhan-dinh-bong-da-bologna-vs-udinese-21h00-ngay-22-11-dim-khach-xuong-day-5295792611.html",
@@ -245,7 +269,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T20:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-22T21:11:11+07:00"
 },
 {
@@ -304,6 +328,17 @@
 "cat": "xh",
 "published": "2026-11-22T20:29:00+07:00",
 "found": "2026-11-22T20:40:49+07:00"
+},
+{
+"id": "b30047b191c0",
+"title": "Hội nghị tập huấn công tác bồi thường, hỗ trợ, tái định cư phục vụ dự án đường cao tốc Bảo Hà - Lai Châu (CT.13)",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMnhUc1o2RVpBcEVxamIzQmd0b3Y3N21qS21rRjJwekxhUVNBcjVaYjFlT1FCYVl5SGRwNVBOZ1kxaXVBZjlNU2ptOUowOXIzYlNxaHR5WUl2NTJlTjU0NlF6U0lnbjF0c3JDRGduZmRQNVNjRURKdjREbU15N3dYOTFCVEphZHU3ZHlCVEp4YmhSZXh5ZTVtV0ZHZkhUVGZwSDBZaURZd2Z5R1did1FTMHMwVGJrUU9yRXdJbUxYMWRIX2tpaEtuTFBjcFEtQjdGd0RzNE93?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-22T20:26:00+07:00",
+"found": "2026-11-22T21:16:32+07:00"
 },
 {
 "id": "dd23919f7901",
@@ -1652,6 +1687,17 @@
 "found": "2026-11-22T17:44:28+07:00"
 },
 {
+"id": "2c0212240097",
+"title": "Vinhomes muốn huy động thêm 3.000 tỷ đồng trái phiếu",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOG45MHBLQ3JNSGxMVzN4Tjl0ci1QX2YyMXlZQkxTMFc5Z2lUby1MT2hKRjVveEVzaThGV3hHZGRHY09TSW45WlZibDJ0bzRMUFNyVnU2dl91Rmg0Ym5CRkVTNjNGX0hjMWEwbk5Femg2Sk5iaGJLZUFMREtMb0dBYUZsTlJXMTN0TVBYZlBR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T15:48:00+07:00",
+"found": "2026-11-22T21:16:32+07:00"
+},
+{
 "id": "725cd8773519",
 "title": "Mỹ và EU giảm nhập tôm Việt, dự báo xuất khẩu 2027 ra sao?",
 "link": "https://tuoitre.vn/my-va-eu-giam-nhap-tom-viet-du-bao-xuat-khau-2027-ra-sao-100261122132159534.htm",
@@ -1683,6 +1729,17 @@
 "cat": "xh",
 "published": "2026-11-22T15:43:40+07:00",
 "found": "2026-11-22T16:42:24+07:00"
+},
+{
+"id": "2fb76e6bff22",
+"title": "Chủ động quản trị xuất siêu, phòng tránh rủi ro trong thương mại quốc tế",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY1dOb3VoSjdpc2ljQVBxT1BzaWR6b0JaSjRzSnctWWRWempKNDlHT3lYY3FyNUZrNk9xMVdZUHlfcHZ5bzJaMC1xNk84djBvZUdDMFhPcmhtN2ZGUzZxc1NaalJmanp1eE5pM1BsUzdWRnpPcXJOdi04TXBEc3hIT1h4bTdRem9IRkllOTRGZDlmUGRfZ24ydVRDM3ZFcDZWVkYtZzNydw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T15:42:37+07:00",
+"found": "2026-11-22T21:16:32+07:00"
 },
 {
 "id": "2a95de967d9c",
@@ -7768,6 +7825,17 @@
 "found": "2026-11-21T21:03:55+07:00"
 },
 {
+"id": "e095d5a95459",
+"title": "Tăng nguồn cung, kích cầu tiêu dùng dịp cuối năm và Tết Nguyên đán 2027",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3JHZHI2RUdFcE52bS1ZbVYtaVVoZV95VEwxMTBqa1YwMnh5dHdBSnQ1ME5QSHRGRWR4UlVVSmdKX2VyMjJiQldIekxYQmJyY2pKb1BWYzNCT3hrVUVWOV81bktGT0NoeFZ0S0FBQ1piSUFYLVo1SXlCd0ZPN0JEc1cydnA2X2JzOUpqNFpRX3BMUUhnajhqVERkZmpMSEQzQ2dsZzJR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T20:32:43+07:00",
+"found": "2026-11-22T21:16:32+07:00"
+},
+{
 "id": "8d4903098bea",
 "title": "Công an rà soát loạt giao dịch, tổng 1.740.000.000 đồng do người đàn ông SN 1978 ở Hà Tĩnh chuyển khoản tới tài khoản của Nguyễn Thị Hằng SN 1991",
 "link": "https://kenh14.vn/cong-an-ra-soat-loat-giao-dich-tong-1740000000-dong-do-nguoi-dan-ong-sn-1978-o-ha-tinh-chuyen-khoan-toi-tai-khoan-cua-nguyen-thi-hang-sn-1991-215261121203940553.chn",
@@ -9676,6 +9744,17 @@
 "cat": "tc",
 "published": "2026-11-21T15:39:00+07:00",
 "found": "2026-11-21T15:53:55+07:00"
+},
+{
+"id": "c646157ea22c",
+"title": "Sữa Quốc tế LOF (IDP) sắp chi gần 198 tỷ đồng cổ tức, lợi nhuận 9 tháng gần đạt kế hoạch năm",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZTVWUG5iSXhSY3d4MDJ0M3I4NHVoNmRlajJsMEdEcnhsaTJaUzVGdGNCLWQ0YjZibURxMS05Y2tLMGxoOUZrbG41b0p1TDVwUUMzS2w1OFpOU3hyWjlWZ01EQlc5WVpjSDRveFBCcWN3QmpJQWZLTXAtTlR3NDhNemREN2RmekdIdllxSGpWb0dmMDY4V01RelZoaTd6b0hidUdQNGZJVnlqcW5zZGlNR0F3SjhpM01pLVFmQ0NSQQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T15:36:00+07:00",
+"found": "2026-11-22T21:16:32+07:00"
 },
 {
 "id": "fb939711c3cd",
@@ -12224,6 +12303,17 @@
 "found": "2026-11-21T12:36:34+07:00"
 },
 {
+"id": "ab6a4d76225e",
+"title": "Quốc hội thông qua Nghị quyết về chất vấn: Đẩy nhanh giải ngân đầu tư công, thúc đẩy công nghệ chiến lược",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUFVuUkdyblJ4Vno4bEM4c2hrZFg0ZEhsLWY4dEZzVVdoSmdBY05nZVNMQWwxeTZqdUJFT0hfUTF6amdkZ29xajdIdnRqemFYakZvM1pLU09qWlNjMjdxdno5UnZoVGVwS0t3eTRibW5mdnBWM1JWX3NUZmFFblExdHN0b3FrY3JvcHdiUHAxOXlRS1Z4MERPdndjRTZDV1hEWEJlTXVhaGVIUmpVc3JWRzB5WW5XODhEa2s1dTc4aURUX1RPb0ZtSGJlWlFMZl9RNGc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T11:25:00+07:00",
+"found": "2026-11-22T21:16:32+07:00"
+},
+{
 "id": "69df90f9ab15",
 "title": "Tài sản chung của vợ chồng bắt buộc phải ghi tên cả hai trên sổ đỏ",
 "link": "https://kenh14.vn/tai-san-chung-cua-vo-chong-bat-buoc-phai-ghi-ten-ca-hai-tren-so-do-21526112110552362.chn",
@@ -12645,6 +12735,17 @@
 "found": "2026-11-22T07:47:54+07:00"
 },
 {
+"id": "5cda4bdb5015",
+"title": "Bitcoin thủng mốc 58.000 USD, thấp chưa từng thấy trong 2 năm qua",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUJXcDBsd3I1T09FbEd6VkM0alVndWZGTVh1OE52M3FfbHU2OEJ2b3FyQWJyZE1NRDJOZUUyYnpZTGtaX3hSZHNOVk1DSHB5cklQa1AyLWhHNk1aejkzQWZoaGpjXzdaLTRYak90cW1YZGlCMC1sWDVoTms2RGhRaXZMRWdlZ0haR2lsbmRaUUR6cElsRFhiY2tYUVgwdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T10:57:21+07:00",
+"found": "2026-11-22T21:16:32+07:00"
+},
+{
 "id": "935e0577e8f7",
 "title": "Thông qua Luật Đất đai: Bổ sung cơ chế hỗ trợ phục hồi sinh kế sau thu hồi đất",
 "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeldEMXJsbHFJeDRBc3BxQmJYSmRyUlVoQXNqQWNla1RvUVduV0h6M2JtZzI1Q1JxVDI0X0YwNzVZOHpCc2JuWHlvT3hhNFRaSmNhX1g0SzdpX2VIRnk3MzdTUUs5bzhUNWNqdEZYbVNSMUdpTmpJZm5CMzA2bDdNd0k4WTd5VEtnSWM4ZEM0U3dzcXZrVUJYSk9hdlo5OGQ0TmVoQ0RaWHRpd1R1YTBn?oc=5",
@@ -12853,6 +12954,17 @@
 "cat": "bds",
 "published": "2026-11-21T10:42:28+07:00",
 "found": "2026-11-21T10:59:26+07:00"
+},
+{
+"id": "c110dfd2d5b1",
+"title": "Tín dụng ưu đãi hỗ trợ phát triển vùng đồng bào dân tộc thiểu số và miền núi",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUWJCU25jNUU5Y2dvMkctVEJZUXNWS3Q1Vkk4QVdDOXdQTmpkYlEtNG1SSmVfMHl6Z21LWlIzQTRMcDZiX29EOWFrVVpSbVJZT3pSMVhoQ3dhbXdVdkVBWk12am1xb05BXzNneDdsV0YtZDN1YldtOUpFSlhwR1JIM0h1MmlQeUxZbW4tU2NvOWxveThLU3hqbzdqNWk0MXVDeW1vQXd0bngyMlVSSVE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T10:41:00+07:00",
+"found": "2026-11-22T21:16:32+07:00"
 },
 {
 "id": "9819955aef24",
@@ -27971,116 +28083,6 @@
 "cat": "bds",
 "published": "2026-11-19T20:45:45+07:00",
 "found": "2026-11-19T21:13:47+07:00"
-},
-{
-"id": "86bfd7fd6174",
-"title": "Ấn tượng hình ảnh tổng duyệt 80 năm lực lượng vũ trang Hải Phòng",
-"link": "https://vietnamnet.vn/an-tuong-hinh-anh-tong-duyet-80-nam-luc-luong-vu-trang-hai-phong-2576902.html",
-"summary": "Hải Phòng đang tích cực chuẩn bị cho Lễ kỷ niệm 80 năm ngày truyền thống lực lượng vũ trang thành phố, diễn ra ngày 20/11.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/an-tuong-hinh-anh-tong-duyet-80-nam-luc-luong-vu-trang-hai-phong-2771.jpeg?width=0&s=FLCA0z7kv-qvwwHX6aZl0Q",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T20:44:45+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "6b035b9268a5",
-"title": "TPHCM lên phương án chống ùn tắc sân bay Long Thành",
-"link": "https://cafef.vn/tphcm-len-phuong-an-chong-un-tac-san-bay-long-thanh-188261119204232432.chn",
-"summary": "Chuẩn bị phục vụ sân bay Long Thành vận hành, TPHCM xây dựng phương án điều tiết trên các tuyến cao tốc, quốc lộ và đường kết nối liên vùng, đồng thời xác định lộ trình thay thế để ứng phó khi xảy ra ùn ứ.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795095680758-17950956811992061825659.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-19T20:42:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "8474b6ffaab8",
-"title": "Ông Đặng Lê Nguyên Vũ quyết xây công trình lớn nhất ĐNÁ tại tỉnh duy nhất VN có tên viết \"sai\" chính tả",
-"link": "https://cafef.vn/ong-dang-le-nguyen-vu-quyet-xay-cong-trinh-lon-nhat-dna-tai-tinh-duy-nhat-vn-co-ten-viet-sai-chinh-ta-188261119204625636.chn",
-"summary": "Công trình này sẽ sử dụng công nghệ do Đức cung cấp.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795095621799-1795095622202860359159.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-19T20:41:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "5454ff396c7c",
-"title": "Thái Nguyên khắc phục bất cập về điện tại các khu dân cư",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMW1BSnd3MXhOX3I3SDNTUTl0NV85UC1OZFBIMWZlbXN0aV9ySlZWd09rSV9tdkFfeUNNVmljWkVVbktYa1NaMUZBM3FFaExaSDU5UURnOG9TdkdxNW5wZmJ2dHVoc3JULUNtRGxVMC0wRlRfVVVYd3B2eUY4OGhjdWU0Tm5wcnZwdTB2NTBNY1dDa2c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T20:41:00+07:00",
-"found": "2026-11-20T06:10:02+07:00"
-},
-{
-"id": "7e8d6f5a2a02",
-"title": "Nhận tiền 'bảo kê' vỉa hè, 5 thành viên trật tự đô thị phường lãnh án tù",
-"link": "https://cafef.vn/nhan-tien-bao-ke-via-he-5-thanh-vien-trat-tu-do-thi-phuong-lanh-an-tu-188261119204051521.chn",
-"summary": "5 thành viên Tổ trật tự đô thị phường Phạm Ngũ Lão, quận 1 cũ (nay thuộc phường Bến Thành, TPHCM) nhận tiền định kỳ của các hộ kinh doanh để làm ngơ cho hành vi lấn chiếm lòng, lề đường. Hành vi sai phạm của các bị cáo diễn ra trong thời gian dài, có sự bàn bạc, phân công người…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795095589343-17950955897582005575193.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-19T20:40:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "690af374ccc6",
-"title": "Nhà phố Vịnh Tiên: Lợi thế thanh toán voucher 30% và cam kết tiền thuê 3 năm",
-"link": "https://vietnamnet.vn/nha-pho-vinh-tien-loi-the-thanh-toan-voucher-30-va-cam-ket-tien-thue-3-nam-2576894.html",
-"summary": "Trước 31/12/2026, khách hàng sở hữu voucher tri ân Vinhomes có thể thanh toán tới 30% giá trị nhà phố tại Vinhomes Green Paradise, đồng thời hưởng cam kết tiền thuê 6%/năm trong 3 năm đón đầu cột mốc vận hành hạ tầng, tiện ích.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/nha-pho-vinh-tien-loi-the-thanh-toan-voucher-30-va-cam-ket-tien-thue-3-nam-2733.jpg?width=0&s=PqZi6Y9sPG39S0TbG92ETQ",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-19T20:40:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "28cec13c42c9",
-"title": "Vụ CT6 Kiến Hưng: Viện Kiểm sát đề nghị phương án bồi thường nào?",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLU9FZV9Uc3ZRYUVrMVlBVjBUOHhMM3ZkQ242VTNILXVoZ1pSU0hMQVRWNXFDYm9faWhNdlNLVXdVRjVQcnV3YVFpY1phVkRvWm52RDU0NWg1czh2cms2dUNvUmY0MFNVSkFZWnYxeWI2VmpFWlY3Qi1ydF9mWHVBUFIwby1ZdnRSZmxoaG5tdkRQNzl4Z0FZWVlzR3I?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T20:39:00+07:00",
-"found": "2026-11-19T21:59:49+07:00"
-},
-{
-"id": "555aa6b2ddf5",
-"title": "Khai thác hơn 220 chuyến bay/tuần ở Long Thành 3 tháng đầu",
-"link": "https://cafef.vn/khai-thac-hon-220-chuyen-bay-tuan-o-long-thanh-3-thang-dau-188261119204142634.chn",
-"summary": "Trong 3 tháng đầu khai thác sân bay Long Thành, căn cứ đăng ký của hai hãng hàng không Vietnam Airlines và Vietjet Air, dự kiến có tối đa hơn 220 chuyến bay/tuần được triển khai.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795095354671-17950953551881715833030.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-19T20:37:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "1765756267b4",
-"title": "Công an đề nghị 849 chủ phương tiện mang biển số sau khẩn trương nộp phạt nguội theo Nghị định 168",
-"link": "https://kenh14.vn/cong-an-de-nghi-849-chu-phuong-tien-mang-bien-so-sau-khan-truong-nop-phat-nguoi-theo-nghi-dinh-168-215261119203419797.chn",
-"summary": "Nhiều địa phương liên tiếp công bố danh sách phương tiện vi phạm giao thông qua hệ thống camera giám sát, trong đó có hàng trăm trường hợp bị phát hiện chạy quá tốc độ.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795095165738-1795095166319715230149.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T20:35:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "925c8b91f2a8",
-"title": "Tài xế chạy 101km/h trên đường giới hạn 60km/h ở Bắc Ninh",
-"link": "https://kenh14.vn/tai-xe-chay-101km-h-tren-duong-gioi-han-60km-h-o-bac-ninh-215261119201556347.chn",
-"summary": "Chạy 101km/h trên tuyến đường chỉ cho phép phương tiện lưu thông với tốc độ tối đa 60km/h, tài xế bị phạt 13 triệu đồng và trừ 6 điểm trên giấy phép lái xe.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795094078030-17950940790491502921112.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T20:35:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
 }
 ]
 }
