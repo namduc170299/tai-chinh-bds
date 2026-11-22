@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T13:21:11+07:00",
-"new": 8,
+"updated": "2026-11-22T13:34:04+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 52
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "caa89a75a310",
+"title": "Không khí sôi động tại lễ ra quân dự án Cyra Estero Quy Nhon của CNT Group",
+"link": "https://cafef.vn/khong-khi-soi-dong-tai-le-ra-quan-du-an-cyra-estero-quy-nhon-cua-cnt-group-188261122124338397.chn",
+"summary": "Ngày 19/11, CNT Group tổ chức sự kiện ra mắt dự án Cyra Estero Quy Nhon (Khu Chung cư thương mại dọc đường Huỳnh Tấn Phát, Phường Quy Nhơn, Gia Lai) đánh dấu cột mốc khởi động chiến lược kinh doanh và phân phối dự án tại thị trường bất động sản Quy Nhơn.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/photo1795256643957-1795256644236350183012-17953259480311569493372.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-22T13:30:00+07:00",
+"found": "2026-11-22T13:34:04+07:00"
+},
+{
+"id": "cdd8419225e1",
+"title": "Cần thêm sự chủ động của người nộp thuế",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sbGZja2xhQjJELUM1RTNRY1hkYzFteXhmNW9oOHNpZi1sTXdLdUFUQklHZUxzQXlmbzhJUjUwWE5uZWtPcDdaOGh4QUhRME03Um1yNU4xOUZ6MlhKY2NTNC13N1pMaWE3NkRMNGFPMW0tZEFHOGNLLXc4b0Q?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T13:19:00+07:00",
+"found": "2026-11-22T13:34:04+07:00"
+},
+{
+"id": "c18facfa21e4",
+"title": "Vụ Sen Tài Thu: “Bánh vẽ” lãi cao khiến nhà đầu tư mất 757 tỷ đồng",
+"link": "https://kenh14.vn/vu-sen-tai-thu-banh-ve-lai-cao-khien-nha-dau-tu-mat-757-ty-dong-215261122115006286.chn",
+"summary": "Cần tiền trả nợ và chi tiêu cá nhân, cựu Chủ tịch Tập đoàn Sen Tài Thu Phạm Thị Hòa cùng đồng phạm huy động 1.726 tỷ đồng của nhà đầu tư với mức lãi suất cao, sau đó chiếm đoạt 757 tỷ đồng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795322950523-17953229510201850744902.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T13:19:00+07:00",
+"found": "2026-11-22T13:34:04+07:00"
+},
+{
 "id": "dd9431353887",
 "title": "Diện mạo trung tâm triển lãm với hai khối nhà nghiêng ở Thủ Thiêm",
 "link": "https://vnexpress.net/dien-mao-trung-tam-trien-lam-voi-hai-khoi-nha-nghieng-o-thu-thiem-5147624.html",
@@ -255,6 +288,18 @@
 "cat": "xh",
 "published": "2026-11-22T13:11:00+07:00",
 "found": "2026-11-22T13:21:11+07:00"
+},
+{
+"id": "96fd04d22320",
+"title": "bắt giữ",
+"link": "https://vnexpress.net/mexico-bat-trum-ma-tuy-khet-tieng-sau-cuoc-dau-sung-dam-mau-5147559.html",
+"summary": "Mexico bắt trùm ma túy khét tiếng sau cuộc đấu súng đẫm máu (VnExpress)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRYAi6wLLPGDM_me3oCm8cxeLgrHlDManx-NBYKoharr4lCk3g8c91kGngL0U",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T13:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-22T13:34:04+07:00"
 },
 {
 "id": "a1ea9cdb9b20",
@@ -345,6 +390,17 @@
 "found": "2026-11-22T13:05:58+07:00"
 },
 {
+"id": "1c4bd13e8384",
+"title": "Sân bay Long Thành mở 24-12, khách thêm lựa chọn mùa Tết, lưu ý điểm đi sao cho tiện?",
+"link": "https://tuoitre.vn/san-bay-long-thanh-mo-24-12-khach-them-lua-chon-mua-tet-luu-y-diem-di-sao-cho-tien-100261122110601385.htm",
+"summary": "Từ 24-12, sân bay Long Thành dự kiến khai thác thương mại, mở thêm nhiều đường bay về miền Bắc, miền Trung trước Tết Nguyên đán 2027. Có thêm sân bay để lựa chọn nhưng khách nên bay ở đâu cho tiện, đỡ tốn tiền và tránh lỡ chuyến?",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/211126sanbaylongthanhvnaquangdinh-1795318696626870643581-81-0-1681-2560-crop-17953187062666647926.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T12:54:00+07:00",
+"found": "2026-11-22T13:34:04+07:00"
+},
+{
 "id": "c593f0db2710",
 "title": "Tối nay, xem 3D mapping ở đâu đẹp nhất tại TP.HCM?",
 "link": "https://thanhnien.vn/toi-nay-xem-3d-mapping-o-dau-dep-nhat-tai-tphcm-185261122121637846.htm",
@@ -379,6 +435,17 @@
 "found": "2026-11-22T13:05:58+07:00"
 },
 {
+"id": "78b1a00f36c4",
+"title": "Trúng số 'hy hữu': 12 tờ vé số Bình Phước vừa trúng đặc biệt vừa trúng giải tư, hơn 24 tỉ",
+"link": "https://tuoitre.vn/trung-so-hi-huu-12-to-ve-so-binh-phuoc-vua-trung-dac-biet-vua-trung-giai-tu-hon-24-ti-100261122105514337.htm",
+"summary": "Một khách hàng ở TP.HCM vừa trúng 12 tờ vé số vừa là giải đặc biệt vừa là giải tư của Công ty Xổ số kiến thiết Bình Phước vào chiều 21-11. Đây là trường hợp trúng trùng số rất hiếm gặp qua nhiều năm mở thưởng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/xo-so-17953170162201966797192-456-0-1262-1290-crop-1795321422613896069988.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T12:50:00+07:00",
+"found": "2026-11-22T13:34:04+07:00"
+},
+{
 "id": "4f8d5a45b9a4",
 "title": "TPHCM bán nhà ở xã hội giá chưa tới 15 triệu/m2",
 "link": "https://cafef.vn/tphcm-ban-nha-o-xa-hoi-gia-chua-toi-15-trieu-m2-188261122125436425.chn",
@@ -388,6 +455,17 @@
 "cat": "bds",
 "published": "2026-11-22T12:49:00+07:00",
 "found": "2026-11-22T13:05:58+07:00"
+},
+{
+"id": "741f2b847373",
+"title": "Rủi ro từ những \"thỏa thuận bắt tay\" của cựu CEO Jensen Huang tại Nvidia",
+"link": "https://dantri.com.vn/kinh-doanh/rui-ro-tu-nhung-thoa-thuan-bat-tay-cua-cuu-ceo-jensen-huang-tai-nvidia-20261122083558086.htm",
+"summary": "(Dân trí) - Elon Musk cảnh báo Nvidia có thể vuột mất các mắt xích cung ứng quan trọng khi Jensen Huang rời ghế CEO, hé lộ rủi ro từ thói quen làm ăn tiền tỷ chỉ dựa vào niềm tin cá nhân.",
+"image": "https://cdnphoto.dantri.com.vn/IZrEktbEDbQs8-82bz5F7Xw1y24=/2026/11/22/huang-cropped-1795310792821.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-22T12:48:36+07:00",
+"found": "2026-11-22T13:34:04+07:00"
 },
 {
 "id": "3fe25e305d58",
@@ -478,6 +556,17 @@
 "found": "2026-11-22T12:50:49+07:00"
 },
 {
+"id": "c30ba1cbf534",
+"title": "Nuôi nghêu thoát nghèo và làm du lịch ở Đất Mũi",
+"link": "https://tuoitre.vn/nuoi-ngheu-thoat-ngheo-va-lam-du-lich-o-dat-mui-100261122084737809.htm",
+"summary": "HTX Nghêu Đất Mũi giúp được cho nhiều hộ dân nghèo phát triển vươn lên nhưng đang cần thêm diện tích mặt nước để mở rộng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/dsc04136-17953109767191652880398.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T12:31:00+07:00",
+"found": "2026-11-22T13:34:04+07:00"
+},
+{
 "id": "079561551cc2",
 "title": "lich thi dau u17",
 "link": "https://znews.vn/toi-do-cua-u17-nhat-ban-post1698090.html",
@@ -556,6 +645,17 @@
 "found": "2026-11-22T12:24:07+07:00"
 },
 {
+"id": "f5a7fd475149",
+"title": "Novaland, SMC, BAF chờ cổ đông, nhân viên xuống tiền mua cổ phiếu",
+"link": "https://tuoitre.vn/novaland-smc-baf-cho-co-dong-nhan-vien-xuong-tien-mua-co-phieu-100261122104906855.htm",
+"summary": "Novaland, SMC gia hạn thời gian chào bán cổ phiếu cho cổ đông hiện hữu. BAF hủy hơn 1 triệu cổ phiếu ESOP do người lao động không đăng ký mua.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/novaland-1730711942845108217946-58-0-406-558-crop-17750389951991111701280-178419017051898553027-1795318870758165661819.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T12:18:00+07:00",
+"found": "2026-11-22T13:34:04+07:00"
+},
+{
 "id": "6629d7f9ee9f",
 "title": "Bất động sản nhiễu loạn vì ma trận tin cắt lỗ ảo: Làm sao triệt tận gốc?",
 "link": "https://vietnamnet.vn/bat-dong-san-nhieu-loan-vi-ma-tran-tin-cat-lo-ao-2577579.html",
@@ -610,6 +710,17 @@
 "cat": "tc",
 "published": "2026-11-22T12:08:47+07:00",
 "found": "2026-11-22T12:50:49+07:00"
+},
+{
+"id": "f3aac3a71b87",
+"title": "Luật Nhà ở sửa đổi chính thức cho phép sử dụng căn hộ chung cư để cho thuê lưu trú",
+"link": "https://tuoitre.vn/luat-nha-o-sua-doi-chinh-thuc-cho-phep-su-dung-can-ho-chung-cu-de-cho-thue-luu-tru-100261122102130507.htm",
+"summary": "Quốc hội vừa thông qua Luật Nhà ở sửa đổi, cho phép sử dụng căn hộ chung cư để cho thuê lưu trú, chính thức \"cởi trói\" cho hoạt động lưu trú ngắn hạn, đưa loại hình kinh tế chia sẻ này vào khuôn khổ pháp luật.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/airbnb-17953168518291250912755-168-52-866-1168-crop-17953241331072020273044.jpg",
+"source": "Tuổi Trẻ",
+"cat": "bds",
+"published": "2026-11-22T12:07:00+07:00",
+"found": "2026-11-22T13:34:04+07:00"
 },
 {
 "id": "f486aef07be1",
@@ -4768,6 +4879,17 @@
 "found": "2026-11-22T10:45:30+07:00"
 },
 {
+"id": "6088edd0fc74",
+"title": "Haaland bị khước từ bàn tranh cãi trong trận hòa của Man City",
+"link": "https://vnexpress.net/haaland-bi-khuoc-tu-ban-tranh-cai-trong-tran-hoa-cua-man-city-5147520.html",
+"summary": "Tiền đạo Erling Haaland không được công nhận bàn do lỗi đá bóng trong tay thủ môn, khi Man City hòa Fulham 1-1 ở vòng 11 Ngoại hạng Anh.",
+"image": "https://i1-thethao.vnecdn.net/2026/11/21/a-nh-ma-n-hi-nh-lu-c-179527001-3233-9521-1795270032.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=SRulfS2rnPIwS89mulA_7g",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-21T21:25:56+07:00",
+"found": "2026-11-22T13:34:04+07:00"
+},
+{
 "id": "115d96b77051",
 "title": "como vs",
 "link": "https://bongdaplus.vn/serie-a/nhan-dinh-bong-da-como-vs-cagliari-21h00-ngay-21-11-thang-hoa-cung-fabregas-5294462611.html",
@@ -6251,6 +6373,17 @@
 "cat": "tc",
 "published": "2026-11-21T17:27:00+07:00",
 "found": "2026-11-22T06:16:29+07:00"
+},
+{
+"id": "a7c8a84125a5",
+"title": "Để điện ảnh trở thành ngành công nghiệp sáng tạo có sức cạnh tranh",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjlIZWdpVlBaWEMyUnJ1d1AtamtCeDhyLVFLMXp5S0hGX0hfTzNhQW5yM1V1VFlVbmkwYmdLRGNFOG96T2lNSVpMejJ2U2hKV0w0YW43TWVqVVdINUpaZFZYYjFneFoza0FQQ1A5b1NXXzJnZjhlQTFoTzROR3V3U3pBc3BWaWUzUk5KNnl3MjRZOE5iZzhkRkt5ZHNVYjFX?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T17:24:44+07:00",
+"found": "2026-11-22T13:34:04+07:00"
 },
 {
 "id": "3e04eb455bd7",
@@ -27932,138 +28065,6 @@
 "cat": "tc",
 "published": "2026-11-19T16:08:00+07:00",
 "found": "2026-11-20T02:46:23+07:00"
-},
-{
-"id": "e7ca07a3e93f",
-"title": "CSGT Lào Cai xử lý xe tải chở người trên thùng sau phản ánh trên Facebook",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWThybUZzSWVIa0RGSnJpYmd0OVhXZDU4ZDJGR2lGN1Z6RENBUVlKQmpXaDRnUmtLUGVKall4Y1VtbnE3RnJNaDBvU25uVmFoRUhpcmNqaDR2YjlOeDNIbG5CckRVd0xMcXRKX0VqTnExSFlhd2ZESmt3dVFxbUluak9tSl9rbVpoSEk5SG5JUHpDdVRmcXRCNENTa2pwRmUzY24wUkdjVEkyYy0zSXZwbkxR?oc=5",
-"summary": "Nguồn: Laodong.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-19T16:07:24+07:00",
-"found": "2026-11-20T06:10:02+07:00"
-},
-{
-"id": "6ad06864fab6",
-"title": "Đà Nẵng phê duyệt dự án Khu đô thị Hòa Vang quy mô gần 19.000 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWRnc3hZVEdhTmt2cGpueDlUN0FGUFh4T0VXS0ZIV3p5SzBTX0gwa1IyU3dUcDdrU2lSUnlIcFVURnQwZ09VNXBENVJRS1BfMFJzbUNranR1bXRhUVFOc2d2VjBwTHp1SE5scVBPV2pKSEgxWVBLVDM1am9Ld3BvNHJzaHNzTS0wSVBIZ21fUEhmMlVnQm5RSU1VR3g1MDdtTmlHNA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T16:06:00+07:00",
-"found": "2026-11-19T16:20:32+07:00"
-},
-{
-"id": "8653387426fb",
-"title": "Đề xuất không phạt xe đi quá vạch khi đèn vàng, tái phạm vượt đèn đỏ có thể bị phạt tiền gấp 3 lần",
-"link": "https://tuoitre.vn/de-xuat-khong-phat-xe-di-qua-vach-khi-den-vang-tai-pham-vuot-den-do-co-the-bi-phat-tien-gap-3-lan-100261119154137909.htm",
-"summary": "Cục Cảnh sát giao thông dự kiến thay đổi cách xử phạt lỗi vượt đèn đỏ, trong đó vi phạm nhiều lần sẽ bị phạt tiền lũy kế, đồng thời trừ điểm giấy phép lái xe.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/vi-pham-giao-thong-17950796435501116846749-137-177-1122-1753-crop-17950796716611210806618.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T16:06:00+07:00",
-"found": "2026-11-19T17:35:18+07:00"
-},
-{
-"id": "ca19e648674f",
-"title": "Hà Nội: Cảnh hàng loạt homestay, villa im lìm bên hồ Đồng Đò",
-"link": "https://vietnamnet.vn/canh-hang-loat-homestay-villa-im-lim-ben-ho-dong-do-2574244.html",
-"summary": "Hơn hai tháng qua, hàng chục villa, homestay quanh hồ Đồng Đò (Hà Nội) tạm dừng hoạt động. Một số cơ sở rút cạn nước bể bơi, phủ bạt phòng nghỉ.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/13/canh-hang-loat-homestay-villa-im-lim-ben-ho-dong-do-6.jpg?width=0&s=9aMXer6GLWrYpIuUZHbaeQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T16:05:05+07:00",
-"found": "2026-11-19T16:20:32+07:00"
-},
-{
-"id": "03d76cd00fa6",
-"title": "Bắt 2 người nước ngoài bị truy nã quốc tế ở TP.HCM",
-"link": "https://kenh14.vn/bat-2-nguoi-nuoc-ngoai-bi-truy-na-quoc-te-o-tphcm-21526111915234639.chn",
-"summary": "Bằng nghiệp vụ, công an đã bắt giữ 2 người nước ngoài bị truy nã quốc tế gồm: Shao ZhenQuan và Zhang JinZhu (cùng có quốc tịch Trung Quốc) đang lẩn trốn ở phường Phú Lợi (TP.HCM).",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795076510948-1795076511428870828065.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T16:05:00+07:00",
-"found": "2026-11-19T16:20:32+07:00"
-},
-{
-"id": "3e36faa11f1f",
-"title": "Thủ tướng Lê Minh Hưng chúc mừng 30 năm ngành Chứng khoán Việt Nam",
-"link": "https://cafef.vn/thu-tuong-le-minh-hung-chuc-mung-30-nam-nganh-chung-khoan-viet-nam-188261119160216857.chn",
-"summary": "Thủ tướng kỳ vọng thị trường chứng khoán sẽ có những bước phát triển đột phá, thực sự trở thành kênh huy động vốn trung và dài hạn chủ lực của nền kinh tế.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/thu-tuong-le-minh-hung-1795078672245496816094-16-0-416-640-crop-17950786767211558646776.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-19T16:04:00+07:00",
-"found": "2026-11-19T16:20:32+07:00"
-},
-{
-"id": "a38f01fb09bb",
-"title": "VN-Index giảm 3 phiên liên tiếp, về dưới 1.700 điểm",
-"link": "https://tuoitre.vn/vn-index-giam-3-phien-lien-tiep-ve-duoi-1700-diem-100261119154114635.htm",
-"summary": "VN-Index giảm thêm 13,39 điểm trong phiên 19-11, xuống còn 1.689,62 điểm. Sau ba phiên giảm liên tiếp, chỉ số đã mất tổng cộng 47,27 điểm, tương đương 2,72%, chính thức rơi xuống dưới mốc 1.700 điểm.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/qdi8826-17950772876661427033069-126-350-1358-2322-crop-17950794951501002401142.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T16:04:00+07:00",
-"found": "2026-11-19T16:49:44+07:00"
-},
-{
-"id": "3aab2e1c39f1",
-"title": "Ông Trump nói đùa khi gặp ông Putin bên lề hội nghị APEC",
-"link": "https://vnexpress.net/ong-trump-noi-dua-khi-gap-ong-putin-ben-le-hoi-nghi-apec-5146653.html",
-"summary": "Tổng thống Mỹ chỉ tay về phía lãnh đạo Nga nói đùa, trước khi tiến lại bắt tay và gọi Tổng thống Putin là \"bạn của tôi\", tại cuộc gặp bên lề Hội nghị Cấp cao APEC.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/19/ngang-1795076710-3337-1795076754.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=qDCFnxVAPZyWNzMHukav1g&t=image",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-19T16:03:32+07:00",
-"found": "2026-11-20T09:55:38+07:00"
-},
-{
-"id": "821b7f809a0d",
-"title": "Phu nhân Ngô Phương Ly gặp Phu nhân Bành Lệ Viên tại Thâm Quyến",
-"link": "https://tuoitre.vn/phu-nhan-ngo-phuong-ly-gap-phu-nhan-banh-le-vien-tai-tham-quyen-100261119142541985.htm",
-"summary": "Gặp Phu nhân Ngô Phương Ly trong tà áo dài, Phu nhân Bành Lệ Viên cùng các Phu nhân lãnh đạo, đại diện các nền kinh tế APEC bày tỏ ấn tượng trước vẻ đẹp duyên dáng, thanh lịch của trang phục truyền thống Việt Nam.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/phu-nhan-ngo-phuong-ly-banh-le-vien-1-17950736923921721646008-1795079336964428030482-511-1219-2553-4486-crop-17950794119121947216180.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T16:02:00+07:00",
-"found": "2026-11-19T17:35:18+07:00"
-},
-{
-"id": "edc384a5cfd0",
-"title": "Đề xuất điều chỉnh tổng mức đầu tư, quy hoạch sân bay Gia Bình",
-"link": "https://vnexpress.net/de-xuat-dieu-chinh-tong-muc-dau-tu-quy-hoach-san-bay-gia-binh-5146640.html",
-"summary": "Chủ đầu tư sân bay Gia Bình đề xuất điều chỉnh tăng tổng mức đầu tư, điều chỉnh quy hoạch nhà ga hàng hóa phía Tây, tăng đường lăn tại sân bay quốc tế Gia Bình.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/screenshot-1795076560-2707-1795076847.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=2es6GC-zMUxluv2tdqOVkw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-19T16:01:46+07:00",
-"found": "2026-11-19T16:49:44+07:00"
-},
-{
-"id": "7092645e97d3",
-"title": "Hà Nội chi 958 tỷ đồng tặng quà Tết 2027, ai được nhận tới 10 triệu đồng?",
-"link": "https://vietnamnet.vn/ha-noi-chi-hon-958-ty-dong-tang-qua-tet-dinh-mui-2027-2576786.html",
-"summary": "Hà Nội dự kiến chi hơn 958 tỷ đồng tặng 1,28 triệu suất quà Tết Đinh Mùi 2027, với nhiều mức quà từ 500.000 đồng đến 10 triệu đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/ha-noi-chi-958-ty-dong-tang-qua-tet-2027-ai-duoc-nhan-toi-10-trieu-dong-1817.jpg?width=0&s=43R8CFPSBqQ5zd6hvrIDwg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T16:00:54+07:00",
-"found": "2026-11-19T16:05:19+07:00"
-},
-{
-"id": "5a7c5866b21a",
-"title": "Vạn Xuân Group ra mắt mô hình kiến trúc và sa bàn ảo Happy One Elite",
-"link": "https://vnexpress.net/van-xuan-group-ra-mat-mo-hinh-kien-truc-va-sa-ban-ao-happy-one-elite-5146661.html",
-"summary": "Vạn Xuân Group vừa khai trương bộ đôi sa bàn (mô hình kiến trúc và sa bàn ảo) dự án Happy One Elite tại Sales Gallery Happy One và bắt đầu mở cửa đón khách tham quan từ gày 15/11.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/vne-hinh-1795078428.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q_wmtjxr4gmW5fo0uVbJSg",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-19T16:00:00+07:00",
-"found": "2026-11-19T16:49:44+07:00"
 }
 ]
 }
