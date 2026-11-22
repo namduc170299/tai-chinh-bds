@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T16:24:43+07:00",
-"new": 4,
+"updated": "2026-11-22T16:26:54+07:00",
+"new": 1,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "005edd2bae2f",
+"title": "Hưng Yên: Khởi tố tài xế liên tục đánh lái khiến người đàn ông bám trên xe tử vong",
+"link": "https://vietnamnet.vn/hung-yen-khoi-to-tai-xe-lien-tuc-danh-lai-khien-nguoi-bam-tren-xe-tu-vong-2577618.html",
+"summary": "Biết nạn nhân đang bám trên xe, người đàn ông vẫn tiếp tục lái xe và liên tục đánh lái khiến nạn nhân ngã xuống đường dẫn đến tử vong. Công an Hưng Yên đã khởi tố bị can về tội Giết người.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/22/hung-yen-khoi-to-tai-xe-lien-tuc-danh-lai-khien-nguoi-dan-ong-bam-tren-xe-tu-vong-1260.jpg?width=0&s=mxhxjQdepC65wUiv73Om1w",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T16:25:47+07:00",
+"found": "2026-11-22T16:09:34+07:00"
+},
+{
 "id": "063b9d976754",
 "title": "Tôm Việt làm gì trước 'tứ bề' sức ép?",
 "link": "https://thanhnien.vn/tom-viet-lam-gi-truoc-tu-be-suc-ep-185261122152420077.htm",
@@ -224,6 +235,17 @@
 "found": "2026-11-22T16:24:43+07:00"
 },
 {
+"id": "baa4ef7bb77d",
+"title": "Giá vàng lao dốc khi các tài sản tài chính khác hấp dẫn hơn",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3lNVXRUOHUwMHJXcVpfdXAyLVZBbmdBWUFKbXB4WnV2cEZlTjdQZ19EUjhjaTF6WGkwVEp5cFZ4aHlWalFjR041VHhCVFg4SDNLWTJWUHBnYmpQMGxrN3RlVGZLb0owTmxmeUhtLTdKT1J0Mk5qdzl1RU0zN2piYm1DenpVNlpNNzVZY2licXhvdjljS2Rr?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T16:19:00+07:00",
+"found": "2026-11-22T16:26:54+07:00"
+},
+{
 "id": "71b729cd90f1",
 "title": "Cụ ông tử vong sau khi rơi từ tầng cao xuống đất ở Hà Nội",
 "link": "https://vietnamnet.vn/cu-ong-tu-vong-sau-khi-roi-tu-tang-cao-xuong-dat-o-ha-noi-2577588.html",
@@ -232,17 +254,6 @@
 "source": "VietnamNet",
 "cat": "xh",
 "published": "2026-11-22T16:04:45+07:00",
-"found": "2026-11-22T16:09:34+07:00"
-},
-{
-"id": "005edd2bae2f",
-"title": "Hưng Yên: Khởi tố tài xế liên tục đánh lái khiến người đàn ông bám trên xe tử vong",
-"link": "https://vietnamnet.vn/hung-yen-khoi-to-tai-xe-lien-tuc-danh-lai-khien-nguoi-bam-tren-xe-tu-vong-2577618.html",
-"summary": "Biết nạn nhân đang bám trên xe, người đàn ông vẫn tiếp tục lái xe và liên tục đánh lái khiến nạn nhân ngã xuống đường dẫn đến tử vong. Công an Hưng Yên đã khởi tố bị can về tội Giết người.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/22/hung-yen-khoi-to-tai-xe-lien-tuc-danh-lai-khien-nguoi-dan-ong-bam-tren-xe-tu-vong-1260.jpg?width=0&s=mxhxjQdepC65wUiv73Om1w",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-22T16:00:02+07:00",
 "found": "2026-11-22T16:09:34+07:00"
 },
 {
@@ -28058,17 +28069,6 @@
 "cat": "tc",
 "published": "2026-11-19T17:30:00+07:00",
 "found": "2026-11-19T19:45:01+07:00"
-},
-{
-"id": "c523a565dde3",
-"title": "Hà Nội dồn lực thúc đẩy tăng trưởng kinh tế, quyết tâm đạt mục tiêu 11%",
-"link": "https://vietnamnet.vn/ha-noi-don-luc-thuc-day-tang-truong-kinh-te-quyet-tam-dat-muc-tieu-11-2576825.html",
-"summary": "Để hiện thực hóa mục tiêu tăng trưởng GRDP Hà Nội năm 2026 đạt 11%, thành phố cần tăng khoảng 16,55% trong quý IV, tập trung đẩy nhanh giải ngân đầu tư công, tháo gỡ khó khăn cho doanh nghiệp và các dự án.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/ha-noi-don-luc-thuc-day-tang-truong-kinh-te-quyet-tam-dat-muc-tieu-11-2246.jpg?width=0&s=CIxM8bM4QUYl0usKGfZZsg",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-19T17:27:20+07:00",
-"found": "2026-11-19T17:35:18+07:00"
 }
 ]
 }
