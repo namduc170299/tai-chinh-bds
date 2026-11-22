@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T22:40:47+07:00",
-"new": 4,
+"updated": "2026-11-22T22:56:14+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 44
+"count": 29
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,63 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "4b30a9be98e1",
+"title": "Việt Nam không chỉ bán lúa gạo mà còn xuất khẩu công nghệ nông nghiệp ra thế giới",
+"link": "https://thanhnien.vn/viet-nam-khong-chi-ban-lua-gao-ma-con-xuat-khau-cong-nghe-nong-nghiep-ra-the-gioi-185261122221705507.htm",
+"summary": "Theo Chủ tịch Quốc hội Trần Thanh Mẫn, ngành lúa gạo Việt Nam sẽ hướng đến sự chuyển đổi từ xuất khẩu nông sản sang xuất khẩu công nghệ nông nghiệp để mang lại giá trị cao hơn và khẳng định vị thế quốc gia.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/1k81o09bc-3pe9ia-17953597162971361329393-84-0-1334-2000-crop-17953597278371058595970.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-22T22:55:00+07:00",
+"found": "2026-11-22T22:56:14+07:00"
+},
+{
+"id": "baa4ef7bb77d",
+"title": "Giá vàng lao dốc khi các tài sản tài chính khác hấp dẫn hơn",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3lNVXRUOHUwMHJXcVpfdXAyLVZBbmdBWUFKbXB4WnV2cEZlTjdQZ19EUjhjaTF6WGkwVEp5cFZ4aHlWalFjR041VHhCVFg4SDNLWTJWUHBnYmpQMGxrN3RlVGZLb0owTmxmeUhtLTdKT1J0Mk5qdzl1RU0zN2piYm1DenpVNlpNNzVZY2licXhvdjljS2Rr?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T22:44:43+07:00",
+"found": "2026-11-22T16:26:54+07:00"
+},
+{
+"id": "d86c767fe146",
+"title": "TP400-D6 – Động cơ tạo nên sức mạnh của vận tải cơ A400M",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajRXMkJYcDdMei1DQzBXeEhVRVpXRjJ6MEFCWkpDd010NWctS1N5WWNHOXQtcWZKUDh4SHh3ai1oNlN5bktmY2EyQWk3QXlNSTR2TGxiT19DbmVUbXJhQkFUeGtzVTFSaWxkX0RYc2VxSVpIR01OWG1Ha2dHaVI4WTk3YzlOWFl4WWVIRzAxR3U?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T22:40:36+07:00",
+"found": "2026-11-22T22:56:14+07:00"
+},
+{
+"id": "0a0807ffda7a",
+"title": "liverpool đấu với man utd",
+"link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-liverpool-mu-ruc-lua-derby-nuoc-anh-ngoai-hang-anh-c48a1813227.html",
+"summary": "Trực tiếp bóng đá Liverpool - MU: Fernandes hết lời khen Pochettino (Ngoại hạng Anh) (Tin tức 24h)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBM9axt5aCvMutRP2DjlgMMOkQrfmIZM9Cm-N7MMkUtI89KRtC6eSaj-luVok",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T22:30:00+07:00",
+"traffic": "10000+",
+"found": "2026-11-22T22:56:14+07:00"
+},
+{
+"id": "5cc699bb46f1",
+"title": "liverpool vs man utd",
+"link": "https://www.skysports.com/football/live-blog/13610924/liverpool-vs-man-utd-live-premier-league-match-updates-free-highlights-news-and-score",
+"summary": "Liverpool vs Man Utd LIVE! Premier League match updates, free highlights, news and score (Sky Sports)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjprwGmTrgi7X0pwmcm1U8KuLXqHJ2Fk2lbMhjlChBThvKoSz_Hmk3YTDu2PU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T22:30:00+07:00",
+"traffic": "500+",
+"found": "2026-11-22T22:56:14+07:00"
+},
 {
 "id": "a64df3315824",
 "title": "Nga gây xôn xao vì cố giữ công nghệ cổ hủ mà thế giới \"bỏ thùng rác\" từ lâu: Rồi sau này tất cả sẽ phải khen họ đúng?",
@@ -486,7 +543,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T20:50:00+07:00",
-"traffic": "2000+",
+"traffic": "1000+",
 "found": "2026-11-22T21:11:11+07:00"
 },
 {
@@ -1757,17 +1814,6 @@
 "cat": "tc",
 "published": "2026-11-22T16:20:00+07:00",
 "found": "2026-11-22T16:24:43+07:00"
-},
-{
-"id": "baa4ef7bb77d",
-"title": "Giá vàng lao dốc khi các tài sản tài chính khác hấp dẫn hơn",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3lNVXRUOHUwMHJXcVpfdXAyLVZBbmdBWUFKbXB4WnV2cEZlTjdQZ19EUjhjaTF6WGkwVEp5cFZ4aHlWalFjR041VHhCVFg4SDNLWTJWUHBnYmpQMGxrN3RlVGZLb0owTmxmeUhtLTdKT1J0Mk5qdzl1RU0zN2piYm1DenpVNlpNNzVZY2licXhvdjljS2Rr?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T16:19:00+07:00",
-"found": "2026-11-22T16:26:54+07:00"
 },
 {
 "id": "cd40d5d28597",
@@ -5131,6 +5177,17 @@
 "cat": "bds",
 "published": "2026-11-22T08:15:00+07:00",
 "found": "2026-11-22T08:33:42+07:00"
+},
+{
+"id": "1d5d4ef365b3",
+"title": "Học Bác từ những việc làm bình dị",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52UGk4Mzhha1ZtY3ZMZjJQcnpTQUFDbVhITERndktjeVdWdE1FeGwtX1RpNmRpM214dTcwbzJQemlJWks2MnVZcHJFZ0IwOHJLTVRPLVRmOTBaVjdQYzNHSUtSSmJLYmc2djVLakNqUXB3WWhk?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T08:15:00+07:00",
+"found": "2026-11-22T22:56:14+07:00"
 },
 {
 "id": "e84b46e5ff21",
@@ -28037,61 +28094,6 @@
 "cat": "tc",
 "published": "2026-11-19T21:49:00+07:00",
 "found": "2026-11-19T23:41:24+07:00"
-},
-{
-"id": "33d28852e1cd",
-"title": "Xử phạt nhiều cơ sở cung cấp suất ăn, bếp ăn... cho 913 trường học ở TP.HCM",
-"link": "https://tuoitre.vn/xu-phat-nhieu-co-so-cung-cap-suat-an-bep-an-cho-913-truong-hoc-o-tphcm-100261119205656964.htm",
-"summary": "TP.HCM đã tiến hành kiểm tra các cơ sở cung cấp suất ăn sẵn và các bếp ăn tập thể, căng tin, cơ sở kinh doanh dịch vụ ăn uống tại 913 trường học, đã phát hiện và xử phạt nhiều cơ sở vi phạm an toàn thực phẩm.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/suat-an-1795100615384221242263-109-0-869-1216-crop-17951006360661613237659.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T21:47:00+07:00",
-"found": "2026-11-19T23:41:24+07:00"
-},
-{
-"id": "d7a78f047a8b",
-"title": "VAFI đề xuất giảm 50% thuế giao dịch chứng khoán",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmxGUDltM1h0czdPUDVMUl9XU1FvN05wbG02aXUtMHV5Vm5SVlpJMGZmTGpEelRwV3c0VTRybEFjOE1WazhVQjhUcHdteUI2em1ad1hZOC1yTjZIMXBlUUhVSEFIRHJOU1ZFb2l2NlZkejJOV003N2xhNU5PUTVEQVN0dDQ2WjA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T21:45:00+07:00",
-"found": "2026-11-19T21:59:49+07:00"
-},
-{
-"id": "c105b18e818e",
-"title": "Ông Lê Thanh Thản nói lời sau cùng ngắn gọn, nhóm cựu cán bộ bày tỏ “băn khoăn”",
-"link": "https://kenh14.vn/ong-le-thanh-than-noi-loi-sau-cung-ngan-gon-nhom-cuu-can-bo-bay-to-ban-khoan-215261119212002467.chn",
-"summary": "Nói lời sau cùng trước khi Tòa nghị án, bị cáo Lê Thanh Thản cảm ơn Hội đồng xét xử, không có ý kiến gì thêm; nhóm cựu cán bộ phường Kiến Hưng và Thanh tra quận Hà Đông cũ, đều mong tòa xem xét hành vi, nhân thân và thành tích công tác để lượng hình.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795097926163-17950979265301756550395.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T21:43:00+07:00",
-"found": "2026-11-19T21:59:49+07:00"
-},
-{
-"id": "5b3bb3c97f04",
-"title": "Lại mất mốc 1700 điểm, công ty chứng khoán bình luận gì?",
-"link": "https://vneconomy.vn/lai-mat-moc-1700-diem-cong-ty-chung-khoan-binh-luan-gi.htm",
-"summary": "VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 20/11/2026.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/19/e9bd5c6488d34dce97c10b24201eee4d-137207.gif",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-19T21:36:27+07:00",
-"found": "2026-11-19T21:44:08+07:00"
-},
-{
-"id": "f07ac50e4be7",
-"title": "Thêm 3 giám đốc cao cấp của PNJ từ nhiệm",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yY3ZrY29SZ2JMcVZwYmJWQ1NNQVdIRGFGSWpzamVGeG5JYkhHNUxvV2ROQllQNG1nMUowVGtkVnFmT0NFNXQtZXZsczVWak96M3ZfcVJ6aE9jT2ZkcjkxdUVtV3RxRUJrOXBvRExFc1RVVVZUYlRTZ2xJbkR3Zw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T21:30:30+07:00",
-"found": "2026-11-20T08:27:09+07:00"
 }
 ]
 }
