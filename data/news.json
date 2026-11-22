@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T17:59:55+07:00",
-"new": 1,
+"updated": "2026-11-22T18:15:05+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "98a80bb8a2ea",
+"title": "'Sốt vó' lo giới hạn người mua nhà ở xã hội sau 5 năm",
+"link": "https://cafef.vn/sot-vo-lo-gioi-han-nguoi-mua-nha-o-xa-hoi-sau-5-nam-188261122180116331.chn",
+"summary": "Quy định cho phép bán lại nhà ở xã hội sau 5 năm nhưng giới hạn người mua trong nhóm đủ điều kiện hưởng chính sách đang đặt ra nhiều vấn đề về giá bán, tính thanh khoản và quyền định đoạt tài sản. Khi giá căn hộ có thể tăng gấp nhiều lần so với thời điểm mua ban đầu, liệu người…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795345226329-17953452273032098071877.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-22T18:08:00+07:00",
+"found": "2026-11-22T18:15:05+07:00"
+},
+{
+"id": "8e471a37844d",
+"title": "Doanh nghiệp bất động sản cần làm gì để đón chu kỳ tăng trưởng mới?",
+"link": "https://cafef.vn/doanh-nghiep-bat-dong-san-can-lam-gi-de-don-chu-ky-tang-truong-moi-188261122160404159.chn",
+"summary": "Theo các chuyên gia, bất động sản đang bước vào chu kỳ phát triển mới, doanh nghiệp địa ốc đứng trước nhiều cơ hội cần thay đổi để nắm bắt.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795338192465-1795338193409936950816.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-22T18:08:00+07:00",
+"found": "2026-11-22T18:15:05+07:00"
+},
+{
+"id": "e4c955145209",
+"title": "Đầu tuần tới, nhiệt độ tại Hà Nội có thể xuống đến 14 độ C",
+"link": "https://kenh14.vn/dau-tuan-toi-nhiet-do-tai-ha-noi-co-the-xuong-den-14-do-c-215261122180549212.chn",
+"summary": "Do ảnh hưởng của không khí lạnh, tại khu vực Hà Nội, từ đêm 23 đến ngày 24-11 có mưa, mưa rào rải rác. Ngày 24-11, trời chuyển rét. Nhiệt độ thấp nhất trong đợt không khí lạnh này trên địa bàn thành phố phổ biến từ 14-16 độ C.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795345463202-1795345464297762766981.jpeg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T17:58:00+07:00",
+"found": "2026-11-22T18:15:05+07:00"
+},
+{
 "id": "f90315a4e8f5",
 "title": "Ai được vay nhà, đất lãi suất 3%/năm?",
 "link": "https://thanhnien.vn/ai-duoc-vay-nha-dat-lai-suat-3-nam-185261122175100981.htm",
@@ -222,6 +255,17 @@
 "cat": "tc",
 "published": "2026-11-22T17:56:00+07:00",
 "found": "2026-11-22T17:59:39+07:00"
+},
+{
+"id": "20474282ce57",
+"title": "Mua 12 tờ vé số, trúng 2 giải, nhận hơn 24 tỷ đồng",
+"link": "https://kenh14.vn/mua-12-to-ve-so-trung-2-giai-nhan-hon-24-ty-dong-215261122180336588.chn",
+"summary": "Một khách hàng ở TPHCM sở hữu 12 tờ vé số cùng dãy 025502 của Công ty Xổ số kiến thiết Bình Phước, trúng cả giải đặc biệt và giải tư trong kỳ quay ngày 21/11. Tổng số tiền thưởng người này nhận được là 24 tỷ 36 triệu đồng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795345322968-17953453243061455998177.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T17:56:00+07:00",
+"found": "2026-11-22T18:15:05+07:00"
 },
 {
 "id": "7b637d8327c3",
@@ -243,7 +287,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T17:40:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-22T17:59:39+07:00"
 },
 {
@@ -255,7 +299,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T17:40:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-22T17:59:39+07:00"
 },
 {
@@ -326,6 +370,18 @@
 "found": "2026-11-22T17:29:06+07:00"
 },
 {
+"id": "d4b8f5dd401b",
+"title": "sxmt",
+"link": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-nam-hom-nay-2211-1804761.ldo",
+"summary": "Kết quả xổ số miền Nam hôm nay 22.11 (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTts07_003ZiXw7R7sU4h6R82c-MzDa0o6Fx_RnuzUKUfwJF0UMkv9TamRQ4Cw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T17:20:00+07:00",
+"traffic": "200000+",
+"found": "2026-11-22T18:15:05+07:00"
+},
+{
 "id": "22b0c56540f8",
 "title": "Đột nhập hái trộm ở nhiều vườn cà phê, bị công an mật phục bắt quả tang",
 "link": "https://tuoitre.vn/dot-nhap-hai-trom-o-nhieu-vuon-ca-phe-bi-cong-an-mat-phuc-bat-qua-tang-100261122150952458.htm",
@@ -348,6 +404,17 @@
 "found": "2026-11-22T17:44:28+07:00"
 },
 {
+"id": "95814c6bda2d",
+"title": "5 quỹ cổ phiếu sinh lời tốt nhất 3 năm qua rót tiền vào những mã nào?",
+"link": "https://tuoitre.vn/5-quy-co-phieu-sinh-loi-tot-nhat-3-nam-qua-rot-tien-vao-nhung-ma-nao-100261122151822586.htm",
+"summary": "Trong 3 tháng gần đây, nhóm quỹ mở cổ phiếu có hiệu suất đầu tư tốt nhất 3 năm qua ghi nhận động thái mua ròng đáng chú ý tại một số cổ phiếu như DXG, HPG, HDB, IDC.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/img0736-1-1795334504953416314912-258-0-2181-3076-crop-17953430430041566088715.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T17:16:00+07:00",
+"found": "2026-11-22T18:15:05+07:00"
+},
+{
 "id": "bece73f7d413",
 "title": "Dự báo thời tiết 20/10/2026: Miền Bắc vẫn nắng trên 34 độ, Nam Bộ mưa giông",
 "link": "https://vietnamnet.vn/du-bao-thoi-tiet-20-10-2026-mien-bac-nang-tren-34-do-nam-bo-mua-giong-2566070.html",
@@ -368,6 +435,17 @@
 "cat": "xh",
 "published": "2026-11-22T17:15:13+07:00",
 "found": "2026-11-22T17:29:06+07:00"
+},
+{
+"id": "d519a472adad",
+"title": "Dâu tây nhập có dư lượng thuốc trừ sâu gần 6 lần: Nên công khai tên công ty, xuất xứ lô hàng?",
+"link": "https://tuoitre.vn/dau-tay-nhap-co-du-luong-thuoc-tru-sau-gan-6-lan-nen-cong-khai-ten-cong-ty-xuat-xu-lo-hang-100261122141329636.htm",
+"summary": "Sau thông tin một lô dâu tây nhập khẩu từ Trung Quốc có dư lượng thuốc trừ sâu vượt ngưỡng gần 6 lần, nhiều bạn đọc bày tỏ lo ngại về an toàn thực phẩm, đề nghị kiểm soát chặt không chỉ dâu tây mà cả các loại trái cây nhập khẩu khác.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/dau-tay-nk-1795252838826352313975-43-0-843-1280-crop-1795330075715593914787.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T17:15:00+07:00",
+"found": "2026-11-22T18:15:05+07:00"
 },
 {
 "id": "be6dc0b656e9",
@@ -702,6 +780,17 @@
 "found": "2026-11-22T17:13:55+07:00"
 },
 {
+"id": "55fb03d683ad",
+"title": "Xã Lục Yên giải ngân vốn ngân sách xã đạt 87%",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOThpQjF1MThSem5rbFVodFVDdDNNS0xDaHZtSHEyWEZIdWtXc2NRQVpHUTlDVkhTNlFyUHhCWWV1bEt5TmpvV2ZzTW9QTWN3eDN1VEZDdGVISHhROHM1cWtHYU82a2t3cE9VWmNxaHh1cUQyTTJUVG90cWlva3NBSGZpTQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T16:13:00+07:00",
+"found": "2026-11-22T18:15:05+07:00"
+},
+{
 "id": "a6935d9e27bf",
 "title": "Mâu thuẫn khi hát karaoke, 10 người dùng dao, hung khí hỗn chiến",
 "link": "https://tuoitre.vn/mau-thuan-khi-hat-karaoke-10-nguoi-dung-dao-hung-khi-hon-chien-100261122142027961.htm",
@@ -822,7 +911,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T15:50:00+07:00",
-"traffic": "500+",
+"traffic": "2000+",
 "found": "2026-11-22T16:09:34+07:00"
 },
 {
@@ -15380,6 +15469,17 @@
 "found": "2026-11-20T22:14:37+07:00"
 },
 {
+"id": "f911b0c68b48",
+"title": "Người dân vùng dân tộc thiểu số được vay tới 200 triệu đồng phát triển sinh kế",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTm5QN1JRX0VZaXVmNXpSeHlFYU1qdWFOOXdaYU5TbmxkSmRBek5GcmJFTWVaUFFpR1VVU3RBUU14dmU3d1dSU19IZnQteG82bEtvZ0IxeS1YOWROTEtsUkRqM2VMQjQyMk92LU9TOTZ5NlUtR2hERHM0Z2JmeldfY25aeWRfWUE2MlpXVkRrX0RYU3JSYzI4ZTBtdktvWVBCQXkyVWFKT1FNeDJNX0VPaA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T22:21:00+07:00",
+"found": "2026-11-22T18:15:05+07:00"
+},
+{
 "id": "6cc1a2f2bd3b",
 "title": "Đề xuất thêm loại hình xổ số mới, người chơi biết kết quả ngay",
 "link": "https://kenh14.vn/de-xuat-them-loai-hinh-xo-so-moi-nguoi-choi-biet-ket-qua-ngay-215261120173504982.chn",
@@ -27972,105 +28072,6 @@
 "cat": "mxh",
 "published": "2026-11-19T18:49:54+07:00",
 "found": "2026-11-20T09:55:38+07:00"
-},
-{
-"id": "29aa26a0b816",
-"title": "Hai hài cốt liệt sĩ kèm bia khắc tên Tô Ng... Lang và Nguyễn Gia",
-"link": "https://vnexpress.net/hai-hai-cot-liet-si-kem-bia-khac-ten-to-ng-lang-va-nguyen-gia-5146744.html",
-"summary": "Hai tấm bia xi măng khắc tên đội viên Tô Ng... Lang và Nguyễn Gia được tìm thấy cùng hài cốt liệt sĩ khi lực lượng chức năng khai quật tại xã Quế Phước, ngày 19/11.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/bia-1795084073-3079-1795084081.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Onkq6XsQMUjZoqUYM33iyQ",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-19T18:49:16+07:00",
-"found": "2026-11-19T19:15:02+07:00"
-},
-{
-"id": "dd8237df4e99",
-"title": "Từ bé gái 11 tuổi cứu em bên bờ ao đến vị khách bàn bên đưa người đàn ông trở về từ “cửa tử”: Cuộc giải cứu không tưởng của những người gần nhất",
-"link": "https://kenh14.vn/tu-be-gai-11-tuoi-cuu-em-ben-bo-ao-den-vi-khach-ban-ben-dua-nguoi-dan-ong-tro-ve-tu-cua-tu-cuoc-giai-cuu-khong-tuong-cua-nhung-nguoi-gan-nhat-215261119162749521.chn",
-"summary": "Từ bé gái 11 tuổi cứu em trai đuối nước đến hai nữ điều dưỡng kịp thời hồi sức cho người ngừng tim, những câu chuyện cho thấy ý nghĩa của việc biết sơ cấp cứu khi tai nạn bất ngờ xảy ra.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795079813594-17950798143501719365134.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T18:49:00+07:00",
-"found": "2026-11-19T18:59:52+07:00"
-},
-{
-"id": "821054e779fe",
-"title": "OCB dành 2.000 tỷ đồng ưu đãi lãi suất đến 1,5% cho vay sản xuất kinh doanh",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDJIa2NnanBHQ1VZeEhaUHRobGdfbGNYMExpTkhvNVFlUS13bnNyMm9la2NHcHdWUmpwZUJ0Z1o1OFNHSjAyWVlsa3VjWXY2c252cGdBaElEY040WlVhaVdJR05uSEg3SGxBeDBwMHJPYmI1N2xWemVrTW1rUFJVUjBIbG93eTR5b3lYNFNSM2VFRnlqeWEzalRFUGd2ZlQ2RzN2M2x3MFAyLXM?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T18:48:00+07:00",
-"found": "2026-11-19T18:59:52+07:00"
-},
-{
-"id": "6b19399bdf40",
-"title": "Giá xăng giảm 5 kỳ liên tiếp, Cục Hàng không yêu cầu giảm giá vé máy bay",
-"link": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-5-ky-lien-tiep-cuc-hang-khong-yeu-cau-giam-gia-ve-may-bay-20261119182322303.htm",
-"summary": "(Dân trí) - Cục Hàng không Việt Nam yêu cầu các hãng bay điều chỉnh giá vé phù hợp với diễn biến giá nhiên liệu, không để xảy ra tình trạng tăng nhanh khi nhiên liệu tăng nhưng giảm chậm khi giá đi xuống.",
-"image": "https://cdnphoto.dantri.com.vn/B-M7zCTeurCwc8O-nuh4PYdmSJk=/2026/11/19/img1324-1795086837407.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-19T18:47:53+07:00",
-"found": "2026-11-19T19:15:02+07:00"
-},
-{
-"id": "830c1fc458e7",
-"title": "Hưởng ứng Ngày Văn hóa Việt Nam 24/11: Tặng 30 vé xem chương trình “Sơn Thần Thủy Quái”",
-"link": "https://kenh14.vn/huong-ung-ngay-van-hoa-viet-nam-24-11-tang-30-ve-xem-chuong-trinh-son-than-thuy-quai-215261119183821456.chn",
-"summary": "Hưởng ứng Ngày Văn hóa Việt Nam 24/11, Cổng Thông tin điện tử Bộ Văn hóa, Thể thao và Du lịch phối hợp với Liên đoàn Xiếc Việt Nam tổ chức hoạt động tặng vé xem chương trình “Sơn Thần Thủy Quái” tới khán giả. Với tổng số 30 vé được trao tặng tại 3 buổi biểu diễn trong hai ngày…",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/12-edit-1791790186302-1795088189807-1795088190125826762674-0-0-1084-1735-crop-17950882267931268579201.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T18:47:00+07:00",
-"found": "2026-11-19T18:59:52+07:00"
-},
-{
-"id": "f8c545bb2031",
-"title": "Giá cà phê giảm 8 phiên liên tiếp, điều gì đang xảy ra?",
-"link": "https://tuoitre.vn/gia-ca-phe-giam-8-phien-lien-tiep-dieu-gi-dang-xay-ra-100261119180141858.htm",
-"summary": "Giá cà phê giảm liên tục và hiện xuống mức thấp nhất trong khoảng hơn 2 năm rưỡi qua.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/2aobordii73mxln1ucdu1j8wl6quhrjxj1fhum5i-17950855306131773522379-92-0-1629-2459-crop-17950857212631790499946.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T18:47:00+07:00",
-"found": "2026-11-19T19:45:01+07:00"
-},
-{
-"id": "b021a748ea63",
-"title": "Thủ tướng: Giảm áp lực để việc học mang lại cả niềm vui và tri thức",
-"link": "https://vnexpress.net/thu-tuong-giam-ap-luc-de-viec-hoc-mang-lai-ca-niem-vui-va-tri-thuc-5146759.html",
-"summary": "Thủ tướng Lê Minh Hưng nhấn mạnh cần chung tay khắc phục bệnh thành tích, giảm áp lực để việc học thực sự mang lại niềm vui, tri thức và giá trị tốt đẹp.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/base64-1795087347-5059-1795087798.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=BIWYiO08co-rQGow-ks4wA",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-19T18:46:49+07:00",
-"found": "2026-11-19T19:15:02+07:00"
-},
-{
-"id": "9044adaeefc6",
-"title": "Tây Ninh sẽ khởi công đường Long An - Tân Ninh ngày 30-12-2026",
-"link": "https://tuoitre.vn/tay-ninh-se-khoi-cong-duong-long-an-tan-ninh-ngay-30-12-2026-100261119183311335.htm",
-"summary": "UBND tỉnh Tây Ninh đã yêu cầu bảo đảm mặt bằng đoạn từ xã Đức Huệ đến xã Bến Cầu, để có thể khởi công dự án Trục kết nối Long An - Tân Ninh đúng thời gian dự kiến. Riêng UBND phường Long An cũng đã có kế hoạch thời gian chi trả tiền mặt bằng đối với dự án này.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/edit-duong-long-an-tan-ninh-1795087455826608897062-0-191-1248-2188-crop-17950878450471004546195.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T18:45:00+07:00",
-"found": "2026-11-19T19:30:12+07:00"
-},
-{
-"id": "6e07debf09b2",
-"title": "Vụ nổ gas làm 3 người chết ở TPHCM, xem xét khởi tố cá nhân liên quan",
-"link": "https://vietnamnet.vn/vu-no-gas-lam-3-nguoi-chet-o-tphcm-xem-xet-khoi-to-ca-nhan-lien-quan-2576844.html",
-"summary": "Sau vụ nổ gas khiến 3 người tử vong tại phường Tân Thuận, Công an TPHCM xác định sự cố xuất phát từ hoạt động sang chiết gas trái phép, đang điều tra, xem xét khởi tố và xử lý các cá nhân liên quan.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/vu-no-gas-lam-3-nguoi-chet-o-tphcm-xem-xet-khoi-to-ca-nhan-lien-quan-2342.jpg?width=0&s=2YHpu46hChoBBsi2bSIaCQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T18:44:35+07:00",
-"found": "2026-11-19T18:16:55+07:00"
 }
 ]
 }
