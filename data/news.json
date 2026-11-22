@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T06:20:36+07:00",
-"new": 2,
+"updated": "2026-11-23T06:35:46+07:00",
+"new": 14,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 31
+"count": 30
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,121 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "9b8e09a7f1e6",
+"title": "Sắp thêm 11.000 phòng khách sạn cao cấp tại Phú Quốc",
+"link": "https://cafef.vn/sap-them-11000-phong-khach-san-cao-cap-tai-phu-quoc-188261123060034072.chn",
+"summary": "Phú Quốc có thể thêm khoảng 11.000 phòng khách sạn cao cấp trong giai đoạn 2027-2030, phần lớn gia nhập thị trường vào năm 2027-2028. Quy mô nguồn cung khách sạn 4-5 sao có thể tăng gần gấp đôi so với hiện nay, chủ yếu tập trung tại Nam đảo và gắn với các thương hiệu quản lý…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795388381354-17953883817231603222205.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-23T06:33:00+07:00",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
+"id": "c09fe352b397",
+"title": "Người trẻ đưa di sản TP.HCM lên không gian số",
+"link": "https://tuoitre.vn/nguoi-tre-dua-di-san-tphcm-len-khong-gian-so-100261123061519647.htm",
+"summary": "Cuộc thi Sáng tạo video ngắn Heritage Ho Chi Minh City 2026 trao giải cho 10 video xuất sắc, ghi dấu cách người trẻ ứng dụng công nghệ và sáng tạo nội dung để khám phá, kể chuyện, lan tỏa giá trị di sản TP.HCM.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/2hgb6foxdndqq9gajdsz8ei6edqm4dfyn2hm-17953881291331870015809-498-719-1042-1590-crop-17953890270471298803204.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-23T06:28:00+07:00",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
+"id": "6925fdb4b0d8",
+"title": "Giá vàng hôm nay 23/11: Bật tăng gần 40 USD ngay khi mở cửa tuần mới",
+"link": "https://vietnamnet.vn/gia-vang-hom-nay-23-11-bat-tang-gan-40-usd-ngay-khi-mo-cua-tuan-moi-2577570.html",
+"summary": "Giá vàng thế giới mở cửa phiên giao dịch đầu tuần mới (23/11) tăng mạnh, có thời điểm vọt lên 3.582 USD/ounce. Chỉ trong thời gian ngắn, giá vàng tăng gần 40 USD/ounce, tương đương 1,12%.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/11-bat-tang-gan-40-usd-ngay-khi-mo-cua-tuan-moi-256.jpg?width=0&s=dFFjlkb5WPL06z40epg4Zw",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-23T06:24:41+07:00",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
+"id": "36547c9472f6",
+"title": "quang lê",
+"link": "https://cafef.vn/nam-ca-si-sn-1979-tu-my-ve-viet-nam-lam-an-toi-noi-that-dat-nuoc-minh-dep-vo-cung-188261121125042749.chn",
+"summary": "Nam ca sĩ SN 1979 từ Mỹ về Việt Nam làm ăn: \"Tôi nói thật, đất nước mình đẹp vô cùng\" (CafeF)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7fq4oH0LJpez2lYwIs2DB4I7SWz2-cNFy7h6XUMuyefBMOhjBllvrYkrlvVc",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T06:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
+"id": "31846af52bb3",
+"title": "park hang-seo",
+"link": "https://www.saostar.vn/sao-sport/hlv-park-hang-seo-bao-tin-vui-giua-luc-hlv-kim-sang-sik-sap-chia-tay-202611222357511234.html",
+"summary": "HLV Park Hang Seo báo tin vui giữa lúc HLV Kim Sang Sik hết hợp đồng (Tạp chí Saostar)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReowCOX-L9IUr3Z2kVYL8mZ7RvtkBfBkTF2TjxkPqZC82PZIpZsNMhwvbENCE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T06:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
+"id": "c0d3ce837edc",
+"title": "giá cà phê",
+"link": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2311-gia-ca-phe-trong-nuoc-va-the-gioi-on-dinh-post1352445.vov",
+"summary": "Giá cà phê hôm nay 23/11: Giá cà phê trong nước và thế giới ổn định (VOV.VN)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe6DRwZ0W36LgH07QOABgBab-X0GkPgTQM9Q8CkUq36OXGvB6jECY1iufTof4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T06:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
+"id": "d4a96ca63515",
+"title": "nhiệt độ hà nội hôm nay",
+"link": "https://laodong.vn/du-lich/cong-dong/thoi-tiet-mien-bac-sap-mua-tro-lai-ret-nhat-duoi-10-do-c-1804588.html",
+"summary": "Thời tiết miền Bắc sắp mưa trở lại, rét nhất dưới 10 độ C (Laodong.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWM4hsAGvKJRBmKkJsPnwjsezdClPTbZci8J3m4XcoF4ZSph3J2sdzHC43MOk",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T06:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
+"id": "4690385492db",
+"title": "Giá vàng SJC lao dốc, mất gần 58 triệu đồng/lượng so với đỉnh",
+"link": "https://dantri.com.vn/kinh-doanh/gia-vang-sjc-lao-doc-mat-gan-58-trieu-dongluong-so-voi-dinh-20261123011228458.htm",
+"summary": "(Dân trí) - Sau khi lập đỉnh lịch sử 191,3 triệu đồng/lượng, giá vàng miếng SJC liên tục đi xuống, hiện thấp hơn gần 58 triệu đồng/lượng. Riêng tuần qua, mặt hàng này mất tới 6,5 triệu đồng/lượng ở chiều mua vào.",
+"image": "https://cdnphoto.dantri.com.vn/Os17hl60FlGFSVe4gRGf6P4TSfI=/2025/08/29/xoa-bo-co-che-doc-quyen-vang-mieng-gia-vang-sap-het-thoi-tau-luon-1756402092710.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-23T06:13:29+07:00",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
+"id": "896e50078497",
+"title": "Chứng khoán toàn cầu lao dốc, gần 9.000 tỷ USD vốn hóa bốc hơi",
+"link": "https://dantri.com.vn/kinh-doanh/chung-khoan-toan-cau-lao-doc-gan-9000-ty-usd-von-hoa-boc-hoi-20261123050219322.htm",
+"summary": "(Dân trí) - Làn sóng bán tháo dữ dội khiến vốn hóa toàn cầu bốc hơi gần 9.000 tỷ USD. Chỉ số S&P 500 chính thức rơi vào vùng điều chỉnh, đẩy giới đầu tư vào thế giằng co giữa nỗi sợ và cơ hội bắt đáy.",
+"image": "https://cdnphoto.dantri.com.vn/3VPibiQ8M2_k3k01tsSw7wau-nA=/2026/11/23/stock-cropped-1795384584241.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-23T06:10:11+07:00",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
+"id": "9c0d7b97390c",
+"title": "nashville đấu với cincinnati",
+"link": "https://baonghean.vn/truc-tiep-nashville-sc-vs-fc-cincinnati-hiep-2-bat-dau-fc-cincinnati-dan-1-0-10356420.html",
+"summary": "Trực tiếp Nashville SC vs FC Cincinnati: Hiệp 2 bắt đầu, FC Cincinnati dẫn 1-0 (Báo Nghệ An)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMZixQdao_yOSf05iXl67PSrqoISt2f8c8IMrrMbkDjBBePSor2l82NO05uqc",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T06:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-23T06:35:46+07:00"
+},
 {
 "id": "73393cf6602f",
 "title": "Ðể vốn tín dụng đến đúng địa chỉ",
@@ -290,6 +405,18 @@
 "found": "2026-11-23T06:05:27+07:00"
 },
 {
+"id": "5826a5c6648e",
+"title": "the thao",
+"link": "https://thanhnien.vn/tphcm-mo-hoi-sau-20-nam-cho-doi-185261122122143024.htm",
+"summary": "TP.HCM 'mở hội' sau 20 năm chờ đợi (Thanh Niên)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdQOHZKUeKHcKRsaPwAm7PKNKJyJZ9hb76n0LrucgNu1WeA6v10QGNfexy9dw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T06:00:00+07:00",
+"traffic": "500+",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
 "id": "33e5b15a9455",
 "title": "Có nhà, sân bê tông, chuồng trại: Căn cứ nào xác định đất ở khi làm sổ đỏ?",
 "link": "https://vietnamnet.vn/cach-tinh-dat-o-khi-lam-so-do-dat-co-nha-san-be-tong-chuong-trai-2577415.html",
@@ -336,6 +463,18 @@
 "found": "2026-11-23T06:05:27+07:00"
 },
 {
+"id": "e6486c62b646",
+"title": "đông nam a",
+"link": "https://tuoitre.vn/chi-1-nen-bong-da-dong-nam-a-gianh-ve-du-du-4-vong-chung-ket-chau-a-nam-2027-10026112112150595.htm",
+"summary": "Chỉ 1 nền bóng đá Đông Nam Á giành vé dự đủ 4 vòng chung kết châu Á năm 2027 (Báo Tuổi Trẻ)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1XNdFPkdD6M-DYVs_grwkmCkPLoWonwdWzjxRTv64oHGDm7uwFD_62hBRgkg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T05:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
 "id": "e6f6ef24fd38",
 "title": "Chị kiện chia hơn 3.700m2 đất, em trai nói cha mẹ đã chia từ lâu",
 "link": "https://vietnamnet.vn/chi-kien-chia-hon-3-700m2-dat-em-trai-noi-cha-me-da-chia-tu-lau-2577597.html",
@@ -379,7 +518,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T05:40:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-23T06:05:27+07:00"
 },
 {
@@ -4794,6 +4933,17 @@
 "found": "2026-11-22T14:51:42+07:00"
 },
 {
+"id": "7e236d03fc67",
+"title": "Chuyển những khoản thuế được miễn giảm thành năng lực sản xuất, việc làm",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2VlTk1QVVZaMFBPNGRPY3lFejdKcGliRjlmVE1fTDRVWEFtWHdlNGhWWXdrMWhUeS1aaUJXb3hjdWIzSVNLZHEtVXpPakIxaWtOSmRRb1hkM19UTF80Xy14a1RmOTdPZXVmT0szekRVdHRwQzI3b2d5ZHl2emtnTXhHaHJDX2ZQeDhueExUY2U4X3l1QlJxQ1JiT0ROUWJWbDNKQS16RQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T11:56:00+07:00",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
 "id": "594bacc105de",
 "title": "Miền Bắc sắp rét 14 độ, miền Trung có nơi mưa trên 200mm",
 "link": "https://kenh14.vn/mien-bac-sap-ret-14-do-mien-trung-co-noi-mua-tren-200mm-215261122114853889.chn",
@@ -7469,18 +7619,6 @@
 "source": "Báo Mới",
 "cat": "tc",
 "published": "2026-11-22T06:30:00+07:00",
-"found": "2026-11-22T06:46:53+07:00"
-},
-{
-"id": "6fbe554c5e17",
-"title": "quang lê",
-"link": "https://soha.vn/nam-ca-si-sn-1979-tu-my-ve-viet-nam-lam-an-toi-noi-that-dat-nuoc-minh-dep-vo-cung-198261121130533405.htm",
-"summary": "Nam ca sĩ SN 1979 từ Mỹ về Việt Nam làm ăn: \"Tôi nói thật, đất nước mình đẹp vô cùng\" (SOHA)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsAaU8SasV39EcuhtE-h5h21F3qpQTTWc76bsda-lD3gCibj6sNhkr5GeCy6M",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T06:30:00+07:00",
-"traffic": "200+",
 "found": "2026-11-22T06:46:53+07:00"
 },
 {
@@ -18336,18 +18474,6 @@
 "found": "2026-11-20T22:45:33+07:00"
 },
 {
-"id": "d7794c7ac1b1",
-"title": "the thao",
-"link": "https://tuoitre.vn/he-lo-le-khai-mac-hap-dan-cua-dai-hoi-the-thao-toan-quoc-2026-100261119220007009.htm",
-"summary": "Hé lộ lễ khai mạc hấp dẫn của Đại hội Thể thao toàn quốc 2026 (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN95aRXAupHK8DgVhsGCPItueIOSu47DB2qdb3ojxR2pQcy6wlyz7qBjcoC0A",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T22:40:00+07:00",
-"traffic": "100+",
-"found": "2026-11-20T23:05:31+07:00"
-},
-{
 "id": "725c9d6c8792",
 "title": "Cổ phiếu Anthropic lên sàn ấn tượng vẫn không dập tắt nỗi lo đầu tư AI",
 "link": "https://tuoitre.vn/co-phieu-anthropic-len-san-an-tuong-van-khong-dap-tat-noi-lo-dau-tu-ai-100261120221143058.htm",
@@ -25569,6 +25695,17 @@
 "found": "2026-11-20T10:44:50+07:00"
 },
 {
+"id": "a3a8bbc8bd3b",
+"title": "Sắp hết thời hạn, dự án hơn 694 tỷ đồng vẫn vướng mặt bằng",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX193SVRqY0d3TG02LV9xbnp1MjdTazRXMm1YQzd5ZUFsT29BT0V4bkRyeTQ5RzFwZGQ1ejRYX3NZelo0SU9acGVJZ19lVmgwc2pINnBZQ2N1R2xRNm0zOTVNbGtscGVKeGJ5dVVFSmFjOXJoUi1sSUw4WHJ0a1ZFS3ZVeW9aQklNNFF6dHhBazdGLXlD?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-20T10:20:00+07:00",
+"found": "2026-11-23T06:35:46+07:00"
+},
+{
 "id": "3f550cda5cb8",
 "title": "Luật sư của Phó Đức Nam kiến nghị đưa thân chủ của mình đi giám định tâm thần",
 "link": "https://vietnamnet.vn/luat-su-cua-pho-duc-nam-kien-nghi-dua-than-chu-cua-minh-di-giam-dinh-tam-than-2568977.html",
@@ -27983,142 +28120,6 @@
 "cat": "mxh",
 "published": "2026-11-20T07:01:02+07:00",
 "found": "2026-11-20T10:29:40+07:00"
-},
-{
-"id": "38536cf2f054",
-"title": "'Thủ phủ dừa' Việt Nam đặt mục tiêu xuất khẩu 1 tỷ USD",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVV9NNVdiUHNVWjFtRjZ2NVdMRXVmSEtXMlZGZ3A0ZndKcFZRUzdQX0Nxdl9YSS1pdVdTWXVUZnhoTHJ0ay1JU1ZpRzB4THl1X1Y3NVFaMEtydXF4QTFVNnhlMGNKQ0x0MjE4d19EYUhxclNPeElrZ3hFM0Zmekg4enBqMXh2c2RjVEExbHRn?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T07:00:56+07:00",
-"found": "2026-11-20T07:10:58+07:00"
-},
-{
-"id": "4df98c80b6e4",
-"title": "Ngân hàng rao bán món nợ gần 1.000 tỷ thời ông Hà Văn Thắm",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXFHUi1qZFZjQWs2M2pnZzNtNlFBOUFRWjhwQ2M4MUJQeTJWR0YwUkVOcXlwSmdXcGwzZHFBNzhMR1JqR01ZOWFFWEZhNUFLVVhVVG9DakpGMmpwSXBxMzBQQVlkd29UdVo4S3VJSGNpRmNGWklZa2ttTDhyaW51R3l6SURDNnpEMkw0aTE3dVZfS096UEE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T07:00:00+07:00",
-"found": "2026-11-20T07:10:58+07:00"
-},
-{
-"id": "35c222305210",
-"title": "Nghệ thuật kiến tạo tài sản từ con số không, 4 nguyên tắc quản trị dòng tiền của giới tinh hoa",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHJqY3diMVhENWRrSllRY0FWVVZYUE1NZmJjakR6RWxteUhobHZIQmtYMHpwdlFySkxOWWJnSEQ3d1ZnZHBqS28tX1p1QW9lNDBKMXNfNVRyWEhIdjhjV2h6dHl5UkNDNFVfZGtxTG1uaFQ1Tk0zaGVyQnRydDFZNHB5Y3ZRUjNXMkhHWDN6bzNVdkp1U3h4U1ZGOXNLZlpqNVVnbzVWdUFxUjItaDhpZ1pkSVNUM21wWVU0anZNSHdObkZm?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T07:00:00+07:00",
-"found": "2026-11-20T07:10:58+07:00"
-},
-{
-"id": "07e4142d79a9",
-"title": "Hàng không, ngân hàng, công nghệ Mỹ chao đảo sau một tuần sự cố",
-"link": "https://dantri.com.vn/kinh-doanh/hang-khong-ngan-hang-cong-nghe-my-chao-dao-sau-mot-tuan-su-co-20261119184737990.htm",
-"summary": "(Dân trí) - Chuỗi gián đoạn kỹ thuật liên tiếp từ Microsoft, FAA đến các ngân hàng lớn đặt hạ tầng công nghệ của doanh nghiệp trước thử thách lớn về năng lực vận hành liên tục.",
-"image": "https://cdnphoto.dantri.com.vn/3A1CU8SwNRrpWs2YUUmPLHfQ4wU=/2026/11/19/novembers-technology-disruptions-cropped-1795088107426.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-20T07:00:00+07:00",
-"found": "2026-11-20T07:26:10+07:00"
-},
-{
-"id": "f182b823de53",
-"title": "orlando city đấu với cincinnati",
-"link": "https://thethao247.vn/441-nhan-dinh-orlando-city-vs-fc-cincinnati-ngay-phan-quyet-7h30-ngay-20-11-2026-c288-d445967.html",
-"summary": "Nhận định Orlando City vs FC Cincinnati: Ngày phán quyết, 7h30 ngày 20/11/2026 (Thể Thao 247)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtyc57K3YLgCZaDKIdyUV8dNoPRPbt2De-RQO-R2Rut4cBb6p8UB5Pp7aGpwg",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T07:00:00+07:00",
-"traffic": "500+",
-"found": "2026-11-20T07:26:10+07:00"
-},
-{
-"id": "3a05662571b8",
-"title": "xổ số tây ninh ngày 19 tháng 11",
-"link": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-nam-ngay-1811-1802659.ldo",
-"summary": "Kết quả xổ số miền Nam ngày 18.11 (Laodong.vn)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFfA6X3UWdH-6-Ry8GPdjzcuBesIoWinsGxQJRZL2pC1nNtCdUxrXSG6c-jhM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T07:00:00+07:00",
-"traffic": "200000+",
-"found": "2026-11-20T07:26:10+07:00"
-},
-{
-"id": "aab2988cb39a",
-"title": "bê tông",
-"link": "https://cafef.vn/phat-hien-264-coc-be-tong-khong-lo-duoc-cam-xuong-long-dat-cung-16500-tam-kinh-bao-phu-thi-cong-toa-nha-cao-tuong-duong-landmark-81-188261119141317518.chn",
-"summary": "Phát hiện 264 cọc bê tông khổng lồ được cắm xuống lòng đất cùng 16.500 tấm kính bao phủ, thi công tòa nhà cao tương đương Landmark 81 (CafeF)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTurUV6Duzw9kRf6soKlc77lPFlq6Fxw9UjE7az3yi8rf7zxQZRMvnRiCZfv4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T07:00:00+07:00",
-"traffic": "200+",
-"found": "2026-11-20T07:26:10+07:00"
-},
-{
-"id": "d54ddd9bcde6",
-"title": "xs binh dinh",
-"link": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-nam-ngay-1811-1802659.ldo",
-"summary": "Kết quả xổ số miền Nam ngày 18.11 (Laodong.vn)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFfA6X3UWdH-6-Ry8GPdjzcuBesIoWinsGxQJRZL2pC1nNtCdUxrXSG6c-jhM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T07:00:00+07:00",
-"traffic": "200000+",
-"found": "2026-11-20T07:41:21+07:00"
-},
-{
-"id": "468639c7e58c",
-"title": "Nghiệm từ yêu hóa thù hận, Chơn chạy đua giải cứu Phù Sa | Phù sa | Tập cuối",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZNGE5ekVlampTN3l0MHVGVFlmUVgxbjVHYWROT2JOdXczTW1USXJLcERwb2FFN3MwNkNQZXFhSnBfRXBSQ2c?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T07:00:00+07:00",
-"found": "2026-11-20T15:33:19+07:00"
-},
-{
-"id": "8df08ff1dff8",
-"title": "Thịt bò giả ngâm hóa chất: Nguy hại sức khỏe khó lường",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5ndGZvak5yY1YtRHNDMkVOeDJGdXBKQ1p0eVBFWkgwZEhRWmZPbjRMS3VwRTF2NWlDM1A3cGZCTEY?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T07:00:00+07:00",
-"found": "2026-11-20T03:47:43+07:00"
-},
-{
-"id": "f5770e39ae4b",
-"title": "Đình chỉ giáo viên kỷ luật học sinh bằng kim tiêm",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9xUTZUYjVVbm5QY1pUT3NPX1owSWJjLVNEOWFaZEZMdGtZSmdRTHhIeUoyUElzeXp3NHFoLUROUlM?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T07:00:00+07:00",
-"found": "2026-11-20T11:15:09+07:00"
-},
-{
-"id": "887dab1a2b89",
-"title": "Thị trường dầu mỏ đầy biến động",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE0xdFM1SE9OQXZURjk5cmFJbEJVZmx6SVFWaHpId1g2cXVacUhDSzZrU1V0V1Q2ZHN5SkxzU1lQVGs?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T07:00:00+07:00",
-"found": "2026-11-21T12:10:20+07:00"
 }
 ]
 }
