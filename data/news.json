@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T06:46:53+07:00",
-"new": 9,
+"updated": "2026-11-22T07:02:04+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 52
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,51 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "ca69f618693d",
+"title": "Bếp ăn 0 đồng ấm lòng của người lao động nghèo",
+"link": "https://thanhnien.vn/bep-an-0-dong-am-long-cua-nguoi-lao-dong-ngheo-185261121183522101.htm",
+"summary": "Giữa nhịp sống tất bật, bếp ăn 0 đồng tại P.Bình Thới (TP.HCM) mỗi ngày chuẩn bị khoảng 250 suất cơm trưa miễn phí. Không cần trả tiền, không phân biệt hoàn cảnh, ai có nhu cầu đều có thể đến dùng bữa.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-bep-an-0-dong-1795260587946454297657-32-0-672-1024-crop-1795260835336143597163-1795260844780481197983.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-22T07:00:00+07:00",
+"found": "2026-11-22T07:02:04+07:00"
+},
+{
+"id": "2bd6742a14f5",
+"title": "Đang nợ xấu nhóm 5 có vay ngân hàng được không, bao lâu được xóa trên CIC?",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGJUNVVXQl9WLUhtUnlmVF9sUV9JeGJteFJlSWk3NzAzZWpoSUtBczl6b19yQVBzYThWTUlsQnZaTUpwblZrc2plVjAtc1ZVQXpMbmdtQmV0Y2pYem1EbjlmSy05LUp3TGdkczg5dUhCUVFSa2hDbC04eTc0U3dKYkh2X3hrWXppNHZKTVJ5cThwZmVvMlpnc2tPVXlUUjc2NDdTS2dJdW4?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T06:55:00+07:00",
+"found": "2026-11-22T07:02:04+07:00"
+},
+{
+"id": "c7a2e3d44a65",
+"title": "Thành phố đáng sống bậc nhất Việt Nam nghiên cứu mở rộng Khu thương mại tự do thêm 1.205ha, 2 vị trí nằm gần ga đường sắt tốc độ cao, sân bay Chu Lai và loạt cảng biển",
+"link": "https://kenh14.vn/thanh-pho-dang-song-bac-nhat-viet-nam-nghien-cuu-mo-rong-khu-thuong-mai-tu-do-them-1205ha-2-vi-tri-nam-gan-ga-duong-sat-toc-do-cao-san-bay-chu-lai-va-loat-cang-bien-215261122064331706.chn",
+"summary": "UBND xã Tam Mỹ, TP Đà Nẵng vừa tổ chức hội nghị lấy ý kiến người dân về phương án mở rộng ranh giới Khu thương mại tự do Đà Nẵng tại 2 vị trí với tổng diện tích khoảng 1.205ha.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795304401090-1795304414797887759865.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T06:46:00+07:00",
+"found": "2026-11-22T07:02:04+07:00"
+},
+{
+"id": "7406ff519199",
+"title": "âm lịch",
+"link": "https://thethao247.vn/63-lich-am-hom-nay-21-11-ngay-ky-hoi-13-thang-muoi-c123-d446424.html",
+"summary": "Lịch âm hôm nay 21/11: Ngày Kỷ Hợi, 13 tháng Mười (Thể Thao 247)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReClsnMyvl_eT2d12H0MwnqAnV6t9FDPlyMn0zFer-toSTMG3k0rerOafjxsQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T06:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-22T07:02:04+07:00"
+},
 {
 "id": "c1f2c1db4b0c",
 "title": "Khối ngoại bán ròng chứng khoán vượt kỷ lục năm 2025",
@@ -313,6 +358,17 @@
 "published": "2026-11-22T06:20:00+07:00",
 "traffic": "100+",
 "found": "2026-11-22T06:46:53+07:00"
+},
+{
+"id": "a523b2441160",
+"title": "Giá trị pháp lý của biên bản họp gia đình",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xKU2ZpdldoSlhLX1AxOENCbFZ5WW1KMWZjMlFYQ0hQVzdTSDRvSURJQ1BvUlBGbC1DbDVMckUxbWJnRng4MC1DUVpVVFBjYTc2ZzlfLUxwbzNkMjFsUjU3a3Z1ZER6VE1MSnVhSHpibnJ3ZGpWX0JVUkNNZVpmVE5tRk9sOEtL?oc=5",
+"summary": "Nguồn: BÁO SÀI GÒN GIẢI PHÓNG",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T06:19:42+07:00",
+"found": "2026-11-22T07:02:04+07:00"
 },
 {
 "id": "d5dedd6622a8",
@@ -427,6 +483,18 @@
 "cat": "xh",
 "published": "2026-11-22T06:00:00+07:00",
 "found": "2026-11-22T06:46:53+07:00"
+},
+{
+"id": "7f67818c7d61",
+"title": "24h bong da",
+"link": "https://www.24h.com.vn/bong-da/nong-bang-xep-hang-ngoai-hang-anh-arsenal-lo-thoi-co-bo-xa-man-city-tottenham-ap-sat-chelsea-c48a1813087.html",
+"summary": "Nóng bảng xếp hạng Ngoại hạng Anh: Arsenal lỡ thời cơ bỏ xa Man City, Tottenham áp sát Chelsea (Tin tức 24h)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIJ28ITHGm0_JbuzYYGunO2qCxiaN6N1Vtr09vZN0h2PFryNNGgZj0SYE8E_w",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T06:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-22T07:02:04+07:00"
 },
 {
 "id": "40873d44e3a1",
@@ -5628,17 +5696,6 @@
 "found": "2026-11-21T12:21:06+07:00"
 },
 {
-"id": "867e7126a61e",
-"title": "Bé gái lớp 4 nhặt được hơn 15 triệu đồng, tìm người đánh mất trả lại",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTE9VZWxUTTFxZEZPVG92SWhQemlzMnpDcEpKSzh5NXR4WURrUjNZaHFCQUZ1cnpnRzBqM2RUOWl1Z3ViSTBXdGNMMC1NRDlLS2JRQm5KYklhWTBSbmpEeXk0Y2Z5OHBnMVhfa3R4Qmc5Z05qWGtVWjBLdEhpVmYxZDVOOVN1X0JzMUtIZi1UR2hLNVpk?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T12:10:51+07:00",
-"found": "2026-11-21T14:22:05+07:00"
-},
-{
 "id": "2f7274993113",
 "title": "Tạm dừng tuyển dụng công chức trên toàn quốc",
 "link": "https://vnexpress.net/tam-dung-tuyen-dung-cong-chuc-tren-toan-quoc-5147400.html",
@@ -5692,6 +5749,17 @@
 "cat": "xh",
 "published": "2026-11-21T12:07:00+07:00",
 "found": "2026-11-21T13:19:19+07:00"
+},
+{
+"id": "867e7126a61e",
+"title": "Bé gái lớp 4 nhặt được hơn 15 triệu đồng, tìm người đánh mất trả lại",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTE9VZWxUTTFxZEZPVG92SWhQemlzMnpDcEpKSzh5NXR4WURrUjNZaHFCQUZ1cnpnRzBqM2RUOWl1Z3ViSTBXdGNMMC1NRDlLS2JRQm5KYklhWTBSbmpEeXk0Y2Z5OHBnMVhfa3R4Qmc5Z05qWGtVWjBLdEhpVmYxZDVOOVN1X0JzMUtIZi1UR2hLNVpk?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-21T12:06:48+07:00",
+"found": "2026-11-21T14:22:05+07:00"
 },
 {
 "id": "bb085c269f01",
@@ -27978,72 +28046,6 @@
 "cat": "bds",
 "published": "2026-11-19T11:45:00+07:00",
 "found": "2026-11-19T12:11:44+07:00"
-},
-{
-"id": "b457ff5293ea",
-"title": "Khởi tố, bắt giam tài xế xe ben cán 2 chị em tử vong ở TPHCM",
-"link": "https://dantri.com.vn/phap-luat/khoi-to-bat-giam-tai-xe-xe-ben-can-2-chi-em-tu-vong-o-tphcm-20261119102011781.htm",
-"summary": "(Dân trí) - Nam tài xế 27 tuổi lái xe ben chuyển hướng không đảm bảo an toàn, va chạm với xe đạp điện khiến 2 chị em ruột tử vong tại phường Thuận Giao (TPHCM).",
-"image": "https://cdnphoto.dantri.com.vn/fbzu3Hlv5vcUSkRih9PuPlcC95w=/2026/11/19/8d821a35-fa76-401a-ac28-78b71dba4cae-1795058105572.jpeg?watermark=v1",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-19T11:43:24+07:00",
-"found": "2026-11-19T12:11:44+07:00"
-},
-{
-"id": "215fe93e1b3a",
-"title": "TikToker 'Natipong SritongIn' bị bắt",
-"link": "https://vnexpress.net/tiktoker-natipong-sritongin-bi-bat-5146522.html",
-"summary": "Nguyễn Thế Trường, chủ tài khoản tiktok “Natipong SritongIn” bị cáo buộc đăng video có nội dung thách thức, đe dọa người xem để câu view kiếm tiền.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/179506269842221486803112921729-4168-8724-1795062940.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1a-3kGdddh_i_zt6mNKZ_g",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-19T11:43:11+07:00",
-"found": "2026-11-19T11:56:34+07:00"
-},
-{
-"id": "eece654f145c",
-"title": "Khối u tim 5x6 cm đe dọa tính mạng cậu học trò và câu chuyện ấm lòng ở Viện Tim TP.HCM",
-"link": "https://thanhnien.vn/khoi-u-tim-5x6-cm-de-doa-tinh-mang-cau-hoc-tro-va-cau-chuyen-am-long-o-vien-tim-tphcm-185261119105853744.htm",
-"summary": "Trái tim của nam sinh 16 tuổi bị khối u tim 5 x 6 cm chèn kín van ba lá khiến em rơi nguy kịch. Không chỉ cứu sống kịp thời bệnh nhân, Viện Tim TP.HCM còn miễn luôn viện phí.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/base64-17950620550271157621224-0-0-1250-2000-crop-17950634766531772941276.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T11:43:00+07:00",
-"found": "2026-11-19T11:56:34+07:00"
-},
-{
-"id": "f20f968fb906",
-"title": "Di thực sâm Ngọc Linh: 8.000 cây, chỉ 8 cây ra hoa",
-"link": "https://tuoitre.vn/di-thuc-sam-ngoc-linh-8000-cay-chi-8-cay-ra-hoa-100261119080648094.htm",
-"summary": "Sau nhiều năm triển khai các mô hình di thực sâm Ngọc Linh đến những địa phương khác ở Đà Nẵng, kết quả cho thấy cây sinh trưởng kém, củ nhỏ, khó ra hoa.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/916-17950637472981036132727-1-192-1080-1919-crop-17950637710571794107715.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T11:43:00+07:00",
-"found": "2026-11-19T13:25:31+07:00"
-},
-{
-"id": "40186809887d",
-"title": "Hà Nội - Cửa Lò: Kết nối phát triển du lịch bốn mùa",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlUxWXRCazFvdmpoR3BkVkc2UlJlTlhWMkZMWE5DRk5mMVVQWFlJMF9KUl8xdXFkQ0ZweUM2bXVlZXV2WVEyWUtFMWRrQ3p6T1pZYnlDZ3ZsVEVyUERmNFNyWFk1ZEk3Z2NZTUhBSENyVHE2QTFZdVRMblRsYm40SXI2NUE2cXly?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T11:43:00+07:00",
-"found": "2026-11-19T21:44:39+07:00"
-},
-{
-"id": "cd8134df044a",
-"title": "Trước hạn cuối tạm dừng thu phí Bến Thủy, Cienco 4 dồn lực đưa máy móc sửa đường hư hỏng",
-"link": "https://tuoitre.vn/truoc-han-cuoi-tam-dung-thu-phi-ben-thuy-cienco-4-don-luc-dua-may-moc-sua-duong-hu-hong-100261119110553127.htm",
-"summary": "Một ngày trước khi kết thúc thời hạn tạm dừng thu phí tại hai trạm Bến Thủy và Bến Thủy 2, chủ đầu tư BOT tuyến tránh Vinh huy động máy móc, nhân lực sửa chữa nhiều đoạn quốc lộ 1 hư hỏng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/3sua-duong-cienco-4-17950607987011832448433-0-0-1440-2304-crop-17950617665691292487898.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T11:42:00+07:00",
-"found": "2026-11-19T13:25:31+07:00"
 }
 ]
 }
