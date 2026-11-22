@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T02:15:17+07:00",
-"new": 2,
+"updated": "2026-11-23T02:30:29+07:00",
+"new": 1,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 28
+"count": 43
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,18 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "063e9b73df8d",
+"title": "getafe đấu với atlético madrid",
+"link": "https://www.bbc.com/sport/football/live/cwgkljjrp285t",
+"summary": "Getafe vs Atlético Madrid: Spanish La Liga stats & head-to-head (BBC)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T02:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-23T02:30:29+07:00"
+},
 {
 "id": "1253ff74d8d1",
 "title": "atalanta đấu với inter",
@@ -359,7 +371,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T00:40:00+07:00",
-"traffic": "1000+",
+"traffic": "500+",
 "found": "2026-11-23T00:58:51+07:00"
 },
 {
@@ -430,7 +442,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T00:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-23T00:28:12+07:00"
 },
 {
@@ -28101,17 +28113,6 @@
 "published": "2026-11-20T04:20:00+07:00",
 "traffic": "200+",
 "found": "2026-11-20T05:19:27+07:00"
-},
-{
-"id": "8a350c8b2628",
-"title": "Lãi suất tiết kiệm trực tuyến 19/11/2026: gửi 100 triệu đồng kỳ hạn 12 tháng nhận 8 triệu lãi",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd242UXIyYXpxdEl6aEVwN1FKOFJQcGwwd05wOUpDV0phR3l2S1FzMFZuVGNYd01nck1RcWhFSE5GWkJCZkxXNGN1TS0wVTNUVGgzRkJVaU5lT3VRMVRRR0Vkd09FYXVXYkxWby1YWTh5cXc0SUc3bDltYy1FbS12YTduUDV3RGlyb0ZNQ3Zya201Z1FyejY0QnRzaERGT0MxNkxEOW5BX1V1eEt1Vi11YXpkNlprNHJJa2pSUHRzQ3VVMWs?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T04:17:17+07:00",
-"found": "2026-11-19T10:47:50+07:00"
 }
 ]
 }
