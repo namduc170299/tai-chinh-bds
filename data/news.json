@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T17:13:55+07:00",
-"new": 6,
+"updated": "2026-11-22T17:29:06+07:00",
+"new": 13,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,105 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "7c2990a8801a",
+"title": "Cảnh hợp long cầu đi bộ 1.000 tỷ đồng",
+"link": "https://vietnamnet.vn/canh-hop-long-cau-di-bo-1-000-ty-dong-noi-lien-hai-bo-song-sai-gon-2566836.html",
+"summary": "Sáng ngày 21/10, cầu đi bộ gần 1.000 tỷ đồng chính thức hợp long, nối liền Khu đô thị mới Thủ Thiêm với trung tâm TPHCM sau 19 tháng khởi công, sẵn sàng về đích trong năm nay.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/21/canh-hop-long-cau-di-bo-1-289.gif?width=0&s=hND1FbDt4e1EIpbFmwWcdw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T17:25:10+07:00",
+"found": "2026-11-22T17:29:06+07:00"
+},
+{
+"id": "426fb55bae34",
+"title": "Truy tố &apos;ông trùm&apos; trong vụ web lậu &apos;Xôi Lạc TV&apos; và 73 người liên quan",
+"link": "https://vietnamnet.vn/truy-to-ong-trum-trong-vu-web-lau-xoi-lac-tv-va-73-nguoi-lien-quan-2566912.html",
+"summary": "VKSND tỉnh Hưng Yên vừa hoàn tất cáo trạng truy tố các bị can trong vụ án &quot;Xâm phạm quyền tác giả, quyền liên quan, Tổ chức đánh bạc, Đánh bạc, Truyền bá văn hóa phẩm đồi trụy&quot;.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/21/truy-to-ong-trum-trong-vu-web-lau-xoi-lac-tv-va-73-nguoi-lien-quan-770.jpeg?width=0&s=O2bl_ac1dAonlSudAJQ_tg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T17:24:35+07:00",
+"found": "2026-11-22T17:29:06+07:00"
+},
+{
+"id": "bece73f7d413",
+"title": "Dự báo thời tiết 20/10/2026: Miền Bắc vẫn nắng trên 34 độ, Nam Bộ mưa giông",
+"link": "https://vietnamnet.vn/du-bao-thoi-tiet-20-10-2026-mien-bac-nang-tren-34-do-nam-bo-mua-giong-2566070.html",
+"summary": "Dự báo thời tiết ngày 20/10/2026, khu vực Bắc Bộ và từ Thanh Hóa đến Gia Lai chủ yếu duy trì trạng thái nắng ráo. Trong khi đó, khu vực phía Đông các tỉnh từ Đắk Lắk đến Khánh Hòa, Lâm Đồng và Nam Bộ vẫn có mưa rào và giông.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/20/2026-mien-bac-van-nang-tren-34-do-nam-bo-mua-giong-9.jpg?width=0&s=K6EmS4ndYCRDivAWxWOiaw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T17:15:40+07:00",
+"found": "2026-11-22T17:29:06+07:00"
+},
+{
+"id": "b1b7a4faa548",
+"title": "Cận cảnh &apos;khúc cua tử thần&apos; trên đèo Hải Vân, nơi 6 phụ nữ ngồi bệt giữa đường chụp ảnh",
+"link": "https://vietnamnet.vn/can-canh-khuc-cua-tu-than-tren-deo-hai-van-noi-6-phu-nu-tao-dang-chup-anh-2566452.html",
+"summary": "Đèo Hải Vân có cảnh quan hùng vĩ nhưng địa hình hiểm trở, tiềm ẩn nguy cơ tai nạn. Mới đây, 6 phụ nữ bị xử phạt hành chính vì ngồi giữa lòng đường trên đèo chụp ảnh, gây cản trở giao thông.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/20/can-canh-khuc-cua-tu-than-tren-deo-hai-van-noi-6-phu-nu-ngoi-bet-giua-duong-chup-anh-133.gif?width=0&s=Yoy_-sExuEPV7R-k2dHXVg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T17:15:13+07:00",
+"found": "2026-11-22T17:29:06+07:00"
+},
+{
+"id": "be6dc0b656e9",
+"title": "Đất nông nghiệp của bố mẹ bị thu hồi, con canh tác có được hỗ trợ chuyển đổi nghề?",
+"link": "https://vietnamnet.vn/thu-hoi-dat-nong-nghiep-cua-bo-me-con-canh-tac-co-duoc-ho-tro-chuyen-doi-nghe-2564219.html",
+"summary": "Một gia đình có đất nông nghiệp nằm trong diện thu hồi để làm đường. Chủ hộ băn khoăn liệu con trai ông, người trực tiếp canh tác trên diện tích đất này, có được hỗ trợ chuyển đổi nghề nghiệp?",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/19/dat-nong-nghiep-cua-bo-me-bi-thu-hoi-con-canh-tac-co-duoc-ho-tro-chuyen-doi-nghe-2487.jpg?width=0&s=9PlJfMo_d7S1mwRlzrXihw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T17:14:43+07:00",
+"found": "2026-11-22T17:29:06+07:00"
+},
+{
+"id": "eda83db24e7d",
+"title": "Cặp vợ chồng hờ lập đường dây trộm cắp, tiêu thụ 10 tấn thịt chó khắp các tỉnh",
+"link": "https://vietnamnet.vn/cap-vo-chong-ho-lap-duong-day-trom-cap-tieu-thu-10-tan-thit-cho-khap-cac-tinh-2566491.html",
+"summary": "Mở rộng điều tra vụ trộm chó, mèo liên tỉnh bằng ô tô, sử dụng súng kích điện, Công an TPHCM bóc gỡ đường dây thu mua, tiêu thụ hàng chục tấn thịt chó.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/19/cap-vo-chong-ho-lap-duong-day-trom-cap-tieu-thu-10-tan-thit-cho-khap-cac-tinh-3158.png?width=0&s=wZOCcs7y0zVoWqM5Qo4IzQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T17:14:27+07:00",
+"found": "2026-11-22T17:29:06+07:00"
+},
+{
+"id": "403484cee7e6",
+"title": "TPHCM yêu cầu tránh tình trạng dân hiến đất, đường vẫn chậm làm",
+"link": "https://vietnamnet.vn/tphcm-yeu-cau-khong-de-dan-hien-dat-mo-duong-nhung-cong-trinh-cham-trien-khai-2566446.html",
+"summary": "UBND TPHCM yêu cầu gắn việc vận động người dân hiến đất mở đường, hẻm với quy hoạch, chuẩn bị đầu tư và bố trí nguồn lực, không để công trình chậm triển khai sau khi người dân đã hiến đất.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/19/tphcm-yeu-cau-tranh-tinh-trang-dan-hien-dat-duong-van-cham-lam-2557.jpg?width=0&s=DKTuOWfKCaNV9gGHVWGnQw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T17:14:09+07:00",
+"found": "2026-11-22T17:29:06+07:00"
+},
+{
+"id": "2702595ae5f9",
+"title": "Người dân TPHCM háo hức đón vòm thép 3.400 tấn cập bến Bạch Đằng",
+"link": "https://vietnamnet.vn/vom-thep-3-400-tan-cap-ben-cau-di-bo-qua-song-sai-gon-sap-hop-long-2566369.html",
+"summary": "Sau hành trình lai dắt đường thủy dài 124km từ Vũng Tàu, vòm thép hình lá dừa nước nặng 3.400 tấn của cầu đi bộ qua sông Sài Gòn đã cập Bến Bạch Đằng (TPHCM), chuẩn bị cho công đoạn hợp long dự kiến diễn ra ngày 21/10.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/19/vom-thep-3-2176.gif?width=0&s=5QITY68JAWdhoJq2jVsVMw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T17:13:49+07:00",
+"found": "2026-11-22T17:29:06+07:00"
+},
+{
+"id": "b157c973c063",
+"title": "Hà Nội nói rõ thông tin thay hoa sữa phố Nguyễn Du bằng sao đen",
+"link": "https://vietnamnet.vn/ha-noi-noi-ro-thong-tin-thay-hoa-sua-pho-nguyen-du-bang-sao-den-2565969.html",
+"summary": "Hà Nội định hướng bảo tồn hệ thống cây xanh hiện có, không thay thế hàng loạt cây hoa sữa. Việc điều chỉnh mật độ, đánh chuyển hoặc thay thế cây chỉ được xem xét trên cơ sở khảo sát thực tế, lấy ý kiến người dân và đánh giá tình trạng từng cây.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/19/ha-noi-noi-ro-thong-tin-thay-hoa-sua-pho-nguyen-du-bang-sao-den-395.jpg?width=0&s=9jnX_rZE5f_mbNYje2FRZA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T17:13:19+07:00",
+"found": "2026-11-22T17:29:06+07:00"
+},
 {
 "id": "0c3bc1e0977a",
 "title": "C/O điện tử: Gỡ vướng thủ tục, thúc đẩy xuất khẩu",
@@ -279,6 +378,17 @@
 "found": "2026-11-22T06:16:11+07:00"
 },
 {
+"id": "8385849e5b6a",
+"title": "Giá căn hộ Hà Nội vượt TPHCM, người mua nhà đứng trước lựa chọn khó",
+"link": "https://dantri.com.vn/bat-dong-san/gia-can-ho-ha-noi-vuot-tphcm-nguoi-mua-nha-dung-truoc-lua-chon-kho-20261122160531515.htm",
+"summary": "(Dân trí) - Giá căn hộ Hà Nội tăng 122,8% sau 3 năm, vượt TPHCM, nhưng nguồn cung mới nghiêng về phân khúc giá cao, khiến người mua nhà thêm áp lực về khả năng chi trả. Tại TPHCM, mức độ quan tâm chung cư giảm.",
+"image": "https://cdnphoto.dantri.com.vn/THn9b9uoXj0xTrcEr6-DwAr9CSo=/2026/11/22/chung-cu-tai-tphcm-1-cropped-1795338161318.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-22T16:44:18+07:00",
+"found": "2026-11-22T17:29:06+07:00"
+},
+{
 "id": "fbedb8a3d108",
 "title": "Tỷ giá USD/VND chịu sức ép tăng: Ngân hàng Nhà nước chủ động điều hành linh hoạt",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXA3RGdNX0xkcFBvVW12ZUtHd281MF9yekl4dGsyeTRhenBBS3hmN2JsdlNNZ2stanVOTUFYa2RtdjBiVWVoaGpFMHpiTTJtQXV4UmNzSTZaWXRlTUJzLWpuejhoVTJhMnpFZm9odGlIQnY4UFgtTHJDZU1JVXkya0J4dkVwNGRud0VVaml0Tm5tOHp5ZzhHT2tZOERYNFZSR3BTSFZKcFpZNzljNG1OS2h3?oc=5",
@@ -335,6 +445,18 @@
 "found": "2026-11-22T16:57:52+07:00"
 },
 {
+"id": "9cfeec31fc58",
+"title": "xsmn",
+"link": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-nam-hom-nay-2211-1804761.ldo",
+"summary": "Kết quả xổ số miền Nam hôm nay 22.11 (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTts07_003ZiXw7R7sU4h6R82c-MzDa0o6Fx_RnuzUKUfwJF0UMkv9TamRQ4Cw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T16:30:00+07:00",
+"traffic": "200000+",
+"found": "2026-11-22T17:29:06+07:00"
+},
+{
 "id": "005edd2bae2f",
 "title": "Hưng Yên: Khởi tố tài xế liên tục đánh lái khiến người đàn ông bám trên xe tử vong",
 "link": "https://vietnamnet.vn/hung-yen-khoi-to-tai-xe-lien-tuc-danh-lai-khien-nguoi-bam-tren-xe-tu-vong-2577618.html",
@@ -388,6 +510,17 @@
 "cat": "mxh",
 "published": "2026-11-22T16:15:00+07:00",
 "found": "2026-11-22T17:13:55+07:00"
+},
+{
+"id": "a6935d9e27bf",
+"title": "Mâu thuẫn khi hát karaoke, 10 người dùng dao, hung khí hỗn chiến",
+"link": "https://tuoitre.vn/mau-thuan-khi-hat-karaoke-10-nguoi-dung-dao-hung-khi-hon-chien-100261122142027961.htm",
+"summary": "Mâu thuẫn trong lúc hát karaoke, hai nhóm thanh niên đã dùng dao, hung khí đuổi đánh nhau trước quán khiến một người bị thương phải nhập viện.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/edit-9156948121222620900682756548680618768034775118n-1795333922891433035608-288-283-1384-2036-crop-179533918744077701758.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T16:11:00+07:00",
+"found": "2026-11-22T17:29:06+07:00"
 },
 {
 "id": "5a029a6aac44",
@@ -588,7 +721,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T15:30:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-22T15:54:23+07:00"
 },
 {
@@ -5891,6 +6024,17 @@
 "published": "2026-11-21T21:30:00+07:00",
 "traffic": "200+",
 "found": "2026-11-21T21:49:25+07:00"
+},
+{
+"id": "130fd63fe311",
+"title": "Đẩy nhanh tiến độ quy hoạch chung 5 phường Đà Lạt",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY2psYkV1UVJ5UHVWQ2FsejdKUmlrWVRkTThnWV84U3pndzRETmk5TU42ak5vdkpreC11Rm0tOFZPWTRQLTEwUnFmUTcxUm1XVWRfeElGRkZmMFQ1R1JJY0JLU3diaEJBaE5Qblc2ejM1alZVSWdCdTVQRmJiQmxLVHRxWS0wdXdTQVE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T21:30:00+07:00",
+"found": "2026-11-22T17:29:06+07:00"
 },
 {
 "id": "4ef995fb8c16",
@@ -27927,149 +28071,6 @@
 "cat": "xh",
 "published": "2026-11-19T18:00:00+07:00",
 "found": "2026-11-19T18:01:45+07:00"
-},
-{
-"id": "9bfff41fe2b4",
-"title": "ROX Group 4 năm liên tiếp vào Top 100 nơi làm việc tốt nhất",
-"link": "https://tuoitre.vn/rox-group-4-nam-lien-tiep-vao-top-100-noi-lam-viec-tot-nhat-100261119180608239.htm",
-"summary": "ROX Group vừa được vinh danh trong Top 100 Nơi làm việc tốt nhất Việt Nam 2026, đánh dấu năm thứ tư liên tiếp góp mặt trong bảng xếp hạng. Tập đoàn còn nhận chứng nhận doanh nghiệp tiêu biểu có “nguồn nhân lực hạnh phúc”.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/a1-1795086175901109676845-33-0-927-1431-crop-1795086185852366358242.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T18:00:00+07:00",
-"found": "2026-11-19T18:32:06+07:00"
-},
-{
-"id": "8e1ded2fc4b9",
-"title": "Vợ chồng Tiến Minh lập cú đúp HCV cầu lông Đại hội, hẹn hoa khôi Thùy Linh tại chung kết",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmFTYUFkbHIzNVJYWUZQbTVLVlpYNW5KRlBUcXI5RmNsRVh3ak5OWTFBLUN6dXoxOE1hS2ZUX2hmRUw4UmwxbHhmNjNaWnpKaldHR3FSYWV5TXkzUWFITFJZVGhkQlcwS0R2RjFGTmdMMlRxNW56ZnZJVWFGd05ENUpZVl90Q013SFRDWE1FVHpwZENxZ3g0VHcxSFFGanh5VGZPaXJrUHhFR3hMQ1MwdG81Z1htS2VXUDJRZA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T17:55:00+07:00",
-"found": "2026-11-19T18:01:45+07:00"
-},
-{
-"id": "49ff8034fc27",
-"title": "Cử tri kiến nghị gắn đô thị hóa với tạo việc làm, bảo đảm sinh kế bền vững",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQkt5Ymp3N0pGVUU0M1B5OURmYmRabXFqTjdaYk40SkIyV0NaSnBsNTFIeDVVNTFteUZtZnd1bFNNcmJEVDQzM1ZJN1piZnk0TW5TeG5zVTVrN2tJWTNMLVhLTGw2Mzg1Y1hkSXhhWVZRLWFtR1R2TWI4N0NZQmdzRHVETVRzZTJwQjQ0dEZ2YVc1LVpCVHV3SHMwZFNRTV91akUyNzgxV3oyUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T17:55:00+07:00",
-"found": "2026-11-20T08:52:42+07:00"
-},
-{
-"id": "105be82e9122",
-"title": "Ngư dân được hỗ trợ gì để vừa làm giàu từ biển, vừa bảo vệ nguồn lợi thủy sản?",
-"link": "https://tuoitre.vn/ngu-dan-duoc-ho-tro-gi-de-vua-lam-giau-tu-bien-vua-bao-ve-nguon-loi-thuy-san-100261119164651509.htm",
-"summary": "Trước chủ trương xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, đâu là những cơ hội sinh kế mới cho ngư dân và họ được hỗ trợ như thế nào để vừa làm giàu từ biển, vừa bảo vệ nguồn lợi và hệ sinh thái biển?",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/australis-1-17950810369501030108116-110-0-1247-1818-crop-17950810463901689488386.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T17:54:00+07:00",
-"found": "2026-11-19T18:32:06+07:00"
-},
-{
-"id": "c7b0585a32f0",
-"title": "Lâm Đồng yêu cầu thực hiện tháo gỡ cho dự án khu du lịch Thác Bà",
-"link": "https://tuoitre.vn/lam-dong-yeu-cau-thuc-hien-thao-go-cho-du-an-khu-du-lich-thac-ba-100261119162433907.htm",
-"summary": "Tỉnh Lâm Đồng giao Sở Tài chính làm việc với chủ đầu tư dự án khu du lịch Thác Bà, đánh giá hoạt động của doanh nghiệp để tiến hành tháo gỡ các vướng mắc trong quá trình triển khai dự án.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/29169-1795087054879939555666-265-0-1442-1884-crop-17950870743501401617558.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T17:53:00+07:00",
-"found": "2026-11-19T19:30:12+07:00"
-},
-{
-"id": "029141f2e48f",
-"title": "30 điểm giao thông ở TP.HCM có nguy cơ ùn tắc dịp cuối năm",
-"link": "https://tuoitre.vn/30-diem-giao-thong-o-tphcm-co-nguy-co-un-tac-dip-cuoi-nam-100261119172957668.htm",
-"summary": "Phòng Cảnh sát giao thông (PC08) Công an TP.HCM cho biết toàn thành phố có gần 30 điểm giao thông phức tạp có nguy cơ ùn tắc.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/dji202506251402240100d-17950839358361576158823-72-0-1672-2560-crop-17950841053541715872601.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T17:52:00+07:00",
-"found": "2026-11-19T19:30:12+07:00"
-},
-{
-"id": "6a37f7de8413",
-"title": "Xe tải rẽ ẩu làm 2 chị em tử vong, tài xế bị bắt",
-"link": "https://vnexpress.net/xe-tai-re-au-lam-2-chi-em-tu-vong-tai-xe-bi-bat-5146754.html",
-"summary": "Đinh Xuân Sơn, 27 tuổi, bị cáo buộc lái xe ben rẽ phải không đảm bảo an toàn, va chạm xe đạp điện khiến hai chị em ruột 15 và 17 tuổi tử vong.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/179508474557121486803112921729-9653-6789-1795084879.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1lXT1EGRuK6nRbYAgstSOg",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-19T17:51:36+07:00",
-"found": "2026-11-19T18:32:06+07:00"
-},
-{
-"id": "2a4059ac64ce",
-"title": "Bà Bùi Thị Minh Hoài thăm, chúc mừng nguyên Phó chủ tịch nước, nguyên Bộ trưởng Giáo dục Nguyễn Thị Bình",
-"link": "https://thanhnien.vn/ba-bui-thi-minh-hoai-tham-chuc-mung-nguyen-pho-chu-tich-nuoc-nguyen-bo-truong-giao-duc-nguyen-thi-binh-185261119173748139.htm",
-"summary": "Bà Bùi Thị Minh Hoài bày tỏ sự tri ân sâu sắc đối với những đóng góp quan trọng của nguyên Phó chủ tịch nước Nguyễn Thị Bình trong sự nghiệp đấu tranh giải phóng dân tộc, xây dựng và bảo vệ Tổ quốc, đặc biệt là sự nghiệp giáo dục và đào tạo của nước nhà.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/anh1-17950841154671335328357-70-0-1320-2000-crop-17950841215801897997796.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T17:51:00+07:00",
-"found": "2026-11-19T18:01:45+07:00"
-},
-{
-"id": "19ef1e881fd3",
-"title": "Sân bay Long Thành hoạt động từ ngày 24-12, với 20-30 chuyến bay mỗi ngày",
-"link": "https://tuoitre.vn/san-bay-long-thanh-hoat-dong-tu-ngay-24-12-voi-20-30-chuyen-bay-moi-ngay-100261119173245108.htm",
-"summary": "Sân bay Long Thành dự kiến chính thức khai thác thương mại từ ngày 24-12, với 20-30 chuyến bay/ngày trong giai đoạn đầu.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/qd-san-bay-long-thanh-2-read-only-1776215583609363490584-7-0-1203-1913-crop-17950843316181011520834.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T17:50:00+07:00",
-"found": "2026-11-19T18:32:06+07:00"
-},
-{
-"id": "fa10ced397c4",
-"title": "Vụ nổ khí ga ở đường Bùi Văn Ba TP.HCM: Nạn nhân thứ 3 tử vong",
-"link": "https://thanhnien.vn/vu-no-khi-ga-o-duong-bui-van-ba-tphcm-nan-nhan-thu-3-tu-vong-185261119173120789.htm",
-"summary": "Vụ nổ sập nhà ở đường Bùi Văn Ba, TP.HCM khiến 3 người tử vong. Nạn nhân thứ 3 mất tại bệnh viện sáng nay (19.11).",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/no-khi-ga-bui-van-ba-tp-hcm-179508346434682324330-229-0-1829-2560-crop-17950842687371498837867.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T17:49:00+07:00",
-"found": "2026-11-19T18:01:45+07:00"
-},
-{
-"id": "55bc65661e47",
-"title": "Vụ nổ khí gas ở đường Bùi Văn Ba TP.HCM: Nạn nhân thứ 3 tử vong",
-"link": "https://thanhnien.vn/vu-no-khi-gas-o-duong-bui-van-ba-tphcm-nan-nhan-thu-3-tu-vong-185261119173120789.htm",
-"summary": "Vụ nổ sập nhà ở đường Bùi Văn Ba, TP.HCM khiến 3 người tử vong. Nạn nhân thứ 3 mất tại bệnh viện sáng nay (19.11).",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/no-khi-ga-bui-van-ba-tp-hcm-179508346434682324330-229-0-1829-2560-crop-17950842687371498837867.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T17:49:00+07:00",
-"found": "2026-11-19T18:16:55+07:00"
-},
-{
-"id": "c6ee9a49b88d",
-"title": "Sau vụ cháy, chung cư TP.HCM 'tái sinh' thành tổ hợp thời trang độc lạ",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcktGRDJYSTMyR0ZGVXU1V1dSdFJMMVlLUWI4UjdzQTUtVWE5b0F5U09HbGx0NVdUWFhiN2JYMm9ST01QYkNKTnRIa2FORm1UUVNxb3NpYk9laHBjVGR1bGpMNGZ6b0ljdmdFaTBRSENmcjUyLVg1YkRoc282ZlZ4dFdYbU1kT3M5NVdRU1ctY2ZXMjhqNkc4SWNUOHo3SmxsS3c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T17:47:51+07:00",
-"found": "2026-11-19T20:15:21+07:00"
-},
-{
-"id": "ecd8c2fa52ee",
-"title": "Nộp tiền định kỳ để không bị xử lý lấn chiếm vỉa hè trung tâm TPHCM",
-"link": "https://dantri.com.vn/phap-luat/nop-tien-dinh-ky-de-khong-bi-xu-ly-lan-chiem-via-he-trung-tam-tphcm-20261119173242187.htm",
-"summary": "(Dân trí) - Bị cáo Nguyễn Tiến Mãi bị xác định chỉ đạo cấp dưới nhận tiền “chung chi” của các hộ kinh doanh để bỏ qua vi phạm lấn chiếm lòng, lề đường, với tổng số tiền gần 555 triệu đồng.",
-"image": "https://cdnphoto.dantri.com.vn/a1cNnDgJ9rcxGUTrVzjfrKxLQns=/2026/11/19/179508423721718668955814270010228059889764723040908e5f447eff02fcbdfabfd113bcd1a834b-edited-1795084309136.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-19T17:47:36+07:00",
-"found": "2026-11-19T18:16:55+07:00"
 }
 ]
 }
