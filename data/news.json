@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T20:25:37+07:00",
-"new": 6,
+"updated": "2026-11-22T20:40:49+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 46
+"count": 28
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "7009ba64c661",
+"title": "Cấp cứu kịp thời du khách nước ngoài bị đuối nước khi tắm biển",
+"link": "https://kenh14.vn/cap-cuu-kip-thoi-du-khach-nuoc-ngoai-bi-duoi-nuoc-khi-tam-bien-215261122194413217.chn",
+"summary": "Một nam du khách Kyrgyzstan bị sóng lớn cuốn ra xa khi tắm biển tại Bãi Dài (Khánh Hòa), dẫn đến đuối nước, khó thở và tím tái. Rất may, nạn nhân được cấp cứu kịp thời, sức khỏe dần ổn định.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795351350369-1795351351458688032294.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T20:29:00+07:00",
+"found": "2026-11-22T20:40:49+07:00"
+},
+{
 "id": "dd23919f7901",
 "title": "Phó thủ tướng Thường trực Phạm Gia Túc: Cần Thơ chăm lo hơn nữa văn hóa Khmer",
 "link": "https://thanhnien.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-can-tho-cham-lo-hon-nua-van-hoa-khmer-185261122182747704.htm",
@@ -222,6 +233,18 @@
 "cat": "xh",
 "published": "2026-11-22T20:22:00+07:00",
 "found": "2026-11-22T20:25:37+07:00"
+},
+{
+"id": "d7bdcc1fce19",
+"title": "vtv9",
+"link": "https://thanhnien.vn/tphcm-mo-hoi-sau-20-nam-cho-doi-185261122122143024.htm",
+"summary": "TP.HCM 'mở hội' sau 20 năm chờ đợi (Thanh Niên)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdQOHZKUeKHcKRsaPwAm7PKNKJyJZ9hb76n0LrucgNu1WeA6v10QGNfexy9dw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T20:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-22T20:40:49+07:00"
 },
 {
 "id": "5d09e22ad799",
@@ -301,6 +324,17 @@
 "cat": "xh",
 "published": "2026-11-22T20:02:00+07:00",
 "found": "2026-11-22T20:20:28+07:00"
+},
+{
+"id": "19b4b42bbad6",
+"title": "Điều chỉnh khung giá điện mới và những điều người dân cần biết",
+"link": "https://dantri.com.vn/kinh-doanh/dieu-chinh-khung-gia-dien-moi-va-nhung-dieu-nguoi-dan-can-biet-20261122192113525.htm",
+"summary": "(Dân trí) - Từ ngày 1/11, chính sách giá điện mới có nhiều thay đổi về khung giờ sử dụng điện và biểu giá áp dụng cho một số nhóm khách hàng, người dân cần lưu ý để bảo đảm quyền lợi.",
+"image": "https://cdnphoto.dantri.com.vn/eAeQgb-0tuM6WDz-fFZX7TkkLfg=/2026/11/22/dien-sinh-hoat-cropped-1795349961106.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-22T20:01:25+07:00",
+"found": "2026-11-22T20:40:49+07:00"
 },
 {
 "id": "cfe13116ee30",
@@ -561,7 +595,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T18:40:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-22T19:33:13+07:00"
 },
 {
@@ -28041,39 +28075,6 @@
 "cat": "tc",
 "published": "2026-11-19T20:23:00+07:00",
 "found": "2026-11-19T21:28:56+07:00"
-},
-{
-"id": "3bc50fecf3d7",
-"title": "Đà Nẵng nói về việc xây cầu mới song song cầu Cửa Đại",
-"link": "https://tuoitre.vn/da-nang-noi-ve-viec-xay-cau-moi-song-song-cau-cua-dai-100261119150858633.htm",
-"summary": "Cơ quan chức năng TP Đà Nẵng phản hồi ý kiến cử tri đề xuất xây cầu mới song song với cầu Cửa Đại, đồng thời thông tin việc sắp xếp đơn vị hành chính cấp xã đang được dư luận quan tâm.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/cau-cua-dai-1-17950753577271073482753-0-51-1080-1779-crop-17950754153361246592105.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T20:21:00+07:00",
-"found": "2026-11-19T21:28:56+07:00"
-},
-{
-"id": "0d8e16b1609b",
-"title": "Kịch bản nào cho thị trường bất động sản 2027?",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlZMc3IteWdscjIwX24yaXg2YXl0dVdUT1doOFNja0pDM1FkSlVVdWZtalpUOTNDRENHWlhMM2RDQkFVWkJQb3R3M0I2UnliVzJzYm1SSGVTaWEzUFZIZ0Nxc3NVeDUzSkxLRTgxSGo3RnI1a0duS3Z4MzlnM21BNW5MMWU?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T20:20:00+07:00",
-"found": "2026-11-19T20:30:31+07:00"
-},
-{
-"id": "cb0d21259f5b",
-"title": "Qua một đêm, cựu phóng viên sở hữu gần 20 tỷ USD cổ phần sau IPO",
-"link": "https://vietnamnet.vn/qua-mot-dem-thanh-ty-phu-cuu-phong-vien-so-huu-gan-20-ty-usd-2576815.html",
-"summary": "Anthropic, công ty đứng sau chatbot Claude, vừa thực hiện thương vụ IPO trị giá 81,3 tỷ USD, đưa vốn hóa lên khoảng 1.500 tỷ USD. Bảy nhà sáng lập cùng trở thành tỷ phú, trong đó cựu phóng viên Bloomberg sở hữu gần 19,83 tỷ USD.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/qua-mot-dem-cuu-phong-vien-so-huu-gan-20-ty-usd-co-phan-sau-ipo-2666.jpg?width=0&s=UK2QpUqsRsRZUcQB6NkW6Q",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-19T20:19:11+07:00",
-"found": "2026-11-19T20:30:31+07:00"
 }
 ]
 }
