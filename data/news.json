@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T23:42:40+07:00",
-"new": 0,
+"updated": "2026-11-22T23:57:51+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 28
+"count": 43
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,54 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "2608bdf136da",
+"title": "man utd",
+"link": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
+"summary": "Liverpool v Manchester United: Premier League – live (The Guardian)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQYQPpnqAQQcZRa0lmuEERTA1FjVjbgzlKBZHqcorsm2tYCAc47r6--iggUnU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T23:40:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-22T23:57:51+07:00"
+},
+{
+"id": "c4657f669ba1",
+"title": "xem bóng chuyền trực tiếp",
+"link": "https://laodong.vn/bong-chuyen/bong-chuyen-viet-nam-ngay-2211-chu-cong-thanh-thuy-ve-nuoc-tranh-tai-1804796.ldo",
+"summary": "Bóng chuyền Việt Nam ngày 22.11: Chủ công Thanh Thúy về nước tranh tài (Laodong.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3aZATv_pzztaENbOozUGY0iuMe-86pto23KosOjHr-iKC4PjmNLTxUFH_4nk",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T23:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-22T23:57:51+07:00"
+},
+{
+"id": "6631d72bcdfa",
+"title": "90",
+"link": "https://www.tmz.com/2026/11/22/sheila-mangubat-dead/",
+"summary": "'90 Day Fiancé' Star Sheila Mangubat Dead at 35 (TMZ)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQp32WVFcKCTQIxzAXwDNR-3iDZnzVIMnO20MXnBi5tagPyB7azqeeFwIPIMDo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T23:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-22T23:57:51+07:00"
+},
+{
+"id": "6a52c94d1fce",
+"title": "90 phút",
+"link": "https://znews.vn/dang-sau-nhung-chiec-iphone-phat-mien-phi-cua-tiktoker-iphone-kupi-post1697970.html",
+"summary": "Đằng sau những chiếc iPhone phát miễn phí của TikToker 'iPhone Kupi' (Znews)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvrEwOOhoEsscQI82ZO3SL642FHKY9gUVnYAcXPgsEJkY5G8bBst1K_QZ-h0Q",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T23:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-22T23:57:51+07:00"
+},
+{
 "id": "8662c29ec8af",
 "title": "milan đấu với frosinone",
 "link": "https://baonghean.vn/nhan-dinh-ac-milan-vs-frosinone-diem-nong-cuoc-dua-top-dau-10356408.html",
@@ -221,7 +269,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T23:20:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-22T23:42:23+07:00"
 },
 {
@@ -271,6 +319,17 @@
 "published": "2026-11-22T23:10:00+07:00",
 "traffic": "100+",
 "found": "2026-11-22T23:27:12+07:00"
+},
+{
+"id": "393c19de1117",
+"title": "Đặc vụ ICE bắt người khi đang lên máy bay, Thống đốc Washington phẫn nộ",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcFhLalNSY0JDUDVEUGJQY080X0l2UTJOX3diT2hXOXNTNmRfUlZpUi16LWRXVHFKVWJranVuM1puUlEzczdzSmx0eDk4Rkh0Wkw4MFVNZUJhYl9TN1phMHByanFiOU5aY0ZiNC1rVjFoR203TnAxWGVSZFlSXzAwcXZidGFLMEoyLS1tcGRBeEg4Y3hNVVE?oc=5",
+"summary": "Nguồn: tin.skydoor.net",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T23:08:36+07:00",
+"found": "2026-11-22T23:57:51+07:00"
 },
 {
 "id": "4b30a9be98e1",
@@ -1286,17 +1345,6 @@
 "cat": "bds",
 "published": "2026-11-22T18:08:00+07:00",
 "found": "2026-11-22T18:15:05+07:00"
-},
-{
-"id": "f6badce972de",
-"title": "Đặc vụ ICE bắt người khi đang lên máy bay, Thống đốc Washington phẫn nộ",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTZFY3NUMEwwSmtpeFRnLUN5NkpJWFdRYUNQb19Gc0lKRFR4ZmFreWZtaEVydWlZR3ZKTVNRbDFnWktqa0NCNlVaSkRoRnlMTUJDc0hfZ0N4MHk2QXJNanhjV29teElLOU9TXzJQYWZvelhrN0xlVWdmSGhxVHZBUlF0WXdDNE1xQ1IxbkJtWUpEdVFZYWRNX1J5S3lHSVliSlFoNXlxY0M5aDRJTld6cmVn?oc=5",
-"summary": "Nguồn: Báo Tuổi Trẻ",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-22T18:08:00+07:00",
-"found": "2026-11-22T18:30:15+07:00"
 },
 {
 "id": "4bc087f5b0b0",
@@ -17803,18 +17851,6 @@
 "found": "2026-11-20T21:04:15+07:00"
 },
 {
-"id": "2101cd06e418",
-"title": "90 phút",
-"link": "https://vnexpress.net/ben-trong-cuoc-hop-lich-su-giua-lanh-dao-my-nga-trung-5146850.html",
-"summary": "Bên trong cuộc họp lịch sử giữa lãnh đạo Mỹ - Nga - Trung (VnExpress)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGxULWs3_ss15yKEb6wqy4Da9ikrwmhY30XWCVwYgWGEParTelyzLuRNC1lKQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T20:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-20T21:04:15+07:00"
-},
-{
 "id": "f6428138cd45",
 "title": "PV GAS công bố và trao Quyết định bổ nhiệm Phó Tổng Giám đốc",
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2xSTjEycW5mbExjR01PZHhIdVg5X3Y5SDFNVi05aEhQbjY5VEZvc1VrSVZ5N1ZpZ2pVZW14ekRMRHpjdzl6UHpzbzhyblBVTFVMeHZkYktuRHluVFdUV2ZYV1Nxd3ZBWDZaMl94dmdnVnBhc3lfZG84WDhsaDJlUzQySVM3Si0tVk9MV29CVDRuLVF1ZDJtZQ?oc=5",
@@ -17857,18 +17893,6 @@
 "cat": "xh",
 "published": "2026-11-20T20:16:00+07:00",
 "found": "2026-11-20T21:36:26+07:00"
-},
-{
-"id": "5fa4c55a0198",
-"title": "xem bóng chuyền trực tiếp",
-"link": "https://thethaovanhoa.vn/lich-thi-dau-bong-chuyen-hom-nay-ngay-20-11-2026-2026112008203894.htm",
-"summary": "Lịch thi đấu bóng chuyền hôm nay ngày 20/11/2026 (thethaovanhoa.vn)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPmfY8YeVdW2aEwNbuSgYNTXCvrDqkWSwu052O8f8TW_4MQCSy5nb2VCALdmA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T20:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-20T20:34:09+07:00"
 },
 {
 "id": "a4fedc0d8666",
@@ -28077,28 +28101,6 @@
 "source": "Thanh Niên",
 "cat": "xh",
 "published": "2026-11-19T22:51:00+07:00",
-"found": "2026-11-19T22:55:20+07:00"
-},
-{
-"id": "c0c9efec1cf0",
-"title": "Người phụ nữ SN 1969 ở TP Hải Phòng chuyển khoản 33.000.000 đồng vào tài khoản MB Bank số 8322xxxxxx: Công an rà soát, xác minh giao dịch",
-"link": "https://kenh14.vn/nguoi-phu-nu-sn-1969-o-tp-hai-phong-chuyen-khoan-33000000-dong-vao-tai-khoan-mb-bank-so-8322xxxxxx-cong-an-ra-soat-xac-minh-giao-dich-215261119215958415.chn",
-"summary": "Chuyển nhầm 33.000.000 đồng vào tài khoản ngân hàng của người khác, người phụ nữ ở TP Hải Phòng đã đến Công an trình báo. Sau khi xác minh và phối hợp với Công an địa phương nơi người nhận tiền cư trú, lực lượng chức năng đã hỗ trợ chị nhận lại toàn bộ số tiền.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795100319588-17951003214821272061344.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T22:48:00+07:00",
-"found": "2026-11-19T23:10:48+07:00"
-},
-{
-"id": "b0984387fb37",
-"title": "Đề xuất đánh giá kỹ nhu cầu điện của các dự án trung tâm dữ liệu",
-"link": "https://vnexpress.net/de-xuat-danh-gia-ky-nhu-cau-dien-cua-cac-du-an-trung-tam-du-lieu-5146786.html",
-"summary": "Phó tổng giám đốc Điện lực Miền Nam khuyến nghị đánh giá kỹ các dự án trung tâm dữ liệu, tránh việc tận dụng điện giá rẻ chỉ để khách ngoại thuê.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/8-ong-bui-quoc-hoan-pho-tong-g-9102-7332-1795096321.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=40lG0Qqu_ntgqH0kXujZUw",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-19T22:45:12+07:00",
 "found": "2026-11-19T22:55:20+07:00"
 }
 ]
