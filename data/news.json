@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T10:45:30+07:00",
-"new": 30,
+"updated": "2026-11-22T11:00:40+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "68cc60547dae",
+"title": "Giả đò mua cà phê rồi xịt hơi cay, cướp dây chuyền của chủ quán",
+"link": "https://tuoitre.vn/gia-do-mua-ca-phe-roi-xit-hoi-cay-cuop-day-chuyen-cua-chu-quan-100261122095047871.htm",
+"summary": "Đến quán nước mua cà phê, Nguyễn Thành Chí dùng bình xịt hơi cay tấn công người phụ nữ đang trông quán, giật dây chuyền rồi bỏ trốn.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/1795315079014-1989422983118778044-248490864818298709-6d6a6f251cbd92ed50ec10491f6c812a-1795315229992890365313-122-128-1080-1660-crop-17953192397191383880043.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T10:44:00+07:00",
+"found": "2026-11-22T11:00:40+07:00"
+},
+{
+"id": "9da14962b1be",
+"title": "Giá vàng miếng giảm mạnh, người mua lỗ gần 10 triệu đồng/lượng sau một tuần",
+"link": "https://dantri.com.vn/kinh-doanh/gia-vang-mieng-giam-manh-nguoi-mua-lo-gan-10-trieu-dongluong-sau-mot-tuan-20261122102117729.htm",
+"summary": "(Dân trí) - Giá vàng miếng SJC giảm mạnh nhất tới 6,5 triệu đồng/lượng trong một tuần, khiến người mua đầu tuần có thể lỗ gần 10 triệu đồng/lượng nếu bán ra lúc này.",
+"image": "https://cdnphoto.dantri.com.vn/H5ELgCtNu1zGxsfh5EO_g-88_cI=/2024/04/24/gia-vang-thanh-dong-30-1-1713928602977.jpg?watermark=v1",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-22T10:40:40+07:00",
+"found": "2026-11-22T11:00:40+07:00"
+},
+{
+"id": "092db3dcb5e4",
+"title": "Bitcoin có lúc rơi còn 17.000 USD trên một sàn giao dịch",
+"link": "https://vnexpress.net/bitcoin-co-luc-roi-con-17-000-usd-tren-mot-san-giao-dich-5147611.html",
+"summary": "Bitcoin trên sàn Kraken có thời điểm \"sập\" về 17.000 USD, thấp hơn 70% so với thị trường, do biến động bất thường ở cặp giao dịch bằng đôla Canada.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/22/xoz5nrhvdjjwpoiu6gbnac6vte-179-3294-3177-1795317554.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xd-lR-tzgxqss_qLYJKr-g",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-22T10:35:36+07:00",
+"found": "2026-11-22T11:00:40+07:00"
+},
+{
 "id": "af2787f53f03",
 "title": "Nhà đầu tư được kiểm chứng giá trị thực tại Nam Long II Central Lake",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSlNzcWxhSXdOdktvTmFDY19fRm1UbjNobXFES2FZeFdUcDNlRjBlY21ReTl5M2R4TTIydk5KaFpsMjZSS3hIQlcxZC1GMFF2aGVNVGtGZE5zclVXMmhRODBTYVVmbU5TcmZ2Ym9ELWJjUGFwOTktZFNzVmk1VG52N215QVRIM2tack51RkxndzBiMFJFX3BmWWM4OWhyanJ0Mkhn?oc=5",
@@ -323,6 +356,28 @@
 "found": "2026-11-22T10:30:20+07:00"
 },
 {
+"id": "b46c391ad10f",
+"title": "Jensen Huang mất gần 30% tài sản sau bê bối ngoại tình",
+"link": "https://vnexpress.net/jensen-huang-mat-gan-30-tai-san-sau-be-boi-ngoai-tinh-5147541.html",
+"summary": "Sau bê bối đời tư, tài sản của Jensen Huang, cựu CEO Nvidia, đã giảm 47,9 tỷ USD, tương đương khoảng 29,5%.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/22/jensen-huang-ceo-nvidia-comput-2336-6581-1795284996.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=P-gZbbTC_CcdzR-cOMt-Rg",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-22T10:26:00+07:00",
+"found": "2026-11-22T11:00:40+07:00"
+},
+{
+"id": "d5dedd6622a8",
+"title": "Tỷ giá USD hôm nay (22-11): Đồng USD trải qua tuần tăng giá thứ tư liên tiếp",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnlXNURPa0lnX1JEOVpsN0lqRXRYdlFEa1hpam1nSEtUcTZodlB2T0UtWV9HSm94MldtVVMtSlBaY3ZqeVl3Nnh2Tmp0enBFTjRuQldsVHhEOFJyTmRxV3FNX0NiVnhZYU91VExVcEdlYU15VEpYQzEtVGZXRHlPRDVvdzBoZGcyR25zSFN1eHh1ZERieDJhdTJfZlZCYWRUUkZPZGU3Y0pkUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T10:25:33+07:00",
+"found": "2026-11-22T06:16:11+07:00"
+},
+{
 "id": "854e1f9d1543",
 "title": "Thủ tướng yêu cầu bố trí đầy đủ kinh phí thực hiện chính sách tiền lương",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQzJZVDR5OUJ3OC00OGNTbFVlNk1NYkJVc2d3eVFEZHVCWDJaXzJOM0xsUU1qR2NrTGZmbEpRakdKRFRKMjFJZXN2YVBSbXZjRGRYZVF2ZlJvMkRzaUhmTWNVc1c5RkRHaDdNV3RjVGpfaWY0Y3BXRjljODRqLUl0NHZXSUcwU09rSmZwSHdtV2U0Zi1ubGQxaDdweFk5MmJjb3B3Q2FwVTE?oc=5",
@@ -398,6 +453,17 @@
 "cat": "tc",
 "published": "2026-11-22T10:08:00+07:00",
 "found": "2026-11-22T10:20:03+07:00"
+},
+{
+"id": "8b4c646372bc",
+"title": "Giá cả đầu ngày: Hết mùa nước nổi, cá sông vẫn hút hàng, thanh long lên 28.000 đồng/kg",
+"link": "https://tuoitre.vn/gia-ca-dau-ngay-het-mua-nuoc-noi-ca-song-van-hut-hang-thanh-long-len-28000-dong-kg-100261122094238444.htm",
+"summary": "Sau mùa nước nổi, cá tép thiên nhiên ở miền Tây vẫn giữ giá cao, thanh long phục hồi mạnh, trong khi các loại tôm tại đầu mối Bình Điền có mức giá khác nhau tùy kích cỡ.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/ca-tep-1795314402491675349938-0-0-1440-2304-crop-17953146200881130375010.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T10:06:00+07:00",
+"found": "2026-11-22T11:00:40+07:00"
 },
 {
 "id": "7f6838b60686",
@@ -556,6 +622,17 @@
 "cat": "tc",
 "published": "2026-11-22T09:48:00+07:00",
 "found": "2026-11-22T10:45:30+07:00"
+},
+{
+"id": "6d55d0d17481",
+"title": "Ôm 'núi nợ' 80 triệu USD, đối tác KFC đang làm chủ 84 nhà hàng xin bảo hộ phá sản",
+"link": "https://tuoitre.vn/om-nui-no-80-trieu-usd-doi-tac-kfc-dang-lam-chu-84-nha-hang-xin-bao-ho-pha-san-100261122091120756.htm",
+"summary": "Doanh thu lao dốc, gánh khoản nợ hơn 80 triệu USD và đứng trước nguy cơ mất quyền nhượng quyền từ KFC, Taco Bell, một doanh nghiệp phải xin bảo hộ phá sản và rao bán 84 nhà hàng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/screenshot-2026-11-22-at-085633-1795312612520318290919-66-68-744-1153-crop-179531275775857255275.png",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T09:46:00+07:00",
+"found": "2026-11-22T11:00:40+07:00"
 },
 {
 "id": "3fb674ccf7f7",
@@ -1030,6 +1107,17 @@
 "cat": "bds",
 "published": "2026-11-22T09:00:00+07:00",
 "found": "2026-11-22T10:20:03+07:00"
+},
+{
+"id": "2a2f9cf9c16d",
+"title": "HAUS Da Lat nhận giải kiến trúc cảnh quan xuất sắc nhất châu Á",
+"link": "https://tuoitre.vn/haus-da-lat-nhan-giai-kien-truc-canh-quan-xuat-sac-nhat-chau-a-100261121211747337.htm",
+"summary": "HAUS Da Lat được vinh danh tại International Property Awards 2026 ở hạng mục Kiến trúc cảnh quan xuất sắc nhất châu Á - Thái Bình Dương, qua đó trở thành đại diện khu vực bước vào vòng tranh giải thế giới.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/1-17952702768921133197160-0-0-1627-2603-crop-1795270295182363244545.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T09:00:00+07:00",
+"found": "2026-11-22T11:00:40+07:00"
 },
 {
 "id": "a9dcc4bbe2d3",
@@ -2062,17 +2150,6 @@
 "cat": "xh",
 "published": "2026-11-22T06:19:42+07:00",
 "found": "2026-11-22T07:02:04+07:00"
-},
-{
-"id": "d5dedd6622a8",
-"title": "Tỷ giá USD hôm nay (22-11): Đồng USD trải qua tuần tăng giá thứ tư liên tiếp",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnlXNURPa0lnX1JEOVpsN0lqRXRYdlFEa1hpam1nSEtUcTZodlB2T0UtWV9HSm94MldtVVMtSlBaY3ZqeVl3Nnh2Tmp0enBFTjRuQldsVHhEOFJyTmRxV3FNX0NiVnhZYU91VExVcEdlYU15VEpYQzEtVGZXRHlPRDVvdzBoZGcyR25zSFN1eHh1ZERieDJhdTJfZlZCYWRUUkZPZGU3Y0pkUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T06:14:00+07:00",
-"found": "2026-11-22T06:16:11+07:00"
 },
 {
 "id": "9a41ad1e75e7",
@@ -17906,6 +17983,17 @@
 "found": "2026-11-20T13:59:50+07:00"
 },
 {
+"id": "7aa676c62070",
+"title": "Chi nhánh VIB còn hạn chế trong thẩm định, giám sát vốn vay và thu hồi nợ xấu",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDNoUTVOUkhPMXV0ei15Sm10cWxra2ZrVTRpVUo4aHVOajEwNW1jYTJlLWRFaExKeFUtSHBDUVdGa29TNURqdTdyandJTFhNZEpJX1l6bWFPbDR2dXMxSkcwS2J1TzhWTFktZkZnOC12N2lhcnp5aEpXdVJkMFhkb0ZKR3NXLWVEeDBxMlZvTmpMaVNNeDJPcEozRk9JSzlvOVpVNU91S2Z2WjRibVE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-20T12:27:00+07:00",
+"found": "2026-11-22T11:00:40+07:00"
+},
+{
 "id": "01db6d7f6b36",
 "title": "Tin vui dịp Tết Nguyên đán 2027: Một số người dân ở thành phố này có thể được hỗ trợ 10 triệu đồng",
 "link": "https://kenh14.vn/tin-vui-dip-tet-nguyen-dan-2027-mot-so-nguoi-dan-o-thanh-pho-nay-co-the-duoc-ho-tro-10-trieu-dong-215261120113847849.chn",
@@ -27966,94 +28054,6 @@
 "source": "Báo Mới",
 "cat": "bds",
 "published": "2026-11-19T14:51:00+07:00",
-"found": "2026-11-19T15:16:17+07:00"
-},
-{
-"id": "55adcd4458a8",
-"title": "Thế hệ Gen Z sẽ định vị lại ngành cà phê tương lai",
-"link": "https://tuoitre.vn/the-he-gen-z-se-dinh-vi-lai-nganh-ca-phe-tuong-lai-100261119120551392.htm",
-"summary": "Với quy mô chiếm khoảng 25% dân số toàn cầu cùng mức chi tiêu được dự báo vượt các thế hệ đi trước trong thập kỷ tới, Gen Z đang thúc đẩy sự thay đổi từ hương vị, cách thức pha chế đến không gian thưởng thức của thị trường cà phê.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/1795064828136229181194802276396045074081513831106519f328130d756f8614a92982123c23dd2-17950659249681925149397-172-0-1772-2560-crop-17950660621302127030053.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T14:50:00+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "03b4eb7a7855",
-"title": "VRB: 20 năm kết nối kinh tế Việt Nam - Nga",
-"link": "https://vneconomy.vn/vrb-20-nam-ket-noi-kinh-te-viet-nam-nga.htm",
-"summary": "Bà Fokina Anastasia – Chủ tịch Hội đồng thành viên Ngân hàng Liên doanh Việt – Nga (VRB), chia sẻ với Tạp chí Kinh tế Việt Nam/VnEconomy về hành trình 20 năm hoạt động tại Việt Nam, cũng như vai trò của ngân hàng trong thúc đẩy quan hệ hợp tác kinh tế Việt Nam - Nga...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/19/48d620d79c0a459aa31d29a80ba8ce57-137009.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-19T14:49:32+07:00",
-"found": "2026-11-19T15:01:07+07:00"
-},
-{
-"id": "1f292ab2f353",
-"title": "Bắt tạm giam tài xế xe ben vụ 2 chị em tử vong ở phường Thuận An",
-"link": "https://tuoitre.vn/bat-tam-giam-tai-xe-xe-ben-vu-2-chi-em-tu-vong-o-phuong-thuan-an-100261119142059092.htm",
-"summary": "Tài xế xe ben 27 tuổi bị xác định chuyển hướng không đảm bảo an toàn, gây tai nạn khiến hai chị em ruột đi xe đạp điện tử vong tại phường Thuận An, TP.HCM.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/xe-benva-cham-copy-17950754467151527802685-0-460-699-1579-crop-17950754975541871172607.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T14:49:00+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "5aa461de81a3",
-"title": "Cần Thơ có thêm dự án chống ngập, kiểm soát mặn gần 3.000 tỉ đồng",
-"link": "https://tuoitre.vn/can-tho-co-them-du-an-chong-ngap-kiem-soat-man-gan-3000-ti-dong-100261119133249585.htm",
-"summary": "Không chỉ đầu tư hạ tầng chống ngập, kiểm soát mặn, dự án gần 3.000 tỉ đồng còn hướng đến xây dựng các mô hình sản xuất nông nghiệp thích ứng biến đổi khí hậu, dự kiến mang lại lợi ích cho 46.000 người.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/img0003-1795064571164441994953-479-850-1093-1833-crop-17950750918632027977017.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T14:48:00+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "58c68b953a3c",
-"title": "Dự án 59.000 tỷ đồng của Vingroup được bán nhà cho người nước ngoài",
-"link": "https://vnexpress.net/du-an-59-000-ty-dong-cua-vingroup-duoc-ban-nha-cho-nguoi-nuoc-ngoai-5146477.html",
-"summary": "TP HCM bổ sung Khu đô thị Đại học Quốc tế tại xã Xuân Thới Sơn của Tập đoàn Vingroup vào danh sách dự án nhà ở được phép bán cho tổ chức, cá nhân nước ngoài.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/z77702797825924adf0fc85bf67c47-2974-1183-1795060095.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=jZfJAbxWBt314x8R_0hktw",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-19T14:47:27+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "8191b4debad3",
-"title": "Nam Trung Bộ, Tây Nguyên và miền Tây đối mặt nguy cơ khô hạn khốc liệt do El Nino rất mạnh",
-"link": "https://tuoitre.vn/nam-trung-bo-tay-nguyen-va-mien-tay-doi-mat-nguy-co-kho-han-khoc-liet-do-el-nino-rat-manh-100261119140311763.htm",
-"summary": "El Nino rất mạnh khiến mưa ít kết hợp nền nhiệt cao có thể làm tăng nguy cơ khô hạn, thiếu nước phục vụ sinh hoạt và sản xuất tại các khu vực trên cả nước, đặc biệt là Nam Trung Bộ, Tây Nguyên và Đồng bằng sông Cửu Long.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/han-han-thuy-dienanhnguyenkhanh2-read-only-16862723704131969223787-232-130-1326-1880-crop-17950637556911340675465.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-19T14:47:00+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "5b5367e5597f",
-"title": "Cục Đường bộ: Khoảng cách an toàn tính theo mét phù hợp hơn đếm theo giây",
-"link": "https://vnexpress.net/cuc-duong-bo-khoang-cach-an-toan-tinh-theo-met-phu-hop-hon-dem-theo-giay-5146554.html",
-"summary": "Cục Đường bộ cho rằng cách tính khoảng cách an toàn giữa hai xe bằng mét không chênh lệch so với tính bằng giây, phù hợp giao thông Việt Nam.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/19/caotoctruocthongxe-webp-179506-9687-2500-1795066012.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cGhVUIOv_wrDYn6N6YX9DA",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-19T14:45:55+07:00",
-"found": "2026-11-20T09:55:38+07:00"
-},
-{
-"id": "29d24aede977",
-"title": "\"Đại gia điếu cày\" Lê Thanh Thản bị đề nghị mức án 30-36 tháng tù treo",
-"link": "https://dantri.com.vn/dt360/dai-gia-dieu-cay-le-thanh-than-bi-de-nghi-muc-an-30-36-thang-tu-treo-20261119142738045.htm",
-"summary": "(Dân trí) - Ông Lê Thanh Thản bị đề nghị mức án 30-36 tháng tù treo, đồng thời phải trả lại tiền mua nhà và liên đới bồi thường theo giá thị trường đối với các căn hộ thuộc diện phải di dời tại CT6 Kiến Hưng.",
-"image": "https://cdnphoto.dantri.com.vn/j96FJq2tVQEfCC0FXgDL7HH6T6w=/2026/11/19/ezgif-4d7e00eeac6cf677-1795067440540.gif",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-19T14:45:26+07:00",
 "found": "2026-11-19T15:16:17+07:00"
 }
 ]
