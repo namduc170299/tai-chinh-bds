@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T04:48:07+07:00",
-"new": 3,
+"updated": "2026-11-23T05:03:38+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 30
+"count": 43
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "cdd4a5e1e3cb",
+"title": "Giá vàng nhẫn trơn, vàng miếng sáng 23/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-23-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261122221338839.chn",
+"summary": "Giá vàng trong nước mở đầu phiên sáng 23/11 đi ngang, với vàng miếng SJC giữ mức 133,5 triệu đồng/lượng và vàng nhẫn cao nhất 133,3 triệu đồng/lượng. Trên thị trường quốc tế, giá vàng thế giới vừa trải qua một tuần lao dốc gần 9%, xuống còn 3.538 USD/ounce.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/vang-17766537172842022131511-61-169-431-762-crop-17766537590611338028083-17953601999101503628276-0-0-750-1200-crop-1795360217450455734972.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-23T05:00:00+07:00",
+"found": "2026-11-23T05:03:38+07:00"
+},
+{
 "id": "3d37fc14c046",
 "title": "Đồng Nai tìm nhân thân 5 mộ xưa ở đại lộ kết nối sân bay Long Thành",
 "link": "https://thanhnien.vn/dong-nai-tim-nhan-than-5-mo-xua-o-dai-lo-ket-noi-san-bay-long-thanh-185261122223822896.htm",
@@ -222,6 +233,30 @@
 "cat": "xh",
 "published": "2026-11-23T04:41:00+07:00",
 "found": "2026-11-23T04:48:07+07:00"
+},
+{
+"id": "5ba034971ab9",
+"title": "đội tuyển bóng đá u-17 quốc gia hàn quốc",
+"link": "https://vietnamnet.vn/u17-han-quoc-thang-huy-diet-u17-phap-thua-soc-doi-bong-chau-a-2577614.html",
+"summary": "U17 Hàn Quốc thắng hủy diệt, U17 Pháp thua sốc đội bóng châu Á (Báo VietNamNet)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTNobVa5k0NoXIf3sReg5GYyp1D3qibacPXT1Jg1b_PxM4MIdxass361g-6Zc",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T04:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T05:03:38+07:00"
+},
+{
+"id": "368df735c8be",
+"title": "xuất khẩu",
+"link": "https://dantocphattrien.vietnamnet.vn/chu-tich-quoc-hoi-de-nghi-can-tho-ung-dung-ai-vao-canh-tac-lua-80546.html",
+"summary": "Chủ tịch Quốc hội đề nghị Cần Thơ ứng dụng AI vào canh tác lúa (Dân tộc và Phát triển)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO3sRDZUGgqyVa1DXodV26_SrhGH9_qMc7MkEvqjgHKmsUDkbKCdRbLbqqzw4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T04:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T05:03:38+07:00"
 },
 {
 "id": "2a056bd7ee9d",
@@ -302,6 +337,18 @@
 "cat": "bds",
 "published": "2026-11-23T03:41:29+07:00",
 "found": "2026-11-23T04:17:27+07:00"
+},
+{
+"id": "46ba6fd3e21f",
+"title": "giải bóng đá vô địch quốc gia việt nam",
+"link": "https://www.24h.com.vn/bong-da/video-bong-da-ha-tinh-cong-an-tp-hcm-cay-dang-phut-89-v-league-c48a1813249.html",
+"summary": "Video bóng đá Hà Tĩnh - Công an TP HCM: Cay đắng phút 89 (V-League) (Tin tức 24h)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkfYaxPu_JDu-9aeYsnS91oT7AurJpttLEr3BP0_5vw4A6Q5ZanFikUd1FZd4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T03:40:00+07:00",
+"traffic": "10000+",
+"found": "2026-11-23T05:03:38+07:00"
 },
 {
 "id": "1e89fac425f0",
@@ -418,6 +465,18 @@
 "published": "2026-11-23T01:30:00+07:00",
 "traffic": "200+",
 "found": "2026-11-23T01:59:48+07:00"
+},
+{
+"id": "9369d03bd8f1",
+"title": "thứ hạng của liverpool gặp man utd",
+"link": "https://vnexpress.net/man-utd-tham-bai-trong-tran-ra-mat-cua-pochettino-5147763.html",
+"summary": "Man Utd thảm bại trong trận ra mắt của Pochettino (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLawX9hPEemLtP2qdLbSYiJyMdITAw_a55XFc92RHk_Y_eyfK695UEgNNa9bM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T01:30:00+07:00",
+"traffic": "100000+",
+"found": "2026-11-23T05:03:38+07:00"
 },
 {
 "id": "788b766304db",
@@ -28053,61 +28112,6 @@
 "cat": "tc",
 "published": "2026-11-20T06:00:00+07:00",
 "found": "2026-11-20T06:40:21+07:00"
-},
-{
-"id": "8349931601f1",
-"title": "Nhà ga hình hoa sen sân bay Long Thành trước ngày khai thác",
-"link": "https://vnexpress.net/nha-ga-hinh-hoa-sen-san-bay-long-thanh-truoc-ngay-khai-thac-5146384.html",
-"summary": "Các quầy thủ tục, băng chuyền và ghế chờ của nhà ga sân bay Long Thành dần hoàn thiện trước chuyến bay thương mại đầu tiên, dự kiến ngày 24/12.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/20261117-1795070917.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3fY3lLqVLldpKIJZGX2TNg",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-20T06:00:00+07:00",
-"found": "2026-11-20T07:10:58+07:00"
-},
-{
-"id": "e2c6d9a7b123",
-"title": "Giá xăng giảm, vì sao hàng hóa vẫn đắt?",
-"link": "https://vnexpress.net/gia-xang-giam-vi-sao-hang-hoa-van-dat-5146817.html",
-"summary": "Giá xăng dầu giảm liên tiếp nhưng giá hàng hóa, dịch vụ vẫn cao là hiện tượng \"tăng như tên lửa, giảm như lông vũ\".",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/thumbnailngang-1795102742-8200-1795103332.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=DWfXMJ_43sDIckRNj2aGjg",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-20T06:00:00+07:00",
-"found": "2026-11-20T10:29:40+07:00"
-},
-{
-"id": "0c4ac0d6d4db",
-"title": "'Cơn sốt' tự chế robot AI giá rẻ",
-"link": "https://vnexpress.net/con-sot-tu-che-robot-ai-gia-re-5146629.html",
-"summary": "Từ dây đồng, bo mạch và con chip AI giá vài trăm nghìn đồng, nhiều người Việt tự lắp robot biết di chuyển, trò chuyện, dạy ngoại ngữ, đọc tin tức...",
-"image": "https://vcdn1-giadinh.vnecdn.net/2026/11/19/912401627-n-1795077846-9492-1795078563.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fM_uVZz3vle5e5i3uF4i_g",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-20T06:00:00+07:00",
-"found": "2026-11-20T10:29:40+07:00"
-},
-{
-"id": "7be0981459a9",
-"title": "TP.HCM gấp rút bồi thường dự án trọng điểm",
-"link": "https://thanhnien.vn/tphcm-gap-rut-boi-thuong-du-an-trong-diem-185261119191701631.htm",
-"summary": "Công tác bồi thường từng là điểm nghẽn khiến hàng loạt dự án trọng điểm ở TP.HCM \"đứng hình\", nhưng năm 2026 ghi nhận bước đột phá với tỷ lệ giải ngân gần cán đích.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/anh-1-17950903718791905227510-45-0-1645-2560-crop-1795090438127599420279.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-20T05:58:00+07:00",
-"found": "2026-11-20T06:06:12+07:00"
-},
-{
-"id": "4c6161cb71d7",
-"title": "Thầy cô 'dấn thân' vào làn sóng dạy bằng tiếng Anh",
-"link": "https://vnexpress.net/thay-co-dan-than-vao-lan-song-day-bang-tieng-anh-5146405.html",
-"summary": "Đăng video dạy Địa lý bằng tiếng Anh lên mạng, thầy Chinh nhận về nhiều lời công kích, chê bai phát âm, bị cho rằng \"đu trend\" nhưng đều bỏ ngoài tai.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/wm1-wm1-a1-1795078597-8583-1795079826.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PrayHEdBjmgv6xc4p0-9WA",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-20T05:51:00+07:00",
-"found": "2026-11-20T10:29:40+07:00"
 }
 ]
 }
