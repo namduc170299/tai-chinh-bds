@@ -12,6 +12,7 @@ import json
 import re
 import sys
 import time
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
@@ -130,13 +131,39 @@ def fetch(url: str) -> bytes:
         return resp.read()
 
 
+def bing_fallback(url: str) -> str | None:
+    """Google News hay chặn IP của GitHub Actions (HTTP 503) -> đổi sang Bing News RSS cùng từ khoá."""
+    if "news.google.com/rss/search" not in url:
+        return None
+    q = urllib.parse.parse_qs(urllib.parse.urlsplit(url).query).get("q", [""])[0]
+    q = re.sub(r"\s*when:\d+[dh]\s*", " ", q).strip()
+    return "https://www.bing.com/news/search?" + urllib.parse.urlencode(
+        {"q": q, "format": "rss", "setlang": "vi", "cc": "VN", "qft": "sortbydate=\"1\""})
+
+
+def unwrap_link(link: str) -> str:
+    # link Bing News dạng .../apiclick.aspx?...&url=<link thật>
+    if "bing.com/news/apiclick" in link:
+        real = urllib.parse.parse_qs(urllib.parse.urlsplit(link).query).get("url", [""])[0]
+        if real.startswith("http"):
+            return real
+    return link
+
+
+def bing_source(it: ET.Element) -> str:
+    for ch in it:
+        if ch.tag.split("}")[-1].lower() == "source" and ch.get("url") is None:
+            return (ch.text or "").strip()
+    return ""
+
+
 def parse_feed(raw: bytes, source: str, cat: str, now: datetime) -> list[dict]:
     raw = raw.lstrip()  # vài báo có khoảng trắng trước <?xml
     root = ET.fromstring(raw)
     items = []
     for it in root.iter("item"):
         title = clean_text(it.findtext("title"), 300)
-        link = (it.findtext("link") or "").strip()
+        link = unwrap_link((it.findtext("link") or "").strip())
         if not title or not link.startswith("http"):
             continue
         desc_raw = it.findtext("description") or ""
@@ -154,12 +181,14 @@ def parse_feed(raw: bytes, source: str, cat: str, now: datetime) -> list[dict]:
             src_el = it.find("source")
             if src_el is not None and "baomoi.com" not in (src_el.get("url") or ""):
                 continue
+            if src_el is None and "baomoi.com" not in link:  # Bing: lọc theo link
+                continue
             title = re.sub(r"\s+-\s+(Báo Mới|BAOMOI\.COM|baomoi\.com)$", "", title, flags=re.IGNORECASE)
             desc_raw = ""  # mô tả của Google News chỉ lặp lại tiêu đề
         elif source == "Google News":
             # bỏ đuôi " - Tên báo" ở tiêu đề, ghi tên báo vào phần mô tả
             src_el = it.find("source")
-            paper = (src_el.text or "").strip() if src_el is not None else ""
+            paper = (src_el.text or "").strip() if src_el is not None else bing_source(it)
             if paper and title.endswith(" - " + paper):
                 title = title[: -len(paper) - 3]
             desc_raw = f"Nguồn: {paper}" if paper else ""
@@ -218,7 +247,15 @@ def scrape_one(feed, now):
         except Exception as e:  # noqa: BLE001 - một báo lỗi không được làm hỏng cả lượt
             err = e
             time.sleep(3 * (attempt + 1))
-    return {"name": source, "cat": cat, "url": url, "ok": False, "count": 0, "error": f"{type(err).__name__}: {err}"[:200]}, []
+    alt = bing_fallback(url)
+    if alt:
+        try:
+            items = parse_feed(fetch(alt), source, cat, now)
+            if items:
+                return {"name": source, "cat": cat, "url": url, "ok": True, "count": len(items), "via": "bing"}, items
+        except Exception as e:  # noqa: BLE001
+            err = f"{type(err).__name__}: {err} | Bing: {type(e).__name__}: {e}"
+    return {"name": source, "cat": cat, "url": url, "ok": False, "count": 0, "error": (err if isinstance(err, str) else f"{type(err).__name__}: {err}")[:200]}, []
 
 
 def norm_title(t: str) -> str:
