@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T00:13:02+07:00",
-"new": 10,
+"updated": "2026-11-23T00:28:12+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 28
+"count": 27
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,30 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "5eab8fd83310",
+"title": "szoboszlai dominik",
+"link": "https://www.nemzetisport.hu/angol-labdarugas/2026/11/pl-liverpool-manchester-united-10",
+"summary": "Yorót kiállították, Szoboszlai gólja után Wirtz is betalált Pochettino első manchesteri meccsén (Nemzeti Sport Online)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2jMlMLXEndZzdXSHHZzU4Icbqw1Qky_Kpdka8sAwAhJBIJSNLWICc1MlAOZs",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T00:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-23T00:28:12+07:00"
+},
+{
+"id": "f09f3dd698ee",
+"title": "virus",
+"link": "https://www.earth.com/plants/how-one-barley-variety-defends-itself-against-crop-pests-and-the-virus-they-spread/",
+"summary": "How one barley variety defends itself against crop pests and the virus they spread (Earth.com)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx2U_F0wbO5ucGXCVBfD-ogr2HlQUuQx9SEJHjvTPIacjWN7Hn-7P-gfEQdQU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T00:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T00:28:12+07:00"
+},
 {
 "id": "4e958712c6e3",
 "title": "Thị trường chứng khoán “thiếu tiền”: Loạt thương vụ bán vốn bất thành, người nội bộ cũng “rụt rè” mua cổ phiếu",
@@ -290,6 +314,40 @@
 "found": "2026-11-23T00:13:02+07:00"
 },
 {
+"id": "492293abb970",
+"title": "Người giàu thứ hai Nga bị vợ cũ kiện đòi 2,8 tỷ USD sau ly hôn",
+"link": "https://vnexpress.net/nguoi-giau-thu-hai-nga-bi-vo-cu-kien-doi-2-8-ty-usd-sau-ly-hon-5147739.html",
+"summary": "Sau 31 năm chung sống và 12 năm ly hôn, tỷ phú Vladimir Potanin, người giàu thứ hai Nga, bị vợ cũ kiện tại Anh, đòi chia khối tài sản trị giá 2,84 tỷ USD.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/telemmglpict000511984015-trans-6421-8388-1795359389.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Kf5tK_-vLfUwaNNt04WapQ",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-23T00:00:00+07:00",
+"found": "2026-11-23T00:28:12+07:00"
+},
+{
+"id": "b9d7f6d2b705",
+"title": "Kết thảm của cô gái tái hợp với bạn trai từng cưỡng hiếp mình",
+"link": "https://vnexpress.net/ket-tham-cua-co-gai-tai-hop-voi-ban-trai-tung-cuong-hiep-minh-5147698.html",
+"summary": "Sau khi tố cáo bạn trai cưỡng hiếp và khiến anh ta phải ngồi tù 3 năm, Tiểu Cẩn vẫn nhiều lần nhắn tin nhớ nhung, chủ động nối lại quan hệ.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/641-1795342936-1962-1795343169.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6MDMUPO1HtcmmItkLZYN4g",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-23T00:00:00+07:00",
+"found": "2026-11-23T00:28:12+07:00"
+},
+{
+"id": "1fcf268ca16a",
+"title": "xoi",
+"link": "https://laodong.vn/du-lich/cong-dong/thoi-tiet-mien-bac-sap-mua-tro-lai-ret-nhat-duoi-10-do-c-1804588.html",
+"summary": "Thời tiết miền Bắc sắp mưa trở lại, rét nhất dưới 10 độ C (Laodong.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWM4hsAGvKJRBmKkJsPnwjsezdClPTbZci8J3m4XcoF4ZSph3J2sdzHC43MOk",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T00:00:00+07:00",
+"traffic": "500+",
+"found": "2026-11-23T00:28:12+07:00"
+},
+{
 "id": "f26c8f54a597",
 "title": "florian wirtz",
 "link": "https://onefootball.com/de/news/ronaldo-henry-und-co-warum-wirtz-noch-hoffnung-haben-darf-43818242",
@@ -350,6 +408,17 @@
 "found": "2026-11-23T00:13:02+07:00"
 },
 {
+"id": "4a2b7532ee01",
+"title": "Phải chuyển từ xuất khẩu nông sản sang xuất khẩu công nghệ nông nghiệp",
+"link": "https://tuoitre.vn/phai-chuyen-tu-xuat-khau-nong-san-sang-xuat-khau-cong-nghe-nong-nghiep-100261122212648165.htm",
+"summary": "Chủ tịch Quốc hội Trần Thanh Mẫn đã dẫn lời Tổng Bí thư, Chủ tịch nước Tô Lâm chỉ đạo phải chuyển từ xuất khẩu nông sản sang xuất khẩu công nghệ nông nghiệp tại Festival quốc tế ngành hàng lúa gạo Việt Nam lần thứ 2.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/chu-tich-quoc-hoi-2211-17953608519432005012996-17953656685851285717453-271-223-1332-1920-crop-1795365702286457343400.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T23:34:00+07:00",
+"found": "2026-11-23T00:28:12+07:00"
+},
+{
 "id": "6a52c94d1fce",
 "title": "90 phút",
 "link": "https://znews.vn/dang-sau-nhung-chiec-iphone-phat-mien-phi-cua-tiktoker-iphone-kupi-post1697970.html",
@@ -358,7 +427,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T23:30:00+07:00",
-"traffic": "500+",
+"traffic": "200+",
 "found": "2026-11-22T23:57:51+07:00"
 },
 {
@@ -370,7 +439,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T23:20:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-22T23:42:23+07:00"
 },
 {
@@ -18107,18 +18176,6 @@
 "found": "2026-11-21T08:17:18+07:00"
 },
 {
-"id": "f8698fc3936d",
-"title": "xoi",
-"link": "https://cuoi.tuoitre.vn/ca-si-thieng-ngan-phu-me-ban-xoi-le-duong-nuoi-3-em-an-hoc-1002611201721504.htm",
-"summary": "Ca sĩ Thiêng Ngân phụ mẹ bán xôi lề đường nuôi 3 em ăn học (Tuổi Trẻ Cười)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZ2ez80-zivb3i0iAz8UZRwhQBHrM5zkI8MdRPxsLM9_i5FraxJ2aP9ZCBtRo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T20:00:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-20T20:18:36+07:00"
-},
-{
 "id": "09881291956b",
 "title": "my tv",
 "link": "https://www.makeuseof.com/fix-tv-stutter-with-match-content-frame-rate/",
@@ -28048,61 +28105,6 @@
 "cat": "tc",
 "published": "2026-11-20T00:05:00+07:00",
 "found": "2026-11-20T00:11:44+07:00"
-},
-{
-"id": "f781c34d9895",
-"title": "Nắm \"núi\" tiền gửi hơn 22.000 tỷ, lợi suất cổ tức lên tới 18%, một doanh nghiệp được dự báo lãi lớn trong 5 năm tới",
-"link": "https://cafef.vn/nam-nui-tien-gui-hon-22000-ty-loi-suat-co-tuc-len-toi-18-mot-doanh-nghiep-duoc-du-bao-lai-lon-trong-5-nam-toi-188261119163934757.chn",
-"summary": "Tính đến cuối quý 3/2026, lượng tiền và các khoản đầu tư ngắn hạn của DN đạt 22.600 tỷ đồng, tăng 54% so với đầu năm sau khi nhận cổ tức từ Honda Việt Nam.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/92cd4b8869c3809dd9d2-17950956557251077444934-15-0-765-1200-crop-1795095663727406579214.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-20T00:03:00+07:00",
-"found": "2026-11-20T00:11:44+07:00"
-},
-{
-"id": "af5395c19cc6",
-"title": "Cổ phiếu \"thủng đáy\", FPT bất ngờ hé lộ kế hoạch mới",
-"link": "https://cafef.vn/co-phieu-thung-day-fpt-bat-ngo-he-lo-ke-hoach-moi-188261119214257171.chn",
-"summary": "Việc ứng dụng AI đang tạo điều kiện để FPT cải thiện đơn giá dịch vụ, thay vì chỉ cạnh tranh bằng chi phí nhân công.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1774004174600-1774004175052556653124-1795099306235324747769-0-0-400-640-crop-1795099309931521538895.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-20T00:01:00+07:00",
-"found": "2026-11-20T00:11:44+07:00"
-},
-{
-"id": "88166a3882e3",
-"title": "Đề xuất đánh giá kỹ mục đích đầu tư các trung tâm dữ liệu",
-"link": "https://vnexpress.net/de-xuat-danh-gia-ky-muc-dich-dau-tu-cac-trung-tam-du-lieu-5146786.html",
-"summary": "Phó tổng giám đốc Điện lực Miền Nam khuyến nghị đánh giá kỹ các dự án trung tâm dữ liệu, tránh việc tận dụng điện giá rẻ chỉ để khách ngoại thuê.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/8-ong-bui-quoc-hoan-pho-tong-g-9102-7332-1795096321.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=40lG0Qqu_ntgqH0kXujZUw",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-20T00:00:12+07:00",
-"found": "2026-11-19T23:10:48+07:00"
-},
-{
-"id": "116389c61579",
-"title": "Nhà 5 tầng rộng 50 m2 có nên lắp thang máy?",
-"link": "https://vnexpress.net/nha-5-tang-rong-50-m2-co-nen-lap-thang-may-5146155.html",
-"summary": "Ngại bố mẹ tuổi cao phải leo cầu thang bộ, nhưng tôi lo lắp thang máy sẽ khiến căn nhà ngang 4 m thêm chật chội và đội chi phí vận hành.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/ava-1794986214-8619-1794988449.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gMmjUNVPamhOvqBOczLFYA",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-20T00:00:00+07:00",
-"found": "2026-11-20T00:11:44+07:00"
-},
-{
-"id": "83e2af1e9d98",
-"title": "VKS đề nghị bác đơn kiện Bệnh viện Phụ sản Hà Nội của sản phụ mất hai con",
-"link": "https://vnexpress.net/vks-de-nghi-bac-don-kien-benh-vien-phu-san-ha-noi-cua-san-phu-mat-hai-con-5146789.html",
-"summary": "Đề nghị bác yêu cầu đòi hơn 520 triệu đồng của sản phụ mất hai con song VKS cho rằng người mẹ kiện để được giải thích rõ nguyên nhân tử vong, \"không phải vì tiền bồi thường\".",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/12-1795093638-2594-1795093645.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pMHg-FqZNQUs41GA-Dzirw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-20T00:00:00+07:00",
-"found": "2026-11-20T00:26:55+07:00"
 }
 ]
 }
