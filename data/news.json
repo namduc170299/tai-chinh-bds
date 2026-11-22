@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T07:02:25+07:00",
-"new": 0,
+"updated": "2026-11-22T07:17:34+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "7c3dfe7765d7",
+"title": "Một ngân hàng chuẩn bị chào bán hơn 803 triệu cổ phiếu giá 10.000 đồng",
+"link": "https://cafef.vn/mot-ngan-hang-chuan-bi-chao-ban-hon-803-trieu-co-phieu-gia-10000-dong-18826112121145569.chn",
+"summary": "ABBank triển khai chào bán hơn 803 triệu cổ phiếu cho cổ đông hiện hữu với giá 10.000 đồng/cổ phiếu, theo tỷ lệ 2:1. Nếu hoàn tất đợt phát hành, ngân hàng dự kiến huy động hơn 8.033 tỷ đồng để bổ sung nguồn vốn cho hoạt động cấp tín dụng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795270381369-1795270382377975312976.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-22T07:13:00+07:00",
+"found": "2026-11-22T07:17:34+07:00"
+},
+{
+"id": "dfd254345105",
+"title": "Giá USD hôm nay 22.11.2026: Tăng cao đẩy euro và bảng Anh lao dốc",
+"link": "https://thanhnien.vn/gia-usd-hom-nay-22112026-tang-cao-day-euro-va-bang-anh-lao-doc-185261121201624411.htm",
+"summary": "Giá USD ghi nhận tăng suốt tuần cả trên thế giới lẫn trong nước khi kỳ vọng Mỹ nâng lãi suất lên cao.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-ngan-hang-vietcombank-ngoai-teanh-ngoc-thang-102-17468866067652063243686-17953050288062057892274-107-0-1707-2560-crop-1795305035876533601095.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-22T07:08:00+07:00",
+"found": "2026-11-22T07:17:34+07:00"
+},
+{
+"id": "276660b30226",
+"title": "Giá vàng hôm nay 22.11.2026: Giảm không phanh khiến người mua lỗ 10 triệu sau một tuần",
+"link": "https://thanhnien.vn/gia-vang-hom-nay-22112026-giam-khong-phanh-khien-nguoi-mua-lo-10-trieu-sau-mot-tuan-185261121201352064.htm",
+"summary": "Giá vàng trên thế giới lẫn trong nước liên tục lao dốc trong tuần cùng với chênh lệch giá mua - bán lên cao khiến người mua lỗ nặng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-gia-vang-dan-thanh-2-17865227594931622674958-17953047356241166390998-106-0-1706-2560-crop-17953047425041311059605.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-22T07:07:00+07:00",
+"found": "2026-11-22T07:17:34+07:00"
+},
+{
 "id": "ca69f618693d",
 "title": "Bếp ăn 0 đồng ấm lòng của người lao động nghèo",
 "link": "https://thanhnien.vn/bep-an-0-dong-am-long-cua-nguoi-lao-dong-ngheo-185261121183522101.htm",
@@ -224,6 +257,52 @@
 "found": "2026-11-22T07:02:04+07:00"
 },
 {
+"id": "38cef5214d15",
+"title": "TPHCM công khai 72 suất mua, thuê nhà ở xã hội, giá 14,9 triệu đồng/m2",
+"link": "https://dantri.com.vn/bat-dong-san/tphcm-cong-khai-72-suat-mua-thue-nha-o-xa-hoi-gia-149-trieu-dongm2-20261121224359215.htm",
+"summary": "(Dân trí) - Sở Xây dựng TPHCM công khai thông tin tiếp nhận hồ sơ mua, thuê 72 căn hộ nhà ở xã hội tại phường An Phú. Giá bán bình quân gần 14,9 triệu đồng/m2, giá thuê tối đa 282.000 đồng/m2/tháng.",
+"image": "https://cdnphoto.dantri.com.vn/CDS2PoPiETqHaZqObjPpsJuMERs=/2026/11/21/noxh-cropped-cropped-cropped-1795275473111.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-22T07:00:00+07:00",
+"found": "2026-11-22T07:17:34+07:00"
+},
+{
+"id": "ece81f69ad90",
+"title": "Thủ tướng chỉ đạo loạt giải pháp kích cầu tiêu dùng dịp cuối năm",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVE9GRkVzLWtPZmE3SFF4Ulp3YzR4YUtoWUtteENieDA1RVVGM1l4OElkUkpQdUo3ZWNyd3pxZVZBdTVnMXlXVGo0TVc1TTJhc09xM1AxY0dYSnNENXZIZE0xd0RYamlabHZFcnZwa2RIR1B6Q2NTLWJpakdSc05taE4xRlNMX3M2dnU5d0F2U0RYMnRYNHJrNENBN09RZw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T07:00:00+07:00",
+"found": "2026-11-22T07:17:34+07:00"
+},
+{
+"id": "b092a9749747",
+"title": "sân vận động",
+"link": "https://znews.vn/video-gan-20000-nguoi-ngay-dem-xay-san-van-dong-vinfast-trong-dong-post1697728.html",
+"summary": "Gần 20.000 người ngày đêm xây sân vận động VinFast - Trống Đồng (Znews)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRj6zZlC2MNxD3IgKqFgmMkqfDNwqAdPZrUzonZ-TzOObkj4Fh2NZUKPM0fxIw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T07:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-22T07:17:34+07:00"
+},
+{
+"id": "a8136830624b",
+"title": "chứng khoán",
+"link": "https://vneconomy.vn/cau-bat-day-cai-thien-co-phieu-phuc-hoi-gia-tich-cuc.htm",
+"summary": "Cầu bắt đáy cải thiện, cổ phiếu phục hồi giá tích cực (VnEconomy)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsJZMY1Za25da2xpF8SAvISmr5BYxNCwX41NQ9SBvhX5TcyApO0waxvhVbdk0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T07:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-22T07:17:34+07:00"
+},
+{
 "id": "2bd6742a14f5",
 "title": "Đang nợ xấu nhóm 5 có vay ngân hàng được không, bao lâu được xóa trên CIC?",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGJUNVVXQl9WLUhtUnlmVF9sUV9JeGJteFJlSWk3NzAzZWpoSUtBczl6b19yQVBzYThWTUlsQnZaTUpwblZrc2plVjAtc1ZVQXpMbmdtQmV0Y2pYem1EbjlmSy05LUp3TGdkczg5dUhCUVFSa2hDbC04eTc0U3dKYkh2X3hrWXppNHZKTVJ5cThwZmVvMlpnc2tPVXlUUjc2NDdTS2dJdW4?oc=5",
@@ -233,6 +312,40 @@
 "cat": "tc",
 "published": "2026-11-22T06:55:00+07:00",
 "found": "2026-11-22T07:02:04+07:00"
+},
+{
+"id": "acb250a4199a",
+"title": "Thế giới mất khoảng 3 năm, Việt Nam chỉ cần 150 ngày để xây dựng siêu dự án lớn bậc nhất Đông Nam Á, vốn đầu tư 12.000 tỷ đồng",
+"link": "https://kenh14.vn/the-gioi-mat-khoang-3-nam-viet-nam-chi-can-150-ngay-de-xay-dung-sieu-du-an-lon-bac-nhat-dong-nam-a-von-dau-tu-12000-ty-dong-215261122064807441.chn",
+"summary": "Siêu công trình của Việt Nam hoàn thiện trong vòng 5 tháng, huy động khoảng 8.000 người thi công.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795304743646-179530474398499053898.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T06:55:00+07:00",
+"found": "2026-11-22T07:17:34+07:00"
+},
+{
+"id": "cd0b21d57fcb",
+"title": "Cổ phiếu FPT lao dốc, ngôi sao công nghệ một thời hụt hơi",
+"link": "https://dantri.com.vn/dt360/co-phieu-fpt-lao-doc-ngoi-sao-cong-nghe-mot-thoi-hut-hoi-20261121232411516.htm",
+"summary": "(Dân trí) - Cổ phiếu FPT liên tục gây thất vọng cho ngày đầu tư khi lùi sâu khỏi vùng 50.000 đồng; khối ngoại bán ròng hàng triệu cổ phiếu bất chấp lợi nhuận doanh nghiệp tăng hai chữ số.",
+"image": "https://cdnphoto.dantri.com.vn/bkp64oLoSddOH3Bt4YLhhU-mKWw=/2026/11/21/co-phieu-fpt-lao-doc-ngoi-sao-cong-nghe-mot-thoi-hut-hoi-cropped-1795278146696.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-22T06:50:46+07:00",
+"found": "2026-11-22T07:17:34+07:00"
+},
+{
+"id": "5760cf8f0c1d",
+"title": "câu lạc bộ bóng đá ipswich town",
+"link": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-tottenham-ipswich-town-sao-18-tuoi-dinh-doat-ngoai-hang-anh-c48a1813081.html",
+"summary": "Video bóng đá Tottenham - Ipswich Town: Sao 18 tuổi định đoạt (Ngoại hạng Anh) (Tin tức 24h)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1pUym57UMGJe-s9fzhwf0y-pvcGEfrVkSYP5MDy92_roNd90XgAJyadVQL2U",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T06:50:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-22T07:17:34+07:00"
 },
 {
 "id": "c7a2e3d44a65",
@@ -24702,18 +24815,6 @@
 "found": "2026-11-19T16:20:32+07:00"
 },
 {
-"id": "cd19de29fccf",
-"title": "sân vận động",
-"link": "https://cafef.vn/doi-lich-hoan-thanh-san-van-dong-20000-cho-chi-bang-1-nua-my-dinh-xay-18-nam-van-chua-xong-chua-su-dung-nhung-mai-san-da-bi-lun-khan-dai-con-thieu-hang-nghin-ghe-ngoi-188261118104327722.chn",
-"summary": "Dời lịch hoàn thành sân vận động 20.000 chỗ, chỉ bằng 1 nửa Mỹ Đình: Xây 18 năm vẫn chưa xong, chưa sử dụng nhưng mái sân đã bị lún, khán đài còn thiếu hàng nghìn ghế ngồi (CafeF)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj_oJw56c2h0BvieIcP1e2I--PmiwWIU6bEhtnlCYKiSHLTO7ipJ9IyD_eSmk",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T16:10:00+07:00",
-"traffic": "500+",
-"found": "2026-11-19T16:35:42+07:00"
-},
-{
 "id": "5f4cbc167b2b",
 "title": "vinfast sadie",
 "link": "https://vnexpress.net/phone-as-a-key-diem-nhan-cong-nghe-tren-vinfast-vf-5-moi-5145673.html",
@@ -27945,106 +28046,6 @@
 "source": "VnExpress",
 "cat": "xh",
 "published": "2026-11-19T11:56:57+07:00",
-"found": "2026-11-19T12:11:44+07:00"
-},
-{
-"id": "cf923471f981",
-"title": "Mẹ livestream khoe con trai biết lái ô tô dù không có bằng: Cả nhà lên công an làm việc",
-"link": "https://kenh14.vn/me-livestream-khoe-con-trai-biet-lai-o-to-du-khong-co-bang-ca-nha-len-cong-an-lam-viec-21526111912004225.chn",
-"summary": "Đoạn clip con trai chưa có bằng lái xe chở bố mẹ đã khiến nhiều người bức xúc.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795064463499-17950644645311603006865.gif",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T11:55:00+07:00",
-"found": "2026-11-19T12:11:44+07:00"
-},
-{
-"id": "7437ad829de5",
-"title": "Cầu Giấy lập lại kỷ cương đất đai, trật tự xây dựng và an toàn phòng cháy",
-"link": "https://cafef.vn/cau-giay-lap-lai-ky-cuong-dat-dai-trat-tu-xay-dung-va-an-toan-phong-chay-188261119105457818.chn",
-"summary": "Thực hiện chủ trương của Thành ủy và UBND thành phố Hà Nội về tổng kiểm tra, xử lý dứt điểm các công trình, nhà xưởng, kho bãi vi phạm pháp luật về đất đai, trật tự xây dựng và phòng cháy, chữa cháy, cả hệ thống chính trị phường Cầu Giấy đã vào cuộc đồng bộ với tinh thần “không…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795060252323-17950602543501697432344.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-19T11:54:00+07:00",
-"found": "2026-11-19T12:11:44+07:00"
-},
-{
-"id": "3c0aa72a2e8c",
-"title": "Con trai 18 tuổi chưa có bằng vẫn lái ô tô: Hai bố con bị phạt 77 triệu đồng",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2RVclV2MHQ3bkcwQnhPeUVXYUY1eXVvcHVxSHYzdUw1bXVmcVRpdEVBWXExQ0VZOWNPbnhwcFhuNTVpd2N0V0Y4d2NHUDJaRzlLWnlJMkQzMFNmQi04dWhHaUhQMVBVVlo4MFIya1l6dHEwMXd1ekktOV9oTGpvM2V6UE5jREhBVFlsd1FkWnpHUmgtN3BMZ0F1NlBBc2pvZkpQdXVkNmt4Zkd3OFE?oc=5",
-"summary": "Nguồn: VTC News",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-19T11:53:19+07:00",
-"found": "2026-11-20T09:23:42+07:00"
-},
-{
-"id": "083201ce92e4",
-"title": "Nhà không sổ đỏ của ông Lê Thanh Thản được định giá khoảng 53 triệu đồng/m²",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW5yUWtmb19xVktudTFwYUFQTzNfUkxDVVdldXgtekpKODIxemZXTDVNakVNXzlpV1VXRHVxUElob1dIUmVKSjNfamNWMm4wbEpsYjVHQUpsR0FpclFYeGVPZ3Q5Y0JoTEluQThhdUxHRExQQ3czY1QtOXNZRk44MFhYOEY3enU5cUNFcy13R3diYUxyUVY2ZC1fYmNjY1ZFWWNuQ0F2NVhZcGRw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T11:53:00+07:00",
-"found": "2026-11-19T11:56:34+07:00"
-},
-{
-"id": "29175c8bd5a4",
-"title": "Lãi suất ngân hàng: Trái phiếu neo cao, tiết kiệm hạ nhiệt",
-"link": "https://cafef.vn/lai-suat-ngan-hang-trai-phieu-neo-cao-tiet-kiem-ha-nhiet-188261119112330236.chn",
-"summary": "Trong khi lãi suất tiền gửi tiết kiệm có xu hướng giảm từ 0,5-1%/năm nhiều ngân hàng vẫn huy động vốn qua kênh trái phiếu với mức lãi suất 9-10%/năm. Diễn biến này cho thấy nhu cầu bổ sung nguồn vốn trung và dài hạn của các nhà băng vẫn rất lớn, trong bối cảnh áp lực cân đối…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795062175897-17950621761751442177959.webp",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-19T11:50:00+07:00",
-"found": "2026-11-19T11:56:34+07:00"
-},
-{
-"id": "485209fea8e1",
-"title": "lee jin woo",
-"link": "https://www.koreajoongangdaily.com/korea/man-accused-of-using-ai-to-achieve-perfect-score-on-law-school-entrance-exam-found-unresponsive-at-seoul-motel/12981201",
-"summary": "Man accused of using AI to achieve perfect score on law school entrance exam found unresponsive at Seoul motel (Korea JoongAng Daily)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3QSxhCWMkaj0q3ATr0pK8GKCgjOx_tRgKjoW--NAjxIWU8pXhvt2_myBjUEU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T11:50:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-19T12:11:44+07:00"
-},
-{
-"id": "5da5f65c840a",
-"title": "Việt Nam có thể gặp Indonesia ở vòng loại hai World Cup 2030",
-"link": "https://vnexpress.net/viet-nam-co-the-gap-indonesia-o-vong-loai-hai-world-cup-2030-5146515.html",
-"summary": "Việt Nam nằm ở nhóm hai, còn Indonesia ở nhóm ba trước lễ bốc thăm chia bảng vòng loại hai World Cup 2030 – khu vực châu Á.",
-"image": "https://i1-thethao.vnecdn.net/2026/11/19/screenshot-at-1795062549-5063-1795062587.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=fKxqfd0V2JfKoMPCfcTimQ",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-19T11:47:41+07:00",
-"found": "2026-11-20T09:55:38+07:00"
-},
-{
-"id": "33969b934580",
-"title": "Cổ đông Vietcombank, VietinBank và BIDV mất hơn 133.000 tỷ từ đầu năm: Giá trị 3 ngân hàng lớn nhất Việt Nam không bằng một nửa Vingroup dù vốn chủ sở hữu gấp 3 lần, tài sản gấp 6 lần",
-"link": "https://cafef.vn/co-dong-vietcombank-vietinbank-va-bidv-mat-hon-133000-ty-tu-dau-nam-gia-tri-3-ngan-hang-lon-nhat-viet-nam-khong-bang-mot-nua-vingroup-du-von-chu-so-huu-gap-3-lan-tai-san-gap-6-lan-188261119115254646.chn",
-"summary": "Từ đầu năm 2026 đến nay, tổng vốn hóa của Vietcombank, VietinBank và BIDV đã giảm hơn 133.000 tỷ đồng, trái ngược với mức tăng gần 600.000 tỷ đồng của Vingroup. Sự phân hóa này khiến tổng giá trị thị trường của ba ngân hàng quốc doanh lớn nhất sàn chứng khoán hiện chưa bằng một…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/vietcombank-vietinbank-bidv-doanh-thu-ngang-ngua-nhau-dieu-gi-lam-nen-loi-nhuan-khac-biet1682912534-1709042663106366852216-1795063953181125143742.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-19T11:45:00+07:00",
-"found": "2026-11-19T11:56:34+07:00"
-},
-{
-"id": "8089e623c238",
-"title": "TP.HCM khởi công dự án nhà ở xã hội quy mô lớn nhất từ trước đến nay",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMzJhYWVMQ1JuS3NqeEthSE9MRVllVmwxSEhLYmdtS1UxU2E5YVloN2xyRnFxZ3pyUGx1WGdQQWxvcGVyTVhrblBrb0JIMXQ5WjZpVngxZEU2WWZnanY2R3dwUUExMTRWMlBjOGEyc01qQW5aU0dmeU1Wdkw0WjlWSDlORzA2d213YmlKSUExbTJiMTRhTm5RR0twX0o5cW81TFJv?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T11:45:00+07:00",
 "found": "2026-11-19T12:11:44+07:00"
 }
 ]
