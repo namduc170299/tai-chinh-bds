@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T16:09:34+07:00",
-"new": 9,
+"updated": "2026-11-22T16:24:43+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "063b9d976754",
+"title": "Tôm Việt làm gì trước 'tứ bề' sức ép?",
+"link": "https://thanhnien.vn/tom-viet-lam-gi-truoc-tu-be-suc-ep-185261122152420077.htm",
+"summary": "Trước sức ép từ các đối thủ cạnh tranh, để giữ vững tăng trưởng xuất khẩu, ngành tâm Việt Nam phải giảm giá thành và nâng tỉ lệ nuôi thành công. Đó là nội dung được các đại biểu đặt ra tại Diễn đàn bàn về hướng đi của ngành tôm Việt Nam.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/edit-xuat-khau-17953348888402027495727-182-0-1348-1866-crop-1795335009924717095723.jpeg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-22T16:20:00+07:00",
+"found": "2026-11-22T16:24:43+07:00"
+},
+{
 "id": "71b729cd90f1",
 "title": "Cụ ông tử vong sau khi rơi từ tầng cao xuống đất ở Hà Nội",
 "link": "https://vietnamnet.vn/cu-ong-tu-vong-sau-khi-roi-tu-tang-cao-xuong-dat-o-ha-noi-2577588.html",
@@ -246,6 +257,41 @@
 "found": "2026-11-22T16:09:34+07:00"
 },
 {
+"id": "3dcd4c2247c8",
+"title": "giá vàng 22 11 2026",
+"link": "https://tuoitre.vn/gia-vang-the-gioi-giam-manh-nhat-trong-8-thang-tuan-toi-co-nhich-len-100261122094553541.htm",
+"summary": "Giá vàng thế giới giảm mạnh nhất trong 8 tháng, tuần tới có nhích lên? (Báo Tuổi Trẻ)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR37m2A4BWsXRkPdKMWuCcbfvPTEmG_SVwO2eokYNoAHvIAz8ROhFoZCxXDgdQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T16:00:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-22T16:24:43+07:00"
+},
+{
+"id": "eda92d4f4f5d",
+"title": "giá cà phê tây nguyên hôm nay",
+"link": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2211-gia-ca-phe-trong-nuoc-giam-ve-72000-dongkg-post1352207.vov",
+"summary": "Giá cà phê hôm nay 22/11: Giá cà phê trong nước giảm về 72.000 đồng/kg (VOV.VN)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQly_ryvXAtk82VlGRWXcCPhhqXC--B5F02Ue3sobs9620NFRrJUyV5DbpsMz4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T16:00:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-22T16:24:43+07:00"
+},
+{
+"id": "1fcc55764ab1",
+"title": "Xếp hàng mua 3 lượng vàng dịp Thần Tài, bạn trẻ lỗ gần 170 triệu sau gần 9 tháng",
+"link": "https://dantri.com.vn/kinh-doanh/xep-hang-mua-3-luong-vang-dip-than-tai-ban-tre-lo-gan-170-trieu-sau-gan-9-thang-20261122154748110.htm",
+"summary": "(Dân trí) - Mất cả buổi sáng xếp hàng ngày Thần Tài, anh Quốc Minh (TPHCM) dồn toàn bộ tiền nhàn rỗi mua 3 lượng vàng với giá 185 triệu đồng/lượng. Gần 9 tháng sau, giá vàng lao dốc khiến khoản đầu tư 555 triệu đồng tạm lỗ gần 170 triệu đồng.",
+"image": "https://cdnphoto.dantri.com.vn/XJ1c2kN4wxyWFxvyTD7JHbzPSug=/2026/11/22/vang-sjc-3-cropped-1795337091619.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-22T15:59:03+07:00",
+"found": "2026-11-22T16:24:43+07:00"
+},
+{
 "id": "26850b16aae8",
 "title": "Võ Hạ Trâm, Hoàng Dũng, 14 Casper, Tăng Phúc… khuấy đảo bữa tiệc âm nhạc sinh viên",
 "link": "https://thanhnien.vn/vo-ha-tram-hoang-dung-14-casper-tang-phuc-khuay-dao-bua-tiec-am-nhac-sinh-vien-185261122155717627.htm",
@@ -265,7 +311,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T15:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-22T16:09:34+07:00"
 },
 {
@@ -610,7 +656,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T14:30:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-22T14:51:42+07:00"
 },
 {
@@ -28023,50 +28069,6 @@
 "cat": "tc",
 "published": "2026-11-19T17:27:20+07:00",
 "found": "2026-11-19T17:35:18+07:00"
-},
-{
-"id": "a03f3e93fe03",
-"title": "Thủ tướng: Đưa chứng khoán trở thành kênh huy động vốn trung và dài hạn chủ lực nền kinh tế",
-"link": "https://tuoitre.vn/thu-tuong-dua-chung-khoan-tro-thanh-kenh-huy-dong-von-trung-va-dai-han-chu-luc-nen-kinh-te-100261119150627319.htm",
-"summary": "Nhân kỷ niệm 30 năm Ngày truyền thống ngành chứng khoán Việt Nam, Thủ tướng Lê Minh Hưng gửi thư chúc mừng, ghi nhận những đóng góp của ngành trong ba thập kỷ qua, đồng thời kỳ vọng thị trường chứng khoán có bước phát triển đột phá, trở thành kênh huy động vốn trung và dài hạn…",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/img5710-1780451873655677384505-17950752525051440844646-84-0-1334-2000-crop-1795075267579636892461.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-19T17:27:00+07:00",
-"found": "2026-11-19T17:46:35+07:00"
-},
-{
-"id": "3a8466d11eea",
-"title": "Tiếp nhận hồ sơ mua nhà ở xã hội tại dự án Eco Residence từ tháng 12/2026",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX05GendrZUxnTHJnazlqUnR5TUJ2RDRDQ0lGSUpJekVXRzE5Rk9sZVZBcTJPZkI2NEVsRFRfTjh5Y2Q0XzFwOVFMU3dlNERjazdKTFRNWU5XVWRFTU1HTEpxMVpEMVVIbzlNOVRwTDRMMkd0eENnektOeWt1bXUzR2lYY0MyeWZHR004YkhHZlVtY2tzUWRvZDQtZ29laW5PMVpuSEFhYUZEQQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T17:27:00+07:00",
-"found": "2026-11-20T09:23:42+07:00"
-},
-{
-"id": "bfe9c2ec5f10",
-"title": "Lai Châu: Công đoàn gắn kết người lao động, nâng cao hiệu quả bảo vệ rừng",
-"link": "https://vietnamnet.vn/lai-chau-cong-doan-gan-ket-nguoi-lao-dong-nang-cao-hieu-qua-bao-ve-rung-2576833.html",
-"summary": "Công đoàn cơ sở Quỹ Bảo vệ và Phát triển rừng Lai Châu đẩy mạnh phát triển đoàn viên, chăm lo quyền lợi người lao động, gắn hoạt động công đoàn với nhiệm vụ bảo vệ và phát triển rừng bền vững.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/lai-chau-cong-doan-gan-ket-nguoi-lao-dong-nang-cao-hieu-qua-bao-ve-rung-2237.jpg?width=0&s=kGT6p0Z4hkVS07ZPD4blmQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-19T17:25:36+07:00",
-"found": "2026-11-19T17:35:18+07:00"
-},
-{
-"id": "2b73bed71d78",
-"title": "F88 được vinh danh trong “Top 100 nơi làm việc tốt nhất Việt Nam 2026”",
-"link": "https://dantri.com.vn/kinh-doanh/f88-duoc-vinh-danh-trong-top-100-noi-lam-viec-tot-nhat-viet-nam-2026-20261119170408329.htm",
-"summary": "(Dân trí) - Trong lễ công bố ngày 18/11 tại TPHCM, F88 tiếp tục được Anphabe vinh danh trong “Top 100 nơi làm việc tốt nhất Việt Nam”, xếp thứ 4 trong nhóm doanh nghiệp quy mô vừa thuộc ngành dịch vụ tài chính, tăng 2 bậc so với năm 2025.",
-"image": "https://cdnphoto.dantri.com.vn/by0iHpxbWUO8vywa_oNcZK-mW6U=/2026/11/19/cann7437-1795082102018.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-19T17:25:13+07:00",
-"found": "2026-11-19T17:46:35+07:00"
 }
 ]
 }
