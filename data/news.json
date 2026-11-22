@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T19:49:36+07:00",
-"new": 4,
+"updated": "2026-11-22T20:05:07+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 27
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,62 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "6d5ec5a279c0",
+"title": "Mã độc tấn công qua iPhone/iPad, chủ tài khoản ngân hàng cần làm gì?",
+"link": "https://vietnamnet.vn/ma-doc-tan-cong-qua-iphone-chu-tai-khoan-ngan-hang-can-lam-gi-2575965.html",
+"summary": "Mã độc Coruna, Darksword đánh cắp dữ liệu iPhone chỉ qua một lần truy cập website, hàng loạt ngân hàng lên tiếng cảnh báo người dùng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/22/ipad-chu-tai-khoan-ngan-hang-can-lam-gi-1732.jpg?width=0&s=JHdpLb6c5goIDQuRexGDfQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-22T19:58:22+07:00",
+"found": "2026-11-22T20:05:07+07:00"
+},
+{
+"id": "eaabb809b822",
+"title": "Ông Nguyễn Thanh Nghị: Ea Kao cần chú trọng bảo tồn, phát huy văn hóa cồng chiêng",
+"link": "https://thanhnien.vn/ong-nguyen-thanh-nghi-ea-kao-can-chu-trong-bao-ton-phat-huy-van-hoa-cong-chieng-185261122174126393.htm",
+"summary": "Ngày 22.11, tại phường Ea Kao, Ủy ban MTTQ Việt Nam tỉnh Đắk Lắk phối hợp tổ chức chương trình Ngày hội Đại đoàn kết dân tộc gắn với Ngày Văn hóa Việt Nam năm 2026.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/1795348606660228709756671750072886405502876863671c8fd589f65ce2115513f858508a729e8-17953486548721992893046-68-286-1430-2465-crop-1795348811199966541103.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-22T19:58:00+07:00",
+"found": "2026-11-22T20:05:07+07:00"
+},
+{
+"id": "6100a762de0f",
+"title": "Mở lối tiêu thụ cho nhiều đặc sản miền núi Hà Tĩnh qua nền tảng số",
+"link": "https://vietnamnet.vn/mo-loi-tieu-thu-cho-dac-san-mien-nui-ha-tinh-qua-nen-tang-so-2577591.html",
+"summary": "Từ cam Khe Mây, cam Vũ Quang đến nhung hươu Hương Sơn, mật ong và các sản phẩm OCOP, đặc sản miền núi Hà Tĩnh đang được quảng bá qua livestream và các nền tảng thương mại điện tử.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/22/mo-loi-tieu-thu-cho-nhieu-dac-san-mien-nui-ha-tinh-qua-nen-tang-so-1726.png?width=0&s=lsGna_BC9LmWCn9I6tcycQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-22T19:56:57+07:00",
+"found": "2026-11-22T20:05:07+07:00"
+},
+{
+"id": "63119399d32b",
+"title": "'Hé lộ' liên danh quốc tế trúng thầu tư vấn đường sắt tốc độ cao Bắc Nam",
+"link": "https://thanhnien.vn/he-lo-lien-danh-quoc-te-trung-thau-tu-van-duong-sat-toc-do-cao-bac-nam-185261122182847423.htm",
+"summary": "Liên danh nhà thầu Pháp - Hàn Quốc - Việt Nam đã trúng Gói thầu TV-02 - Tư vấn khảo sát, lập Báo cáo nghiên cứu khả thi, bao gồm thiết kế FEED dự án đường sắt tốc độ cao Bắc - Nam.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/ho-de-xuat-cua-cong-ty-vinspeed-dau-tu-du-an-duong-sat-toc-do-cao-bac-namdo-hoa-bo-gtvt-online-1747490363357447839444-1784873-0-0-360-576-crop-17953472196841282803688.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-22T19:53:00+07:00",
+"found": "2026-11-22T20:05:07+07:00"
+},
+{
+"id": "39a6622cf8ec",
+"title": "núi nưa",
+"link": "https://www.24h.com.vn/tin-tuc-trong-ngay/tren-dinh-nui-nua-o-xu-thanh-se-dung-len-tuong-phat-lon-nhat-the-gioi-c46a1812841.html",
+"summary": "Trên đỉnh núi Nưa ở xứ Thanh sẽ dựng lên tượng Phật lớn nhất thế giới (Tin tức 24h)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTScUyDW2Jr61EBdRa-P2lW1lxWuEKPByNyiIYFw4WH40uXvmbKPYPNuDe1jf8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T19:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-22T20:05:07+07:00"
+},
+{
 "id": "6d3ebd569570",
 "title": "mu vs liv",
 "link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-liverpool-mu-ruc-lua-derby-nuoc-anh-ngoai-hang-anh-c48a1813227.html",
@@ -221,7 +277,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T19:30:00+07:00",
-"traffic": "500+",
+"traffic": "200+",
 "found": "2026-11-22T19:49:36+07:00"
 },
 {
@@ -278,8 +334,19 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T19:20:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-22T19:49:36+07:00"
+},
+{
+"id": "8c9b305b8e37",
+"title": "Phá đường dây ma túy, thu giữ 20kg cần sa",
+"link": "https://dantri.com.vn/phap-luat/pha-duong-day-ma-tuy-thu-giu-20kg-can-sa-20261122190316833.htm",
+"summary": "(Dân trí) - Một đường dây mua bán trái phép chất ma túy từ Thái Lan về Ninh Bình tiêu thụ vừa bị công an triệt phá, thu giữ 20kg cần sa.",
+"image": "https://cdnphoto.dantri.com.vn/3_fNc_G0kSjuw1GpPSEmBf6mEC8=/2026/11/22/le-xuan-hung-ma-tuy-edited-1795348870186.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-22T19:18:28+07:00",
+"found": "2026-11-22T20:05:07+07:00"
 },
 {
 "id": "e3152aa6de53",
@@ -637,7 +704,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T17:40:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-22T17:59:39+07:00"
 },
 {
@@ -3952,6 +4019,17 @@
 "cat": "xh",
 "published": "2026-11-22T09:15:00+07:00",
 "found": "2026-11-22T08:33:42+07:00"
+},
+{
+"id": "8c608576bb19",
+"title": "Bắc Ninh đầu tư hơn 720 tỷ đồng xây Cụm công nghiệp Việt Ngọc rộng 49ha",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGlwNENtSU1aTDVPYjZVN3FxMExqSWs4THpTOFFSODhfZjJvREcwc28yWDVxQ1ZaQU11aThlRFVKRlV3OXBhbUE3ZDZ4YXVwQ3c5ZlhmczZ1UHVNMW1pSEVNc2VEekNpNUhQYTZSRDFaWWx5T3AwWWVKVVlLZzcxNksyRlVBbUtoUWg1aDdxeWN0aGlsVko3TWdkMnBTSzhsTTV3ZHB6aw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-22T09:15:00+07:00",
+"found": "2026-11-22T20:05:07+07:00"
 },
 {
 "id": "46e038de482e",
@@ -27993,85 +28071,6 @@
 "cat": "bds",
 "published": "2026-11-19T20:00:00+07:00",
 "found": "2026-11-19T20:15:21+07:00"
-},
-{
-"id": "089caf4d6d63",
-"title": "u-17 hàn quốc đấu với đội tuyển bóng đá u-17 quốc gia uganda",
-"link": "https://vietnamnet.vn/lich-thi-dau-va-truc-tiep-u17-world-cup-2026-hom-nay-19-11-2057203.html",
-"summary": "Lịch thi đấu và trực tiếp U17 World Cup 2026 hôm nay 19/11 (Báo VietNamNet)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnoXowc9E75qHCWYZiq7QmrFkda2qNYqXJcnJKrf826TsqRExhp80x5hkaYTw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T20:00:00+07:00",
-"traffic": "500+",
-"found": "2026-11-19T20:30:31+07:00"
-},
-{
-"id": "193e7ccb2400",
-"title": "tân nhàn",
-"link": "https://dantri.com.vn/giai-tri/pgsnsut-tan-nhan-duoc-thu-tuong-khen-thuong-dip-70-nam-hoc-vien-am-nhac-20261119150003859.htm",
-"summary": "PGS.NSƯT Tân Nhàn được Thủ tướng khen thưởng dịp 70 năm Học viện Âm nhạc (Báo Dân trí)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHQjb4T8ilNzWC2BTx8YY3yiNdoiV6uAbldEa_kq8alaMUFTFKA5XDArYE-Ys",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T20:00:00+07:00",
-"traffic": "200+",
-"found": "2026-11-19T20:30:31+07:00"
-},
-{
-"id": "f3c94da0ffe3",
-"title": "Hiệp hội logistics lo chi phí tăng nếu sớm dời sang sân bay Long Thành",
-"link": "https://dantri.com.vn/kinh-doanh/hiep-hoi-logistics-lo-chi-phi-tang-neu-som-doi-sang-san-bay-long-thanh-20261119175457266.htm",
-"summary": "(Dân trí) - Do hạng mục kho chuyên dụng tại sân bay Long Thành chưa được xây dựng, các doanh nghiệp đánh giá việc chuyển hoạt động chuyển phát nhanh sang sân bay này từ mùa hè 2027 là chưa khả thi.",
-"image": "https://cdnphoto.dantri.com.vn/B-E1xKdI2zjpE55MhxgFA_of4eI=/2026/11/19/1795082160430149931244664441694768382599798549103637d012ebbbd919f0c9b27641fc2d8cd89-1795082194079.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-19T20:00:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "24ef9a2a88c3",
-"title": "FrieslandCampina Việt Nam vào Top 50 nhà tuyển dụng hấp dẫn nhất năm 2026",
-"link": "https://dantri.com.vn/kinh-doanh/frieslandcampina-viet-nam-vao-top-50-nha-tuyen-dung-hap-dan-nhat-nam-2026-20261119163024559.htm",
-"summary": "(Dân trí) - FrieslandCampina Việt Nam (FCV) vừa được vinh danh trong Top 50 thương hiệu nhà tuyển dụng hấp dẫn nhất đối với sinh viên Việt Nam năm 2026, theo kết quả khảo sát toàn quốc của Anphabe.",
-"image": "https://cdnphoto.dantri.com.vn/Dg4XOk1YvikxoES1t2Fe2BiEeVw=/2026/11/19/dan-tri-airingban-tinfcv-dantri-cropped-1795080533809.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-19T20:00:00+07:00",
-"found": "2026-11-19T20:58:36+07:00"
-},
-{
-"id": "785ed652ce6a",
-"title": "Gần 92.000 người chấp hành xong án tù chưa có việc làm ổn định: Gỡ rào cản tái hòa nhập",
-"link": "https://thanhnien.vn/gan-92000-nguoi-chap-hanh-xong-an-tu-chua-co-viec-lam-on-dinh-go-rao-can-tai-hoa-nhap-185261119191229629.htm",
-"summary": "Người chấp hành xong án phạt tù được hỗ trợ vay vốn tối đa 200 triệu đồng để sản xuất, kinh doanh, tạo việc làm; đồng thời được hỗ trợ học nghề, kết nối việc làm nhằm ổn định cuộc sống, hạn chế nguy cơ tái phạm.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-179508981154126930996957895939692100449740859438802c5e1d1f433a83cc7e3b013fa0054534-179508989847234842475-299-719-1312-2340-crop-1795090065876124010224.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T19:58:00+07:00",
-"found": "2026-11-19T20:00:10+07:00"
-},
-{
-"id": "3a3df7efcbc6",
-"title": "Chứng khoán phái sinh ngày 19/11: VN30-Index đánh mất mốc 1.800 điểm trong phiên đáo hạn",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRTE0bWc4RURFaHZtR3RuSjNmdEF0eEljdVlBWlU2T0FZOWRuaUF5emhyVy1ra252MlhNSF9iV1A1R3E2c0xpRkI1RWVYUE5TUWpHM2p1OEM4RExRRWZqMU1IOE1oSzY4c1FwUV9aNVFNSTI0Y0w0LUVlZ094UlF5VW1vX09jYTROWmozSS1UTmQzS2JXdnVBV0FpMWJzbXRabVZMQmZPZkhTLUZuMnNBVXJuOGwtejBmNC1ldA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T19:58:00+07:00",
-"found": "2026-11-19T20:15:21+07:00"
-},
-{
-"id": "da37898b6d11",
-"title": "Thủ tướng: Đưa thị trường chứng khoán trở thành kênh huy động vốn chủ lực",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRVJ3Sm1YWEJJamxpb3RjRXJfaFpXUnR0bkc3WU9uRWNFYV9ycWxjem9Yci1JbWk3TDhjdlN2TUEzMkdVSWM4cFRuWktzWW5lTExxZXhsTk44VnF6b3hkSDRDOWpLSGg1ZUtvNGNFcUtNRGcwdU9GaEtmOWdiYmk5bURPMXBMckN1NU9KUkpXQ3BGb0hZRW9SVkxwdUZYTmxFZ3pYSnp0UXM?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T19:56:00+07:00",
-"found": "2026-11-20T05:19:48+07:00"
 }
 ]
 }
