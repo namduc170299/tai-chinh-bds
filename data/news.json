@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T15:06:52+07:00",
-"new": 6,
+"updated": "2026-11-22T15:22:02+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "052fae0a2bc3",
+"title": "Rà soát trách nhiệm bồi thường thiệt hại sau sự cố vỡ hồ chứa nước Tân Lai",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcU1weWVnSnoyaUVmeGJuZWd2bVVrMUhtTTcwQkVObm9PUkZwRVAtLUZsQmZhczhOQnpMb0tFUU1hRC1mbkV3bGRjSE05VW1UTVVFRkIyckROTjdGbVc1QjhxRWlpT1huMnRKRFFjR0xEUlY5RVZHLUJMWU9ub3dSUmRjd1JGeWJRWVM5WjZsMlM2dnhPelZrYlk2bkRWQTZxYjNFSlQ3bHhHV3c?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T15:12:00+07:00",
+"found": "2026-11-22T15:22:02+07:00"
+},
+{
+"id": "7508f8eede82",
+"title": "Rà soát thiết kế kè rọ đá, bảo đảm an toàn và tránh lãng phí ngân sách",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHl1dHpYb1h1UHhvdTFLa0RmVGkyY1EwR1N4NUUya2dqWWNydzZvclQ3dWZDZU1YQkJoc0NWa1laaDVUZUZxcmpzSVBWWndNT3pQUUtKS2FmT1o4OVJseHBKc0xCZDRiSmZ6ZFhmc1N5M2FZMTdCWnZnNEVzSnUtYVRTWEJPM1dVbXdTQ25HVGhOYThuU1FVOE5CYm5GTmprYnRadw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-22T15:11:00+07:00",
+"found": "2026-11-22T15:22:02+07:00"
+},
+{
+"id": "712a4e4177b9",
+"title": "Vây bắt thành công Huỳnh Thị Khánh SN 1962",
+"link": "https://kenh14.vn/vay-bat-thanh-cong-huynh-thi-khanh-sn-1962-215261122151544003.chn",
+"summary": "Huỳnh Thị Khánh SN 1962 bị bắt khi đang ăn tại quán cà phê.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795335230692-17953352322901579842091-104-0-600-794-crop-17953353216331396442701.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T15:08:00+07:00",
+"found": "2026-11-22T15:22:02+07:00"
+},
+{
+"id": "57cbe66fc6e9",
+"title": "Hà Nội lấy ý kiến cộng đồng về phương án hướng tuyến, vị trí ga 5 tuyến metro",
+"link": "https://cafef.vn/ha-noi-lay-y-kien-cong-dong-ve-phuong-an-huong-tuyen-vi-tri-ga-5-tuyen-metro-188261122130737194.chn",
+"summary": "Thành phố Hà Nội đang tổ chức lấy ý kiến cộng đồng về phương án hướng tuyến và vị trí nhà ga của 5 tuyến đường sắt đô thị, gồm các tuyến số 1, 2, 8, 10 và 14. Các tuyến có tổng chiều dài khoảng 293 km, với 28 nhà ga ưu tiên, nhằm tiếp tục hoàn thiện quy hoạch, bảo đảm tính đồng…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795327589037-179532759072593579480.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-22T15:06:00+07:00",
+"found": "2026-11-22T15:22:02+07:00"
+},
+{
 "id": "bbd7f604c15a",
 "title": "Sự thật về tin rao bán cắt lỗ bất động sản",
 "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXhQVW54Qnd4ZFEtNzBOMGVmcUpVLU5xR3VnLUdtTnVIUFZzNVE5RnNpYWJrN3dfMGZpMzhjS3V5UU01Zkw1MXZXV3NjblAwcno2UkVDbGRxcnlkQ2pFNEFkRGo2RXFudmpzTk1VSzV5RzkyNnFyelhSTmhyeDBlcw?oc=5",
@@ -222,6 +266,17 @@
 "cat": "bds",
 "published": "2026-11-22T15:01:00+07:00",
 "found": "2026-11-22T15:06:52+07:00"
+},
+{
+"id": "44bcdd360e4e",
+"title": "Ra quyết định khởi tố chủ cơ sở thẩm mỹ JK Phạm Vũ Nguyệt Nga 26 tuổi",
+"link": "https://kenh14.vn/ra-quyet-dinh-khoi-to-chu-co-so-tham-my-jk-pham-vu-nguyet-nga-26-tuoi-215261122150810932.chn",
+"summary": "Cơ sở thẩm mỹ do Phạm Vũ Nguyệt Nga làm chủ đã thuê người giả bác sĩ, lừa hàng chục khách hàng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795334662403-17953346632902142852929.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T15:01:00+07:00",
+"found": "2026-11-22T15:22:02+07:00"
 },
 {
 "id": "4a1db5b4729d",
@@ -315,6 +370,17 @@
 "found": "2026-11-22T14:51:42+07:00"
 },
 {
+"id": "392ab5c4ff02",
+"title": "Bắt tạm giam thanh niên sát hại nữ chủ quán cà phê để cướp tài sản",
+"link": "https://dantri.com.vn/phap-luat/bat-tam-giam-thanh-nien-sat-hai-nu-chu-quan-ca-phe-de-cuop-tai-san-20261122140447511.htm",
+"summary": "(Dân trí) - Đặng Chấn Huy bị bắt tạm giam để điều tra hành vi sát hại nữ chủ quán cà phê ở Vĩnh Long, sau đó chiếm đoạt tài sản.",
+"image": "https://cdnphoto.dantri.com.vn/LwEsChJ4BzPXHbbMQpbtGnhk-zM=/2026/11/22/batbao-ky-edited-1795330785790.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-22T14:29:05+07:00",
+"found": "2026-11-22T15:22:02+07:00"
+},
+{
 "id": "109d145ab86e",
 "title": "Xử lý sai phạm tại dự án CT6 Kiến Hưng: Kỷ cương và nhân văn",
 "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcW9ZSnFEcENNdkNNQUQ5RDhjM015b005dkc1d3ZMaVgtWm5Kd1VPRklSUFc2SEdxbkpyblBCMnkzdkhlSEtVTVZ5ZjIwd2hlV3ZhQURPb3VvaGFHNG1XeElwaFpJOVpXRGVENXcyc3ZYMW9MUlhxUmlxOWhrQ0dqYWZQaW5qUTVkY0pRNXU3ckZHOW1YaHl3?oc=5",
@@ -346,6 +412,17 @@
 "cat": "xh",
 "published": "2026-11-22T14:26:00+07:00",
 "found": "2026-11-22T14:51:42+07:00"
+},
+{
+"id": "e12fe51c57d0",
+"title": "Góc nhìn chuyên gia: Nhịp giảm là cơ hội giải ngân chọn lọc, 3 nhóm cổ phiếu tiềm năng kỳ vọng đón dòng tiền mới",
+"link": "https://cafef.vn/goc-nhin-chuyen-gia-nhip-giam-la-co-hoi-giai-ngan-chon-loc-3-nhom-co-phieu-tiem-nang-ky-vong-don-dong-tien-moi-188261122141751308.chn",
+"summary": "Các chuyên gia cho rằng mặt bằng lãi suất, áp lực bán ròng của khối ngoại và những bất ổn trên thị trường quốc tế đang khiến dòng tiền duy trì trạng thái thận trọng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/images-30-17953317907221180375296-0-43-401-685-crop-17953317963751113412210.jpeg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-22T14:14:00+07:00",
+"found": "2026-11-22T15:22:02+07:00"
 },
 {
 "id": "a1a90e1aa61e",
@@ -468,6 +545,17 @@
 "published": "2026-11-22T13:40:00+07:00",
 "traffic": "200+",
 "found": "2026-11-22T14:04:30+07:00"
+},
+{
+"id": "862a27b6a64f",
+"title": "Miền Bắc nắng ấm trước khi đón đợt gió rét mới từ 24-11",
+"link": "https://tuoitre.vn/mien-bac-nang-am-truoc-khi-don-dot-gio-ret-moi-tu-24-11-100261122105239579.htm",
+"summary": "Dự báo hôm nay và ngày mai (23-11), miền Bắc và miền Trung nắng ấm, ít mưa, trời chỉ còn rét về đêm và sáng sớm. Từ khoảng sáng 24-11, một đợt gió mùa mới tràn về khiến miền Bắc trở rét, còn miền Trung mưa lớn.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/gio-ret3-17953193956081647075372-126-74-1280-1920-crop-17953194404081877664937.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-22T13:35:00+07:00",
+"found": "2026-11-22T15:22:02+07:00"
 },
 {
 "id": "caa89a75a310",
@@ -3835,6 +3923,17 @@
 "found": "2026-11-22T07:02:04+07:00"
 },
 {
+"id": "84886787246f",
+"title": "Giá vàng hôm nay 22/11: SJC mất 6 triệu đồng/lượng chỉ trong ít ngày",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHl1S3QydlduRjg0cU9YYTNUQ1FqTmZobVhCS3JISHFvQVdZVkd6dHBGa0ttbmdJR1owODBTTkc3VURlNjg2YVZOYnRIdHpVMGhPZUNjTEJ5RjdGX0R3YTBqLVUyWUxKZ0tPQ1dIMjktMUZoWUtaX1hLbFdXQnIwRFRXVVd1SHhOOFpxZloxeVpmSENmMjhzMUpMVm5tZWNDU2c?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T06:00:00+07:00",
+"found": "2026-11-22T15:22:02+07:00"
+},
+{
 "id": "40873d44e3a1",
 "title": "Cấp sổ đỏ cho người đã qua đời, 307m2 đất bị ‘biến mất’ sau khi đo đạc",
 "link": "https://vietnamnet.vn/cap-so-do-cho-nguoi-da-chet-307m2-dat-bi-bien-mat-sau-do-dac-2573297.html",
@@ -5780,6 +5879,17 @@
 "cat": "xh",
 "published": "2026-11-21T20:04:00+07:00",
 "found": "2026-11-21T20:16:06+07:00"
+},
+{
+"id": "fe5f0642b28b",
+"title": "Nâng cao chất lượng nguồn nhân lực dân tộc thiểu số, đáp ứng yêu cầu phát triển",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVhTRjd1NHpkRDlrM0VGM1VVeldXUmpzREFWU055M0VnZ1NyQzJwdHRRbHkzdTFwOGpmbmpiVzhROTMyYmllQXVudTM3SnpRdVhzUW5CWUdUTnYxODQ3MzJnM2lJTjRSN0tEcXE4NHBvbGhRRUJNaVM2RExGY1JUV2JaTzFmVU9rd2hDMU1QUEZ5b1B3RmJHa0pjNDltZ3BhRUpVRzIyU3RkOFlVdklJeQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-21T20:03:00+07:00",
+"found": "2026-11-22T15:22:02+07:00"
 },
 {
 "id": "2b6c8732b7dc",
@@ -27955,117 +28065,6 @@
 "cat": "tc",
 "published": "2026-11-19T16:55:00+07:00",
 "found": "2026-11-19T23:26:05+07:00"
-},
-{
-"id": "b8703b5d4c5a",
-"title": "Tập đoàn Sơn Hà lấn sân làm nhà ở xã hội với dự án hơn 1.100 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN0dCV3NYUTMxWWktWTI1UG1uOFh3RWJkT3BVVnNSMmxRbGVSYWJxcld5M1dfRnlGUHhURVgzUUdnQ1ZObzFkSFNRTlNzMkk3d3NwQVFJQkwzd0RpYVlvV01rbHRnMDlGdE85aExTbDVid2kwMDg4Y2h3YnlZZGt5M2Y3Vld6YjdOUUxrUlhwS0tPTjdibGxydzJZNFNCOEtjVFFV?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T16:49:27+07:00",
-"found": "2026-11-19T17:04:55+07:00"
-},
-{
-"id": "978827289a87",
-"title": "Phối hợp với ngành GD-ĐT là nhiệm vụ trên hết của Đoàn",
-"link": "https://thanhnien.vn/phoi-hop-voi-nganh-gd-dt-la-nhiem-vu-tren-het-cua-doan-18526111916130697.htm",
-"summary": "Chúc mừng Bộ GD-ĐT nhân Ngày Nhà giáo Việt Nam, Bí thư thường trực T.Ư Đoàn Nguyễn Minh Triết khẳng định trong các quan hệ phối hợp với các ngành, ngành GD-ĐT giữ vị trí đặc biệt quan trọng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-anh-nguyen-minh-triet-3-17950792275781939426226-0-101-569-1011-crop-17950794877971501972057.jpg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-19T16:49:00+07:00",
-"found": "2026-11-19T16:49:44+07:00"
-},
-{
-"id": "872d57f6f4af",
-"title": "Cục Hàng không siết tình trạng vé máy bay 'tăng nhanh, giảm chậm'",
-"link": "https://thanhnien.vn/cuc-hang-khong-siet-tinh-trang-ve-may-bay-tang-nhanh-giam-cham-185261119162818982.htm",
-"summary": "Giá xăng dầu hạ nhiệt, Cục Hàng không Việt Nam yêu cầu các hãng hàng không thực hiện nghiêm việc kê khai, niêm yết giá, bán đúng giá công bố, không để tình trạng 'tăng nhanh, giảm chậm'",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/may-bay-tai-san-bay-tan-son-nhat-anh-doc-lap-3-1764432706760809535356-17745260849511119834122-121-0-1401-2048-crop-1795080463838441203556.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-19T16:42:00+07:00",
-"found": "2026-11-19T16:49:44+07:00"
-},
-{
-"id": "4617f7c9be54",
-"title": "Thông báo về việc tìm chủ sử dụng đất để thực hiện công tác bồi thường, hỗ trợ, tái định cư Dự án: Đường giao thông liên vùng qua huyện Diên Khánh - Địa điểm: Xã Diên Điền, tỉnh Khánh Hòa",
-"link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMFZHTFNaTmV6eGlXUFh3dUx2dGtwS01uWkgwZTJrM3hPZ3ZVUndYaTRmOGlZY0NTcGVyakpOcFE4bWlTRmhsMnBjb2pQd1Z2S0RUdjBQVTI5VWhxRy1HNFFoYXpuU29lM2lNeU91bFB4VHRFMEtsdm5mMlU1dm84Tm5qVkJUbHl2UFdGaGRxNDYxaXNyWHExdnoyaE1TTTdsVjZrTEgwWlF0OGxrOTlwTDc2WjltbDFzY1FMVV80Y3dkSEp0WkRQTlRMa0U1RVlVNlhkMkpOYzhmSTd4UEdqd3lTTTl0M3Y1ZTBDeHBnSVcwTlJoS3pGRDdRenkyeHlpSFJaWXFDUWhaOTM0cmVSVWdHNy1HSmE4Wk1wb2UyS2NsUEVBUDJjOWdjcWFzQmJEZWJ2XzViakE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T16:42:00+07:00",
-"found": "2026-11-19T16:49:44+07:00"
-},
-{
-"id": "48a0917d07ce",
-"title": "Ngày Văn hóa Việt Nam: Xem hát bội, cải lương giữa trung tâm TP.HCM",
-"link": "https://thanhnien.vn/ngay-van-hoa-viet-nam-xem-hat-boi-cai-luong-giua-trung-tam-tphcm-185261119160942492.htm",
-"summary": "Từ ngày 22 - 24.11, người dân TP.HCM và du khách có thể xem hát bội, cải lương, đờn ca tài tử, trình diễn 3D mapping miễn phí trên phố đi bộ Nguyễn Huệ. Đây là chuỗi hoạt động nhân Ngày Văn hóa Việt Nam 24.11.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-4396bd41cfc67c9825d7-1745073160520849638624-1795078556050937307748-1795079139457908037958-74-0-874-1280-crop-17950805019191028650074.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T16:41:00+07:00",
-"found": "2026-11-19T16:49:44+07:00"
-},
-{
-"id": "03527fe5d931",
-"title": "CSGT TPHCM lý giải tình trạng xe máy lấn làn xe đạp ở đường Mai Chí Thọ",
-"link": "https://vietnamnet.vn/ly-giai-tinh-trang-xe-may-lan-lan-xe-dap-o-duong-mai-chi-tho-2576804.html",
-"summary": "CSGT TPHCM cho biết nhiều công trình thi công gây áp lực giao thông trên đường Mai Chí Thọ, song nguyên nhân trực tiếp khiến xe máy lấn làn xe đạp vẫn là ý thức của một bộ phận người dân.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/csgt-tphcm-ly-giai-tinh-trang-xe-may-lan-lan-xe-dap-o-duong-mai-chi-tho-2025.jpg?width=0&s=TWlnv3OLmauPqvaifWKKOw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T16:40:43+07:00",
-"found": "2026-11-19T16:49:44+07:00"
-},
-{
-"id": "c110cfd9fb4d",
-"title": "doran",
-"link": "https://fptshop.com.vn/tin-tuc/for-gamers/chuyen-nhuong-lmht-2027-216741",
-"summary": "Cập nhật thông tin chuyển nhượng LMHT 2027 mới nhất: Zeus trở lại T1, Kiin và Canyon gia nhập HLE? (FPT Shop)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCxhUMO4CH6wFoHEOf13t1eFYqFYoAU38QqGDl4_EJZWnb-ww8K3KxcLsZNjw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-19T16:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-19T17:04:55+07:00"
-},
-{
-"id": "a87fa2acfeca",
-"title": "Thẻ tín dụng nội địa tăng 63%, vì sao công nhân vẫn khó tiếp cận?",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOal94M1VDSmFRdGJUaEx1OFFDSDFZUlcxWWFKZkNFMHJoQ2k2OGJaX2tkemFJaU1PTTlqOV9KVHlMcUd3cDRlQTg5cWxwRFQzUjVRS2lIRE5SODJqQ2FkTnhEWDZReDBlN2h0V3ZLQm1TZ1BJc2gwS0JrelhCQnlSNlpkb1h4SG95WnpyU05ya1FjWVpjX3hfX0VjWQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T16:40:00+07:00",
-"found": "2026-11-20T01:05:56+07:00"
-},
-{
-"id": "d66a7f0d225e",
-"title": "Khối ngoại bán ròng 1.000 tỷ đồng, xả mạnh các mã ngân hàng",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2t3dGEtU3ZiMHFnM3RCdjFmVU9FSGUwNmNYeHBYTTlsMDhuNDMyV01aX0hWTDdVUF9Ub25iTHJCMGprZlFiNV9JOE9WQUVMVk5YRk9Ec0ZWeXlPd1BaTWJTajhSM3oxcW11TDBlU3FienZuZmtJT3Z1ZzBWS1ByU3hENUhQcXQ1NkRUb3NKdjliMEYxZWc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T16:40:00+07:00",
-"found": "2026-11-21T14:52:31+07:00"
-},
-{
-"id": "c70a82ef576f",
-"title": "Minh bạch giá đất, sử dụng hiệu quả nguồn lực",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZTd3Q2tQTDZ6MmFMMFl2UGp2cElKc0E2OU5iMlo2U3Y0Y3hpeWJ4SkU5R2EwN0l0U0hRZHpyLWpseFhlelVZMy1LYlB6VlBBTmhJRU4xMkl6b3lWUjZtN2hlc3Rya21OOTRtcVV5dVJ4WjhwSTU3OGFaNVhWeC1TMENXZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T16:38:00+07:00",
-"found": "2026-11-20T07:41:21+07:00"
 }
 ]
 }
