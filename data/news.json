@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T12:08:56+07:00",
-"new": 11,
+"updated": "2026-11-22T12:24:07+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 53
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,61 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "6ba712cc3048",
+"title": "Ngày hội đặc biệt giúp hơn 2.000 thiếu nhi Khánh Hòa tiếp cận AI, STEM",
+"link": "https://thanhnien.vn/ngay-hoi-dac-biet-giup-hon-2000-thieu-nhi-khanh-hoa-tiep-can-ai-stem-185261122105636838.htm",
+"summary": "Ngày hội Thiếu nhi Việt Nam - Học tập sáng tạo tại Khánh Hòa mang đến cho thiếu nhi cơ hội khám phá khoa học, trải nghiệm STEM, làm quen với trí tuệ nhân tạo và rèn kỹ năng sống qua những sân chơi bổ ích.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/1795317490023156996532433357547476018694562106018603506bd38d5716ed1e98fe77a02b99585-17953195777721728013427-0-0-1600-2560-crop-1795324910731278263123.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-22T12:22:00+07:00",
+"found": "2026-11-22T12:24:07+07:00"
+},
+{
+"id": "5050a9e48c49",
+"title": "Phó thủ tướng Hồ Quốc Dũng dự Ngày hội Văn hóa công nhân năm 2026",
+"link": "https://thanhnien.vn/pho-thu-tuong-ho-quoc-dung-du-ngay-hoi-van-hoa-cong-nhan-nam-2026-185261122115013442.htm",
+"summary": "Sáng 22.11, tại TP.Bắc Ninh, Phó thủ tướng Hồ Quốc Dũng tham dự lễ phát động Ngày hội Văn hóa công nhân trong các cấp công đoàn và Ngày hội Văn hóa công nhân cấp tổng liên đoàn năm 2026.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/pho-thu-tuong-ho-quoc-dung-tai-bac-ninh-1795321924624768915397-0-0-1600-2560-crop-17953220293091356161750.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-22T12:19:00+07:00",
+"found": "2026-11-22T12:24:07+07:00"
+},
+{
+"id": "6629d7f9ee9f",
+"title": "Bất động sản nhiễu loạn vì ma trận tin cắt lỗ ảo: Làm sao triệt tận gốc?",
+"link": "https://vietnamnet.vn/bat-dong-san-nhieu-loan-vi-ma-tran-tin-cat-lo-ao-2577579.html",
+"summary": "Các chuyên gia cảnh báo, tình trạng tin rao “cắt lỗ” giả xuất hiện tràn lan trên các hội nhóm bất động sản có thể làm suy giảm thanh khoản, gây đình trệ dòng vốn và ảnh hưởng tới toàn thị trường.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/22/bat-dong-san-nhieu-loan-vi-ma-tran-tin-cat-lo-ao-lam-sao-triet-tan-goc-976.png?width=0&s=Tsd0_LR0HoYw9K5MA311tQ",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-22T12:15:04+07:00",
+"found": "2026-11-22T12:24:07+07:00"
+},
+{
+"id": "5c75f4e78279",
+"title": "Áp lực thanh toán trái phiếu doanh nghiệp đổ dồn trong tháng cuối năm",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1NGNG5JZVZIbEZvT3VKWUFMV0lJN01qdnRYYzdXYnp3NHJQNUxBRUU4b3ZBeWlGRVBCNC1JMExyNHdQd2lzX1BreWp4MEVDTjNybU83cmpORzYxc3NrYkdHNldSYkluUDFzVlpwTmtIc1B6TXpKSDNKeURsRjl3X3RRZzVtUjRWbzZmWjNBQi1OaFZvSFE2c3N3ZnhPdE5MNkJvZg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T12:09:22+07:00",
+"found": "2026-11-22T12:24:07+07:00"
+},
+{
+"id": "f486aef07be1",
+"title": "Lỗ gần 13 tỷ NDT, ông lớn ngành quang điện Trung Quốc chao đảo",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmV1OEhPMFBqaXRVR0ZpcXFKYklDckxTdllTZnh4Wi0ybkVHbGFlbDVRT2JNQ29HbHhaRjRwV1F6MXpwSkQ3b2phTU5HbTJ4TmRscTlhU0NMZDZQcGlLR0dkX25ZNnNBOHd5Y1hEa195YUtodW5CSVU2Z2k4V1ZmSzBDZ1lMY29RelQtSk82SWF6dFpHX3NRUlNR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T12:06:52+07:00",
+"found": "2026-11-22T12:24:07+07:00"
+},
+{
 "id": "6dbd91a3d1ac",
 "title": "Đuổi đánh nhau trước cửa quán karaoke, 9 người bị bắt tạm giam",
 "link": "https://vietnamnet.vn/duoi-danh-nhau-truoc-cua-quan-karaoke-9-nguoi-bi-bat-tam-giam-2577578.html",
@@ -244,6 +299,18 @@
 "cat": "tc",
 "published": "2026-11-22T12:02:00+07:00",
 "found": "2026-11-22T12:08:56+07:00"
+},
+{
+"id": "cc04925234cb",
+"title": "nguyễn phương hằng",
+"link": "https://trends.google.com/trending/rss?geo=VN",
+"summary": "",
+"image": "",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-22T12:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-22T12:24:07+07:00"
 },
 {
 "id": "542ef1728a20",
@@ -356,8 +423,19 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T11:30:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-22T11:53:47+07:00"
+},
+{
+"id": "8ac4986969b7",
+"title": "Người độc thân, chưa có con nhỏ ở lại làm việc trễ, đánh giá lao động lại 'ưu tiên' cho người về sớm",
+"link": "https://tuoitre.vn/nguoi-doc-than-chua-co-con-nho-o-lai-lam-viec-tre-danh-gia-lao-dong-lai-uu-tien-cho-nguoi-ve-som-100261120185654005.htm",
+"summary": "Ở công ty, người có con nhỏ thường được ưu tiên về sớm đón con, còn những người như tôi lại mặc nhiên được xem có thể ở lại trễ để hoàn thành phần việc còn dang dở.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/soc-nhiet-van-phong-1746578897487976714612-0-0-373-597-crop-17952744700741965570812.png",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-22T11:30:00+07:00",
+"found": "2026-11-22T12:24:07+07:00"
 },
 {
 "id": "b01e51b62608",
@@ -402,6 +480,17 @@
 "cat": "xh",
 "published": "2026-11-22T11:26:00+07:00",
 "found": "2026-11-22T11:38:37+07:00"
+},
+{
+"id": "6fbf9a976036",
+"title": "Đi cà phê người tìm góc xanh, người săn khoảng lặng",
+"link": "https://tuoitre.vn/di-ca-phe-nguoi-tim-goc-xanh-nguoi-san-khoang-lang-10026111818301758.htm",
+"summary": "Không phải lúc nào cũng cần tụ họp hay ồn ào, đôi khi bạn trẻ tìm đến quán cà phê chỉ để tìm một chỗ ngồi dễ chịu, nghe chút nhạc hay đâu đó dưới tán cây xanh và có cho riêng mình chút lắng đọng không nghĩ ngợi quá nhiều.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/img9917-1795001215970207357939-76-0-1676-2560-crop-17950015211101523393167.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-22T11:26:00+07:00",
+"found": "2026-11-22T12:24:07+07:00"
 },
 {
 "id": "0b85802a50a5",
@@ -534,6 +623,17 @@
 "cat": "xh",
 "published": "2026-11-22T11:03:23+07:00",
 "found": "2026-11-22T11:38:37+07:00"
+},
+{
+"id": "0de2f629b5d6",
+"title": "Những chính sách lớn vừa được Quốc hội thông qua",
+"link": "https://vnexpress.net/nhung-chinh-sach-lon-vua-duoc-quoc-hoi-thong-qua-5147625.html",
+"summary": "Quốc hội thông qua 38 luật, 18 nghị quyết với nhiều chính sách mới về đất đai, nhà ở, thuế, đầu tư, an sinh xã hội, tư pháp và phát triển hạ tầng, sau 27 ngày làm việc.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/2aOboRE9HSCJgWFMZj53rwI9EJNLw0-9114-8344-1795320712.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oBMdEb2EPYYAiw5iSH2QTA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-22T11:00:00+07:00",
+"found": "2026-11-22T12:24:07+07:00"
 },
 {
 "id": "f7fe6ff3a08c",
@@ -3155,6 +3255,17 @@
 "cat": "xh",
 "published": "2026-11-22T04:00:00+07:00",
 "found": "2026-11-21T04:15:58+07:00"
+},
+{
+"id": "251ab01a0724",
+"title": "Nhân viên văn phòng rủ nhau chăm mộ, bảo vệ nghĩa trang",
+"link": "https://vnexpress.net/nhan-vien-van-phong-ru-nhau-cham-mo-bao-ve-nghia-trang-5146312.html",
+"summary": "Cuối tuần, Thùy Dương cùng đồng nghiệp đi xe máy hơn 60 km từ Hà Nội lên Hòa Bình cũ chăm mộ, dọn cỏ khuôn viên nghĩa trang trong một ngày.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/a3-1795015600-7563-1795015616.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=07JQlYIkdJ7P5qa-dWhciw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-22T04:00:00+07:00",
+"found": "2026-11-22T12:24:07+07:00"
 },
 {
 "id": "c486e8dfc5a1",
@@ -27950,116 +28061,6 @@
 "cat": "bds",
 "published": "2026-11-19T15:30:00+07:00",
 "found": "2026-11-20T04:03:12+07:00"
-},
-{
-"id": "e5ce5c40f576",
-"title": "Tử hình bác sĩ sát hại 2 mẹ con ở Bình Dương cũ",
-"link": "https://thanhnien.vn/tu-hinh-bac-si-sat-hai-2-me-con-o-binh-duong-cu-185261119144206444.htm",
-"summary": "Ngày 19.11, Hội đồng xét xử TAND TP.HCM đã tuyên án tử hình đối với Lương Quý Lộc (33 tuổi, làm bác sĩ tại một phòng khám ở Bình Dương cũ) về tội 'giết người' và 'cướp tài sản'.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/1-1-1795074039663513359776-30-0-644-983-crop-17950740455611912841856.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-19T15:27:00+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "594d43481451",
-"title": "Ngày hội Văn hóa công nhân cấp Tổng liên đoàn năm 2026: Tặng 3.000 voucher, khám sức khỏe miễn phí",
-"link": "https://tuoitre.vn/ngay-hoi-van-hoa-cong-nhan-cap-tong-lien-doan-nam-2026-tang-3000-voucher-kham-suc-khoe-mien-phi-100261119121449345.htm",
-"summary": "Ngày hội Văn hóa công nhân cấp Tổng liên đoàn năm 2026 sẽ tặng 3.000 voucher, mỗi voucher trị giá 500.000 đồng và tổ chức nhiều hoạt động văn hóa, thể thao, khám sức khỏe miễn phí…",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/cong-doan-bac-ninh1-1795064777665939961537-0-0-1600-2560-crop-17950651998931144097308.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-19T15:26:00+07:00",
-"found": "2026-11-19T16:05:19+07:00"
-},
-{
-"id": "f54bae888043",
-"title": "Vì sao sai phạm tại dự án của ông Lê Thanh Thản kéo dài nhiều năm?",
-"link": "https://dantri.com.vn/phap-luat/vi-sao-sai-pham-tai-du-an-cua-ong-le-thanh-than-keo-dai-nhieu-nam-20261119121033866.htm",
-"summary": "(Dân trí) - VKS cho biết các sai phạm tại dự án CT6 Kiến Hưng diễn ra trong thời gian dài nhưng 5 cựu cán bộ phường Kiến Hưng và Thanh tra xây dựng quận Hà Đông đã không phát hiện, ngăn chặn, xử lý theo quy định.",
-"image": "https://cdnphoto.dantri.com.vn/YXDUvJo2YIU8HDfdxHh3JCQQrU0=/2026/11/19/lethanhthan11-1795026483108.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-19T15:25:21+07:00",
-"found": "2026-11-19T15:50:10+07:00"
-},
-{
-"id": "3b3cb69128b7",
-"title": "Ông Lê Thanh Thản: Từ công chức tỉnh nghèo đến con đường dựng nghiệp Mường Thanh",
-"link": "https://kenh14.vn/ong-le-thanh-than-tu-cong-chuc-tinh-ngheo-den-con-duong-dung-nghiep-muong-thanh-21526111915002688.chn",
-"summary": "Từ một cán bộ từng công tác tại tỉnh miền núi Lai Châu, ông Lê Thanh Thản rẽ hướng sang kinh doanh, gây dựng đế chế bất động sản và khách sạn Mường Thanh. Hành trình lập nghiệp của ông gắn với chiến lược làm nhà giá rẻ, mở rộng quỹ đất và những dấu ấn gây nhiều tranh cãi trên…",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795075146620-1795075147420251110561.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T15:25:00+07:00",
-"found": "2026-11-19T15:50:10+07:00"
-},
-{
-"id": "880e223854d0",
-"title": "Công an tổ chức kiểm tra 50 công nhân của 1 công ty",
-"link": "https://kenh14.vn/cong-an-to-chuc-kiem-tra-50-cong-nhan-cua-1-cong-ty-21526111915321615.chn",
-"summary": "Công an xã đã tiến hành kiểm tra, test nhanh ma túy đối với hơn 50 công nhân.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/19/avatar1795077029491-1795077049469476530928.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-19T15:24:00+07:00",
-"found": "2026-11-19T15:50:10+07:00"
-},
-{
-"id": "e0989cec4b56",
-"title": "Becamex Bình Định đầu tư hơn 100 tỷ đồng phát triển hạ tầng xã hội tại khu công nghiệp",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3BiV1dOazZ1bXBXaFhvdllEbldWcG1hUHZUVnFEUzRQbmlwQkV0WmtLVFlZQzYwZG1oTUhDdkdoQWZqNWpSYkNGbjZlZnJwcEJNXzFpdi1wRHlBTnR0NHRUbWVBeUVfc3VHem15NThOYjVzZk5qTTF2emFvdGxMNzhNdmxDTmlQLVNZN1gxVS04VXVWWm12OXlrYjFsREVqUmRoczhYYmlFdXU2SjdobzNkd18zMlVPd0lR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T15:24:00+07:00",
-"found": "2026-11-19T18:32:06+07:00"
-},
-{
-"id": "faf655704237",
-"title": "Seungri xuất hiện cùng vợ tại sân bay, netizen phẫn nộ",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVVZbzBmQldhTzFYQUNmWmJBZkhCTVJyeDNNRmZuUzg4eUh1Z3BOdWFBUVRuQ3dXUWpiU3poOFdRSUxiZmRXcUs0QUhZV1cyTnM2RUNpNEJ4WVd5ejVhNF9hWjVjUHpTOGRiazBIT1pQTFJYUXhoU0RWX2JyVzhYSjBlcjhfZlc4R0VvNGNxNF8tdl90?oc=5",
-"summary": "Nguồn: Thế giới điện ảnh",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-19T15:23:39+07:00",
-"found": "2026-11-20T01:30:06+07:00"
-},
-{
-"id": "82f663ba9cb8",
-"title": "Tổng Bí thư, Chủ tịch nước nêu ba định hướng phát huy vai trò của APEC",
-"link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-neu-ba-dinh-huong-phat-huy-vai-tro-cua-apec-5146587.html",
-"summary": "Tổng Bí thư, Chủ tịch nước đề xuất ba định hướng thúc đẩy hợp tác APEC, trong đó có bảo đảm dòng chảy thương mại thông suốt, khi dự Hội nghị Cấp cao APEC.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/19/wm30-wm30-3-1795074651-8165-1795074770.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QNTeeQA4HQiQo3FdTA_FQQ",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-19T15:23:04+07:00",
-"found": "2026-11-20T09:55:38+07:00"
-},
-{
-"id": "7c9c2bfde4a4",
-"title": "Bí thư Hà Nội chỉ đạo về dự án đô thị gần 100.000 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFp3MnlaRmNNVG9ZOVRfcG1qU0ZZamRKYUZoajBtTVJ5Q3BtaU9idWk1cTNPVXdjSjdSMFZ6dUtRTGswejEwUVZKeVgzSllKWGQ3azhNcm5JbXk0cFZnSlktZy1LdFRnWG1VRmNxYjhZRUcyckxxdWNTdW9PLU9lQmtHeVNzSk1hYmxKcXhHZ1lkbk4t?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T15:22:40+07:00",
-"found": "2026-11-19T15:31:26+07:00"
-},
-{
-"id": "003b39a8d244",
-"title": "Vingroup của tỷ phú Phạm Nhật Vượng chính thức khởi công dự án nhà ở xã hội lớn nhất Việt Nam",
-"link": "https://cafef.vn/vingroup-cua-ty-phu-pham-nhat-vuong-chinh-thuc-khoi-cong-du-an-nha-o-xa-hoi-lon-nhat-viet-nam-188261119151901347.chn",
-"summary": "Vingroup vừa khởi công khu nhà ở xã hội rộng 191,6ha tại TP.HCM, dự kiến cung cấp 45.000 căn hộ, đáp ứng nhu cầu an cư cho gần 68.000 người.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/19/avatar1795076285883-17950762865271245512732.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-19T15:22:00+07:00",
-"found": "2026-11-19T15:31:26+07:00"
 }
 ]
 }
