@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22T16:57:52+07:00",
-"new": 5,
+"updated": "2026-11-22T17:13:20+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "eb9214563ef1",
+"title": "Gần 45.000 mẫu hài cốt liệt sĩ và &apos;mệnh lệnh từ trái tim&apos; trên bầu trời",
+"link": "https://vietnamnet.vn/gan-45-000-mau-hai-cot-liet-si-va-menh-lenh-tu-trai-tim-tren-bau-troi-2567157.html",
+"summary": "4 chuyến bay thực hiện đưa gần 45.000 mẫu hài cốt liệt sĩ từ các tỉnh phía Nam ra Hà Nội phục vụ công tác giám định ADN, xác định danh tính liệt sĩ, góp phần không nhỏ trong hành trình 500 ngày đêm thiêng liêng của Tổ quốc.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/24/gan-45-38.jpg?width=0&s=I4Sbb2SeFF5r5fbnWU-ClQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-22T17:05:53+07:00",
+"found": "2026-11-22T17:13:20+07:00"
+},
+{
+"id": "23af4acfff1d",
+"title": "Tập đoàn T&T của bầu Hiển đón tin vui tại khu đô thị 50ha, gần 4.750 tỷ đồng ở tỉnh biên giới: Có tòa nhà 18 tầng, hơn 1.500 căn nhà ở xã hội",
+"link": "https://kenh14.vn/tap-doan-tt-cua-bau-hien-don-tin-vui-tai-khu-do-thi-50ha-gan-4750-ty-dong-o-tinh-bien-gioi-co-toa-nha-18-tang-hon-1500-can-nha-o-xa-hoi-215261122153111732.chn",
+"summary": "UBND tỉnh Lạng Sơn vừa tổ chức trao hợp đồng thực hiện Dự án đầu tư kinh doanh Khu đô thị phía Nam Lạng Sơn cho Công ty TNHH Phát triển Bất động sản Móng Cái, doanh nghiệp thuộc hệ sinh thái T&T Group.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/lang-son12-1795276573030645727806-0-0-675-1080-crop-17952765764771717549437-1795336197081518749906.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-22T16:54:00+07:00",
+"found": "2026-11-22T17:13:20+07:00"
+},
+{
 "id": "d5dedd6622a8",
 "title": "Tỷ giá USD hôm nay (22-11): Đồng USD trải qua tuần tăng giá thứ tư liên tiếp",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnlXNURPa0lnX1JEOVpsN0lqRXRYdlFEa1hpam1nSEtUcTZodlB2T0UtWV9HSm94MldtVVMtSlBaY3ZqeVl3Nnh2Tmp0enBFTjRuQldsVHhEOFJyTmRxV3FNX0NiVnhZYU91VExVcEdlYU15VEpYQzEtVGZXRHlPRDVvdzBoZGcyR25zSFN1eHh1ZERieDJhdTJfZlZCYWRUUkZPZGU3Y0pkUQ?oc=5",
@@ -235,6 +257,17 @@
 "found": "2026-11-22T16:57:52+07:00"
 },
 {
+"id": "cd969a825ee3",
+"title": "Công an mật phục bắt quả tang người đàn ông hái trộm cà phê",
+"link": "https://dantri.com.vn/phap-luat/cong-an-mat-phuc-bat-qua-tang-nguoi-dan-ong-hai-trom-ca-phe-20261122161343884.htm",
+"summary": "(Dân trí) - Đang chuẩn bị đưa hơn 170kg cà phê tươi vừa hái trộm về nhà, người đàn ông 32 tuổi tại Đắk Lắk đã bị lực lượng công an mật phục, bắt quả tang.",
+"image": "https://cdnphoto.dantri.com.vn/Qre33tMbNwndJKQP51ZAPy7K8aA=/2026/11/22/ca-phe-edited-1795337962706.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-22T16:40:53+07:00",
+"found": "2026-11-22T17:13:20+07:00"
+},
+{
 "id": "3b31948c2b74",
 "title": "Ngân hàng lớn nhất Việt Nam đặt mục tiêu tăng trưởng tín dụng 16% năm 2027, lên kế hoạch phát hành riêng lẻ 780 triệu cổ phiếu",
 "link": "https://cafef.vn/ngan-hang-lon-nhat-viet-nam-dat-muc-tieu-tang-truong-tin-dung-16-nam-2027-len-ke-hoach-phat-hanh-rieng-le-780-trieu-co-phieu-188261122163933055.chn",
@@ -246,6 +279,17 @@
 "found": "2026-11-22T16:57:52+07:00"
 },
 {
+"id": "80530024e54d",
+"title": "Người phụ nữ thuê xe tải chở hơn 2 tấn khí cười từ Lào về Việt Nam",
+"link": "https://dantri.com.vn/phap-luat/nguoi-phu-nu-thue-xe-tai-cho-hon-2-tan-khi-cuoi-tu-lao-ve-viet-nam-20261122155743466.htm",
+"summary": "(Dân trí) - Hai đối tượng trú tại tỉnh Quảng Trị đã bị khởi tố sau khi vận chuyển trái phép hơn 2 tấn khí N2O (khí cười) từ Lào về Việt Nam.",
+"image": "https://cdnphoto.dantri.com.vn/m1lZ3PN3zLv-RML4puKr8l2GEG0=/2026/11/22/khi-cuoi-tuan-qua-bien-gioicong-an-quang-tri-edited-1795337667907.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-22T16:31:46+07:00",
+"found": "2026-11-22T17:13:20+07:00"
+},
+{
 "id": "ad799c807439",
 "title": "chặt cây",
 "link": "https://dantri.com.vn/giao-duc/vu-tu-y-to-chuc-cua-cay-trong-san-truong-canh-cao-hieu-truong-20261122151738422.htm",
@@ -254,7 +298,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T16:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-22T16:57:52+07:00"
 },
 {
@@ -389,7 +433,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T15:50:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-22T16:09:34+07:00"
 },
 {
@@ -956,7 +1000,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-22T13:50:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-22T16:42:24+07:00"
 },
 {
@@ -28026,50 +28070,6 @@
 "cat": "xh",
 "published": "2026-11-19T17:43:00+07:00",
 "found": "2026-11-19T18:01:45+07:00"
-},
-{
-"id": "5e9af8acad9c",
-"title": "Tìm thấy hài cốt liệt sĩ cùng 2 tấm bia khắc tên, đơn vị",
-"link": "https://vietnamnet.vn/tim-thay-hai-cot-liet-si-cung-2-tam-bia-khac-ten-don-vi-2576842.html",
-"summary": "Trong quá trình tìm kiếm, quy tập hài cốt liệt sĩ tại Đà Nẵng, lực lượng chức năng phát hiện 3 hài cốt, trong đó 2 hài cốt có bia xi măng khắc tên và thông tin đơn vị.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/tim-thay-hai-cot-liet-si-cung-2-tam-bia-khac-ten-don-vi-2296.jpg?width=0&s=CsBJI0Ml8bG_2h_NrXyNfQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-19T17:42:25+07:00",
-"found": "2026-11-19T17:46:35+07:00"
-},
-{
-"id": "48a0139b742f",
-"title": "Nghệ An tập trung hoàn thành cơ sở dữ liệu đất đai",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGNsOUR6NHBOVUNvRHo0ak9TQmc1VzRsUGtVZ0MwZ250dkc1SGFTZGFONjh2VW9zMlE4Qk5FeGljSUdjZGFEbjBOb0U4ZjlZUGdLWWo1ejlxcmFLSmV3eU1RWFZDSWo5bm1oTzdsYTNlOGkxS1Y4UmRGMU4yM2dPTVk5RV9WeEtwSzFB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-19T17:40:00+07:00",
-"found": "2026-11-20T06:25:12+07:00"
-},
-{
-"id": "0a8583337ac5",
-"title": "Chính thức đề xuất giảm phạt gần 12.700 tỉ đồng cho 2,5 triệu người nộp thuế",
-"link": "https://thanhnien.vn/chinh-thuc-de-xuat-giam-phat-gan-12700-ti-dong-cho-25-trieu-nguoi-nop-thue-185261119170524635.htm",
-"summary": "Dự kiến từ 21.11, chính sách đặc thù tháo gỡ khó khăn cho người nộp thuế ở trạng thái 03 (ngừng hoạt động nhưng chưa đóng mã số thuế) và 06 (không hoạt động tại địa chỉ đăng ký) có hiệu lực. Tiền phạt dự kiến giảm tối đa 12.671 tỉ đồng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/19/tnw-tien-17146484876711243369978-1795082525170503955516-108-0-1388-2048-crop-17950825813141154567222.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-19T17:39:00+07:00",
-"found": "2026-11-19T17:46:35+07:00"
-},
-{
-"id": "68d9b9a94578",
-"title": "Ủy ban Basel lưu ý một số rủi ro đối với hệ thống ngân hàng",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOazJXY1Z3NzhyTW1BNVFjOTRzV2U0YjhxYVd4SlNzdk1XZFpRZjU4dHh6RzN6X2ppSE1CUFMtYVRwdHQxSFMtSV83eTlaSTZwdGU3YllhdlZQT1lXZXVTTjF0TnAxaWNCc3JQZFVINUNUUUlyWXRNS2JDclpnTXBIdUtqZ0xkc2JCdmx4Z3p3bU5vQWp3YkFB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-19T17:38:13+07:00",
-"found": "2026-11-19T17:46:35+07:00"
 }
 ]
 }
