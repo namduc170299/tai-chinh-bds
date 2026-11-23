@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T05:31:21+07:00",
-"new": 5,
+"updated": "2026-11-24T05:46:34+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 42
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,63 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "1dceb94d2642",
+"title": "Khu bảo tồn voi duy nhất Việt Nam: Gia đình 9 thành viên giữa đại ngàn",
+"link": "https://thanhnien.vn/khu-bao-ton-voi-duy-nhat-viet-nam-gia-dinh-9-thanh-vien-giua-dai-ngan-185261123214020837.htm",
+"summary": "Hệ thống bẫy ảnh tại Khu bảo tồn loài và sinh cảnh voi ở Đà Nẵng vừa ghi nhận đàn voi rừng gồm 9 cá thể, trong đó có 2 voi con.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/1-2-ca-the-voi-con-duoc-phat-hien-thong-qua-bay-anhanh-le-hoang-1795444420110601935215-49-0-849-1280-crop-1795444537508267832046.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T05:41:00+07:00",
+"found": "2026-11-24T05:46:34+07:00"
+},
+{
+"id": "33d2fc87cc8d",
+"title": "Giá vàng SJC đắt hơn thế giới 22 triệu đồng, chênh giá mua bán kỷ lục: Rước rủi ro",
+"link": "https://vietnamnet.vn/gia-vang-sjc-cao-hon-the-gioi-22-trieu-dong-rui-ro-lon-2577877.html",
+"summary": "Giá vàng thế giới phục hồi mạnh sau cú lao dốc hiếm có trong tuần qua. Vàng SJC và vàng nhẫn trong nước tăng thêm 1,2-1,5 triệu đồng/lượng, nhưng chênh lệch mua - bán bị nới rộng lên 5-6 triệu đồng, đẩy rủi ro đối với người mua lên cao.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/gia-vang-sjc-dat-hon-the-gioi-22-trieu-dong-chenh-mua-ban-ky-luc-rui-ro-lon-2926.gif?width=0&s=MKgK6IYjMfNYs2NfWUCHmg",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-24T05:40:00+07:00",
+"found": "2026-11-24T05:46:34+07:00"
+},
+{
+"id": "8a7d0d6292f6",
+"title": "Lăng kính bạn đọc: Xóa nỗi ám ảnh cháy nổ trong khu dân cư",
+"link": "https://thanhnien.vn/lang-kinh-ban-doc-xoa-noi-am-anh-chay-no-trong-khu-dan-cu-185261123162556898.htm",
+"summary": "Những vụ cháy nổ khí gas gây hậu quả thương tâm gần đây làm dấy lên nỗi lo âu của độc giả về an toàn trong các khu dân cư đông đúc.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/lang-kinh-17954325804481184514378-83-0-723-1024-crop-179543511483828836158.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T05:38:00+07:00",
+"found": "2026-11-24T05:46:34+07:00"
+},
+{
+"id": "1569fc1e34d1",
+"title": "vàng",
+"link": "https://vnexpress.net/gia-vang-the-gioi-tang-vot-5148251.html",
+"summary": "Giá vàng hôm nay ngày 23/11: Giá vàng thế giới tăng vọt (VnExpress)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPXuptpUxhZh27eL1_ItWpyG45ekvFKQuULdbZAzRQJIFm9IHtkKngf04qjHs",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T05:30:00+07:00",
+"traffic": "5000+",
+"found": "2026-11-24T05:46:34+07:00"
+},
+{
+"id": "5d9da288dbbc",
+"title": "bao bong da",
+"link": "https://bongdaplus.vn/afc-champions-league/nhan-dinh-bong-da-neftchi-fergana-vs-al-hilal-20h45-ngay-23-11-san-nha-mat-thieng-5297562611.html",
+"summary": "Nhận định bóng đá Neftchi Fergana vs Al Hilal, 20h45 ngày 23/11: Sân nhà mất thiêng (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4e7ZEXDg0qpmdKvbHuKQZPXolpAKr2fPkBCe_uZAknHrqbOwKJ2M6FdPMYa8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T05:30:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-24T05:46:34+07:00"
+},
+{
 "id": "94b584fa4492",
 "title": "Giá vàng nhẫn trơn, vàng miếng sáng 24/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
 "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-24-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261123231959617.chn",
@@ -255,7 +312,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T05:10:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-24T05:28:26+07:00"
 },
 {
@@ -315,6 +372,30 @@
 "found": "2026-11-24T05:28:26+07:00"
 },
 {
+"id": "70126b67c90a",
+"title": "thứ hạng của a.c. monza gặp fiorentina",
+"link": "https://bongdaplus.vn/serie-a/nhan-dinh-bong-da-monza-vs-fiorentina-02h45-ngay-24-11-fio-ca-khuc-khai-hoan-5296822611.html",
+"summary": "Nhận định bóng đá Monza vs Fiorentina, 02h45 ngày 24/11: Fio ca khúc khải hoàn (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRY9zu5MJSxf9tCjy-izExyZL4zOB4Mf71yj9RzVVhkRD3LkU6Tj7sjOp9gAfg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T05:00:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-24T05:46:34+07:00"
+},
+{
+"id": "9dd2df3969de",
+"title": "levante – elche",
+"link": "https://www.infobae.com/espana/agencias/2026/11/23/segundo-gol-del-curso-de-dani-requena-levante-y-primero-de-roy-revivo-elche/",
+"summary": "Segundo gol del curso de Dani Requena (Levante) y primero de Roy Revivo (Elche) (Infobae)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T05:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T05:46:34+07:00"
+},
+{
 "id": "c31e8d05ae99",
 "title": "San ủi một phần quả đồi làm bãi tập kết khoáng sản trái phép ở Đà Nẵng",
 "link": "https://thanhnien.vn/san-ui-mot-phan-qua-doi-lam-bai-tap-ket-khoang-san-trai-phep-o-da-nang-185261122152333405.htm",
@@ -346,7 +427,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T04:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-24T04:58:06+07:00"
 },
 {
@@ -2724,6 +2805,17 @@
 "cat": "tc",
 "published": "2026-11-23T19:10:34+07:00",
 "found": "2026-11-23T19:12:38+07:00"
+},
+{
+"id": "6efd5bb62c04",
+"title": "Becamex hiến kế phát triển đô thị khoa học công nghệ TP.HCM",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSmYyTkEycVBCUS0zeDlRMGVQbjlkQi1zdlp1QTJQdGhiYm5UMUdSSXR6V3JDdlRSX2duVmQtdTY0UXpnVW9md1lMRGhjaHJYYUJJa1hkVjhUQ1lxdDNOZklOVFpvS3RlbGpHX2Y0MlBVSmtKdkl5dkhYdW44Nm5yM1JyWXdZUnJrX0R1VDJGZzA4dzdkRnRz?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T19:07:28+07:00",
+"found": "2026-11-24T05:46:34+07:00"
 },
 {
 "id": "cb935f219a6a",
@@ -28034,94 +28126,6 @@
 "cat": "bds",
 "published": "2026-11-21T06:00:00+07:00",
 "found": "2026-11-21T06:14:20+07:00"
-},
-{
-"id": "c2b022b96dc0",
-"title": "Ngân hàng muốn đấu giá tài sản 228 tỷ của đại gia xăng dầu từng nộp thuế lớn nhất tỉnh",
-"link": "https://vietnamnet.vn/ngan-hang-muon-ban-dau-gia-tai-san-cua-dai-gia-xang-dau-2576559.html",
-"summary": "Ngân hàng TMCP Sài Gòn - Hà Nội (SHB) thông báo tìm tổ chức đấu giá 3 tài sản bảo đảm liên quan đến hoạt động kinh doanh xăng dầu tại Hà Nội và Hải Phòng. Tổng giá khởi điểm của các tài sản là hơn 228 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/ngan-hang-muon-ban-dau-gia-tai-san-hon-228-ty-dong-cua-dai-gia-xang-dau-3303.jpg?width=0&s=vbK3XTlieKRESZhY3eaa3g",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-21T06:00:00+07:00",
-"found": "2026-11-21T06:14:20+07:00"
-},
-{
-"id": "a2b6924b4ec8",
-"title": "Mong chờ metro 'cứu' kẹt xe TP.HCM",
-"link": "https://thanhnien.vn/mong-cho-metro-cuu-ket-xe-tphcm-1852611202204036.htm",
-"summary": "Metro TP.HCM đang bước vào giai đoạn bùng nổ với hàng loạt tuyến đồng loạt tăng tốc triển khai, kéo theo những đại công trường rào chắn bủa vây gây áp lực lớn lên hầu khắp mọi tuyến đường.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/photo-1795186892462-17951868939491415633370-84-0-1334-2000-crop-17951869670961780234286.jpeg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-21T06:00:00+07:00",
-"found": "2026-11-21T06:14:20+07:00"
-},
-{
-"id": "9242b600963e",
-"title": "Giá vàng rơi không phanh, rủi ro gia tăng",
-"link": "https://thanhnien.vn/gia-vang-roi-khong-phanh-rui-ro-gia-tang-185261120214015873.htm",
-"summary": "Vàng lao dốc không phanh nhưng vùng giá thấp vẫn đầy rủi ro khi kim loại quý trong nước đắt hơn thế giới tăng cao 23 triệu đồng/lượng, cùng với chênh lệch giữa giá mua và bán được các công ty đẩy ra xa 5 - 6 triệu đồng/lượng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-tnw-photo-1795185428693-1795185430188935868316-17951855035391995045166-91-0-1341-2000-crop-17951855148682105231083-17951855247951983644168.jpeg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-21T06:00:00+07:00",
-"found": "2026-11-21T06:14:20+07:00"
-},
-{
-"id": "9e5e866cda7d",
-"title": "Có nên giao cho chủ đầu tư quản lý?",
-"link": "https://thanhnien.vn/co-nen-giao-cho-chu-dau-tu-quan-ly-185261120200654986.htm",
-"summary": "Trước những tranh chấp, bất ổn xảy ra tại các chung cư liên quan đến quỹ bảo trì chung cư 2%, câu hỏi đặt ra là liệu có nên để ban quản trị các chung cư nắm nguồn tiền hàng trăm tỉ đồng hay giao cho chủ đầu tư quản lý dưới sự giám sát chặt chẽ của cư dân và cơ quan chức năng?",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-photo-1795179937851-179517993925046804081-1795179949160496004465-250-0-1500-2000-crop-17951799777731655277675.jpeg",
-"source": "Thanh Niên",
-"cat": "bds",
-"published": "2026-11-21T06:00:00+07:00",
-"found": "2026-11-21T06:14:20+07:00"
-},
-{
-"id": "b9b97c6eef3a",
-"title": "Đối mặt với cao điểm siêu El Nino",
-"link": "https://thanhnien.vn/doi-mat-voi-cao-diem-sieu-el-nino-18526112020020175.htm",
-"summary": "Siêu El Nino đang vào giai đoạn đỉnh điểm và có khả năng sẽ trở thành sự kiện mạnh nhất lịch sử. Tại Việt Nam, tác động của hiện tượng này khiến nắng nóng bất thường và tổng lượng mưa giảm dẫn tới nhiều hồ thủy điện thiếu nước nghiêm trọng. Với vựa lúa ĐBSCL, nguy cơ hạn mặn gay…",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-photo-1795179634819-1795179636099651993381-1795179668401385670230-0-62-1194-1972-crop-1795179672690303087936.jpeg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-21T06:00:00+07:00",
-"found": "2026-11-21T06:14:20+07:00"
-},
-{
-"id": "7c52ff5229c0",
-"title": "Nộp hồ sơ sớm, tiền phạt thuế giảm nhiều",
-"link": "https://thanhnien.vn/nop-ho-so-som-tien-phat-thue-giam-nhieu-185261117224638512.htm",
-"summary": "Dự kiến từ hôm nay 21.11, chính sách đặc thù tháo gỡ khó khăn cho người nộp thuế có hiệu lực. Những doanh nghiệp, hộ kinh doanh nộp hồ sơ sớm thì mức phạt sẽ được giảm nhiều.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-photo-1795185183858-1795185184946452193257-17951852005241729246277-48-0-1298-2000-crop-1795185209463164209362.jpeg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-21T06:00:00+07:00",
-"found": "2026-11-21T06:14:20+07:00"
-},
-{
-"id": "f2089f1bce58",
-"title": "Tượng thần khỉ Champa lần đầu trưng bày tại Quảng Ngãi",
-"link": "https://vnexpress.net/tuong-than-khi-champa-lan-dau-trung-bay-tai-quang-ngai-5146158.html",
-"summary": "Hơn 300 cổ vật, gồm có tượng thần khỉ Hanuman 800 năm tuổi và trống đồng hơn 2.000 năm trưng bày ở Bảo tàng tỉnh Quảng Ngãi.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/tuong-khi-cham-1795008371.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wz_4f3SjBSmMDMym8uqWjg",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-21T06:00:00+07:00",
-"found": "2026-11-21T06:14:20+07:00"
-},
-{
-"id": "dd7115d99b00",
-"title": "Bộ Công Thương muốn áp giá điện sản xuất cho trung tâm dữ liệu",
-"link": "https://dantri.com.vn/kinh-doanh/bo-cong-thuong-muon-ap-gia-dien-san-xuat-cho-trung-tam-du-lieu-20261120210036837.htm",
-"summary": "(Dân trí) - Bộ Công Thương đề xuất áp dụng giá điện sản xuất đối với hoạt động của trung tâm dữ liệu, thay vì phân loại theo mục đích phục vụ như quy định hiện hành.",
-"image": "https://cdnphoto.dantri.com.vn/q0a834VmXZDavhV7PXP09O762aI=/2026/11/20/dc-an-khanh-1-cropped-1795183015431.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T06:00:00+07:00",
-"found": "2026-11-21T06:29:33+07:00"
 }
 ]
 }
