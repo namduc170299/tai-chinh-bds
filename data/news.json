@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T21:02:13+07:00",
-"new": 10,
+"updated": "2026-11-23T21:17:24+07:00",
+"new": 14,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 27
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,64 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "53e4ea0b29e9",
+"title": "Vietravel bổ nhiệm Phó Tổng Giám đốc",
+"link": "https://cafef.vn/vietravel-bo-nhiem-pho-tong-giam-doc-188261123205741148.chn",
+"summary": "Vietravel bổ nhiệm bà Nguyễn Nguyệt Vân Khanh- Thành viên HĐQT, Giám đốc Ban Tiếp thị truyền thông, giữ chức Phó Tổng Giám đốc trong thời hạn 5 năm kể từ ngày 1/12/2026.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795442226786-1795442227093370482924.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-23T21:10:00+07:00",
+"found": "2026-11-23T21:17:24+07:00"
+},
+{
+"id": "6442e3d06b08",
+"title": "Áp thuế đất bỏ hoang: Hết thời 'ôm đất' chờ tăng giá?",
+"link": "https://cafef.vn/ap-thue-dat-bo-hoang-het-thoi-om-dat-cho-tang-gia-188261123172440639.chn",
+"summary": "Khi chi phí nắm giữ bất động sản tăng lên, chiến lược ôm đất chờ tăng giá của nhà đầu tư liệu có còn hấp dẫn?",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795429465874-17954294662651940499210.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-23T21:04:00+07:00",
+"found": "2026-11-23T21:17:24+07:00"
+},
+{
+"id": "6c41850cff29",
+"title": "u17 tây ban nha",
+"link": "https://bongdaplus.vn/u17-world-cup/nhan-dinh-bong-da-u17-tay-ban-nha-vs-u17-fiji-19h30-ngay-23-11-tieu-bo-tot-tao-mua-gon-5296852611.html",
+"summary": "Nhận định bóng đá U17 Tây Ban Nha vs U17 Fiji, 19h30 ngày 23/11: Tiểu Bò tót tạo ‘mưa gôn’ (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnW5Qz-OKSrDd97sK9EtDYp005aaw_3Cb0TfxiL8WDyY_s-JZ6Q_OSpRRZ48c",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T21:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T21:17:24+07:00"
+},
+{
+"id": "64efdeff0bd9",
+"title": "forexfactory",
+"link": "https://kalkine.com.au/news/mutual-funds-etfs/how-global-x-gold-bullion-etf-asxgxld-tracks-gold-in-australian-dollars",
+"summary": "How Global X Gold Bullion ETF (ASX:GXLD) Tracks Gold in Australian Dollars (Kalkine)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRb6XdDa1dGyO_rwiFv7EYmyEvYPxhrjYZhkOTlYHcJ5GYLANiubDWu47rW3mg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T21:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T21:17:24+07:00"
+},
+{
+"id": "3907e2fa352a",
+"title": "al hilal",
+"link": "https://baonghean.vn/truc-tiep-neftchi-vs-al-hilal-saudi-fc-tran-dau-dang-dien-ra-10356456.html",
+"summary": "Trực tiếp Neftchi vs Al-Hilal Saudi FC: Trận đấu đang diễn ra (Báo Nghệ An)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFdOWPjIbengRxtp9mO5QthVmLvi_FX5uK3lcJ948rutA41vA4rCTKNtt9Eyw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T21:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-23T21:17:24+07:00"
+},
+{
 "id": "820f74819b0c",
 "title": "Thêm 3 thành viên HĐQT độc lập của PNJ cùng xin từ nhiệm",
 "link": "https://vietnamnet.vn/them-3-thanh-vien-hdqt-doc-lap-cua-pnj-cung-xin-tu-nhiem-2574732.html",
@@ -235,6 +293,42 @@
 "found": "2026-11-23T21:02:13+07:00"
 },
 {
+"id": "02658b039722",
+"title": "내일 날씨",
+"link": "https://ichannela.com/news/detail/000000561311.do",
+"summary": "[날씨]서울 한낮에도 추위…체감 영하로 ‘뚝’ (채널A)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBADmPMpvJzmZG8F19KzwlJvd7eaC4njOdPnWvSQtHwhgIrM8SAqJyqjGD8g0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T20:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-23T21:17:24+07:00"
+},
+{
+"id": "591042b58876",
+"title": "covid 19",
+"link": "https://laodong.vn/the-gioi/phat-hien-bien-the-covid-19-moi-co-kha-nang-xam-nhap-te-bao-vuot-troi-lay-lan-nhanh-1804856.ldo",
+"summary": "Phát hiện biến thể COVID-19 mới có khả năng xâm nhập tế bào vượt trội, lây lan nhanh (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRxW5TG7PAvA21iW2g7LvcFFBsYs7NptPHYo-AKaOK_Vsz5tccLUzD35KCsnY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T20:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T21:17:24+07:00"
+},
+{
+"id": "96f0cc64b118",
+"title": "căn nhà không mái che tập 19",
+"link": "https://vietnamnet.vn/can-nha-khong-mai-che-tap-19-toan-chuc-hanh-tim-duoc-cho-dua-2577617.html",
+"summary": "'Căn nhà không mái che' tập 19: Toản chúc Hạnh sớm tìm được người đàn ông mới (Báo VietNamNet)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdRxLuldLOTN1_6ca1mlLueN7I5DTH3SvL1icdPkNySxihRV7uJsqVUgExSNo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T20:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T21:17:24+07:00"
+},
+{
 "id": "271bfcf1314f",
 "title": "Tám nhân viên y tế bị điều tra sau vụ dùng gối đè mặt bệnh nhân",
 "link": "https://vnexpress.net/tam-nhan-vien-y-te-bi-dieu-tra-sau-vu-dung-goi-de-mat-benh-nhan-5148216.html",
@@ -255,6 +349,18 @@
 "cat": "xh",
 "published": "2026-11-23T20:41:00+07:00",
 "found": "2026-11-23T21:02:13+07:00"
+},
+{
+"id": "731e23a02f75",
+"title": "weather tomorrow",
+"link": "https://kwschennai.com/blog/easterly-wave-to-bring-widespread-rainfall-across-tn/",
+"summary": "Easterly Wave to bring widespread rainfall across TN (KWS Chennai)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJrxS3H8MTexBW5ZwNwHtHXfr8focYgwkwrn5zCjPm_LBy7MyPFEjfjhoiu44",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T20:40:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-23T21:17:24+07:00"
 },
 {
 "id": "378685aa6aa6",
@@ -345,6 +451,17 @@
 "found": "2026-11-23T20:28:07+07:00"
 },
 {
+"id": "91acb9924291",
+"title": "Nhà thờ Đức Bà Sài Gòn rực sáng với 1.000 km dây đèn LED",
+"link": "https://vnexpress.net/nha-tho-duc-ba-sai-gon-ruc-sang-voi-1-000-km-day-den-led-5148199.html",
+"summary": "Hơn 1.000 km dây đèn LED quanh Nhà thờ Đức Bà Sài Gòn được thắp sáng thử tối 23/11, tạo khung cảnh rực rỡ trước Giáng sinh.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/td5-1795439414.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9HFZ2LVW4CwzpMVwze-PMg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-23T20:16:53+07:00",
+"found": "2026-11-23T21:17:24+07:00"
+},
+{
 "id": "f2186f7c69c9",
 "title": "Giám đốc bị bắn tại phòng làm việc tử vong sau một tuần điều trị",
 "link": "https://vietnamnet.vn/giam-doc-bi-ban-tai-phong-lam-viec-tu-vong-sau-mot-tuan-dieu-tri-2577939.html",
@@ -365,6 +482,28 @@
 "cat": "mxh",
 "published": "2026-11-23T20:14:00+07:00",
 "found": "2026-11-23T20:28:07+07:00"
+},
+{
+"id": "db8b7f396e97",
+"title": "Hàng nhập qua thương mại điện tử dưới 1 triệu đồng được miễn thuế",
+"link": "https://vnexpress.net/hang-nhap-qua-thuong-mai-dien-tu-duoi-1-trieu-dong-duoc-mien-thue-5148201.html",
+"summary": "Từ ngày 1/3/2027, hàng mua qua nền tảng thương mại điện tử giá trị đến 1 triệu đồng mỗi đơn vẫn được miễn thuế nhập khẩu, với hạn mức 48 triệu đồng một năm cho mỗi người mua.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/shipper17500531293532175005318-7220-4419-1795434610.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=vCUvTWewK-BEbaqKkK3MIA",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-23T20:09:30+07:00",
+"found": "2026-11-23T21:17:24+07:00"
+},
+{
+"id": "2e4f1d5639df",
+"title": "2 vụ 'siêu IPO' giúp các ngân hàng Phố Wall kiếm tỷ USD",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZWVyM3c5VjJHaHBPYlQxTXJMY29VWkJ1OS1qVnNha2l0TlhheW5ReWZXWTRKRVBIUHJvUzhPUWdLZlB5U3hDVFZ2QnYtZnVBNmF4RURSYUtsSnN4WkltZ0wtNW9qekh2cGJKbElCT09rUmJSdGViQlFlVmNaeDA0eldFRml2azNkdF9odG5aQQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T20:06:43+07:00",
+"found": "2026-11-23T21:17:24+07:00"
 },
 {
 "id": "db2198c7cf8d",
@@ -398,7 +537,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T20:00:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-23T20:28:07+07:00"
 },
 {
@@ -476,7 +615,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T19:50:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-23T20:12:56+07:00"
 },
 {
@@ -3831,6 +3970,17 @@
 "found": "2026-11-23T14:17:34+07:00"
 },
 {
+"id": "a81d5f60fec2",
+"title": "VIFC-HCMC công bố thêm 7 thành viên mới",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xYWQ5YjFjMEp3TXdwS0JvSjVhZHJ4a3ZQblh0MGV2SkhZQlpPZmpOZ3pENDMwakpUVEh1Z2xFOXRzQkpDU1FwaENaSmxrQjZlZUNmZTVoNXh6ejktNkpyOUg3QTNld0lVamxVYVBsSkpkdjh1S3V3OGE2dC0?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T14:01:00+07:00",
+"found": "2026-11-23T21:17:24+07:00"
+},
+{
 "id": "5f791072672c",
 "title": "Công an truy tìm Huỳnh Văn Tuấn liên quan vụ lừa đảo",
 "link": "https://vietnamnet.vn/cong-an-tuyen-quang-truy-tim-huynh-van-tuan-lien-quan-vu-mua-ban-hoa-don-2567041.html",
@@ -5191,6 +5341,17 @@
 "cat": "tc",
 "published": "2026-11-23T11:36:00+07:00",
 "found": "2026-11-23T11:57:38+07:00"
+},
+{
+"id": "c8bc35dcf39f",
+"title": "VIFC-HCMC bổ sung 7 thành viên, dự kiến huy động thêm 5 tỷ USD",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdzhvazVlcFNpLTFtazF5RkJ2TDBZWllGU3VZU3EwajBfQkppZkozZzZhVklTbm9ONHlWNUpSeElpS1F6ZHo5b2JXdHJRMVFGV2pSeXY4aWFvVHRGa281aVMxMFl6eV8wSkprbGREN3pLYUlWMjI5cmQ2M1F2dUZORlBmZGFGUEZNeC1CSUJKVEtsTW5MdV9mckZR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T11:35:00+07:00",
+"found": "2026-11-23T21:17:24+07:00"
 },
 {
 "id": "5f0a25d24de8",
@@ -27964,162 +28125,6 @@
 "cat": "bds",
 "published": "2026-11-20T19:06:00+07:00",
 "found": "2026-11-20T19:15:39+07:00"
-},
-{
-"id": "18ee2a132861",
-"title": "Gỡ điểm nghẽn giao đất dịch vụ tại xã Quang Minh",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVHR5ODdGRUV2ekJmMEJIbE9Pb1NDNHlvY1RpRXJvemk3NWg5V3ZXRENQZjFUc3ZPYnlEMV9jZzdlZXNOVDQzVTc4QjRHWjdFRkVtZDFpMGVhWDM3aHhLZ09PSWMtWUpFcGxtcnFFaXB2VF94TF92Vjg0TTBmNjl0YTQ4N2oyanky?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T19:04:00+07:00",
-"found": "2026-11-20T19:15:39+07:00"
-},
-{
-"id": "5eec7d6b90af",
-"title": "Quảng Ngãi chuyển đổi cây trồng, nâng giá trị trên từng diện tích đất",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ0djUC0xeGROS0F3MV9JbWlMTzN5V2xVQkFWWGEwN3EzQVh4U256dUNTclVYRzdCZzl1RHM0SUtFLWtibi1tNWlsQWM5QjhEblVsTng3N2ZkY1htZTdJNjZQX2EwUk5kN20tajIxNTRpejZUN2pLY0ROOXRURmM1NVM0aXU4ZDMtaUE1ZENNUEdtOUxxNUNmaGhlWjZ6b1RGekFB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T19:03:00+07:00",
-"found": "2026-11-21T04:00:48+07:00"
-},
-{
-"id": "d6b01ce1817b",
-"title": "Chung cư giảm sức hút tại Hà Nội, Đà Nẵng và TP.HCM",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOajVjamhmWlkwTm51Y3I0bUdSSFhWeVlkYjdIWGdudmVSeTh0WE1JSDZWWjBJQlFyZW1nRGhFcGgxVWdIajh3NU9xbDdua0VkMHVlZ2xYT3dMV28tU1hLS2JRMXJMZm5ucFMwejVfRzRaTXdvVy1LWDdxVlpOcXl1NTItS2dDc3g2LXU4?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T19:02:00+07:00",
-"found": "2026-11-20T19:15:39+07:00"
-},
-{
-"id": "9b4820f5f9b3",
-"title": "5 tuyến metro Hà Nội: Nhà nào nằm trong vùng ảnh hưởng, người dân cần biết gì?",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUpwdUJld3gzdXV2QkF5b2Q4V3RoUl9tQ21aa3ptODA1NUhOcTFhZk5tRkxKd3hoOFhNMmM0YkRaWnNWRVdENllRM2RzRUk1VVZqdXkzeU45cXlGX3FUTDFwamJxRnVuYkxvTnZpZzc3aUdaSG9EcW5TQTFSakxvTlBnR2p6TGNNODAxWVB5M0ludF9lOTVHR1FISFBCb3lEWjdsYWNWSVo4dWZD?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T19:02:00+07:00",
-"found": "2026-11-20T19:15:39+07:00"
-},
-{
-"id": "38d44c859bbb",
-"title": "Việt Nam lập hai siêu phẩm ở trận ra quân U17 World Cup",
-"link": "https://vnexpress.net/truc-tiep-viet-nam-bi-u17-world-cup-5147219.html",
-"summary": "Việt Nam thua Bỉ 2-3, nhưng để lại ấn tượng với các bàn thắng đẹp ở trận mở màn bảng B VCK U17 World Cup.",
-"image": "https://vcdn1-thethao.vnecdn.net/2026/11/20/179518051280728560458903111777-1713-2383-1795187377.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cZOBUs8Rx2GMxCIWyQxGKQ",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-20T19:01:16+07:00",
-"found": "2026-11-21T10:44:13+07:00"
-},
-{
-"id": "4166bd21372a",
-"title": "VN-Index lao dốc, nhà đầu tư dùng AI phân tích cổ phiếu sao để bớt thua lỗ?",
-"link": "https://dantri.com.vn/kinh-doanh/vn-index-lao-doc-nha-dau-tu-dung-ai-phan-tich-co-phieu-sao-de-bot-thua-lo-20261120184430517.htm",
-"summary": "(Dân trí) - AI có khả năng xử lý, phân tích số liệu báo cáo của cả ngàn cổ phiếu giúp nhà đầu tư có thông tin nhanh chóng, nhưng chuyên gia cảnh báo không dùng AI quyết định đầu tư thay để tránh thua lỗ.",
-"image": "https://cdnphoto.dantri.com.vn/_ND78_LUNoz9t84QMPNAFOHaeH8=/2026/11/20/ai-chung-khoan-cropped-1795174757355.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-20T19:00:01+07:00",
-"found": "2026-11-20T19:15:39+07:00"
-},
-{
-"id": "fd9c2c6ea753",
-"title": "u-17 bỉ đấu với đội tuyển bóng đá u-17 quốc gia việt nam",
-"link": "https://vietnamnet.vn/link-xem-truc-tiep-bong-da-u17-viet-nam-vs-u17-bi-world-cup-u17-2577060.html",
-"summary": "Link xem trực tiếp bóng đá U17 Việt Nam vs U17 Bỉ, 20h ngày 20/11 (Báo VietNamNet)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Yi7SA7VyzNmV9RO6ep50w4j0636hymN8I3g0Vw_h-dYIGDBUiflu7-LaYs",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T19:00:00+07:00",
-"traffic": "20000+",
-"found": "2026-11-20T19:30:49+07:00"
-},
-{
-"id": "68712b0abf21",
-"title": "Cư dân CT6 phản bác quan điểm bồi thường \"cao quá\" của ông Lê Thanh Thản",
-"link": "https://dantri.com.vn/phap-luat/cu-dan-ct6-phan-bac-quan-diem-boi-thuong-cao-qua-cua-ong-le-thanh-than-20261120181543354.htm",
-"summary": "(Dân trí) - Trước quan điểm cho rằng mức bồi thường căn hộ tại CT6 Kiến Hưng \"cao quá\" của ông Lê Thanh Thản, tại tòa một cư dân đã phản bác và cho rằng người mua nhà chịu nhiều thiệt thòi nay còn phải di dời.",
-"image": "https://cdnphoto.dantri.com.vn/yyPtHIBYnWP3W-VGsItPN4x2gS8=/2026/11/18/lethanhthan4-1794965773978.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-20T19:00:00+07:00",
-"found": "2026-11-20T19:48:17+07:00"
-},
-{
-"id": "ce59930f4b91",
-"title": "Đồng rupee của Ấn Độ tăng lên mức cao nhất 7 tháng",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcllyWFRfQ0hIQVVjM01sYURwWTdub0tYY2NWNTZPVVA3bjN1a21vV2I3QVQtbGc4VHdKbWs4SHRaR0dJMzBlODJ3NnZQNmhwR2RHOGxKY1RldnV1T2t0VVFsMHlpdWhnT1N4SmdHQkU4OU9DdndETXFRYW83VVV5OEVlQ1NXRzZZeHo0?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T19:00:00+07:00",
-"found": "2026-11-22T13:49:21+07:00"
-},
-{
-"id": "3f715ca1a4da",
-"title": "Vietinbank hoàn tất chuyển nhượng tòa tháp tại khu đô thị Ciputra",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFRKRmdhRS02Z3M0WDktTi1MVTBIMEdnQ0RvZGVOZ2N5dnc5Snp3WHJ3QmZuYmdjcjQwckhiNW9MRzRtcTMtMkdPemc5THdnUWhsLV8wS18ySE9LWk0zcVZ1NEo4eEpOMmcwVXVva3VJRTRvdnExQUFGM044RWN1U1c5aEs1alhQYVZNaEVUeWtuTElhQ2NBN1FDdTNNVTg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T18:59:00+07:00",
-"found": "2026-11-21T03:14:12+07:00"
-},
-{
-"id": "e05a6b1939de",
-"title": "Quốc hội biểu quyết thông qua gần 50 luật, nghị quyết tại Đợt 2 Kỳ họp thứ 2, Quốc hội khóa XVI",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeDNpc3hCb0FNQzdUeHdwN1M5QVFrTmExREZsSzh3SUFTdFRVd0tsQWlTeUl6Q1hfY0ltQlBiVUV3YlNzSEJyVnVUWUtpQk4xaTZuZWZTaFJISXFKbVJVeVdqQVdVVExveHVMWllWUHItajQyMHQwTjVZeXZHTkRHaG9teHBkd1J1TFR1MTNSOF90UjRoYzRNdUduZjFRU05YNWZQSEl2RjFGMUQ4Mjgtb0JRaTkySGlDcEtsNG55eGZEZDk1?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T18:56:47+07:00",
-"found": "2026-11-20T19:15:39+07:00"
-},
-{
-"id": "d55656e1b991",
-"title": "Giải bài toán đào tạo nhân lực báo chí thời AI",
-"link": "https://thanhnien.vn/giai-bai-toan-dao-tao-nhan-luc-bao-chi-thoi-ai-18526112015020561.htm",
-"summary": "Làn sóng chuyển đổi số và trí tuệ nhân tạo đang tái định hình toàn diện diện mạo báo chí hiện đại, đòi hỏi người làm báo không chỉ vững nghiệp vụ truyền thống mà còn phải làm chủ công nghệ, thành thạo kỹ năng số...",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/img9990-1795161535794968251112-271-135-1680-2390-crop-17951617533902022803171.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-20T18:51:00+07:00",
-"found": "2026-11-20T19:00:27+07:00"
-},
-{
-"id": "d0aad3894d4f",
-"title": "thể công đấu với sông lam nghệ an",
-"link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-the-cong-viettel-slna-thu-thach-ban-linh-truoc-doi-thu-bat-bai-v-league-c48a1812537.html",
-"summary": "Trực tiếp bóng đá Thể Công Viettel - SLNA: Tân \"Hứ\" đá chính (V-League) (Tin tức 24h)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdbCjwvBbrOo-Z0V9apVX7Mg47g19do3-j2N-U9UUK5y49u_Op1fgfZSFhoSM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T18:50:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-20T19:15:39+07:00"
-},
-{
-"id": "f84a3e31ee8a",
-"title": "Nam thanh niên \"bốc đầu\" xe máy bị người dân ghi lại gửi công an",
-"link": "https://dantri.com.vn/phap-luat/nam-thanh-nien-boc-dau-xe-may-bi-nguoi-dan-ghi-lai-gui-cong-an-20261120183220955.htm",
-"summary": "(Dân trí) - Công an Hải Phòng đã vào cuộc xử lý nam thanh niên \"bốc đầu\" xe máy từ phản ánh của người dân.",
-"image": "https://cdnphoto.dantri.com.vn/f_9tR3d2MohVDgHPiIN7TswaM9g=/2026/11/20/trieu-tap-thanh-nien-cropped-1795174198110.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-20T18:48:51+07:00",
-"found": "2026-11-20T19:48:17+07:00"
 }
 ]
 }
