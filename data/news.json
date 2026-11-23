@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T00:58:55+07:00",
-"new": 5,
+"updated": "2026-11-24T01:07:29+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "c5139588aba2",
+"title": "Ngày 24/11, gửi dưới 100 triệu đồng kỳ hạn 9 tháng tại Nam A Bank, LPBank, MSB, VIB và OCB nhận được bao nhiêu tiền lãi?",
+"link": "https://cafef.vn/ngay-24-11-gui-duoi-100-trieu-dong-ky-han-9-thang-tai-nam-a-bank-lpbank-msb-vib-va-ocb-nhan-duoc-bao-nhieu-tien-lai-188261123230017719.chn",
+"summary": "Lãi suất tiết kiệm kỳ hạn 9 tháng tại Nam A Bank, LPBank, MSB, VIB và OCB đang dao động từ 5,1% đến 5,9%/năm đối với hình thức gửi tại quầy và từ 5,8% đến 6,3%/năm đối với gửi trực tuyến. Với khoản tiền gửi 50 triệu đồng, khách hàng có thể nhận từ hơn 1,9 triệu đồng đến gần 2,4…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/msb-37-5139-4868-17954495191291503610561-0-0-630-1008-crop-1795449525380127258090.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-24T01:00:00+07:00",
+"found": "2026-11-24T01:07:29+07:00"
+},
+{
 "id": "3996770ff388",
 "title": "Giá vàng hôm nay 24/11: Bật tăng dữ dội hơn 100 USD/ounce",
 "link": "https://vietnamnet.vn/gia-vang-hom-nay-24-11-bat-tang-du-doi-hon-100-usd-ounce-2577974.html",
@@ -233,6 +244,18 @@
 "cat": "tc",
 "published": "2026-11-24T00:42:45+07:00",
 "found": "2026-11-24T00:43:24+07:00"
+},
+{
+"id": "3cb6cc733fa2",
+"title": "vnexpress",
+"link": "https://vnexpress.net/jensen-huang-quay-ve-lam-ceo-nvidia-5148234.html",
+"summary": "Jensen Huang quay về làm CEO Nvidia (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRw-RfUUvLuEVowSwSQ0mUmUiS0Sjxd2X-l0TXqS99sWfFVX9q-6-KYhHNASDw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T00:40:00+07:00",
+"traffic": "5000+",
+"found": "2026-11-24T01:07:29+07:00"
 },
 {
 "id": "5584d8e678c6",
@@ -493,7 +516,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T23:20:00+07:00",
-"traffic": "500+",
+"traffic": "2000+",
 "found": "2026-11-24T00:58:55+07:00"
 },
 {
@@ -19914,6 +19937,17 @@
 "found": "2026-11-21T19:14:07+07:00"
 },
 {
+"id": "0dbcb278ef8a",
+"title": "Phường Yên Bái nỗ lực giải ngân phát huy hiệu quả vốn đầu tư công",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHQxUU5ScVNZNnU0dVl2WFI2QXA1bjFkdGx1cjdYWUYzamtNcmIwTTJrS21YSTYtVi13UTVVOS1xc1FPMW9ERFFZSFlSYmhlaWxHRlhDbmlvaWlOQkdSSHpvSl81UXRyaEpaakZYekpuMGd0XzJFbmN0SjlWMmQxdHl3ajduUDBNeHFKOWsybUdJUlBfYjI0U0s5QzBxNEk?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T18:59:00+07:00",
+"found": "2026-11-24T01:07:29+07:00"
+},
+{
 "id": "941cbbfb9c59",
 "title": "Tại tỉnh có đường bờ biển dài nhất Việt Nam, nhà máy điện khí 1.500 MW, vốn gần 2,2 tỷ USD vừa chốt 2 đối tác quốc tế, dự kiến phát 9 tỷ kWh điện mỗi năm",
 "link": "https://kenh14.vn/tai-tinh-co-duong-bo-bien-dai-nhat-viet-nam-nha-may-dien-khi-1500-mw-von-gan-22-ty-usd-vua-chot-2-doi-tac-quoc-te-du-kien-phat-9-ty-kwh-dien-moi-nam-215261121175838403.chn",
@@ -28101,39 +28135,6 @@
 "cat": "xh",
 "published": "2026-11-20T22:22:11+07:00",
 "found": "2026-11-20T22:14:37+07:00"
-},
-{
-"id": "f911b0c68b48",
-"title": "Người dân vùng dân tộc thiểu số được vay tới 200 triệu đồng phát triển sinh kế",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTm5QN1JRX0VZaXVmNXpSeHlFYU1qdWFOOXdaYU5TbmxkSmRBek5GcmJFTWVaUFFpR1VVU3RBUU14dmU3d1dSU19IZnQteG82bEtvZ0IxeS1YOWROTEtsUkRqM2VMQjQyMk92LU9TOTZ5NlUtR2hERHM0Z2JmeldfY25aeWRfWUE2MlpXVkRrX0RYU3JSYzI4ZTBtdktvWVBCQXkyVWFKT1FNeDJNX0VPaA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T22:21:00+07:00",
-"found": "2026-11-22T18:15:05+07:00"
-},
-{
-"id": "f860d86067b9",
-"title": "Xã Chương Dương chi trả gần 156 tỷ đồng bồi thường giải phóng mặt bằng",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUExd2hrMnZtdXJmTFpnZVJrMTNjX1hCRy1JZUt5UlZzc0JHeUg3YmdnQmZqa01WU0FRUGlFcVlMME11U1BBSWxiR3NiUHhyS3d1TDdMRzRvRnZhT1dtcUF3NGhaSHp2aTBQUEtBVnpubHpZNzdzZEhwWnQtS1VvS3h5bjVwYnNnS25qcTNOVzJ0Rzg2YnI5RUdnNG0zWDBiOFVvZ1dB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T22:21:00+07:00",
-"found": "2026-11-23T13:30:46+07:00"
-},
-{
-"id": "6cc1a2f2bd3b",
-"title": "Đề xuất thêm loại hình xổ số mới, người chơi biết kết quả ngay",
-"link": "https://kenh14.vn/de-xuat-them-loai-hinh-xo-so-moi-nguoi-choi-biet-ket-qua-ngay-215261120173504982.chn",
-"summary": "Bộ Tài chính đề xuất bổ sung loại hình xổ số kỹ thuật số biết kết quả ngay, được cung cấp trên môi trường trực tuyến. Người chơi có thể lựa chọn ký hiệu, chữ cái hoặc chữ số và biết kết quả ngay sau khi xác nhận tham gia dự thưởng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795170894600-1795170895251680080927.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T22:20:00+07:00",
-"found": "2026-11-20T22:30:11+07:00"
 }
 ]
 }
