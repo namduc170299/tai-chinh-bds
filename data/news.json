@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T01:37:51+07:00",
-"new": 4,
+"updated": "2026-11-24T01:53:02+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 41
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -246,6 +246,17 @@
 "cat": "tc",
 "published": "2026-11-24T01:00:00+07:00",
 "found": "2026-11-24T01:07:29+07:00"
+},
+{
+"id": "c003141fc68c",
+"title": "Đề nghị truy tặng huân chương cho hai người hy sinh khi cứu nạn",
+"link": "https://vnexpress.net/de-nghi-truy-tang-huan-chuong-cho-hai-nguoi-hy-sinh-khi-cuu-nan-5148247.html",
+"summary": "Với hành động cứu người gặp nạn, ông Nguyễn Duy An và Phạm Sáng được UBND tỉnh Khánh Hòa đề xuất truy tặng huân chương.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/2aOboREYpLCONOzjGYUx390uzioQgz-5680-7331-1795446598.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CdFIjoke9tTQKgkNfXipZg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T01:00:00+07:00",
+"found": "2026-11-24T01:53:02+07:00"
 },
 {
 "id": "3996770ff388",
@@ -3691,7 +3702,7 @@
 "summary": "",
 "image": "",
 "source": "Báo Mới",
-"cat": "tc",
+"cat": "bds",
 "published": "2026-11-23T16:30:35+07:00",
 "found": "2026-11-23T16:56:17+07:00"
 },
@@ -4072,6 +4083,17 @@
 "cat": "tc",
 "published": "2026-11-23T16:05:00+07:00",
 "found": "2026-11-23T16:28:17+07:00"
+},
+{
+"id": "5f347c54a955",
+"title": "Novaland muốn thoái vốn tại 2 công ty con",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGQmFOc3U5TDB6c200NzZySE9jTy1XOWtxZ3VBakFrZkd3U3Jzb0pVYm5aR0RQVWVWWnRKZkstZmxvamd0RFZqQjNsQWZLVXlSSkduY2dqYnhHb3p1a0xuRjJfdno4dnlfUTBXZHpUNDItemhKY0N0YlVrbTVCZnc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T16:04:18+07:00",
+"found": "2026-11-24T01:53:02+07:00"
 },
 {
 "id": "d5d69edadf8b",
@@ -28115,28 +28137,6 @@
 "cat": "xh",
 "published": "2026-11-20T23:00:00+07:00",
 "found": "2026-11-22T19:33:13+07:00"
-},
-{
-"id": "a52b4c03d6b6",
-"title": "Phường Kiến Hưng khẩn trương xử lý tồn tại tại dự án CT6, bảo đảm quyền lợi người dân",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzNwT016ZXFkR3dqdXRlVXJqclI1UG1LZlpFT0RkdkxoY3IxaDBIVWs3RXZxaThiZFl3RzhqdC1uVlFvYU12U2pnLVg2b2ZGX1p0NW81OVlCMGJaZ0dpREt2SzFFTzBmMHNLakNtQ0dRQ01wZDRvLXBNZjlXaXZrRDF3YmYtSGJ3TkxhUHRRcF8xOUl6Vm9IeEV5di12R1o5d1V5WG5fZWFzWTJDNWR4SkgxbUZxZE1y?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T22:57:00+07:00",
-"found": "2026-11-21T13:34:47+07:00"
-},
-{
-"id": "30c0ff1f4a98",
-"title": "CĐV bức xúc vì trọng tài thổi còi sớm ở trận U17 Việt Nam",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWoyNWUycmxmcDdpbjZTQ2pFUnM5cXRObmFadHlBaHQ4Tk1adHVQRk1IVGZlQjd0dVhnMzVRLW5OUHY5alQ1TnFWSFRadmpVWTBvYWQzYzJWdFRGOWdVRmNMUUUyWDlqMHo1ejhMQ05HYnZuX3NMQUlrYkdpLTkwOVI2TjBBaElhWHRRZHNDQ1M4eFUyQW5F?oc=5",
-"summary": "Nguồn: bongda.com.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T22:48:23+07:00",
-"found": "2026-11-20T23:46:01+07:00"
 }
 ]
 }
