@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T19:27:49+07:00",
-"new": 4,
+"updated": "2026-11-23T19:42:34+07:00",
+"new": 15,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 39
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,61 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "5705cd1fae34",
+"title": "Tin mới nhất đợt không khí lạnh mạnh: Miền Bắc rét sâu, núi cao dưới 10 độ",
+"link": "https://vietnamnet.vn/tin-moi-nhat-dot-khong-khi-lanh-manh-mien-bac-ret-sau-2572292.html",
+"summary": "Từ gần sáng 24/11, không khí lạnh cường độ mạnh tràn xuống miền Bắc khiến trời chuyển rét, vùng núi cao có nơi dưới 10 độ. Trung Bộ đối mặt hai đợt mưa lớn diện rộng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/tin-moi-nhat-dot-khong-khi-lanh-manh-mien-bac-ret-sau-nui-cao-duoi-10-do-2399.jpg?width=0&s=c2QG9W5mNzpcYsridMw7pw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-23T19:36:05+07:00",
+"found": "2026-11-23T19:42:34+07:00"
+},
+{
+"id": "a79385ef1416",
+"title": "Đẩy nhanh tiến độ các dự án nhà ở xã hội",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aclVSZmhhYUNtamM4azlXVk5qUUl5WUJWSHZ4UEU2dU1XTnFlNEpKVThnQTZPSHlUcXAzUVNCc1A2RW9ZMGtyNkpubEIwRzZFNXliaW1lcmxVeWo0S1A5ZllqMUMtTnpEOU5Cd3hmS0RZX1VCUnlvUkp5TFdwZw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T19:35:00+07:00",
+"found": "2026-11-23T19:42:34+07:00"
+},
+{
+"id": "ad4a5dce8f71",
+"title": "Văn hóa doanh nghiệp: Nói ít, làm nhiều, lấy kết quả làm thước đo",
+"link": "https://thanhnien.vn/van-hoa-doanh-nghiep-noi-it-lam-nhieu-lay-ket-qua-lam-thuoc-do-185261123173451208.htm",
+"summary": "Văn hóa doanh nghiệp không nằm ở những khẩu hiệu hay bộ giá trị được công bố, mà phải thể hiện qua hành vi cụ thể, từ việc đúng giờ, lắng nghe nhân viên đến thực hiện cam kết với khách hàng. Quan trọng hơn, những thay đổi ấy phải có kết quả đo lường được.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/tnw-van-hoa-dn2-17954296149331860689910-54-0-1654-2560-crop-17954296546231505836040.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-23T19:35:00+07:00",
+"found": "2026-11-23T19:42:34+07:00"
+},
+{
+"id": "7ef179eb73d7",
+"title": "Từ khu nghĩa địa, đất bỏ hoang trở thành công viên văn hóa ở TP.HCM",
+"link": "https://thanhnien.vn/tu-khu-nghia-dia-dat-bo-hoang-tro-thanh-cong-vien-van-hoa-o-tphcm-185261123173118223.htm",
+"summary": "Một khu đất bỏ hoang, cây cối rậm rạp, có nhiều phần mộ… ở phường An Phú (TP.HCM) đã được địa phương chỉnh trang, đầu tư, xây dựng trở thành một công viên với nhiều tiện ích, thiết chế văn hóa phục vụ người dân.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/anh-1-ap-17954295854411566501139-0-0-1280-2048-crop-179542963059280442100.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-23T19:32:00+07:00",
+"found": "2026-11-23T19:42:34+07:00"
+},
+{
+"id": "cca70ec075f8",
+"title": "Dự kiến lãi suất 0%, giãn thanh toán đến cuối năm 2028: Cơ hội sở hữu căn hộ The Aristo",
+"link": "https://cafef.vn/du-kien-lai-suat-0-gian-thanh-toan-den-cuoi-nam-2028-co-hoi-so-huu-can-ho-the-aristo-188261123193603365.chn",
+"summary": "Thay vì phải chuẩn bị một khoản tiền lớn ngay từ đầu, người mua nhà tại Phú Mỹ Hưng The Aristo dự kiến có thể thanh toán 20% giá trị căn hộ để ký hợp đồng mua bán, được hỗ trợ lãi suất 0% cho khoản vay 30% trước khi bàn giao nhà và ân hạn nợ gốc đến quý IV/2028.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/photo1795420836127-1795420836488627407862-17954373664001642127107.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-23T19:30:00+07:00",
+"found": "2026-11-23T19:42:34+07:00"
+},
+{
 "id": "d2732e51ec9e",
 "title": "Giám đốc Công ty lâm nghiệp La Ngà bị bắn ở Đồng Nai đã tử vong",
 "link": "https://thanhnien.vn/giam-doc-cong-ty-lam-nghiep-la-nga-bi-ban-o-dong-nai-da-tu-vong-185261123180938533.htm",
@@ -255,6 +310,17 @@
 "cat": "xh",
 "published": "2026-11-23T19:15:03+07:00",
 "found": "2026-11-23T17:11:27+07:00"
+},
+{
+"id": "3e8ab1a7f64f",
+"title": "TP HCM chuyển khoản 370 tỷ đồng quà Tết đến công nhân",
+"link": "https://vnexpress.net/tp-hcm-chuyen-khoan-370-ty-dong-qua-tet-den-cong-nhan-5148203.html",
+"summary": "Từ tháng 11, TP HCM chuyển khoản 370 tỷ đồng hỗ trợ Tết cho 370.000 lao động, mỗi người một triệu đồng, ưu tiên nhóm khó khăn, mất việc, giảm thu nhập.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/1795435619955-e61929661dd0be3e-6749-7157-1795436045.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CmOXrNE6ZV3C8vun2SfGdA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-23T19:14:04+07:00",
+"found": "2026-11-23T19:42:34+07:00"
 },
 {
 "id": "a1321d8bf11a",
@@ -301,6 +367,17 @@
 "found": "2026-11-23T19:12:38+07:00"
 },
 {
+"id": "0ad55bcf9f2d",
+"title": "Ban Bí thư kết luận về chính sách hỗ trợ nhân sĩ, trí thức, văn nghệ sĩ, nghệ nhân có nhiều cống hiến",
+"link": "https://tuoitre.vn/ban-bi-thu-ket-luan-ve-chinh-sach-ho-tro-nhan-si-tri-thuc-van-nghe-si-nghe-nhan-co-nhieu-cong-hien-10026112318312887.htm",
+"summary": "Ban Bí thư đã có kết luận về chính sách chăm lo, hỗ trợ, tôn vinh và phát huy vai trò của đội ngũ nhân sĩ, trí thức, văn nghệ sĩ, nghệ nhân có nhiều cống hiến.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/tran-cam-tu-17923117605401845726469-31-186-750-1337-crop-17954332613861704036897.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T19:05:00+07:00",
+"found": "2026-11-23T19:42:34+07:00"
+},
+{
 "id": "ce8a04b5922a",
 "title": "Khởi tố Phó giám đốc và nhân viên Công ty SIS đổ hơn 582 tấn đá thải",
 "link": "https://thanhnien.vn/khoi-to-pho-giam-doc-va-nhan-vien-cong-ty-sis-do-hon-582-tan-da-thai-185261123175920592.htm",
@@ -310,6 +387,28 @@
 "cat": "xh",
 "published": "2026-11-23T19:04:00+07:00",
 "found": "2026-11-23T19:12:38+07:00"
+},
+{
+"id": "0cd2f2f59fcd",
+"title": "Thiếu tướng Bùi Ngọc Tuyên làm Chính ủy Bộ Tư lệnh Tác chiến không gian mạng",
+"link": "https://vnexpress.net/thieu-tuong-bui-ngoc-tuyen-lam-chinh-uy-bo-tu-lenh-tac-chien-khong-gian-mang-5148196.html",
+"summary": "Thiếu tướng Bùi Ngọc Tuyên, Chính ủy Bộ Tư lệnh Pháo binh - Tên lửa, được Thủ tướng bổ nhiệm giữ chức Chính ủy Bộ Tư lệnh Tác chiến không gian mạng.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/thieu-tuong-bui-ngoc-tuyen-179-9775-4177-1795435515.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9wM4rH3NO1FO3LUvhWJfOQ",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-23T19:02:47+07:00",
+"found": "2026-11-23T19:42:34+07:00"
+},
+{
+"id": "33cc48bf720f",
+"title": "Chủ tịch Quốc hội Trần Thanh Mẫn tiếp xúc cử tri tại TP.HCM",
+"link": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-tiep-xuc-cu-tri-tai-tphcm-100261123182455096.htm",
+"summary": "Thực hiện chương trình tiếp xúc cử tri sau kỳ họp thứ hai, Quốc hội khóa XVI, chiều 23-11, Ủy viên Bộ Chính trị, Chủ tịch Quốc hội Trần Thanh Mẫn và các đại biểu Quốc hội (ĐBQH) TP.HCM thuộc đơn vị bầu cử số 12 đã tiến hành tiếp xúc cử tri tại xã Hóc Môn.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/ctqh-1795432829327820764637-255-292-1173-1761-crop-1795435348460729020259.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T19:01:00+07:00",
+"found": "2026-11-23T19:42:34+07:00"
 },
 {
 "id": "b8bab4a86fa1",
@@ -367,6 +466,17 @@
 "found": "2026-11-23T19:12:38+07:00"
 },
 {
+"id": "4a04ccd7841f",
+"title": "Ngăn xe hút hầm cầu xả bậy: TP.HCM đề xuất in rõ tên trên xe, có giấy xác nhận nơi xử lý",
+"link": "https://tuoitre.vn/ngan-xe-hut-ham-cau-xa-bay-tphcm-de-xuat-in-ro-ten-tren-xe-co-giay-xac-nhan-noi-xu-ly-100261123182057788.htm",
+"summary": "Sở Nông nghiệp và Môi trường TP.HCM đang lấy ý kiến dự thảo quy định mới về thu gom, vận chuyển và xử lý chất thải rắn xây dựng, bùn thải từ bể phốt, hầm cầu cùng bùn nạo vét kênh, mương, công trình thủy lợi.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/logo-do-bay-a9-3read-only-16673483038071763713797-17954325382081421213806-28-40-890-1419-crop-17954325667271382277714.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T18:51:00+07:00",
+"found": "2026-11-23T19:42:34+07:00"
+},
+{
 "id": "b98cdcd92da9",
 "title": "Bất động sản 23/11: Đất để dành cho con có bị xem là đất bỏ hoang và chịu thuế 0,2%?",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFlicXhLdjZHaGFIS1ozZUJ5dDl3OG8yRkk2MFdsalVZZmJkdE5JajQ0VVhyMjZEQmg2V29kcC13RDl2alQta2VQNW9ZTE8xSkhDTE5zTVlSc3dKTzlTUjMxYTNYZFpNWFhWS1FaNkJhS1I1ME9nZTRLWjN2aXl1b3pxMHJzWkF6c29sSHltMk1LLWlYazRjUjh6eDlrSXBjY1MzZWRVOFpJMlZCLThIeVRuTzY?oc=5",
@@ -387,6 +497,28 @@
 "cat": "bds",
 "published": "2026-11-23T18:49:00+07:00",
 "found": "2026-11-23T19:12:38+07:00"
+},
+{
+"id": "19102f180ba5",
+"title": "Sinh viên trổ tài vẽ nón lá, in tranh Đông Hồ, tạo hình từ lá dừa tại ngày hội 'Tinh hoa Việt Nam'",
+"link": "https://tuoitre.vn/sinh-vien-tro-tai-ve-non-la-in-tranh-dong-ho-tao-hinh-tu-la-dua-tai-ngay-hoi-tinh-hoa-viet-nam-100261123170658937.htm",
+"summary": "Ngày 23-11, Trường đại học Y khoa Phạm Ngọc Thạch khai mạc Tuần hội trải nghiệm sách và văn hóa dân gian với chủ đề 'Tinh hoa Việt Nam'.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/1795416561310552289874470397908055228987447039790806fd2fac344de4a3ee09f1978ab9d63ad-1795427866411823543458-75-0-1200-1800-crop-17954282574671713572062.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-23T18:46:00+07:00",
+"found": "2026-11-23T19:42:34+07:00"
+},
+{
+"id": "404f13ba9780",
+"title": "Thủ tướng bổ nhiệm Chính ủy Bộ Tư lệnh 86",
+"link": "https://tuoitre.vn/thu-tuong-bo-nhiem-chinh-uy-bo-tu-lenh-86-100261123174319379.htm",
+"summary": "Thủ tướng Chính phủ Lê Minh Hưng đã ký Quyết định số 2303/QĐ-TTg về việc bổ nhiệm giữ chức Chính ủy Bộ Tư lệnh Tác chiến không gian mạng (Bộ Tư lệnh 86).",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/29293-17954347585481443208939-15-0-1295-2048-crop-17954347865441122871244.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T18:42:00+07:00",
+"found": "2026-11-23T19:42:34+07:00"
 },
 {
 "id": "93b8e6d8d73e",
@@ -453,6 +585,28 @@
 "cat": "xh",
 "published": "2026-11-23T18:36:54+07:00",
 "found": "2026-11-23T18:57:28+07:00"
+},
+{
+"id": "30d9bb38c15b",
+"title": "Từ 28-11, một đoạn đường Trường Chinh thành một chiều để thi công metro số 2 Bến Thành - Tham Lương",
+"link": "https://tuoitre.vn/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm",
+"summary": "Từ 28-11, đường Trường Chinh (đoạn Đồng Đen đến Trương Công Định) sẽ được tổ chức lưu thông một chiều để phục vụ thi công ga Nguyễn Hồng Đào thuộc tuyến metro số 2 Bến Thành - Tham Lương.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/1794027877340329186617701790275329186617701790275b2dfc4180dc6e141144892eeefc81202-1795432747410229676418-81-0-1681-2560-crop-1795432754641124565015.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T18:36:00+07:00",
+"found": "2026-11-23T19:42:34+07:00"
+},
+{
+"id": "a5addc9a80ea",
+"title": "Xác minh clip nam thanh niên chạy xe tay ga bốc đầu trên đường Trần Thị Diệu",
+"link": "https://tuoitre.vn/xac-minh-clip-nam-thanh-nien-chay-xe-tay-ga-boc-dau-tren-duong-tran-thi-dieu-100261123181410098.htm",
+"summary": "Mạng xã hội lan truyền clip nam thanh niên chạy xe tay ga, bất ngờ nhấc bánh trước lên khỏi mặt đường, chạy bằng bánh sau trên đường Trần Thị Diệu, phường Phước Long, TP.HCM. Cơ quan chức năng đang xác minh vụ việc.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/boc-dau-frame-at-0m2s-1795432031964187439591-323-0-683-576-crop-1795432097187542724740.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T18:35:00+07:00",
+"found": "2026-11-23T19:42:34+07:00"
 },
 {
 "id": "f8eb211904ef",
@@ -687,6 +841,17 @@
 "cat": "tc",
 "published": "2026-11-23T17:58:00+07:00",
 "found": "2026-11-23T18:09:08+07:00"
+},
+{
+"id": "6eeba6a31119",
+"title": "Cử tri Đắk Lắk đề xuất mở rộng quốc lộ 26",
+"link": "https://tuoitre.vn/cu-tri-dak-lak-de-xuat-mo-rong-quoc-lo-26-100261123144727718.htm",
+"summary": "Tại buổi tiếp xúc cử tri, người dân tỉnh Đắk Lắk kiến nghị sớm mở rộng quốc lộ 26 ở tỉnh này để thuận tiện lưu thông.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/cu-tri-dak-lak-than-phien-o-nhiem-bai-rac-de-xuat-mo-rong-quoc-lo-26-le-trung-2026-11-23-4-17954195486731609524271-76-0-988-1460-crop-1795432103408674730696.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T17:58:00+07:00",
+"found": "2026-11-23T19:42:34+07:00"
 },
 {
 "id": "47ed3f2dc017",
@@ -27955,171 +28120,6 @@
 "cat": "tc",
 "published": "2026-11-20T18:12:00+07:00",
 "found": "2026-11-20T18:19:12+07:00"
-},
-{
-"id": "c6120b71ec84",
-"title": "Trường Đại học Công đoàn đổi mới đào tạo, nâng cao chất lượng nguồn nhân lực",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRTREUGozdlY3OVJiSlMxekhDRWRnVDBhZ2FubElPaFZSZW4yX0dCMXZna0NGSlMtaFVlYzFCaHQ1S3U5RWhJVllWRVBxNmVUbERUUjJPaXpVVHNDZ05OSThxOUNITklGOGw2ZEN4V2RyVUczeXVIQ0Nvek1iR2U0SVNGVzJKeWVfVEM4YTBEMW11TXhwdmFpd084cEF6WmdNZWFyaWE2X3JEWW1S?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T18:12:00+07:00",
-"found": "2026-11-21T06:44:45+07:00"
-},
-{
-"id": "9eb9f33cc77d",
-"title": "4 ngân hàng có lãi suất cho vay bình quân trên 11%/năm trong tháng 10",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmJXX3FWX1JxcG1lWHd0WjNLMFRqMXI3TGdaTkZuVmtBZlBQQUZPNi13b1lEQjI0dlItVHkyUU1oejVvOU11NmtsM3RxUXZfLWdFczFvWW1uNTNLOVd0OGVYTUplRlV2VnB6UDFCd015bE9Rb2tEcnBXNG9IZHZnczFSMS13d3N1T1NwQkF5NzdUN3F1ZHVsUnpITnRtUGdSOU1v?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T18:11:00+07:00",
-"found": "2026-11-20T18:19:12+07:00"
-},
-{
-"id": "fa52767113b0",
-"title": "Đúng ngày 20/11, khu du lịch Đại Nam của vợ chồng bà Nguyễn Phương Hằng phát đi thông báo đặc biệt",
-"link": "https://kenh14.vn/dung-ngay-20-11-khu-du-lich-dai-nam-cua-vo-chong-ba-nguyen-phuong-hang-phat-di-thong-bao-dac-biet-215261120111337394.chn",
-"summary": "Nhân dịp Ngày Nhà giáo Việt Nam 20/11, Khu du lịch Đại Nam triển khai chương trình tri ân dành riêng cho đội ngũ giáo viên.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795147978232-17951479829821279319659.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T18:06:00+07:00",
-"found": "2026-11-20T11:28:09+07:00"
-},
-{
-"id": "2f69e0d67197",
-"title": "VN-Index mất mốc 1.700 điểm, cổ phiếu công nghệ chịu áp lực bán lớn",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXVtUXhqYmJENTE1UkFIdVQtMFdrcE9MaXhhTVNLUG8xelI1Q3pTemE0YldjLVF0WjZlVzhrUXIxYzEwdFpadUh5MF92UFpqeVhPbS1qbnQzeDdzcG1NZFYzQ0pQQVpSb0JlLU1YRGRxUWVTTVI1WFNoTWJmY0VTYkIxZkVWOVNxYnh0OFlhaTFhSXphMkVLZThoZ2tRQ2Vr?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T18:05:34+07:00",
-"found": "2026-11-21T10:18:39+07:00"
-},
-{
-"id": "05fcaeb531fd",
-"title": "Cụm siêu cảng Cái Mép - Thị Vải - Cần Giờ hút các tập đoàn, hãng tàu hàng đầu thế giới",
-"link": "https://tuoitre.vn/cum-sieu-cang-cai-mep-thi-vai-can-gio-hut-cac-tap-doan-hang-tau-hang-dau-the-gioi-100261120172151073.htm",
-"summary": "Nhiều tập đoàn trong và ngoài nước đang triển khai đầu tư xây dựng hệ thống cảng biển Cái Mép - Thị Vải - Cần Giờ.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/base64-1776660384309260801549-1795164342206193143772-0-125-784-1380-crop-17951706933681264479792.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-20T18:05:00+07:00",
-"found": "2026-11-20T19:30:49+07:00"
-},
-{
-"id": "a899a59071f2",
-"title": "Quảng Lập mở lớp nghề dịch vụ, tạo sinh kế cho lao động vùng cao",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOME03ZjloeDY2azVlQk9CWGtqNzNvRmcwSjljNW9wRGNPX0RXSlU5X2VYQzM5bnlBdXJOODFGSS1aUVhQWmpST3VVMEViLWZKSDZVNDZJbkZvcmgtSXlaaUtNbkhLbkZHVVpBamY0SVYtang5djlKcHhlaHRHV0xjSUs5ZjVYa0xORHBRd2R2b05sY3RONGpBSVhGUlU?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T18:05:00+07:00",
-"found": "2026-11-21T04:47:52+07:00"
-},
-{
-"id": "d21a43f6683a",
-"title": "Lệnh khám xét, bắt tạm giam nguyên quản lý Cửa hàng Bách Hóa Xanh sinh năm 1986",
-"link": "https://kenh14.vn/lenh-kham-xet-bat-tam-giam-nguyen-quan-ly-cua-hang-bach-hoa-xanh-sinh-nam-1986-215261120151407806.chn",
-"summary": "Nguyên quản lý cửa hàng Bách Hóa Xanh “Tham ô tài sản” của công ty đã bị khởi tố, bắt tạm giam.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795162243130-17951622437491047615199-64-0-423-575-crop-17951622687131563697630.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T18:04:00+07:00",
-"found": "2026-11-20T18:19:12+07:00"
-},
-{
-"id": "5eac7712eca7",
-"title": "Rao bán khoản nợ của ông Lê Hải Trà, tài sản bảo đảm là căn hộ 273m² ở Thảo Điền",
-"link": "https://tuoitre.vn/rao-ban-khoan-no-cua-ong-le-hai-tra-tai-san-bao-dam-la-can-ho-273m-o-thao-dien-100261120175415465.htm",
-"summary": "Agribank đang tìm đơn vị tổ chức đấu giá khoản nợ hơn 12,4 tỉ đồng của ông Lê Hải Trà. Tài sản bảo đảm cho khoản vay là căn hộ rộng gần 273m² tại chung cư ở Thảo Điền, TP.HCM.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/base64-178633289296761995127-17951717833891392183441.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "bds",
-"published": "2026-11-20T18:00:00+07:00",
-"found": "2026-11-20T18:45:15+07:00"
-},
-{
-"id": "f145b1cbae22",
-"title": "3 tân Phó chủ tịch UBND tỉnh Vĩnh Long tiếp tục kiêm nhiệm chức vụ giám đốc sở",
-"link": "https://tuoitre.vn/3-tan-pho-chu-tich-ubnd-tinh-vinh-long-tiep-tuc-kiem-nhiem-chuc-vu-giam-doc-so-100261120170422474.htm",
-"summary": "Ông Trần Trí Quang - Chủ tịch UBND tỉnh Vĩnh Long, vừa có thông báo phân công thêm nhiệm vụ cho 3 tân Phó chủ tịch UBND tỉnh này.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/vinh-long-3-tan-pct-edit-rotate-17951737268851986820149-880-305-1964-2040-crop-17951738566931537393439.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-20T18:00:00+07:00",
-"found": "2026-11-20T19:30:49+07:00"
-},
-{
-"id": "c5b654b01a6c",
-"title": "Nâng cấp hạ tầng Biên Hoà khai mở vận hội mới cho thành phố Đồng Nai",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRVFQV0R1dHBFUnhyLTZnSDFFZGhyZ2xPcl9odE5neEVFSmtiOEVqSHAxSEdHMThpdlQtYWhmMmw1WmZBOVBmTk5QaVhVZUlaV01HWEtrWTB1YzhOdXU1Yk1mTGtzUGRfSWhkTTFyMWdlT2RSNzRTTUVubUNGVXdZV1N0VlJ6RFlNcUlIZGFpYnE5OGRLekxuZVRmRjAzeVBQX3pF?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T18:00:00+07:00",
-"found": "2026-11-21T08:58:32+07:00"
-},
-{
-"id": "77638a6ff353",
-"title": "Đề xuất sửa Luật Doanh nghiệp với 5 nhóm chính sách trọng tâm",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1FRVlkzaXN1VmhCWHplSHdfVDl3cnYyWV9zcmZzcUJEZ051N3VZTWoyalJBYXgzOWlvOEVYLXJ6bFZXTkd2U21QRGMzeXFOZnVncllvYTJyY1hVVTJHYTBfbjhQZTItZVhrS3lRNFNUU29pQmVaNTJsYS1IY05CaVdfajktdGI0SUstUlNJX1VGWk9vd2NjdTl3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T18:00:00+07:00",
-"found": "2026-11-22T10:20:03+07:00"
-},
-{
-"id": "b279be5a4919",
-"title": "Điều gì giữ chân doanh nghiệp Hàn Quốc suốt thời gian qua?",
-"link": "https://tuoitre.vn/dieu-gi-giu-chan-doanh-nghiep-han-quoc-suot-thoi-gian-qua-100261120154501116.htm",
-"summary": "Cộng đồng doanh nghiệp Hàn Quốc tiếp tục đẩy mạnh đầu tư, tạo việc làm, chuyển giao công nghệ và tăng cường trách nhiệm xã hội, góp phần xây dựng quan hệ hợp tác kinh tế bền vững với Việt Nam.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/img0911-1795163493244137573269-0-0-1529-2446-crop-17951637348221459223411.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-20T17:59:00+07:00",
-"found": "2026-11-20T18:45:15+07:00"
-},
-{
-"id": "88a7fc93b8aa",
-"title": "Tài khoản mạng xã hội phải được xác thực danh tính",
-"link": "https://vnexpress.net/tai-khoan-mang-xa-hoi-phai-duoc-xac-thuc-danh-tinh-5147179.html",
-"summary": "Từ ngày 1/7/2027, người dùng tài khoản ngân hàng, chứng khoán, viễn thông, thương mại điện tử và mạng xã hội phải được xác thực danh tính điện tử.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/2aobordwglcftn6bfx9xzkeow2cf9j-4221-5096-1795169446.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=agiQAY0f0BqbKsmwWw_0lg",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-20T17:57:15+07:00",
-"found": "2026-11-20T18:34:26+07:00"
-},
-{
-"id": "41282ce0ed8c",
-"title": "Thần tốc thi công đưa hai cầu vượt trên đường Vành đai 1 về đích",
-"link": "https://cafef.vn/than-toc-thi-cong-dua-hai-cau-vuot-tren-duong-vanh-dai-1-ve-dich-188261120155639773.chn",
-"summary": "Trên công trường đường Vành đai 1, đoạn Hoàng Cầu - Voi Phục, các nhà thầu đang dồn lực thi công thần tốc hai cầu vượt tại nút giao Láng Hạ - Giảng Võ và Nguyễn Chí Thanh. Công trình bước vào giai đoạn nước rút, quyết tâm hoàn thành trong tháng 12-2026.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795164665451-17951646657331961059501.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-20T17:55:00+07:00",
-"found": "2026-11-20T18:03:59+07:00"
-},
-{
-"id": "be8cc3d8dafa",
-"title": "Ninh Bình: Chưa đủ căn cứ kết luận vụ lái đò xin tiền boa ở Tam Cốc",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNjExNzFER1ppcGpfdFdyYzdMTmtaejFJVjVIVlNCcDczSlV1MnNjRG5PRXVZamRDRUctY2tGU01QRDNBSmw0blZrRFp0Z1pDX3FRVFk0bVliY3doZi1TU1JPZHdfS2ZfVmI5bUkyX1FoVm5ncFBnRVBXbnMwRmlZN0hvZ2RJSEluZnYtcHZmbVoyNEdaUVNyU3phTkN4MHdR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T17:55:00+07:00",
-"found": "2026-11-20T18:03:59+07:00"
 }
 ]
 }
