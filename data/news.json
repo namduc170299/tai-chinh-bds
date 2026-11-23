@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T03:23:28+07:00",
-"new": 2,
+"updated": "2026-11-24T03:38:53+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,17 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "d9bb9335636e",
+"title": "Tin tức sáng 24-11: TP.HCM tổ chức hội nghị giới thiệu Luật Phát triển đô thị đến đối tác quốc tế",
+"link": "https://tuoitre.vn/tin-tuc-sang-24-11-tphcm-to-chuc-hoi-nghi-gioi-thieu-luat-phat-trien-do-thi-den-doi-tac-quoc-te-100261123192509685.htm",
+"summary": "Một số tin tức đáng chú ý: Hàng mua online trị giá đến 1 triệu đồng được miễn thuế nhập khẩu; TP.HCM sẽ tổ chức hội nghị giới thiệu Luật Phát triển đô thị đến đối tác quốc tế; Viện Pasteur TP.HCM tiêm vắc xin cúm miễn phí cho trẻ khuyết tật, hoàn cảnh khó khăn...",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/29244-1795391174793763734034-17954542072562014375131-0-0-1600-2560-crop-17954542155921850521482.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T03:19:00+07:00",
+"found": "2026-11-24T03:38:53+07:00"
+},
 {
 "id": "e39f459002e9",
 "title": "levante đấu với elche",
@@ -270,6 +281,17 @@
 "published": "2026-11-24T02:10:00+07:00",
 "traffic": "200+",
 "found": "2026-11-24T02:36:46+07:00"
+},
+{
+"id": "6ce92bc3e2fc",
+"title": "Thời tiết hôm nay 24-11: Miền Bắc và miền Trung mưa to, miền Nam ngày nắng",
+"link": "https://tuoitre.vn/thoi-tiet-hom-nay-24-11-mien-bac-va-mien-trung-mua-to-mien-nam-ngay-nang-100261123163108175.htm",
+"summary": "Hôm nay 24-11, thời tiết Bắc Bộ đến Trung Bộ đón đợt không khí lạnh, trời chuyển rét, mưa to trở lại. Nam Bộ ngày nắng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/ret-dam-1709266127216752277175-28-0-1278-2000-crop-1795426025420114106301.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T02:07:00+07:00",
+"found": "2026-11-24T03:38:53+07:00"
 },
 {
 "id": "f0d73e78d490",
@@ -1297,6 +1319,17 @@
 "cat": "bds",
 "published": "2026-11-23T21:39:00+07:00",
 "found": "2026-11-24T02:21:35+07:00"
+},
+{
+"id": "9c20e228f89a",
+"title": "Kỳ họp thứ 7 HĐND tỉnh Đồng Tháp khóa XI: Xem xét, thông qua 8 nghị quyết quan trọng",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2xIRk5Ibks4NFYyZFg0bFM3eUJseGhCRVFsR0VZY0txZ2VQUlhkTWVXejRWaERUMkpJVV95WkhBRnd6cmZCSkNwZWVSREdrY0t3SkEzMkRSVTZDVmprU3VOYmw5VTNQUFJPN2h6a0dNNXB6WTZWc3B0YURQMGtNamJ2MkFkRXBHV0J0d2RfMXg0c0dMaE1EX0RQWGNteVE0Q1h1bFVMZ2VKUkFlN1R5MThycms1QQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T21:38:27+07:00",
+"found": "2026-11-24T03:38:53+07:00"
 },
 {
 "id": "e78c1ef163ad",
@@ -13840,6 +13873,17 @@
 "found": "2026-11-24T01:22:39+07:00"
 },
 {
+"id": "28ee2c615087",
+"title": "Toàn cảnh vụ Mbappe bị cả Trung Quốc phẫn nộ",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN053cF9pOG9ndExacWJzYVpGMWNrVFlpekZTS3pqbkpWMHZWaTFYS2JEMXFNeGx6aVVaQjFYdThiZkRUVGZxSHJxMGxDWUktUVdXZUxyRE1hamRHeTdqbTBVRzk5dEczU2hobHZkQjNqeEdRODVOQjRzMlRJb0ZCMVVn?oc=5",
+"summary": "Nguồn: SkyDoor News",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T15:00:00+07:00",
+"found": "2026-11-21T20:00:35+07:00"
+},
+{
 "id": "4a1db5b4729d",
 "title": "Doanh nghiệp bất động sản cần làm gì để đón chu kỳ tăng trưởng mới?",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2FVSHdsdjZQRzg4MUhMdW9Zd1RPT0VWUTc4Z09tUUl1YXdiZWRnYUtpVGp4c3JhU2U4NERBdmF6c3pfQUlYVnNRNDdBSVR5RTY3OXJJd2lyUnExdWFTZHd3Q3dHZVluZkNlR0tMMklBV3otUmpoWkxYUWM0WTR6ZWE2dWZfTEw3VWc4cUIzTnpUdEE4eUtNcDR0TDdaOHB6?oc=5",
@@ -15747,6 +15791,17 @@
 "cat": "xh",
 "published": "2026-11-22T10:11:00+07:00",
 "found": "2026-11-22T10:45:30+07:00"
+},
+{
+"id": "6a7bd72b3bad",
+"title": "Lên mạng xã hội đặt mua sổ đỏ giả, người đàn ông mang đi cầm cố lấy 25 triệu đồng",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUI2OWVNaFdvWF96TnF0RFQ0YkFSU2MtSVlaeVk5Q21iVXctbmxXaHRkSkdyUGxiT3ltUHBpQVJMVnZ6RXZtc2c4WTE4S0FRcG85ZXpjbmF1SWFfS3lGdkktdGhFM2FkN3pnV3lVODlkWWNiam9uRWVsM0dOTEFDM2hYc19UMmRyLTQ4bFBOM2dvdVF0c3FsbjBSUnRET0VlR040TUl3WnBfVU5EdzYwTTUzWQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-22T10:11:00+07:00",
+"found": "2026-11-24T03:38:53+07:00"
 },
 {
 "id": "232677c84332",
@@ -20739,17 +20794,6 @@
 "cat": "tc",
 "published": "2026-11-21T17:52:00+07:00",
 "found": "2026-11-21T17:57:25+07:00"
-},
-{
-"id": "28ee2c615087",
-"title": "Toàn cảnh vụ Mbappe bị cả Trung Quốc phẫn nộ",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN053cF9pOG9ndExacWJzYVpGMWNrVFlpekZTS3pqbkpWMHZWaTFYS2JEMXFNeGx6aVVaQjFYdThiZkRUVGZxSHJxMGxDWUktUVdXZUxyRE1hamRHeTdqbTBVRzk5dEczU2hobHZkQjNqeEdRODVOQjRzMlRJb0ZCMVVn?oc=5",
-"summary": "Nguồn: SkyDoor News",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T17:49:17+07:00",
-"found": "2026-11-21T20:00:35+07:00"
 },
 {
 "id": "48bc0b6e8390",
@@ -28093,52 +28137,6 @@
 "cat": "tc",
 "published": "2026-11-21T01:00:00+07:00",
 "found": "2026-11-21T01:16:17+07:00"
-},
-{
-"id": "32b76a566299",
-"title": "al nasr",
-"link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-"summary": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia (The New York Times)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFzvriTL8ua1WJWZVmEDygCUCDCkSvI1Ci53dxbzQc_6nUW2i2pwE1eQmjgwo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T00:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T01:16:17+07:00"
-},
-{
-"id": "cedb474df93b",
-"title": "Khi người dân tin vào một dòng xác nhận",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WbjNjallTNjFOc2NKQUxRbUplVXdFRjZZSFlLMGxfWTQzMmZXc2p3bkdmbG5YaGdkanVJZ01RZ0hYX2hNOTB1NFFseEVZQkxCbHhxMU5CMVA1c1F2bm1BczAyWk53OVU3c2NzcFh6Rjg3cTdfZEFiZV9oZTI?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T00:46:00+07:00",
-"found": "2026-11-21T01:00:44+07:00"
-},
-{
-"id": "f3f348e1f016",
-"title": "Thái Lan, Malaysia thất bại ở vòng loại U17 châu Á",
-"link": "https://vnexpress.net/thai-lan-malaysia-that-bai-o-vong-loai-u17-chau-a-5147262.html",
-"summary": "Trong khi Việt Nam được đặc cách dự VCK, Thái Lan và Malaysia đều thất bại trong chiến dịch vòng loại U17 châu Á 2027.",
-"image": "https://vcdn1-thethao.vnecdn.net/2026/11/20/u17-tha-i-lan-1795193902-6647-1795193909.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wI7Nk22flI-s2CHfLsUe5Q",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-21T00:44:09+07:00",
-"found": "2026-11-21T10:44:13+07:00"
-},
-{
-"id": "9f06c9f02d68",
-"title": "giải vđqg ả rập xê út",
-"link": "https://www.reutersconnect.com/item/saudi-pro-league-al-ahli-v-al-nassr/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQksxRTI0Tkk",
-"summary": "Licensable picture: Saudi Pro League - Al Ahli v Al Nassr (Reuters Connect)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbpmvZidL3JjqdfJuPtlzXmp6-kitug8MwU3nTcvbpGGyMSW1mACSuVqeb0E",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T00:20:00+07:00",
-"traffic": "500+",
-"found": "2026-11-21T02:58:44+07:00"
 }
 ]
 }
