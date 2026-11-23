@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T03:54:24+07:00",
-"new": 2,
+"updated": "2026-11-24T03:57:01+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,18 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "3c4eb4164b22",
+"title": "vô địch ý",
+"link": "https://www.24h.com.vn/bong-da/ac-milan-dai-thang-hlv-amorim-phat-bieu-day-ham-y-ve-clb-lon-c48a1813373.html",
+"summary": "AC Milan đại thắng, HLV Amorim phát biểu đầy hàm ý về \"CLB lớn” (Tin tức 24h)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFjgNHJCAFwRPOuWgRxHqIPz0xONLi39Iqmnfn_BRRsWzhF2-5RXzeVjAahGw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T03:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T03:57:01+07:00"
+},
+{
 "id": "d9bb9335636e",
 "title": "Tin tức sáng 24-11: TP.HCM tổ chức hội nghị giới thiệu Luật Phát triển đô thị đến đối tác quốc tế",
 "link": "https://tuoitre.vn/tin-tuc-sang-24-11-tphcm-to-chuc-hoi-nghi-gioi-thieu-luat-phat-trien-do-thi-den-doi-tac-quoc-te-100261123192509685.htm",
@@ -248,6 +260,18 @@
 "found": "2026-11-24T03:07:58+07:00"
 },
 {
+"id": "789961cf8421",
+"title": "trương mỹ lan",
+"link": "https://dantri.com.vn/phap-luat/hai-tai-san-o-trung-tam-tphcm-lien-quan-ba-truong-my-lan-ha-gia-20261123130906457.htm",
+"summary": "Hai tài sản ở trung tâm TPHCM liên quan bà Trương Mỹ Lan hạ giá (Báo Dân trí)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyrL9swwLTQlWhyYPNExf-9oA9RjMAsS-Bb-nQIYDaCyaqg4U7_ax4UTjgpdA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T02:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T03:57:01+07:00"
+},
+{
 "id": "f7d2b741f7f8",
 "title": "brentford đấu với everton",
 "link": "https://bongdaplus.vn/ngoai-hang-anh/nhan-dinh-bong-da-brentford-vs-everton-03h00-ngay-24-11-everton-noi-dai-mach-thang-5294492611.html",
@@ -256,7 +280,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T02:30:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-24T02:51:58+07:00"
 },
 {
@@ -3034,6 +3058,17 @@
 "cat": "xh",
 "published": "2026-11-23T17:58:00+07:00",
 "found": "2026-11-23T19:42:34+07:00"
+},
+{
+"id": "6fccce5dda8d",
+"title": "TP. Hồ Chí Minh: Đề xuất nhiều giải pháp phát triển mô hình Khu đô thị khoa học, công nghệ và đổi mới sáng tạo",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTWlwNUlvY2ZBS2Q1cnpmVzJ4YzhKQkJQOWFUM0tMYXdJR0FpT1lET2NqWmNaNENwblA5QzZrUHpwUU1xUmwyeGtubHJNSHVhcHBZNmxrcWFVbVRyNElrb0tqSE1HcnZtZUV1eWRrTS1za1Ezb0RBd0RzamNPal8zeEcyeUF4X1pzR3dwa3VYWlBkWmM2Tm5WeXZwVU5BM1M1RWl5Uk56WnRHUkhwTHdhTnE4R2VqeDRnZDI1UFZUekdlZTZsSElCS1NHOUhvdnRIRkxqWFg2WQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T17:58:00+07:00",
+"found": "2026-11-24T03:57:01+07:00"
 },
 {
 "id": "47ed3f2dc017",
@@ -11027,18 +11062,6 @@
 "cat": "bds",
 "published": "2026-11-23T01:45:00+07:00",
 "found": "2026-11-23T02:00:05+07:00"
-},
-{
-"id": "1ee730f97a87",
-"title": "vô địch ý",
-"link": "https://laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-juventus-vs-venezia-tai-serie-a-1804557.ldo",
-"summary": "Nhận định bóng đá Juventus vs Venezia tại Serie A (Laodong.vn)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9cP8CRRBDMZillyAZ6Y-Ed4I-fVCbjVy-Up-v8gk8eQBw47FKyaInNqo2HLk",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T01:40:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-23T04:17:27+07:00"
 },
 {
 "id": "45a6fbfd398f",
@@ -28113,29 +28136,6 @@
 "published": "2026-11-21T01:40:00+07:00",
 "traffic": "5000+",
 "found": "2026-11-21T01:59:46+07:00"
-},
-{
-"id": "e6a5c75cec0d",
-"title": "cristiano ronaldo",
-"link": "https://www.vietnam.vn/al-nassr-chuan-bi-tao-nen-khoanh-khac-lich-su-cho-ronaldo",
-"summary": "Al Nassr chuẩn bị tạo nên khoảnh khắc lịch sử cho Ronaldo (Vietnam.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvvfePQ7-b27bNJ8EiiMwy9sFOzQWgyH3qFRZ4sRRRjf5wp1tmJ7pV5HFnfpE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T01:30:00+07:00",
-"traffic": "100+",
-"found": "2026-11-21T01:59:46+07:00"
-},
-{
-"id": "10f917334fca",
-"title": "Hoa hậu 50 tuổi bị bắt: Nhà thầu giải trình 70 tỷ, tiệm trang sức nhận 34 tỷ",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMk1TSEhUbXhNTW5LUVFsMm5vV2NnTDVNMkpjcW1nakwwTVdabGVadEFnbkY1NGU4WDhjQ01qRnBHSk5JVkZvUWZrZzN1Q0FOZzFPRWtPQzQybEFpV05HZjRJOHBoLUo1UDlFdEJ6bEJ3TlpiSndqNG52dlRjdXVPZ3R1eGhBUXR3VV9zSHBiY0tYS296c2xNcDFSOUNkZ0lyZ19RZXRFTkM5MjA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T01:28:00+07:00",
-"found": "2026-11-21T09:28:51+07:00"
 }
 ]
 }
