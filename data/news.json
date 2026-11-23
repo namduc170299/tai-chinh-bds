@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T18:39:26+07:00",
-"new": 6,
+"updated": "2026-11-23T18:41:51+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 40
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,28 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "0fcc6ff2e4c6",
+"title": "Hà Nội phê duyệt hướng tuyến đại lộ hơn 35 km ven sông Hồng",
+"link": "https://thanhnien.vn/ha-noi-phe-duyet-huong-tuyen-dai-lo-hon-35-km-ven-song-hong-185261123174705811.htm",
+"summary": "Hà Nội vừa phê duyệt phương án, vị trí tuyến đại lộ dài hơn 35 km ven sông Hồng, trong đó đoạn tuyến đi sát đê tả Hồng gồm 6 làn chính và 2 làn đường gom; đoạn đi xa đê gồm 6 làn chính và 4 làn đường gom.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/tnw-dji202609111252540373d-1795430584802964098997-0-256-1440-2560-crop-1795430680105897673630.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-23T18:39:00+07:00",
+"found": "2026-11-23T18:41:51+07:00"
+},
+{
+"id": "040f61c7ad94",
+"title": "Nỗi khổ bãi rác tràn sát đường, khói mù mịt được cử tri đưa lên nghị trường",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUx0T3RHbGQ4eVY1dmVQaGI3YzE1YTlkZER0a0cxekpuNFY4QWVwX2RTbkJmVXdTamdPalk1azl2a2pRRzd0WlBkYm96NkFuaTktSGIyVnFYNnYzM0E4ZVYwRkFsb2pRME1oUVQ2ZDNQYUtOOFdFdGVlRERMeDdMSnZ0elVObmlBbGlYRnRnQ0tQZnZkbkVjTUV2cEp5Zw?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T18:38:17+07:00",
+"found": "2026-11-23T18:41:51+07:00"
+},
 {
 "id": "f8eb211904ef",
 "title": "HAGL của bầu Đức muốn huy động 400 tỷ đồng trái phiếu, ngân hàng nào cấp bảo lãnh?",
@@ -502,6 +524,17 @@
 "found": "2026-11-23T17:53:57+07:00"
 },
 {
+"id": "42839c489d6c",
+"title": "Đã đóng thử toàn bộ các cống dự án ngăn triều 10.000 tỉ, thử khả năng vận hành",
+"link": "https://tuoitre.vn/da-dong-thu-toan-bo-cac-cong-du-an-ngan-trieu-10000-ti-thu-kha-nang-van-hanh-100261123160759757.htm",
+"summary": "Hôm nay 23-11, dự án ngăn triều 10.000 tỉ đã đóng lần lượt các hạng mục cống để thử khả năng vận hành, chuẩn bị cho đợt vận hành liên hoàn diễn ra vào ngày 25-11.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/179542373872441286688621409544604128668862140954460862fe11e377fd08542ce14763d7ddce1-17954241048232692053-225-783-1313-2524-crop-17954243646371680591971.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T17:41:00+07:00",
+"found": "2026-11-23T18:41:51+07:00"
+},
+{
 "id": "ddf228b10936",
 "title": "Doanh nghiệp hàng không vốn 6.000 tỷ đồng của FLC bất ngờ đổi tên, dời trụ sở",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPME90bjB3QUF6TlgzMGZRdTlRd0dXeGs1b1ZjdGJZRTBsZHdGZ1RoM1VueE1tZXh4SmZUWGpieDVqcWZBaGRyM0NjOGc4bGo1VmFXb3dFRFV5VUphbWNMRUdueU5ENkhhdmVwNGZ6NGdaQnBiVTNwaE91ZXBKVUI0Qy1CUG81OHNkeXhTRUQ1cUNENDFMQVdvRnNSZU4zVi1nUVFRMWRsd3k5MDNxQnc?oc=5",
@@ -579,6 +612,17 @@
 "found": "2026-11-23T11:41:14+07:00"
 },
 {
+"id": "1e1cb9e94dc5",
+"title": "Đồng Nai duyệt dự án hơn 9.000 tỉ đồng kết nối cầu Cát Lái với cao tốc Bến Lức - Long Thành",
+"link": "https://tuoitre.vn/dong-nai-duyet-du-an-hon-9000-ti-dong-ket-noi-cau-cat-lai-voi-cao-toc-ben-luc-long-thanh-100261123164430228.htm",
+"summary": "Đồng Nai vừa phê duyệt dự án thành phần hơn 9.000 tỉ đồng đầu tư xây dựng đường kết nối từ cầu Cát Lái đến cao tốc Bến Lức - Long Thành.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/cau-cat-lai-1-1769696141483381020288-0-0-1432-2291-crop-1795426933558888615818.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T17:36:00+07:00",
+"found": "2026-11-23T18:41:51+07:00"
+},
+{
 "id": "1116f5236187",
 "title": "T&T Group làm khu đô thị 50 ha tại Lạng Sơn, dự kiến có hơn 3.300 căn nhà",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDl4czZUbWppdmZLZmR2UHo0Yy10dFpaV3RaTHIwdF8tamkwZW5HUEpMeG9rS1h0U0dzVjFVdDBXb0ZEWmpHTlhfZkRwSWpwUUx2TFlISEdYYU5ERUY1SGtFSEtRakNRdGJKU2l3cnZKMzZnMzctZjhqSlF0cmNXRW85dTA5NE5NcFB2a2FNZEtUS01POWdqUk5Rd0VHNU5DOWJjZkJmRWw?oc=5",
@@ -643,6 +687,17 @@
 "cat": "tc",
 "published": "2026-11-23T17:31:14+07:00",
 "found": "2026-11-23T18:09:08+07:00"
+},
+{
+"id": "1470c4c45afa",
+"title": "Luật Tài nguyên, môi trường biển và hải đảo sửa đổi có điểm gì mới?",
+"link": "https://tuoitre.vn/luat-tai-nguyen-moi-truong-bien-va-hai-dao-sua-doi-co-diem-gi-moi-100261123164659728.htm",
+"summary": "Một trong những điểm mới nổi bật của Luật Tài nguyên, môi trường biển và hải đảo sửa đổi là quy định về quản lý, sử dụng không gian biển.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/dao-nam-du-17954267247491518932258-115-65-1650-2521-crop-17954270332901143662309.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T17:31:00+07:00",
+"found": "2026-11-23T18:41:51+07:00"
 },
 {
 "id": "b7576fb27a76",
@@ -977,6 +1032,17 @@
 "cat": "tc",
 "published": "2026-11-23T16:46:00+07:00",
 "found": "2026-11-23T16:56:17+07:00"
+},
+{
+"id": "c14b65b0a257",
+"title": "Thanh Hóa chỉ đạo xử lý hệ thống đèn đường bỏ không 10 năm sau phản ánh của Báo Lao Động",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYll4REg4aE5GN3d4N1BCMU04aHg3bld5UGh3aXdINWtob1Fkek1QZEVBcXJQU1VDeWF3YU1ZU0NKODNiUmI1ZW1OUktBaWNQVTlGdm1QU0hKV3k2eTZ2VnM5aTF2NVl1M000SE9wUmpYcGZRRHJnYWU3SXpXNVhVNnB5a2tiaVRVRGd1dUQ5VEJWbmFFLUg3cExNYTlRLXJ1cWtMbFFRcl9yT1NOSTBiRDFpQWRfdndwVWZHdXFaelVCcENTdWNob1l6Y0NFdDQ?oc=5",
+"summary": "Nguồn: Laodong.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T16:45:19+07:00",
+"found": "2026-11-23T18:41:51+07:00"
 },
 {
 "id": "dbf22e8fccbb",
@@ -1829,6 +1895,17 @@
 "cat": "tc",
 "published": "2026-11-23T15:36:00+07:00",
 "found": "2026-11-23T15:41:10+07:00"
+},
+{
+"id": "1e10dec1c1d4",
+"title": "Công viên Lãm Làng tại Bắc Ninh ổn định trật tự sau thời gian gây xôn xao",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0xsaFRkZDdFdzBZSzlpeW1xYkJWcGNRT2o5TG5LaU1icFVGcWpSd0c3Yk55UTZHQV95Q2ZNTTcwMXdnMmRhUDIyWUpQLVdhQXBqSEJIUzBQUV9IZkg0QkUzTU8zRmRuVEhnX2NVUzV6QWw5UVAtNm03Z3ctazhTdjZNeGJtdw?oc=5",
+"summary": "Nguồn: tin.skydoor.net",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T15:35:25+07:00",
+"found": "2026-11-20T03:47:43+07:00"
 },
 {
 "id": "7411cf922701",
@@ -3307,6 +3384,17 @@
 "cat": "bds",
 "published": "2026-11-23T12:58:00+07:00",
 "found": "2026-11-23T13:15:37+07:00"
+},
+{
+"id": "570545ea0717",
+"title": "Mối quan hệ giữa Anh Thư và H’Hen Niê sau ồn ào ở 'The Face Vietnam'",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcTZQRnp6M0t2MFduQjVQVk9fSUlZYzVYb0ZqVzN1SUthdWZKMXRydkVsTktKdjJIZXlrdmdFR3BWM1JVcnlQb3I1S1hiY01Qck91dW5FaUJwTFJHTVJxZHpOVGROajQyUlQ1ZEhyeWM3R0ZWeWxZbDlWX1g2aXY0T2QxQ2JRT0ZjYWRmelZSdGlWdw?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T12:56:50+07:00",
+"found": "2026-11-23T18:41:51+07:00"
 },
 {
 "id": "07b5b2b963dc",
@@ -8668,6 +8756,17 @@
 "found": "2026-11-22T22:56:14+07:00"
 },
 {
+"id": "8e3434841395",
+"title": "2 ngày 1 đêm mùa 5 bất ngờ lùi lịch phát sóng tập 109, khán giả từ háo hức thành hụt hẫng",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmhWb0U1ZDNSTEtTdllrdFNfUWRxVE5EM1M5ekw2UjdGT1BPWE5fcGU3QVlHb2t5bklKY2x4akpmRmladW5JeHF2YzBuVmRqcHdpMG9YbG5FdERILTlmWXAxaGNHaEdlUGlfQ0N2Ny13UmN0bTVYbzlpajRPYlZzT3BNRklQQUVfN1prTTlwb3pOWHBNSzBudE5Ra0ppZXlRakFUdDVmaGJRZ0t2NFczeQ?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T22:35:35+07:00",
+"found": "2026-11-23T18:41:51+07:00"
+},
+{
 "id": "0a0807ffda7a",
 "title": "liverpool đấu với man utd",
 "link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-liverpool-mu-ruc-lua-derby-nuoc-anh-ngoai-hang-anh-c48a1813227.html",
@@ -12730,17 +12829,6 @@
 "cat": "bds",
 "published": "2026-11-22T10:15:55+07:00",
 "found": "2026-11-22T11:15:48+07:00"
-},
-{
-"id": "1e10dec1c1d4",
-"title": "Công viên Lãm Làng tại Bắc Ninh ổn định trật tự sau thời gian gây xôn xao",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0xsaFRkZDdFdzBZSzlpeW1xYkJWcGNRT2o5TG5LaU1icFVGcWpSd0c3Yk55UTZHQV95Q2ZNTTcwMXdnMmRhUDIyWUpQLVdhQXBqSEJIUzBQUV9IZkg0QkUzTU8zRmRuVEhnX2NVUzV6QWw5UVAtNm03Z3ctazhTdjZNeGJtdw?oc=5",
-"summary": "Nguồn: tin.skydoor.net",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-22T10:15:40+07:00",
-"found": "2026-11-20T03:47:43+07:00"
 },
 {
 "id": "c13c69fd349f",
@@ -28031,94 +28119,6 @@
 "cat": "tc",
 "published": "2026-11-20T17:23:00+07:00",
 "found": "2026-11-22T13:49:21+07:00"
-},
-{
-"id": "ce417daa032a",
-"title": "Nhà nhà mở quán cà phê: Bỏ trăm triệu đồng khởi nghiệp, kiếm tiền có dễ?",
-"link": "https://dantri.com.vn/kinh-doanh/nha-nha-mo-quan-ca-phe-bo-tram-trieu-dong-khoi-nghiep-kiem-tien-co-de-20261120160820334.htm",
-"summary": "(Dân trí) - Từ người nghỉ việc văn phòng mở quầy cà phê đến những chủ quán thuê dịch vụ tư vấn trọn gói để khởi nghiệp, ngày càng nhiều người tìm cơ hội trong thị trường có hơn 500.000 điểm bán.",
-"image": "https://cdnphoto.dantri.com.vn/HpdM6ix9eXRvNmNCisHaffxP1c0=/2026/11/20/takita-coffee-cropped-1795165529517.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-20T17:21:51+07:00",
-"found": "2026-11-20T17:48:47+07:00"
-},
-{
-"id": "2809d0153944",
-"title": "Thu thuế 0,2% với đất bỏ hoang từ 1/7/2027",
-"link": "https://vnexpress.net/thu-thue-0-2-voi-dat-bo-hoang-tu-1-7-2027-5147154.html",
-"summary": "Đất bỏ hoang sẽ bị thu thuế 0,2% và không áp dụng hạn mức với đất bỏ hoang, chậm đưa vào sử dụng, gấp gần 7 lần đất ở trong hạn mức.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/wm1-wm1-anh7-1795168911-5115-1795169137.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f1GRy9ioL8mByViUVmP9NQ",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-20T17:21:49+07:00",
-"found": "2026-11-20T17:48:47+07:00"
-},
-{
-"id": "c0bd6f76b2ed",
-"title": "Cú lừa ngoạn mục tráo sổ đỏ, đóng giả chủ nhà để rút ruột ngân hàng",
-"link": "https://cafef.vn/cu-lua-ngoan-muc-trao-so-do-dong-gia-chu-nha-de-rut-ruot-ngan-hang-188261120160358792.chn",
-"summary": "Đóng giả chủ nhà, tráo sổ đỏ thật rồi dùng hồ sơ giả mạo chiếm đoạt 14 tỷ đồng của một ngân hàng tại TPHCM.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795165422971-179516542325882908780.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-20T17:21:00+07:00",
-"found": "2026-11-20T17:32:04+07:00"
-},
-{
-"id": "a207521b16d4",
-"title": "Ngành gỗ xúc tiến thương mại số, mở luồng tiếp cận 140.000 nhà mua hàng quốc tế",
-"link": "https://tuoitre.vn/nganh-go-xuc-tien-thuong-mai-so-mo-luong-tiep-can-140000-nha-mua-hang-quoc-te-100261120154319949.htm",
-"summary": "Triển lãm và xúc tiến thương mại trên môi trường số ngành gỗ và nội thất Việt Nam 2027 đã mở cổng đăng ký, cơ hội tiếp cận hơn 140.000 nhà mua hàng quốc tế cho các doanh nghiệp xuất khẩu Việt Nam thông qua ứng dụng công nghệ và trí tuệ nhân tạo (AI).",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/20260331132031-17951633229791220236448-163-520-1384-2474-crop-1795164161863197052790.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-20T17:19:00+07:00",
-"found": "2026-11-20T17:32:04+07:00"
-},
-{
-"id": "17e3eb45313d",
-"title": "Giải thể Ban Chỉ đạo đổi mới và nâng cao hiệu quả hoạt động giám định tư pháp ở cấp Trung ương",
-"link": "https://tuoitre.vn/giai-the-ban-chi-dao-doi-moi-va-nang-cao-hieu-qua-hoat-dong-giam-dinh-tu-phap-o-cap-trung-uong-100261120165431144.htm",
-"summary": "Ngày 20-11, Phó thủ tướng Lê Tiến Châu ký quyết định số 2292/QĐ-TTg ngày 20-11-2026 về việc giải thể Ban Chỉ đạo thực hiện Đề án tiếp tục đổi mới và nâng cao hiệu quả hoạt động giám định tư pháp ở cấp Trung ương.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/tin-thoi-su-new-17945517143101453544084-0-0-1188-1900-crop-17951683404921448727016.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-20T17:19:00+07:00",
-"found": "2026-11-20T17:32:04+07:00"
-},
-{
-"id": "61c69b9feddb",
-"title": "Đấu giá đất thiếu kiểm soát: Nguy cơ tạo giá ảo, gây nhiễu loạn thị trường",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbGtqc21XX3BLYXBmMFFoZlc0RmFLNzdUSTAzZzYxLWROTWItMGt4Z2NiWHphc0pNa2k1RHRPc3BfNENkUlk0VVVpcVNIeEZWSXhRdHo3QWlPdjZRdVpmRmo1QlJpWFhjSFg1cWFIek1Ma2ZZNFZmVEtmRkZ0cy13MDhidURjUmhHY1JXTVB5VGQtTW5nRF9rRzQ1M1R6Y2YwcDFsUVpjRVI?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T17:18:35+07:00",
-"found": "2026-11-20T17:32:04+07:00"
-},
-{
-"id": "93afed44e4f4",
-"title": "Xử lý triệt để kiến nghị cử tri liên quan dự án KĐT Sing - Việt kéo dài 29 năm",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcHVHN2lEWWF0WVdCODJKVDUtVDFNWUtHeDZUNTRyV2JYc2NZV1IzbVprcE9aczhER1hyWFJscXFRQW41MU5peEl6Z3Y0eGVQX2xHR2EyV1lYSVQtSU9wZENNbUVUN0JKbnlxS0VaLUxYbUVOUHo2U21VV01zYmYzek1JdHg4eUpBS0tZcjVfZlYtQkp0QzhHZmlzX1ZYc3dwYXBYZUVXaGtDc3FITUE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T17:17:16+07:00",
-"found": "2026-11-20T17:32:04+07:00"
-},
-{
-"id": "6292666cbaf7",
-"title": "Hơn 130.000 người dân vùng biên giới, vùng sâu có sóng di động",
-"link": "https://tuoitre.vn/hon-130000-nguoi-dan-vung-bien-gioi-vung-sau-co-song-di-dong-100261120152749384.htm",
-"summary": "Sau hơn 7 tháng triển khai với 1.337 trạm phát sóng mới, khoảng 130.000 người dân tại 788 thôn, bản và 1.068 cụm dân cư vùng sâu, vùng xa, biên giới đã chính thức có sóng di động tốc độ cao.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/lom-song-song-di-dong-vung-sau-vung-xa-viettel-1795163006795450487189-0-0-1600-2560-crop-1795163225613156611722.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-20T17:17:00+07:00",
-"found": "2026-11-20T17:32:04+07:00"
 }
 ]
 }
