@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T05:13:17+07:00",
-"new": 5,
+"updated": "2026-11-24T05:28:26+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,52 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "94b584fa4492",
+"title": "Giá vàng nhẫn trơn, vàng miếng sáng 24/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-24-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261123231959617.chn",
+"summary": "Giá vàng trong nước mở đầu phiên sáng 24/11 đi ngang sau phiên tăng mạnh, với vàng miếng SJC giữ mức 135 triệu đồng/lượng và vàng nhẫn cao nhất 134,8 triệu đồng/lượng. Trong khi đó, giá vàng thế giới phục hồi mạnh sau khi lao dốc hơn 9% trong tuần trước, giữa lúc nhà đầu tư chờ…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/vang-2-17103148844192056261607-17954507232601418898725-0-0-1247-1996-crop-1795450726509575114184.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-24T05:18:00+07:00",
+"found": "2026-11-24T05:28:26+07:00"
+},
+{
+"id": "27aeabbdb069",
+"title": "Dự báo thời tiết 24/11/2026: Không khí lạnh mạnh tràn về, Hà Nội mưa rét",
+"link": "https://vietnamnet.vn/du-bao-thoi-tiet-24-11-2026-khong-khi-lanh-ve-ha-noi-mua-ret-2572291.html",
+"summary": "Không khí lạnh mạnh tràn về khiến miền Bắc chuyển mưa rét. Từ tối 24/11, TP Huế đến phía Đông Quảng Ngãi có mưa to đến rất to. Nam Trung Bộ đến Nam Bộ ngày nắng. VietNamNet cập nhật những diễn biến mới nhất về thời tiết trên cả nước.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/2026-khong-khi-lanh-manh-tran-ve-ha-noi-mua-ret-3056.jpg?width=0&s=fxIYmBPqrJBrsje9mbanuQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T05:15:00+07:00",
+"found": "2026-11-24T05:28:26+07:00"
+},
+{
+"id": "324d10ba3409",
+"title": "tàu chiến",
+"link": "https://vnexpress.net/lhq-keu-goi-dieu-tra-vu-tau-chien-nga-bi-tap-kich-o-libya-5147896.html",
+"summary": "LHQ kêu gọi điều tra vụ 'tàu chiến Nga' bị tập kích ở Libya (VnExpress)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS3hOYVg3GN8RDqcfjtfupY4SP1Y2X2_rp4Q3TuLaV3sV6AS76C3eFcxTCl1c",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T05:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T05:28:26+07:00"
+},
+{
+"id": "53eae62da1c0",
+"title": "đội tuyển bóng đá u-17 quốc gia hàn quốc",
+"link": "https://tienphong.vn/xac-dinh-3-doi-vao-knock-out-u17-world-cup-tinh-the-cua-u17-viet-nam-dang-the-nao-post1896835.tpo",
+"summary": "Xác định 3 đội vào knock-out U17 World Cup: Tình thế của U17 Việt Nam đang thế nào? (Báo Tiền Phong)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXd_Xku7EhJXlXNcCmcFzX-2EaTXwRJkUne3XmcnVSxQErqdV4tUgbSPW9U5c",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T05:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T05:28:26+07:00"
+},
+{
 "id": "513d1dc8528a",
 "title": "Cầu Đuống hơn 1.800 tỷ sắp thông xe, xóa điểm nghẽn Hà Nội &apos;ngày nào cũng tắc&apos;",
 "link": "https://vietnamnet.vn/cau-duong-hon-1-800-ty-sap-thong-xe-xoa-diem-nghen-ha-noi-ngay-nao-cung-tac-2577058.html",
@@ -244,6 +290,29 @@
 "cat": "xh",
 "published": "2026-11-24T05:01:00+07:00",
 "found": "2026-11-24T05:13:17+07:00"
+},
+{
+"id": "ebd2eafad7a6",
+"title": "Các nước trên thế giới áp dụng phạt lao động công ích thế nào?",
+"link": "https://vnexpress.net/cac-nuoc-tren-the-gioi-ap-dung-phat-lao-dong-cong-ich-the-nao-5147828.html",
+"summary": "Mỹ cho phép chuyển tiền phạt giao thông thành giờ lao động, Hàn Quốc áp dụng với người không đủ khả năng nộp phạt, trong khi Singapore buộc người xả rác dọn vệ sinh công cộng.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/b3qxu7md5lfita6atg4mg5ji4x8e54-7228-7955-1795399061.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=N0kSR2fAOgzT3JJCIOSv3A",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T05:00:00+07:00",
+"found": "2026-11-24T05:28:26+07:00"
+},
+{
+"id": "fb0f8e6cf660",
+"title": "ket qua bong da hom nay",
+"link": "https://vietnamnet.vn/ket-qua-bong-da-ty-so-bong-da-truc-tuyen-hom-nay-24-11-2026-2577934.html",
+"summary": "Kết quả bóng đá, tỷ số bóng đá trực tuyến hôm nay 24/11/2026 (Báo VietNamNet)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqLkymCeoqjEtq3lpJiZDndopYMFtHMjKMlWZpV2YCltWInvsqkJSTeVLCQo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T05:00:00+07:00",
+"traffic": "500+",
+"found": "2026-11-24T05:28:26+07:00"
 },
 {
 "id": "c31e8d05ae99",
@@ -335,7 +404,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T03:50:00+07:00",
-"traffic": "200000+",
+"traffic": "500+",
 "found": "2026-11-24T04:12:10+07:00"
 },
 {
@@ -1223,6 +1292,17 @@
 "cat": "xh",
 "published": "2026-11-23T22:18:00+07:00",
 "found": "2026-11-23T23:43:29+07:00"
+},
+{
+"id": "340653b8ffc7",
+"title": "TP.HCM: Họp triển khai tuyến đường sắt đô thị số 2",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUHVka2I1NU5LZ2hfaFNOaWZBRU5BbnNBd2V4U056dXVUU2E5RHpBaUVEVVZYM3ZNTHdkTm5haERWZER4cjlGTGp0NktuYjBWazE4TDkzYTRCM1BSdDRlOG52bzlsTXcyWHZGaUkxckMtS3JFUU9WOHF5aUE4RmVKMHQ0amM3a3FCYkE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T22:16:00+07:00",
+"found": "2026-11-24T05:28:26+07:00"
 },
 {
 "id": "8e4075ff8c84",
@@ -2501,6 +2581,17 @@
 "cat": "tc",
 "published": "2026-11-23T19:30:00+07:00",
 "found": "2026-11-23T20:12:56+07:00"
+},
+{
+"id": "717dc85b9e97",
+"title": "Đề xuất lùi tiến độ hầm chui Hoàng Quốc Việt",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWlmcnNIOVJUcVhTT1FfVGpZZk9RZjhwUENwZUdSXzZaVjhXR21IaUpWWHlrS3VRUkxkNHZBNWlBYjRCTXR3dHlqMFkzLWRCcktXRkNnVk5RY2tOY3hxX0c1S1VpMWRTLVdndGpsXzlEOFIwN3RZU21KZ2pDMkl4TVpDYw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T19:30:00+07:00",
+"found": "2026-11-24T05:28:26+07:00"
 },
 {
 "id": "9842c6f1ff8a",
@@ -4028,6 +4119,17 @@
 "found": "2026-11-23T17:26:38+07:00"
 },
 {
+"id": "fb5fd1ea5b86",
+"title": "Tăng tốc thực hiện Nghị quyết 57, nâng cao hiệu quả chuyển đổi số",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEZkNTE4SDRqZHM3aXJzR28tVGNRR1BPT19EVllEcm45d0U1WmpjYnptUjdCZmFnYloyTTJ2X2VWVHFzWWJsaFUzMUl4aHk1dzZ0SnFFRG5VUDlWd2JDNEtKX3JnN3RJb2VINTRPVk1XRENpWXMtU0pPZW03UzROcXJwTTFZNFNlSmpnWlJtNlV6akRVNmZjOHBvYl8tdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T16:48:00+07:00",
+"found": "2026-11-24T05:28:26+07:00"
+},
+{
 "id": "befabf3382c4",
 "title": "LPBank có quyền tổng giám đốc mới, ông Vũ Quốc Khánh chuyển vị trí",
 "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaC1IWkpVTDFkVkEzTzNxSEo4Mnk0LV9icGFKVHo3SlM3eHN2NmVVRXNyUVNIb2Z4ZzFTRWw0VFZBSS0yZVc1eWF6UTNGZlZYdFhTSTZLaU5yd3dObUY4ZHlzdlZEYXEzdGYweDlKc24wTmNSamRsS1Q5OUE0WWFyUUhpUEVOU1o4MmhjTnlmX3lvWkdPM2YtX3VCOTFRTFU?oc=5",
@@ -4126,17 +4228,6 @@
 "source": "Thanh Niên",
 "cat": "xh",
 "published": "2026-11-23T16:39:00+07:00",
-"found": "2026-11-23T16:56:17+07:00"
-},
-{
-"id": "0250af46953a",
-"title": "LPBank bổ nhiệm bà Vũ Nam Hương làm Quyền Tổng Giám đốc",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWdzeFpaVFFFVjFrVFFhaFd4RnhPaGdKMDVQcVB2VTQ3eWZ3RG5nZFMzMjQxajFTY2VGeUlQWmEtSnhYc0x2VDF3dUpRM05uWTZwOXA1bGF6akxPcS1EM0x5djI3T3RGVzZZcWdiWVl1c0Foc2xNUkJNM09GWFoyMDE0YUdhQkQ5a0RlOFVDTklHZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T16:36:47+07:00",
 "found": "2026-11-23T16:56:17+07:00"
 },
 {
@@ -4978,6 +5069,17 @@
 "cat": "xh",
 "published": "2026-11-23T15:35:25+07:00",
 "found": "2026-11-20T03:47:43+07:00"
+},
+{
+"id": "0250af46953a",
+"title": "LPBank bổ nhiệm bà Vũ Nam Hương làm Quyền Tổng Giám đốc",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWdzeFpaVFFFVjFrVFFhaFd4RnhPaGdKMDVQcVB2VTQ3eWZ3RG5nZFMzMjQxajFTY2VGeUlQWmEtSnhYc0x2VDF3dUpRM05uWTZwOXA1bGF6akxPcS1EM0x5djI3T3RGVzZZcWdiWVl1c0Foc2xNUkJNM09GWFoyMDE0YUdhQkQ5a0RlOFVDTklHZw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T15:35:00+07:00",
+"found": "2026-11-23T16:56:17+07:00"
 },
 {
 "id": "7411cf922701",
@@ -11101,18 +11203,6 @@
 "cat": "xh",
 "published": "2026-11-23T04:41:00+07:00",
 "found": "2026-11-23T04:48:07+07:00"
-},
-{
-"id": "5ba034971ab9",
-"title": "đội tuyển bóng đá u-17 quốc gia hàn quốc",
-"link": "https://vietnamnet.vn/u17-han-quoc-thang-huy-diet-u17-phap-thua-soc-doi-bong-chau-a-2577614.html",
-"summary": "U17 Hàn Quốc thắng hủy diệt, U17 Pháp thua sốc đội bóng châu Á (Báo VietNamNet)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTNobVa5k0NoXIf3sReg5GYyp1D3qibacPXT1Jg1b_PxM4MIdxass361g-6Zc",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T04:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-23T05:03:38+07:00"
 },
 {
 "id": "368df735c8be",
@@ -27858,6 +27948,17 @@
 "found": "2026-11-21T06:14:20+07:00"
 },
 {
+"id": "81a2cb16aaf7",
+"title": "Nhà máy điện rác 2.000 tỷ đồng hơn 20 năm vẫn chưa xong",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzVYZ0kxNzh3OVhoaUItY1JlZnJtQmtoS1NxQjNvdmZ6djZLSFZ3a3kwRUdFa2ptNjV6SnBQWThtZjdrSHUxVjFRaU5DRERJemRqcVE5X3RKUkVSUU1JRWJnQ0RVYjVlUWRNQmtrRkRGWnlvRlZBZXBubzZBZ0I5aVBUcmtnNVRKbWpRM3lHNVhKdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T06:02:00+07:00",
+"found": "2026-11-24T05:28:26+07:00"
+},
+{
 "id": "a993810dfe3e",
 "title": "Vì sao giá vàng thế giới liên tục giảm?",
 "link": "https://vnexpress.net/vi-sao-gia-vang-the-gioi-lien-tuc-giam-5147111.html",
@@ -28023,109 +28124,6 @@
 "cat": "mxh",
 "published": "2026-11-21T06:00:00+07:00",
 "found": "2026-11-21T10:44:13+07:00"
-},
-{
-"id": "cb192b088cd5",
-"title": "Bí thư xã làm TikTok giúp homestay đồi chè 'cháy' phòng",
-"link": "https://vnexpress.net/bi-thu-xa-lam-tiktok-giup-homestay-doi-che-chay-phong-5146752.html",
-"summary": "Từ các video quảng bá trên TikTok của Bí thư xã Long Cốc Nguyễn Hoàng Trung, nhiều homestay quanh đồi chè liên tục kín phòng cuối tuần.",
-"image": "https://vcdn1-giadinh.vnecdn.net/2026/11/19/o-ng-trung-1795086037-4604-1795086278.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XDkvqPn8vmFMORRhcuIl_A",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-21T06:00:00+07:00",
-"found": "2026-11-21T10:44:13+07:00"
-},
-{
-"id": "cc6f160f66a6",
-"title": "campuchia",
-"link": "https://tuoitre.vn/bao-chi-thai-lan-phan-no-vi-doi-nha-da-ai-cung-thua-tu-viet-nam-singapore-den-cacampuchua-10026112009093928.htm",
-"summary": "Báo chí Thái Lan phẫn nộ vì đội nhà 'đá ai cũng thua', từ Việt Nam, Singapore đến cả... Campuchia (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzoz_LSMimbUk51odrgGqcKzXnCvovmdULX_0kG27KayrbMPR-K3qh-Qwu2a4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T05:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T06:14:20+07:00"
-},
-{
-"id": "5b4bd48a01ab",
-"title": "Cha mẹ chia đất cho hai con, người anh bất ngờ khi sổ đỏ đứng tên vợ chồng em út",
-"link": "https://vietnamnet.vn/dat-cha-me-chia-doi-anh-trai-phat-hien-so-do-chi-dung-ten-em-ut-2577048.html",
-"summary": "Trước khi qua đời, người cha phân chia đất của gia đình cho hai con trai. Nhiều năm sau, người anh phát hiện toàn bộ thửa đất đã được cấp giấy chứng nhận quyền sử dụng đất (sổ đỏ) cho vợ chồng người em út.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/cha-me-chia-dat-cho-hai-con-nguoi-anh-bat-ngo-khi-so-do-dung-ten-vo-chong-em-ut-2706.jpg?width=0&s=3napwksM7eiwweELVEtzMA",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-21T05:45:00+07:00",
-"found": "2026-11-21T05:58:51+07:00"
-},
-{
-"id": "4830ac82c5e3",
-"title": "Biến ruộng ngô thành điểm du lịch, chủ farm ở Sơn La đón hàng nghìn khách",
-"link": "https://vietnamnet.vn/bien-ruong-ngo-thanh-diem-du-lich-chu-farm-don-hang-nghin-khach-2576822.html",
-"summary": "Từ những cánh đồng trồng ngô, ông Nguyễn Thạch Tùng Linh biến một phần diện tích thành điểm du lịch trải nghiệm, đón cả nghìn lượt khách vào ngày cao điểm. Ở đây, ông còn hỗ trợ bà con miền núi bán nông sản cho du khách.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/bien-ruong-ngo-thanh-diem-du-lich-chu-farm-o-son-la-don-hang-nghin-khach-2761.png?width=0&s=jzIQq7pUXeNW4ey8VfuRuQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-21T05:45:00+07:00",
-"found": "2026-11-21T05:58:51+07:00"
-},
-{
-"id": "a2f929445b4d",
-"title": "thứ hạng của molde fk gặp bodø/glimt",
-"link": "https://bongdaplus.vn/bong-da-the-gioi/nhan-dinh-bong-da-molde-vs-bodo-glimt-01h00-ngay-21-11-cho-dai-tiec-ban-thang-5293752611.html",
-"summary": "Nhận định bóng đá Molde vs Bodo Glimt, 01h00 ngày 21/11: Chờ đại tiệc bàn thắng (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpviM2TdABNxawvxvB0mSYwUAICLUAdBceX1aRQtnorG_yDy0F_2JYawbF7o",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T05:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T05:58:51+07:00"
-},
-{
-"id": "5a4492b93c4e",
-"title": "Hơn 20 tháng đào hầm, khoét núi làm ‘cục pin’ khổng lồ 21.100 tỷ của Việt Nam",
-"link": "https://vietnamnet.vn/hanh-trinh-dao-ham-khoet-nui-lam-thuy-dien-bac-ai-21-100-ty-dong-2577161.html",
-"summary": "Hơn 20 tháng, công trường Thủy điện tích năng Bác Ái không ngừng nghỉ với những mũi khoan, tiếng nổ mìn và hoạt động vận chuyển đất đá xuyên ngày đêm. Cứ như vậy, nhà máy điện có vốn đầu tư 21.100 tỷ đồng như ‘cục pin’ khổng lồ này dần hình thành.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/hon-20-thang-dao-ham-khoet-nui-lam-cuc-pin-khong-lo-21-2722.png?width=0&s=7NNTzvAHAJOPOvhkpVno_g",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-21T05:30:00+07:00",
-"found": "2026-11-21T05:43:42+07:00"
-},
-{
-"id": "1794a7da4b5a",
-"title": "Những màn đối đáp làm \"nóng\" phiên xét xử ông Lê Thanh Thản",
-"link": "https://dantri.com.vn/phap-luat/nhung-man-doi-dap-lam-nong-phien-xet-xu-ong-le-thanh-than-20261120211009471.htm",
-"summary": "(Dân trí) - Trước hàng loạt lập luận bào chữa cho ông Lê Thanh Thản về hành vi lừa dối khách hàng, tiền thu lợi bất chính và bồi thường, đại diện Viện kiểm sát đã đưa ra những quan điểm phản bác.",
-"image": "https://cdnphoto.dantri.com.vn/YXDUvJo2YIU8HDfdxHh3JCQQrU0=/2026/11/19/lethanhthan11-1795026483108.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-21T05:30:00+07:00",
-"found": "2026-11-21T05:58:51+07:00"
-},
-{
-"id": "9184d28ca38a",
-"title": "bệnh thận",
-"link": "https://laodong.vn/suc-khoe/bac-si-canh-bao-nguy-co-suy-than-tu-su-chu-quan-cua-nguoi-benh-1802252.ldo",
-"summary": "Bác sĩ cảnh báo nguy cơ suy thận từ sự chủ quan của người bệnh (Laodong.vn)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ4B7pB0g-ABr04gToG4Dp0RNqlsgRsVnH18wZhK2d2k40xa0Zdly9bXdCrvM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T05:30:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T05:58:51+07:00"
-},
-{
-"id": "9ab83557e625",
-"title": "josé mourinho",
-"link": "https://bongdaplus.vn/la-liga/real-thoat-bao-chan-thuong-mourinho-van-dau-dau-vi-fifa-days-5295052611.html",
-"summary": "Real Madrid thoát bão chấn thương, Mourinho vẫn đau đầu vì FIFA Days (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKdDVdAuvs_oGSuM9hrAgm4rh6qfVRAReJ2D9A4yBV41JJhyPh2jo7stodb3Q",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T05:30:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T05:58:51+07:00"
 }
 ]
 }
