@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T18:24:17+07:00",
-"new": 11,
+"updated": "2026-11-23T18:39:26+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 25
+"count": 26
 },
 {
 "name": "Thanh Niên",
@@ -212,6 +212,28 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "f8eb211904ef",
+"title": "HAGL của bầu Đức muốn huy động 400 tỷ đồng trái phiếu, ngân hàng nào cấp bảo lãnh?",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLURZbzVHWXNZZnhydVpBck5YZXNoenFnQ3Nybkt3R2dFcG84SFJvWmlOTllCNG5UT1hGSk9CWm5kRDZQcDcxTEdEX2kyZURLSXcydF90aUZjcm5LOHdhX1A4a1dOWEF2RVF1TGZ1T2xOeTFWbTdBcHd5QjZUUUU0bVpCNHhnaFVGak1QcmJzaloxTllfdFRveTFXOXJqNDdqMFBSR1lOa01TUzBmMFFiNFJGaw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T18:33:21+07:00",
+"found": "2026-11-23T18:39:26+07:00"
+},
+{
+"id": "e00ff103cb1e",
+"title": "Thiếu bãi đỗ xe, Hà Nội thúc xử lý loạt dự án đình trệ",
+"link": "https://vietnamnet.vn/thieu-bai-do-xe-ha-noi-thuc-xu-ly-loat-du-an-dinh-tre-2577912.html",
+"summary": "Hà Nội yêu cầu các xã, phường rà soát quỹ đất trước 10/12, các sở, ngành xử lý vướng mắc mặt bằng trước 15/12 để đẩy nhanh đầu tư bãi đỗ xe.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/thieu-bai-do-xe-ha-noi-thuc-xu-ly-loat-du-an-dinh-tre-2229.jpeg?width=0&s=9gd0WQ5ZQuRWZf0oWrtV_A",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-23T18:23:37+07:00",
+"found": "2026-11-23T18:39:26+07:00"
+},
 {
 "id": "d01c48a0a448",
 "title": "Vì sao toàn bộ cổ phiếu niêm yết chuyển hết về HoSE, HNX sẽ đảm nhiệm vai trò gì?",
@@ -255,6 +277,29 @@
 "cat": "tc",
 "published": "2026-11-23T18:17:00+07:00",
 "found": "2026-11-23T18:24:17+07:00"
+},
+{
+"id": "5957b7a1bc46",
+"title": "Người phụ nữ 66 tuổi suýt bán 3 chỉ vàng để chuyển tiền cho 'bạn trai ca sĩ'",
+"link": "https://kenh14.vn/nguoi-phu-nu-66-tuoi-suyt-ban-3-chi-vang-de-chuyen-tien-cho-ban-trai-ca-si-215261123170355175.chn",
+"summary": "Tin lời người đàn ông tự xưng là ca sĩ nổi tiếng, hứa gửi quà từ nước ngoài về, một phụ nữ ở Hà Tĩnh định bán 3 chỉ vàng để chuyển 5 triệu đồng phí vận chuyển. Công an kịp thời phát hiện, ngăn chặn vụ lừa đảo",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795428212240-17954282142911556051417.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-23T18:17:00+07:00",
+"found": "2026-11-23T18:39:26+07:00"
+},
+{
+"id": "398031cbc33c",
+"title": "lịch thi đấu u17 wc",
+"link": "https://dantri.com.vn/the-thao/xem-truc-tiep-tran-u17-viet-nam-gap-u17-new-zealand-o-dau-20261123132208292.htm",
+"summary": "Xem trực tiếp trận U17 Việt Nam gặp U17 New Zealand ở đâu? (Báo Dân trí)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzW1lbi4Uz0x3Lj2pRZ58tdx0IN-SAjEoqzlpkto-WeeinI1wvNButRW7oQE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T18:10:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-23T18:39:26+07:00"
 },
 {
 "id": "a926581635bc",
@@ -975,7 +1020,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T16:40:00+07:00",
-"traffic": "2000+",
+"traffic": "1000+",
 "found": "2026-11-23T16:56:17+07:00"
 },
 {
@@ -1342,6 +1387,17 @@
 "cat": "tc",
 "published": "2026-11-23T16:13:00+07:00",
 "found": "2026-11-23T16:28:17+07:00"
+},
+{
+"id": "08452dc0d1a0",
+"title": "Xe tải chở công nhân trên thùng, cửa lên xuống được bố trí ở phía sau gây xôn xao: Kết quả xác minh",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdExVVXltSnB3QXVBdWxvbnVnZV9NTFN6VlpVLUhLSl9lc0pGbzNqakV1R1I2a1ZILTI3OEJ3TXhybGxOTzEwWUtKOG81UDVmaEFtTG1kVjN6Y0haQlhiZHdEUDY3SUNRZGpMSGNxNUVpbE9idlBYMGJHb2JHaklUd3RvbXRWNzBkQjYtNm1zcEl4bjQyeHNLRTZxbEt1RHN0VG5NUWZtOTAwNy13bnZKZVpKR2N2M1ZlX2lyUUpHNWpvbFV6YVZsYnJuMFdtYklj?oc=5",
+"summary": "Nguồn: SOHA",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T16:13:00+07:00",
+"found": "2026-11-23T18:39:26+07:00"
 },
 {
 "id": "6548fca30ba0",
@@ -2942,6 +2998,17 @@
 "cat": "mxh",
 "published": "2026-11-23T13:30:00+07:00",
 "found": "2026-11-23T14:33:02+07:00"
+},
+{
+"id": "0665bd9b6fe4",
+"title": "Techcombank cùng VnEconomy khởi động chuỗi tọa đàm “Hộ kinh doanh: Hiểu đúng, thích ứng nhanh”",
+"link": "https://vneconomy.vn/techcombank-cung-vneconomy-khoi-dong-chuoi-toa-dam-ho-kinh-doanh-hieu-dung-thich-ung-nhanh.htm",
+"summary": "Chuyển đổi từ thuế khoán sang kê khai, làm thế nào để hộ kinh doanh quản lý doanh thu tốt nhất, tiếp cận vốn và nâng cao hiệu quả kinh doanh? Những vấn đề này sẽ được các chuyên gia, đại diện ngân hàng và hộ kinh doanh cùng trao đổi, tìm lời giải trong chuỗi tọa đàm 3 tập “Hộ…",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/23/58760cd800934ba69ceb84d4c4896486-137738.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-23T13:30:00+07:00",
+"found": "2026-11-23T18:39:26+07:00"
 },
 {
 "id": "af82e8539900",
@@ -9902,18 +9969,6 @@
 "published": "2026-11-22T17:20:00+07:00",
 "traffic": "200000+",
 "found": "2026-11-22T18:15:05+07:00"
-},
-{
-"id": "80a6a0fa51d7",
-"title": "lịch thi đấu u17 wc",
-"link": "https://laodong.vn/ldt/an-choi/lich-thi-dau-u17-world-cup-2026-hom-nay-2211-1804544.ldo",
-"summary": "Lịch thi đấu U17 World Cup 2026 hôm nay 22.11 (Laodong.vn)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdYJLvboWpdhVvJlZdHGMTxuAzpbKZ0FLzXFNPODL1xmf0UX292cAFQRSr5c4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T17:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-22T19:01:36+07:00"
 },
 {
 "id": "22b0c56540f8",
@@ -28064,61 +28119,6 @@
 "cat": "tc",
 "published": "2026-11-20T17:17:00+07:00",
 "found": "2026-11-20T17:32:04+07:00"
-},
-{
-"id": "1b9d1f201d2d",
-"title": "Người giả danh bán nhà, kẻ mua lập khống 69 hợp đồng cho thuê phòng trọ cùng nhau ra tòa",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQS0xSFcteFBRZlY3WGxlQ0RHcmp4QlpOVEFrdUhCcE1NZlJPS3pqbW9Nd1Z3ZE5xaFQ4TG56MUlUQ0EwcC1MN0Mzd01zcHMybGE3eU9HNjFaVmNtZlJYVW1PN3dlNGRQcmx1VWN1MjJqLXFWRVVhSEpQNU45MXNtMnlnUFNaQzZWcUgzWHFacUhYeGs1bXRFaTVscFJadWh0c01jcl9EdzlwallkQXo5d2pNZW14SkZIZGxRNg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T17:14:32+07:00",
-"found": "2026-11-20T17:32:04+07:00"
-},
-{
-"id": "5fa7831089c7",
-"title": "Giữa trời mưa rét, Bí thư xứ Mường livestream bán hết 6 tấn củ cải sau hơn 2 tiếng",
-"link": "https://tuoitre.vn/giua-troi-mua-ret-bi-thu-xu-muong-livestream-ban-het-6-tan-cu-cai-sau-hon-2-tieng-100261120132510407.htm",
-"summary": "Giữa trời mưa rét 13-14 độ C, Bí thư Đảng ủy xã Vân Sơn (Phú Thọ) Nguyễn Duy Tư cùng bà con livestream chốt đơn, bán hết 6 tấn củ cải sau hơn 2 tiếng đồng hồ.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/anh-man-hinh-2026-11-20-luc-135721-17951636773291628735010-0-40-1575-2560-crop-1795166022139966802322.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-20T17:14:00+07:00",
-"found": "2026-11-20T17:32:04+07:00"
-},
-{
-"id": "5d1788215a9e",
-"title": "Người bị phạt hành chính 5 triệu trở xuống có thể lao động công ích thay nộp tiền",
-"link": "https://tuoitre.vn/nguoi-bi-phat-hanh-chinh-5-trieu-tro-xuong-co-the-lao-dong-cong-ich-thay-nop-tien-1002611201614269.htm",
-"summary": "Luật Xử lý vi phạm hành chính (sửa đổi) bổ sung biện pháp \"thực hiện công việc phục vụ cộng đồng\" là biện pháp thay thế hình thức phạt tiền.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/6112016192202491795166423980260319990806707077g3587189976484290001dd2c0ea64f133ccf1f6b55f0edf8abe3-17951676351871607459315-47-355-694-1391-crop-1795169937810509974319.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-20T17:14:00+07:00",
-"found": "2026-11-20T17:32:04+07:00"
-},
-{
-"id": "c5e6e22d0753",
-"title": "Đẩy lùi 'tín dụng đen': Cảnh báo thôi chưa đủ",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaU1HZlRfWjd2a0Y5V2tadzNaX29WaHp5LUtVQW9JT2dRN3RkLVNBTjZ0bzdhNVVpd1BrWTFqOWZhenpOcDdrQVZnRzdZUllNZWxpNzZYSHhOYVphV3A1VVZTakthcUxjOGZSMEhURVBHSm5QNHdLVmJwN01sY1lEdw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T17:14:00+07:00",
-"found": "2026-11-21T20:16:06+07:00"
-},
-{
-"id": "28baa343510c",
-"title": "Tai nạn xe buýt ở Pakistan, ít nhất 10 người thiệt mạng",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkRfck5RRlZZeE9ITDdUVi1FMHJWZUZWbXFZZVhKSEpLVXJyQkFvSmxPaHpiZ3UwUUhCSDg1eFBwVDd2Sm5URzZnZ2xldjh0Q2duMWs0dEozeEVIbDNMV3RsUTNDdHI2ZGhfc2pMbWNmUkNmYzIxM1NTU3NGaFVFcy1xbw?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T17:12:32+07:00",
-"found": "2026-11-21T02:58:44+07:00"
 }
 ]
 }
