@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T19:12:38+07:00",
-"new": 16,
+"updated": "2026-11-23T19:27:49+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 39
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,61 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "d2732e51ec9e",
+"title": "Giám đốc Công ty lâm nghiệp La Ngà bị bắn ở Đồng Nai đã tử vong",
+"link": "https://thanhnien.vn/giam-doc-cong-ty-lam-nghiep-la-nga-bi-ban-o-dong-nai-da-tu-vong-185261123180938533.htm",
+"summary": "Giám đốc bị bắn ở thành phố Đồng Nai, ông Nguyễn Mạnh Cường đã tử vong lúc 16 giờ 50 ngày 23.11, sau 7 ngày điều trị tích cực tại Bệnh viện Chợ Rẫy.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/giam-doc-bi-bat-o-thanh-pho-dong-nai-1795431772463928737997-107-0-1707-2560-crop-1795431840701444342421.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-23T19:26:00+07:00",
+"found": "2026-11-23T19:27:49+07:00"
+},
+{
+"id": "462b5e128f1d",
+"title": "Văn hóa doanh nghiệp như 'mỏ neo' giữ chân người lao động",
+"link": "https://thanhnien.vn/van-hoa-doanh-nghiep-nhu-mo-neo-giu-chan-nguoi-lao-dong-185261123163428115.htm",
+"summary": "Trong cuộc đua chuyển đổi số và ứng dụng trí tuệ nhân tạo (AI), doanh nghiệp phải thay đổi nhanh để tồn tại, nhưng người lao động lại lo lắng về sự ổn định của công việc. Theo các chuyên gia, văn hóa doanh nghiệp chính là \"mỏ neo\" tạo dựng niềm tin, giúp người lao động yên tâm…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/photo-1795429186030-1795429186437829248705-123-77-1259-1895-crop-1795429258703235990340.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-23T19:25:00+07:00",
+"found": "2026-11-23T19:27:49+07:00"
+},
+{
+"id": "480806ef871e",
+"title": "Ngân hàng Nhà nước tiếp tục hút ròng hơn 10.800 tỷ trong tuần qua",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaGcwdmFzN1NfZmFJWEFyRTJoWFlZVU1rY1lPNkRqUTdFMFl4M1dLeWFCc21XTjd6RFBzN21UbGtBdmh3N0hJTkVVUndBV2NPMFl3OVh0SllDN2NFUEVlZjY3MEJVcEV3ODBER1NmUGxVSU1jU2tIWm9sNTI5Tng0MG40LU1rbHJJQzRtMTVxMkpwLVZPM09kYTJ3YktNZE0?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T19:17:00+07:00",
+"found": "2026-11-23T19:27:49+07:00"
+},
+{
+"id": "81100ee4535e",
+"title": "Miền Trung hứng mưa lớn dồn dập, nguy cơ lũ lụt nghiêm trọng hơn",
+"link": "https://vietnamnet.vn/mien-trung-hung-mua-lon-don-dap-nguy-co-lu-lut-nghiem-trong-hon-2572294.html",
+"summary": "Từ 24-30/11, Trung Bộ có khả năng xuất hiện hai đợt mưa lớn liên tiếp, trong đó lượng mưa tại Huế và Đà Nẵng có nơi vượt 500mm. Mưa lớn làm gia tăng nguy cơ lũ trên các sông, ngập lụt diện rộng, lũ quét và sạt lở đất.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/mien-trung-hung-mua-lon-don-dap-nguy-co-lu-lut-nghiem-trong-hon-2012.jpg?width=0&s=YPs38RScziH1LpAPGyNAOQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-23T19:15:03+07:00",
+"found": "2026-11-23T17:11:27+07:00"
+},
+{
+"id": "a1321d8bf11a",
+"title": "Trung Quốc đưa 12 \"quái vật\" hybrid tải trọng hơn 160 tấn mỗi chiếc vào mỏ than Việt Nam, phục vụ khai trường hàng nghìn ha",
+"link": "https://kenh14.vn/trung-quoc-dua-12-quai-vat-hybrid-tai-trong-hon-160-tan-moi-chiec-vao-mo-than-viet-nam-phuc-vu-khai-truong-hang-nghin-ha-21526112317510414.chn",
+"summary": "Mười hai xe ben mỏ SANY SKT160V được bàn giao cho doanh nghiệp vận tải tại mỏ than Cao Sơn, nổi bật với tải trọng hơn 100 tấn và hệ truyền động hybrid diesel - điện.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795431054966-1795431055787248946152.jpeg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-23T19:13:00+07:00",
+"found": "2026-11-23T19:27:49+07:00"
+},
 {
 "id": "3521feb3f2d5",
 "title": "Chênh lệch giá mua, bán vàng nhẫn lên tới 6 triệu đồng/lượng",
@@ -607,7 +662,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T18:00:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-23T18:24:17+07:00"
 },
 {
@@ -918,17 +973,6 @@
 "cat": "tc",
 "published": "2026-11-23T17:35:00+07:00",
 "found": "2026-11-23T18:09:08+07:00"
-},
-{
-"id": "81100ee4535e",
-"title": "Miền Trung hứng mưa lớn dồn dập, nguy cơ lũ lụt nghiêm trọng hơn",
-"link": "https://vietnamnet.vn/mien-trung-hung-mua-lon-don-dap-nguy-co-lu-lut-nghiem-trong-hon-2572294.html",
-"summary": "Từ 24-30/11, Trung Bộ có khả năng xuất hiện hai đợt mưa lớn liên tiếp, trong đó lượng mưa tại Huế và Đà Nẵng có nơi vượt 500mm. Mưa lớn làm gia tăng nguy cơ lũ trên các sông, ngập lụt diện rộng, lũ quét và sạt lở đất.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/mien-trung-hung-mua-lon-don-dap-nguy-co-lu-lut-nghiem-trong-hon-2012.jpg?width=0&s=YPs38RScziH1LpAPGyNAOQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-23T17:33:00+07:00",
-"found": "2026-11-23T17:11:27+07:00"
 },
 {
 "id": "8abb7a74102b",
@@ -28076,50 +28120,6 @@
 "cat": "bds",
 "published": "2026-11-20T17:55:00+07:00",
 "found": "2026-11-20T18:03:59+07:00"
-},
-{
-"id": "1e5e2fe5cd10",
-"title": "Liên danh của tỷ phú Phạm Nhật Vượng trúng thầu 5 tuyến đường sắt 250 km tại Hà Nội, trị giá hơn 873.000 tỷ đồng",
-"link": "https://kenh14.vn/lien-danh-cua-ty-phu-pham-nhat-vuong-trung-thau-5-tuyen-duong-sat-250-km-tai-ha-noi-tri-gia-hon-873000-ty-dong-215261120160052138.chn",
-"summary": "Gói thầu có giá trị gần 34 tỷ USD, bao gồm nhiều hạng mục từ thiết kế đến thi công, lắp đặt và chạy thử, với mục tiêu hoàn thành trước cuối năm 2030.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795165207164-1795165210480533490404.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T17:53:00+07:00",
-"found": "2026-11-20T18:03:59+07:00"
-},
-{
-"id": "9db234a1a1ac",
-"title": "Tìm thấy 14 hài cốt liệt sĩ, có hài cốt còn nằm trên cáng thương",
-"link": "https://tuoitre.vn/tim-thay-14-hai-cot-liet-si-co-hai-cot-con-nam-tren-cang-thuong-10026112015361187.htm",
-"summary": "Nhiều hài cốt liệt sĩ được phát hiện sâu dưới hầm cá nhân, giao thông hào, một số còn nằm trên cáng thương, bọc trong tăng võng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/hai-cot-liet-si-trieu-phong-2-17951638301052056950971-7-0-1288-2050-crop-17951638918971269235655.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-20T17:53:00+07:00",
-"found": "2026-11-20T19:30:49+07:00"
-},
-{
-"id": "ae6b6dc3daa3",
-"title": "Khánh Hòa thành lập Sở Ngoại vụ",
-"link": "https://tuoitre.vn/khanh-hoa-thanh-lap-so-ngoai-vu-100261120170837459.htm",
-"summary": "Chiều nay 20-11, HĐND tỉnh Khánh Hòa đã thông qua nghị quyết thành lập Sở Ngoại vụ tỉnh Khánh Hòa.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/1795168681071269586402245752996722707291220555605027a184672fce318b56a301838ae2db9c-17951687745841194991701-182-0-1782-2560-crop-179516903741210768952.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-20T17:51:00+07:00",
-"found": "2026-11-20T19:30:49+07:00"
-},
-{
-"id": "539f86d894d3",
-"title": "Bốc hơi 1.000 tỷ USD sau 6 giờ, giá vàng thế giới rơi về đâu?",
-"link": "https://dantri.com.vn/kinh-doanh/boc-hoi-1000-ty-usd-sau-6-gio-gia-vang-the-gioi-roi-ve-dau-20261120163722939.htm",
-"summary": "(Dân trí) - Cú bán tháo ồ ạt khiến 1.000 tỷ USD bốc hơi khỏi thị trường vàng và bạc chỉ sau 6 giờ. Giá vàng xuyên thủng hàng loạt mốc hỗ trợ kỹ thuật và lùi sâu dưới ngưỡng 3.600 USD/ounce.",
-"image": "https://cdnphoto.dantri.com.vn/tGe4VsyNbC4e5aWprgSAXugcTsM=/2026/11/15/gold-bars-amid-a-market-downturn-cropped-1794705103052.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-20T17:50:23+07:00",
-"found": "2026-11-20T18:19:12+07:00"
 }
 ]
 }
