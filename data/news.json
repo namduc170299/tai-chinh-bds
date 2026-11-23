@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T17:11:27+07:00",
-"new": 10,
+"updated": "2026-11-23T17:26:38+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -20,8 +20,9 @@
 "name": "CafeF",
 "cat": "bds",
 "url": "https://cafef.vn/bat-dong-san.rss",
-"ok": true,
-"count": 50
+"ok": false,
+"count": 0,
+"error": "TimeoutError: The read operation timed out"
 },
 {
 "name": "CafeF",
@@ -213,6 +214,72 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "0053d6ed1b8d",
+"title": "Đừng để 'giờ cao su' trở thành văn hóa doanh nghiệp Việt",
+"link": "https://thanhnien.vn/dung-de-gio-cao-su-tro-thanh-van-hoa-doanh-nghiep-viet-185261123164117446.htm",
+"summary": "Một người đến họp muộn 30 phút, 20 đồng nghiệp phải chờ đợi, đồng nghĩa 10 giờ công bị lãng phí. Nhưng đằng sau chuyện đúng giờ hay trễ giờ không đơn thuần là câu chuyện ý thức cá nhân, mà còn phản ánh văn hóa, tính kỷ luật và mức độ chuyên nghiệp của doanh nghiệp.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/tnw-ba-tu-thi-loan-17954261756331478694789-0-0-1600-2560-crop-17954266357111163312435.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-23T17:25:00+07:00",
+"found": "2026-11-23T17:26:38+07:00"
+},
+{
+"id": "93663b2859b8",
+"title": "Trung ương Đoàn tôn vinh 100 nhà sáng tạo nội dung số trẻ",
+"link": "https://thanhnien.vn/trung-uong-doan-ton-vinh-100-nha-sang-tao-noi-dung-so-tre-185261123162233282.htm",
+"summary": "100 thanh niên được chọn từ 421 hồ sơ, không chỉ căn cứ vào số người theo dõi mà chú trọng chất lượng nội dung, giá trị giáo dục và đóng góp cho cộng đồng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/anh1-17954255877891375052499-0-0-1201-1922-crop-17954255933951321710472.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-23T17:25:00+07:00",
+"found": "2026-11-23T17:26:38+07:00"
+},
+{
+"id": "76619abae392",
+"title": "Tây Ninh sắp đón 200 hài cốt liệt sĩ hy sinh tại Campuchia về với đất mẹ",
+"link": "https://vietnamnet.vn/tay-ninh-sap-don-200-hai-cot-liet-si-hy-sinh-tai-campuchia-2577896.html",
+"summary": "Ngày 3/12, tỉnh Tây Ninh sẽ tổ chức lễ đón 200 hài cốt liệt sĩ quân tình nguyện và chuyên gia Việt Nam hy sinh tại Campuchia về nước.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/tay-ninh-sap-don-200-hai-cot-liet-si-hy-sinh-tai-campuchia-ve-voi-dat-me-2046.jpg?width=0&s=3ImHEgdBvWAVxuXQ7jNOFg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-23T17:22:09+07:00",
+"found": "2026-11-23T17:26:38+07:00"
+},
+{
+"id": "a0ecfc8dfd9c",
+"title": "Khánh Hòa truy tặng bằng khen cho 2 người hy sinh khi cứu người đuối nước",
+"link": "https://thanhnien.vn/khanh-hoa-truy-tang-bang-khen-cho-2-nguoi-hy-sinh-khi-cuu-nguoi-duoi-nuoc-18526112316504917.htm",
+"summary": "Chủ tịch UBND tỉnh Khánh Hòa quyết định truy tặng bằng khen cho ông Nguyễn Duy An và ông Phạm Sáng đã hy sinh khi cứu người đuối nước tại bãi biển Nha Trang.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/179540987371415580221485416883702297750452843502670599289c63df155f000c8dee63ca2b4ad-17954142776392008538408-0-157-1353-2322-crop-17954270744271940586457.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-23T17:21:00+07:00",
+"found": "2026-11-23T17:26:38+07:00"
+},
+{
+"id": "39bdc4befd00",
+"title": "Đà Nẵng dự kiến trả lương CEO Trung tâm Tài chính quốc tế 850 triệu đồng",
+"link": "https://vnexpress.net/da-nang-du-kien-tra-luong-ceo-trung-tam-tai-chinh-quoc-te-850-trieu-dong-5148144.html",
+"summary": "Giám đốc điều hành (CEO) Trung tâm tài chính quốc tế tại Đà Nẵng được đề xuất hưởng lương 450-850 triệu đồng mỗi tháng theo cơ chế thị trường.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/h-1795426789-1272-1795426850.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W2r8AkzQXpXrY3O0SWJqbA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-23T17:20:41+07:00",
+"found": "2026-11-23T17:26:38+07:00"
+},
+{
+"id": "fd703d754f50",
+"title": "Vì sao cứ đến cuối năm vỉa hè Hà Nội lại ngổn ngang đào xới?",
+"link": "https://kenh14.vn/vi-sao-cu-den-cuoi-nam-via-he-ha-noi-lai-ngon-ngang-dao-xoi-215261123163004015.chn",
+"summary": "Nhiều tuyến vỉa hè trên địa bàn Hà Nội đang đồng loạt được thi công, cải tạo trong giai đoạn cuối năm, gây ảnh hưởng đến giao thông và sinh hoạt thường ngày của người dân.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795426148733-17954261495952063410675.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-23T17:12:00+07:00",
+"found": "2026-11-23T17:26:38+07:00"
+},
+{
 "id": "81100ee4535e",
 "title": "Miền Trung hứng mưa lớn dồn dập, nguy cơ lũ lụt nghiêm trọng hơn",
 "link": "https://vietnamnet.vn/mien-trung-hung-mua-lon-don-dap-nguy-co-lu-lut-nghiem-trong-hon-2572294.html",
@@ -255,6 +322,17 @@
 "cat": "xh",
 "published": "2026-11-23T17:04:00+07:00",
 "found": "2026-11-23T17:11:27+07:00"
+},
+{
+"id": "1cd4127e3714",
+"title": "Diễn biến thời tiết đáng chú ý từ ngày mai: Bắc Bộ chuyển rét đậm, nhiệt độ thấp nhất dưới 10 độ C",
+"link": "https://kenh14.vn/dien-bien-thoi-tiet-dang-chu-y-tu-ngay-mai-bac-bo-chuyen-ret-dam-nhiet-do-thap-nhat-duoi-10-do-c-215261123162110213.chn",
+"summary": "Từ ngày 24/11, không khí lạnh tràn xuống khiến Bắc Bộ và Bắc Trung Bộ chuyển rét, nhiệt độ vùng núi cao có nơi dưới 10 độ C, trong khi Trung Bộ xuất hiện mưa lớn diện rộng, tiềm ẩn nguy cơ lũ quét, sạt lở đất và nhiều hiện tượng thời tiết nguy hiểm.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795425553825-17954255544181002004755.jpeg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-23T17:01:00+07:00",
+"found": "2026-11-23T17:26:38+07:00"
 },
 {
 "id": "6e611e2d3095",
@@ -300,6 +378,17 @@
 "published": "2026-11-23T16:50:00+07:00",
 "traffic": "100+",
 "found": "2026-11-23T17:11:27+07:00"
+},
+{
+"id": "5188e83e1c1c",
+"title": "Khởi tố nghi phạm giết cô gái, chôn xác phi tang ở TPHCM",
+"link": "https://dantri.com.vn/phap-luat/khoi-to-nghi-pham-giet-co-gai-chon-xac-phi-tang-o-tphcm-20261123163858772.htm",
+"summary": "(Dân trí) - Giết cô gái rồi đem thi thể nạn nhân đi chôn để phi tang, nam thanh niên 30 tuổi bị Cơ quan Cảnh sát điều tra Công an TPHCM khởi tố, bắt tạm giam.",
+"image": "https://cdnphoto.dantri.com.vn/YpGF4VdlbGhGguXONbsUMeZMU1s=/2026/11/23/img20261112102518-edited-1795426506770.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-23T16:49:18+07:00",
+"found": "2026-11-23T17:26:38+07:00"
 },
 {
 "id": "befabf3382c4",
@@ -622,6 +711,17 @@
 "cat": "tc",
 "published": "2026-11-23T16:16:00+07:00",
 "found": "2026-11-23T16:28:17+07:00"
+},
+{
+"id": "6028089cb8ad",
+"title": "Cựu Phó tổng giám đốc Bách Đạt An được giảm án tù, phải bồi thường 774 tỉ đồng",
+"link": "https://tuoitre.vn/cuu-pho-tong-giam-doc-bach-dat-an-duoc-giam-an-tu-phai-boi-thuong-774-ti-dong-100261123142437003.htm",
+"summary": "Bà Hoàng Thị Kim Châu, Phó tổng giám đốc Công ty Bách Đạt An được giảm án chung thân xuống 20 năm tù về tội tham ô tài sản; y án 20 năm tù tội lạm dụng tín nhiệm chiếm đoạt tài sản.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/23-11-vu-an-ban-hoang-thi-kim-chau-1795417518534284557493-571-427-1412-1773-crop-17954182301591695139529.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T16:16:00+07:00",
+"found": "2026-11-23T17:26:38+07:00"
 },
 {
 "id": "a7f9c2333c0b",
@@ -28021,106 +28121,6 @@
 "cat": "xh",
 "published": "2026-11-20T16:31:28+07:00",
 "found": "2026-11-20T17:16:55+07:00"
-},
-{
-"id": "9946712e96c9",
-"title": "Quản lý cửa hàng Bách Hóa Xanh bị bắt vì tham ô hàng trăm triệu đồng",
-"link": "https://thanhnien.vn/quan-ly-cua-hang-bach-hoa-xanh-bi-bat-vi-tham-o-hang-tram-trieu-dong-185261120153725702.htm",
-"summary": "Lợi dụng vị trí quản lý cửa hàng Bách Hóa Xanh tại phường Đồng Hới (Quảng Trị), Phạm Đức Tình bị cáo buộc tham ô, chiếm đoạt số hàng hóa trị giá hơn 250 triệu đồng của doanh nghiệp trong 2 tháng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/91384471621624254584829105908789977696787826n-17951635185071512673535-119-0-869-1200-crop-17951636671931064918003.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-20T16:31:00+07:00",
-"found": "2026-11-20T16:35:08+07:00"
-},
-{
-"id": "df0eb2a0586f",
-"title": "Doanh nghiệp Việt tăng tốc đầu tư, mở rộng hiện diện tại Trung Á và Nam Kavkaz",
-"link": "https://vietnamnet.vn/doanh-nghiep-viet-tang-toc-dau-tu-mo-rong-hien-dien-tai-trung-a-va-nam-kavkaz-2577127.html",
-"summary": "Từ năng lượng tái tạo, phát triển đô thị đến hàng không và vận tải xanh, doanh nghiệp Việt đang từng bước hiện diện tại Trung Á và Nam Kavkaz, mở thêm hướng tiếp cận các thị trường giàu tiềm năng trong chiến lược vươn ra thế giới.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/doanh-nghiep-viet-tang-toc-dau-tu-mo-rong-hien-dien-tai-trung-a-va-nam-kavkaz-1640.jpeg?width=0&s=jz0jCicXSLnKTY0yV9L69w",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-20T16:30:00+07:00",
-"found": "2026-11-20T16:35:08+07:00"
-},
-{
-"id": "f39a0ce7bc85",
-"title": "xổ số miền nam ngày 20 tháng 11",
-"link": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-an-giang-ngay-1911-1803173.ldo",
-"summary": "Kết quả xổ số An Giang ngày 19.11 (Laodong.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgMKW7QoKOeDh4Do8-hizTYu67KwPaCr4OUUv1jilqBPL93BTIqoPFehE8oT8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T16:30:00+07:00",
-"traffic": "20000+",
-"found": "2026-11-20T16:46:35+07:00"
-},
-{
-"id": "9ad3b8cfcf14",
-"title": "Cú lừa ngoạn mục tráo sổ đỏ, đóng giả chủ nhà để rút ruột ngân hàng",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenc0aGxkSjNMbk1qcVhRNlZrYVhNMEZxQUNzOXhJUGFiWjY2WF9UOF96aEpJMkY5NzdwTEluelU4bVhHaG5Gemk4THVPZ1JxRklNWFI5ZFR3SWpDXzAyVmM1ajNESENaZS0xZDBFdVJuV2dhUVZvbWdWY216SGlFYWNkR3BERlk1aV8yZ09uUVVUc3REa2RpMDdvcC01aGst?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T16:28:00+07:00",
-"found": "2026-11-20T20:03:27+07:00"
-},
-{
-"id": "88abfdbdbd00",
-"title": "ABBank được chấp thuận chào bán hơn 803 triệu cổ phiếu, dự kiến thu về 8.034 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUhYa2FIN2hFV2tCWVloUnR1a2VuOWlHckx6aEpocktfbk5VTHRBc3Jyd2U4SDdNdWZGSHdBaTdxcDBFY09wcl9NTVJLdnNmeklPWFo1Q3J1NmhKY25Rd0dnem53eUJQSnJOSk5mUWJneW02OTZkc2tXYlg0Y3FneGdpalZEQUc5NXRSVHM3Qzc3SC1ZR2VyVlNEbkZEenA2RnFUazVRRVlSRkNBWkpscVVXYkc2NkE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T16:28:00+07:00",
-"found": "2026-11-21T03:29:40+07:00"
-},
-{
-"id": "97e762e9d5b2",
-"title": "Blog chứng khoán: Cầu bắt đáy tốt hơn, áp lực cắt lỗ vẫn còn",
-"link": "https://vneconomy.vn/blog-chung-khoan-cau-bat-day-tot-hon-ap-luc-cat-lo-van-con.htm",
-"summary": "VNI thoát khỏi một phiên giảm mạnh thứ 3 liên tiếp trong phiên cuối tuần nhờ sự phục hồi khá tốt của cổ phiếu blue-chips. Chỉ số rút về sát tham chiếu (chỉ còn giảm 0,83 điểm) nhưng đa số cổ phiếu phục hồi kém hơn nhiều.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/20/8be414740aba439eb5550652d0a4ccbd-137384.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-20T16:26:15+07:00",
-"found": "2026-11-20T16:35:08+07:00"
-},
-{
-"id": "b4581ef03d5c",
-"title": "VN-Index giảm 4 phiên liên tiếp, cả tuần rơi hơn 46 điểm",
-"link": "https://tuoitre.vn/vn-index-giam-4-phien-lien-tiep-ca-tuan-roi-hon-46-diem-100261120154558936.htm",
-"summary": "Thị trường chứng khoán giảm nhẹ gần 1 điểm sau phiên 20-11. Tính chung cả tuần, VN-Index giảm 46,14 điểm so với cuối tuần trước.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/qdchungkhoanocbs53-1795163806240271130294.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-20T16:26:00+07:00",
-"found": "2026-11-20T17:01:46+07:00"
-},
-{
-"id": "1ce22b5e2e75",
-"title": "Liên tiếp tai nạn chết người, CSGT TP.HCM kiểm tra xe tải, container dừng, đỗ trong khu công nghiệp",
-"link": "https://tuoitre.vn/lien-tiep-tai-nan-chet-nguoi-csgt-tphcm-kiem-tra-xe-tai-container-dung-do-trong-khu-cong-nghiep-100261120145158529.htm",
-"summary": "Ngày 20-11, Đội Cảnh sát giao thông Rạch Chiếc (Phòng Cảnh sát giao thông Công an TP.HCM) tổ chức tuần tra, kiểm soát, xử lý xe container, xe đầu kéo, xe tải dừng, đỗ sai quy định tại các khu công nghiệp.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/edit-edit-dung-do-xe-sai-quy-dinh-khu-cong-nghiep-song-than-3-17951607087812141707780-197-0-1797-2560-crop-17951607189021824812263.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-20T16:24:00+07:00",
-"found": "2026-11-20T16:35:08+07:00"
-},
-{
-"id": "6b65bf970710",
-"title": "Ngân hàng rao bán nợ 'khủng' liên quan ông Lê Hải Trà, Hà Văn Thắm",
-"link": "https://cafef.vn/ngan-hang-rao-ban-no-khung-lien-quan-ong-le-hai-tra-ha-van-tham-188261120151747792.chn",
-"summary": "Những khoản nợ gắn với tên tuổi các cựu lãnh đạo từng bị xử lý hình sự đang xuất hiện trong danh sách tài sản ngân hàng đưa ra đấu giá. Có khoản nợ gần 1.000 tỷ đồng phát sinh từ thời OceanBank dưới thời ông Hà Văn Thắm, cùng hai khoản vay hơn 25 tỷ đồng liên quan cựu Tổng Giám…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795162645188-17951626453991100498454.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-20T16:23:00+07:00",
-"found": "2026-11-20T16:35:08+07:00"
 }
 ]
 }
