@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T04:27:23+07:00",
+"updated": "2026-11-24T04:42:33+07:00",
 "new": 4,
 "sources": [
 {
@@ -105,7 +105,7 @@
 "cat": "tc",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=site:baomoi.com+(t%C3%A0i+ch%C3%ADnh+OR+ch%E1%BB%A9ng+kho%C3%A1n+OR+ng%C3%A2n+h%C3%A0ng+OR+l%C3%A3i+su%E1%BA%A5t)+when:2d",
 "ok": true,
-"count": 100
+"count": 0
 },
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,28 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "057e330ef08b",
+"title": "Xem thú đêm ở Vườn quốc gia Cát Tiên: Tour du lịch đơn giản nhưng cuốn hút",
+"link": "https://thanhnien.vn/xem-thu-dem-o-vuon-quoc-gia-cat-tien-tour-du-lich-don-gian-nhung-cuon-hut-185261123181000611.htm",
+"summary": "Xem thú đêm ở Vườn quốc gia Cát Tiên là tour trải nghiệm đêm cực kỳ đơn giản nhưng cuốn hút, du khách nhớ mãi sau chuyến đi.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/edit-tnw178447305196928095470556078342832809547055607834283a5d53be5fa01a4d1319a850079760ee9-17954326294551283527649-0-0-1564-2502-crop-17954341161471372658506.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T04:30:00+07:00",
+"found": "2026-11-24T04:42:33+07:00"
+},
+{
+"id": "d96ed32377ed",
+"title": "Lịch sự kiện tối 24.11 ở TP.HCM: Bắn pháo hoa, 3D Mapping, cầu truyền hình đặc biệt",
+"link": "https://thanhnien.vn/lich-su-kien-toi-2411-o-tphcm-ban-phao-hoa-3d-mapping-cau-truyen-hinh-dac-biet-185261122151519689.htm",
+"summary": "Tối nay (24.11), TP.HCM bắn pháo hoa tại 3 địa điểm, cùng loạt hoạt động 3D Mapping, cầu truyền hình đặc biệt và biểu diễn nghệ thuật ở phố đi bộ Nguyễn Huệ.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/lich-su-kien-ngay-24-11-o-tphcm-ban-phao-hoa-17954238694172068669566-0-0-991-1586-crop-17954239746411352522833.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T04:29:00+07:00",
+"found": "2026-11-24T04:42:33+07:00"
+},
 {
 "id": "1f56d87416ed",
 "title": "xổ số",
@@ -3802,6 +3824,17 @@
 "found": "2026-11-23T17:11:27+07:00"
 },
 {
+"id": "65b3c60d727e",
+"title": "Liên danh Việt Nam - Hàn Quốc - Pháp trúng gói thầu nghiên cứu khả thi và thiết kế cơ sở tuyến đường sắt cao tốc Bắc Nam",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaGsySVppRUN1UmMyRWlOYThjVkF3YVpYUHhOckF4bzE0aGp0ODF4NlJjaWx4XzNpdDlzV2FXdkhqc1RiTlY1em92Y0QxX0F1V09DVnFENTdmekdramxEdkNIUjFqYjVfby02RlhCV1JLQmo4by00a3BLcjM2VWRFVFlUcEdvYVl5aC0yTDVVUExBMlEzWE5scWZJWk53Y1ltb1JXWXdCMnVlRnBEMVZXQXBPRlR0Zlc5ZlRXN0NQTUNHeVlSVzVmM2JzRDZaNmpvMmJFN1E3c3FvZGZrN001NHFRQQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T16:50:27+07:00",
+"found": "2026-11-24T04:42:33+07:00"
+},
+{
 "id": "047fb58424f1",
 "title": "Hệ số K sắp thay đổi cuộc chơi: Người mua nhà nên xuống tiền lúc này?",
 "link": "https://cafef.vn/he-so-k-sap-thay-doi-cuoc-choi-nguoi-mua-nha-nen-xuong-tien-luc-nay-188261123155739947.chn",
@@ -5691,6 +5724,17 @@
 "cat": "xh",
 "published": "2026-11-23T14:12:13+07:00",
 "found": "2026-11-23T14:02:05+07:00"
+},
+{
+"id": "67bd6890acec",
+"title": "Bằng Lăng của 'Gái nhảy' hiện tại ra sao",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XTWxKaVRDY3ZfMmtydlpPVmh0dkQ4Qmh6STJPUkpBNklGakVLTy10MTl6MVY0Rl83WFcwUzd1UmxsM3R2d2xTbm9pdlhqN2JlVFhIVUlfVW1nRzZMZE5KdEY3SVF3VVBlQkw1bV9B?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T14:11:37+07:00",
+"found": "2026-11-24T04:42:33+07:00"
 },
 {
 "id": "b61326b3833e",
@@ -28083,54 +28127,6 @@
 "cat": "xh",
 "published": "2026-11-21T04:00:00+07:00",
 "found": "2026-11-21T04:15:58+07:00"
-},
-{
-"id": "a6451a61af2b",
-"title": "chú rể",
-"link": "https://dantri.com.vn/doi-song/bat-ngo-ly-do-co-dau-tu-lai-xe-hoa-cho-chu-re-hon-200km-trong-ngay-tan-hon-20261120103331039.htm",
-"summary": "Bất ngờ lý do cô dâu tự lái xe hoa chở chú rể hơn 200km trong ngày tân hôn (Báo Dân trí)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS89fgM2YDmCrPNwJ0s0DYMsvSIgOvG6fQi_pIG9RNzUeaBzgjhAE_jsaVadtY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T04:00:00+07:00",
-"traffic": "500+",
-"found": "2026-11-21T04:15:58+07:00"
-},
-{
-"id": "4a1c20c6de18",
-"title": "daniil medvedev",
-"link": "https://www.atptour.com/en/news/alcaraz-cobolli-medvedev-tiafoe-nitto-atp-finals-2026-day-6-preview",
-"summary": "Medvedev, Tiafoe set for win-or-go-home clash; Alcaraz faces Cobolli (ATP Tour)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROaRA7VOFscgjpBAESzVaOVbWrOdiGujBGlPIYVbMkFECIwL9pLyxDxdVzP7s",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T03:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T04:15:58+07:00"
-},
-{
-"id": "ad647d23a67f",
-"title": "đội tuyển bóng đá u-17 quốc gia thái lan",
-"link": "https://tuoitre.vn/u17-thai-lan-bi-loai-cay-dang-tai-vong-loai-u17-chau-a-2027-100261120211003329.htm",
-"summary": "U17 Thái Lan bị loại cay đắng tại vòng loại U17 châu Á 2027 (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB4NThMVrCBn3CxCaFH1kcO9f7NHPkKdqLldog7_2MrHS7zeeeUhULUUQ8xBQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T03:00:00+07:00",
-"traffic": "500+",
-"found": "2026-11-21T03:45:38+07:00"
-},
-{
-"id": "fa5fedf5be05",
-"title": "ath. bilbao đấu với espanyol",
-"link": "https://baonghean.vn/truc-tiep-athletic-club-vs-espanyol-doi-hinh-xuat-phat-10356273.html",
-"summary": "Trực tiếp Athletic Club vs Espanyol: Đội hình xuất phát (Báo Nghệ An)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqakrgp7Q6OcPzSvu0bsH7nvDaLOzOPrhrLIayAH4ecvsr8Do0Eyr_nQdWocw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T02:40:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-21T02:58:44+07:00"
 }
 ]
 }
