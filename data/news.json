@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T21:17:24+07:00",
+"updated": "2026-11-23T21:32:35+07:00",
 "new": 14,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,83 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "64e51da538d4",
+"title": "Điểm tin kinh tế thế giới nổi bật ngày 23/11/2026",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQUZwanR4cnV3eWczQU9scEdvb2RDc1VrWEhPRllfT0RYM1R4cHdYRzBad1JnOVEzeEowcUx2Y0ZZcXV5YkM0d0laU0hoRUxsT0lwR2VuWjB2RVlIOVVCMUZ2aU9VTmNTd2dyWEU1MWtEOFJKTVhGcVNURjcyYjZRQ1g0bHBEZUxnRVE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T21:27:00+07:00",
+"found": "2026-11-23T21:32:35+07:00"
+},
+{
+"id": "f3b9bd1df647",
+"title": "Đề xuất lùi tiến độ hầm chui Hoàng Quốc Việt",
+"link": "https://cafef.vn/de-xuat-lui-tien-do-ham-chui-hoang-quoc-viet-188261123202632872.chn",
+"summary": "Sở Xây dựng Hà Nội vừa trình UBND thành phố xem xét kéo dài thời gian thực hiện dự án hầm chui Hoàng Quốc Việt - Phạm Văn Đồng đến hết quý II/2028, chậm một năm so với kế hoạch do vướng mặt bằng và chưa có nhà thầu tham dự gói xây lắp.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795440382600-17954403828231220830662.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-23T21:23:00+07:00",
+"found": "2026-11-23T21:32:35+07:00"
+},
+{
+"id": "51efd4d34452",
+"title": "Trung Bộ khả năng hứng 2 đợt mưa lớn diện rộng từ đêm 24-11 đến hết tháng",
+"link": "https://tuoitre.vn/trung-bo-kha-nang-hung-2-dot-mua-lon-dien-rong-tu-dem-24-11-den-het-thang-100261123210833349.htm",
+"summary": "Do ảnh hưởng của không khí lạnh mạnh ở tầng thấp kết hợp với các nhiễu động gió Đông trên cao và tác động của địa hình, ở Trung Bộ có khả năng xuất hiện 2 đợt mưa lớn diện rộng từ đêm 24-11 đến hết tháng này.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/14-10-ngap-lut-da-nang-29-169725-1697327281109694776709-249-0-1500-2000-crop-17954424980551149720403.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T21:22:00+07:00",
+"found": "2026-11-23T21:32:35+07:00"
+},
+{
+"id": "54ea42b296c1",
+"title": "Bắt giữ gã đàn ông nhiều lần dụ dỗ, xâm hại trẻ em nam",
+"link": "https://vietnamnet.vn/an-giang-bat-giu-ga-dan-ong-nhieu-lan-du-do-xam-hai-tre-em-nam-2577960.html",
+"summary": "Công an tỉnh An Giang đã khởi tố bị can, bắt tạm giam Nguyễn Văn Hiếu để điều tra về hành vi dụ dỗ, xâm hại tình dục nhiều trẻ em nam trên địa bàn tỉnh.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/bat-giu-ga-dan-ong-nhieu-lan-du-do-xam-hai-tre-em-nam-2648.jpg?width=0&s=kLZB7DWMFgGJITl4CAVbXA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-23T21:21:02+07:00",
+"found": "2026-11-23T21:32:35+07:00"
+},
+{
+"id": "05cda8b775f5",
+"title": "[VIDEO] TP HCM nâng trần phí quản lý chung cư lên 13.700 đồng/m²",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOWtQZUMxc0JGeHotVEpVOU1FekdkSzBUcmxlSExVTkJNZEZIQ0hPaWlZRF9md0VjMnY2dlo1dFI5WlJuck5PTl9abkpfcmUyUEZtcmdFOHJOemZ6dG4tZHZrQkFJR2NFa1dUdkJqNkdvdndVWlF2WU1ta1JRN3JnNy1RVzFCdG5GZlJZV3dFck5wQ1JOcjA0SFFXdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T21:20:00+07:00",
+"found": "2026-11-23T21:32:35+07:00"
+},
+{
+"id": "f061960bc1a5",
+"title": "Giá vàng nhẫn trơn, vàng miếng sáng 23/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải đồng loạt tăng tới 1,5 triệu đồng/lượng",
+"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-23-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-dong-loat-tang-toi-15-trieu-dong-luong-188261122221338839.chn",
+"summary": "Giá vàng trong nước mở đầu phiên sáng 23/11 đi ngang, với vàng miếng SJC giữ mức 133,5 triệu đồng/lượng và vàng nhẫn cao nhất 133,3 triệu đồng/lượng. Trên thị trường quốc tế, giá vàng thế giới vừa trải qua một tuần lao dốc gần 9%, xuống còn 3.538 USD/ounce.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795401356925-1795401357926886850474.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-23T21:18:00+07:00",
+"found": "2026-11-23T09:45:15+07:00"
+},
+{
+"id": "47db16a09649",
+"title": "Từ 17h00’ đến 24h00’ ngày mai 24/11, tất cả người dân Hà Nội lưu ý danh sách 13 tuyến đường hạn chế phương tiện",
+"link": "https://kenh14.vn/tu-17h00-den-24h00-ngay-mai-24-11-tat-ca-nguoi-dan-ha-noi-luu-y-danh-sach-13-tuyen-duong-han-che-phuong-tien-215261123211338613.chn",
+"summary": "Công an thành phố Hà Nội thông báo phương án phân luồng, hạn chế phương tiện trên nhiều tuyến đường quanh sân vận động Mỹ Đình trong các ngày 20, 22 và 24/11, phục vụ sơ duyệt, tổng duyệt và chương trình nghệ thuật đặc biệt chào mừng Ngày Văn hóa Việt Nam 2026.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795443171316-1795443172139789985378.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-23T21:13:00+07:00",
+"found": "2026-11-23T21:32:35+07:00"
+},
+{
 "id": "53e4ea0b29e9",
 "title": "Vietravel bổ nhiệm Phó Tổng Giám đốc",
 "link": "https://cafef.vn/vietravel-bo-nhiem-pho-tong-giam-doc-188261123205741148.chn",
@@ -222,6 +299,18 @@
 "cat": "tc",
 "published": "2026-11-23T21:10:00+07:00",
 "found": "2026-11-23T21:17:24+07:00"
+},
+{
+"id": "95d5952b1ca6",
+"title": "nvidia",
+"link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+"summary": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 27% (CNBC)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAiFQNJi52i7iI_cfTMtVcpju0LFzBbA46qCZrWqlizOatc5ZgLmLvcVwi3M",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T21:10:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-23T21:32:35+07:00"
 },
 {
 "id": "6442e3d06b08",
@@ -243,7 +332,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T21:00:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-23T21:17:24+07:00"
 },
 {
@@ -255,7 +344,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T21:00:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-23T21:17:24+07:00"
 },
 {
@@ -267,8 +356,30 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T21:00:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-23T21:17:24+07:00"
+},
+{
+"id": "1dc11e595128",
+"title": "Camera lật tẩy nữ giáo viên được gia đình tin tưởng ở Australia",
+"link": "https://vnexpress.net/camera-lat-tay-nu-giao-vien-duoc-gia-dinh-tin-tuong-o-australia-5148220.html",
+"summary": "Từ hình ảnh camera an ninh trong nhà, một người mẹ ở Australia phát hiện nữ giáo viên âm nhạc được gia đình tin tưởng đã xâm hại con trai mình từ khi cậu bé mới 12 tuổi.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/2ac447732af55a6fce84ba2290f400-9013-6393-1795440196.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_K1WBloXpjAWz1a5mom6Jw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-23T20:59:49+07:00",
+"found": "2026-11-23T21:32:35+07:00"
+},
+{
+"id": "c4da7ab47abd",
+"title": "Khánh Hòa có tờ trình về việc truy tặng Huân chương Dũng cảm với 2 người tử vong khi cứu người đuối nước",
+"link": "https://tuoitre.vn/khanh-hoa-co-to-trinh-ve-viec-truy-tang-huan-chuong-dung-cam-voi-2-nguoi-tu-vong-khi-cuu-nguoi-duoi-nuoc-100261123155053134.htm",
+"summary": "Khoảnh khắc anh Phạm Sáng lao vào sóng dữ để cùng đồng đội đưa 2 nạn nhân vào bờ thành công, nhưng rồi anh ngã quỵ để lại sự tiếc thương vô hạn.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/1-1795423436645297341291-0-0-1536-2458-crop-17954235942101402917803.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T20:59:00+07:00",
+"found": "2026-11-23T21:32:35+07:00"
 },
 {
 "id": "820f74819b0c",
@@ -329,6 +440,17 @@
 "found": "2026-11-23T21:17:24+07:00"
 },
 {
+"id": "efdc5424762f",
+"title": "Tổng Bí thư, Chủ tịch nước Tô Lâm trao quyết định nghỉ hưu với nguyên lãnh đạo Đảng, Nhà nước",
+"link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-trao-quyet-dinh-nghi-huu-voi-nguyen-lanh-dao-dang-nha-nuoc-100261123194642794.htm",
+"summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm, Thủ tướng Lê Minh Hưng, Thường trực Ban Bí thư Trần Cẩm Tú dự Hội nghị trao quyết định nghỉ hưu với các Ủy viên Bộ Chính trị, Ban Bí thư, Ủy viên Trung ương Đảng khóa XIII không tái cử khóa XIV.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/tbt-ctn111-1795436487880925154834-219-0-1757-2459-crop-17954418642641973879935.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T20:48:00+07:00",
+"found": "2026-11-23T21:32:35+07:00"
+},
+{
 "id": "271bfcf1314f",
 "title": "Tám nhân viên y tế bị điều tra sau vụ dùng gối đè mặt bệnh nhân",
 "link": "https://vnexpress.net/tam-nhan-vien-y-te-bi-dieu-tra-sau-vu-dung-goi-de-mat-benh-nhan-5148216.html",
@@ -338,6 +460,17 @@
 "cat": "xh",
 "published": "2026-11-23T20:44:53+07:00",
 "found": "2026-11-23T21:02:13+07:00"
+},
+{
+"id": "326940227107",
+"title": "Sẽ khởi công thêm tuyến metro để phát triển đô thị khoa học công nghệ Bắc TP.HCM",
+"link": "https://tuoitre.vn/se-khoi-cong-them-tuyen-metro-de-phat-trien-do-thi-khoa-hoc-cong-nghe-bac-tphcm-100261123190429608.htm",
+"summary": "Để thúc đẩy đô thị khoa học công nghệ, TP.HCM vừa xây dựng cơ chế chính sách khuyến khích, vừa triển khai nhiều dự án trọng điểm, trong đó có các tuyến metro.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/ong-vo-van-minh-ket-luan-17954344671792098047047-0-635-819-1946-crop-1795443332367400190978-21-17-816-1289-crop-1795443363835217498424.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T20:44:00+07:00",
+"found": "2026-11-23T21:32:35+07:00"
 },
 {
 "id": "4478c0f4606b",
@@ -473,6 +606,17 @@
 "found": "2026-11-23T20:12:56+07:00"
 },
 {
+"id": "bea739000130",
+"title": "Nhà bán hàng cồng kềnh tăng tốc trên thương mại điện tử dịp cuối năm",
+"link": "https://tuoitre.vn/nha-ban-hang-cong-kenh-tang-toc-tren-thuong-mai-dien-tu-dip-cuoi-nam-100261123195900736.htm",
+"summary": "Thương mại điện tử (TMĐT) đang trở thành kênh phân phối bổ trợ chiến lược, giúp doanh nghiệp ngành nội thất, gia dụng đưa sản phẩm kích cỡ lớn đến gần người tiêu dùng toàn quốc.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/goodnight-anh-thay-the-anh-co-logo-17954382964131471083407-0-0-905-1448-crop-17954383142601309099077.png",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-23T20:15:00+07:00",
+"found": "2026-11-23T21:32:35+07:00"
+},
+{
 "id": "e2bfa3aacae6",
 "title": "Nâng cao nhận thức của đoàn viên, thanh niên về vai trò của văn hóa",
 "link": "https://thanhnien.vn/nang-cao-nhan-thuc-cua-doan-vien-thanh-nien-ve-vai-tro-cua-van-hoa-185261123181832143.htm",
@@ -495,6 +639,17 @@
 "found": "2026-11-23T21:17:24+07:00"
 },
 {
+"id": "c1dbd3852bf9",
+"title": "Bí thư Trần Lưu Quang trao quà Tết sớm cho đoàn viên, người lao động TP.HCM",
+"link": "https://tuoitre.vn/bi-thu-tran-luu-quang-trao-qua-tet-som-cho-doan-vien-nguoi-lao-dong-tphcm-100261123182658088.htm",
+"summary": "Tối 23-11, Bí thư Thành ủy TP.HCM Trần Lưu Quang dự chương trình chăm lo Tết Đinh Mùi 2027 do Liên đoàn Lao động TP.HCM tổ chức, trao quà và bảng tượng trưng hỗ trợ vé về quê cho đoàn viên, người lao động.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/29297-17954401032041008252086-54-0-1304-2000-crop-1795440126333616985379.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T20:09:00+07:00",
+"found": "2026-11-23T21:32:35+07:00"
+},
+{
 "id": "2e4f1d5639df",
 "title": "2 vụ 'siêu IPO' giúp các ngân hàng Phố Wall kiếm tỷ USD",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZWVyM3c5VjJHaHBPYlQxTXJMY29VWkJ1OS1qVnNha2l0TlhheW5ReWZXWTRKRVBIUHJvUzhPUWdLZlB5U3hDVFZ2QnYtZnVBNmF4RURSYUtsSnN4WkltZ0wtNW9qekh2cGJKbElCT09rUmJSdGViQlFlVmNaeDA0eldFRml2azNkdF9odG5aQQ?oc=5",
@@ -504,6 +659,17 @@
 "cat": "tc",
 "published": "2026-11-23T20:06:43+07:00",
 "found": "2026-11-23T21:17:24+07:00"
+},
+{
+"id": "1d19b30760de",
+"title": "125 hộ tại CT6 Kiến Hưng - Bemes phải di dời: Cư dân mong sớm ổn định cuộc sống",
+"link": "https://tuoitre.vn/125-ho-tai-ct6-kien-hung-bemes-phai-di-doi-cu-dan-mong-som-on-dinh-cuoc-song-100261123151602972.htm",
+"summary": "Ngày 23-11, Tuổi Trẻ có mặt tại CT6 Kiến Hưng - Bemes (1 trong 12 dự án chung cư sai phạm của tập đoàn Mường Thanh). Trước thông tin 125 hộ tại chung cư phải di dời, nhiều cư dân mong được tiếp tục ở lại, cấp sổ hồng hoặc được bồi thường thỏa đáng để ổn định cuộc sống.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/sghjk-17954214467111875077355-12-0-1612-2560-crop-1795438564410438601778.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T20:06:00+07:00",
+"found": "2026-11-23T21:32:35+07:00"
 },
 {
 "id": "db2198c7cf8d",
@@ -537,7 +703,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T20:00:00+07:00",
-"traffic": "200+",
+"traffic": "100+",
 "found": "2026-11-23T20:28:07+07:00"
 },
 {
@@ -3284,17 +3450,6 @@
 "cat": "tc",
 "published": "2026-11-23T15:07:07+07:00",
 "found": "2026-11-23T15:41:10+07:00"
-},
-{
-"id": "f061960bc1a5",
-"title": "Giá vàng nhẫn trơn, vàng miếng sáng 23/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải đồng loạt tăng tới 1,5 triệu đồng/lượng",
-"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-23-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-dong-loat-tang-toi-15-trieu-dong-luong-188261122221338839.chn",
-"summary": "Giá vàng trong nước mở đầu phiên sáng 23/11 đi ngang, với vàng miếng SJC giữ mức 133,5 triệu đồng/lượng và vàng nhẫn cao nhất 133,3 triệu đồng/lượng. Trên thị trường quốc tế, giá vàng thế giới vừa trải qua một tuần lao dốc gần 9%, xuống còn 3.538 USD/ounce.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795401356925-1795401357926886850474.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-23T15:06:00+07:00",
-"found": "2026-11-23T09:45:15+07:00"
 },
 {
 "id": "d7e76cc9abcc",
@@ -27967,164 +28122,6 @@
 "published": "2026-11-20T19:20:00+07:00",
 "traffic": "5000+",
 "found": "2026-11-20T19:48:17+07:00"
-},
-{
-"id": "68bdb7bd29ea",
-"title": "kyiv",
-"link": "https://www.cnn.com/2026/11/20/europe/russia-ukraine-putin-trump-intl-hnk",
-"summary": "Hours after Trump reportedly says ‘tired’ Putin is ready for a deal, Ukraine hit with massive strikes (CNN)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzOrHwVFosmbdzZGt7Sw00EpqJMfuzlZxCHZkuq0f1h7hUuGtjJtWaXLP6_UE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T19:20:00+07:00",
-"traffic": "500+",
-"found": "2026-11-20T19:48:17+07:00"
-},
-{
-"id": "31e0e17f50a8",
-"title": "Cập nhật quy định mới về xuất khẩu nông, lâm, thủy sản",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWY0Tmlwd3lRRFluM2FvU1pOUkhOa0lWdUZaY01RVXFjaVkxVzQ4SU1GOGF5cUFob0Y1R0FBQzRQbFFHS01IRGlJRi1rR3d0d0tuSzZiR3lHZjVPZVc2cmZacFQxdVpLaVlnNEo4LW9sOHQ4YVlpdDJRTmZlWmJUdEV2eWZKWF9DeWhxR0N3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T19:20:00+07:00",
-"found": "2026-11-21T08:17:18+07:00"
-},
-{
-"id": "30d8e60eb086",
-"title": "Xăng giảm 5 lần, tô phở, dĩa cơm vẫn chưa chịu giảm giá",
-"link": "https://tuoitre.vn/xang-giam-5-lan-to-pho-dia-com-van-chua-chiu-giam-gia-100261120182649775.htm",
-"summary": "Tính đến nay, giá xăng dầu đã có 5 lần điều chỉnh giảm liên tiếp trong tháng 11. Tuy nhiên, theo ghi nhận, giá nhiều món ăn bình dân như cơm, phở vẫn chưa có dấu hiệu hạ nhiệt.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/2aobordwwd1ct9hdpptyn7rvke0ku61mawkul36e-17951725814261311573113-308-0-1259-1521-crop-17951732275061177561614.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-20T19:19:00+07:00",
-"found": "2026-11-20T19:30:49+07:00"
-},
-{
-"id": "7995e3f5dba3",
-"title": "Bản tin Nhà đất và đầu tư | 20/11/2026",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WdTgzR3lVWnE0d2hrQ1ZHSGNtcjNhc01pOHBIdG1JbGxpdGJvUVdiclYxbFd2bGZFWmZxa3pVSldQNHRaak9PeHRtUVQ5dmdONEpFcGlva1JnaUVMLUlnTXJoNU40d3Jfc1ZWcjU4Z0dkdWU2VDgzcQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T19:18:00+07:00",
-"found": "2026-11-20T19:30:49+07:00"
-},
-{
-"id": "61c6722b96bd",
-"title": "Dân chung cư 'ông Thản'- CT6 Kiến Hưng: 'Mong vẫn ở lại căn nhà mình, đừng nói bồi thường cao'",
-"link": "https://cafef.vn/dan-chung-cu-ong-than-ct6-kien-hung-mong-van-o-lai-can-nha-minh-dung-noi-boi-thuong-cao-188261120144047806.chn",
-"summary": "Sau phiên xét xử vụ án xảy ra tại dự án CT6 Kiến Hưng (phường Kiến Hưng, Hà Nội), một số người dân đang sinh sống tại tòa CT6C cho biết, mong mỏi của họ vẫn là được ở lại căn nhà của mình. Đồng thời cho rằng mức giá 56 triệu đồng/m2 tại tòa nhà này là sát thực tế chứ không thể…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795176618093-1795176619915858024741.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-20T19:14:00+07:00",
-"found": "2026-11-20T19:15:39+07:00"
-},
-{
-"id": "b8e2670ab8fe",
-"title": "Chủ đầu tư khó hạ giá nhà dù thanh khoản kém",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlRYVHh1V3B5bzVUdjhqMTMtQjktNnctSFk1dlJja0lUREJCZU81NF9uZGFITmg3YlNLYjBpaEtGMFFaXzlWVXpKN1o0YnJ5dHk2T3NHSzh0NE5Tek1tTzRKek54bXpDY3dUN0xPNVZCZXRDVDRaRTBPT0pMQnBfSVFHYw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T19:13:00+07:00",
-"found": "2026-11-20T22:45:33+07:00"
-},
-{
-"id": "64f37cec5153",
-"title": "Ông Trần Quốc Bình giữ chức Chủ tịch Ủy ban MTTQ Việt Nam tỉnh Hưng Yên",
-"link": "https://thanhnien.vn/ong-tran-quoc-binh-giu-chuc-chu-tich-uy-ban-mttq-viet-nam-tinh-hung-yen-185261120183609592.htm",
-"summary": "Ông Trần Quốc Bình, Phó bí thư Tỉnh ủy Hưng Yên, được hiệp thương cử giữ chức Chủ tịch Ủy ban MTTQ Việt Nam tỉnh Hưng Yên khóa I, nhiệm kỳ 2025 - 2030 với 100% đại biểu dự hội nghị tán thành.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/2aobordvfevhvzk1s5migyehgan8e2ghool0hhjy-17951743952331233294230-0-291-982-1862-crop-17951745103021254140883.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-20T19:10:00+07:00",
-"found": "2026-11-20T19:15:39+07:00"
-},
-{
-"id": "cbfeb7616a8f",
-"title": "Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc dự Ngày hội Đại đoàn kết tại phường Phú Mỹ",
-"link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-tphcm-nguyen-phuoc-loc-du-ngay-hoi-dai-doan-ket-tai-phuong-phu-my-100261120182343173.htm",
-"summary": "Ủy viên Trung ương Đảng, phó bí thư Thành ủy, Chủ tịch Ủy ban MTTQ Việt Nam TP.HCM Nguyễn Phước Lộc trao quà, học bổng và tặng cây xanh tại Ngày hội Đại đoàn kết toàn dân tộc ở khu phố Phú Thạnh, phường Phú Mỹ.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/dsc5952-1795173302933635123428-163-203-974-1500-crop-1795175319836206366232.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-20T19:10:00+07:00",
-"found": "2026-11-20T19:30:49+07:00"
-},
-{
-"id": "798ffae896ab",
-"title": "ngô phương ly",
-"link": "https://vnexpress.net/apec-mo-co-hoi-de-viet-nam-don-von-chat-luong-cao-5146785.html",
-"summary": "APEC mở cơ hội để Việt Nam đón vốn chất lượng cao (VnExpress)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvsY4GfZX7oE2rPs-Do4j2LSKhIRpoEHt4WUGXvg7YNJWVf6umNCxh4Gj20l8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T19:10:00+07:00",
-"traffic": "100+",
-"found": "2026-11-20T19:30:49+07:00"
-},
-{
-"id": "ba91043c070d",
-"title": "vịt",
-"link": "https://ngoisao.vnexpress.net/nguoi-me-ha-noi-tang-co-giao-5-con-vit-nha-nuoi-dip-20-11-5146572.html",
-"summary": "Người mẹ Hà Nội tặng cô giáo 5 con vịt nhà nuôi dịp 20/11 (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIU1xlkSS_DobY47WVS8gI7ryN0E9pDRDu4taty7jCrdQdo2ICKzKyRHnOMo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T19:10:00+07:00",
-"traffic": "500+",
-"found": "2026-11-20T19:30:49+07:00"
-},
-{
-"id": "91d125a4ae67",
-"title": "thứ hạng của câu lạc bộ bóng đá đông á thanh hóa gặp hagl",
-"link": "https://www.24h.com.vn/bong-da/video-bong-da-thanh-hoa-hagl-sai-lam-chi-mang-o-hiep-2-v-league-c48a1812752.html",
-"summary": "Video bóng đá Thanh Hóa - HAGL: Sai lầm chí mạng ở hiệp 2 (V-League) (Tin tức 24h)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymY90XjW-ZF5JdFFBM7BWtYqb5DZti33YgXEq3pGPN44wra57oJipRghfde0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T19:10:00+07:00",
-"traffic": "10000+",
-"found": "2026-11-20T20:18:36+07:00"
-},
-{
-"id": "034da9b83186",
-"title": "Tổ chức bốc thăm nền tái định cư dự án đường cao tốc TPHCM - Thủ Dầu Một - Chơn Thành",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMk9kTjNNUnY1bGhPdEtPenFlUHU1NEVnSERxYkRZQVhXSXluczZrVGFmUk9aVm5ISkh4UTh6ekpiRk1RMlotZ2Q0eXpwaFY3VkN5Wi13NzRWV0Nvb0tlWjRsWVhaUi1ibUVYY2JkUnlXeERwV3Y2aTl3WTNXTWYwRGNZUnZtTkhnblYxcTR4bXNLcmV6dWZISUoyYlFjS055V0FiRTQwTTBMUGlIVUE2TlhiUmo?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T19:08:52+07:00",
-"found": "2026-11-20T19:30:49+07:00"
-},
-{
-"id": "21a12d46a502",
-"title": "Xét xử phúc thẩm, cựu Thứ trưởng Nguyễn Bá Hoan được giảm án tù",
-"link": "https://thanhnien.vn/xet-xu-phuc-tham-cuu-thu-truong-nguyen-ba-hoan-duoc-giam-an-tu-185261120183438927.htm",
-"summary": "Ông Nguyễn Bá Hoan, cựu Thứ trưởng Bộ LĐ-TB-XH (cũ), được giảm 2 năm tù trong vụ để mặc cấp dưới o ép doanh nghiệp xuất khẩu lao động, nhận hối lộ hơn 16 tỉ đồng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/edit-nguyen-ba-hoan-1795173794479158360242-17-0-561-871-crop-1795173900292533675584.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-20T19:08:00+07:00",
-"found": "2026-11-20T19:15:39+07:00"
-},
-{
-"id": "65035caf1216",
-"title": "Quốc hội chốt áp thuế 0,2% với đất bỏ hoang",
-"link": "https://cafef.vn/quoc-hoi-chot-ap-thue-02-voi-dat-bo-hoang-188261120185354019.chn",
-"summary": "Quốc hội vừa thông qua nhiều chính sách mới về thuế, trong đó có việc áp áp dụng mức thuế suất 0,2% với đất bỏ hoang.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795175596557-1795175597151398426895.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-20T19:06:00+07:00",
-"found": "2026-11-20T19:15:39+07:00"
 }
 ]
 }
