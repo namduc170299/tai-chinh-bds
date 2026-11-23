@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T04:42:33+07:00",
-"new": 4,
+"updated": "2026-11-24T04:42:56+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -105,7 +105,7 @@
 "cat": "tc",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=site:baomoi.com+(t%C3%A0i+ch%C3%ADnh+OR+ch%E1%BB%A9ng+kho%C3%A1n+OR+ng%C3%A2n+h%C3%A0ng+OR+l%C3%A3i+su%E1%BA%A5t)+when:2d",
 "ok": true,
-"count": 0
+"count": 100
 },
 {
 "name": "VnExpress",
@@ -2210,6 +2210,17 @@
 "found": "2026-11-23T19:57:45+07:00"
 },
 {
+"id": "eff3bcfa093c",
+"title": "Hoàn thiện hạ tầng, kết nối giao thông Tam Trinh – Yên Duyên (Hà Nội)",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVUlUY0N1dWhVTDBZVTdqOUczaF9LNEtINVZLYXU0OFJLRi1hUWFfM2hldHRaVjM0OERJbHZDenpSTmhveDB5NzRqb1MzTG5kV0o1ZThVNy1GX0tXZG81cWhxLWo2ZTQ0bmJ2b3hnQ1Z4QUxtVGVqX0gxOGJkaWxJb2RiSThKeV9sR3JyY0p3MmNIN2lDR2hYaVdaTXJ0Zw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T19:46:00+07:00",
+"found": "2026-11-24T04:42:56+07:00"
+},
+{
 "id": "bd3418f9b823",
 "title": "Người đàn ông bị phát hiện trộm túi xách của phụ nữ đang ngủ ở Bệnh viện Bạch Mai",
 "link": "https://vietnamnet.vn/bi-phat-hien-khi-trom-tui-xach-cua-phu-nu-dang-ngu-o-benh-vien-bach-mai-2577942.html",
@@ -2652,6 +2663,17 @@
 "found": "2026-11-23T19:12:38+07:00"
 },
 {
+"id": "89c323fb7582",
+"title": "Trao 50 suất quà cho bệnh nhân có hoàn cảnh khó khăn tại “xóm chạy thận”",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORTNzWDJjUnhsYjJVUlBBQnZXOFV3OUhUalAyNHBRVUFyVm1ld1lPUHRhcWI2MVk3QUtPdzF4UlFRQXNmOEJuNUoyN1NuTE1zTHk2UExHbFBWN0ZwR0oyTG5mb0xwQ21lZzhlNVRtYlkyc2pReUJhc25XZ0dzSnJ5dnJRenlqckdOWGFabnEzaHgyYTBzTWlYdGNUZTAxY1lOSlhrQlNR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T18:52:00+07:00",
+"found": "2026-11-24T04:42:56+07:00"
+},
+{
 "id": "4a04ccd7841f",
 "title": "Ngăn xe hút hầm cầu xả bậy: TP.HCM đề xuất in rõ tên trên xe, có giấy xác nhận nơi xử lý",
 "link": "https://tuoitre.vn/ngan-xe-hut-ham-cau-xa-bay-tphcm-de-xuat-in-ro-ten-tren-xe-co-giay-xac-nhan-noi-xu-ly-100261123182057788.htm",
@@ -2738,6 +2760,17 @@
 "cat": "xh",
 "published": "2026-11-23T18:43:00+07:00",
 "found": "2026-11-23T20:28:07+07:00"
+},
+{
+"id": "0510db2c0bbb",
+"title": "Yếu tố nào quyết định hiệu quả ứng dụng AI trong doanh nghiệp? - Tạp chí Nhà Quản Trị - TheLEADER",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT0dhSGJnb3BJa1BhdnA1RktyMldwb1JMOVZ3V3hyUnFENEdDSDRfd1UxSEUtOGk4VUJiVVR1Z0wtVFVWemZ5YUNtRC1BeW45M2ROcHpVUHFXNDdwcWc4cEpxUHVzSE4tZWtBTUY0Vzk4MDJ5UXVDNW1xNzM4ZWpuV0tCc01SXzl0SHZJZnFMTkhCV3k1NnEtSmxn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T18:43:00+07:00",
+"found": "2026-11-24T04:42:56+07:00"
 },
 {
 "id": "404f13ba9780",
@@ -3058,6 +3091,17 @@
 "cat": "xh",
 "published": "2026-11-23T18:04:00+07:00",
 "found": "2026-11-23T19:12:38+07:00"
+},
+{
+"id": "f63c393bed51",
+"title": "Nhận diện chiêu mới tuồn hàng lậu dịp Tết",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ic1BvLVAwczVWM0JuSmp4YXRBUGMyTURsM0RoMmplSU45MExwU0RSZ2pxRkc4dGNiX19FQzBrOVZTYUQtSUh1dDVmZUxFcEdxLTNqMUM4STRYRVNFam9Heldhel9sYWZKdEsyb1lkZHNqdmpyOE5VVlBqeDE0NVk?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T18:01:00+07:00",
+"found": "2026-11-24T04:42:56+07:00"
 },
 {
 "id": "09ff2610c214",
@@ -3712,6 +3756,17 @@
 "cat": "xh",
 "published": "2026-11-23T17:12:00+07:00",
 "found": "2026-11-23T17:26:38+07:00"
+},
+{
+"id": "48f84e6aa49e",
+"title": "Trường Đại học Luật Thành phố Hồ Chí Minh công bố phương thức tuyển sinh năm 2027",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjFFUE5LdkJYUWo4MWV5YVVsMWRjZndnUE5CUlN6aGMxell1eWJyTGxzUm5DankzUkhzczgtSUhNVUlwZEhHSkVJRlpzaHVUZFUzNTBpS01jcHp3QjNJV0pvdC14QWcyN3dBWDdScHlmcmFJVnNGNXAxcDRxa3AxUnhJODVsNGFhaXRhT0taUUFXTjhVYk1GeUVsVW93UHNPVlFsenMxSmk3NDloaVlWUkltc1I?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T17:12:00+07:00",
+"found": "2026-11-24T04:42:56+07:00"
 },
 {
 "id": "68a9476740cd",
@@ -28069,64 +28124,6 @@
 "cat": "tc",
 "published": "2026-11-21T05:00:00+07:00",
 "found": "2026-11-21T05:13:21+07:00"
-},
-{
-"id": "77091ccb9b6b",
-"title": "Toyota giảm giá hàng loạt xe, cao nhất hơn 70 triệu đồng",
-"link": "https://vnexpress.net/toyota-giam-gia-hang-loat-xe-cao-nhat-hon-70-trieu-dong-5147079.html",
-"summary": "Vios, Veloz, Yaris Cross, Innova Cross và nhiều dòng xe khác của Toyota giảm giá bằng khuyến mãi lệ phí trước bạ, áp dụng trong tháng 11.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/yariscrossvnexpressjpg-1795161-2057-6347-1795162263.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2klLD5KBIbSE1IxCwrAspA",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-21T05:00:00+07:00",
-"found": "2026-11-21T10:44:13+07:00"
-},
-{
-"id": "18b09d70dbeb",
-"title": "nga",
-"link": "https://vnexpress.net/nga-tap-kich-lon-chua-tung-thay-nham-vao-loat-cau-o-kiev-5146964.html",
-"summary": "Nga tập kích 'lớn chưa từng thấy' nhằm vào loạt cầu ở Kiev (VnExpress)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1bmUDuzEaF28ZjG2swRuuZ252lkK74I4GfL1-TZN7jdlWVTZ3Itza60aEW0g",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T04:50:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-21T05:13:21+07:00"
-},
-{
-"id": "74920ee94a23",
-"title": "xauusd",
-"link": "https://www.litefinance.org/blog/analysts-opinions/gold-price-prediction-forecast/xauusd-elliott-wave-analysis-and-forecast-for-201126-271126/",
-"summary": "XAU/USD: Elliott Wave Analysis and Forecast for 20.11.26–27.11.26 (LiteFinance)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ7_tpEJOf_Fg9iim5C-KeDTpfkDjT4_PuVP0HUI6OMpV5j_AYNVO2a30fGXE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T04:50:00+07:00",
-"traffic": "500+",
-"found": "2026-11-21T05:13:21+07:00"
-},
-{
-"id": "0b767ffd0d52",
-"title": "thứ hạng của bayern gặp fc köln",
-"link": "https://www.bbc.co.uk/sport/football/live/cw99ex0kn0p4t",
-"summary": "Bayern Munich vs Köln LIVE: German Bundesliga stream, text, stats & head-to-head (BBC)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTU03_g4bDHF0qMwhFEno_91LMnpq3vKDTTH1Cqjrqnzizv85mfD2EnXu8w3eI",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T04:30:00+07:00",
-"traffic": "10000+",
-"found": "2026-11-21T04:47:52+07:00"
-},
-{
-"id": "965eb801bd4d",
-"title": "Đề xuất tốc độ tối đa 90 km/h với cao tốc 4 làn xe chưa có làn dừng khẩn cấp",
-"link": "https://vnexpress.net/de-xuat-toc-do-toi-da-90-km-h-voi-cao-toc-4-lan-xe-chua-co-lan-dung-khan-cap-5146183.html",
-"summary": "Trong dự thảo sửa đổi Thông tư 38/2024, Bộ Xây dựng đề xuất giới hạn tốc độ không quá 90 km/h đối với một số phương tiện chạy trên cao tốc 4 làn xe đầu tư phân kỳ.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/ct11-jpg-1795182564-9517-1795182708.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=8-mNFG3KbBdO0BdlfxHqyw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-21T04:00:00+07:00",
-"found": "2026-11-21T04:15:58+07:00"
 }
 ]
 }
