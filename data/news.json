@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T02:21:35+07:00",
-"new": 6,
+"updated": "2026-11-24T02:36:46+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,29 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "f6af3b10bf5e",
+"title": "Thêm 7 doanh nghiệp gia nhập Trung tâm Tài chính quốc tế TPHCM",
+"link": "https://vietnamnet.vn/them-7-doanh-nghiep-gia-nhap-trung-tam-tai-chinh-quoc-te-tphcm-2577829.html",
+"summary": "Trung tâm Tài chính quốc tế Việt Nam tại TPHCM vừa công bố thêm 7 thành viên, dự kiến huy động 5 tỷ USD giai đoạn 2027-2030, tập trung vào kết nối vốn, giao dịch hàng hóa và công nghệ tài chính.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/them-7-doanh-nghiep-gia-nhap-trung-tam-tai-chinh-quoc-te-tphcm-431.jpg?width=0&s=3dB2EaGyZrOeZGML4A_WNA",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-24T02:21:35+07:00",
+"found": "2026-11-24T02:36:46+07:00"
+},
+{
+"id": "46c8be1cc9f6",
+"title": "monza đấu với fiorentina",
+"link": "https://baonghean.vn/nhan-dinh-monza-vs-fiorentina-ca-hai-cung-khat-thang-10356480.html",
+"summary": "Nhận định Monza vs Fiorentina: Cả hai cùng khát thắng (Báo Nghệ An)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOiDivhVbn9QLfWi-tiulMu5F62sPAVec6jKL4DEMKWg9ulrjrJ-jYPFGdLxM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T02:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T02:36:46+07:00"
+},
+{
 "id": "43bc40982cd5",
 "title": "al ittihad đấu với pakhtakor",
 "link": "https://baonghean.vn/truc-tiep-al-ittihad-fc-vs-pakhtakor-al-ittihad-fc-mo-ty-so-10356476.html",
@@ -374,6 +397,18 @@
 "published": "2026-11-24T00:20:00+07:00",
 "traffic": "500+",
 "found": "2026-11-24T00:58:55+07:00"
+},
+{
+"id": "c4527bc5dba3",
+"title": "mali",
+"link": "https://www.24h.com.vn/bong-da/video-bong-da-u17-mali-u17-bi-u17-viet-nam-bat-loi-u17-world-cup-c48a1813589.html",
+"summary": "Video bóng đá U17 Mali - U17 Bỉ: Ngược dòng ấn tượng, tin vui cho U17 Việt Nam (U17 World Cup) (Tin tức 24h)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEBeCfc21gpn6-ducrkVq_weidA-a1QjUe4q9BVa79yuLuHMPKtjaDErMTIAM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T00:20:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-24T02:36:46+07:00"
 },
 {
 "id": "6f0ba0d8c3b3",
@@ -2630,6 +2665,17 @@
 "cat": "tc",
 "published": "2026-11-23T18:33:21+07:00",
 "found": "2026-11-23T18:39:26+07:00"
+},
+{
+"id": "1ddabd4a64b8",
+"title": "Cổ phiếu thép chưa được hưởng hơi nóng từ lợi nhuận",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQelRqN09WcVI5ZnNRWW1pUkFSOGRpVXFubktrTjlxd0xNNXd3bWpaU09EUExXTUlkX1NhRUk3bmhISGF6bHFWWE50dzFPbmNha1V3UHV6REM0NFZjb2o0SUtHdmpCZi1wd3VyekFyNW9fYTRBbzJ6ZWtJQ2tBVWxMQkJyOEVKc0xDckxiNg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T18:26:00+07:00",
+"found": "2026-11-24T02:36:46+07:00"
 },
 {
 "id": "e00ff103cb1e",
@@ -28090,53 +28136,6 @@
 "cat": "xh",
 "published": "2026-11-21T00:00:00+07:00",
 "found": "2026-11-21T01:16:17+07:00"
-},
-{
-"id": "3b116023ec0a",
-"title": "Xã Kiều Phú siết chặt kỷ cương, quyết liệt gỡ 'nút thắt' hồ sơ đất đai chậm muộn",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1MxQkpFTW1iLUxwR0pZWDJQdUN0ZVdwcEpaZHpfQ19QZG4zTWdpc0M1bnZXaXREVlJGeUs0ZTF3Z08weTh5TUoxd3FMQTZRMzNsYWdGLVVnNlFPMjZYXzZHcVFYY1JkbGN2eFdYZHZwTklVTlpmU05idFZlMlp4SEFNVEtfcC1SSTlsWXhLUlNNMVE1STBscEpqRUF4T19OX3I5WVVZVV8tVmc4dVlN?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T23:53:00+07:00",
-"found": "2026-11-21T09:28:51+07:00"
-},
-{
-"id": "3b4a23c4b7e4",
-"title": "al nassr",
-"link": "https://www.goal.com/en/news/al-ahli-star-recovers-before-the-clasico-after-a-month-and-a-half/bltd936345b93520ff3",
-"summary": "Al-Ahli star recovers from the Saudi national team curse before the Clasico after a month and a half (Goal.com)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeXB5sSqWUJ2aq0FS854WRPQPfCxFEJfHTNXF8TXvnEvC22GZmbvEosIWpeQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T23:50:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-20T06:40:21+07:00"
-},
-{
-"id": "99d3abfc09b1",
-"title": "al-ahli saudi đấu với al-nassr",
-"link": "https://bongdaplus.vn/bong-da-the-gioi/nhan-dinh-bong-da-al-ahli-vs-al-nassr-00h30-ngay-21-11-ronaldo-danh-sap-thanh-jeddah-5293512611.html",
-"summary": "Nhận định bóng đá Al Ahli vs Al Nassr, 00h30 ngày 21/11: Ronaldo đánh sập thành Jeddah? (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc35k4EkNems59pTfiCyNGTUDqHxHTcQAd9NZqR3EBx5FwwMLRaTHmKo4bJ3I",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T23:50:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-21T00:16:31+07:00"
-},
-{
-"id": "eafac295eb09",
-"title": "al nassr vs",
-"link": "https://www.bbc.com/sport/football/live/c6j9k2l339lzt",
-"summary": "Al Ahli vs Al Nassr: Saudi Pro League stats & head-to-head (BBC)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T23:50:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-21T02:43:17+07:00"
 }
 ]
 }
