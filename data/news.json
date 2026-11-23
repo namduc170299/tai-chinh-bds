@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T01:07:29+07:00",
-"new": 3,
+"updated": "2026-11-24T01:22:39+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 23
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -254,7 +254,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T00:40:00+07:00",
-"traffic": "5000+",
+"traffic": "10000+",
 "found": "2026-11-24T01:07:29+07:00"
 },
 {
@@ -516,7 +516,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T23:20:00+07:00",
-"traffic": "2000+",
+"traffic": "1000+",
 "found": "2026-11-24T00:58:55+07:00"
 },
 {
@@ -977,6 +977,17 @@
 "cat": "xh",
 "published": "2026-11-23T22:07:34+07:00",
 "found": "2026-11-23T22:25:52+07:00"
+},
+{
+"id": "efeec32f6acc",
+"title": "Hà Nội chốt hướng tuyến đại lộ cảnh quan Tả Hồng dài hơn 35km",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXQ0blFIak4wMGdzTkF1aW5rZ3ZTc3ZUQ2JnQThiZDVOdnRaQkNiaXB2azJNN3d4TXZDbEp5WFBiQm9sUlRKbDZ4Y1RhN1B1ZERaalNDNkJqWHV6d0xnTFFvSDgxckxPVmFNU2k4el9ZOVJ2Rm1Hb3VLU3hLN3k3ZHhrTmxkc05YNEpQTU5yd0hsZXlLWVJvUEpB?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T22:07:00+07:00",
+"found": "2026-11-24T01:22:39+07:00"
 },
 {
 "id": "04159044a533",
@@ -1554,6 +1565,17 @@
 "cat": "xh",
 "published": "2026-11-23T20:41:00+07:00",
 "found": "2026-11-23T21:02:13+07:00"
+},
+{
+"id": "4576ad1cae5c",
+"title": "Chênh lệch giá mua - bán vàng lên cao kỷ lục",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkhCdGV6R2tUT1ZUSDIyV25vdW9vb3BXNzJfbzZqazk2NXVuSF9QQjNGMEFVa1ZHb3g2UFgxY1pOQUpwZDRUOXJHc3dRRXJ2NHlyc0d5TkE3WFlWLVhpWGQtQUg0Rl8yeXpReGJpSllNNFRUdjllVWFFMUpVclVuag?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T20:40:56+07:00",
+"found": "2026-11-23T11:41:14+07:00"
 },
 {
 "id": "731e23a02f75",
@@ -3004,17 +3026,6 @@
 "cat": "tc",
 "published": "2026-11-23T17:37:00+07:00",
 "found": "2026-11-23T18:09:08+07:00"
-},
-{
-"id": "4576ad1cae5c",
-"title": "Chênh lệch giá mua - bán vàng lên cao kỷ lục",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkhCdGV6R2tUT1ZUSDIyV25vdW9vb3BXNzJfbzZqazk2NXVuSF9QQjNGMEFVa1ZHb3g2UFgxY1pOQUpwZDRUOXJHc3dRRXJ2NHlyc0d5TkE3WFlWLVhpWGQtQUg0Rl8yeXpReGJpSllNNFRUdjllVWFFMUpVclVuag?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:36:02+07:00",
-"found": "2026-11-23T11:41:14+07:00"
 },
 {
 "id": "1e1cb9e94dc5",
@@ -4521,6 +4532,17 @@
 "cat": "xh",
 "published": "2026-11-23T15:19:09+07:00",
 "found": "2026-11-23T15:41:10+07:00"
+},
+{
+"id": "b392178758a5",
+"title": "Đồng Tháp: Người dân mong sớm hoàn thành công trình ứng phó sạt lở",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdV80V0Y2SW9HUE1TSHRVSzFaRVV1MC1veEFvNFRIZ0llSXN1UG1ZenVTMk1VN1ZMZXRwYWIwZHNzclB6ZjMtS0RWbzJsYzZhRnVkMVE2bHAyVmRsRFVQNklaVDdBQm1sbnl0SVByNldVYksydDhoRzlqVktucWVQbTgwR1NiNEVYR3llaDJMWGZIczRKb2dnX3lFZ0dFaGM?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T15:18:32+07:00",
+"found": "2026-11-24T01:22:39+07:00"
 },
 {
 "id": "cba2665f5275",
@@ -8038,6 +8060,17 @@
 "cat": "tc",
 "published": "2026-11-23T09:24:00+07:00",
 "found": "2026-11-23T09:30:05+07:00"
+},
+{
+"id": "3d9c0f644211",
+"title": "Nhu cầu thuê giảm, chung cư giảm sức hút",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GbDJqWkZQQnZsVWwxX04yS2sxa1VLam9RX2FPR2VQVHMwTk9vTG1ZYW9ucFhQd2FEcUJpdmlIc2pSR09EVnpGN0NNOWlGYjNMaEFUNFB6X0tZa2YzQnpraFJwT3NjRFlqMnJ4b0NDVjFQWDRxb3QzWUNsWE0?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T09:22:00+07:00",
+"found": "2026-11-24T01:22:39+07:00"
 },
 {
 "id": "f3ce745dbbd8",
@@ -13434,6 +13467,17 @@
 "cat": "xh",
 "published": "2026-11-22T15:00:00+07:00",
 "found": "2026-11-22T16:09:34+07:00"
+},
+{
+"id": "d8ef2a50e7d8",
+"title": "Báo chí Thái Lan phẫn nộ vì đội nhà 'đá ai cũng thua', từ Việt Nam, Singapore đến cả... Campuchia",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1k1dmVWSGoxZ2JMRXFCOEpyaG5ncTVKS29hdTM4NFFoS2lHNXVOWktWc2VwTUh3UDlzOE5QTzdyT0Z6cF91aHZILUdDMkVUdTZkZnF3Y0d2TVNlaUdfTXphbzVqVm8tVHJfTlJYcmNXSUZYcVVZT0wyaXRpN1BSbjZpeF9mc2g2d3ZoeFdLSE02OHRRUlN2aVdFMDhNVTByNDZxVlc1b1c?oc=5",
+"summary": "Nguồn: tin.skydoor.net",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T15:00:00+07:00",
+"found": "2026-11-24T01:22:39+07:00"
 },
 {
 "id": "4a1db5b4729d",
@@ -28091,50 +28135,6 @@
 "cat": "xh",
 "published": "2026-11-20T22:35:25+07:00",
 "found": "2026-11-20T23:05:31+07:00"
-},
-{
-"id": "03336ea30aa6",
-"title": "Công an kịp thời ngăn người phụ nữ ôm con nhỏ lao vào ô tô trên quốc lộ",
-"link": "https://tuoitre.vn/cong-an-kip-thoi-ngan-nguoi-phu-nu-om-con-nho-lao-vao-o-to-tren-quoc-lo-10026112022181163.htm",
-"summary": "Phát hiện người phụ nữ bế con nhỏ định lao vào dòng xe trên quốc lộ 38, công an kịp thời ngăn chặn, chăm sóc và đưa hai mẹ con về với gia đình.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/photo-1795167008746-1795167686849588195938-17951876093201167496983-0-0-714-1142-crop-1795187730244963729727.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-20T22:35:00+07:00",
-"found": "2026-11-20T22:50:21+07:00"
-},
-{
-"id": "4adbf83ee345",
-"title": "Máy sưởi Fujihome: Khi thiết bị gia dụng hòa vào không gian sống hiện đại",
-"link": "https://vietnamnet.vn/may-suoi-fujihome-khi-thiet-bi-gia-dung-hoa-vao-khong-gian-song-hien-dai-2576974.html",
-"summary": "Từ thiết kế tinh tế, công nghệ sưởi tiên tiến đến các tính năng hỗ trợ an toàn và tiết kiệm điện, bộ sưu tập máy sưởi Fujihome 2026 hướng đến trải nghiệm làm ấm tiện nghi, phù hợp với nhiều không gian và phong cách sống.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/may-suoi-fujihome-khi-thiet-bi-gia-dung-hoa-vao-khong-gian-song-hien-dai-363.png?width=0&s=OIE5LJAqAFGCqcFb1zNwtQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-20T22:29:41+07:00",
-"found": "2026-11-20T09:23:42+07:00"
-},
-{
-"id": "21a3923e4b0f",
-"title": "Tạm giữ xe máy của thiếu niên chở 3 người, dùng chân cầm lái ở Mũi Né",
-"link": "https://dantri.com.vn/phap-luat/tam-giu-xe-may-cua-thieu-nien-cho-3-nguoi-dung-chan-cam-lai-o-mui-ne-20261120214503283.htm",
-"summary": "(Dân trí) - Lực lượng chức năng đã tạm giữ chiếc xe máy liên quan vụ việc xảy ra tại phường Mũi Né, đồng thời yêu cầu thiếu niên có mặt để làm rõ hành vi chở 3 người và dùng chân cầm lái.",
-"image": "https://cdnphoto.dantri.com.vn/pj6ZsVPtoxxDvbIwZDdg0EPKArc=/2026/11/20/xemay-edited-1795185761774.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-20T22:28:04+07:00",
-"found": "2026-11-20T23:05:31+07:00"
-},
-{
-"id": "3d25b50abda7",
-"title": "Thanh tra công khai hàng loạt vi phạm tại Tập đoàn Than - Khoáng sản Việt Nam",
-"link": "https://vietnamnet.vn/thanh-tra-cong-khai-hang-loat-vi-pham-tai-tap-doan-than-2577198.html",
-"summary": "Thanh tra Chính phủ công khai hàng loạt vi phạm trong công tác quản lý vốn, tài sản nhà nước tại Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV).",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/thanh-tra-cong-khai-hang-loat-vi-pham-tai-tap-doan-than-khoang-san-viet-nam-2991.jpg?width=0&s=-5eFZeuUSo55Hg8cxxCuCw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-20T22:22:11+07:00",
-"found": "2026-11-20T22:14:37+07:00"
 }
 ]
 }
