@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T00:27:58+07:00",
-"new": 4,
+"updated": "2026-11-24T00:43:24+07:00",
+"new": 14,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,76 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "3a70ee65d3a9",
+"title": "SCB có Chủ tịch Hội đồng quản trị mới",
+"link": "https://vietnamnet.vn/scb-co-chu-tich-hoi-dong-quan-tri-moi-2578018.html",
+"summary": "Ngân hàng TMCP Sài Gòn (SCB) vừa có Chủ tịch Hội đồng quản trị mới sau khi ông Phan Đình Điền được điều động về nhận nhiệm vụ mới tại Agribank.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/scb-co-chu-tich-hoi-dong-quan-tri-moi-263.jpg?width=0&s=K5BhAezrY05QKRosFHFzNQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-24T00:42:45+07:00",
+"found": "2026-11-24T00:43:24+07:00"
+},
+{
+"id": "5584d8e678c6",
+"title": "Ngân hàng SCB có tân chủ tịch",
+"link": "https://dantri.com.vn/kinh-doanh/ngan-hang-scb-co-tan-chu-tich-20261123234604721.htm",
+"summary": "(Dân trí) - Ông Phạm Quang Tiến, Tổng giám đốc SCB vừa được bổ nhiệm giữ chức Chủ tịch Hội đồng quản trị ngân hàng.",
+"image": "https://cdnphoto.dantri.com.vn/mpG-U5aAMQHnYi52rM19Dnnr0Lo=/2026/11/23/scb-quyet-dinh-hdqt20261123161222-cropped-1795452235183.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-24T00:21:11+07:00",
+"found": "2026-11-24T00:43:24+07:00"
+},
+{
+"id": "4c69ff3570a0",
+"title": "24h",
+"link": "https://vnexpress.net/tp-hcm-dat-muc-tieu-vao-nhom-100-thanh-pho-dang-song-tren-the-gioi-5147930.html",
+"summary": "TP HCM đặt mục tiêu vào nhóm 100 thành phố đáng sống trên thế giới (VnExpress)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ57KPqYi126elwf5DNZEEySMdjRidLg5aQqNwqsFgz1-yNl6dcJWyBr4CJtDg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T00:20:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-24T00:43:24+07:00"
+},
+{
+"id": "feab71dce628",
+"title": "bảng xếp hạng u17 world cup",
+"link": "https://znews.vn/toi-do-cua-u17-nhat-ban-post1698090.html",
+"summary": "Tội đồ của U17 Nhật Bản (Znews)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtY7LY5rwEXtm9pLqCKO1RQNGP6avQ56edDzy5csC-TkNnxIZ_Cr4Hh8Pqaig",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T00:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-24T00:43:24+07:00"
+},
+{
+"id": "8df6c66e7371",
+"title": "24",
+"link": "https://laodong.vn/moi-truong/du-bao-cac-tinh-thanh-sap-mua-to-do-khong-khi-lanh-co-noi-tren-250mm-1805042.ldo",
+"summary": "Dự báo các tỉnh thành sắp mưa to do không khí lạnh, có nơi trên 250mm (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiC5WD71FioSUpdkpD6QyHX5TjAFmPqfeYZ3YDRxcyPT1ziKigIGhIC2Y3D9Q",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T00:20:00+07:00",
+"traffic": "10000+",
+"found": "2026-11-24T00:43:24+07:00"
+},
+{
+"id": "f6519de3fb83",
+"title": "kết quả bóng đá việt nam",
+"link": "https://thethao247.vn/406-trong-tai-gay-tranh-cai-cuc-lon-khi-tuoc-qua-penalty-cua-u17-viet-nam-c1-d446962.html",
+"summary": "Trọng tài gây tranh cãi cực lớn khi tước quả penalty của U17 Việt Nam (Thể Thao 247)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUE-ub7IbI9Zq73CwHDmO3j5roKxSQZ5Mw_uxY4t2zSKRKm6_S-9GOJmCfdVQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T00:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T00:43:24+07:00"
+},
+{
 "id": "6f0ba0d8c3b3",
 "title": "vn",
 "link": "https://cafef.vn/viet-nam-sap-xay-sieu-do-thi-du-lich-ven-bien-rong-5000ha-tai-dia-phuong-phia-nam-tua-nui-phia-tay-giap-song-tong-von-dau-tu-len-toi-468000-ty-dong-188261123163112173.chn",
@@ -221,7 +291,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T00:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T00:27:58+07:00"
 },
 {
@@ -233,7 +303,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T00:10:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-24T00:27:58+07:00"
 },
 {
@@ -325,6 +395,39 @@
 "found": "2026-11-24T00:12:29+07:00"
 },
 {
+"id": "665678b4ab73",
+"title": "Tòa bác đơn kiện Bệnh viện Phụ sản Hà Nội của sản phụ mất hai con",
+"link": "https://vnexpress.net/toa-bac-don-kien-benh-vien-phu-san-ha-noi-cua-san-phu-mat-hai-con-5147837.html",
+"summary": "Viện dẫn kết luận của hội đồng chuyên môn, TAND khu vực 2 xác định Bệnh viện Phụ sản Hà Nội không có vi phạm trong quá trình chăm sóc, điều trị nên bác yêu cầu khởi kiện của sản phụ.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/1-jpeg-1795425183-3462-1795428039.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pL_W0S_bRiR7ZDlPfGUH9g",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T00:00:00+07:00",
+"found": "2026-11-24T00:43:24+07:00"
+},
+{
+"id": "7debc5ef0f69",
+"title": "Công an làm việc với 6 người vụ đuổi chém người tại cây xăng",
+"link": "https://tuoitre.vn/cong-an-lam-viec-voi-6-nguoi-vu-duoi-chem-nguoi-tai-cay-xang-100261123233224493.htm",
+"summary": "Công an TP.HCM đã làm việc với 6 thiếu niên liên quan vụ nhóm người cầm dao tự chế xông vào cây xăng trên đường Dương Quảng Hàm, phường Hạnh Thông, đuổi chém người đi đường rạng sáng 22-11.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/edit-1000060337-1795452749544904132247-0-0-1250-2000-crop-17954527576021405037131.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T23:58:00+07:00",
+"found": "2026-11-24T00:43:24+07:00"
+},
+{
+"id": "73007d37e0d7",
+"title": "Giá vàng tăng mạnh sau tin ông Jensen Huang được phục chức CEO",
+"link": "https://tuoitre.vn/gia-vang-tang-manh-sau-tin-ong-jensen-huang-duoc-phuc-chuc-ceo-100261123235142086.htm",
+"summary": "Giá vàng thế giới đã tăng đến 135 USD/ounce, lên mức 3.675 USD/ounce sau tin ông Jensen Huang được phục chức CEO tối nay 23-11.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/nph-8202-1-2-17954516749572057136613-0-0-1250-2000-crop-17954516796232085387158.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-23T23:57:00+07:00",
+"found": "2026-11-24T00:43:24+07:00"
+},
+{
 "id": "ff6323c3a21d",
 "title": "Bắt giữ 6 thiếu niên cầm dao chém người tại cây xăng ở TPHCM",
 "link": "https://dantri.com.vn/phap-luat/bat-giu-6-thieu-nien-cam-dao-chem-nguoi-tai-cay-xang-o-tphcm-20261123234218401.htm",
@@ -346,6 +449,17 @@
 "published": "2026-11-23T23:40:00+07:00",
 "traffic": "1000+",
 "found": "2026-11-23T23:58:40+07:00"
+},
+{
+"id": "8b254673e695",
+"title": "Quỹ ngoại từng là cổ đông lớn tại PNJ đóng cửa hoạt động sau 33 năm, phân phối lại tài sản cho khách hàng vào cuối tháng 12",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRjdjb2hfeEQ2TklEelcwOFJNQ2pvRXIxRS1PUGhlTUZEVUpvXy1iWmswOHM2XzY1Y0NXbnpqd29lWkhTaTVYMkhVUEFHYkxzU0luV2phMHJmV1dCZDZEZlh6YTgxM1lXZ2tmRUlYRlpBU3F0THJjNjlERDRnU2pJcGlhSnc4WEFrb2xUdktHNE1EYlVrR3NrdWVBc1lkSlhHU3VPZTR5bkxSdmhUTHJlTVEtbzV6Ul9KWFUxdFZwUVRuTzU0aU9PbmtwS1QxcXFRcTVwZTJxRnZoU2pPQXFWS0V3VFhMN18wc0RJ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T23:25:00+07:00",
+"found": "2026-11-24T00:43:24+07:00"
 },
 {
 "id": "e831ca4a9f4a",
@@ -1606,6 +1720,17 @@
 "found": "2026-11-23T21:02:13+07:00"
 },
 {
+"id": "4335b755bcec",
+"title": "Luật Đất đai sửa đổi: Bước tiến mới trong bảo đảm quyền lợi người dân",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVFUTHpZRno0Q3dLbTFScld2OEhETWpwcUtrRjVMTXhjYkVDcnZ4NWZhbXFSNzNVVjFIRlNLb3VtTl9oVXdsOVJwN1V3eVV0dS1ESlExekdRZkxTRWlHM2NtdFJFS0pnbHRFX2k4cndDdHpmbXppR09ud0c1dzNjYm4yY1FwQUtwWW8tclhXVGZHbnBjM195RHRjOVVWRnJyY25R?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T20:00:00+07:00",
+"found": "2026-11-24T00:43:24+07:00"
+},
+{
 "id": "dafc4e4a71f8",
 "title": "Đồng loạt kiểm tra 3 quán karaoke Sunny Royal, Bảo Nhi, Thái Dương: Công an mời toàn bộ chủ cơ sở, quản lý, nhân viên và khách về trụ sở",
 "link": "https://kenh14.vn/dong-loat-kiem-tra-3-quan-karaoke-sunny-royal-bao-nhi-thai-duong-cong-an-moi-toan-bo-chu-co-so-quan-ly-nhan-vien-va-khach-ve-tru-so-215261123194745932.chn",
@@ -2058,6 +2183,17 @@
 "cat": "xh",
 "published": "2026-11-23T19:01:00+07:00",
 "found": "2026-11-23T19:42:34+07:00"
+},
+{
+"id": "0d7b5088a43e",
+"title": "Hà Nội kết nối, xúc tiến tiêu thụ nông sản năm 2026",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM2w2d3ZHMTc2YlgxRS1mOUNMTllQbXI1Q00wZ1dXUzQzenVpeEVsQUVGbHBYM01jdFhpc25oaHhOQjJwQV8yd1oxbk1FYUFiSXl6MHJJSVNEbWIzMVBQRXhiM2E5aExKZ1NKanRrOUFYdlFFOUVyanZWck9GWG9iZ01lcElSeG43T1Z3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T19:01:00+07:00",
+"found": "2026-11-24T00:43:24+07:00"
 },
 {
 "id": "b8bab4a86fa1",
@@ -2767,6 +2903,17 @@
 "found": "2026-11-23T18:09:08+07:00"
 },
 {
+"id": "068571919312",
+"title": "Giá cà phê hôm nay 23/11: Giá giảm sâu, nguồn cung vụ mới gây sức ép lên thị trường",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmQwMFRBdW1IZl9kaF9fbTc3ZjVOQWQ3YlVua2FWMXRWX0s2ZVdUN3JLVmZSU3REZmJjb21iZ1hjTW5jbERVUGJWVGhzX2VEWWpXd1B5OEx3X19JcGt6MHVNZGFYTHdKc0xxanFmVlg2c1B2aG5rU1NEazhmVVF5NkFSb0NwZGdla01xTWpuN0tnaGNtTVRNT3FaeFhNWU9EbnExLUlWaWc4a2F3Z0pzZWZXUzg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T17:39:00+07:00",
+"found": "2026-11-24T00:43:24+07:00"
+},
+{
 "id": "e454f90f2cd6",
 "title": "Công ty hàng không 6.000 tỷ của FLC liên tục thay tên, đổi trụ sở",
 "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdFZmcDV0aGs0UjcwWUlITkRiNi14YXBtNlBvYXhjckRfYi1zZ1Zxc19iY3dYNU1ndmVZa252cWZQYkVZcXhkQVpvc2hMeWpiNlRZZ0ktRW9YMXRUSUxIbHBHSEN2enNqZnBGTGduMnp2dE5PelBlbGoySjNubUVEcHprZUh3Y3pYc2tyT1VqU2xjT1ZwaWxqY3ZOWGU2UQ?oc=5",
@@ -3054,6 +3201,17 @@
 "published": "2026-11-23T17:20:00+07:00",
 "traffic": "200+",
 "found": "2026-11-23T17:43:01+07:00"
+},
+{
+"id": "52678454b9b1",
+"title": "Luật Đất đai 2026: Đất nào được cấp sổ đỏ, quyền lợi người bị thu hồi đất gồm những gì?",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWV0OGZIa2FCLVk5eDRqZjMzR1dkZ3R3MmMxSDI5ckNsX3dIWnVIZGhab2trMUJveFZUUTRxd21teE5qN3ktdjRqZllBNUR6aWowUC1Kd3h0RmVqd09ZMGZTQXBseGdscnU1N211Z0FvaTRHUXV3azhRT3huSlUxOFVySUVjLTFXNjdjOVpLX3RhcXZ3Q2pVaUNDZTFhNTNLZ0Y1cENyeUlkZlBFSDFLUTVNYXVqUzBY?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T17:19:00+07:00",
+"found": "2026-11-24T00:43:24+07:00"
 },
 {
 "id": "a72c13330f19",
@@ -27955,18 +28113,6 @@
 "found": "2026-11-21T00:16:31+07:00"
 },
 {
-"id": "93261c7c24d0",
-"title": "24h",
-"link": "https://www.24h.com.vn/tin-tuc-trong-ngay/chot-hoan-tat-ket-qua-kiem-tra-15-thua-dat-cua-nguoi-co-nghe-danh-ly-nha-ky-c46a1812771.html",
-"summary": "'Chốt' hoàn tất kết quả kiểm tra 15 thửa đất của người có nghệ danh Lý Nhã Kỳ (Tin tức 24h)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxgoxAFN-p91xCq2PigIE3tJXvvNGw7v7pu0YNYXFFWHLp0iaUTbkBpT2oHw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T22:00:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-20T22:30:11+07:00"
-},
-{
 "id": "73207821809d",
 "title": "vietnam vs belgium",
 "link": "https://vietnamnet.vn/en/vietnam-u17-coach-urges-confidence-ahead-of-belgium-world-cup-clash-2576955.html",
@@ -27988,150 +28134,6 @@
 "cat": "bds",
 "published": "2026-11-20T22:00:00+07:00",
 "found": "2026-11-20T22:50:21+07:00"
-},
-{
-"id": "70071c445105",
-"title": "Video khoảnh khắc xe tải nổ lốp khiến ô tô bên cạnh móp cửa, bung túi khí",
-"link": "https://kenh14.vn/video-khoanh-khac-xe-tai-no-lop-khien-o-to-ben-canh-mop-cua-bung-tui-khi-215261120211425953.chn",
-"summary": "Xe tải bất ngờ nổ lốp khi đi trên cầu vượt Khả Lễ (Bắc Ninh), khiến ô tô con bên cạnh móp cửa, nhiều túi khí bung ra, may mắn không có thiệt hại về người.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795183731145-17951837313951745097581.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T21:57:00+07:00",
-"found": "2026-11-20T22:14:37+07:00"
-},
-{
-"id": "c8e28560b67f",
-"title": "Vì sao giá vàng lao dốc, giảm mạnh nhất 32 tuần?",
-"link": "https://cafef.vn/vi-sao-gia-vang-lao-doc-giam-manh-nhat-32-tuan-188261120212416431.chn",
-"summary": "Giá vàng giao ngay hiện dao động ở vùng thấp nhất kể từ tháng 9/2025.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/17951845667881690932382-0-0-414-662-crop-17951845781621791455920.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-20T21:55:00+07:00",
-"found": "2026-11-20T21:59:08+07:00"
-},
-{
-"id": "aa88b9fcd69e",
-"title": "Kinh tế Úc có nguy cơ 'một chân bước vào suy thoái' khi tỷ lệ thất nghiệp tăng vọt lên đỉnh 5 năm",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRTRuZ2R5RGlFenNHUkJHbDlVaUd3UHpqUVJJNjFqMEFycmVTRVJwMVA5djNxX2Z5RDlWbmdhSUsyZmM4UzJXU1g2V1JuMVV4SDBJb1JUaVhZWEpLUDdPR0ZLSFJHcmtOWURxMXoxZTVnSzN6dnpPUFhtb1BVNkJEOTktVVlPZ2Q2RWpwWlU3R3BBa3N0N01HcnhMSEtCS2xKdWJlNHpIZllPNHF2VVVKaUgwMTc1b0FTM1NIVy1zM21taEs5aC1V?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T21:55:00+07:00",
-"found": "2026-11-20T21:59:08+07:00"
-},
-{
-"id": "5da474fa4f4d",
-"title": "kết quả bóng đá việt nam",
-"link": "https://tienphong.vn/tuyen-viet-nam-mat-chuc-vo-dich-casper-cup-trong-2-phut-post1895319.tpo",
-"summary": "Tuyển Việt Nam mất chức vô địch Casper Cup trong 2 phút (Báo Tiền Phong)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxG8SBDSQnTslPEwPur_e9HUoDmGFTuU2GjuXCHPC1emg9oiZFTQFE_i3s2bU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T21:50:00+07:00",
-"traffic": "100+",
-"found": "2026-11-20T22:14:37+07:00"
-},
-{
-"id": "d3d71ca12b63",
-"title": "Bỏ thủ tục kiểm tra nghiệm thu phòng cháy, chữa cháy, siết trách nhiệm chủ đầu tư",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnA4ZkRaR19RTVVPZ3Q0QjJGYmFzNnRyU1JIY3VqbU5GRnFhSEd0MTJpOTIzRWlkRm9aR2FNcTV1U0NhVFI3U2ZOb2lUTzlYbldIUmdobG1ONnEzMkpDempHZHU2ZjBSMk41eUlvLS1hVk9PZ1BBS3U0LVpXYXl5VlJTTkI3U1VzOUtJeGRlY1BQZDlUSkdvSUtYMEZnMk81MXhQaE44UkVuYkJQek9jcHVR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T21:48:00+07:00",
-"found": "2026-11-21T08:01:50+07:00"
-},
-{
-"id": "d4893d844427",
-"title": "Điểm tin kinh tế thế giới nổi bật ngày 20/11/2026",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQazRjN3UyWE8tWlBYdUJYM2ZfaF9HTUZPTkZMdGhmUUZsWS13d3QwUW9sSnBJLWx2c2lJNUpJSGh4UXgzVWlnem5RbGZqZGRNM2lKYjZFR2w2NFFuRGtuVFhFS1ZzcjZyd3A0aHlmTFNFTE9RRGl2emdsLUtLQV95ckNZdTQxTDZfVkE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T21:47:00+07:00",
-"found": "2026-11-21T20:32:14+07:00"
-},
-{
-"id": "f2bab4e3d489",
-"title": "Ngân hàng rao bán nợ \"khủng\" liên quan ông Lê Hải Trà, Hà Văn Thắm",
-"link": "https://kenh14.vn/ngan-hang-rao-ban-no-khung-lien-quan-ong-le-hai-tra-ha-van-tham-215261120203418108.chn",
-"summary": "Những khoản nợ gắn với tên tuổi các cựu lãnh đạo từng bị xử lý hình sự đang xuất hiện trong danh sách tài sản ngân hàng đưa ra đấu giá. Có khoản nợ gần 1.000 tỷ đồng phát sinh từ thời OceanBank dưới thời ông Hà Văn Thắm, cùng hai khoản vay hơn 25 tỷ đồng liên quan cựu Tổng Giám…",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795181515543-1795181516061340109944.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T21:46:00+07:00",
-"found": "2026-11-20T21:59:08+07:00"
-},
-{
-"id": "737993e46854",
-"title": "Chính thức: Hộ kinh doanh doanh thu đến 10 tỉ đồng/năm được chọn tính thuế theo tỉ lệ",
-"link": "https://tuoitre.vn/chinh-thuc-ho-kinh-doanh-doanh-thu-den-10-ti-dong-nam-duoc-chon-tinh-thue-theo-ti-le-100261120212627122.htm",
-"summary": "Quốc hội chính thức thông qua quy định nâng ngưỡng doanh thu được lựa chọn phương pháp tính thuế từ 3 tỉ lên 10 tỉ đồng/năm.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/ho-kinh-doanh-thue-2-1-17791542057752067370537-1793408277640487724457-107-0-1707-2560-crop-17951845000142059876194.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-20T21:46:00+07:00",
-"found": "2026-11-20T22:45:33+07:00"
-},
-{
-"id": "366fd21a5724",
-"title": "Tài sản loạt nhà băng vượt 1 triệu tỷ, chuẩn ngân hàng lớn sắp tăng?",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWxOc3hsNlQ3QXBmZUZKemJkNi1abmNPRnNnaWtLa2pMa2prMDRsOGtGOFctcUlhTFRjaGprVUFYMlNoVXhqS0RuanFHTDBNSm9FaGFENTU5TndWLVdwOG5objlYOTdSQ25XcTlYc0NXMTdJZC0zU0lqdmFYUjFEb2FGYmVmNkE1dG5GU3ZRLWVvR0MtSDlRY3BGRzBXSUNv?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T21:44:53+07:00",
-"found": "2026-11-20T18:34:26+07:00"
-},
-{
-"id": "c186dc6fe8c1",
-"title": "Xe tải chở lợn bị lật trên Quốc lộ 14 khiến 3 người thương vong",
-"link": "https://kenh14.vn/xe-tai-cho-lon-bi-lat-tren-quoc-lo-14-khien-3-nguoi-thuong-vong-215261120211605272.chn",
-"summary": "Xe tải chở lợn chạy trên Quốc lộ 14 bị lật nghiêng khiến một người chết, hai người bị thương.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795184145881-17951841464361187713198.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T21:42:00+07:00",
-"found": "2026-11-20T21:59:08+07:00"
-},
-{
-"id": "e69b28076fb0",
-"title": "Ông Trần Bá Dương thôi chức chủ tịch công ty nông nghiệp",
-"link": "https://vnexpress.net/ong-tran-ba-duong-thoi-chuc-chu-tich-cong-ty-nong-nghiep-5147247.html",
-"summary": "Ông Trần Bá Dương, người đứng đầu Tập đoàn Trường Hải (Thaco), vừa thôi kiêm nhiệm chức Chủ tịch HĐQT Công ty Nông nghiệp Trường Hải (Thaco Agri).",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/thacotranbaduong-1795184806-1334-1795184872.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iaMPoGi6Vs0Fjyfd8gi13A",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-20T21:35:54+07:00",
-"found": "2026-11-20T21:59:08+07:00"
-},
-{
-"id": "96e78adc8a8a",
-"title": "Ra lệnh khám xét, bắt giam 2 cha con Lý Văn Linh liên quan đến 39 cây vàng, 16.000 đô la Mỹ,...",
-"link": "https://kenh14.vn/ra-lenh-kham-xet-bat-giam-2-cha-con-ly-van-linh-lien-quan-den-39-cay-vang-16000-do-la-my-215261120212232826.chn",
-"summary": "Người đàn ông 42 tuổi rủ con trai 19 tuổi cùng hai người khác đột nhập nhà dân ở Cà Mau, lấy trộm két sắt.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795184516723-17951845171371621088262.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T21:33:00+07:00",
-"found": "2026-11-20T21:51:39+07:00"
-},
-{
-"id": "707feabb64cf",
-"title": "Giá vàng hôm nay 20/11: Lao dốc xuống sát 3.690 USD/ounce, thấp nhất 14 tháng",
-"link": "https://vietnamnet.vn/gia-vang-hom-nay-20-11-lao-doc-xuong-sat-3-690-usd-ounce-thap-nhat-14-thang-2576914.html",
-"summary": "Giá vàng thế giới lại giảm sâu trong bối cảnh nhà đầu tư đánh giá các dữ liệu kinh tế Mỹ và triển vọng chính sách tiền tệ của Fed. Trong nước, giá vàng miếng SJC giảm về mức 133,2-136,2 triệu đồng/lượng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/19/ounce-thap-nhat-14-thang-3159.jpg?width=0&s=EgzVWYKDPwhCaHilsais-Q",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-20T21:32:38+07:00",
-"found": "2026-11-20T05:04:17+07:00"
 }
 ]
 }
