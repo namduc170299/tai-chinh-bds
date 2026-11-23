@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T00:43:24+07:00",
-"new": 14,
+"updated": "2026-11-24T00:58:55+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 23
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,17 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "3996770ff388",
+"title": "Giá vàng hôm nay 24/11: Bật tăng dữ dội hơn 100 USD/ounce",
+"link": "https://vietnamnet.vn/gia-vang-hom-nay-24-11-bat-tang-du-doi-hon-100-usd-ounce-2577974.html",
+"summary": "Giá vàng thế giới tiếp tục tăng mạnh trong phiên giao dịch đêm 23/11, rạng sáng 24/11. Chỉ sau một ngày, giá vàng tăng gần 120 USD/ounce, tương đương 3,38%, có thời điểm vọt lên 3.690 USD/ounce.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/ounce-266.jpg?width=0&s=H6AjbSLna9UTnXX-svccOA",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-24T00:46:10+07:00",
+"found": "2026-11-24T00:58:55+07:00"
+},
 {
 "id": "3a70ee65d3a9",
 "title": "SCB có Chủ tịch Hội đồng quản trị mới",
@@ -279,8 +290,20 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T00:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-24T00:43:24+07:00"
+},
+{
+"id": "092d3f67833f",
+"title": "bxh u17",
+"link": "https://znews.vn/toi-do-cua-u17-nhat-ban-post1698090.html",
+"summary": "Tội đồ của U17 Nhật Bản (Znews)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtY7LY5rwEXtm9pLqCKO1RQNGP6avQ56edDzy5csC-TkNnxIZ_Cr4Hh8Pqaig",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T00:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-24T00:58:55+07:00"
 },
 {
 "id": "6f0ba0d8c3b3",
@@ -303,7 +326,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T00:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T00:27:58+07:00"
 },
 {
@@ -460,6 +483,18 @@
 "cat": "tc",
 "published": "2026-11-23T23:25:00+07:00",
 "found": "2026-11-24T00:43:24+07:00"
+},
+{
+"id": "55b141b5bbfa",
+"title": "u17 bỉ",
+"link": "https://www.24h.com.vn/bong-da/video-bong-da-u17-mali-u17-bi-u17-viet-nam-bat-loi-u17-world-cup-c48a1813589.html",
+"summary": "Video bóng đá U17 Mali - U17 Bỉ: U17 Việt Nam bất lợi (U17 World Cup) (Tin tức 24h)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEBeCfc21gpn6-ducrkVq_weidA-a1QjUe4q9BVa79yuLuHMPKtjaDErMTIAM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T23:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-24T00:58:55+07:00"
 },
 {
 "id": "e831ca4a9f4a",
@@ -669,6 +704,18 @@
 "published": "2026-11-23T22:30:00+07:00",
 "traffic": "100+",
 "found": "2026-11-24T00:12:29+07:00"
+},
+{
+"id": "5ffa092fdeef",
+"title": "lịch đá bóng hôm nay",
+"link": "https://vietnamnet.vn/lich-thi-dau-bong-da-moi-nhat-hom-nay-ngay-23-11-2026-2577577.html",
+"summary": "Lịch thi đấu bóng đá mới nhất hôm nay ngày 23/11/2026 (Báo VietNamNet)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxqex6Sh2M2aWJMJkQRr-GDH_4JWb5l0ZaENd3Ld55pMNg_whC16WmVxAuM1U",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T22:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T00:58:55+07:00"
 },
 {
 "id": "d5def19bf3b7",
@@ -4585,6 +4632,17 @@
 "cat": "xh",
 "published": "2026-11-23T14:59:00+07:00",
 "found": "2026-11-23T15:41:10+07:00"
+},
+{
+"id": "c6febc860731",
+"title": "Trưởng Ban Nội chính Trung ương Lê Minh Trí tiếp xúc cử tri tại Đồng Nai",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV3R1V1dtM1h4Y2VHblc2bThwUXl0emdURlJuMUFyd1FQV0RfN3RNTGFtSkExdzUtNXdWQjI5TjFVczlLVE9CQzA4UG5aUmFBbU1MQ2kwZVYxalBjX0cwM2FfS29TXzJTa0pxLTAyX1JSVHJFazI2VUt5d0Z6RFZlSFZVQmpfWTVYeXhIRHozVzlsbXdOQmp6Sk1VY3AtZzd0dFhmcUpIVVo?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T14:58:00+07:00",
+"found": "2026-11-24T00:58:55+07:00"
 },
 {
 "id": "4dacbf525cab",
@@ -28076,64 +28134,6 @@
 "cat": "xh",
 "published": "2026-11-20T22:20:00+07:00",
 "found": "2026-11-20T22:30:11+07:00"
-},
-{
-"id": "bd01d168969a",
-"title": "cúp mls",
-"link": "https://www.vietnam.vn/suarez-tiet-lo-messi-con-lau-moi-giai-nghe-khat-khao-vo-dich-mls-cup",
-"summary": "Suarez tiết lộ Messi còn lâu mới giải nghệ, khát khao vô địch MLS Cup (Vietnam.vn)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWUQS6oq1BR-y2xsyJahCNnbUnLD-ETGYPNoCXaTFrdZBLsetJ5SMz_MlXxL4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T22:20:00+07:00",
-"traffic": "200+",
-"found": "2026-11-20T22:45:33+07:00"
-},
-{
-"id": "d0cfa61f3c9f",
-"title": "Vụ nổ súng ở Công ty lâm nghiệp La Ngà: Nhân viên ngăn chặn thì bị dọa bắn",
-"link": "https://thanhnien.vn/vu-no-sung-o-cong-ty-lam-nghiep-la-nga-nhan-vien-ngan-chan-thi-bi-doa-ban-185261120210919547.htm",
-"summary": "Nghi can mang súng vào trụ sở Công ty TNHH MTV lâm nghiệp La Ngà, bị nhân viên phát hiện thì dọa bắn rồi chạy lên lầu. Sau khi tiếng súng nổ, Giám đốc Nguyễn Mạnh Cường được phát hiện bị bắn gục trên ghế.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/cong-ty-lam-nghiep-la-nga-17949916177811217044484-91-0-1691-2560-crop-1795184776311786774999.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-20T22:13:00+07:00",
-"found": "2026-11-20T22:14:37+07:00"
-},
-{
-"id": "4f0f84ba2c32",
-"title": "24h bóng đá",
-"link": "https://vnexpress.net/pochettino-va-giac-mo-man-utd-tu-dem-chung-ket-nam-1999-5146796.html",
-"summary": "Pochettino và giấc mơ Man Utd từ đêm chung kết năm 1999 (VnExpress)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvtFu5lZPqB4UgxeT3SipiGwt76rbEHXBBX97bL_49RuKXQwmhtO7MhHhA7Zk",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T22:10:00+07:00",
-"traffic": "100+",
-"found": "2026-11-21T00:16:31+07:00"
-},
-{
-"id": "73207821809d",
-"title": "vietnam vs belgium",
-"link": "https://vietnamnet.vn/en/vietnam-u17-coach-urges-confidence-ahead-of-belgium-world-cup-clash-2576955.html",
-"summary": "Vietnam U17 coach urges confidence ahead of Belgium World Cup clash (Báo VietNamNet)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTD_ZUxFp6Tk9j7xk8wbvDg0zT2iCb-sFbHVu1Sal7IWmsO3YUNo2i4wPOrPZ4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T22:00:00+07:00",
-"traffic": "200+",
-"found": "2026-11-20T22:30:11+07:00"
-},
-{
-"id": "2c4ea2ec7979",
-"title": "Quảng Ngãi đề xuất chuyển hơn 125 ha rừng làm khu đô thị ở Măng Đen",
-"link": "https://vnexpress.net/quang-ngai-de-xuat-chuyen-hon-125-ha-rung-lam-khu-do-thi-o-mang-den-5147077.html",
-"summary": "Quảng Ngãi đề xuất chuyển mục đích sử dụng hơn 125 ha rừng trồng sản xuất để triển khai khu đô thị tại Măng Đen, với tổng vốn đầu tư gần 9.600 tỷ đồng.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/20/79FC2BDC-2A56-4A2A-96D6-DF9064-9328-8898-1795159914.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o43QLC0Z1tq7lFKLDhkHlQ",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-20T22:00:00+07:00",
-"found": "2026-11-20T22:50:21+07:00"
 }
 ]
 }
