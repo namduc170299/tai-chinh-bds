@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T22:10:20+07:00",
-"new": 14,
+"updated": "2026-11-23T22:25:52+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "c89d3c0a6d5e",
+"title": "Không gian di sản đô thị Sài Gòn - TP.HCM, nguồn lực của công nghiệp văn hóa",
+"link": "https://cafef.vn/khong-gian-di-san-do-thi-sai-gon-tphcm-nguon-luc-cua-cong-nghiep-van-hoa-188261123214605448.chn",
+"summary": "Tài nguyên di sản của TP.HCM không chỉ nằm ở những công trình nổi bật mà ở cả mạng lưới đường phố, bến cảng, chợ, kênh rạch, khu dân cư và mối liên hệ giữa chúng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795444838669-17954448392411574163573.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-23T22:20:00+07:00",
+"found": "2026-11-23T22:25:52+07:00"
+},
+{
+"id": "793762c76d27",
+"title": "Nữ bí thư Đoàn ở TP.Cần Thơ nhận giải 'Cán bộ Đoàn được yêu thích nhất'",
+"link": "https://thanhnien.vn/nu-bi-thu-doan-o-tpcan-tho-nhan-giai-can-bo-doan-duoc-yeu-thich-nhat-185261123201537657.htm",
+"summary": "Với 36 thí sinh tranh tài tại vòng chung kết Hội thi Bí thư Đoàn cơ sở giỏi toàn quốc lần thứ 2 năm nay, ngoài việc trao giải nhất nhì, ba và khuyến khích, hội thi còn trao giải 'Cán bộ Đoàn được yêu thích nhất'.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/anhnhat-179544623180294174136-0-0-1182-1891-crop-17954462392451817252354.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-23T22:18:00+07:00",
+"found": "2026-11-23T22:25:52+07:00"
+},
+{
+"id": "dbc0d0cbaa9f",
+"title": "Công an TP.HCM phá đường dây rửa tiền đánh bạc hơn 9.000 tỉ đồng",
+"link": "https://thanhnien.vn/cong-an-tphcm-pha-duong-day-rua-tien-danh-bac-hon-9000-ti-dong-185261123214720672.htm",
+"summary": "Công an TP.HCM cho biết đã khởi tố, bắt tạm giam 42 bị can trong đường dây thuê người mở gần 1.300 tài khoản ngân hàng, đưa sang nước ngoài \"trực chiến\" quét sinh trắc học để rửa tiền đánh bạc qua tiền ảo.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/edit-anh-man-hinh-2026-11-23-luc-214355-1795445147072499937660-0-198-784-1452-crop-1795445184852654677555.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-23T22:12:00+07:00",
+"found": "2026-11-23T22:25:52+07:00"
+},
+{
 "id": "4a2352765634",
 "title": "Bắt 42 đối tượng trong đường dây rửa tiền cực lớn từ đánh bạc trực tuyến",
 "link": "https://vietnamnet.vn/bat-42-doi-tuong-trong-duong-day-rua-tien-cuc-lon-2577990.html",
@@ -222,6 +255,17 @@
 "cat": "xh",
 "published": "2026-11-23T22:07:37+07:00",
 "found": "2026-11-23T22:10:20+07:00"
+},
+{
+"id": "2da8ec57e3e8",
+"title": "Dụ dỗ nhiều bé trai đến nhà để xâm hại tình dục",
+"link": "https://vnexpress.net/du-do-nhieu-be-trai-den-nha-de-xam-hai-tinh-duc-5148241.html",
+"summary": "Nguyễn Văn Hiếu, 30 tuổi, khai nhiều lần dụ dỗ các bé trai khoảng 10 tuổi đến nhà riêng để xâm hại tình dục.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/1795440490735c0d9f814a2dd31bbf-3988-9659-1795444794.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yKtR8a6gQugaN4NcdloJrg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-23T22:07:34+07:00",
+"found": "2026-11-23T22:25:52+07:00"
 },
 {
 "id": "04159044a533",
@@ -235,6 +279,17 @@
 "found": "2026-11-23T22:10:20+07:00"
 },
 {
+"id": "8dfa30ed7093",
+"title": "Nhóm thanh thiếu niên xịt hơi cay người đi đường ở TP HCM",
+"link": "https://vnexpress.net/nhom-thanh-thieu-nien-xit-hoi-cay-nguoi-di-duong-o-tp-hcm-5148243.html",
+"summary": "Hai thanh thiếu niên cùng nhóm bạn mua bình xịt hơi cay trên mạng, tìm người đi đường ở khu Sala để xịt vào mặt nhằm \"trêu đùa\".",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/179544507275521486803112921729-5152-7265-1795445262.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ngXlgcAk3-6M2yHQQeauqQ",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-23T22:01:36+07:00",
+"found": "2026-11-23T22:25:52+07:00"
+},
+{
 "id": "6dc622be7886",
 "title": "Bắt giam 42 người trong đường dây “rửa tiền” đánh bạc hơn 9.000 tỷ ở TPHCM",
 "link": "https://dantri.com.vn/phap-luat/bat-giam-42-nguoi-trong-duong-day-rua-tien-danh-bac-hon-9000-ty-o-tphcm-20261123215305607.htm",
@@ -244,6 +299,18 @@
 "cat": "xh",
 "published": "2026-11-23T22:01:34+07:00",
 "found": "2026-11-23T22:10:20+07:00"
+},
+{
+"id": "d4456cb980eb",
+"title": "vietnam vs new zealand u17",
+"link": "https://www.vietnam.vn/khoang-lang-can-thiet-cua-tuyen-viet-nam",
+"summary": "Khoảng lặng cần thiết của tuyển Việt Nam (Vietnam.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1CnPxUy7jXpoQagS-dRJT-gHpW8lJxhBzIxxqqzE879dxh-4wKggpCEnpgis",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T22:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T22:25:52+07:00"
 },
 {
 "id": "466bb130d77a",
@@ -358,6 +425,17 @@
 "found": "2026-11-23T21:47:49+07:00"
 },
 {
+"id": "9d07bc28d048",
+"title": "Dùng tinh dầu chứa ma túy tẩm vào thảo mộc khô bán kiếm lời",
+"link": "https://tuoitre.vn/dung-tinh-dau-chua-ma-tuy-tam-vao-thao-moc-kho-ban-kiem-loi-100261123211234553.htm",
+"summary": "Một thiếu niên 17 tuổi đã mua tinh dầu chứa nhiều loại ma túy tổng hợp, pha trộn với thảo mộc, đóng thành từng túi nhỏ để bán kiếm lời.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/doituong-4d178d18f188e727673d67df4382bf0d-17954428900781666321749-197-0-947-1200-crop-1795443025207824454137.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T21:30:00+07:00",
+"found": "2026-11-23T22:25:52+07:00"
+},
+{
 "id": "64e51da538d4",
 "title": "Điểm tin kinh tế thế giới nổi bật ngày 23/11/2026",
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQUZwanR4cnV3eWczQU9scEdvb2RDc1VrWEhPRllfT0RYM1R4cHdYRzBad1JnOVEzeEowcUx2Y0ZZcXV5YkM0d0laU0hoRUxsT0lwR2VuWjB2RVlIOVVCMUZ2aU9VTmNTd2dyWEU1MWtEOFJKTVhGcVNURjcyYjZRQ1g0bHBEZUxnRVE?oc=5",
@@ -432,7 +510,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T21:20:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-23T21:47:49+07:00"
 },
 {
@@ -28045,86 +28123,6 @@
 "cat": "tc",
 "published": "2026-11-20T20:01:00+07:00",
 "found": "2026-11-21T08:17:18+07:00"
-},
-{
-"id": "09881291956b",
-"title": "my tv",
-"link": "https://www.makeuseof.com/fix-tv-stutter-with-match-content-frame-rate/",
-"summary": "I blamed Wi-Fi for my TV’s stutter until I changed this video setting (MakeUseOf)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTekHQyDOgXDWLEaOLj43cIUa3ylGHGOy2La8Zu9WwIdvu2Sllg7CwmHWeKSQU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T20:00:00+07:00",
-"traffic": "500+",
-"found": "2026-11-20T20:18:36+07:00"
-},
-{
-"id": "ddb63943cb67",
-"title": "trực tiếp bóng đá vtv6",
-"link": "https://vov.vn/the-thao/lich-thi-dau-va-truc-tiep-bong-da-viet-nam-hom-nay-2011-post1351518.vov",
-"summary": "Lịch thi đấu và trực tiếp bóng đá Việt Nam hôm nay 20/11 (VOV.VN)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNPOVu8IktNuRZlkcaZWz8_XsXvjyrTnqFwAll7yOQqiEnTfMxr-ubW964BuU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T20:00:00+07:00",
-"traffic": "500+",
-"found": "2026-11-20T20:18:36+07:00"
-},
-{
-"id": "d625c99c2ee2",
-"title": "360",
-"link": "https://vnexpress.net/nha-xa-hoi-o-bac-ninh-mo-ban-hon-360-trieu-dong-mot-can-5147049.html",
-"summary": "Nhà xã hội ở Bắc Ninh mở bán hơn 360 triệu đồng một căn (VnExpress)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeXJuDznYjeOLF7JSdCHZf_t1bAPAv-BQS_2lDySn7aU3Epl1ZPVVa5R2z3s0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T20:00:00+07:00",
-"traffic": "500+",
-"found": "2026-11-20T20:18:36+07:00"
-},
-{
-"id": "1e17e327bab2",
-"title": "Mở rộng thanh toán số xuyên biên giới: Người Việt đã có thể quét mã QR thanh toán khi chi tiêu, mua sắm tại Singapore",
-"link": "https://vneconomy.vn/mo-rong-thanh-toan-so-xuyen-bien-gioi-nguoi-viet-da-co-the-quet-ma-qr-thanh-toan-khi-chi-tieu-mua-sam-tai-singapore.htm",
-"summary": "Công ty Cổ phần Thanh toán Quốc gia Việt Nam (NAPAS) và Network for Electronic Transfers (Singapore) Pte Ltd (NETS) chính thức triển khai dịch vụ thanh toán QR xuyên biên giới (VietQRGlobal) dành cho người Việt Nam tại Singapore.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/20/67b9d3fe221e4896b9fbf4e984886bdc-137444.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-20T20:00:00+07:00",
-"found": "2026-11-20T22:30:11+07:00"
-},
-{
-"id": "f30348d2229a",
-"title": "36 năm IVB: kết nối nguồn lực, đồng hành cùng doanh nghiệp FDI",
-"link": "https://dantri.com.vn/kinh-doanh/36-nam-ivb-ket-noi-nguon-luc-dong-hanh-cung-doanh-nghiep-fdi-20261120195905074.htm",
-"summary": "(Dân trí) - Trải qua 36 năm hình thành và phát triển, IVB không chỉ xây dựng nền tảng hoạt động vững chắc mà còn từng bước trở thành cầu nối tài chính giữa Việt Nam và các đối tác quốc tế, đặc biệt là cộng đồng doanh nghiệp FDI.",
-"image": "https://cdnphoto.dantri.com.vn/-9qrJcAKBK5blym_Rj4kgEb5ipA=/2026/11/20/dantri-1-1-1795178953172.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-20T19:59:11+07:00",
-"found": "2026-11-20T20:34:09+07:00"
-},
-{
-"id": "cdd55a2e8241",
-"title": "Trước khi vào diện bị thanh tra, Vietlott trả thưởng gấp 10 lần lợi nhuận",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjRqS1ZXVHBjcFNrdnJrOUctQm9rMDlTVXlNS1lTQ0lXVWV0Sl9FME5IOG5oQktzQl83RDlnNEFpVDhEcmVHRU5tX3M3Ry1iSHdyYWtadENsbTZuYTVqZnJKcWJvc2tIMloyR2E3bEhzNkx0N1d2ZG1CS19WU2xZX0twQlRaN2lxaFZKOHc4cXJxaTlvMGxNd01YMUVnQXdBcl9kenJDTnY?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T19:58:00+07:00",
-"found": "2026-11-21T12:10:20+07:00"
-},
-{
-"id": "bc88180ad729",
-"title": "Nợ cần chú ý tại nhiều ngân hàng tăng mạnh, vượt 255.500 tỷ đồng",
-"link": "https://dantri.com.vn/kinh-doanh/no-can-chu-y-tai-nhieu-ngan-hang-tang-manh-vuot-255500-ty-dong-20261120193918748.htm",
-"summary": "(Dân trí) - Tính đến cuối quý III, tổng nợ cần chú ý của các ngân hàng niêm yết tăng thêm 88.000 tỷ đồng so với đầu năm, lên hơn 255.500 tỷ đồng, tạo áp lực lớn lên trích lập dự phòng và lợi nhuận.",
-"image": "https://cdnphoto.dantri.com.vn/iGzqHNeQ3dxCV3QKTMUdBI1BLVg=/2026/01/09/tien-40tien-tuan-cropped-cropped-cropped-cropped-1767948783565.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-20T19:57:18+07:00",
-"found": "2026-11-20T20:34:09+07:00"
 }
 ]
 }
