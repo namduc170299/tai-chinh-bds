@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T06:16:56+07:00",
-"new": 9,
+"updated": "2026-11-24T06:30:01+07:00",
+"new": 20,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -210,6 +210,28 @@
 "tz_fixed": {},
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "5bd71eed7cec",
+"title": "Vì sao nhà đầu tư rót hàng chục tỷ đồng vào Sen Tài Thu?",
+"link": "https://dantri.com.vn/phap-luat/vi-sao-nha-dau-tu-rot-hang-chuc-ty-dong-vao-sen-tai-thu-20261123202534432.htm",
+"summary": "(Dân trí) - Từ những lời mời gọi hấp dẫn đến các khoản lãi được trả đều đặn, nhiều người đã rót hàng chục tỷ đồng vào Sen Tài Thu. Sau đó, công ty thông mất khả năng thanh toán khiến nhiều bị hại suy sụp.",
+"image": "https://cdnphoto.dantri.com.vn/Jl3y26ngqb0PKdssVh647YaOKR0=/2026/11/23/sentaithu-1795399440972.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-24T06:14:00+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
+{
+"id": "a42768f0dd49",
+"title": "Xây dựng nông thôn mới xanh, sạch, đẹp ở Ðạ Tẻh 3",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDA5NlJ5YzllT01ha01CUnZ2ZzVFbDBhckxTWTQ2OFl0X1hpNnVELUxkMHRxbmQyQVVmSTI0Zkh2MFBneXVhY3BqSTJIRngwV0NNTV9GRDdmOHR0TnBLNG9vUUhwTnV2MmNPd19KVmFDa0xULTI5N1JqTkZSNnVwUHBfQjJxQQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T06:03:00+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
 {
 "id": "8393fe08464f",
 "title": "Giám đốc đòi gần 10 tỷ tiền thưởng, công ty từ chối vì nghỉ việc trước 2 ngày",
@@ -289,6 +311,17 @@
 "found": "2026-11-24T06:16:56+07:00"
 },
 {
+"id": "a72db165851c",
+"title": "Căn nhà nằm chênh vênh trên cây gây xôn xao mạng xã hội",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFFJc0NkbkFCTXA2MjJEU0hjWUNJbEVHQUFmSlA5amU5YTBjQnllejJHQUVtN3V2RWN6LVQ0MHZDR3Y1RWlPU2ZXSFZ1ajdmZkY2UHdqeGFGclEyM3dzcW9JelAzWEl2TVpGSWU4VkhvTFpjd0RESnAwOGE1WkZ1M09lSU9UdG1SSlR6bzRDc1dNYzRINVFIRnJiMFc2UFBOSXZYNTFSTVY5OTZrX0dBQjdjZDFTTUtqQ01WVXhBdw?oc=5",
+"summary": "Nguồn: Tạp chí Saostar",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T06:00:00+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
+{
 "id": "137f983bb3fb",
 "title": "Sau 13 năm, công trình hơn 800 tỷ đồng với kiến trúc hai khối nhà nghiêng bên sông Sài Gòn chính thức mở cửa",
 "link": "https://kenh14.vn/sau-13-nam-cong-trinh-hon-800-ty-dong-voi-kien-truc-hai-khoi-nha-nghieng-ben-song-sai-gon-chinh-thuc-mo-cua-21526112319514128.chn",
@@ -341,7 +374,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T05:50:00+07:00",
-"traffic": "1000+",
+"traffic": "100+",
 "found": "2026-11-24T06:16:56+07:00"
 },
 {
@@ -447,6 +480,18 @@
 "published": "2026-11-24T05:20:00+07:00",
 "traffic": "100+",
 "found": "2026-11-24T06:16:56+07:00"
+},
+{
+"id": "98d604e6d471",
+"title": "thanh niên",
+"link": "https://dantri.com.vn/phap-luat/nguoi-tung-nhan-1000-ty-cua-ba-truong-my-lan-linh-an-chung-than-vi-lua-dao-20261123171846606.htm",
+"summary": "Người từng nhận 1.000 tỷ của bà Trương Mỹ Lan lĩnh án chung thân vì lừa đảo (Báo Dân trí)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMd_O7UKuu3_91o1bSAs3cYanXa4rX7T7NgSIH_mfXuYwzS7tJuAC39Cskog",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T05:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T06:30:01+07:00"
 },
 {
 "id": "94b584fa4492",
@@ -897,6 +942,17 @@
 "found": "2026-11-24T03:07:58+07:00"
 },
 {
+"id": "1e78a7521525",
+"title": "Màn rượt đuổi kịch tính giúp Việt Nam hòa New Zealand 3-3 ở U17 World Cup",
+"link": "https://vnexpress.net/man-ruot-duoi-kich-tinh-giup-viet-nam-hoa-new-zealand-3-3-o-u17-world-cup-5148273.html",
+"summary": "Pha bay người đánh đầu của Duy Khang ở phút bù giờ giúp Việt Nam gỡ hòa 3-3, khép lại màn rượt đuổi tỷ số sau ba lần bị New Zealand dẫn trước tại U17 World Cup, tối 23/11.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/24/gifezgifcomresize-1795457894-7873-1795457963.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=wnHT38ruRJxSVJGtSxpI3w&t=image",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-24T01:26:51+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
+{
 "id": "43bc40982cd5",
 "title": "al ittihad đấu với pakhtakor",
 "link": "https://baonghean.vn/truc-tiep-al-ittihad-fc-vs-pakhtakor-al-ittihad-fc-mo-ty-so-10356476.html",
@@ -1250,6 +1306,17 @@
 "found": "2026-11-24T00:43:24+07:00"
 },
 {
+"id": "db91e550753c",
+"title": "Người dân thích thú ngắm Nhà thờ Đức Bà với dàn đèn LED mới",
+"link": "https://vnexpress.net/nguoi-dan-thich-thu-ngam-nha-tho-duc-ba-voi-dan-den-led-moi-5148248.html",
+"summary": "Nhà thờ Đức Bà được thắp sáng thử với hệ thống đèn LED dài khoảng 1.000 km, mang dải màu sắc mới thay cho tông vàng chủ đạo năm ngoái, tối 23/11.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/23/20261123232151-1795450934-5274-1795451235.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tvzhVzVkddinZA_-NpNQsA",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-24T00:00:00+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
+{
 "id": "7debc5ef0f69",
 "title": "Công an làm việc với 6 người vụ đuổi chém người tại cây xăng",
 "link": "https://tuoitre.vn/cong-an-lam-viec-voi-6-nguoi-vu-duoi-chem-nguoi-tai-cay-xang-100261123233224493.htm",
@@ -1363,6 +1430,17 @@
 "found": "2026-11-23T23:43:29+07:00"
 },
 {
+"id": "db39fb80182c",
+"title": "Bí thư Trần Lưu Quang trao quà Tết sớm đến công nhân",
+"link": "https://vnexpress.net/bi-thu-tran-luu-quang-trao-qua-tet-som-den-cong-nhan-5148258.html",
+"summary": "Ngoài một triệu đồng được chuyển vào tài khoản, nhiều công nhân khó khăn, mất việc ở TP HCM còn nhận thêm tiền mặt và voucher để mua sắm Tết.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/23/Pi7GIFCMP-1795448098-2778-1795448106.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=A-_GfBF5lk05EDYyX4wJ7w&t=image",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-23T23:04:38+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
+{
 "id": "d3bce61b69de",
 "title": "Website Bamboo Airways bất ngờ không thể truy cập, máy bay cuối cùng đã ngừng bay hơn 2 tuần",
 "link": "https://kenh14.vn/website-bamboo-airways-bat-ngo-khong-the-truy-cap-may-bay-cuoi-cung-da-ngung-bay-hon-2-tuan-215261123160835154.chn",
@@ -1454,6 +1532,17 @@
 "found": "2026-11-23T23:13:09+07:00"
 },
 {
+"id": "7ec600505a6b",
+"title": "Kình ngư 17 tuổi phá 5 kỷ lục Đại hội Thể thao toàn quốc",
+"link": "https://vnexpress.net/kinh-ngu-17-tuoi-pha-5-ky-luc-dai-hoi-the-thao-toan-quoc-5148238.html",
+"summary": "VĐV Nguyễn Thúy Hiền (Quân đội) giành 5 HC vàng chỉ sau hai ngày thi đấu môn bơi Đại hội Thể thao toàn quốc 2026.",
+"image": "https://i1-thethao.vnecdn.net/2026/11/23/wm1-wm1-17954348842876625051183830-2612-9195-1795444063.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1Q6VCqFFsNCqf_oBgNStTg",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-23T22:46:54+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
+{
 "id": "2e0307176e27",
 "title": "bongda",
 "link": "https://bongdaplus.vn/u17-world-cup/nhan-dinh-bong-da-u17-australia-vs-u17-mozambique-22h30-ngay-25-11-kho-luong-cuoc-chien-ngoi-dau-5298642611.html",
@@ -1464,6 +1553,17 @@
 "published": "2026-11-23T22:40:00+07:00",
 "traffic": "500+",
 "found": "2026-11-23T22:56:53+07:00"
+},
+{
+"id": "34bd16607b5e",
+"title": "Nhà Trắng: Tổng thống Trump can thiệp để Jensen Huang được phục chức",
+"link": "https://vnexpress.net/nha-trang-tong-thong-trump-can-thiep-de-jensen-huang-duoc-phuc-chuc-5148244.html",
+"summary": "Giám đốc truyền thông Nhà Trắng Steven Cheung tiết lộ Tổng thống Trump đã tham gia đưa Jensen Huang trở lại vị trí CEO Nvidia sau hơn một tuần từ chức.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/23/afp-d7ly8r9-v1-highres-uspolit-6944-8730-1795445556.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LaSqRPDQVAlessSI5VEgtA",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-23T22:39:37+07:00",
+"found": "2026-11-24T06:30:01+07:00"
 },
 {
 "id": "c738332cac06",
@@ -2011,6 +2111,17 @@
 "found": "2026-11-23T22:41:23+07:00"
 },
 {
+"id": "0f49045490df",
+"title": "Việt Nam giành điểm số lịch sử ở U17 World Cup",
+"link": "https://vnexpress.net/truc-tiep-viet-nam-vs-new-zealand-5148242.html",
+"summary": "Việt Nam kiên cường rượt đuổi tỷ số ở hiệp hai, trong trận hòa New Zealand 3-3 tại lượt trận thứ hai bảng G U17 World Cup.",
+"image": "https://i1-thethao.vnecdn.net/2026/11/24/179545274190528560458903111777-9192-1441-1795453630.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5wWt6-A0bQt1ZACnIfDLfQ",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-23T21:45:41+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
+{
 "id": "ca5c8dd73252",
 "title": "Trung tâm triển lãm TPHCM 800 tỷ đồng mở cửa đón khách lần đầu sau 13 năm xây dựng",
 "link": "https://cafef.vn/trung-tam-trien-lam-tphcm-800-ty-dong-mo-cua-don-khach-lan-dau-sau-13-nam-xay-dung-188261123210332077.chn",
@@ -2395,6 +2506,17 @@
 "found": "2026-11-23T22:10:20+07:00"
 },
 {
+"id": "a6a00d0cad97",
+"title": "Nga cảnh báo Ukraine về 'hậu quả đau đớn' sau vụ tấn công tàu",
+"link": "https://vnexpress.net/nga-canh-bao-ukraine-ve-hau-qua-dau-don-sau-vu-tan-cong-tau-5148187.html",
+"summary": "Điện Kremlin cảnh báo về \"hậu quả đau đớn\" với Ukraine sau vụ chiến hạm cùng tàu hàng Nga bị tập kích ngoài khơi Libya và trên biển Baltic.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/23/2026t141248z-mt1imgost000q5yuq-1264-2364-1795438492.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OzCefIMbkUl844dDQIjEfg",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-23T20:55:32+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
+{
 "id": "8dd098e83a3e",
 "title": "Gần 600 hộ dân xã Phúc Thịnh đồng thuận di dời nhà ở cho dự án đường Vành đai 3",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTDJWOFduejg2NXFIajd3bXBWd1lwcGs2bWh4OE5TZEREZU5ORXA3Uld2bEVRYlpQeEY3Mi1XZGs5YW1CQVpJLTRVU0NhNkF5c1RJQXZEenQtVWhPal94UDY1MzllRlVHdWw5cElUSU5rV1BwazJpQW5mZlVVbThGbGdncEdxRVlEWWhFNTAwb0I1R2h0T1UwaVlzZHVmamJiYk05a3NZOGFmckpnOW44cEJB?oc=5",
@@ -2495,6 +2617,17 @@
 "cat": "xh",
 "published": "2026-11-23T20:44:00+07:00",
 "found": "2026-11-23T21:32:35+07:00"
+},
+{
+"id": "3e9e5b179fce",
+"title": "Nguyên Chủ tịch nước Lương Cường, nguyên Thủ tướng Phạm Minh Chính nhận quyết định nghỉ hưu",
+"link": "https://vnexpress.net/nguyen-chu-tich-nuoc-luong-cuong-nguyen-thu-tuong-pham-minh-chinh-nhan-quyet-dinh-nghi-huu-5148215.html",
+"summary": "Nguyên Chủ tịch nước Lương Cường, nguyên Thủ tướng Phạm Minh Chính cùng 45 cán bộ lãnh đạo Đảng, Nhà nước được trao quyết định nghỉ hưu từ ngày 1/12/2026.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/23/vna-potal-tong-bi-thu-chu-tich-2796-5773-1795441406.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yvZArLEMovu6KDrjQfrUGg",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-23T20:44:00+07:00",
+"found": "2026-11-24T06:30:01+07:00"
 },
 {
 "id": "4478c0f4606b",
@@ -3152,6 +3285,17 @@
 "found": "2026-11-23T19:12:38+07:00"
 },
 {
+"id": "e6afe51d72be",
+"title": "Ông Zelensky sẵn sàng đàm phán 4 bên với Nga 'ngay ngày mai'",
+"link": "https://vnexpress.net/ong-zelensky-san-sang-dam-phan-4-ben-voi-nga-ngay-ngay-mai-5148198.html",
+"summary": "Tổng thống Zelensky kêu gọi sớm tổ chức các cuộc đàm phán mới với Nga, Mỹ, châu Âu tham gia, đồng thời nhắc lại đề nghị cho phép Ukraine gia nhập NATO.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/23/ap26289448543263-1795434343-9647-1795434480.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Re956r7F7DF-wtAcBf5Brg",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-23T19:08:02+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
+{
 "id": "6efd5bb62c04",
 "title": "Becamex hiến kế phát triển đô thị khoa học công nghệ TP.HCM",
 "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSmYyTkEycVBCUS0zeDlRMGVQbjlkQi1zdlp1QTJQdGhiYm5UMUdSSXR6V3JDdlRSX2duVmQtdTY0UXpnVW9md1lMRGhjaHJYYUJJa1hkVjhUQ1lxdDNOZklOVFpvS3RlbGpHX2Y0MlBVSmtKdkl5dkhYdW44Nm5yM1JyWXdZUnJrX0R1VDJGZzA4dzdkRnRz?oc=5",
@@ -3612,6 +3756,17 @@
 "cat": "xh",
 "published": "2026-11-23T18:22:58+07:00",
 "found": "2026-11-23T18:57:28+07:00"
+},
+{
+"id": "57ed7e92778b",
+"title": "Xã Phú Nghĩa xử lý 11 trường hợp vi phạm đất đai",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2dyeVUwYk5yWkZGRU1VZWphOEZQUzVBeW1DX1hPTi1FVGdFbm1BWkJ2WlJScjZJcC1lREVIcmtXZ3ZkWnZheTFQQ3Zpdm1IMkt2dHg4SHU2aGgwd3pWdTA1VXN2TENGMjJaOF9BUWpVRUtoV0tKUXMtQmhaVnd0Wm8zYmF6SFpk?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T18:22:00+07:00",
+"found": "2026-11-24T06:30:01+07:00"
 },
 {
 "id": "419eac806e36",
@@ -4299,6 +4454,17 @@
 "found": "2026-11-23T17:43:01+07:00"
 },
 {
+"id": "81ff46252d0d",
+"title": "7 trực thăng cùng UAV luyện bay chuẩn bị triển lãm quốc phòng",
+"link": "https://vnexpress.net/7-truc-thang-cung-uav-luyen-bay-chuan-bi-trien-lam-quoc-phong-5148093.html",
+"summary": "Đội hình trực thăng kéo cờ cùng máy bay không người lái (UAV) bay qua Gia Lâm, chuẩn bị cho lễ khai mạc Triển lãm Quốc phòng quốc tế 2026.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/23/keoco-1795421274-4886-1795421281.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=rA2LdX5EzUl5KwJr1HO__w&t=image",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-23T17:30:08+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
+{
 "id": "c90d5bc0c644",
 "title": "xspy",
 "link": "https://vtcnews.vn/xspy-23-11-ket-qua-xo-so-phu-yen-hom-nay-23-11-2026-ar1053067.html",
@@ -4533,6 +4699,17 @@
 "found": "2026-11-23T17:43:01+07:00"
 },
 {
+"id": "49b3678e7054",
+"title": "Vì sao siêu phẩm của Việt Nam vào lưới Bỉ được gọi là 'bàn thắng Olympic'?",
+"link": "https://vnexpress.net/vi-sao-sieu-pham-cua-viet-nam-vao-luoi-bi-duoc-goi-la-ban-thang-olympic-5148153.html",
+"summary": "Cú sút phạt góc thành bàn của Chu Ngọc Nguyễn Lực trong trận Việt Nam thua Bỉ 2-3 ở U17 World Cup 2026, là một kiểu ghi bàn có tên riêng.",
+"image": "https://i1-thethao.vnecdn.net/2026/11/23/img-1795428831-8804-1795428841.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wcyqhuJEq1TlZtMsIu_Fhw",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-23T17:14:01+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
+{
 "id": "faa4a3e30b8c",
 "title": "Cháy sân thượng căn nhà ở đường Trần Quang Khải, nhiều tài sản bị thiêu rụi",
 "link": "https://kenh14.vn/chay-san-thuong-can-nha-o-duong-tran-quang-khai-nhieu-tai-san-bi-thieu-rui-215261123093827392.chn",
@@ -4542,6 +4719,17 @@
 "cat": "xh",
 "published": "2026-11-23T17:14:00+07:00",
 "found": "2026-11-23T10:27:55+07:00"
+},
+{
+"id": "5408db4942cc",
+"title": "Giám đốc bị bắn ở Đồng Nai tử vong sau một tuần điều trị",
+"link": "https://vnexpress.net/giam-doc-bi-ban-o-dong-nai-tu-vong-sau-mot-tuan-dieu-tri-5148166.html",
+"summary": "Giám đốc Công ty Lâm nghiệp La Ngà, người bị bắn vào đầu tại phòng làm việc hôm 17/11, tử vong sau gần một tuần điều trị tại Bệnh viện Chợ Rẫy.",
+"image": "https://i1-suckhoe.vnecdn.net/2026/11/23/crh01857-1795428416-2143-1795428484.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GtNHDkGO7xLdegMcIqw9yg",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-23T17:12:16+07:00",
+"found": "2026-11-24T06:30:01+07:00"
 },
 {
 "id": "48f84e6aa49e",
@@ -5495,6 +5683,17 @@
 "cat": "tc",
 "published": "2026-11-23T15:52:00+07:00",
 "found": "2026-11-23T15:56:43+07:00"
+},
+{
+"id": "170d5325f906",
+"title": "Khoảnh khắc xuồng tự sát Ukraine tập kích chiến hạm Nga ở Libya",
+"link": "https://vnexpress.net/khoanh-khac-xuong-tu-sat-ukraine-tap-kich-chien-ham-nga-o-libya-5148081.html",
+"summary": "Tổng thống Zelensky tuyên bố Ukraine đã dùng xuồng tự sát để đánh chìm tàu hộ vệ Merkury của Nga khi nó neo đậu tại Libya.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/23/USV-1795421768-2948-1795422079.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=gwrD1XvtJooBPN804Zt0jQ&t=image",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-23T15:51:05+07:00",
+"found": "2026-11-24T06:30:01+07:00"
 },
 {
 "id": "0ee9f99c51af",
@@ -6983,6 +7182,17 @@
 "cat": "tc",
 "published": "2026-11-23T13:30:00+07:00",
 "found": "2026-11-23T18:39:26+07:00"
+},
+{
+"id": "d13c7a0dced6",
+"title": "Thầy giáo khóc khi trao ngôi trường trăm tỷ cho học sinh Mèo Vạc",
+"link": "https://vnexpress.net/thay-giao-khoc-khi-trao-ngoi-truong-tram-ty-cho-hoc-sinh-meo-vac-5148019.html",
+"summary": "\"Ông vô cùng hạnh phúc, ông khóc có được không?\" - thầy Nguyễn Xuân Khang rưng rưng hỏi học trò khi bàn giao ngôi trường do mình tài trợ cho xã Mèo Vạc.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/23/nguyen-xuan-khang-jpeg-1795414-1307-6828-1795414831.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0XL1j4QtQttQ16y1DZ4JcA",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-23T13:29:03+07:00",
+"found": "2026-11-24T06:30:01+07:00"
 },
 {
 "id": "af82e8539900",
@@ -21269,6 +21479,17 @@
 "found": "2026-11-21T19:14:07+07:00"
 },
 {
+"id": "71fc9a2e5473",
+"title": "Chánh án TAND tỉnh Lào Cai bàn giao nhà, trao Huy hiệu Đảng cho 3 đảng viên",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTTg2QUtzOTJUd2twVDA5Vld6YzJzOW1yQjRsemlYZzZoVXQ0eVA2UXlrRGhRRW1uY1J6NWhFRl9YQTJNVlZBTlEwZXpOVGY1SEREY3JGUzVRWkJGT0NsX3JGQ3hRYWUtMnlMYnlQeHM4SXl6RjNfM25xOTNPc3I0V3RJdXNnS21zQzhCeGlYSHAtMno1ZlJCY0RncXFPVjhGWlFWZENWZWdGT2M?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T18:32:00+07:00",
+"found": "2026-11-24T06:30:01+07:00"
+},
+{
 "id": "833ad75c8611",
 "title": "man city đấu với fulham",
 "link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-man-city-fulham-khong-duoc-phep-say-chan-ngoai-hang-anh-c48a1812819.html",
@@ -27898,230 +28119,6 @@
 "cat": "xh",
 "published": "2026-11-21T07:00:00+07:00",
 "found": "2026-11-21T07:00:19+07:00"
-},
-{
-"id": "50e0712ee490",
-"title": "Vụ ông Lê Thanh Thản ở CT6 Kiến Hưng, cư dân nói gì về mức giá đền bù 53 triệu/m2?",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON1U2aDRsbkh1dENvSEluVFk0R0RJWVkxbXRTUmR2WTZzYWZpcEhfV1BZS2p5bEhKaWVkVzY3eUNNTmZJVWliSnRfQjQ2ekNIWjRycUJ2TG9FN1FZV3JER1lGaE1ER0JkZTV5Z2h6SmxtWmY3NVNQTVZlZUJJU3B6MEJOZFQ3UlFKZzlVeU83Vko5d2VXZi1Dejhta2NLRlQ0a1BpTEhKSmFlRTNaUDU1VHNZRQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T07:00:00+07:00",
-"found": "2026-11-21T07:15:28+07:00"
-},
-{
-"id": "9ecadf6d0eec",
-"title": "Ngày cuối kỳ họp thứ 2, Quốc hội thông qua nhiều nội dung quan trọng",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1FYMFJxcW1faWMyLXZZajhTbGNWNHNUWTJiVjZGNzl6c3RKcGdQQV9lSWhoMGp2cW5sVElPZ1JZcVJrZTZpSkNaNHc1OWxnNVpQblFzb0FxcjJMSlBybjJkWmRZQTI5RDJEZi1hUGhvWVJYcUpVM3JiQUh3OW1Qd0FLQ1NBLXJ5YXFJM2FUUzROdlpyeUF1eVZNRUVDZjNFbnc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T07:00:00+07:00",
-"found": "2026-11-21T07:15:28+07:00"
-},
-{
-"id": "be5e7072ac0a",
-"title": "trần bá dương",
-"link": "https://trends.google.com/trending/rss?geo=VN",
-"summary": "",
-"image": "",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T07:00:00+07:00",
-"traffic": "100+",
-"found": "2026-11-21T07:15:28+07:00"
-},
-{
-"id": "464263aa6956",
-"title": "Vụ án chủ quán karaoke bị sát hại (kỳ 1): Bí ẩn đằng sau cánh cửa khóa trái",
-"link": "https://dantri.com.vn/phap-luat/vu-an-chu-quan-karaoke-bi-sat-hai-ky-1-bi-an-dang-sau-canh-cua-khoa-trai-20261120220959229.htm",
-"summary": "(Dân trí) - Người thân liên tục nhận tin nhắn vay tiền từ số điện thoại chị M. nhưng gọi điện không được hồi đáp. Sinh nghi, gia đình tìm đến quán karaoke và phát hiện thi thể người phụ nữ đang phân hủy.",
-"image": "https://cdnphoto.dantri.com.vn/kkyZriplo1UV67cAqDIFSFk0scg=/2026/11/20/ho-so-vu-an-quang-ninh-giet-chu-quan-karaoke-1795187160489.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-21T07:00:00+07:00",
-"found": "2026-11-21T07:30:37+07:00"
-},
-{
-"id": "6ec0869104dc",
-"title": "Từ lá thư cảm ơn và bài học về văn hóa giao tiếp",
-"link": "https://thanhnien.vn/tu-la-thu-cam-on-va-bai-hoc-ve-van-hoa-giao-tiep-185261120182400028.htm",
-"summary": "Trong chuyến đi Cao Bằng, cô gái Vũ Thị Mai (Hà Nội) quay lại những cảnh sắc thiên nhiên đăng tải trên Facebook đã nhận được sự quan tâm của cộng đồng mạng, trong đó có Chủ tịch UBND tỉnh Cao Bằng Lê Hải Hòa chú ý và gửi thư cảm ơn.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/anh-2-1795173646898128691457-0-184-885-1600-crop-17951737006571637290076.jpeg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-21T07:00:00+07:00",
-"found": "2026-11-21T09:13:42+07:00"
-},
-{
-"id": "e81da585a4be",
-"title": "Đấu trường thông thái | VTV3 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1ES0JQT3V0NnNhM3RyYTJmdVktRG54WW9BVlgtaV9lM3JBNGt5Z25ZX0xLVTN2ZVlVRG0wejN4TG8?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T07:00:00+07:00",
-"found": "2026-11-20T09:23:42+07:00"
-},
-{
-"id": "256807234544",
-"title": "Để tiếng Anh trở thành ngôn ngữ thứ 2 trong trường học | Chuyển động 24h | VTV1 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE15OVdlRDJmSGozcnZzTF8xSERpcDlSTERPa2ZnY29oU2xHNjhaMnQ2SkFhZ0VFUzVwRnI1ZHFmLTc?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T07:00:00+07:00",
-"found": "2026-11-21T14:22:05+07:00"
-},
-{
-"id": "584e66ee6328",
-"title": "Mẹ Nguyên ra đi, bố Việt xuất hiện | Cha tôi, người ở lại | Tập 9 | VTV3 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAtaXk5VzFLQ0NXaExteEk1b2xld3BQSkxzOEFpdzNTbk9VU29Jak44bHMwTHhxRGVNQXNGV3g2eTI?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T07:00:00+07:00",
-"found": "2026-11-22T12:08:56+07:00"
-},
-{
-"id": "f753c72fd980",
-"title": "Tháo dỡ các kiot xây trái phép | Chào buổi sáng",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFA4bXZCTU84YjBKVFkzOVJ0eU5IUnUyTkRqNVRqTFNMZTlCUGpzS3VoVTRaSUNQUWpSb2xyZVVvVTA?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T07:00:00+07:00",
-"found": "2026-11-22T15:54:23+07:00"
-},
-{
-"id": "54922b61d129",
-"title": "Cương ra mặt bảo vệ Mai khi cô bị nghi ngờ tiếp tay cho Santana | Lửa trắng | Tập 17",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8tUnQzMjM4TERjTGl4RnNXZ0NQdjRxb210RWZGakR6ejJYeGJCTkdnUWMwQlNqa24wOWE5V01lSWg?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T07:00:00+07:00",
-"found": "2026-11-22T15:54:23+07:00"
-},
-{
-"id": "e4f72be2dd94",
-"title": "Tổng thống Mỹ khoe 'quan hệ tuyệt vời' với lãnh đạo Nga, Trung Quốc",
-"link": "https://vnexpress.net/tong-thong-my-khoe-quan-he-tuyet-voi-voi-lanh-dao-nga-trung-quoc-5147273.html",
-"summary": "Tổng thống Trump gọi cuộc họp ba bên với Tổng thống Putin và Chủ tịch Tập là sự kiện \"mang tính bước ngoặt\", khẳng định họ có quan hệ tuyệt vời.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/AFP-20261120-D87A4YQ-v2-HighRe-7081-5167-1795217554.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NegBJIb7KR72GtEHDh1vXA",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-21T06:59:04+07:00",
-"found": "2026-11-21T10:44:13+07:00"
-},
-{
-"id": "6ec4c484ca25",
-"title": "Giá vàng thế giới tiếp tục lao dốc, vàng miếng SJC giảm tới 4 triệu đồng/lượng",
-"link": "https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-tiep-tuc-lao-doc-vang-mieng-sjc-giam-toi-4-trieu-dongluong-20261121062407770.htm",
-"summary": "(Dân trí) - Rạng sáng 21/11 (giờ Việt Nam), giá vàng thế giới chốt phiên cuối tuần ở mức 3.537,9 USD/ounce, giảm 86,3 USD/ounce (tương đương 2,4%) so với phiên trước.",
-"image": "https://cdnphoto.dantri.com.vn/jWyA8YRgFXYDr-gtF3If6aTgWpo=/2026/11/21/nmq7706-1795216817480.jpg?watermark=v1,v2",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T06:51:25+07:00",
-"found": "2026-11-21T07:30:37+07:00"
-},
-{
-"id": "fe27f74e576d",
-"title": "câu lạc bộ bóng đá real madrid",
-"link": "https://bongdaplus.vn/la-liga/ke-hoach-real-madrid-2030-va-bo-khung-cho-mot-thap-ky-toi-5295482611.html",
-"summary": "Kế hoạch Real Madrid 2030 và bộ khung cho một thập kỷ tới (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRnB435cv_94cmtNPKpUWVRi2Nwvj6u5PvdoOgGukYr_ZGy_jmAt00kiny1Oo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T06:50:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-21T07:15:28+07:00"
-},
-{
-"id": "2202eb31be59",
-"title": "al-ahli saudi fc vs al-nassr standings",
-"link": "https://www.goal.com/en/news/cristiano-ronaldo-moves-within-14-of-1-000-career-goals-then-misses-a-penalty-and-loses-to-ibanez-and-demiral/bltb763f54c7f6edf52",
-"summary": "Cristiano Ronaldo scores and misses a penalty as he closes in on 1,000 career goals (Goal.com)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjbq_1iQUPDiIfCA5xtMyvgvyDcBgKWHPXq_5PafrrjoBp6R7fnPa_pmCm1Mw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T06:50:00+07:00",
-"traffic": "100+",
-"found": "2026-11-21T07:15:28+07:00"
-},
-{
-"id": "00a63df8d232",
-"title": "nhà ở xã hội",
-"link": "https://tuoitre.vn/khoi-cong-khu-do-thi-nha-o-xa-hoi-lon-nhat-tphcm-tu-truoc-den-nay-100261118224120141.htm",
-"summary": "Khởi công khu đô thị nhà ở xã hội lớn nhất TP.HCM từ trước đến nay (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEHeJdDw2r9LpiwVflge3hLxfM9yA0lSoPOpjhMjhPhNNIYB4JikrW69lINx0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T06:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T07:15:28+07:00"
-},
-{
-"id": "22f1c0791819",
-"title": "Giá nhà ở xã hội tăng gấp 3 lần sau 5 năm, đề xuất 'khóa' người mua",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNXJpRlRoRHgxTTZNdzlVT1VIT2RqbXhicFo4NnEyVFhEVWZNcEVYUXVrWVI4ZUN1eURnN1RwRnNZMzU2cUJCaXlCNEVaZkI2WFZvVlJBZTdiZjdlbHZKMkd2alpxUFEyOXprY1lzODNGSkt5TEZEM3pjcVVRR0FjZzhtQzBqS0JWcjVDaVYzUmRnWWNsTUdxRlNQS3ptUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T06:50:00+07:00",
-"found": "2026-11-21T13:34:47+07:00"
-},
-{
-"id": "b3672271d7b6",
-"title": "Việt Nam chủ động, tích cực đóng góp vào thành công chung của Năm APEC 2026",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObi15SVNPakFQdnJNVEpCSmtUeUdPMmNnR0N2RV9VREtVWXlMT1lTMWZLbmFPN2ZXTFdxOTh3SHI1NG1yYzZfWEZUc1JHYnJ1bGdhbkV6MGFlSk1MVkp5bUt6bmdqTkgxVmRuSVFxeDNWcXNkSUE1YkkxREdvSEdRSW1FTTFtQm1xejhKZjBUeVY2V3hTR3AzYzJhZGVWeEVJRnZ0Y1BFWERhd0U?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T06:46:00+07:00",
-"found": "2026-11-21T09:13:42+07:00"
-},
-{
-"id": "f1d46c909518",
-"title": "Chó xấu lên ngôi, Gangnam Style trở lại, 2020 gọi tên và loạt trend gây sốt mạng xã hội tuần qua",
-"link": "https://tuoitre.vn/cho-xau-len-ngoi-gangnam-style-tro-lai-2020-goi-ten-va-loat-trend-gay-sot-mang-xa-hoi-tuan-qua-100261119205732282.htm",
-"summary": "Từ hội nhóm tôn vinh những chú chó có nhan sắc 'khó đỡ', màn tái xuất của Gangnam Style đình đám một thời đến trào lưu nhìn lại những bức ảnh từ năm 2020 là những xu hướng tuần qua.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/photo-1795095677363-17950956790442144927017-0-206-335-743-crop-17952185999742145996584.png",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-21T06:44:00+07:00",
-"found": "2026-11-21T07:46:21+07:00"
-},
-{
-"id": "b061b8314103",
-"title": "Tỷ giá USD hôm nay (21-11): Đồng USD hạ nhiệt",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVhmelV0T2JFczJQVDFId2ZkdW9VTHYwNDgtMU1HMWFoQkVMUkNpZC1qbjk0UU1kcUlCNzFuM2NUQTRKcVJlbERIRGZRdWFQWFh5amVzWFVkY0Qzd3lIMXFoVHFobmdhR1VSN25pb0lNSW5KZHFoWVluRV92cWJheg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T06:43:00+07:00",
-"found": "2026-11-21T07:00:19+07:00"
-},
-{
-"id": "485b71519efe",
-"title": "Được bệnh viện tuyến cuối tiếp sức, Bệnh viện đa khoa Bà Rịa thay đổi ra sao?",
-"link": "https://thanhnien.vn/duoc-benh-vien-tuyen-cuoi-tiep-suc-benh-vien-da-khoa-ba-ria-thay-doi-ra-sao-185261120205721068.htm",
-"summary": "Sau gần 6 tháng được 7 bệnh viện tuyến cuối ở TP.HCM hỗ trợ toàn diện về chuyên môn, đào tạo và quản trị, Bệnh viện đa khoa Bà Rịa đã đạt nhiều kết quả tích cực, từng bước làm chủ các kỹ thuật chuyên sâu.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/edit-edit-1795180038357821349631772387947282134963177238794727a4bc0bf70e55f8aed9507d4450a7fe4-17951829977811873092723-0-240-830-1568-crop-17951830123071293285222.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T06:42:00+07:00",
-"found": "2026-11-21T06:44:45+07:00"
 }
 ]
 }
