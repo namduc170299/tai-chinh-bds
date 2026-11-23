@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T20:12:56+07:00",
-"new": 13,
+"updated": "2026-11-23T20:28:07+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 27
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "93aa2779240b",
+"title": "Chi 370 tỷ chăm lo Tết người lao động, vận động doanh nghiệp ứng thưởng sớm",
+"link": "https://vietnamnet.vn/tphcm-chi-370-ty-dong-cham-lo-tet-cho-nguoi-lao-dong-2577952.html",
+"summary": "Liên đoàn Lao động TPHCM dành 370 tỷ đồng trao quà Tết Đinh Mùi 2027 cho 370.000 người lao động, đồng thời vận động doanh nghiệp tạm ứng thưởng sớm từ tháng 11.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/chi-370-ty-cham-lo-tet-nguoi-lao-dong-van-dong-doanh-nghiep-ung-thuong-som-2499.jpg?width=0&s=GIhlmZq9-pqJerwVPFmyFA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-23T20:25:29+07:00",
+"found": "2026-11-23T20:28:07+07:00"
+},
+{
+"id": "956acc206dfb",
+"title": "Hà Nội: Điều tra vụ nam thanh niên bị túm tóc, đánh bằng chai nhựa",
+"link": "https://vietnamnet.vn/ha-noi-dieu-tra-vu-nam-thanh-nien-bi-tum-toc-danh-bang-chai-2577933.html",
+"summary": "Công an Hà Nội đang xác minh, làm rõ vụ việc một nam thanh niên trình báo bị người đàn ông túm tóc, dùng chai nhựa đánh do mâu thuẫn liên quan đến khoản vay chưa trả.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/ha-noi-dieu-tra-vu-nam-thanh-nien-bi-tum-toc-danh-bang-chai-nhua-2484.png?width=0&s=_O7TVU6DJ4QSdetV1j_kgA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-23T20:19:01+07:00",
+"found": "2026-11-23T20:28:07+07:00"
+},
+{
+"id": "f2186f7c69c9",
+"title": "Giám đốc bị bắn tại phòng làm việc tử vong sau một tuần điều trị",
+"link": "https://vietnamnet.vn/giam-doc-bi-ban-tai-phong-lam-viec-tu-vong-sau-mot-tuan-dieu-tri-2577939.html",
+"summary": "Sau gần một tuần điều trị trong tình trạng hôn mê sâu, phải thở máy, ông Nguyễn Mạnh Cường, Giám đốc Công ty Lâm nghiệp La Ngà (Đồng Nai) đã tử vong. Ông Cường bị bắn tại phòng làm việc vào chiều 17/11.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/giam-doc-bi-ban-tai-phong-lam-viec-tu-vong-sau-mot-tuan-dieu-tri-2355.jpg?width=0&s=OwnVHbkmFKhq4HmbD5JDqQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-23T20:16:46+07:00",
+"found": "2026-11-23T20:12:56+07:00"
+},
+{
+"id": "e2bfa3aacae6",
+"title": "Nâng cao nhận thức của đoàn viên, thanh niên về vai trò của văn hóa",
+"link": "https://thanhnien.vn/nang-cao-nhan-thuc-cua-doan-vien-thanh-nien-ve-vai-tro-cua-van-hoa-185261123181832143.htm",
+"summary": "Tại hội nghị chuyên đề của Đoàn Thanh niên Dân vận, Mặt trận và các đoàn thể T.Ư, các đoàn viên thanh niên được quán triệt Nghị quyết số 80-NQ/TW đồng thời nâng cao nhận thức về vai trò của văn hóa trong phát triển đất nước.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/anh1-17954323847881275168333-0-0-1214-1942-crop-1795432396150388625037.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-23T20:14:00+07:00",
+"found": "2026-11-23T20:28:07+07:00"
+},
+{
 "id": "db2198c7cf8d",
 "title": "Người lao động khó khăn ở TP.HCM được chuyển khoản 1 triệu đồng từ tối nay",
 "link": "https://thanhnien.vn/nguoi-lao-dong-kho-khan-o-tphcm-duoc-chuyen-khoan-1-trieu-dong-tu-toi-nay-185261123154407565.htm",
@@ -224,15 +268,28 @@
 "found": "2026-11-23T20:12:56+07:00"
 },
 {
-"id": "f2186f7c69c9",
-"title": "Giám đốc bị bắn tại phòng làm việc tử vong sau một tuần điều trị",
-"link": "https://vietnamnet.vn/giam-doc-bi-ban-tai-phong-lam-viec-tu-vong-sau-mot-tuan-dieu-tri-2577939.html",
-"summary": "Sau gần một tuần điều trị trong tình trạng hôn mê sâu, phải thở máy, ông Nguyễn Mạnh Cường, Giám đốc Công ty Lâm nghiệp La Ngà (Đồng Nai) đã tử vong. Ông Cường bị bắn tại phòng làm việc vào chiều 17/11.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/giam-doc-bi-ban-tai-phong-lam-viec-tu-vong-sau-mot-tuan-dieu-tri-2355.jpg?width=0&s=OwnVHbkmFKhq4HmbD5JDqQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-23T19:58:42+07:00",
-"found": "2026-11-23T20:12:56+07:00"
+"id": "c62431e1d695",
+"title": "lào",
+"link": "https://vietnamnet.vn/thu-tuong-lao-saleumxay-kommasith-lan-dau-tham-viet-nam-2577819.html",
+"summary": "Thủ tướng Lào Saleumxay Kommasith lần đầu thăm Việt Nam (Báo VietNamNet)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJ4hunxBilfgzn1AQXoyxHBxvJ85C290eYdorudkERVP_WnCWXL1EgaJtwxAw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T20:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-23T20:28:07+07:00"
+},
+{
+"id": "89acef537986",
+"title": "iphone air 2",
+"link": "https://vnexpress.net/apple-chuan-bi-san-xuat-hang-loat-iphone-air-2-iphone-18-5147678.html",
+"summary": "Apple chuẩn bị sản xuất hàng loạt iPhone Air 2, iPhone 18 (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGE11D30wIwbRfUhT1OWth8TuON_S0sms8j_t-PJJAZrb7CxJCLTUIZgh2-14",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T20:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T20:28:07+07:00"
 },
 {
 "id": "dafc4e4a71f8",
@@ -359,6 +416,17 @@
 "found": "2026-11-23T19:57:45+07:00"
 },
 {
+"id": "7113a0c0f1a6",
+"title": "Lâm Đồng siết quản lý dân số trong căn hộ chung cư",
+"link": "https://vnexpress.net/lam-dong-siet-quan-ly-dan-so-trong-can-ho-chung-cu-5148162.html",
+"summary": "Tỉnh Lâm Đồng quy định dân số trong căn hộ chung cư thương mại từ 32-45 m² được tính 1 người, diện tích trên 160 m² tính 6 người, nhằm kiểm soát quy mô dân số, tránh quá tải hạ tầng.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/chung-cu-song-ca-ty-1795428151-4652-1795428762.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iy2nfRQs2YBxAs51a-wcqg",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-23T19:38:30+07:00",
+"found": "2026-11-23T20:28:07+07:00"
+},
+{
 "id": "3e55029f0e93",
 "title": "Hà Nội tìm nhà đầu tư khu đô thị gần 50 ha",
 "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX1NWYmY4MHhqcXdob3hKa2dVU1QxbUtyR254LWdxcXAxUlkxaGN1WUhZX3RhdnM1S0V3OVQzeFZsaUh6aXAwbFk5NUo0LXhzN3h6TlpadFVvd2Q2MGxINEJGZFZQV3VYM1hmZ281YVRScnBCSVlnQ3ZhQmpwME5MRQ?oc=5",
@@ -368,6 +436,28 @@
 "cat": "bds",
 "published": "2026-11-23T19:38:00+07:00",
 "found": "2026-11-23T19:57:45+07:00"
+},
+{
+"id": "10a0b003a46f",
+"title": "Khởi tố tài xế xe tải tông chết một người đang hỗ trợ giải quyết tai nạn giao thông",
+"link": "https://tuoitre.vn/khoi-to-tai-xe-xe-tai-tong-chet-mot-nguoi-dang-ho-tro-giai-quyet-tai-nan-giao-thong-100261123174049447.htm",
+"summary": "Khi đến ngã tư gặp người và chướng ngại vật, tài xế xe tải không làm chủ tốc độ, không giảm tốc độ đến mức an toàn hoặc dừng xe, dẫn đến tông vào một người đàn ông đang hỗ trợ giải quyết tai nạn giao thông, khiến nạn nhân tử vong.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/1123-1795429884027380576792-12-34-216-360-crop-17954376711101461350511.gif",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T19:38:00+07:00",
+"found": "2026-11-23T20:28:07+07:00"
+},
+{
+"id": "8a971a1acdde",
+"title": "Cho vay tiền với lãi suất 1%/ngày, người đàn ông vừa bị phạt tù, vừa bị phạt tiền",
+"link": "https://tuoitre.vn/cho-vay-tien-voi-lai-suat-1-ngay-nguoi-dan-ong-vua-bi-phat-tu-vua-bi-phat-tien-100261123174326844.htm",
+"summary": "Sơn cho vay 300 triệu, lãi suất 1%/ngày, tiền lời đã nhận 458 triệu thì chỉ có 26 triệu hợp pháp, còn 432 triệu là thu lợi bất chính.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/cho-vay-lai-suat-cao-17954303359991731239565-170-0-1420-2000-crop-1795430554710389507793.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T19:37:00+07:00",
+"found": "2026-11-23T20:28:07+07:00"
 },
 {
 "id": "5af6c0254c7c",
@@ -764,6 +854,17 @@
 "cat": "tc",
 "published": "2026-11-23T18:44:00+07:00",
 "found": "2026-11-23T19:57:45+07:00"
+},
+{
+"id": "b26d4ead4a90",
+"title": "Đổ hơn 580 tấn chất thải ra môi trường, phó giám đốc công ty đá bị khởi tố",
+"link": "https://tuoitre.vn/do-hon-580-tan-chat-thai-ra-moi-truong-pho-giam-doc-cong-ty-da-bi-khoi-to-100261123181440727.htm",
+"summary": "Phó giám đốc một công ty đá tại Gia Lai và 1 nhân viên bị khởi tố để điều tra vì đã đổ hơn 580 tấn chất thải đá granite ra môi trường trong quá trình hoạt động chế biến.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/anh-chup-man-hinh-2026-11-23-luc-180333-17954318282651747528114-60-0-1250-1904-crop-17954318989791929500709.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T18:43:00+07:00",
+"found": "2026-11-23T20:28:07+07:00"
 },
 {
 "id": "404f13ba9780",
@@ -28019,107 +28120,6 @@
 "cat": "tc",
 "published": "2026-11-20T18:38:00+07:00",
 "found": "2026-11-20T18:45:15+07:00"
-},
-{
-"id": "1897202979c1",
-"title": "Chính phủ được quyết định gói chính sách ưu đãi, hỗ trợ đầu tư vượt trội",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTVQ0ZktwdHRwT3piTmZxTDB4U3p2R0YzZmxHLXFEWmRVVWlZTFpSMFVKOWl0eDFQM1hPY1ZsdEptLWd1V0Zha3dhUDdXXy1wYzlOX2xRcTBpX2QzdDBleW1NaWoxNjVkVy15MnZEbHJlc2VqTnkzWUNCV3pHN3Q1VFdaQy03MmxoVVZ2NjlkS2FuWGpYWUZVaUdOSFFSNVZ1TkM2ZTZkMA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T18:38:00+07:00",
-"found": "2026-11-22T13:49:21+07:00"
-},
-{
-"id": "859adbc661c4",
-"title": "Hạ tầng đang triển khai và bài toán sở hữu căn hộ tại cực phát triển mới",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGFZNmFJb0dwY2tNUkpjSG1NUHY4TjdTd3RfMUZBdWwwWEhtaDVKUFl4VFc2aF8xSWdILWg2N3NncmFnYzZQbFhOWDkzS2xsQ2JTTzgwMVRLdTU3eVdvbUNBSS1iNl9fQlZmUm5saXRvODdNdzU4b2xhZzY4em9jNGtKaGQ5S3lPQ296MVFObDk2d3RyQzBCWmlXbzRMSFhHdlFpbFBWN2w?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T18:32:14+07:00",
-"found": "2026-11-20T18:45:15+07:00"
-},
-{
-"id": "a2ba652189d4",
-"title": "Đoạn clip 15 giây gây tranh cãi nhất mạng xã hội ngày 19/11: \"Bóc\" hàng loạt vi phạm",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSlBOaUhCYm55VVVSZ1otbXAya2hOUUFvVm9tWDE2b29sa3lWYXYtLTNzQjhicFkzVm45cXVrWENZVnk1OGxXLVRGZ3N1cjFWSHN6LVBGTVVqdGRQWDVsTGJoNDlYYmV5bW55SHZNS1UwUUNoREpaeFlXYVRDWDE0NldHcVNINE53NFo3aVE3QVJ3b2xoanpSamxaTkNNa3BaNERKQXl4OEdsbUVscVJudmhJSVQ5QlhuZ3hVcw?oc=5",
-"summary": "Nguồn: SOHA",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T18:32:00+07:00",
-"found": "2026-11-22T12:08:56+07:00"
-},
-{
-"id": "0de8ca2a3500",
-"title": "Người đàn ông đặt mua điện thoại, tivi, máy giặt rồi chiếm đoạt",
-"link": "https://dantri.com.vn/phap-luat/nguoi-dan-ong-dat-mua-dien-thoai-tivi-may-giat-roi-chiem-doat-20261120182123141.htm",
-"summary": "(Dân trí) - Trần Văn Tuấn bị điều tra về thủ đoạn gian dối chiếm đoạt hàng điện máy trị giá 58,5 triệu đồng và điện thoại 19 triệu đồng của nhân viên giao hàng.",
-"image": "https://cdnphoto.dantri.com.vn/26dR1J06IokI7XJXrGcbtsx5L3A=/2026/11/20/cong-an-kham-nha-tuan-edited-1795173560226.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-20T18:31:59+07:00",
-"found": "2026-11-20T19:00:27+07:00"
-},
-{
-"id": "4dcd1c5ae714",
-"title": "Dân chung cư 'ông Thản'- CT6 Kiến Hưng: 'Mong vẫn ở lại căn nhà mình, đừng nói bồi thường cao'",
-"link": "https://kenh14.vn/dan-chung-cu-ong-than-ct6-kien-hung-mong-van-o-lai-can-nha-minh-dung-noi-boi-thuong-cao-215261120173146346.chn",
-"summary": "Sau phiên xét xử vụ án xảy ra tại dự án CT6 Kiến Hưng (phường Kiến Hưng, Hà Nội), một số người dân đang sinh sống tại tòa CT6C cho biết, mong mỏi của họ vẫn là được ở lại căn nhà của mình. Đồng thời cho rằng mức giá 56 triệu đồng/m2 tại tòa nhà này là sát thực tế chứ không thể…",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795170693929-1795170694223577107065.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T18:31:00+07:00",
-"found": "2026-11-20T18:45:15+07:00"
-},
-{
-"id": "929de9126ef8",
-"title": "j league",
-"link": "https://www.jleague.jp/en/news/article/35365/?navicode=j1",
-"summary": "Records within Reach [MEIJI YASUDA J1 Matchweek 15] (Ｊリーグ公式サイト)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bzKK1YGX8tDYmmkQkzCSn1QAfY5yHJ7dwhsXoZIRhSHt9Aux2AhYBckXh-I",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T18:30:00+07:00",
-"traffic": "100+",
-"found": "2026-11-20T18:45:15+07:00"
-},
-{
-"id": "72666303be51",
-"title": "so xo mien bac",
-"link": "https://laodong.vn/ban-doc/ket-qua-xo-so-ngay-1911-cua-cac-dai-tay-ninh-an-giang-binh-thuan-1803168.ldo",
-"summary": "Kết quả xổ số ngày 19.11 của các đài Tây Ninh, An Giang, Bình Thuận (Laodong.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtGYtohGf6ZHBl7oZatVdq5ajAc7x5dvQMybknB3NenKWp41xkspx5G3brTGA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T18:30:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-20T19:15:39+07:00"
-},
-{
-"id": "5e71fd4858a1",
-"title": "Nhà Trắng lên tiếng về nghi vấn ông Trump ngủ gật lúc ông Tập phát biểu",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY1VSTWY4X2c5ZU9ZV3R6Ym1aaDkwODRrY1BjeXVGLTRjd3U1VUVUeWE3Skg1NHpDZlRUQWNwX1lLbE5DT3U2WUpobVB5WFpnTUUwUEtQQkZxUnJGa2hUMTIzcmd0ZnZpMUFGRm41dWJjUjZsN3JvbGFoUmRyeXZJTmJrQVZxZVIzR1pTenlhOA?oc=5",
-"summary": "Nguồn: TAMDA MEDIA",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-20T18:29:52+07:00",
-"found": "2026-11-21T02:58:44+07:00"
-},
-{
-"id": "9090b3ba7582",
-"title": "Trao hợp đồng thực hiện dự án đầu tư kinh doanh khu đô thị và giấy chứng nhận đăng ký đầu tư các dự án điện gió",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcmdpdXNIX0txdy1uM1VRYTVxaUtBdl9GVTJIb2RseVAtcnR1Q2oxcm1HNGd0SlBhME9BUWxLNDZEa05LOFkzVnVkUHdEYWo1cGFxS1cxbDBKeFZJa0w0bnFBZ2dUN3kyT2JEY2pmaVhWR19qUXZ3TmVQUktqU0toVWY4TXBnWFN5SDFNSjVDMkVINGhoMENjUXZocFR3ZnoySDQyaFdsYnNBalhNakJneXZXd3BMYTVLVnpyZ191eWFqLVV3X2JEaExpeGgwX1VhVW9uRVFZdXJQYy1T?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T18:25:24+07:00",
-"found": "2026-11-21T06:29:33+07:00"
 }
 ]
 }
