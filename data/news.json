@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T01:22:39+07:00",
+"updated": "2026-11-24T01:37:51+07:00",
 "new": 4,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 41
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,30 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "43bc40982cd5",
+"title": "al ittihad đấu với pakhtakor",
+"link": "https://baonghean.vn/truc-tiep-al-ittihad-fc-vs-pakhtakor-al-ittihad-fc-mo-ty-so-10356476.html",
+"summary": "Trực tiếp Al-Ittihad FC vs Pakhtakor: Al-Ittihad FC mở tỷ số (Báo Nghệ An)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnWYB_CFNHsrzH5kUz9IlMlmgzVBmreWc_xOAdFGuzE3dG2RPfmoV7CEm6sQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T01:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T01:37:51+07:00"
+},
+{
+"id": "1c1d85cae773",
+"title": "go kyung pyo",
+"link": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261118/bogum-magical-to-join-other-shows-in-editing-out-embattled-actor-ko",
+"summary": "'Bogum Magical' to join other shows in editing out embattled actor Ko (The Korea Times)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9BCbWYf6y89h0vEweayX8zC6-1LBvV4ivFUvAN0zkoOgNBctYGPkMSYAcvbM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T01:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T01:37:51+07:00"
+},
 {
 "id": "c5139588aba2",
 "title": "Ngày 24/11, gửi dưới 100 triệu đồng kỳ hạn 9 tháng tại Nam A Bank, LPBank, MSB, VIB và OCB nhận được bao nhiêu tiền lãi?",
@@ -349,7 +373,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T00:10:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-24T00:27:58+07:00"
 },
 {
@@ -428,6 +452,17 @@
 "cat": "tc",
 "published": "2026-11-24T00:01:00+07:00",
 "found": "2026-11-24T00:12:29+07:00"
+},
+{
+"id": "7b6e379517a6",
+"title": "Ngân hàng SCB có chủ tịch mới",
+"link": "https://vnexpress.net/ngan-hang-scb-co-chu-tich-moi-5148245.html",
+"summary": "Sau 4 năm làm Tổng giám đốc SCB, ông Phạm Quang Tiến được bổ nhiệm giữ chức Chủ tịch Hội đồng quản trị ngân hàng, thay ông Phạm Đình Điền.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/phamquangtienscb-1795445644-8047-1795445815.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6SdDfwOmSrfADNlzfUtdYA",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-24T00:00:30+07:00",
+"found": "2026-11-23T22:56:53+07:00"
 },
 {
 "id": "00a201b465a5",
@@ -539,7 +574,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T23:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-23T23:28:19+07:00"
 },
 {
@@ -596,7 +631,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T22:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-23T23:13:09+07:00"
 },
 {
@@ -944,17 +979,6 @@
 "published": "2026-11-23T22:10:00+07:00",
 "traffic": "500+",
 "found": "2026-11-23T22:41:23+07:00"
-},
-{
-"id": "7b6e379517a6",
-"title": "Ngân hàng SCB có chủ tịch mới",
-"link": "https://vnexpress.net/ngan-hang-scb-co-chu-tich-moi-5148245.html",
-"summary": "Sau 4 năm làm Tổng giám đốc SCB, ông Phạm Quang Tiến được bổ nhiệm giữ chức Chủ tịch Hội đồng quản trị ngân hàng, thay ông Phạm Đình Điền.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/phamquangtienscb-1795445644-8047-1795445815.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6SdDfwOmSrfADNlzfUtdYA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-23T22:09:30+07:00",
-"found": "2026-11-23T22:56:53+07:00"
 },
 {
 "id": "4a2352765634",
@@ -1361,6 +1385,17 @@
 "published": "2026-11-23T21:10:00+07:00",
 "traffic": "1000+",
 "found": "2026-11-23T22:10:20+07:00"
+},
+{
+"id": "69de13b85492",
+"title": "Những người bền bỉ góp sức mở đường Vành đai 2,5",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVBvVFN3NWtJajJrU2hiN3NSemJiemxMZmpLdl9EUDZzcXhrNjAxaGs1a3Fvc1lvVnZieEtJRnV1QmFKM0FaamZYZ3ZDdGdPVmxSNXlkWEVHRGwzcXRGTkU1bWhSazd2SWVwb2dhTkFFRkhsN3U1WHR3U000MWI2bC1OTk03c1BR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T21:10:00+07:00",
+"found": "2026-11-24T01:37:51+07:00"
 },
 {
 "id": "6442e3d06b08",
@@ -5516,6 +5551,17 @@
 "found": "2026-11-23T14:02:05+07:00"
 },
 {
+"id": "5af06a8c1884",
+"title": "UBND tỉnh cho ý kiến các nội dung trình kỳ họp thường lệ cuối năm 2026 HĐND tỉnh",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGlJNnRmemo3YXlvTFU4T2JlelRhQ3hXNGpxRXRyY3VxQVdyLUlGajJOSXJmdGxIRUZjdTVvRmphbTdwb3NvYkZOaGZiWTZiNVVpUFVoajU1VFpsTG94WUxyejYteHROM1cwZ1ZUWm9RNzI0Vkt5am55OXZ1V1dtSWppS1RmQlJGYWxsNFNoMVJReVg0UjZPSTI1VlJZREtvMzVGdl9CQ05OMG5rZU1tZEZLdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T13:30:23+07:00",
+"found": "2026-11-24T01:37:51+07:00"
+},
+{
 "id": "3ba920f4101e",
 "title": "Cán bộ thuế 'bảo kê' đường dây bán 47.000 hóa đơn khống lĩnh 8 năm tù",
 "link": "https://vnexpress.net/can-bo-thue-bao-ke-duong-day-ban-47-000-hoa-don-khong-linh-8-nam-tu-5147997.html",
@@ -9582,6 +9628,17 @@
 "cat": "xh",
 "published": "2026-11-23T07:00:00+07:00",
 "found": "2026-11-21T17:57:42+07:00"
+},
+{
+"id": "93b054f3741d",
+"title": "Quốc phát hiện thân phận thật của người mà Phú giới thiệu là bố | Đội bóng nữ làng Xuân | Tập 22",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DUm9YNTU3aW5wN3hBWkk4R1lSS1JFalFWUFNBLWtOeWlqYkNXdVVCQ3hKTU9POFRvT19uMXRnSEQ?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T07:00:00+07:00",
+"found": "2026-11-22T18:30:15+07:00"
 },
 {
 "id": "5057cbfc575a",
@@ -17077,17 +17134,6 @@
 "cat": "xh",
 "published": "2026-11-22T07:00:00+07:00",
 "found": "2026-11-20T03:47:43+07:00"
-},
-{
-"id": "93b054f3741d",
-"title": "Quốc phát hiện thân phận thật của người mà Phú giới thiệu là bố | Đội bóng nữ làng Xuân | Tập 22",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DUm9YNTU3aW5wN3hBWkk4R1lSS1JFalFWUFNBLWtOeWlqYkNXdVVCQ3hKTU9POFRvT19uMXRnSEQ?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-22T07:00:00+07:00",
-"found": "2026-11-22T18:30:15+07:00"
 },
 {
 "id": "3834932826c4",
@@ -28091,50 +28137,6 @@
 "cat": "xh",
 "published": "2026-11-20T22:48:23+07:00",
 "found": "2026-11-20T23:46:01+07:00"
-},
-{
-"id": "1980256eab84",
-"title": "Than nghèo kể khổ để cầm cố 22 xe máy đi thuê",
-"link": "https://vnexpress.net/than-ngheo-ke-kho-de-cam-co-22-xe-may-di-thue-5147208.html",
-"summary": "Giang Thị Quỳnh Anh thuê 22 xe máy tự lái, sau đó nói dối đây là tài sản của gia đình, viện hoàn cảnh khó khăn để mang đi cầm cố lấy tiền trả nợ.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/20/179515874119572140450174573902-7386-7296-1795172326.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fqSyb1tUTcIeoQyxqvvjGg",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-20T22:47:37+07:00",
-"found": "2026-11-20T23:35:52+07:00"
-},
-{
-"id": "56977d913691",
-"title": "Era City ra mắt nhà phố Dual-Living: Lời giải vừa ở vừa kinh doanh tại Ban Mê",
-"link": "https://vietnamnet.vn/era-city-ra-mat-nha-pho-dual-living-loi-giai-vua-o-vua-kinh-doanh-tai-ban-me-2575369.html",
-"summary": "Giải bài toán vừa giao thương thuận tiện, vừa an cư sinh thái biệt lập cho giới thương nhân Ban Mê, mô hình nhà phố Dual-Living tại Era City mang đến chuẩn mực không gian vừa ở vừa kinh doanh mới giữa lòng thủ phủ Tây Nguyên.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/16/era-city-ra-mat-nha-pho-dual-living-loi-giai-vua-o-vua-kinh-doanh-tai-ban-me-793.png?width=0&s=1dFVr9jnY-cYKaqHGY7ARg",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-20T22:41:47+07:00",
-"found": "2026-11-20T22:45:33+07:00"
-},
-{
-"id": "725c9d6c8792",
-"title": "Cổ phiếu Anthropic lên sàn ấn tượng vẫn không dập tắt nỗi lo đầu tư AI",
-"link": "https://tuoitre.vn/co-phieu-anthropic-len-san-an-tuong-van-khong-dap-tat-noi-lo-dau-tu-ai-100261120221143058.htm",
-"summary": "Cổ phiếu Anthropic tăng mạnh trong ngày đầu giao dịch, nhưng không đủ xua tan nỗi lo về làn sóng đầu tư vào trí tuệ nhân tạo (AI).",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/afp202611192305959481v1highresnyseclosesafterdowlostover1100points-17951867484831013490229-4-0-1604-2560-crop-1795187296434129179582.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-20T22:37:00+07:00",
-"found": "2026-11-20T23:46:01+07:00"
-},
-{
-"id": "20bf15ca89fd",
-"title": "Phát hiện 21 cá thể chim hoang dã, nhiều con bị khâu mắt",
-"link": "https://dantri.com.vn/phap-luat/phat-hien-21-ca-the-chim-hoang-da-nhieu-con-bi-khau-mat-20261120222738023.htm",
-"summary": "(Dân trí) - Lực lượng chức năng Hải Phòng phát hiện 21 cá thể chim hoang dã bị nhốt tại nhà một phụ nữ ở xã Nghi Dương, trong đó nhiều con có sức khỏe yếu, bị khâu mắt.",
-"image": "https://cdnphoto.dantri.com.vn/n21zedM2saAGbuON-f3yUEb0WnE=/2026/11/20/tang-vat-edited-1795188276192.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-20T22:35:25+07:00",
-"found": "2026-11-20T23:05:31+07:00"
 }
 ]
 }
