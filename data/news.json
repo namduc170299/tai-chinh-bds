@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T04:42:56+07:00",
+"updated": "2026-11-24T04:58:06+07:00",
 "new": 5,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 42
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,53 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "c31e8d05ae99",
+"title": "San ủi một phần quả đồi làm bãi tập kết khoáng sản trái phép ở Đà Nẵng",
+"link": "https://thanhnien.vn/san-ui-mot-phan-qua-doi-lam-bai-tap-ket-khoang-san-trai-phep-o-da-nang-185261122152333405.htm",
+"summary": "Một phần quả đồi tại phường Hòa Khánh (thành phố Đà Nẵng) bị đào xẻ, hạ thấp cao độ để tạo mặt bằng, phục vụ việc tập kết, trung chuyển khoáng sản trái phép.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/tnw-1795333372260629020875924282245062902087592428224501c0e34de0545337ea045b06ccb456877-1795335475923243017917-0-193-1440-2497-crop-1795335758764200284659.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T04:52:00+07:00",
+"found": "2026-11-24T04:58:06+07:00"
+},
+{
+"id": "f0162b23af59",
+"title": "mưa",
+"link": "https://vnexpress.net/mien-trung-co-the-mua-tren-750-mm-trong-7-ngay-toi-5148111.html",
+"summary": "Miền Trung có thể mưa trên 750 mm trong 7 ngày tới (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKrGaJm40O1LD46eJTyZpwSI07JdZ6UCFyLF5Syw-fkt_A7-iDHRX5hDaUhw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T04:40:00+07:00",
+"traffic": "10000+",
+"found": "2026-11-24T04:58:06+07:00"
+},
+{
+"id": "b62bfcf97182",
+"title": "cục cảnh sát giao thông",
+"link": "https://www.24h.com.vn/tin-tuc-trong-ngay/bo-phat-den-vang-tang-phat-luy-tien-can-phan-dinh-ro-hanh-vi-c46a1813411.html",
+"summary": "Bỏ phạt đèn vàng, tăng phạt lũy tiến: Cần phân định rõ hành vi (Tin tức 24h)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFYxqmvLMYZ8_8mK_Xqc3a3bffagxEbasPjp2i60f7auiqY9FgxZkpkKG28FE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T04:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T04:58:06+07:00"
+},
+{
+"id": "e7465898788f",
+"title": "bao moi",
+"link": "https://laodong.vn/the-gioi/du-bao-bao-ap-thap-gan-philippines-khong-khi-lanh-o-viet-nam-tuan-toi-1804614.ldo",
+"summary": "Dự báo bão, áp thấp gần Philippines, không khí lạnh ở Việt Nam tuần tới (Laodong.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXaqt2xDfhjbNWJNy62L7DpWqTT_aKDmlcxvumn_4sGXT69wamTyJn48cK0Mg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T04:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T04:58:06+07:00"
+},
 {
 "id": "057e330ef08b",
 "title": "Xem thú đêm ở Vườn quốc gia Cát Tiên: Tour du lịch đơn giản nhưng cuốn hút",
@@ -302,7 +349,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T02:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-24T03:57:01+07:00"
 },
 {
@@ -13430,17 +13477,6 @@
 "found": "2026-11-22T17:44:28+07:00"
 },
 {
-"id": "d5dedd6622a8",
-"title": "Tỷ giá USD hôm nay (22-11): Đồng USD trải qua tuần tăng giá thứ tư liên tiếp",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnlXNURPa0lnX1JEOVpsN0lqRXRYdlFEa1hpam1nSEtUcTZodlB2T0UtWV9HSm94MldtVVMtSlBaY3ZqeVl3Nnh2Tmp0enBFTjRuQldsVHhEOFJyTmRxV3FNX0NiVnhZYU91VExVcEdlYU15VEpYQzEtVGZXRHlPRDVvdzBoZGcyR25zSFN1eHh1ZERieDJhdTJfZlZCYWRUUkZPZGU3Y0pkUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T16:49:26+07:00",
-"found": "2026-11-22T06:16:11+07:00"
-},
-{
 "id": "eb47fe039c5a",
 "title": "Những con số ấn tượng của Kỳ họp thứ 2, Quốc hội khóa XVI",
 "link": "https://tuoitre.vn/nhung-con-so-an-tuong-cua-ky-hop-thu-2-quoc-hoi-khoa-xvi-100261122101308079.htm",
@@ -14673,6 +14709,17 @@
 "cat": "bds",
 "published": "2026-11-22T13:08:00+07:00",
 "found": "2026-11-22T13:21:11+07:00"
+},
+{
+"id": "c8995db27880",
+"title": "Cận cảnh bên trong 'trái tim' sân bay Long Thành trước ngày đón khách",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHdGVzJwR05yelhvVkZ1X084QXI0V1RlWmx3ZEZ1dHhqRXBEUnFpZ2VhTmczT2R1NkxmR0FQaGNhQ3hxbTZpcFdpcklWdkF5bHlHYkRkX0RLOTRtWmpvM2Utbk5YZVI0YnFUQW92Vl9yUEF1UFFlcGJNOXR6b2o3RE5pTDhROWl5WFdKQXZyMG9URzN3WU5NOWlSSlZhNU0yQmc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-22T13:04:39+07:00",
+"found": "2026-11-24T04:58:06+07:00"
 },
 {
 "id": "83005506fa0a",
@@ -17937,6 +17984,17 @@
 "cat": "xh",
 "published": "2026-11-22T06:19:42+07:00",
 "found": "2026-11-22T07:02:04+07:00"
+},
+{
+"id": "d5dedd6622a8",
+"title": "Tỷ giá USD hôm nay (22-11): Đồng USD trải qua tuần tăng giá thứ tư liên tiếp",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnlXNURPa0lnX1JEOVpsN0lqRXRYdlFEa1hpam1nSEtUcTZodlB2T0UtWV9HSm94MldtVVMtSlBaY3ZqeVl3Nnh2Tmp0enBFTjRuQldsVHhEOFJyTmRxV3FNX0NiVnhZYU91VExVcEdlYU15VEpYQzEtVGZXRHlPRDVvdzBoZGcyR25zSFN1eHh1ZERieDJhdTJfZlZCYWRUUkZPZGU3Y0pkUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-22T06:14:00+07:00",
+"found": "2026-11-22T06:16:11+07:00"
 },
 {
 "id": "88ee72eeac11",
@@ -28067,63 +28125,6 @@
 "cat": "xh",
 "published": "2026-11-21T05:18:00+07:00",
 "found": "2026-11-21T05:28:31+07:00"
-},
-{
-"id": "244ee0464c8c",
-"title": "tin the thao",
-"link": "https://thanhnien.vn/dien-mao-moi-cua-san-thong-nhat-san-sang-to-chuc-dai-hoi-the-thao-toan-quoc-1852611192012252.htm",
-"summary": "Diện mạo mới khang trang của sân Thống Nhất: Sẵn sàng tổ chức Đại hội Thể thao toàn quốc (Thanh Niên)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8rehYdivUuBcqsiLtHP962VxR-OzgsFG_xodXyn_Ea9ORRywXw_DOsymm8cQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T05:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T05:28:31+07:00"
-},
-{
-"id": "6bd46e8c2e16",
-"title": "thứ hạng của athletic bilbao gặp espanyol",
-"link": "https://bongdaplus.vn/la-liga/nhan-dinh-bong-da-bilbao-vs-espanyol-03h00-ngay-21-11-5293442611.html",
-"summary": "Nhận định bóng đá Bilbao vs Espanyol, 03h00 ngày 21/11: Chủ nhà trọn niềm vui (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBIxhU4CM1QbqQO-iNfEzp04VGmJZXQMF4lBu1OE7Pnhlg9-q-FsbtAeC6nrQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T05:10:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-21T06:29:33+07:00"
-},
-{
-"id": "97214460a900",
-"title": "Thời tiết hôm nay 21-11: Bắc Bộ có nơi dưới 9 độ C, Trung Bộ mưa to",
-"link": "https://tuoitre.vn/thoi-tiet-hom-nay-21-11-bac-bo-co-noi-duoi-9-do-c-trung-bo-mua-to-100261120160101844.htm",
-"summary": "Hôm nay 21-11, thời tiết Bắc Bộ lạnh đến rét, nhiệt độ vùng núi cao giảm thấp. Trung Bộ còn mưa to đến hết hôm nay, sau đó giảm dần.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/mua-ret-17005598504671718248525-60-0-1310-2000-crop-1795165186659392920150.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T05:07:00+07:00",
-"found": "2026-11-21T05:28:31+07:00"
-},
-{
-"id": "7329622f7bad",
-"title": "Nhà máy điện rác 2.000 tỷ đồng hơn 20 năm vẫn chưa xong",
-"link": "https://vietnamnet.vn/bai-3-nha-may-dien-rac-hon-20-nam-van-chua-xong-2563437.html",
-"summary": "Một số nhà máy xử lý rác quy mô lớn tại Thanh Hóa, Nghệ An được đầu tư hàng trăm đến hàng nghìn tỷ đồng. Tuy nhiên, sau nhiều năm triển khai, có dự án vẫn chưa hoạt động, trong khi rác thải ngày càng quá tải, gây áp lực lên môi trường.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/nha-may-dien-rac-2-3171.jpg?width=0&s=H4_MEA9tsTCzWu4B_U4MSg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-21T05:02:00+07:00",
-"found": "2026-11-21T05:03:04+07:00"
-},
-{
-"id": "7784ba4bb1b4",
-"title": "PNJ trả tiền mua lại vàng trong một ngày, kim cương vẫn chờ 4 tháng",
-"link": "https://vnexpress.net/pnj-tra-tien-mua-lai-vang-trong-mot-ngay-kim-cuong-van-cho-4-thang-5147256.html",
-"summary": "Khách bán lại vàng miếng, một số loại trang sức tại PNJ có thể nhận đủ tiền sau tối đa 1 ngày, còn kim cương tiếp tục chờ 120 ngày.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/wm1-wm1-426886958-1795188657-2803-1795188885.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=KJYWBi370RnvsBbRmci4KQ",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-21T05:00:00+07:00",
-"found": "2026-11-21T05:13:21+07:00"
 }
 ]
 }
