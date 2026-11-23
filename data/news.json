@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T22:56:53+07:00",
-"new": 7,
+"updated": "2026-11-23T23:13:09+07:00",
+"new": 11,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,63 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "137f983bb3fb",
+"title": "Sau 13 năm, công trình hơn 800 tỷ đồng với kiến trúc hai khối nhà nghiêng bên sông Sài Gòn chính thức mở cửa",
+"link": "https://kenh14.vn/sau-13-nam-cong-trinh-hon-800-ty-dong-voi-kien-truc-hai-khoi-nha-nghieng-ben-song-sai-gon-chinh-thuc-mo-cua-21526112319514128.chn",
+"summary": "Sau 13 năm xây dựng và nhiều năm đình trệ, Trung tâm Triển lãm Quy hoạch TP.HCM với kiến trúc hai khối nhà nghiêng độc đáo chính thức mở cửa ngày 23/11, thu hút đông đảo người dân đến tham quan, khám phá không gian trưng bày hiện đại.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795438234695-1795438235040443057227.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-23T22:57:00+07:00",
+"found": "2026-11-23T23:13:09+07:00"
+},
+{
+"id": "046e530a8e82",
+"title": "Khởi tố phó giám đốc công ty cùng thuộc cấp vì đổ gần 600 tấn chất thải",
+"link": "https://dantri.com.vn/phap-luat/khoi-to-pho-giam-doc-cong-ty-cung-thuoc-cap-vi-do-gan-600-tan-chat-thai-20261123221809537.htm",
+"summary": "(Dân trí) - Phó giám đốc một công ty ở Gia Lai cùng nhân viên đã bị khởi tố để điều tra, liên quan đến việc đổ gần 600 tấn chất thải đá granite, gây ô nhiễm môi trường.",
+"image": "https://cdnphoto.dantri.com.vn/tOji5nQjPNJecFIXoZvhrVUnWsI=/2026/11/23/phap-luat-khoi-to-pho-giam-doc-cung-nhan-vien-do-gan-600-tan-chat-thai-da-gay-o-nhiemanh-minh-hoa-ngoc-hungjpg-1795446464730.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-23T22:51:35+07:00",
+"found": "2026-11-23T23:13:09+07:00"
+},
+{
+"id": "5eceb1c6f31b",
+"title": "tv",
+"link": "https://golf.com/news/pga-tour-season-ends-no-fans-rsm-classic/",
+"summary": "The PGA Tour season will end without fans. Davis Love III defended the controversial decision (GOLF.com)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1eUG6nhue-zFEl17wBopSXx2KZCXwyKzEkjJ967tebrEY_5XuMKQEfV4NMbQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T22:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T23:13:09+07:00"
+},
+{
+"id": "c8645ec7b174",
+"title": "vietnam vs new zealand",
+"link": "https://vietnamnet.vn/en/vietnam-eyes-u17-world-cup-knockout-spot-2577419.html",
+"summary": "Vietnam eyes U17 World Cup knockout spot after narrow Belgium defeat (Báo VietNamNet)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiU47q6D_du-DXe1daGvjHb_1XmOgNbxhV25p8lJodZxw6w8Odx1YIZ9f6rIs",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T22:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-23T23:13:09+07:00"
+},
+{
+"id": "6527bcb2ce7e",
+"title": "Công an kiểm tra quán karaoke, phát hiện cả đường dây kinh doanh bóng cười",
+"link": "https://dantri.com.vn/phap-luat/cong-an-kiem-tra-quan-karaoke-phat-hien-ca-duong-day-kinh-doanh-bong-cuoi-20261123223600566.htm",
+"summary": "(Dân trí) - Từ kiểm tra 3 quán karaoke, Công an Hải Phòng phát hiện đường dây cung cấp khí N2O (khí cười) do Hoàng Văn Luân cầm đầu, liên quan đến 15 cơ sở kinh doanh.",
+"image": "https://cdnphoto.dantri.com.vn/undtj2q9QIdktDsKD8xKDblqPqo=/2026/11/23/tang-vat-edited-1795448071880.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-23T22:47:49+07:00",
+"found": "2026-11-23T23:13:09+07:00"
+},
+{
 "id": "2e0307176e27",
 "title": "bongda",
 "link": "https://bongdaplus.vn/u17-world-cup/nhan-dinh-bong-da-u17-australia-vs-u17-mozambique-22h30-ngay-25-11-kho-luong-cuoc-chien-ngoi-dau-5298642611.html",
@@ -223,6 +280,17 @@
 "published": "2026-11-23T22:40:00+07:00",
 "traffic": "200+",
 "found": "2026-11-23T22:56:53+07:00"
+},
+{
+"id": "c738332cac06",
+"title": "Người nộp thuế không phải làm hồ sơ xóa nợ lệ phí môn bài",
+"link": "https://vnexpress.net/nguoi-nop-thue-khong-phai-lam-ho-so-xoa-no-le-phi-mon-bai-5148221.html",
+"summary": "Cơ quan thuế dựa trên dữ liệu quản lý để xóa nợ lệ phí môn bài, riêng tiền chậm nộp, người đề nghị phải trả đủ nợ gốc, tiền phạt và nộp hồ sơ hợp lệ trước hạn.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/DSC2018-1795440833-1953-1795442775.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8MeBKEnVKPuIs8BK63eOXw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-23T22:37:34+07:00",
+"found": "2026-11-23T23:13:09+07:00"
 },
 {
 "id": "c18aa213d84a",
@@ -273,6 +341,18 @@
 "found": "2026-11-23T22:56:53+07:00"
 },
 {
+"id": "b066a2e4b6bd",
+"title": "trực tiếp bóng đá vtv6",
+"link": "https://vietnamnet.vn/lich-thi-dau-bong-da-moi-nhat-hom-nay-ngay-23-11-2026-2577577.html",
+"summary": "Lịch thi đấu bóng đá mới nhất hôm nay ngày 23/11/2026 (Báo VietNamNet)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxqex6Sh2M2aWJMJkQRr-GDH_4JWb5l0ZaENd3Ld55pMNg_whC16WmVxAuM1U",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T22:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-23T23:13:09+07:00"
+},
+{
 "id": "d5def19bf3b7",
 "title": "Bức tranh đường sắt đô thị TPHCM trong quy hoạch đến năm 2050",
 "link": "https://vietnamnet.vn/buc-tranh-duong-sat-do-thi-tphcm-trong-quy-hoach-den-nam-2050-2576823.html",
@@ -284,6 +364,17 @@
 "found": "2026-11-23T22:41:23+07:00"
 },
 {
+"id": "877dd0d9580e",
+"title": "Giá vàng thế giới tăng vọt",
+"link": "https://vnexpress.net/gia-vang-the-gioi-tang-vot-5148251.html",
+"summary": "Mỗi ounce vàng tăng hơn 100 USD, tiến sát mốc 3.700 USD khi nhà đầu tư mua vào bắt đáy.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/silvergold-1795447362-6705-1795447374.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-MwIfbfklYyJ_7RijWRJIQ",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-23T22:29:12+07:00",
+"found": "2026-11-23T23:13:09+07:00"
+},
+{
 "id": "78dffce40bad",
 "title": "Đường dây rửa tiền đánh bạc hơn 9.000 tỷ đồng, 42 người bị bắt",
 "link": "https://vnexpress.net/duong-day-rua-tien-danh-bac-hon-9-000-ty-dong-42-nguoi-bi-bat-5148250.html",
@@ -293,6 +384,17 @@
 "cat": "xh",
 "published": "2026-11-23T22:27:00+07:00",
 "found": "2026-11-23T22:56:53+07:00"
+},
+{
+"id": "f8f8f8309073",
+"title": "Thêm 4 lãnh đạo cấp cao PNJ xin từ nhiệm",
+"link": "https://vnexpress.net/them-4-lanh-dao-cap-cao-pnj-xin-tu-nhiem-5148235.html",
+"summary": "PNJ nhận đơn từ nhiệm của Giám đốc Marketing và 3 thành viên độc lập HĐQT, trong đó có Chủ tịch Ủy ban Kiểm toán Nguyễn Tuấn Hải.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/pnj-nhan-giai-thuong-chien-dic-6629-4439-1795443489.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=I_HQvs_G-HGL9e5l7RqeEw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-23T22:25:51+07:00",
+"found": "2026-11-23T23:13:09+07:00"
 },
 {
 "id": "c89d3c0a6d5e",
@@ -3039,6 +3141,17 @@
 "found": "2026-11-23T16:56:17+07:00"
 },
 {
+"id": "53371d2d5f23",
+"title": "Hà Nội yêu cầu di dời 125 căn hộ tại chung cư CT6 Kiến Hưng",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVlnQ2dZeDFvZWp0OVlHR2d3elNfVEs2dHAtS2w5NVFEVEdrUkJibjl2NW1kWUo4cWw2OXdQNk9sTnAtZ1JhTE81b3BrZFphZHNBZVBwWFYzdlB1S2lacjVaUGl5YzktZHpGaXF1Z0d1cjRpVXpfeGdKVWZuQUtTUGFHZVZ0QkNXZEZ2Uy1MOGlnRGpBZU9F?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T16:32:00+07:00",
+"found": "2026-11-23T23:13:09+07:00"
+},
+{
 "id": "cbc699cf5621",
 "title": "Người nước ngoài sở hữu căn hộ chung cư khác người Việt ở điểm nào?",
 "link": "https://thanhnien.vn/nguoi-nuoc-ngoai-so-huu-can-ho-chung-cu-khac-nguoi-viet-o-diem-nao-185261123163840214.htm",
@@ -4165,6 +4278,17 @@
 "cat": "xh",
 "published": "2026-11-23T14:48:16+07:00",
 "found": "2026-11-23T15:41:10+07:00"
+},
+{
+"id": "44da4993360f",
+"title": "Nhóm tài xế tráo heo của công ty chăn nuôi, chiếm đoạt 2,7 tỷ đồng",
+"link": "https://dantri.com.vn/phap-luat/nhom-tai-xe-trao-heo-cua-cong-ty-chan-nuoi-chiem-doat-27-ty-dong-20261123124940061.htm",
+"summary": "(Dân trí) - Nhóm 9 bị cáo bị cáo buộc thuê đất, quây tôn lập bãi riêng để tráo heo trọng lượng lớn của công ty chăn nuôi bằng heo nhỏ hơn 20-25kg/con.",
+"image": "https://cdnphoto.dantri.com.vn/Tlv_Tq0gu9FU0025vtbv4_ZJUCM=/2026/11/23/17954046038491866895581427001022145835949645599568125b790a5b49f244179044fef8eca86c-edited-edited-1795412895968.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-23T14:48:16+07:00",
+"found": "2026-11-23T23:13:09+07:00"
 },
 {
 "id": "7c7b872323ea",
@@ -28007,129 +28131,6 @@
 "cat": "bds",
 "published": "2026-11-20T20:46:00+07:00",
 "found": "2026-11-21T04:00:48+07:00"
-},
-{
-"id": "b23f2d34d1c8",
-"title": "Bất ngờ mất nhà vì bị kẻ gian sang tên, thế chấp vay 14 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2Z4eGxaX0dTeFV3NHBNWHB1QjlDZzZURERnaVg1cHR5cGFMM1EzeUhmd254NVFPSVJEel8zM04yY2J2SFNaRDd3ZnEyWjJHZHBuTkdGMDFQenQ2LWdUbGYxWWg5cHFMdDdVdG9zVjRaZzdhNzlGY2lMR2ZrYk9LdGJZLW9md3R2ek81RXFWUENVRXFmUXN5eTBrYw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T20:45:11+07:00",
-"found": "2026-11-21T04:32:42+07:00"
-},
-{
-"id": "a59a127d835a",
-"title": "Nghiên cứu phương án bảo tồn, phát huy giá trị Sân chim Chà Là",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYlBTN0ktWTE3alh0cnlIM2pFTEltandzaVpDcW82OTZyckJ2czh3d3BTLWpERFlKMlRZNUljOE1FSVJmTXFzZ1paZ2ZLSFJUTkZBcjRBckFNRGY2NGxHZkNseGZleXBhRDRVX0xZQVdGR1N3TlVpeFBINVJ6Qy0zSl9nNE9OQkk4cW5JSnBsQmtDTlp3UndQdmFR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T20:44:00+07:00",
-"found": "2026-11-21T08:17:18+07:00"
-},
-{
-"id": "a786b64501d5",
-"title": "Bitcoin rơi xuống đáy 5 tháng: Nguy cơ phá vỡ quy luật lịch sử",
-"link": "https://dantri.com.vn/kinh-doanh/bitcoin-roi-xuong-day-5-thang-nguy-co-pha-vo-quy-luat-lich-su-20261120202804291.htm",
-"summary": "(Dân trí) - Đợt bán tháo kéo dài đẩy giá bitcoin về sát mốc 61.000 USD, đứng trước nguy cơ lần đầu tiên trong lịch sử ghi nhận 2 năm liên tiếp giảm điểm.",
-"image": "https://cdnphoto.dantri.com.vn/KW7iWvRtX7tBB6-ZXIKBKQlkOsg=/2026/06/03/bitcoin-price-crash-cropped-1780447718132.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-20T20:41:08+07:00",
-"found": "2026-11-20T21:04:15+07:00"
-},
-{
-"id": "ea8261abfe2b",
-"title": "tv",
-"link": "https://www.nbcuniversal.com/article/nbcuniversal-brings-peacock-performance-view-premier-league-offering-fans-us-first-its-kind-soccer",
-"summary": "NBCUniversal Brings Peacock Performance View to Premier League, Offering Fans in the U.S. a First-of-Its-Kind Soccer Viewing Experience (nbcuniversal media)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXykJ8PzL1WSyioBvtzsECTqfOXEDSsPDY4yZPx3WDE3obTpDtEAv5CPzX00A",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T20:40:00+07:00",
-"traffic": "100+",
-"found": "2026-11-20T21:04:15+07:00"
-},
-{
-"id": "1f148187e835",
-"title": "tết nguyên đán",
-"link": "https://dantri.com.vn/noi-vu/de-xuat-hai-muc-qua-tet-2027-tang-nguoi-co-cong-20261118145817128.htm",
-"summary": "Đề xuất hai mức quà Tết 2027 tặng người có công (Báo Dân trí)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_lxwjlV3dsvs5QyJTlXdz1itWVgZGUr6fLeC18Mgfdzfp_ykWYqs-8oPX2bU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T20:40:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-20T22:50:21+07:00"
-},
-{
-"id": "94790cd18a57",
-"title": "Hà Nội mở cơ chế giao trực tiếp chủ đầu tư dự án nhà ở cho thuê",
-"link": "https://cafef.vn/ha-noi-mo-co-che-giao-truc-tiep-chu-dau-tu-du-an-nha-o-cho-thue-188261120185006294.chn",
-"summary": "Hà Nội ban hành quy định mới về giao chủ đầu tư đối với các dự án nhà ở cho thuê không sử dụng vốn đầu tư công trên địa bàn theo hình thức không thông qua đấu giá, đấu thầu.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1795175371218-1795175371928818037681.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-20T20:37:00+07:00",
-"found": "2026-11-20T21:04:15+07:00"
-},
-{
-"id": "d0a5db26ac92",
-"title": "Xe tải chở heo giống lật trên đèo Lò Xo, một người tử vong",
-"link": "https://tuoitre.vn/xe-tai-cho-heo-giong-lat-tren-deo-lo-xo-mot-nguoi-tu-vong-10026112020145708.htm",
-"summary": "Xe tải chở heo giống đang xuống dốc trên quốc lộ 14, đoạn đèo Lò Xo qua xã Đăk Plô (Quảng Ngãi), bất ngờ lật nghiêng khiến một người tử vong, hai người bị thương.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/xe-tai-cho-heo-lat-01-edit-17951835893791988241446-210-0-1438-1965-crop-1795183710845610616088.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-20T20:32:00+07:00",
-"found": "2026-11-20T21:36:26+07:00"
-},
-{
-"id": "20b84daec296",
-"title": "J.P. Morgan dự báo FED sẽ tăng lãi suất ba lần nữa",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcGhxMngyWVh4aFk2TmdaMm1GQkNuT3Q1ejlPb2VTb2JIb2owMkpNN21UY2M3MWx4dWlhbWFYQ1FGN003VjljcXVVcElEa2QwQ0lIUHR1N2NqRl9fZlVlZ2Z3V2xnd2d0T3RjR2ZzOW5OZFNkTjZha2hfUnpCMG5qTmY5MjNMYXdZc2c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T20:31:00+07:00",
-"found": "2026-11-20T21:04:15+07:00"
-},
-{
-"id": "d083d1bb8c82",
-"title": "Tất cả người dân vừa chuyển khoản với nội dung sau cần dừng ngay giao dịch, trình báo cơ quan Công an gần nhất",
-"link": "https://kenh14.vn/tat-ca-nguoi-dan-vua-chuyen-khoan-voi-noi-dung-sau-can-dung-ngay-giao-dich-trinh-bao-co-quan-cong-an-gan-nhat-215261120201758142.chn",
-"summary": "Chiều 18/11, Công an xã Hàm Thuận Nam, tỉnh Lâm Đồng, phối hợp với Agribank Chi nhánh Hàm Thuận Nam kịp thời ngăn chặn một giao dịch chuyển khoản có dấu hiệu liên quan đến lừa đảo tình cảm qua mạng xã hội.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795180621678-1795180623148982147221.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T20:29:00+07:00",
-"found": "2026-11-20T21:04:15+07:00"
-},
-{
-"id": "3b73f7b188f2",
-"title": "Từ 1/3/2027 sẽ không tổ chức cơ quan điều tra của Viện kiểm sát nhân dân tối cao",
-"link": "https://kenh14.vn/tu-1-3-2027-se-khong-to-chuc-co-quan-dieu-tra-cua-vien-kiem-sat-nhan-dan-toi-cao-215261120202844507.chn",
-"summary": "Chiều 20/11, với 458/467 đại biểu có mặt tham gia biểu quyết tán thành, Quốc hội đã thông qua Luật Tổ chức cơ quan điều tra hình sự (sửa đổi), gồm 54 điều, có hiệu lực thi hành từ 1/3/2027.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795181211072-1795181211321748364369.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T20:28:00+07:00",
-"found": "2026-11-20T21:04:15+07:00"
-},
-{
-"id": "092bc86df7e5",
-"title": "Cựu Thứ trưởng Nguyễn Bá Hoan được đề nghị giảm 1-2 năm tù",
-"link": "https://kenh14.vn/cuu-thu-truong-nguyen-ba-hoan-duoc-de-nghi-giam-1-2-nam-tu-215261120173554051.chn",
-"summary": "Cựu Thứ trưởng Bộ LĐ-TB&XH được VKS đề nghị giảm 12-24 tháng tù so với án sơ thẩm, trong vụ án nhận hối lộ hơn 16 tỷ đồng của doanh nghiệp.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/20/avatar1795170948011-17951709491621842046173.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-20T20:27:00+07:00",
-"found": "2026-11-20T21:04:15+07:00"
 }
 ]
 }
