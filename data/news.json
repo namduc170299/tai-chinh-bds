@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T03:38:53+07:00",
-"new": 4,
+"updated": "2026-11-24T03:54:24+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -279,7 +279,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T02:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T02:36:46+07:00"
 },
 {
@@ -393,7 +393,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T00:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T02:06:19+07:00"
 },
 {
@@ -817,6 +817,17 @@
 "cat": "tc",
 "published": "2026-11-23T22:37:34+07:00",
 "found": "2026-11-23T23:13:09+07:00"
+},
+{
+"id": "10eb3babf32d",
+"title": "Bí thư Thành ủy Hà Nội tiếp công dân, chỉ đạo giải quyết 5 vụ việc",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRjAxTUMwMG4tR2ZLejVXbnRRbFZuVUxEVlBTQTNfbHAtQnlKUHV1ajljS2h1Y2VHMlVESDJwYlVWMHBOUFhvaUFWOWRZWjBXMGhFbURkOEtnQVU1N3lsdV9TMWdhWFFIZkZWY3VndnZwaVJBMy1nRWFBcVB3SGUtSEl4RHFkUE9OLXIyLWp2b1pBZHh6ZE5KMHhqaU9RSkk?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T22:35:00+07:00",
+"found": "2026-11-24T03:54:24+07:00"
 },
 {
 "id": "c18aa213d84a",
@@ -7491,6 +7502,17 @@
 "cat": "tc",
 "published": "2026-11-23T10:55:00+07:00",
 "found": "2026-11-23T11:13:32+07:00"
+},
+{
+"id": "f05b259116e9",
+"title": "Ông Nguyễn Hiếu xin rời HĐQT Chứng khoán Rồng Việt sau 20 năm gắn bó",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR1JCSlc3ZlAxa3pOTTZELWZGcGNRaEsySzl3LVRHbFZhei1jS3hlU1dlRUJ5SGkxYWQ3LWFSdFV4NFAtc1Rsd2VjU3lSOWhRd3ZRaE1xMEM3MkZYZm15bDhJdWQ1TVAtVXVhM2EycUtnUlN2cTVway1jME5fN0hRQU1ibFl0WlF4TVF5V1ZPVDV0TTVBOXA2YkJIWE9NX2g3RjR3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T10:55:00+07:00",
+"found": "2026-11-24T03:54:24+07:00"
 },
 {
 "id": "67a7d5b499bc",
@@ -28114,29 +28136,6 @@
 "cat": "bds",
 "published": "2026-11-21T01:28:00+07:00",
 "found": "2026-11-21T09:28:51+07:00"
-},
-{
-"id": "4b47ca9bf21b",
-"title": "saudi pro league",
-"link": "https://www.goal.com/en/news/video-refereeing-controversy-were-al-ahli-denied-a-legitimate-goal-in-the-clasico-against-al-nassr/blt9834fa69180dd64d",
-"summary": "Video: refereeing controversy, were Al-Ahli denied a legitimate goal in the Clasico against Al-Nassr? (Goal.com)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_5wQxEAHSMBtWBw7HZ4FX-T6qqqMZq_kCIeRXp12sGoxDJZEHtnoIkejEtHA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T01:20:00+07:00",
-"traffic": "100+",
-"found": "2026-11-21T02:43:17+07:00"
-},
-{
-"id": "7dfafc6f5c9d",
-"title": "Ngày 21/11, gửi dưới 100 triệu đồng kỳ hạn 3 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
-"link": "https://cafef.vn/ngay-21-11-gui-duoi-100-trieu-dong-ky-han-3-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261120220140008.chn",
-"summary": "Lãi suất tiết kiệm kỳ hạn 3 tháng tại 7 ngân hàng trên có sự chênh lệch giữa hình thức gửi tại quầy và trực tuyến. Với khoản tiền gửi dưới 100 triệu đồng, số tiền lãi khách hàng nhận được phụ thuộc vào ngân hàng, số tiền gửi và hình thức gửi tiết kiệm.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/2025-nha-bang-mo-hang-tang-lai-suat-thang-12-1009-1795186746481380695444-8-0-758-1200-crop-17951867522481573102343.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-21T01:00:00+07:00",
-"found": "2026-11-21T01:16:17+07:00"
 }
 ]
 }
