@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T17:43:01+07:00",
-"new": 19,
+"updated": "2026-11-23T17:53:57+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -189,7 +189,7 @@
 "cat": "mxh",
 "url": "https://vnexpress.net/rss/tin-noi-bat.rss",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Thanh Niên",
@@ -213,6 +213,61 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "dc0cc22aa689",
+"title": "Tổng giám đốc Công ty Thanh Niên chiếm đoạt gần 500 tỷ đồng của PVcombank",
+"link": "https://vietnamnet.vn/tong-giam-doc-cong-ty-thanh-nien-chiem-doat-500-ty-cua-pvcombank-2577900.html",
+"summary": "Làm ăn thua lỗ nhưng Tổng giám đốc Công ty Thanh Niên vẫn chỉ đạo nhân viên nâng khống vốn điều lệ và cổ phần để thế chấp, vay và chiếm đoạt gần 500 tỷ đồng từ PVcombank.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/tong-giam-doc-cong-ty-thanh-nien-chiem-doat-gan-500-ty-dong-cua-pvcombank-2125.jpg?width=0&s=1iU4MmLWoRCM9eNwjOiUuA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-23T17:49:53+07:00",
+"found": "2026-11-23T17:53:57+07:00"
+},
+{
+"id": "4feb67f1590d",
+"title": "Khối ngoại mua ròng gần 180 tỷ đồng POW, ngừng bán FPT",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN0VQSnZDcVp6aERiQll3OFlvNDY4SWtLOFRhX2Q2Y3FaUzJpTnJscTk5YUwxN0lPLWgtbGM1MFpIQjg1RWlDWksxRW96ZWFkbjNQb25kNFRvQ1AwMjAzc3ZEUkZmWWkzaGQxbWFUd0F5VUFhWjBBMkc4VUFIRTBOR2NFaW1ZNjVsVnlDZTdIMA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T17:47:00+07:00",
+"found": "2026-11-23T17:53:57+07:00"
+},
+{
+"id": "92493a6d87a7",
+"title": "CEO nêu tình hình tài chính 'hết sức khẩn cấp', cổ phiếu PNJ nằm sàn",
+"link": "https://cafef.vn/ceo-neu-tinh-hinh-tai-chinh-het-suc-khan-cap-co-phieu-pnj-nam-san-18826112317422559.chn",
+"summary": "VN-Index thu hẹp đáng kể đà giảm trong phiên 23/11 nhưng chưa thể lấy lại mốc 1.700 điểm. Trong khi FPT hồi phục mạnh sau chuỗi phiên đi xuống, cổ phiếu PNJ tiếp tục chịu áp lực bán lớn, giảm sàn.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795430519330-17954305198121447664835.webp",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-23T17:46:00+07:00",
+"found": "2026-11-23T17:53:57+07:00"
+},
+{
+"id": "627c1ccb5f44",
+"title": "Một thành viên của TKV bị xử phạt hành chính về thuế",
+"link": "https://cafef.vn/mot-thanh-vien-cua-tkv-bi-xu-phat-hanh-chinh-ve-thue-188261123174427337.chn",
+"summary": "Một thành viên của TKV là Vật tư - TKV mới đây đã nhận quyết định của Thuế TP.Quảng Ninh về việc xử phạt vi phạm hành chính về thuế.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795430643949-17954306446141152216751.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-23T17:44:00+07:00",
+"found": "2026-11-23T17:53:57+07:00"
+},
+{
+"id": "193793ea1a26",
+"title": "Dự án đường sắt trọng điểm qua 6 tỉnh, thành chậm giải phóng mặt bằng",
+"link": "https://dantri.com.vn/bat-dong-san/du-an-duong-sat-trong-diem-qua-6-tinh-thanh-cham-giai-phong-mat-bang-20261123173100068.htm",
+"summary": "(Dân trí) - Dự án đường sắt Lào Cai - Hà Nội - Hải Phòng mới bàn giao khoảng 131ha, đạt 5,18% tổng diện tích cần thu hồi. Tiến độ giải ngân vốn giải phóng mặt bằng cũng ở mức thấp.",
+"image": "https://cdnphoto.dantri.com.vn/71glAPl8_nREd8KOUnDFPOupnWs=/2026/11/23/ban-do-huong-tuyen-hn-lc-hp-1765952664326169408401-1791517057586-1795429604590-1795430265729.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-23T17:41:09+07:00",
+"found": "2026-11-23T17:53:57+07:00"
+},
+{
 "id": "ddf228b10936",
 "title": "Doanh nghiệp hàng không vốn 6.000 tỷ đồng của FLC bất ngờ đổi tên, dời trụ sở",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPME90bjB3QUF6TlgzMGZRdTlRd0dXeGs1b1ZjdGJZRTBsZHdGZ1RoM1VueE1tZXh4SmZUWGpieDVqcWZBaGRyM0NjOGc4bGo1VmFXb3dFRFV5VUphbWNMRUdueU5ENkhhdmVwNGZ6NGdaQnBiVTNwaE91ZXBKVUI0Qy1CUG81OHNkeXhTRUQ1cUNENDFMQVdvRnNSZU4zVi1nUVFRMWRsd3k5MDNxQnc?oc=5",
@@ -222,6 +277,17 @@
 "cat": "tc",
 "published": "2026-11-23T17:39:32+07:00",
 "found": "2026-11-23T17:43:01+07:00"
+},
+{
+"id": "f55cb1c975df",
+"title": "Thay đổi 'ghế nóng' tại LPBank: Bà Vũ Nam Hương làm Quyền Tổng Giám đốc",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMm40b0o1UlJURWxSY0xLVjQ5dmZLeU5lcm9DemZpWmhvdjBlT2hYOXZxczZidTdIUF90cm5Fb1FZU3c2V3FUdktIUWZ5Z3VtaXhOTWtVeUV3RkJoNlhReEZHUW10clkyQ0dfUl8wZmkwV2FmT25WTnBiMlpTUndyV0t3UWUwTGFRS2ZKY2pUVFV1UDNDVXJZMXVPay1xMG90Vlhn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T17:39:31+07:00",
+"found": "2026-11-23T17:53:57+07:00"
 },
 {
 "id": "e7a0233b6d37",
@@ -244,6 +310,17 @@
 "cat": "tc",
 "published": "2026-11-23T17:37:00+07:00",
 "found": "2026-11-23T17:43:01+07:00"
+},
+{
+"id": "4576ad1cae5c",
+"title": "Chênh lệch giá mua - bán vàng lên cao kỷ lục",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkhCdGV6R2tUT1ZUSDIyV25vdW9vb3BXNzJfbzZqazk2NXVuSF9QQjNGMEFVa1ZHb3g2UFgxY1pOQUpwZDRUOXJHc3dRRXJ2NHlyc0d5TkE3WFlWLVhpWGQtQUg0Rl8yeXpReGJpSllNNFRUdjllVWFFMUpVclVuag?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T17:36:02+07:00",
+"found": "2026-11-23T11:41:14+07:00"
 },
 {
 "id": "1116f5236187",
@@ -277,6 +354,17 @@
 "cat": "xh",
 "published": "2026-11-23T17:33:00+07:00",
 "found": "2026-11-23T17:11:27+07:00"
+},
+{
+"id": "8abb7a74102b",
+"title": "Mellow Six: Một năm định hình bản sắc qua nghệ thuật, mỹ vị và kết giao",
+"link": "https://dantri.com.vn/bat-dong-san/mellow-six-mot-nam-dinh-hinh-ban-sac-qua-nghe-thuat-my-vi-va-ket-giao-20261123172226072.htm",
+"summary": "(Dân trí) - Qua một năm định hình bản sắc Social Art Bar, Mellow Six tiếp tục mở rộng câu chuyện về nghệ thuật sống với một hành trình được kể qua hai điểm hẹn của mỹ vị và nghệ thuật.",
+"image": "https://cdnphoto.dantri.com.vn/t-xoTlTGOin0pDtIORz_qVnC-sE=/2026/11/23/1-tac-pham-cua-hoa-si-nguyen-tu-nghiem-va-tran-luu-hau-tai-khong-gian-mellow-six-1795428855590.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-23T17:31:57+07:00",
+"found": "2026-11-23T17:53:57+07:00"
 },
 {
 "id": "b7576fb27a76",
@@ -3883,17 +3971,6 @@
 "published": "2026-11-23T11:10:00+07:00",
 "traffic": "200+",
 "found": "2026-11-23T13:30:46+07:00"
-},
-{
-"id": "4576ad1cae5c",
-"title": "Chênh lệch giá mua - bán vàng lên cao kỷ lục",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkhCdGV6R2tUT1ZUSDIyV25vdW9vb3BXNzJfbzZqazk2NXVuSF9QQjNGMEFVa1ZHb3g2UFgxY1pOQUpwZDRUOXJHc3dRRXJ2NHlyc0d5TkE3WFlWLVhpWGQtQUg0Rl8yeXpReGJpSllNNFRUdjllVWFFMUpVclVuag?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T11:08:50+07:00",
-"found": "2026-11-23T11:41:14+07:00"
 },
 {
 "id": "65f4fa991368",
@@ -28042,84 +28119,6 @@
 "cat": "tc",
 "published": "2026-11-20T16:50:00+07:00",
 "found": "2026-11-20T17:01:46+07:00"
-},
-{
-"id": "79c747c2c6dc",
-"title": "kashiwa đấu với jef united",
-"link": "https://bongdaplus.vn/bong-da-the-gioi/nhan-dinh-bong-da-kashima-antlers-vs-shimizu-s-pulse-17h00-ngay-20-11-diem-tua-san-nha-5293492611.html",
-"summary": "Nhận định bóng đá Kashima Antlers vs Shimizu S-Pulse, 17h00 ngày 20/11: Điểm tựa sân nhà (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEnVlCP7gxEs0UUxh8C1NQ404u0leqx-FhBkUpRjILkOyIvChRsL_9Vo0M5d0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T16:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-20T17:16:55+07:00"
-},
-{
-"id": "df293477e18a",
-"title": "Phó bí thư Thành ủy TP.HCM Văn Thị Bạch Tuyết tiếp xúc cử tri xã Bình Lợi",
-"link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-tphcm-van-thi-bach-tuyet-tiep-xuc-cu-tri-xa-binh-loi-10026112015383032.htm",
-"summary": "Ngày 20-11, Phó bí thư Thành ủy TP.HCM Văn Thị Bạch Tuyết cùng tổ đại biểu HĐND TP.HCM khóa XI, đơn vị bầu cử số 40, tiếp xúc cử tri xã Bình Lợi trước kỳ họp thường lệ cuối năm 2026.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/20-3-1795162319505477688807-175-251-1531-2421-crop-1795162461455105391538-43-0-1250-1931-crop-1795168958179542843968-13-0-1180-1867-crop-17951690371781602680374.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-20T16:50:00+07:00",
-"found": "2026-11-20T17:32:04+07:00"
-},
-{
-"id": "9fd44c004df0",
-"title": "Thu hẹp khoảng trống tín dụng đối với công nhân",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGlaY19FaEFtTmFlakNmUE5jNXU4TWhIVzdlLWp6ZFJmSzFKVXRvamtrQWIxMFg2bzl2QkVNbktLZWwyd2hjc0JLOE1yVGN1U2xlLXlydC1tclA0OUpFZU52ZUxyeGNuU2kzandPSm1ZSEU4MG9zaHBLSXFmbk5LblB4cVYxZU0?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T16:49:00+07:00",
-"found": "2026-11-20T17:01:46+07:00"
-},
-{
-"id": "b2b7afa31bbb",
-"title": "Thêm ba lãnh đạo cấp cao tại PNJ từ nhiệm",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BQlRLNTlIN1JvSGFXajdRT19HMVRfWjNQUTA1UFdhbTFvc1Q1S054NXRHU3hkUVgzQjE5QlZhZHd1UlBIUDEyd1FqaUNrVWhhdHA2THdqTGljM0hhc2RBRUlTRnAzQlRYWEdLWXdsaHNNS2tRcTdfRTJDQWEwdlk?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T16:49:00+07:00",
-"found": "2026-11-20T17:01:46+07:00"
-},
-{
-"id": "b049d766dca3",
-"title": "Bộ trưởng Tài chính: Có thể nộp nợ thuế tại sân bay để gỡ hoãn xuất cảnh",
-"link": "https://thanhnien.vn/bo-truong-tai-chinh-co-the-nop-no-thue-tai-san-bay-de-go-hoan-xuat-canh-185261120161216484.htm",
-"summary": "Bộ Tài chính sẽ phối hợp chặt chẽ với Bộ Công an và lực lượng quản lý xuất nhập khẩu tại cửa khẩu, tinh thần là sau khi người dân hoàn thành nghĩa vụ nộp thuế, trạng thái hoãn xuất cảnh sẽ được tháo gỡ ngay.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/collage-179516587541945653555.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-20T16:48:00+07:00",
-"found": "2026-11-20T17:01:46+07:00"
-},
-{
-"id": "250b2273a4ea",
-"title": "VN-Index thu hẹp đà giảm cuối phiên, nhóm năng lượng hút tiền",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnZncmFuOWJQdm8wOXM3MF8wclhJVzZfTWFWSENxWGkzZVphb0N6RG1TS1JaczRvb1NtN29McV9IcFJ2OV93SUNGSjNYLThQU0xYay10a1lvWVIxQUhFbXp6dU0wR3NmUHdERzBGUFJZbFVhUmZDNThHQm5EWlFLanBad2w0N1BQVkFjQVZkOEhpY0VBUkNMbg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-20T16:48:00+07:00",
-"found": "2026-11-21T05:28:31+07:00"
-},
-{
-"id": "b4c9c441eb53",
-"title": "Những mái trường thắp sáng miền biên viễn (Bài cuối): Trọn vẹn khát vọng con chữ",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOekp3a1p0eWtucmttRnBGU1lFUUY0OHNFeVpUcHVkbE52LTRhbkxZSERLOVJmbDVTQ01XZnlMUjVXMmdoOVBLSlJMMkU1UDhERlZrRTJEZmlDVHF6d0NmbmxUSjlfdVl5bzI5UUFESGtEQnBBMDE4VTVyVlExTGhlaW5nM29ILXNsUmItQ0owUGJOSGFkQnNHcnlLSzlISm9nNDByeU9tZUpsLUZEMjYw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T16:48:00+07:00",
-"found": "2026-11-21T09:28:51+07:00"
 }
 ]
 }
