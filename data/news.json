@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T23:28:19+07:00",
-"new": 3,
+"updated": "2026-11-23T23:43:29+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "e831ca4a9f4a",
+"title": "Cổ phiếu Nvidia tăng hơn 35% khi Jensen Huang trở về",
+"link": "https://vnexpress.net/co-phieu-nvidia-tang-hon-35-khi-jensen-huang-tro-ve-5148259.html",
+"summary": "Cổ phiếu hãng chip Mỹ tăng vọt, giúp CEO Jensen Huang có thêm hơn 30 tỷ USD, sau thông tin ông được tái bổ nhiệm.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/Screenshot20261113125511-17954-6651-8064-1795449495.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ht5_uJtRW1TLQtuQx6DUVw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-23T23:18:04+07:00",
+"found": "2026-11-23T23:43:29+07:00"
+},
+{
 "id": "e4283402333e",
 "title": "vietnam",
 "link": "https://cafef.vn/dung-2-gio-sang-nay-23-11-san-bay-noi-bai-ghi-nhan-1-may-bay-dac-biet-cua-vietnam-airlines-cho-170-hanh-khach-ha-canh-188261123104055446.chn",
@@ -223,6 +234,17 @@
 "published": "2026-11-23T23:10:00+07:00",
 "traffic": "100+",
 "found": "2026-11-23T23:28:19+07:00"
+},
+{
+"id": "ce6cf43a72af",
+"title": "Tối 23/11, giá vàng, bạc cùng tăng mạnh",
+"link": "https://dantri.com.vn/kinh-doanh/toi-2311-gia-vang-bac-cung-tang-manh-20261123230603104.htm",
+"summary": "(Dân trí) - Giá vàng, bạc trên thị trường quốc tế cùng tăng mạnh khi nhà đầu tư bắt đáy. Giá vàng vượt 3.670 USD/ounce trong khi bạc xấp xỉ 44 USD/ounce.",
+"image": "https://cdnphoto.dantri.com.vn/wc4Th1d7whTI0U-YOHjis0UTQ00=/2026/11/23/vang-sjc-2-cropped-1795449887478.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-23T23:08:24+07:00",
+"found": "2026-11-23T23:43:29+07:00"
 },
 {
 "id": "137f983bb3fb",
@@ -269,6 +291,18 @@
 "published": "2026-11-23T22:50:00+07:00",
 "traffic": "100+",
 "found": "2026-11-23T23:13:09+07:00"
+},
+{
+"id": "24763e356ea3",
+"title": "thứ hạng của neftchi fergana gặp al hilal",
+"link": "https://www.thestatszone.com/neftchi-fergana-vs-al-hilal-preview-prediction-2026-27-afc-champions-league-elite-league-stage-240881",
+"summary": "Neftchi Fergana vs Al Hilal Preview & Prediction | 2026-27 AFC Champions League Elite | League Stage (The Stats Zone)",
+"image": "",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T22:50:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-23T23:43:29+07:00"
 },
 {
 "id": "892f3713cd04",
@@ -451,7 +485,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T22:20:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-23T22:41:23+07:00"
 },
 {
@@ -500,6 +534,28 @@
 "cat": "mxh",
 "published": "2026-11-23T22:18:00+07:00",
 "found": "2026-11-23T22:25:52+07:00"
+},
+{
+"id": "7b05af56da79",
+"title": "Khởi tố 2 thanh niên dùng bình xịt hơi cay tấn công người đi đường ở phường An Khánh",
+"link": "https://tuoitre.vn/khoi-to-2-thanh-nien-dung-binh-xit-hoi-cay-tan-cong-nguoi-di-duong-o-phuong-an-khanh-10026112322124922.htm",
+"summary": "Nhóm 4 thanh thiếu niên rủ nhau đến khu vực Sala, phường An Khánh, tìm người đi đường để xịt hơi cay nhằm trêu đùa. Công an đã khởi tố hai người, hai người còn lại bị xử lý hành chính.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/1000060330-1795446290196243953503-0-0-1004-1606-crop-1795446690291167945786.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T22:18:00+07:00",
+"found": "2026-11-23T23:43:29+07:00"
+},
+{
+"id": "8e4075ff8c84",
+"title": "Bắt 42 người trong đường dây rửa tiền đánh bạc, gần 1.300 tài khoản ngân hàng nhận hơn 9.000 tỉ đồng",
+"link": "https://tuoitre.vn/bat-42-nguoi-trong-duong-day-rua-tien-danh-bac-gan-1300-tai-khoan-ngan-hang-nhan-hon-9000-ti-dong-100261123215058965.htm",
+"summary": "Công an TP.HCM đã bắt tạm giam 42 bị can trong đường dây rửa tiền, mua bán trái phép thông tin tài khoản ngân hàng, đánh bạc... Qua trích xuất dữ liệu, ghi nhận 138 người đứng tên mở gần 1.300 tài khoản, riêng gần 100 tài khoản có tổng tiền nạp vào hơn 9.000 tỉ đồng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/edit-photo-1795445698633-1795445766082778309252-0-59-1179-1945-crop-17954457868241327428760.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-23T22:14:00+07:00",
+"found": "2026-11-23T23:43:29+07:00"
 },
 {
 "id": "efaec579976a",
@@ -28075,62 +28131,6 @@
 "cat": "bds",
 "published": "2026-11-20T21:02:00+07:00",
 "found": "2026-11-21T08:58:32+07:00"
-},
-{
-"id": "2a0b52642253",
-"title": "EVNHCMC yêu cầu rà soát an toàn trạm sạc xe điện trước ngày 1/7/2027",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORUtqZG11Sms3MGIxcGZpZmwtVlBYekw2Vjh1Q0toTHNjTWtOTlNrd2k0eWtaR0dsWktoMFk5dFFVNm04M3lQV0pCMi1aSU1CcXIwNFJKSmp5eEdlOV9PNVVPMWZrcnJUUXkwSVFZSk1CdlhJVWJBRGNUNHc0enVHLTNWVDcxOGNqRDFtQzQzR3BVWUtXQWh2cW81OE5XUnJwM0RN?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T20:58:00+07:00",
-"found": "2026-11-21T09:28:51+07:00"
-},
-{
-"id": "f42f1bf84d30",
-"title": "Thông tin mới vụ giám đốc công ty lâm nghiệp bị bắn ở Đồng Nai",
-"link": "https://dantri.com.vn/phap-luat/thong-tin-moi-vu-giam-doc-cong-ty-lam-nghiep-bi-ban-o-dong-nai-20261120203137290.htm",
-"summary": "(Dân trí) - Theo báo cáo của Công ty Lâm nghiệp La Ngà, nghi phạm từng tụ tập cùng nhóm người trước cổng, sau đó mang túi xách vào nhà vệ sinh rút súng, chạy lên tầng 2 bắn giám đốc tại bàn làm việc.",
-"image": "https://cdnphoto.dantri.com.vn/0Z8Jspq-oyWwoScYXr4VxB1_VxY=/2026/11/20/langa3-edited-1795181055553.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-20T20:54:58+07:00",
-"found": "2026-11-20T21:21:14+07:00"
-},
-{
-"id": "0b7e1268f62a",
-"title": "Yên Sở đẩy nhanh bàn giao mặt bằng mở rộng Quốc lộ 1A",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmk4MlBLMjRZQTRqT0Z4WWl4bWVOTWlUQ1JxbTVlR3dfb2hqQ2k4VmkxSjFCN3g2UVlXUHIyT0c2VWVNWEs2eGxnZ2w5aUxVYkktZk9GN0hwSnk4ejVaNnJreWtiQUNSWGNyQ3dxQmxHSjZZNlVzUkRKRDJER1dKZHlWMkxPZWJTRU1hRURicw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T20:54:00+07:00",
-"found": "2026-11-20T22:50:21+07:00"
-},
-{
-"id": "ff02bb37d9c6",
-"title": "Khánh thành Trường THPT Việt Đức",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UcXpKT05JU3F2dEJNRjV4Mk5sV1laTzVEQ3pkekhvTE9INWVidlMwR3ZJWl96UjZtN3NJZ2RaWkN0TUdOOUVFdVpVOVhkcGMyWGdUa2JsZTZPN3hnVUtxYUpyeDBodF8wbkpXYmV2RU9CYlU?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T20:53:00+07:00",
-"found": "2026-11-21T07:46:21+07:00"
-},
-{
-"id": "800c061fc97e",
-"title": "u17 world cup 2027",
-"link": "https://tienphong.vn/u17-thai-lan-hut-ve-dang-tiec-ngam-ngui-nhin-u17-viet-nam-va-u17-indonesia-du-vck-chau-a-post1896202.tpo",
-"summary": "U17 Thái Lan hụt vé đáng tiếc, ngậm ngùi nhìn U17 Việt Nam và U17 Indonesia dự VCK châu Á (Báo Tiền Phong)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyShgeVtpTDzIdC38YotDRog2rVFV62Dze2wP8zyh2ljnVPBV_DlUMSs24oI8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-20T20:50:00+07:00",
-"traffic": "100+",
-"found": "2026-11-20T23:20:44+07:00"
 }
 ]
 }
