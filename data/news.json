@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T02:51:58+07:00",
-"new": 5,
+"updated": "2026-11-24T03:07:58+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 41
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,30 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "e39f459002e9",
+"title": "levante đấu với elche",
+"link": "https://laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-levante-vs-elche-tai-la-liga-1805222.ldo",
+"summary": "Nhận định bóng đá Levante vs Elche tại La Liga (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1172oV2kuXifqdRnO-IQFvO839RHZDRJALwqKkMquR0RTgL7kJ_d2do2XsYQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T02:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T03:07:58+07:00"
+},
+{
+"id": "5e1b4a3a6a92",
+"title": "dudu georgescu",
+"link": "https://www.gsp.ro/fotbal/liga-1/dudu-georgescu-detalii-cutremuratoare-dezvaluiri-deces-1001923.html",
+"summary": "„Ar fi găsit un cuțit în corpul lui Dudu Georgescu. Crimă sau sinucidere” » Poliția canadiană investighează, apropiații fostului mare atacant sunt bulversați: „Soția a fost reținută 3 zile, nu știu unde e acum” (GSP)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlEfBEgr4oVmYnMeQ0dHS56JIierc9pfJ8X-LpIJ5T9CSmaX7apaKZVuCxrIA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T02:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T03:07:58+07:00"
+},
+{
 "id": "f7d2b741f7f8",
 "title": "brentford đấu với everton",
 "link": "https://bongdaplus.vn/ngoai-hang-anh/nhan-dinh-bong-da-brentford-vs-everton-03h00-ngay-24-11-everton-noi-dai-mach-thang-5294492611.html",
@@ -221,7 +245,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T02:30:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T02:51:58+07:00"
 },
 {
@@ -246,6 +270,17 @@
 "published": "2026-11-24T02:10:00+07:00",
 "traffic": "200+",
 "found": "2026-11-24T02:36:46+07:00"
+},
+{
+"id": "f0d73e78d490",
+"title": "SCB có Chủ tịch Hội đồng quản trị mới",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96WWFBaGNfLW54Uks3UFNIeFNlenczWmJ3RHlLbV9ERXZ1Z2FjQnNKaF9tdkt0VERGX0d3YU41dER4a183YlZlWnBPNWF0VnJGbHN4bVRlb0M4R3Y0TmtJTHNRWUNNaWlvdWFCTzBQcUh1SUViRXBUOGpB?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T01:42:00+07:00",
+"found": "2026-11-24T03:07:58+07:00"
 },
 {
 "id": "43bc40982cd5",
@@ -3232,6 +3267,17 @@
 "found": "2026-11-23T18:41:51+07:00"
 },
 {
+"id": "cea8c86b957c",
+"title": "Đề xuất 'khoán' chỉ tiêu điện mặt trời mái nhà cho địa phương",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnJMbXNVZkU4d25qQXNsYUJfczlsbFBhV01WUXdubE5ZTzZxX2E1Ykcyc0EzWG1DY2pfS2JKWDBUcGpid0wwWG1CaW5WOWVDZVEzcVJRd29nbVlWLWdDQjJVc1F2TFY2UXJEaHBFcEZNNC1RM1ByUTA2REM5bHBMN3I0YlFqNzhMZzNnVDFzVXZQb2lSYlNz?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T17:36:00+07:00",
+"found": "2026-11-24T03:07:58+07:00"
+},
+{
 "id": "1116f5236187",
 "title": "T&T Group làm khu đô thị 50 ha tại Lạng Sơn, dự kiến có hơn 3.300 căn nhà",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDl4czZUbWppdmZLZmR2UHo0Yy10dFpaV3RaTHIwdF8tamkwZW5HUEpMeG9rS1h0U0dzVjFVdDBXb0ZEWmpHTlhfZkRwSWpwUUx2TFlISEdYYU5ERUY1SGtFSEtRakNRdGJKU2l3cnZKMzZnMzctZjhqSlF0cmNXRW85dTA5NE5NcFB2a2FNZEtUS01POWdqUk5Rd0VHNU5DOWJjZkJmRWw?oc=5",
@@ -5123,6 +5169,17 @@
 "cat": "tc",
 "published": "2026-11-23T14:40:00+07:00",
 "found": "2026-11-23T16:11:54+07:00"
+},
+{
+"id": "8cd21286aac1",
+"title": "Giá vàng hôm nay (chiều 23-11): Bật tăng mạnh trở lại",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2twTE9YZGYtcnMyMDJzWjZTVFBZYTI0ZXZoVFN0Q0xDR0lmWkUwVGRDVEpWcjhNM1Z3cVloTnczY09DX1F0Smw2dkFzdU1wZW40dnhTVnVXMXBNTGg1YjF5TWxXbmVyMlFCazc0MW5lTG5OTWlIQXhRcmJIU1ZvTlRlakUxbU91SFRZ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T14:40:00+07:00",
+"found": "2026-11-24T03:07:58+07:00"
 },
 {
 "id": "331499e7ebe0",
@@ -9640,6 +9697,17 @@
 "cat": "xh",
 "published": "2026-11-23T07:17:30+07:00",
 "found": "2026-11-22T16:09:34+07:00"
+},
+{
+"id": "cc8e00e2bea5",
+"title": "Rác chất đống khu trung tâm, giá thu gom sắp tăng, người dân Đà Nẵng bức xúc",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPREdNMFZrNWlfQThtaWtWMGxBMmxYZ0ZIaDZOdnhiZ293YlRKbVFkTkJMMVpJX3lqSkxDX2lZb0E4em9QWnBUU2NoRTVaYWFqLXVYOGQ3b0hJOHl4VTduVlQzWjM3VTEyTjd5XzV0OFNuSndZYkZ6dUJvSVpSZDVaX2NVVkE4WjV1WjdTcjhxeHFFa1dMQ2FXWThNRmsxR21CZGMzcA?oc=5",
+"summary": "Nguồn: SkyDoor News",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T07:17:26+07:00",
+"found": "2026-11-24T03:07:58+07:00"
 },
 {
 "id": "6925bdb3b13f",
@@ -28071,72 +28139,6 @@
 "cat": "tc",
 "published": "2026-11-21T00:04:00+07:00",
 "found": "2026-11-21T00:16:31+07:00"
-},
-{
-"id": "2803342becea",
-"title": "Học vấn của 7 tỷ phú sáng lập Anthropic",
-"link": "https://vnexpress.net/hoc-van-cua-7-ty-phu-sang-lap-anthropic-5147243.html",
-"summary": "Phần lớn trong 7 tỷ phú sáng lập Anthropic xuất thân từ các đại học hàng đầu như Stanford, Harvard, MIT với chuyên ngành Toán, Vật lý, Khoa học máy tính, Kỹ thuật.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/anthropic-1795187028-9170-1795187540.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=acw4UwT8yOVsATtzwW5Wlg",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-21T00:03:45+07:00",
-"found": "2026-11-21T10:44:13+07:00"
-},
-{
-"id": "2188183aa5dd",
-"title": "Hàng loạt \"cá mập\" bất ngờ quay xe bán cổ phiếu ngân hàng, gom mạnh một nhóm cổ phiếu \"hot\"",
-"link": "https://cafef.vn/hang-loat-ca-map-bat-ngo-quay-xe-ban-co-phieu-ngan-hang-gom-manh-mot-nhom-co-phieu-hot-188261120121715102.chn",
-"summary": "Theo báo cáo hoạt động các quỹ đầu tư tháng 10/2026 của FiinGroup, nhóm ngân hàng bị các quỹ bán ròng khoảng 1.212 tỷ đồng, trái ngược với mức mua ròng 1.034 tỷ đồng trong tháng 9.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1696414183778-1696414183956557118698-17119979967941896287891-1717992312095252122453-17951517968391107295198.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-21T00:03:00+07:00",
-"found": "2026-11-21T00:16:31+07:00"
-},
-{
-"id": "f7f6aceb855d",
-"title": "Rau quả xuất khẩu 11 tháng vượt kỷ lục cả năm ngoái",
-"link": "https://vnexpress.net/rau-qua-xuat-khau-11-thang-vuot-ky-luc-ca-nam-ngoai-5147092.html",
-"summary": "Xuất khẩu rau quả ước đạt hơn 9,2 tỷ USD sau 11 tháng, vượt kỷ lục năm ngoái, nhờ đà tăng của nhiều mặt hàng và nhóm chế biến.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/screen-shot-at-pm-1795161619-3547-1795161699.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=OM27-WyvOH7VS0Vs9_xG9Q",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-21T00:03:00+07:00",
-"found": "2026-11-21T00:45:12+07:00"
-},
-{
-"id": "88b83f438937",
-"title": "Có nên ứng trước 80% tiền mua căn hộ để giải chấp cho chủ nhà?",
-"link": "https://vnexpress.net/co-nen-ung-truoc-80-tien-mua-can-ho-de-giai-chap-cho-chu-nha-5146608.html",
-"summary": "Tôi phân vân có nên ứng trước 4 tỷ đồng để chủ nhà tất toán khoản vay với ngân hàng xong mới đi công chứng.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/wm1-wm1-ct51-1795074640-4074-1795160529.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NulVZVYiVgW0DPk2kdV-Hg",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-21T00:02:00+07:00",
-"found": "2026-11-21T00:31:46+07:00"
-},
-{
-"id": "f99c460d4d68",
-"title": "Đại gia gốc Thanh Hóa từng thi công vòm thép lớn nhất hành tinh góp mặt tại công trình 915 triệu AUD nổi tiếng ở ÚC vừa mở cửa: Đã sản xuất, gia công gần 10.000 tấn thép",
-"link": "https://cafef.vn/dai-gia-goc-thanh-hoa-tung-thi-cong-vom-thep-lon-nhat-hanh-tinh-gop-mat-tai-cong-trinh-915-trieu-aud-noi-tieng-o-uc-vua-mo-cua-da-san-xuat-gia-cong-gan-10000-tan-thep-188261120170509238.chn",
-"summary": "Tập đoàn Đại Dũng của doanh nhân Trịnh Tiến Dũng là nhà thầu kết cấu thép tại bảo tàng lớn nhất bang New South Wales (Australia) - Powerhouse Parramatta.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/geminigeneratedimagefyjg5efyjg5efyjg-17951827708702116444388-87-0-837-1200-crop-1795182794466357681034.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T00:01:00+07:00",
-"found": "2026-11-21T00:16:31+07:00"
-},
-{
-"id": "a2af125d808d",
-"title": "Hiện trạng thành cổ Vinh trước trùng tu",
-"link": "https://vnexpress.net/hien-trang-thanh-co-vinh-truoc-trung-tu-5144741.html",
-"summary": "222 năm tồn tại giữa lòng đô thị, thành cổ Vinh chỉ còn ba cổng, nhiều hạng mục xuống cấp, sắp được trùng tu với kinh phí 10,5 tỷ đồng.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/Thanh-co-Vinh-2-1794824141.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nB0dFyOXJml8PaJjqDJUAw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-21T00:00:00+07:00",
-"found": "2026-11-19T00:37:08+07:00"
 }
 ]
 }
