@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-23T23:43:29+07:00",
-"new": 5,
+"updated": "2026-11-23T23:58:40+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 40
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,18 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "aa5e5efca953",
+"title": "u17 wc 2026",
+"link": "https://www.24h.com.vn/bong-da/video-bong-da-u17-tay-ban-nha-u17-fiji-kinh-hoang-9-0-u17-world-cup-c48a1813495.html",
+"summary": "Video bóng đá U17 Tây Ban Nha - U17 Fiji: Kinh hoàng 15-0 (U17 World Cup) (Tin tức 24h)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKeia94XXFxWo1-zbGkUWjFHJTb55SWOtvt1jTLs49_q-p3iGrV6HrPJEjhsw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-23T23:40:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-23T23:58:40+07:00"
+},
+{
 "id": "e831ca4a9f4a",
 "title": "Cổ phiếu Nvidia tăng hơn 35% khi Jensen Huang trở về",
 "link": "https://vnexpress.net/co-phieu-nvidia-tang-hon-35-khi-jensen-huang-tro-ve-5148259.html",
@@ -232,7 +244,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T23:10:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-23T23:28:19+07:00"
 },
 {
@@ -335,7 +347,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T22:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-23T22:56:53+07:00"
 },
 {
@@ -394,7 +406,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-23T22:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-23T22:56:53+07:00"
 },
 {
@@ -1512,6 +1524,17 @@
 "cat": "xh",
 "published": "2026-11-23T19:55:00+07:00",
 "found": "2026-11-23T20:12:56+07:00"
+},
+{
+"id": "04084f2e436a",
+"title": "'Bom xịt' MU gây chú ý với cú sút làm vỡ đèn sân",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SOWRPSTRHcGdzdnlzSTdJTDZybGJnalBpVlBJbXJ1QnRvUTBxOFF2djYtcDdLanZOMWU2UnVsUXd0aTZFRGk2Ylk5ZDdzX0FCVjNEV0N4VWhOM2hIbG9ITlAyMXFkSm9ySnNzRjUtcG9LaEhHVWptQw?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T19:50:33+07:00",
+"found": "2026-11-23T23:58:40+07:00"
 },
 {
 "id": "e94f8687b7b7",
@@ -9141,6 +9164,17 @@
 "cat": "xh",
 "published": "2026-11-23T07:00:00+07:00",
 "found": "2026-11-23T16:11:54+07:00"
+},
+{
+"id": "d3c19089e446",
+"title": "Câu chuyện quốc tế: Khi thế giới nhận ra đã nghiện mạng xã hội | Chuyển động 24h",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB3R3g0eVY0czhIakdNNHNWMUJVNGRzV0xCLTdoOTh1ZGZraU55dVI2T0pKTGRlSks5OXlUVEtOUms?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T07:00:00+07:00",
+"found": "2026-11-21T17:57:42+07:00"
 },
 {
 "id": "5057cbfc575a",
@@ -26392,17 +26426,6 @@
 "found": "2026-11-21T14:22:05+07:00"
 },
 {
-"id": "d3c19089e446",
-"title": "Câu chuyện quốc tế: Khi thế giới nhận ra đã nghiện mạng xã hội | Chuyển động 24h",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB3R3g0eVY0czhIakdNNHNWMUJVNGRzV0xCLTdoOTh1ZGZraU55dVI2T0pKTGRlSks5OXlUVEtOUms?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T07:00:00+07:00",
-"found": "2026-11-21T17:57:42+07:00"
-},
-{
 "id": "584e66ee6328",
 "title": "Mẹ Nguyên ra đi, bố Việt xuất hiện | Cha tôi, người ở lại | Tập 9 | VTV3 và VTVgo",
 "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAtaXk5VzFLQ0NXaExteEk1b2xld3BQSkxzOEFpdzNTbk9VU29Jak44bHMwTHhxRGVNQXNGV3g2eTI?oc=5",
@@ -28109,28 +28132,6 @@
 "cat": "tc",
 "published": "2026-11-20T21:04:42+07:00",
 "found": "2026-11-20T21:59:08+07:00"
-},
-{
-"id": "0b1575c513b9",
-"title": "Hà Nội rà soát, đôn đốc giải quyết kiến nghị cử tri từ cơ sở",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTUQ5UF9OMEZnb2E3c1otTlFPTXNMUmNadjREbVlLYUJEd0l2aUhZVUFraS1nZVpBS1J4M3RJNTBCdFU1TnRSa216UV8wSXBpeGpod0lacmpuQ1dYV0xTZ1pnWkpfeW1USWVoWHZzd3lIX1ZpLUcya25xaE1WNFpiSDJwb1Rnd0c1WlRKVkZ0U3dndjRTZTRv?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T21:04:00+07:00",
-"found": "2026-11-21T04:47:52+07:00"
-},
-{
-"id": "62a0eb4a145b",
-"title": "Cử tri Hà Nội kiến nghị sớm công bố hộ dân bị giải phóng mặt bằng ga tàu điện",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkxvZFhnOWctX3ZjWXJmdWMxdFpBMHkyYk9ySVBzV2hjQldrUlNJY2ZQclhwRzRTTXVQckFSY0RKTGltVTlleElmc1VKcWJfQU9pRFIyZXVFbFNSZ1VCYWd6VThjekx4TzZJYWo2cXFhZ1FnMnZoQzVJUmgtUVVfaDkwSEFrQWh2T05tRjJXWl92djF0ZmlRczVwNnl0dnBkVE9HcmRlUVppZ3BZM1dV?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-20T21:02:00+07:00",
-"found": "2026-11-21T08:58:32+07:00"
 }
 ]
 }
