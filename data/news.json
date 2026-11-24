@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T00:13:33+07:00",
-"new": 18,
+"updated": "2026-11-25T00:28:42+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 21
+"count": 48
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,28 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "056fa5e39df1",
+"title": "Dòng vốn toàn cầu và Khát vọng Việt Nam hội tụ tại HDBank Global Capital Summit 2026",
+"link": "https://cafef.vn/dong-von-toan-cau-va-khat-vong-viet-nam-hoi-tu-tai-hdbank-global-capital-summit-2026-188261124201905557.chn",
+"summary": "Ngày 25/11/2026, “HDBank Global Capital Summit 2026\" (Hội nghị Dòng vốn Toàn cầu HDBank 2026) sẽ diễn ra đồng thời tại hai đầu cầu TP.HCM và Hà Nội, quy tụ các nhà đầu tư và chuyên gia tài chính uy tín trong nước và quốc tế.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/2aoboret4cyzzrffszc1peufss6bsvrwuq1sqvxo-17955260839221110515396-1795526239283-1795526239926621314307-0-36-810-1332-crop-17955262631801936197557.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T00:22:00+07:00",
+"found": "2026-11-25T00:28:42+07:00"
+},
+{
+"id": "de13301aba98",
+"title": "FPT Software dự kiến doanh thu lập kỷ lục trong quý 4",
+"link": "https://cafef.vn/fpt-software-du-kien-doanh-thu-lap-ky-luc-trong-quy-4-188261124205750774.chn",
+"summary": "VNDIRECT dự báo hoạt động kinh doanh FPT Software sẽ tăng trưởng tại tất cả các thị trường trong quý IV, dẫn đầu bởi Nhật Bản với mức tăng 13,3% và khu vực châu Âu – Trung Đông tăng 24,3%.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/fptsoftwarebuildingd-17955285191491998150013-0-0-544-870-crop-17955285241351816769873.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T00:12:00+07:00",
+"found": "2026-11-25T00:28:42+07:00"
+},
 {
 "id": "028003540473",
 "title": "Một cổ phiếu HoSE bất ngờ \"lau sàn\" 4 phiên liên tiếp",
@@ -268,6 +290,29 @@
 "found": "2026-11-25T00:13:33+07:00"
 },
 {
+"id": "c307e9978d25",
+"title": "Tranh cãi vụ người đi bộ tử vong khi qua đường 34 m, đèn xanh chỉ 12 giây",
+"link": "https://vnexpress.net/tranh-cai-vu-nguoi-di-bo-tu-vong-khi-qua-duong-34-m-den-xanh-chi-12-giay-5148485.html",
+"summary": "Người đàn ông khuyết tật chân bị xe máy tông tử vong khi chưa kịp sang hết đường trong 12 giây đèn xanh, song phán quyết chia đều trách nhiệm khiến cả tài xế và gia đình nạn nhân phản đối.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/24/1795063816746-ftnjjb-179553089-3758-7487-1795531378.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=G2-gAdRHwJo_fg0UxUJt7g",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-25T00:00:00+07:00",
+"found": "2026-11-25T00:28:42+07:00"
+},
+{
+"id": "2f5c4a0dffdc",
+"title": "galatasaray – samsunspor",
+"link": "https://www.bolgegundemi.com/video/mustafa-culcu-galatasaray-samsunspor-mucadelesini-analiz-etti-241529.html",
+"summary": "Mustafa Çulcu Galatasaray – Samsunspor mücadelesini analiz etti (Bölge Gündemi)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVZW7mhBwKrNRr5faCS5Rxsqrkgb1URb6S4iIDR_mct2LEFfsfC2YvYPQ1fMQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T00:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T00:28:42+07:00"
+},
+{
 "id": "3d38c5ce4a12",
 "title": "galatasaray đấu với aston villa",
 "link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-galatasaray-vs-aston-villa-00h45-ngay-25-11-trang-tay-ra-ve-5297572611.html",
@@ -276,7 +321,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T23:50:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-25T00:13:33+07:00"
 },
 {
@@ -288,7 +333,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T23:10:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-24T23:27:54+07:00"
 },
 {
@@ -7792,6 +7837,17 @@
 "cat": "xh",
 "published": "2026-11-24T07:00:00+07:00",
 "found": "2026-11-22T10:30:20+07:00"
+},
+{
+"id": "f5770e39ae4b",
+"title": "Đình chỉ giáo viên kỷ luật học sinh bằng kim tiêm",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9xUTZUYjVVbm5QY1pUT3NPX1owSWJjLVNEOWFaZEZMdGtZSmdRTHhIeUoyUElzeXp3NHFoLUROUlM?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T07:00:00+07:00",
+"found": "2026-11-24T09:40:07+07:00"
 },
 {
 "id": "eec940d77486",
@@ -19064,17 +19120,6 @@
 "found": "2026-11-21T17:57:42+07:00"
 },
 {
-"id": "f5770e39ae4b",
-"title": "Đình chỉ giáo viên kỷ luật học sinh bằng kim tiêm",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9xUTZUYjVVbm5QY1pUT3NPX1owSWJjLVNEOWFaZEZMdGtZSmdRTHhIeUoyUElzeXp3NHFoLUROUlM?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-24T09:40:07+07:00"
-},
-{
 "id": "e04bfb81a0f7",
 "title": "Preview phim Vui lên nào anh em ơi - Tập 8 | Quý nhân của Tiến - Hưng - Thắng xuất hiện",
 "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE05YWo0dVo2VEVIWlZHS2d3MzJZN0tWZU05WTNScHE5VElyR1pYNWhmT0JSQldoeXVLc0IzdG54T3o?oc=5",
@@ -28070,53 +28115,6 @@
 "published": "2026-11-21T22:20:00+07:00",
 "traffic": "500+",
 "found": "2026-11-21T22:50:47+07:00"
-},
-{
-"id": "fc7af2f80a3f",
-"title": "chelsea – leeds",
-"link": "https://www.skysports.com/football/live-blog/13610684/chelsea-vs-leeds-live-premier-league-match-updates-news-score-and-line-ups",
-"summary": "Chelsea vs Leeds LIVE! Premier League match updates, news, score and line-ups (Sky Sports)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcARW-Nd6ch1spogLchbta_pbpNpIuKbzXrWZlYWSD47CVFB61hmOHywCArMQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T22:20:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-21T23:51:48+07:00"
-},
-{
-"id": "1a1b325409fc",
-"title": "chelsea vs",
-"link": "https://www.skysports.com/football/live-blog/13610684/chelsea-vs-leeds-live-premier-league-match-updates-news-score-and-line-ups",
-"summary": "Chelsea vs Leeds LIVE! Premier League match updates, news, score and line-ups (Sky Sports)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGVHqypRm4EWM7Ochnv9ZXjowlj9H8PXEnw2ycfhg_IJkciedIw7Hh43-l7h8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T22:10:00+07:00",
-"traffic": "500+",
-"found": "2026-11-21T22:35:15+07:00"
-},
-{
-"id": "be051d49e339",
-"title": "thứ hạng của alavés gặp deportivo",
-"link": "https://bongdaplus.vn/la-liga/nhan-dinh-bong-da-alaves-vs-deportivo-20h00-ngay-21-11-5293852611.html",
-"summary": "Nhận định bóng đá Alaves vs Deportivo, 20h00 ngày 21/11: Chủ nhà giành chiến thắng (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFYtdxnuIlcs-JCifHctOxK9BB7REYwM2cWXyUtypyg3QnfdiTk0U19sXYT18",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T22:10:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-21T23:51:48+07:00"
-},
-{
-"id": "4ca8e109e824",
-"title": "Mất giá hơn một nửa sau 1 năm, bitcoin có còn được coi là 'vàng kỹ thuật số'?",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUdZZ1ZVN1EyUHJ6NkZiODFDRjVXSzJwd3U2M3NJQTJtdV9Ial9ZNFdNMndQeGJoSGd1b28xS295ZDg0cVZ6VDRzc1RKWjRma2dYUENvcXJqWHBpZTFvamtWQTVOTmpKZDVHTlFBUXgzTnRzMGc5dkc2Q0RvTF8yOGRCVExoOWZ5aXJDQVpiNUF5LXVzOFpfSzFlZ2tCYmZablNoLVk0Q1FQZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T22:05:44+07:00",
-"found": "2026-11-22T10:04:32+07:00"
 }
 ]
 }
