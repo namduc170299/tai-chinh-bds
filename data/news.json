@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T12:12:56+07:00",
-"new": 8,
+"updated": "2026-11-24T12:28:07+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 41
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "f7b5ae3e227f",
+"title": "VIB dự kiến mua lại 9.000 tỷ đồng trái phiếu trong tháng 12",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzZTV25OcEprc1htc1pZZUE1bzVuaUdLSmItR3VxSEwzM3R1eTZqc3hGdjZSSHpXa0k1M3Z4alh4ekQ3MGNJVWEwWng1OTJmMUV1Q3pTS3JvNmF3R3Z1elo2WG1QYk5USXl2bUNhTGVCZkVjRmpGX2VTM0xTLTRTT0Q4R1VhSXZQdkxURUpoWVI2el9kR0xR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T12:18:00+07:00",
+"found": "2026-11-24T12:28:07+07:00"
+},
+{
+"id": "44f949ac9389",
+"title": "Hai thanh niên nghi say xỉn tông đại úy cảnh sát Hà Nội nhập viện",
+"link": "https://vietnamnet.vn/hai-thanh-nien-nghi-say-xin-tong-dai-uy-canh-sat-ha-noi-nhap-vien-2578080.html",
+"summary": "Hai thanh niên nghi say xỉn, không đội mũ bảo hiểm, phóng xe máy tông trúng đại úy cảnh sát cơ động Hà Nội, khiến cán bộ này bị đa chấn thương, phải nhập viện cấp cứu. Hiện sức khỏe của đại úy đã ổn định.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/hai-thanh-nien-nghi-say-xin-tong-dai-uy-canh-sat-ha-noi-nhap-vien-3723.jpg?width=0&s=g6DRHvo0O2RSJVMfeFpp3Q",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T12:15:07+07:00",
+"found": "2026-11-24T11:04:27+07:00"
+},
+{
 "id": "9c68e927702e",
 "title": "Cận cảnh hiện trường ngổn ngang sau vụ nổ khiến 2 người tử vong ở phố Nguyễn Văn Tuyết",
 "link": "https://vietnamnet.vn/hien-truong-vu-no-lon-tren-pho-nguyen-van-tuyet-2578077.html",
@@ -220,7 +242,7 @@
 "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/can-canh-hien-truong-ngon-ngang-sau-vu-no-khien-2-nguoi-tu-vong-o-pho-nguyen-van-tuyet-3573.jpg?width=0&s=zLEu-3991YL2JS8Q54uSjw",
 "source": "VietnamNet",
 "cat": "xh",
-"published": "2026-11-24T12:12:09+07:00",
+"published": "2026-11-24T12:14:31+07:00",
 "found": "2026-11-24T10:49:14+07:00"
 },
 {
@@ -231,8 +253,30 @@
 "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/no-lon-sap-nha-o-ha-noi-2262.jpg?width=0&s=2aQenL7_lg4sCb6W7gKE8w",
 "source": "VietnamNet",
 "cat": "xh",
-"published": "2026-11-24T12:08:37+07:00",
+"published": "2026-11-24T12:13:12+07:00",
 "found": "2026-11-24T08:59:42+07:00"
+},
+{
+"id": "8edfa4d19164",
+"title": "Từ 1.7.2027, cơ quan chậm giải quyết hồ sơ đất đai, tính giá đất thế nào?",
+"link": "https://thanhnien.vn/tu-172027-co-quan-cham-giai-quyet-ho-so-dat-dai-tinh-gia-dat-the-nao-185261124113117919.htm",
+"summary": "Theo luật mới, nếu cơ quan chậm giải quyết hồ sơ đất đai, giá đất để tính nghĩa vụ tài chính được xác định tại thời điểm phải hoàn thành thủ tục, thay vì ngày thực tế giải quyết.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-luat-dat-dai-1795493964595866280358-147-0-947-1280-crop-1795494274204196320504.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T12:13:00+07:00",
+"found": "2026-11-24T12:28:07+07:00"
+},
+{
+"id": "a700e582a771",
+"title": "Tặng 10.000 phiếu mua hàng giảm giá 500.000 đồng cho công nhân khó khăn",
+"link": "https://tuoitre.vn/tang-10000-phieu-mua-hang-giam-gia-500000-dong-cho-cong-nhan-kho-khan-1002611241104081.htm",
+"summary": "Ngày hội 'Đại đoàn kết toàn dân tộc - Gắn kết yêu thương và lập nghiệp tại Bắc Ninh' đem tới 10.000 phiếu mua hàng giảm giá, trị giá 500.000 đồng/phiếu và cơ hội tư vấn chính sách việc làm, bảo hiểm xã hội, bảo hiểm y tế miễn phí.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/cong-doan-bac-ninh35-1795493001381853244567-106-0-1706-2560-crop-17954934605291295357592.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-24T12:11:00+07:00",
+"found": "2026-11-24T12:28:07+07:00"
 },
 {
 "id": "47a0cae62887",
@@ -268,6 +312,17 @@
 "found": "2026-11-24T10:49:14+07:00"
 },
 {
+"id": "0eea671ee2f9",
+"title": "Va chạm 2 đối mặt với chuỗi án mạng và sự mất tích của Eo Hyeon-gyeong",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXBYS1JBZldoNjdPbmVFUGVJSHR5bDNrTGNWVVRNWmEtdXVEeS1JWjVvWkRPTk1MUWpzOEh3MmtXRTlncmNDUHFqY0Q3Wk9NM292WXZ6QzFFZTQ0UUpiLW9meXNUTkRIdGRXRWd4TTU4YWVYQ3h5OGtxaHhOVWN6TFVIVzZJdDl3amRn?oc=5",
+"summary": "Nguồn: 미디어파인",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T12:02:29+07:00",
+"found": "2026-11-24T12:28:07+07:00"
+},
+{
 "id": "d58304423219",
 "title": "Vietnam Connect Forum 2026: VietinBank kết nối cơ hội đầu tư, kiến tạo hệ sinh thái doanh nghiệp FDI tại Việt Nam",
 "link": "https://thanhnien.vn/vietnam-connect-forum-2026-vietinbank-ket-noi-co-hoi-dau-tu-kien-tao-he-sinh-thai-doanh-nghiep-fdi-tai-viet-nam-185261124113721328.htm",
@@ -277,6 +332,41 @@
 "cat": "tc",
 "published": "2026-11-24T12:00:00+07:00",
 "found": "2026-11-24T12:12:56+07:00"
+},
+{
+"id": "62483b0ab36a",
+"title": "park hang-seo",
+"link": "https://giadinhvaphapluat.vn/hlv-park-hang-seo-bao-tin-vui-khi-hlv-kim-sang-sik-het-hop-dong-p137132.html",
+"summary": "HLV Park Hang Seo báo tin vui khi HLV Kim Sang Sik hết hợp đồng (giadinhvaphapluat.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhmnHee28pvXAqtdWei4EeQudsRDx8DSLEEMipTbmEy8G9p3Oej6evTfvQE0w",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T12:00:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-24T12:28:07+07:00"
+},
+{
+"id": "60abe5c3a027",
+"title": "gió mùa đông bắc",
+"link": "https://dantri.com.vn/thoi-tiet/mien-bac-ret-dien-rong-mien-trung-mua-to-20261123191359748.htm",
+"summary": "Miền Bắc rét diện rộng, miền Trung mưa to (Báo Dân trí)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdLHyvzhHg4RqaQWUoIsnKcdvX7kkZtOIeR4QIy4KeKqeJpbYwjnDlr0eIs2A",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T12:00:00+07:00",
+"traffic": "100000+",
+"found": "2026-11-24T12:28:07+07:00"
+},
+{
+"id": "8b01aecab815",
+"title": "Động lực nào định hình tăng trưởng kinh tế Việt Nam giai đoạn tới?",
+"link": "https://dantri.com.vn/kinh-doanh/dong-luc-nao-dinh-hinh-tang-truong-kinh-te-viet-nam-giai-doan-toi-20261123090705661.htm",
+"summary": "(Dân trí) - Trước mục tiêu bứt phá kinh tế đến năm 2030, các chuyên gia cho rằng Việt Nam cần thay đổi tư duy, chuyển từ khai thác nguồn lực thô sang kiến tạo năng lực công nghệ và phát triển bền vững.",
+"image": "https://cdnphoto.dantri.com.vn/_Y2tHTONtFT-LUnJ0SCixrIAJyU=/2026/09/30/canh-dep-thanh-pho-ha-noi-dan-tri-11-edited-1665323846708-1785137636845-1790747928602.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-24T11:58:23+07:00",
+"found": "2026-11-24T12:28:07+07:00"
 },
 {
 "id": "295ac8088eaf",
@@ -309,7 +399,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T11:50:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T12:12:56+07:00"
 },
 {
@@ -787,17 +877,6 @@
 "source": "Báo Mới",
 "cat": "tc",
 "published": "2026-11-24T10:55:00+07:00",
-"found": "2026-11-24T11:04:27+07:00"
-},
-{
-"id": "44f949ac9389",
-"title": "Hai thanh niên nghi say xỉn tông đại úy cảnh sát Hà Nội nhập viện",
-"link": "https://vietnamnet.vn/hai-thanh-nien-nghi-say-xin-tong-dai-uy-canh-sat-ha-noi-nhap-vien-2578080.html",
-"summary": "Hai thanh niên nghi say xỉn, không đội mũ bảo hiểm, phóng xe máy tông trúng đại úy cảnh sát cơ động Hà Nội, khiến cán bộ này bị đa chấn thương, phải nhập viện cấp cứu. Hiện sức khỏe của đại úy đã ổn định.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/hai-thanh-nien-nghi-say-xin-tong-dai-uy-canh-sat-ha-noi-nhap-vien-3723.jpg?width=0&s=g6DRHvo0O2RSJVMfeFpp3Q",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T10:54:48+07:00",
 "found": "2026-11-24T11:04:27+07:00"
 },
 {
@@ -14681,18 +14760,6 @@
 "found": "2026-11-23T06:35:46+07:00"
 },
 {
-"id": "31846af52bb3",
-"title": "park hang-seo",
-"link": "https://www.saostar.vn/sao-sport/hlv-park-hang-seo-bao-tin-vui-giua-luc-hlv-kim-sang-sik-sap-chia-tay-202611222357511234.html",
-"summary": "HLV Park Hang Seo báo tin vui giữa lúc HLV Kim Sang Sik hết hợp đồng (Tạp chí Saostar)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReowCOX-L9IUr3Z2kVYL8mZ7RvtkBfBkTF2TjxkPqZC82PZIpZsNMhwvbENCE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T06:20:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-23T06:35:46+07:00"
-},
-{
 "id": "c0d3ce837edc",
 "title": "giá cà phê",
 "link": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2311-gia-ca-phe-trong-nuoc-va-the-gioi-on-dinh-post1352445.vov",
@@ -28062,72 +28129,6 @@
 "cat": "mxh",
 "published": "2026-11-21T12:10:00+07:00",
 "found": "2026-11-21T12:21:06+07:00"
-},
-{
-"id": "082b29df738a",
-"title": "Việt Nam có gia đình giàu có với 2 người con thành đạt: Cha mẹ từng phải bán xe máy để khởi nghiệp, bán 4 - 5 kg vàng để trả lương nhân viên, 3 người trong nhà nay được phong Anh hùng Lao động",
-"link": "https://kenh14.vn/viet-nam-co-gia-dinh-giau-co-voi-2-nguoi-con-thanh-dat-cha-me-tung-phai-ban-xe-may-de-khoi-nghiep-ban-4-5-kg-vang-de-tra-luong-nhan-vien-3-nguoi-trong-nha-nay-duoc-phong-anh-hung-lao-dong-215261121092656516.chn",
-"summary": "Đây còn là một gia đình với truyền thống dạy con đặc biệt.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795227982013-1795227982539727674787.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T12:09:00+07:00",
-"found": "2026-11-21T12:21:06+07:00"
-},
-{
-"id": "072c97551b2d",
-"title": "Luật Nhà ở (sửa đổi): Siết chuyển nhượng nhà ở xã hội, phát triển nhà cho thuê",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDNGV09JOTc2cUIxRFBkOFd1dEpnY0ZsM3IxUUlOSjlFNFc3N3hZd3ozRFNvS2xQaU81Nlc1bURwV3lOR2pfM1c0aEFSclJ0R2NweWM0TTUwcUwwaURZX2E3NEtnZjJnVk1RUVEyV2M4X2JVY2hqMEN2aGR2bDRQTlVIcnlQYTRFeVYtTzFoVFpKNmliajZ5NHRSRFVjanhBR01rbG5Rb09iUnc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T12:09:00+07:00",
-"found": "2026-11-21T12:21:06+07:00"
-},
-{
-"id": "b1f8f2a672c1",
-"title": "Nới trần tính thuế theo doanh thu lên 10 tỷ đồng: Để người khởi nghiệp lo bán hàng trước khi lo sổ sách",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQVh3ZGNBS09jUHNkazhQUVlGN0N2MEE3SkRFLW1RanBPbjNQVkY5QUdkZGRXbEJqX0poQmUtMlhlQkNtdFJQal80TU9USzRaM0RPcU9lNjg1bjlNTmdGWTdvbjFyazY0N2RpbFpRQ2VsSElQSnJtcGF0Rl9vNXhpQzMwa09kcGJ0SE4xYzhZd014ZVZmV2ppcDZwTUhKcDgtM21LWDUyT1loZWl0MVlraE95T2N5TWQ0NXBua0FIc1lib3NzeWhsUTRJQWVjUXla?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T12:09:00+07:00",
-"found": "2026-11-22T10:04:32+07:00"
-},
-{
-"id": "1bdf5073ae3a",
-"title": "Bảo hiểm xã hội Cát Lái trao 50 thẻ bảo hiểm y tế cho người khó khăn ở phường Phước Long",
-"link": "https://tuoitre.vn/bao-hiem-xa-hoi-cat-lai-trao-50-the-bao-hiem-y-te-cho-nguoi-kho-khan-o-phuong-phuoc-long-100261121115655019.htm",
-"summary": "50 thẻ bảo hiểm y tế, mỗi thẻ trị giá hơn 1 triệu đồng, cùng 100 suất quà nhu yếu phẩm đã được trao cho người có hoàn cảnh khó khăn, đồng bào dân tộc thiểu số tại phường Phước Long trong chương trình phát động Tháng hành động vì bình đẳng giới năm 2026.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/trao-bhyt-17952335632202021614709-0-97-1372-2292-crop-1795236786675807262779.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T12:07:00+07:00",
-"found": "2026-11-21T13:19:19+07:00"
-},
-{
-"id": "867e7126a61e",
-"title": "Bé gái lớp 4 nhặt được hơn 15 triệu đồng, tìm người đánh mất trả lại",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTE9VZWxUTTFxZEZPVG92SWhQemlzMnpDcEpKSzh5NXR4WURrUjNZaHFCQUZ1cnpnRzBqM2RUOWl1Z3ViSTBXdGNMMC1NRDlLS2JRQm5KYklhWTBSbmpEeXk0Y2Z5OHBnMVhfa3R4Qmc5Z05qWGtVWjBLdEhpVmYxZDVOOVN1X0JzMUtIZi1UR2hLNVpk?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T12:06:48+07:00",
-"found": "2026-11-21T14:22:05+07:00"
-},
-{
-"id": "bb085c269f01",
-"title": "Xăng giảm 5 lần liên tiếp: Giá tô phở, ổ bánh mì nhiều nơi vẫn chưa “nhúc nhích”",
-"link": "https://dantri.com.vn/kinh-doanh/xang-giam-5-lan-lien-tiep-gia-to-pho-o-banh-mi-nhieu-noi-van-chua-nhuc-nhich-20261121112452337.htm",
-"summary": "(Dân trí) - Từ đầu tháng 11, mỗi lít xăng đã rẻ hơn khoảng 6.600-7.400 đồng, giá điện cũng giảm 2%. Tuy nhiên, nhiều hàng quán ở TPHCM vẫn giữ nguyên giá bán với lý do giá nguyên liệu, gas, nhân công chưa hạ.",
-"image": "https://cdnphoto.dantri.com.vn/rEZDSXQjRGlAfb1A5rY-Uok8KBo=/2026/11/21/nhung-quan-pho-bo-co-tieng-o-ha-noidocx-1734678082111-1794819652119-1795234172219.jpeg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T12:03:12+07:00",
-"found": "2026-11-21T12:36:34+07:00"
 }
 ]
 }
