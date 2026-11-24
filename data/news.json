@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T02:41:08+07:00",
-"new": 4,
+"updated": "2026-11-25T02:56:17+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 21
+"count": 48
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,18 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "4231f248fa3a",
+"title": "arsenal vs dortmund",
+"link": "https://news.laodong.vn/bong-da-quoc-te/du-doan-ti-so-arsenal-vs-dortmund-tai-champions-league-1805466.ldo",
+"summary": "Arsenal vs Dortmund score prediction in Champions League (Laodong.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXaYfx5MdqQdEXKJqzn2c2zntqKwobKZVS1d3SflpWelRSd2J7NM31eNJbKo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T02:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T02:56:17+07:00"
+},
+{
 "id": "704902daad22",
 "title": "Cổ phiếu bất động sản midcap đón dòng tiền trở lại, kỳ vọng từ mùa cuối năm",
 "link": "https://cafef.vn/co-phieu-bat-dong-san-midcap-don-dong-tien-tro-lai-ky-vong-tu-mua-cuoi-nam-188261125021951405.chn",
@@ -244,7 +256,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T02:10:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-25T02:41:08+07:00"
 },
 {
@@ -290,7 +302,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T02:00:00+07:00",
-"traffic": "5000+",
+"traffic": "10000+",
 "found": "2026-11-25T02:41:08+07:00"
 },
 {
@@ -327,6 +339,18 @@
 "published": "2026-11-25T01:30:00+07:00",
 "traffic": "200+",
 "found": "2026-11-25T02:16:04+07:00"
+},
+{
+"id": "b32d6052dc0f",
+"title": "galatasaray – aston villa",
+"link": "https://www.beyazbelgehaber.com/haber/galatasaray-spor-kulubu-aston-villa-karsilasmasina-3-saat-kaldi",
+"summary": "Galatasaray Spor Kulübü: Aston Villa Karşılaşmasına 3 Saat Kaldı (https://beyazbelgehaber.com/)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTs90GSDHwZTWerio4rbvigAVXwRrBG24ojcnX3Hg4GT3YhKJlOlIJcG71JXKo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T01:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-25T02:56:17+07:00"
 },
 {
 "id": "d51d39185a3c",
@@ -3763,6 +3787,17 @@
 "cat": "bds",
 "published": "2026-11-24T14:56:00+07:00",
 "found": "2026-11-24T15:01:52+07:00"
+},
+{
+"id": "fc7a3eae0f2e",
+"title": "Courtois tự hào là một phần trong lịch sử Real Madrid",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbS1BcE5mZTNQZDg0cFlRdlFLQTIxYVA2Sk5wQWx5R3NqbVFwdnhFYkNGcUZ2X25Ld1BFMDF3WmtMcUxFSF9sbWhzUy1WeVZvcnNYcENZM1JIbjBGcHFKbTRGQWpFc25IbVFNc3FuU2hKbEZXZy1xWlp6dl9TOHdzVW5B?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T14:48:53+07:00",
+"found": "2026-11-25T02:56:17+07:00"
 },
 {
 "id": "b536d68c49e3",
@@ -28085,40 +28120,6 @@
 "published": "2026-11-21T23:40:00+07:00",
 "traffic": "2000+",
 "found": "2026-11-22T00:06:57+07:00"
-},
-{
-"id": "6396f3b3ecc9",
-"title": "thứ hạng của borussia mönchengladbach gặp dortmund",
-"link": "https://sports.yahoo.com/articles/dortmund-top-table-batz-blunder-162500224.html",
-"summary": "Dortmund top the table as Batz blunder consigns Gladbach to defeat (Yahoo Sports)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUjpiaXZOdleahxRtEVELi5QzAkdK5udumIINvyFZI0rOP9Yl08UhpUzBVapA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T23:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-22T00:06:57+07:00"
-},
-{
-"id": "78fc3c74b9f9",
-"title": "Huế bàn cách gỡ vướng quy hoạch, định hình không gian đô thị mới",
-"link": "https://cafef.vn/hue-ban-cach-go-vuong-quy-hoach-dinh-hinh-khong-gian-do-thi-moi-188261121230726977.chn",
-"summary": "TP Huế rà soát, đề xuất điều chỉnh cục bộ quy hoạch tại 16 vị trí thuộc 5 nhóm lĩnh vực, nhằm tháo gỡ những bất cập hiện hữu, tổ chức lại không gian đô thị, công nghiệp, giao thông và hạ tầng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795276923352-1795276923726335982066.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T23:39:00+07:00",
-"found": "2026-11-21T23:51:48+07:00"
-},
-{
-"id": "346f7ad65858",
-"title": "Khởi tố 11 bị can liên quan vụ án mua bán dâm gây xôn xao dư luận tại Huế",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkJDdzN1bW5tUTdNTFotTzE0bF94YVdiQXIzTkk3NDRJS1FqWWE0TWR2bWRjT1ZDbE5kUXBFaGkxTElzZzg2cmtYTGI5azE3RGhONUxqcUtBaXZtOTBsT0xaYTlCOTZDWUJwS1gzVms3dHBGamJpRnc3MTc3Rlo4bS1QTHg3cExGR3pGUXNDOFhZcTVzWGI3MXRpVE1aSmlRN183ZkN0bw?oc=5",
-"summary": "Nguồn: tin.skydoor.net",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T23:31:46+07:00",
-"found": "2026-11-22T02:24:44+07:00"
 }
 ]
 }
