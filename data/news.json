@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T06:46:52+07:00",
-"new": 17,
+"updated": "2026-11-24T07:02:04+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -211,6 +211,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "eec940d77486",
+"title": "Rao bán chung cư rẻ hơn cả tỷ đồng, chiêu trò khiến chủ nhà mắc bẫy",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSU5obkhKU3l1Q3ZXXzMxblZVbl8yd2x4cWxFeUJqV0lNLV8zRlZpQVFIYUZqQThNb0hRLVc1SURpRUU0VUVNNGQtd2ROWV9xY1RaRVRmQjI4VWJoQW5lOUl0Z1pvM0pGTnU3d3VtbmJIMXdIN0UzVmlXeGtVTlFlTnRzTm5LRFlwdmdrLS1jcW9fYTlVVHVsX1JMWXM3aHRN?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T06:54:00+07:00",
+"found": "2026-11-24T07:02:04+07:00"
+},
+{
+"id": "ff2b8dfa27cc",
+"title": "Tỷ giá USD hôm nay (24-11): Đồng USD tăng mạnh",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2ZqanJISE44b3ZPLVVPclZFVzEtLXZSMGo3Z0Y1UW9VbmtDR0hjVGt0UXYxNXp3Q05WLXVaVWFpaTVpdlRhdVdZZWJERUJCVWJDSEI0SGJIanpzVXBIR2Fha0RENE40cVB6MGpFUzd6Y211Q1JPTUoxT1Y3MlQwTzZ3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T06:45:00+07:00",
+"found": "2026-11-24T07:02:04+07:00"
+},
+{
 "id": "b9fff7f7a4aa",
 "title": "Dự báo giá vàng sau cú 'lao dốc' rất gắt",
 "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GMzJUUVFyeTM1eXRjRkZ6SHVwZHU1MHItQXRHNVJMVFBqZGsxZGpzeWplTTRRVjNTNUdFQk1hcG85MTNpOHFETVlDUUw1VG9ORFRvcGpDTDdZWDVITld2bk1rQUItZFQ1cmxSdHg0bTBjSkZXWlQ1eDZfYw?oc=5",
@@ -220,6 +242,17 @@
 "cat": "tc",
 "published": "2026-11-24T06:37:00+07:00",
 "found": "2026-11-24T06:46:52+07:00"
+},
+{
+"id": "054bbb09baab",
+"title": "Giá vàng hôm nay (24-11): Tăng mạnh",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tcDI0QVgzNFpVVlYyMWtLTDU0UHpxNEg0MHNGME5qWFdsal9HVjQxYVlKbFd0TXV1czJZTFUwRjVjeTBGbnJ0bVdqd0ZwaXNOYzVDRFdDMTIyaXlvMXRqdi1YWExHYnNqYnpUOW8zR3hqUWM?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T06:32:00+07:00",
+"found": "2026-11-24T07:02:04+07:00"
 },
 {
 "id": "00380a75f435",
@@ -255,6 +288,17 @@
 "cat": "xh",
 "published": "2026-11-24T06:14:00+07:00",
 "found": "2026-11-24T06:30:01+07:00"
+},
+{
+"id": "371aa6a5bfb8",
+"title": "Ngôi nhà màu hồng với nội thất như trường mẫu giáo",
+"link": "https://vnexpress.net/ngoi-nha-mau-hong-voi-noi-that-nhu-truong-mau-giao-5147005.html",
+"summary": "Công trình kết hợp kiến trúc cổ điển với màu sắc và họa tiết đa dạng, tạo sự khác biệt trong không gian sống.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/20/6-1795148421.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6rEEhWtzcl3va_48U1hc3A",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-24T06:11:19+07:00",
+"found": "2026-11-24T07:02:04+07:00"
 },
 {
 "id": "a42768f0dd49",
@@ -4910,6 +4954,17 @@
 "found": "2026-11-23T17:43:01+07:00"
 },
 {
+"id": "c934dfa21a8c",
+"title": "Thủ tướng Lê Minh Hưng: Hải Phòng đẩy nhanh tiến độ các dự án trọng điểm, phát triển hạ tầng liên vùng",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcHZRYmU5T1kwdGFuZ3pKSXJhOFNzTWpvSFduU1RIN1hFb0loMVBKWUJsZGZYWDUyQmsyZU4tbE5oVUZKeGhMdlVyTi1wV2JxZW1OUzI5T1d2WHlUZlZHbWxHVUIxY0F5SXhiVkRHV2JxZndlX2JPOHBudGY4Tk9talp1Tk0ya19SQ1J6RWFPajN4Nl9PdjRDSTF0dWFySlhxdEhFcC1zQ0VXVUQ2SWJLNnFvMzBEZzhORnF1dWJ2bDBJT2FpQTZrTm1YVUUzQQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T17:09:00+07:00",
+"found": "2026-11-24T07:02:04+07:00"
+},
+{
 "id": "1db75d2f5260",
 "title": "Hàng trăm nghìn tỷ đồng trái phiếu sắp đáo hạn, doanh nghiệp địa ốc chịu sức ép",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmZRT3F5QTVISGREMFFEQkZDMGVVNzlMb240V0RuTVRDZTU1NGpZNi1WeElBNWQyME1GeG9SZHoxeGIzeklMOFhCR1R4c21hc2dlWmZ1Q29qVVhrMXcwZzIwNTRqaXlITFU2dE1vNExoM0FjTXRFOUJzMkxOSzlkcDBGV194Sk54SkJUejFOZnZjQkJ2c0FFVmxHUjdxcTNxMHY4MUctYzJvV1RuYzZ6VA?oc=5",
@@ -4985,6 +5040,17 @@
 "cat": "xh",
 "published": "2026-11-23T16:57:00+07:00",
 "found": "2026-11-23T10:15:47+07:00"
+},
+{
+"id": "f49027ed0bf7",
+"title": "Đẩy nhanh tiến độ triển khai 22 dự án cấp bách",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa2xyWUxlbXNxMXd5NnVqcUR5WkZqQWRhRUo4aEVlRmhpODB6VmNsZXBSb3E2VGxyTzZtdkRkX01xMTZyVFItSjBDYzMwc21BSTFlZHFtajZYSXppLThNTUwtTzIyRXd4VzVwemY4bU44Q1MwN3FSRkpnQmIzYnVKRTR1eGhwUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T16:57:00+07:00",
+"found": "2026-11-24T07:02:04+07:00"
 },
 {
 "id": "9fdb8591dc42",
@@ -28051,72 +28117,6 @@
 "published": "2026-11-21T07:50:00+07:00",
 "traffic": "10000+",
 "found": "2026-11-21T08:58:32+07:00"
-},
-{
-"id": "4a3613266a5d",
-"title": "Thời tiết miền Bắc những ngày tới",
-"link": "https://kenh14.vn/thoi-tiet-mien-bac-nhung-ngay-toi-215261121075029077.chn",
-"summary": "Hôm nay (21/11), miền Bắc tiếp tục rét. Trong hai ngày 22-23/11, trời chỉ còn rét về đêm và sáng, trưa chiều hửng nắng. Từ khoảng ngày 24/11, miền Bắc đón thêm đợt không khí lạnh mạnh khiến trời vừa mưa, vừa rét.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795222220496-179522222145293393693.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T07:49:00+07:00",
-"found": "2026-11-21T08:01:50+07:00"
-},
-{
-"id": "5d473181ca67",
-"title": "Lực lượng vũ trang Hải Phòng lần thứ hai đón nhận danh hiệu Anh hùng",
-"link": "https://thanhnien.vn/luc-luong-vu-trang-hai-phong-lan-thu-hai-don-nhan-danh-hieu-anh-hung-185261120231841597.htm",
-"summary": "Tròn 80 năm kể từ những trận chiến đấu bảo vệ thành phố cảng, lực lượng vũ trang Hải Phòng vinh dự đón nhận danh hiệu Anh hùng lần thứ hai, ghi dấu chặng đường chiến đấu, hy sinh và cống hiến.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/edit-ki-niem7-1795219838162367923889-33-0-1210-1883-crop-17952199783171789660811.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T07:49:00+07:00",
-"found": "2026-11-21T08:01:50+07:00"
-},
-{
-"id": "c56c60084a9b",
-"title": "Thi thể quấn băng dính trên sông Hồng (kỳ 1): Manh mối hình xăm trên cổ",
-"link": "https://dantri.com.vn/phap-luat/thi-the-quan-bang-dinh-tren-song-hong-ky-1-manh-moi-hinh-xam-tren-co-20261120212751156.htm",
-"summary": "(Dân trí) - Thi thể một cô gái được phát hiện bên sông Hồng, đoạn qua tỉnh Hưng Yên. Từ hình xăm trên cổ nạn nhân, cảnh sát lần theo manh mối về người đàn ông ở Hà Nội.",
-"image": "https://cdnphoto.dantri.com.vn/D3NRbUCYAPiYq07uZxnt_25rXOc=/2026/11/20/img20261120211916-cropped-1795184688935.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-21T07:48:11+07:00",
-"found": "2026-11-21T08:17:18+07:00"
-},
-{
-"id": "b2b593390711",
-"title": "Một hòn đảo của Việt Nam được tạo nên từ những đợt phun trào núi lửa từ hàng triệu năm trước sắp được xây sân bay, cáp treo, tàu điện 76.600 tỷ đồng",
-"link": "https://cafef.vn/mot-hon-dao-cua-viet-nam-duoc-tao-nen-tu-nhung-dot-phun-trao-nui-lua-tu-hang-trieu-nam-truoc-sap-duoc-xay-san-bay-cap-treo-tau-dien-76600-ty-dong-188261120145724484.chn",
-"summary": "Quảng Ngãi vừa ban hành kế hoạch phát triển đặc khu Lý Sơn thành trung tâm du lịch biển đảo, với tổng nhu cầu đầu tư hơn 76.656 tỷ đồng. Danh mục có sân bay 11.300 tỷ đồng, cáp treo nối đảo Lớn – đảo Bé và khu nghỉ dưỡng, thể thao golf Hòn Sỏi 20.000 tỷ đồng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/he-lo-76600-ty-dau-tu-vao-ly-son-co-san-bay-tau-dien-va-cap-treo-2-1795110028-17951613920941626922652-0-0-420-672-crop-179516139930758091692.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T07:42:00+07:00",
-"found": "2026-11-20T16:19:51+07:00"
-},
-{
-"id": "9a5bbc2dc7c6",
-"title": "Ông chủ Cá Chép: Thị trường sách còn dư địa, nhưng mô hình nhà sách phải thay đổi",
-"link": "https://tuoitre.vn/ong-chu-ca-chep-thi-truong-sach-con-du-dia-nhung-mo-hinh-nha-sach-phai-thay-doi-100261121001856992.htm",
-"summary": "Ông chủ Nhà sách Cá Chép nhận thấy người Việt Nam rất quan tâm đến sách, dù thói quen đọc và mua sách đã có nhiều thay đổi.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/cachep1-17951939175951488336918-239-327-1277-1987-crop-1795194492439929855729.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-21T07:42:00+07:00",
-"found": "2026-11-21T09:28:51+07:00"
-},
-{
-"id": "6f027870b85f",
-"title": "Giá vàng thế giới về sát 3.500 USD",
-"link": "https://vnexpress.net/gia-vang-the-gioi-ve-sat-3-500-usd-5147287.html",
-"summary": "Giá kim loại quý giảm phiên thứ 4 liên tiếp, có thời điểm mất hơn 100 USD về 3.502 USD một ounce.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/goldreu8-1795221448-6939-1795221454.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=g9FItTkri6-QX6dFCBe6RQ",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-21T07:41:31+07:00",
-"found": "2026-11-21T08:17:18+07:00"
 }
 ]
 }
