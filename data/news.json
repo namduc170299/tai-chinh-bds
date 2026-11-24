@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T16:27:31+07:00",
-"new": 7,
+"updated": "2026-11-24T16:42:46+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 45
+"count": 20
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,72 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "260927d7697b",
+"title": "Liên tiếp xảy ra cháy nổ khí gas, Công an TP.HCM tiếp tục đưa ra khuyến cáo",
+"link": "https://thanhnien.vn/lien-tiep-xay-ra-chay-no-khi-gas-cong-an-tphcm-tiep-tuc-dua-ra-khuyen-cao-185261124155456169.htm",
+"summary": "Phòng Cảnh sát PCCC và cứu nạn cứu hộ (Công an TP.HCM) tiếp tục phát đi khuyến cáo khẩn nhằm đảm bảo an toàn sử dụng gas đến người dân và các cơ sở kinh doanh, sau khi liên tiếp xảy ra vụ nổ khí gas gây chết người.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/2411-gas-1795509820167447672935-60-0-751-1106-crop-1795510663760113730160.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T16:38:00+07:00",
+"found": "2026-11-24T16:42:46+07:00"
+},
+{
+"id": "57c4d9fa5af2",
+"title": "Tập đoàn Mai Linh bị thu giữ tài sản, còn 120 người",
+"link": "https://kenh14.vn/tap-doan-mai-linh-bi-thu-giu-tai-san-con-120-nguoi-21526112415445791.chn",
+"summary": "Ngân hàng TMCP Lộc Phát Việt Nam (LPBank) vừa thông báo thu giữ tài sản bảo đảm là bất động sản liên quan đến các khoản vay của Công ty Cổ phần Tập đoàn Mai Linh. Từ tháng 5 tới nay, doanh nghiệp này giảm từ 5.500 nhân sự xuống còn 120 người, tương đương mức giảm gần 98%.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795509826200-1795509829310597268686.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T16:29:00+07:00",
+"found": "2026-11-24T16:42:46+07:00"
+},
+{
+"id": "da09a4c436bf",
+"title": "Bí thư Hà Nội chỉ đạo rà soát toàn bộ công trình sau vụ nổ gas, sập nhà",
+"link": "https://kenh14.vn/bi-thu-ha-noi-chi-dao-ra-soat-toan-bo-cong-trinh-sau-vu-no-gas-sap-nha-215261124160830009.chn",
+"summary": "Trực tiếp kiểm tra hiện trường vụ nổ sập nhà tại số 168 phố Nguyễn Văn Tuyết, Bí thư Thành ủy Hà Nội Trần Đức Thắng yêu cầu các lực lượng khẩn trương cứu nạn, cứu hộ, tập trung cứu chữa người bị thương và rà soát toàn bộ công trình không bảo đảm an toàn để di dời người dân.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795511202114-1795511202533349309812.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T16:28:00+07:00",
+"found": "2026-11-24T16:42:46+07:00"
+},
+{
+"id": "d5475358797f",
+"title": "Bệnh viện dồn lực cứu nạn nhân vụ nổ khí gas ở Hà Nội",
+"link": "https://kenh14.vn/benh-vien-don-luc-cuu-nan-nhan-vu-no-khi-gas-o-ha-noi-215261124161128519.chn",
+"summary": "Sở Y tế Hà Nội yêu cầu các bệnh viện tập trung nhân lực, thuốc men, máu và thiết bị, ưu tiên cao nhất cho việc cấp cứu nạn nhân trong vụ nổ ở phố Nguyễn Văn Tuyết.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795511435474-17955114360441287545566.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T16:27:00+07:00",
+"found": "2026-11-24T16:42:46+07:00"
+},
+{
+"id": "a9fdcaf8a7c8",
+"title": "Cháy quán bún bò ở Hà Tĩnh, một người tử vong",
+"link": "https://kenh14.vn/chay-quan-bun-bo-o-ha-tinh-mot-nguoi-tu-vong-215261124160928543.chn",
+"summary": "Một vụ hỏa hoạn xảy ra tại quán bún bò Huế trên đường Nguyễn Du (phường Thành Sen, Hà Tĩnh) vào rạng sáng khiến nữ chủ quán 55 tuổi mắc kẹt bên trong, tử vong.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795511354405-17955113549931772210956.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T16:27:00+07:00",
+"found": "2026-11-24T16:42:46+07:00"
+},
+{
+"id": "cd55c1e1a77f",
+"title": "Thu tiền đặt cọc không quá 5% giá bán bất động sản",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2hzdmZJNGJMN3NiUzd6S1RSaFZqeDZnNDVaRWFCZzF2bUNNVjgxX2NMRjZUcTVyXzl0Z1hkT21feVBhczFDcUFXQ3JadVdhS3hOZzM5MzMwVklTMnA1LXFFVEZQYlZjakZOYURPNXRBenhuUEctbW9nTlZzcXdVSU5lclhzUWJYb1E?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T16:26:42+07:00",
+"found": "2026-11-24T16:42:46+07:00"
+},
+{
 "id": "1652a9a77c7d",
 "title": "Từ 1/7/2027, căn hộ chung cư được cho thuê lưu trú",
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGtCXzBLeVdXZE5rTWhuTHl3OXlzbloxbWJCcjFTTXYyVlZ1RVM2YlhmNE1xem1PX2JnY1VlTGtUdHk3ZFcyQTdQcWZEaE00X3hrWThnM1RVM0p2YjhHWTJQWHdjSmQyb0t3Q0lTWFlUSktqYjg4Ump6U0dKNzJTc292ZG85TmVscXc?oc=5",
@@ -222,6 +288,18 @@
 "cat": "bds",
 "published": "2026-11-24T16:14:15+07:00",
 "found": "2026-11-24T16:27:31+07:00"
+},
+{
+"id": "5f67bd9d3b50",
+"title": "concert ngày văn hóa việt nam",
+"link": "https://laodong.vn/du-lich/tin-tuc/cap-nhat-lich-ban-phao-hoa-o-cac-tinh-thanh-toi-2411-ngay-van-hoa-viet-nam-1805586.html",
+"summary": "Cập nhật lịch bắn pháo hoa ở các tỉnh thành tối 24.11 Ngày Văn hóa Việt Nam (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLgZJ9CVIApKS4BFF0m85gcceKxMOf0nUuzl7AN_v12GDbnbqnkgIprL78_U8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T16:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T16:42:46+07:00"
 },
 {
 "id": "d4c92d15cb0e",
@@ -266,6 +344,17 @@
 "cat": "bds",
 "published": "2026-11-24T15:59:00+07:00",
 "found": "2026-11-24T16:12:22+07:00"
+},
+{
+"id": "00257407ece0",
+"title": "Vụ nổ khí gas ở Hà Nội: Nạn nhân cạy cửa cuốn, bò ra ngoài",
+"link": "https://vnexpress.net/vu-no-khi-gas-o-ha-noi-nan-nhan-cay-cua-cuon-bo-ra-ngoai-5148362.html",
+"summary": "Sau tiếng nổ, căn hộ tầng 1 tập thể E4 rung lắc dữ dội, vữa trần rơi ào ào, vợ chồng chị Tươi cố sức kéo cửa cuốn, tạo khe hở để các thành viên lần lượt chui ra ngoài.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/nmh06293-jpg-1795498415-8317-1795498430.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tAbMFFhmVQtlN1sXTSyvUA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T15:57:07+07:00",
+"found": "2026-11-24T16:42:46+07:00"
 },
 {
 "id": "2203c26f9eda",
@@ -878,6 +967,17 @@
 "found": "2026-11-24T15:32:53+07:00"
 },
 {
+"id": "323b53b193b7",
+"title": "Tiếp sức Hải Phòng và Quảng Ninh tăng trưởng hai con số",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZlhZQjMwV0FabFpXdE5Ma00tSXBqRWZBSGxmdnFQZnlDN1ZBUTF4WTdGU25tT1M4cFJmQU9wRGxHSF9mOTBtUWVUeWd3eXJRZDFnMXA3ZDdTRUVCcFIxNExsV3hPQ1RnTnpVd1IxVnRmTTNxS0xDMUdwWi1BUER5ZkJLU0RXQjBVZ2lLai03RGt4UQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T14:30:28+07:00",
+"found": "2026-11-24T16:42:46+07:00"
+},
+{
 "id": "b171863a5577",
 "title": "Vietnam Airlines nhận giải nhất về bình đẳng giới tại nơi làm việc",
 "link": "https://vnexpress.net/vietnam-airlines-nhan-giai-nhat-ve-binh-dang-gioi-tai-noi-lam-viec-5148400.html",
@@ -987,6 +1087,17 @@
 "cat": "xh",
 "published": "2026-11-24T14:14:19+07:00",
 "found": "2026-11-24T15:32:53+07:00"
+},
+{
+"id": "5ed4306daf66",
+"title": "Di dời hơn 100 hộ dân khỏi nhà tập thể cũ sau vụ nổ ở Hà Nội",
+"link": "https://vnexpress.net/di-doi-hon-100-ho-dan-khoi-nha-tap-the-cu-sau-vu-no-o-ha-noi-5148377.html",
+"summary": "Quán lẩu nằm ở mặt tiền nhà tập thể E4 phát nổ khiến tòa nhà 5 tầng rung lắc, cửa kính vỡ toác, cư dân phải di dời do công trình không bảo đảm an toàn, trưa 24/11.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/btt-1795503129.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2-0B3SRFXQ9jL6T2mnFzlw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T14:14:19+07:00",
+"found": "2026-11-24T16:42:46+07:00"
 },
 {
 "id": "9646be1514cb",
@@ -1495,7 +1606,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T12:50:00+07:00",
-"traffic": "2000+",
+"traffic": "500+",
 "found": "2026-11-24T13:09:54+07:00"
 },
 {
@@ -4895,6 +5006,17 @@
 "cat": "xh",
 "published": "2026-11-24T07:00:00+07:00",
 "found": "2026-11-24T16:27:31+07:00"
+},
+{
+"id": "1d2a758aad6c",
+"title": "Toản bức xúc trước sự hỗn láo của em gái Bình | Căn nhà không mái che | Tập 18",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1uOTNSNzhkWERybkp0Rm9XTHl0dnh3UHhBbE5VT0MyUkcyQnI3RzNyMHdPdWdhcV9Bal9PMW95Z1I?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T07:00:00+07:00",
+"found": "2026-11-21T10:18:39+07:00"
 },
 {
 "id": "eec940d77486",
@@ -16035,17 +16157,6 @@
 "cat": "tc",
 "published": "2026-11-23T07:04:00+07:00",
 "found": "2026-11-23T09:45:15+07:00"
-},
-{
-"id": "1d2a758aad6c",
-"title": "Toản bức xúc trước sự hỗn láo của em gái Bình | Căn nhà không mái che | Tập 18",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1uOTNSNzhkWERybkp0Rm9XTHl0dnh3UHhBbE5VT0MyUkcyQnI3RzNyMHdPdWdhcV9Bal9PMW95Z1I?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-21T10:18:39+07:00"
 },
 {
 "id": "e7787333a343",
@@ -28014,116 +28125,6 @@
 "source": "VnExpress",
 "cat": "tc",
 "published": "2026-11-21T15:10:20+07:00",
-"found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "bd94a7d5abbc",
-"title": "Chuyển đổi số tái định hình nhân lực ngân hàng",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0F0QmZTTkUzY2pXWUZkNnZwMEh1b3N1OTJHSXhKa3QtajBBd2dZUkRBSVVENmFyTUp4SVo4Nl90UDY3NnhxVWN1SV9Iam42R3o2cU1INlBtYVJ5aVBTdXNHRVlLdHBrSEVtQmE2WGlYOWJzMDNXSk5JcTI0TzR4QkdmUGpnUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T15:10:14+07:00",
-"found": "2026-11-21T15:23:13+07:00"
-},
-{
-"id": "037b6c2840e3",
-"title": "Thiếu tá công an Trúc Mai vừa trở lại sóng VTV đã khiến khán giả bức xúc",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORmhXaGJVM1R0RVZ4Q1lNd2hsazNWNE8wZ3UxUXhtbTZvQkgtT3M3RXpjdW9JTDlhTDB3ZUtxcUhjQUZPUWNNMVVkRGFwNnVhaEFQVWlHblR0OUxRZVc1cTVtbWhuMDJaM2lpcFRjRGJhYXJWQi1qYXZGWkpQb1NRdmhCaU80MzRkMUN1M25TcnZWbXVTR1psV0FzTQ?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T15:09:01+07:00",
-"found": "2026-11-21T15:23:13+07:00"
-},
-{
-"id": "db05f1d25a43",
-"title": "Cổ đông ABBank sắp được mua thêm cổ phiếu tỷ lệ 50%, nhận thưởng 12%",
-"link": "https://thanhnien.vn/co-dong-abbank-sap-duoc-mua-them-co-phieu-ty-le-50-nhan-thuong-12-185261121143925344.htm",
-"summary": "Ủy ban Chứng khoán Nhà nước (UBCKNN) vừa cấp giấy chứng nhận cho ABBank chào bán hơn 803 triệu cổ phiếu giá 10.000 đồng cho cổ đông hiện hữu, đồng thời xác nhận đã nhận đủ hồ sơ phát hành gần 193 triệu cổ phiếu thưởng. Đây là cấu phần trọng tâm trong kế hoạch tăng vốn điều lệ…",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/abbank-17952458660021942250983-62-0-956-1430-crop-17952465223541416032526.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-21T15:09:00+07:00",
-"found": "2026-11-21T15:23:13+07:00"
-},
-{
-"id": "07a7750f5aa9",
-"title": "Xóa nợ lệ phí môn bài cho hơn 2,5 triệu người nộp thuế",
-"link": "https://vnexpress.net/xoa-no-le-phi-mon-bai-cho-hon-2-5-trieu-nguoi-nop-thue-5147424.html",
-"summary": "Từ 21/11, hơn 2,5 triệu người nộp thuế được xóa nợ lệ phí môn bài và tiền chậm nộp phát sinh để hoàn tất thủ tục chấm dứt hoạt động.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/1795245859160-g231198626839434-1501-1602-1795247129.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=n6W30n-Yqfz4IOXRFI80ag",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-21T15:08:14+07:00",
-"found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "3d89a1fe4fe7",
-"title": "Dự án cao tốc ở miền Trung có mức đầu tư 48.283 tỷ đồng vừa được Quốc hội thông qua: Dài 132 km, tốc độ tối đa 100 km/h, rút ngắn 50-60% thời gian di chuyển, đã chốt thời gian khởi công",
-"link": "https://kenh14.vn/du-an-cao-toc-o-mien-trung-co-muc-dau-tu-48283-ty-dong-vua-duoc-quoc-hoi-thong-qua-dai-132-km-toc-do-toi-da-100-km-h-rut-ngan-50-60-thoi-gian-di-chuyen-da-chot-thoi-gian-khoi-cong-215261121145618746.chn",
-"summary": "Cao tốc được kỳ vọng tháo gỡ điểm nghẽn giao thông, mở rộng kết nối liên vùng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795247728355-17952477289451837429700.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T15:08:00+07:00",
-"found": "2026-11-21T15:23:13+07:00"
-},
-{
-"id": "9cafe460d846",
-"title": "Tịch thu xe máy điện của nhóm nam sinh kẹp 3, ‘bốc đầu’ tại Quảng Ninh",
-"link": "https://tuoitre.vn/tich-thu-xe-may-dien-cua-nhom-nam-sinh-kep-3-boc-dau-tai-quang-ninh-100261121144543627.htm",
-"summary": "Cơ quan công an tịch thu chiếc xe máy điện do nhóm nam sinh kẹp 3 và còn chạy “bốc đầu” xe tại khu vực phường Hiệp Hòa, TP Quảng Ninh.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/vi-pham-edit-1795248878651553575596-51-0-1676-2600-crop-17952489073462136920888.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T15:08:00+07:00",
-"found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "e87122e44fbb",
-"title": "PNJ dự kiến thay hơn một nửa ban giám đốc, cắt giảm 30% chi phí nhân sự",
-"link": "https://tuoitre.vn/pnj-du-kien-thay-hon-mot-nua-ban-giam-doc-cat-giam-30-chi-phi-nhan-su-100261121144303819.htm",
-"summary": "Song song với việc xử lý áp lực tài chính, PNJ đang triển khai cuộc tái cấu trúc bộ máy quản lý trên diện rộng, bắt đầu từ cấp lãnh đạo cao nhất.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/base64-1784617543965794540862-17952458908661798909800-0-0-448-717-crop-1795248508062667067210.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-21T15:06:00+07:00",
-"found": "2026-11-21T15:38:44+07:00"
-},
-{
-"id": "4d48f46c8e86",
-"title": "Quốc hội chốt cơ chế xử lý nợ thuế liên quan hơn 2,5 triệu trường hợp",
-"link": "https://dantri.com.vn/kinh-doanh/quoc-hoi-chot-co-che-xu-ly-no-thue-lien-quan-hon-25-trieu-truong-hop-20261121150221785.htm",
-"summary": "(Dân trí) - Quốc hội thông qua cơ chế xóa nợ lệ phí môn bài và tiền chậm nộp có điều kiện, nhằm tháo gỡ vướng mắc cho hơn 2,5 triệu người nộp thuế ngừng hoạt động hoặc không còn ở địa chỉ đăng ký.",
-"image": "https://cdnphoto.dantri.com.vn/-ERPjqxFbxiHKYJk-Y4WCtzs_nI=/2026/11/21/thong-qua-xoa-no-thue-1795247842893.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T15:05:54+07:00",
-"found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "b5341acc7727",
-"title": "Luật Nhà ở (sửa đổi) hóa giải nỗi lo 'niên hạn chung cư'",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0U3UmFDOFdVRHh5VVNscDdDZkNGbzQ3MlpZWUZ2OVhCZjZ4LW96YVM0Q21VYU9rRDl5b1E4ejFPZDQ0R0NKSlQ0MF9hOFA3RXRwY2c4WkQ4UjhVMkgtaktkTHd6ei02d3h1N1FxQ1h0c1NVM3R3Y2VrWm1hQ0pBbjVMRUdPRnh5MkYxWDhn?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T15:04:00+07:00",
-"found": "2026-11-21T15:53:55+07:00"
-},
-{
-"id": "066d78669fcf",
-"title": "Nhiều nhà thầu trong nước, quốc tế quan tâm 3 dự án metro TP.HCM",
-"link": "https://tuoitre.vn/nhieu-nha-thau-trong-nuoc-quoc-te-quan-tam-3-du-an-metro-tphcm-100261121141825776.htm",
-"summary": "Ba dự án metro này, có tổng chiều dài gần 90km, nằm trong danh mục 8 tuyến đang được TP.HCM ưu tiên đầu tư, hoàn thành giai đoạn 2026-2030.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/base64-17846803830761696575614-1789530176459590352215-1795242403157298290046-0-91-396-725-crop-17952424418061525644763.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T15:01:00+07:00",
 "found": "2026-11-21T15:38:25+07:00"
 }
 ]
