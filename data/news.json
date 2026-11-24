@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T09:30:09+07:00",
-"new": 17,
+"updated": "2026-11-24T09:40:07+07:00",
+"new": 13,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,61 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "5822982b1ec5",
+"title": "Bắt TikToker 'Thị Nở' livestream khiêu dâm",
+"link": "https://thanhnien.vn/bat-tiktoker-thi-no-livestream-khieu-dam-185261124085130767.htm",
+"summary": "Mỗi giờ livestream khiêu dâm, TikToker 'Thị Nở' thu từ 250.000 - 500.000 đồng, có thời điểm TikToker này thu nhập tới 300 triệu đồng/tháng từ hoạt động này.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/1795480416106550621113070273150g2654084171055566863f99c573c2d90bb4320c2ca1656783bd4-1795484941754260707800-0-0-1200-1920-crop-1795485025206788108262.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T09:38:00+07:00",
+"found": "2026-11-24T09:40:07+07:00"
+},
+{
+"id": "3996770ff388",
+"title": "Giá vàng hôm nay 24/11: Bật tăng dữ dội hơn 100 USD/ounce",
+"link": "https://vietnamnet.vn/gia-vang-hom-nay-24-11-bat-tang-du-doi-hon-100-usd-ounce-2577974.html",
+"summary": "Giá vàng thế giới tiếp tục tăng mạnh trong phiên giao dịch đêm 23/11, rạng sáng 24/11. Chỉ sau một ngày, giá vàng tăng gần 120 USD/ounce, tương đương 3,38%, có thời điểm vọt lên 3.690 USD/ounce.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/ounce-266.jpg?width=0&s=H6AjbSLna9UTnXX-svccOA",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-24T09:36:02+07:00",
+"found": "2026-11-24T00:58:55+07:00"
+},
+{
+"id": "2e8f22cb9ffb",
+"title": "Nổ lớn ở Hà Nội, một ngôi nhà đổ sập, có ghi nhận thương vong",
+"link": "https://thanhnien.vn/no-lon-o-ha-noi-mot-ngoi-nha-do-sap-co-ghi-nhan-thuong-vong-185261124092041256.htm",
+"summary": "Khoảng 8 giờ sáng nay 24.11, một vụ nổ lớn xảy ra tại phố Nguyễn Văn Tuyết, P. Đống Đa (Hà Nội) khiến một ngôi nhà đổ sập, nhiều công trình xung quanh hư hại. Cảnh sát xác định có thương vong.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-179548589094328250724034965468722825072403496546872c4a1c816bf012ece53c95f245ee2bddb-1795486753577718969003-232-0-832-960-crop-17954867756831758022952.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T09:35:00+07:00",
+"found": "2026-11-24T09:40:07+07:00"
+},
+{
+"id": "361ddbd3d00f",
+"title": "Xe thiết giáp chiến đấu hạng nặng, Việt Nam chế tạo hoàn toàn mới",
+"link": "https://thanhnien.vn/xe-thiet-giap-chien-dau-hang-nang-viet-nam-che-tao-hoan-toan-moi-185261122212243002.htm",
+"summary": "Xe thiết giáp chở quân chiến đấu hạng nặng XTC-03 do Việt Nam chế tạo, được xem là bước chuyển khác biệt.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/attezinsk4aqc1h20dk8sz2frmdfd65-dbaqeelufkb9e-1795357054065589242646-4-0-644-1024-crop-17953583169281552679051.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T09:35:00+07:00",
+"found": "2026-11-24T09:40:07+07:00"
+},
+{
+"id": "95117b51c6bc",
+"title": "Nổ lớn, sập nhà ở Hà Nội",
+"link": "https://vietnamnet.vn/no-lon-sap-nha-o-ha-noi-2578015.html",
+"summary": "Vụ nổ lớn xảy ra vào khoảng 8h sáng nay tại phố Nguyễn Văn Tuyết.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/no-lon-sap-nha-o-ha-noi-2262.jpg?width=0&s=2aQenL7_lg4sCb6W7gKE8w",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T09:31:15+07:00",
+"found": "2026-11-24T08:59:42+07:00"
+},
+{
 "id": "e496b96701ae",
 "title": "Trong bóng tối vẫn có ánh sáng của đam mê",
 "link": "https://thanhnien.vn/trong-bong-toi-van-co-anh-sang-cua-dam-me-185261123191751572.htm",
@@ -224,15 +279,37 @@
 "found": "2026-11-24T09:30:09+07:00"
 },
 {
-"id": "95117b51c6bc",
-"title": "Nổ lớn, sập nhà ở Hà Nội",
-"link": "https://vietnamnet.vn/no-lon-sap-nha-o-ha-noi-2578015.html",
-"summary": "Vụ nổ lớn xảy ra vào khoảng 8h sáng nay tại phố Nguyễn Văn Tuyết.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/no-lon-sap-nha-o-ha-noi-2262.jpg?width=0&s=2aQenL7_lg4sCb6W7gKE8w",
-"source": "VietnamNet",
+"id": "d5b72deaa701",
+"title": "Hé lộ toàn bộ chiến dịch giải cứu Jensen Huang: Ông Trump đắc ý nhận công",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc2lERTFIekdySVhHN3RHNGVKWF9zYnNib29CYTA0cFFIay1GM0pWQUdPQ0Foa25aR1NVX3BDb2JkM0pfeEhnSGh1SnczY1Njb3NlQ0JwVHFwel82MWc4cnpqMDlnbUdLdVU0LXlLdTdLSHQzOFA4R3pNT2xGZVlMb2tPUXVOWmlkV3YxeTB4RzF6aERwQnVZaHhvVkhoLU1QdW8xZUdDOTc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T09:29:18+07:00",
+"found": "2026-11-24T09:40:07+07:00"
+},
+{
+"id": "01683242bf55",
+"title": "Giá vàng thế giới vượt 3.600 USD/oz, chuyên gia vẫn thận trọng",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2ZnZGs5UFgxX0dsWEJQSkFHeXBJaGZpN0VkcVJSVHNwQ2JBS0dsWVRmMEdmc1V0MVVPM201TW85bmtWbU9TUmVEakxkTGRKSGkyV1g0VTJJLVJPOVhRMmZGbVNKY1NTYjV2SjczdHEzSGMtVHFTeTUtbElKcVdEaDJ2Q2RIN0xQSHI3Ymt5Tlo3a3JvZ1dqVV9R?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T09:27:49+07:00",
+"found": "2026-11-24T09:40:07+07:00"
+},
+{
+"id": "39d1fdeb41fc",
+"title": "Thành phố giàu nhất miền Bắc sắp có đại lộ dài hơn 35km, rộng tới 73,5m chạy dọc sông Hồng, quy mô tối đa 10 làn xe cùng 8 nút giao khác mức",
+"link": "https://kenh14.vn/thanh-pho-giau-nhat-mien-bac-sap-co-dai-lo-dai-hon-35km-rong-toi-735m-chay-doc-song-hong-quy-mo-toi-da-10-lan-xe-cung-8-nut-giao-khac-muc-215261124080549824.chn",
+"summary": "Trục đại lộ cảnh quan Tả Hồng dài hơn 35km, đi qua 8 phường, xã của Hà Nội, có quy mô 6 làn xe cơ giới trên tuyến chính, kết hợp 2-4 làn đường gom hoặc hỗn hợp. Mặt cắt ngang lớn nhất của tuyến đạt 73,5m.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795482314613-1795482315160500152760.png",
+"source": "Kenh14",
 "cat": "xh",
-"published": "2026-11-24T09:28:30+07:00",
-"found": "2026-11-24T08:59:42+07:00"
+"published": "2026-11-24T09:26:00+07:00",
+"found": "2026-11-24T09:40:07+07:00"
 },
 {
 "id": "81100ee4535e",
@@ -244,6 +321,17 @@
 "cat": "xh",
 "published": "2026-11-24T09:25:00+07:00",
 "found": "2026-11-23T17:11:27+07:00"
+},
+{
+"id": "e092f1526bdd",
+"title": "Hiện trường vụ nổ lớn trên phố ẩm thực Nguyễn Văn Tuyết ở Hà Nội, nghi có thương vong",
+"link": "https://kenh14.vn/hien-truong-vu-no-lon-tren-pho-am-thuc-nguyen-van-tuyet-o-ha-noi-nghi-co-thuong-vong-215261124092825325.chn",
+"summary": "Sáng 24/11, một vụ nổ lớn xảy ra trên phố Nguyễn Văn Tuyết (Hà Nội), khiến nhiều đồ đạc, tài sản bị hất văng, hư hỏng. Lực lượng chức năng đang phong tỏa hiện trường để cứu nạn, cứu hộ và điều tra nguyên nhân.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795487230018-17954872303891726321077.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T09:22:00+07:00",
+"found": "2026-11-24T09:40:07+07:00"
 },
 {
 "id": "c93ab069f939",
@@ -356,6 +444,17 @@
 "found": "2026-11-24T09:30:09+07:00"
 },
 {
+"id": "01a1bef623cf",
+"title": "Vì sao tỷ phú Jensen Huang và Nvidia có sức ảnh hưởng lớn đến thị trường?",
+"link": "https://dantri.com.vn/kinh-doanh/vi-sao-ty-phu-jensen-huang-va-nvidia-co-suc-anh-huong-lon-den-thi-truong-20261124084522981.htm",
+"summary": "(Dân trí) - Ngày 23/11, hội đồng quản trị Nvidia phục chức Giám đốc điều hành (CEO) cho ông Jensen Huang, cho thấy tầm ảnh hưởng to lớn của vị tỷ phú với Nvidia, cũng như của Nvidia với thị trường chứng khoán.",
+"image": "https://cdnphoto.dantri.com.vn/G2iFkTTMds9Hi5KZ2YQ7fp2EwdM=/2026/11/24/cuu-ceo-nvidia-jensen-huang-tra-loi-phong-van-bao-chi-sau-khi-tham-du-buoi-tiep-don-cong-dong-ai-tai-tokyo-nhat-ban-ngay-16-7-anh-reuters-cropped-1795484545911.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-24T09:06:42+07:00",
+"found": "2026-11-24T09:40:07+07:00"
+},
+{
 "id": "ab1c431ce7d7",
 "title": "Giá USD hôm nay 24.11.2026: Thế giới nhảy vọt, trong nước neo cao",
 "link": "https://thanhnien.vn/gia-usd-hom-nay-24112026-the-gioi-nhay-vot-trong-nuoc-neo-cao-185261124082227234.htm",
@@ -412,6 +511,40 @@
 "found": "2026-11-24T09:30:09+07:00"
 },
 {
+"id": "f4943248f96d",
+"title": "Không đủ tiền đóng góp khi chung cư cũ xây lại, người dân có bị mất quyền lợi?",
+"link": "https://tuoitre.vn/khong-du-tien-dong-gop-khi-chung-cu-cu-xay-lai-nguoi-dan-co-bi-mat-quyen-loi-100261123232234065.htm",
+"summary": "Luật Nhà ở sửa đổi tiếp tục ghi nhận quyền tài sản của chủ sở hữu khi chung cư hết niên hạn, phải phá dỡ, xây dựng lại. Nếu không đủ khả năng đóng góp kinh phí để nhận căn hộ mới, chủ sở hữu căn hộ được giải quyết quyền lợi ra sao?",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/chung-cu-cu-17954504049408525660-413-507-1208-1779-crop-1795450926367514323642-379-674-753-1272-crop-17954842838261592759038.jpg",
+"source": "Tuổi Trẻ",
+"cat": "bds",
+"published": "2026-11-24T09:00:00+07:00",
+"found": "2026-11-24T09:40:07+07:00"
+},
+{
+"id": "e0e5c3f096ce",
+"title": "nguyễn văn tuyết",
+"link": "https://dantri.com.vn/thoi-su/no-lon-tren-pho-am-thuc-nguyen-van-tuyet-o-ha-noi-nghi-co-thuong-vong-20261124085453725.htm",
+"summary": "Nổ lớn trên phố ẩm thực Nguyễn Văn Tuyết ở Hà Nội, nghi có thương vong (Báo Dân trí)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM5wM6bv_XaNQQF7QfLDfWWJlOKk1HVQQtiLUSdL80ZcTa8vEvmSk3ly-LbdU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T09:00:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-24T09:40:07+07:00"
+},
+{
+"id": "646aedb6199c",
+"title": "Mỹ đưa công ty Megaspeed của bà Alice Huang vào danh sách đen thương mại",
+"link": "https://tuoitre.vn/my-dua-cong-ty-megaspeed-cua-ba-alice-huang-vao-danh-sach-den-thuong-mai-10026112408255037.htm",
+"summary": "Giờ đây công ty Megaspeed, tâm điểm bê bối liên quan đến Tập đoàn Nvidia và tỉ phú Jensen Huang, sẽ không được tự do mua các dòng chip AI tiên tiến của Mỹ.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/alice-huang-1794207921051517619724-0-27-450-747-crop-1795483337336940271654.gif",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T08:57:00+07:00",
+"found": "2026-11-24T09:40:07+07:00"
+},
+{
 "id": "47205721ff1b",
 "title": "Đổi tình thân lấy... bản án chung thân vì tranh chấp đất",
 "link": "https://dantri.com.vn/phap-luat/doi-tinh-than-lay-ban-an-chung-than-vi-tranh-chap-dat-20261124084639431.htm",
@@ -443,17 +576,6 @@
 "cat": "tc",
 "published": "2026-11-24T08:56:00+07:00",
 "found": "2026-11-24T09:30:09+07:00"
-},
-{
-"id": "3996770ff388",
-"title": "Giá vàng hôm nay 24/11: Bật tăng dữ dội hơn 100 USD/ounce",
-"link": "https://vietnamnet.vn/gia-vang-hom-nay-24-11-bat-tang-du-doi-hon-100-usd-ounce-2577974.html",
-"summary": "Giá vàng thế giới tiếp tục tăng mạnh trong phiên giao dịch đêm 23/11, rạng sáng 24/11. Chỉ sau một ngày, giá vàng tăng gần 120 USD/ounce, tương đương 3,38%, có thời điểm vọt lên 3.690 USD/ounce.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/ounce-266.jpg?width=0&s=H6AjbSLna9UTnXX-svccOA",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-24T08:53:35+07:00",
-"found": "2026-11-24T00:58:55+07:00"
 },
 {
 "id": "c8e27442759f",
@@ -498,6 +620,17 @@
 "cat": "bds",
 "published": "2026-11-24T08:45:00+07:00",
 "found": "2026-11-24T08:59:42+07:00"
+},
+{
+"id": "36ee70268673",
+"title": "Ra vườn cùng kỹ sư nhận diện, xử lý sâu bệnh hại cà phê",
+"link": "https://tuoitre.vn/ra-vuon-cung-ky-su-nhan-dien-xu-ly-sau-benh-hai-ca-phe-100261120175739417.htm",
+"summary": "Không để người dân \"đoán mò\" bệnh của cây cà phê, Phân Bón Cà Mau đưa chuyên gia đến tận vườn hướng dẫn nhận diện sâu bệnh qua mắt thường và App 2Nông, đồng thời trực tiếp gỡ rối mọi thắc mắc của bà con ngay tại chỗ.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/robusta-ra-vuon-cung-ky-su-edit-nologo-17954854881271165713137.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T08:42:00+07:00",
+"found": "2026-11-24T09:40:07+07:00"
 },
 {
 "id": "effa533abc15",
@@ -818,7 +951,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T08:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-24T08:44:31+07:00"
 },
 {
@@ -830,7 +963,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T08:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-24T08:59:42+07:00"
 },
 {
@@ -12790,6 +12923,17 @@
 "cat": "xh",
 "published": "2026-11-23T07:00:00+07:00",
 "found": "2026-11-22T18:30:15+07:00"
+},
+{
+"id": "f5770e39ae4b",
+"title": "Đình chỉ giáo viên kỷ luật học sinh bằng kim tiêm",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9xUTZUYjVVbm5QY1pUT3NPX1owSWJjLVNEOWFaZEZMdGtZSmdRTHhIeUoyUElzeXp3NHFoLUROUlM?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T07:00:00+07:00",
+"found": "2026-11-24T09:40:07+07:00"
 },
 {
 "id": "5057cbfc575a",
@@ -27983,149 +28127,6 @@
 "cat": "bds",
 "published": "2026-11-21T10:24:47+07:00",
 "found": "2026-11-21T12:21:06+07:00"
-},
-{
-"id": "9278e74a775b",
-"title": "Kiểm soát xe chạy xăng, dầu tại vùng phát thải thấp",
-"link": "https://vnexpress.net/kiem-soat-xe-chay-xang-dau-tai-vung-phat-thai-thap-5147337.html",
-"summary": "Luật Bảo vệ môi trường sửa đổi cho phép địa phương thiết lập vùng phát thải thấp, tập trung kiểm soát phương tiện gây ô nhiễm, sử dụng nhiên liệu hóa thạch và hỗ trợ người dân chuyển sang phương tiện sạch.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/xe-cha-y-xa-ng-die-n-o-phu-o-n-6498-8744-1795228485.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cTD33b24yQLQZrHDhVZ7Xw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-21T10:21:19+07:00",
-"found": "2026-11-21T11:14:36+07:00"
-},
-{
-"id": "af552281814f",
-"title": "Công an thành phố Huế thông tin vụ mại dâm gây xôn xao dư luận",
-"link": "https://thanhnien.vn/cong-an-thanh-pho-hue-thong-tin-vu-mai-dam-gay-xon-xao-du-luan-185261121094629672.htm",
-"summary": "Lãnh đạo Công an thành phố Huế thông tin việc khởi tố vụ án, bị can liên quan vụ mại dâm, đồng thời khẳng định đây là vụ việc độc lập với vụ nhận hối lộ của 2 hiệu trưởng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-lequ6096-17952291112811000874271-107-0-1707-2560-crop-17952291416291097432782.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T10:21:00+07:00",
-"found": "2026-11-21T10:29:04+07:00"
-},
-{
-"id": "3ceaee6f6d9f",
-"title": "Vụ cưỡng chế ‘khu biệt thự trắng’ ở Phú Quốc: Kiến nghị kiểm điểm, rút kinh nghiệm nhiều cá nhân liên quan",
-"link": "https://tuoitre.vn/vu-cuong-che-khu-biet-thu-trang-o-phu-quoc-kien-nghi-kiem-diem-rut-kinh-nghiem-nhieu-ca-nhan-lien-quan-100261121095504778.htm",
-"summary": "Thanh tra tỉnh An Giang vừa có thông báo kết luận thanh tra và kiến nghị cấp thẩm quyền xem xét tổ chức kiểm điểm, rút kinh nghiệm.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/bietthutrang1-179522946249360156866-0-41-412-700-crop-17952295404191279046688.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T10:21:00+07:00",
-"found": "2026-11-21T11:23:57+07:00"
-},
-{
-"id": "945ae066322f",
-"title": "Công an TP Huế thông tin vụ án hai hiệu trưởng tiểu học bị bắt",
-"link": "https://vnexpress.net/cong-an-tp-hue-thong-tin-vu-an-hai-hieu-truong-tieu-hoc-bi-bat-5147351.html",
-"summary": "Liên quan vụ án sai phạm trong cung cấp thực phẩm bán trú tại một số trường học, Công an TP Huế khởi tố hai giám đốc, chủ cơ sở kinh doanh thực phẩm và hai nguyên hiệu trưởng.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/1-1795230580-3796-1795230686.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jqFnKqZx4jaO-A3GK8UyXg",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-21T10:20:29+07:00",
-"found": "2026-11-21T10:44:13+07:00"
-},
-{
-"id": "b580c79261fe",
-"title": "Vàng bạc liên tục phá đáy, hai “cá mập” bất ngờ hành động trái ngược",
-"link": "https://cafef.vn/vang-bac-lien-tuc-pha-day-hai-ca-map-bat-ngo-hanh-dong-trai-nguoc-188261121102002294.chn",
-"summary": "Theo Reuters, đà bán tháo kim loại quý diễn ra trong bối cảnh kỳ vọng Fed tiếp tục tăng lãi suất ngày càng mạnh, đồng USD neo ở vùng cao và làn sóng bán tháo cổ phiếu liên quan đến trí tuệ nhân tạo (AI) lan rộng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/gold-1768968026413-17689680268931972315403-1795231029147228765709-0-0-469-750-crop-17952310328001219389128.webp",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-21T10:20:00+07:00",
-"found": "2026-11-21T10:29:04+07:00"
-},
-{
-"id": "66742f2f2aaf",
-"title": "Chứng khoán Mỹ tiếp tục bị bán tháo, giá dầu sụt 4% trong tuần này",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONGphN1JnTDJodVM0NHlqNlFoaFo5TWx1QTAtN19LZ3NKYy15S2lWOGlZeXhqMmVhTG8zcWtvd1ViYW5PLTFyclRaUmstRjVCRS1HaURkZ19XMVg4bEdmY1FJTmlQaUd1Tlh2RXFDT3A0dGNaaU93U3kxZlN0bzVscFdVYWw5ZTBwLVpYMEJjUkwzbW9mNEJLNkRXUGZlUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T10:18:40+07:00",
-"found": "2026-11-21T10:29:04+07:00"
-},
-{
-"id": "a3c1091e6fd4",
-"title": "Tỷ giá USD hôm nay 21/11: DXY tăng 4 tuần liên tiếp; tỷ giá EUR, GBP và vàng cùng chịu sức ép",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbFVYRWMtVzJ5LUZ0M3JfWDd4cWV6czYyTUZiNkpnVmlPa2I3NHJUMEdsMEdZQ0R0cVd1eWM4MWZPY2RHdWZPZXhLZ3lWYXcxWnhEUG04Ym9oMWVvNGEtOERVNkU3b0QyWjhpSlItd2NRRVNaQl9MTXU3cFhvYlNiWHZHWHJOUElVcmFqMC1rODFmS292eTVmZU51OUlUbFlVWUJ3TGpGblEzWWxIVENiLVVfYVJ6ZUJIUlMwVjVUcTg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T10:18:00+07:00",
-"found": "2026-11-21T10:29:04+07:00"
-},
-{
-"id": "05eacc6c923d",
-"title": "Xăng dầu giảm giá, thị trường bán lẻ, du lịch đón mùa mua sắm cuối năm",
-"link": "https://tuoitre.vn/xang-dau-giam-gia-thi-truong-ban-le-du-lich-don-mua-mua-sam-cuoi-nam-100261121094039873.htm",
-"summary": "Giá xăng dầu liên tục hạ nhiệt được kỳ vọng tiếp thêm sức bật cho nhu cầu du lịch và tiêu dùng cuối năm.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/du-xuan-edit-17952313029431793822668-189-28-1771-2560-crop-17952313863491568993706.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-21T10:16:00+07:00",
-"found": "2026-11-21T10:44:13+07:00"
-},
-{
-"id": "8f2c206af31c",
-"title": "Khơi thông nguồn lực 'đóng băng' - Bài 1: 'Chìa khóa' mở những dự án",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU21rNW5lTkVMaWtfOVM2b2JETEtSZ20wNE1QV1FYQ0xhRXNYbzR2OHlFX0pGRHpLTFVsS1ZOdlFLTzdMR1gweWlvejdUdldydVNiWFZwUUhXNERGTFBTeUZvUXI5UTBlSDJfMm1OM1pIMjVBUTViUjYxcEw1WnpaYk5GelNwdDlESzN2T1FJZnFxTzJLcFVDdEp3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T10:16:00+07:00",
-"found": "2026-11-21T10:44:13+07:00"
-},
-{
-"id": "f696b942c998",
-"title": "3 xe đầu kéo tông liên hoàn, bốc cháy ngùn ngụt, 2 tài xế dương tính ma túy",
-"link": "https://vietnamnet.vn/3-xe-dau-keo-tong-lien-hoan-boc-chay-ngun-ngut-2577007.html",
-"summary": "Vụ va chạm liên hoàn giữa 3 xe đầu kéo khiến lửa bùng lên dữ dội, 2 người bị thương. Qua kiểm tra, lực lượng chức năng phát hiện hai tài xế dương tính với ma túy.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/3-xe-dau-keo-tong-lien-hoan-boc-chay-ngun-ngut-2-tai-xe-duong-tinh-ma-tuy-594.gif?width=0&s=g7Tvwo5BAhS_pZxaK5kLuQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-21T10:15:48+07:00",
-"found": "2026-11-20T10:25:56+07:00"
-},
-{
-"id": "938d05159779",
-"title": "Giá vàng lao dốc, chuyên gia đưa ra dự báo bất ngờ",
-"link": "https://cafef.vn/gia-vang-lao-doc-chuyen-gia-dua-ra-du-bao-bat-ngo-188261121101010928.chn",
-"summary": "Giới phân tích tiếp tục đưa ra những cảnh báo về khả năng giá vàng giảm sâu hơn.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/giavanghomnay-1795230556979560522355-0-0-544-870-crop-1795230560626738738037.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-21T10:15:00+07:00",
-"found": "2026-11-21T10:18:39+07:00"
-},
-{
-"id": "8c61973f3576",
-"title": "Quốc hội cho phép tính giá điện sinh hoạt theo giờ",
-"link": "https://thanhnien.vn/quoc-hoi-cho-phep-tinh-gia-dien-sinh-hoat-theo-gio-185261121093751466.htm",
-"summary": "Bộ Công thương xây dựng, trình Thủ tướng quyết định lộ trình áp dụng giá bán lẻ điện giờ cao điểm, thấp điểm và bình thường cho nhóm khách hàng sinh hoạt khi điều kiện kỹ thuật cho phép.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/dien-1795228217346797249971-76-0-1676-2560-crop-17952282459251799489852.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T10:15:00+07:00",
-"found": "2026-11-21T10:18:39+07:00"
-},
-{
-"id": "50356b4b3470",
-"title": "The Art of Living Well - Hành trình trải nghiệm thành phố đáng sống One Era",
-"link": "https://thanhnien.vn/the-art-of-living-well-hanh-trinh-trai-nghiem-thanh-pho-dang-song-one-era-185261121102102362.htm",
-"summary": "Ngày 20.11.2026, tại One Era Galleria, sự kiện The Art of Living Well - Hành trình khám phá thành phố đáng sống One Era đã diễn ra trong không gian giàu cảm hứng, quy tụ các khách mời, đối tác và cộng đồng doanh nhân.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/anh-1-1795230208132209540387-107-0-1707-2560-crop-1795231168392824660102.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-21T10:14:00+07:00",
-"found": "2026-11-21T10:44:13+07:00"
 }
 ]
 }
