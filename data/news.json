@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T15:17:23+07:00",
-"new": 12,
+"updated": "2026-11-24T15:32:53+07:00",
+"new": 16,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 45
+"count": 19
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,83 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "7e307f69871c",
+"title": "Thanh tra Chính phủ chỉ rõ loạt bất cập trong quản lý nhà, đất tại Tập đoàn Than - Khoáng sản",
+"link": "https://cafef.vn/thanh-tra-chinh-phu-chi-ro-loat-bat-cap-trong-quan-ly-nha-dat-tai-tap-doan-than-khoang-san-188261124152148037.chn",
+"summary": "Kết luận thanh tra số 466/KL-TTCP của Thanh tra Chính phủ vừa công bố cho thấy, bên cạnh nhiều cơ sở kinh doanh hiệu quả, công tác quản lý, sắp xếp và định giá cho thuê quỹ đất tại Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV) vẫn bộc lộ nhiều điểm nghẽn về pháp lý, dự…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795508491333-1795508491872696012596.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-24T15:26:00+07:00",
+"found": "2026-11-24T15:32:53+07:00"
+},
+{
+"id": "0ebd6b6a3480",
+"title": "Chủ tịch HĐQT TIG Nguyễn Phúc Long bị bán giải chấp hơn 6 triệu cổ phiếu",
+"link": "https://cafef.vn/chu-tich-hdqt-tig-nguyen-phuc-long-bi-ban-giai-chap-hon-6-trieu-co-phieu-188261124152044323.chn",
+"summary": "Ông Nguyễn Phúc Long- Chủ tịch HĐQT của TIG vừa bị bán giải chấp tổng cộng 6,2 triệu cổ phiếu TIG, qua đó giảm tỷ lệ sở hữu xuống còn 16,48% vốn.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795508421886-1795508422680361564450.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-24T15:26:00+07:00",
+"found": "2026-11-24T15:32:53+07:00"
+},
+{
+"id": "08fad3b4526d",
+"title": "Novaland rút hết vốn khỏi công ty địa ốc của cựu diễn viên Chi Bảo, thu về 51 triệu đồng",
+"link": "https://tuoitre.vn/novaland-rut-het-von-khoi-cong-ty-dia-oc-cua-cuu-dien-vien-chi-bao-thu-ve-51-trieu-dong-100261124150805149.htm",
+"summary": "Sau hơn 4 năm thành lập doanh nghiệp địa ốc do cựu diễn viên Chi Bảo làm Tổng Giám đốc, Novaland quyết định thoái toàn bộ vốn. Trước đó, doanh nghiệp này từng giảm vốn điều lệ từ 100 tỉ đồng xuống chỉ còn... 100 triệu đồng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/chi-bao-17356254360531402923979-1795507568958849591841-16-0-472-730-crop-17955075795161312287.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T15:24:00+07:00",
+"found": "2026-11-24T15:32:53+07:00"
+},
+{
+"id": "aa54ceee0e6f",
+"title": "Website Bamboo Airways không truy cập được, tiền vé chưa hoàn giải quyết thế nào?",
+"link": "https://tuoitre.vn/website-bamboo-airways-khong-truy-cap-duoc-tien-ve-chua-hoan-giai-quyet-the-nao-100261124145211453.htm",
+"summary": "Website Bamboo Airways nhiều ngày không thể truy cập khiến một số hành khách, đại lý bán vé lo lắng về những khoản tiền chưa được hoàn trả. Trong khi đó, hoạt động khai thác của hãng thu hẹp mạnh, các khoản công nợ tiếp tục là vấn đề cần giải quyết.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/241226anhbambooairwaystsn-17955058757161554164944-13-0-1613-2560-crop-1795506397279958112918.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T15:22:00+07:00",
+"found": "2026-11-24T15:32:53+07:00"
+},
+{
+"id": "2d80f651b32a",
+"title": "Thủ tướng yêu cầu điều tra vụ nổ khí gas ở Hà Nội",
+"link": "https://thanhnien.vn/thu-tuong-yeu-cau-dieu-tra-vu-no-khi-gas-o-ha-noi-185261124145945452.htm",
+"summary": "Sau vụ nổ khí gas tại cửa hàng ăn uống trên phố Nguyễn Văn Tuyết (Hà Nội) khiến 5 người tử vong, 11 người bị thương, Thủ tướng yêu cầu khẩn trương điều tra nguyên nhân, làm rõ trách nhiệm các tổ chức, cá nhân liên quan và xử lý nghiêm vi phạm (nếu có).",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/edit-edit-vu-no-khi-ga-1795506992807216467807-146-0-732-938-crop-17955070128481486476275.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T15:22:00+07:00",
+"found": "2026-11-24T15:32:53+07:00"
+},
+{
+"id": "3277944511c5",
+"title": "Vụ nổ khí gas ở Hà Nội: Ít nhất 5 người chết, 11 người bị thương",
+"link": "https://thanhnien.vn/vu-no-khi-gas-o-ha-noi-it-nhat-5-nguoi-chet-11-nguoi-bi-thuong-185261124143946068.htm",
+"summary": "Theo báo cáo từ Sở Y tế Hà Nội, vụ nổ khí gas ở ngôi nhà phía sau Nhà tập thể E4, phố Nguyễn Văn Tuyết vào sáng 24.11 đã khiến 16 người thương vong, trong đó 5 nạn nhân tử vong ngoại viện và 11 người bị thương đang được tập trung điều trị.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-z852382567837068df36f8b8ba4c95111d1e5dbf6076e2-17955057983592036467101-107-0-1707-2560-crop-1795505941568236994145.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T15:18:00+07:00",
+"found": "2026-11-24T15:32:53+07:00"
+},
+{
+"id": "ffb5109c5e71",
+"title": "Cần quy định ‘giá trần’ trong đấu giá đất để ngăn chặn nạn ‘thổi giá’?",
+"link": "https://cafef.vn/can-quy-dinh-gia-tran-trong-dau-gia-dat-de-ngan-chan-nan-thoi-gia-188261124150129671.chn",
+"summary": "Theo các chuyên gia, quy định giá trần là phương pháp hiệu quả để ngăn chặn tình trạng đấu giá đất không kiểm soát, gây rối loạn thị trường.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795507195960-17955071971721203614888.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-24T15:16:00+07:00",
+"found": "2026-11-24T15:32:53+07:00"
+},
+{
 "id": "d59c92398a06",
 "title": "Ai sẽ là ngân hàng của năm 2026?",
 "link": "https://cafef.vn/ai-se-la-ngan-hang-cua-nam-2026-188261124150332039.chn",
@@ -222,6 +299,17 @@
 "cat": "tc",
 "published": "2026-11-24T15:15:00+07:00",
 "found": "2026-11-24T15:17:23+07:00"
+},
+{
+"id": "a6fccc9d9785",
+"title": "Chủ tịch sáng lập Geleximco Vũ Văn Tiền chia sẻ về cách học: Tôi chỉ dành 1-2 tiếng trên lớp, buổi tối không học nhiều mà chủ yếu nghe bạn bè tranh luận",
+"link": "https://kenh14.vn/chu-tich-sang-lap-geleximco-vu-van-tien-chia-se-ve-cach-hoc-toi-chi-danh-1-2-tieng-tren-lop-buoi-toi-khong-hoc-nhieu-ma-chu-yeu-nghe-ban-be-tranh-luan-215261124142025656.chn",
+"summary": "Ông Vũ Văn Tiền cho rằng học tập không nằm ở việc dành thật nhiều thời gian học thuộc mà quan trọng là phương pháp tiếp thu và tư duy.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795504767264-1795504767739243787285.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T15:13:00+07:00",
+"found": "2026-11-24T15:32:53+07:00"
 },
 {
 "id": "dcbab211246b",
@@ -244,6 +332,18 @@
 "cat": "xh",
 "published": "2026-11-24T15:10:31+07:00",
 "found": "2026-11-24T10:25:40+07:00"
+},
+{
+"id": "1e23e76ae613",
+"title": "lee do hyun",
+"link": "https://www.koreajoongangdaily.com/entertainment/the-glory-couple-lim-jiyeon-and-lee-dohyun-reportedly-break-up/12988447",
+"summary": "'The Glory' couple Lim Ji-yeon and Lee Do-hyun reportedly break up (Korea JoongAng Daily)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTslICNLekVkFYt3WQyCetJEMSQLibtXcYgqJ6BoA0ff1YQwFkuSa8qxQknHyE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T15:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T15:32:53+07:00"
 },
 {
 "id": "9c68e927702e",
@@ -368,6 +468,17 @@
 "found": "2026-11-24T15:17:23+07:00"
 },
 {
+"id": "24b85cbc8062",
+"title": "Mâu thuẫn trên bàn nhậu, người đàn ông cầm 2 dao đuổi đâm bạn tử vong",
+"link": "https://dantri.com.vn/phap-luat/mau-thuan-tren-ban-nhau-nguoi-dan-ong-cam-2-dao-duoi-dam-ban-tu-vong-20261124141000908.htm",
+"summary": "(Dân trí) - Trong lúc nhậu tại nhà, xảy ra mâu thuẫn với bạn, Danh Tiền lấy 2 con dao truy đuổi, đâm vào ngực nạn nhân khiến người này tử vong.",
+"image": "https://cdnphoto.dantri.com.vn/tmWz5nAoJTN0VGehKRtUCKJJjCA=/2026/11/24/danhtien-angiang-cropped-1795504108442.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-24T14:46:58+07:00",
+"found": "2026-11-24T15:32:53+07:00"
+},
+{
 "id": "49ee8e0d4852",
 "title": "Gia Lai động thổ cụm công nghiệp sinh thái xanh 660 tỉ đồng",
 "link": "https://thanhnien.vn/gia-lai-dong-tho-cum-cong-nghiep-sinh-thai-xanh-660-ti-dong-185261124143933177.htm",
@@ -467,6 +578,17 @@
 "found": "2026-11-24T15:01:52+07:00"
 },
 {
+"id": "9505cd9da0a5",
+"title": "PC07 TP.HCM cảnh báo nguy cơ cháy, nổ do khí gas, hướng dẫn cách xử lý khi phát hiện rò rỉ",
+"link": "https://tuoitre.vn/pc07-tphcm-canh-bao-nguy-co-chay-no-do-khi-gas-huong-dan-cach-xu-ly-khi-phat-hien-ro-ri-100261124135521327.htm",
+"summary": "Trước các vụ nổ nghiêm trọng xảy ra tại TP.HCM và Hà Nội, Phòng Cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ (PC07) Công an TP.HCM khuyến cáo người dân, hộ kinh doanh và doanh nghiệp chủ động kiểm tra hệ thống gas, sử dụng đúng cách để phòng ngừa cháy, nổ.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/no-khi-gas-2-1794839134204819659941-0-0-1280-2048-crop-17955030246282006645015.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T14:31:00+07:00",
+"found": "2026-11-24T15:32:53+07:00"
+},
+{
 "id": "b171863a5577",
 "title": "Vietnam Airlines nhận giải nhất về bình đẳng giới tại nơi làm việc",
 "link": "https://vnexpress.net/vietnam-airlines-nhan-giai-nhat-ve-binh-dang-gioi-tai-noi-lam-viec-5148400.html",
@@ -532,6 +654,17 @@
 "cat": "tc",
 "published": "2026-11-24T14:19:00+07:00",
 "found": "2026-11-24T15:01:52+07:00"
+},
+{
+"id": "1e145c77ab64",
+"title": "Di dời người dân khỏi nhà tập thể cũ sau vụ nổ ở Hà Nội",
+"link": "https://vnexpress.net/di-doi-nguoi-dan-khoi-nha-tap-the-cu-sau-vu-no-o-ha-noi-5148377.html",
+"summary": "Quán lẩu nằm ở mặt tiền nhà tập thể E4 phát nổ khiến tòa nhà 3 tầng rung lắc, cửa kính vỡ toác, cư dân phải di dời do công trình không còn bảo đảm an toàn, trưa 24/11.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/btt-1795503129.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2-0B3SRFXQ9jL6T2mnFzlw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T14:14:19+07:00",
+"found": "2026-11-24T15:32:53+07:00"
 },
 {
 "id": "9646be1514cb",
@@ -819,6 +952,17 @@
 "cat": "xh",
 "published": "2026-11-24T13:22:00+07:00",
 "found": "2026-11-24T13:34:29+07:00"
+},
+{
+"id": "d661c1a1eabe",
+"title": "Hà Nội triển khai khảo sát, đo lường chỉ số hạnh phúc của người dân năm 2026",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSVFOdXByVmk3U0ZBcDFLN1VRcEJXVWtBanpDUWg1MDNMalplRGR2elQyeDVBT3lsOWhMMEJ2VldXRzUxOVRkSHItMDZNdngyc2QzOXg2anZrVWJpc3hkMk1wZWg5ZW5CT2wwT0JiQWNUQXNnZUpPNk1XOXlDakZEV0FqQXhoMVI2b253UmdRdmZ2QzhtLXpBcE1LdXBQYVFkS3hpV0RRYzJpTHRh?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T13:16:00+07:00",
+"found": "2026-11-24T15:32:53+07:00"
 },
 {
 "id": "1953af289849",
@@ -1130,6 +1274,17 @@
 "cat": "xh",
 "published": "2026-11-24T12:35:00+07:00",
 "found": "2026-11-24T12:54:43+07:00"
+},
+{
+"id": "2516baacacca",
+"title": "TPHCM quyết tâm hồi sinh kênh rạch: Bài 2: Người dân đồng thuận nhường đất, rạch Văn Thánh bắt đầu hồi sinh",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2ljc25Odk55NkJFYzdEeXRDSmwwUXh6Y2kyeXRhM0kwd3UwRnFUQ0F3U1hveDB6b1FYNDF1RWlWbXRHZ1NnZGU3N2h4Q3I0WGhwLUZTUnNSUVl5Ym5zSmdsVTdCMllqWjZwcWZfRWMwYTFwN3hfREtKa21fNDZURTRuSkhpLTFtN1JHWVV6anhvOTRKNF8wYkF0LTlrRVU1T19Lem5rX29VclJsSHBrVmtuaVNMbWM5NW84OFA2dW9RZ2MyMEhUTklQTkFQMWQ4MVF3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T12:34:44+07:00",
+"found": "2026-11-24T15:32:53+07:00"
 },
 {
 "id": "78104097c3df",
@@ -1466,17 +1621,6 @@
 "published": "2026-11-24T11:40:00+07:00",
 "traffic": "500+",
 "found": "2026-11-24T11:57:44+07:00"
-},
-{
-"id": "f7914cbc9bf5",
-"title": "Bờ Bắc kênh Đôi 'khoác áo mới' sau hơn 1 năm thi công",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakh6by1WMkZ3enJ4b1U2VHJDOHpwSkdQbUZqTFdCZ3NTN0Jud3E4VXREOUNXQ1pUWGw4V0k1S2xaUzNLM09tSWp4d3lCZ3JteUQwbXlYVFFWYWlKSzZTTHRPNWZlVE5GWGJSWXNTdnAyQ1psZzdqU2F3dEp5ZGZDNlUzYjNuZXBvdW5QWA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T11:36:50+07:00",
-"found": "2026-11-24T12:39:10+07:00"
 },
 {
 "id": "1c6bbba5c626",
@@ -1996,6 +2140,17 @@
 "cat": "xh",
 "published": "2026-11-24T10:36:27+07:00",
 "found": "2026-11-24T11:19:37+07:00"
+},
+{
+"id": "f7914cbc9bf5",
+"title": "Bờ Bắc kênh Đôi 'khoác áo mới' sau hơn 1 năm thi công",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakh6by1WMkZ3enJ4b1U2VHJDOHpwSkdQbUZqTFdCZ3NTN0Jud3E4VXREOUNXQ1pUWGw4V0k1S2xaUzNLM09tSWp4d3lCZ3JteUQwbXlYVFFWYWlKSzZTTHRPNWZlVE5GWGJSWXNTdnAyQ1psZzdqU2F3dEp5ZGZDNlUzYjNuZXBvdW5QWA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T10:36:00+07:00",
+"found": "2026-11-24T12:39:10+07:00"
 },
 {
 "id": "b48157dde5ce",
@@ -4396,17 +4551,6 @@
 "published": "2026-11-24T07:00:00+07:00",
 "traffic": "1000+",
 "found": "2026-11-24T07:49:19+07:00"
-},
-{
-"id": "1d2a758aad6c",
-"title": "Toản bức xúc trước sự hỗn láo của em gái Bình | Căn nhà không mái che | Tập 18",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1uOTNSNzhkWERybkp0Rm9XTHl0dnh3UHhBbE5VT0MyUkcyQnI3RzNyMHdPdWdhcV9Bal9PMW95Z1I?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-24T07:00:00+07:00",
-"found": "2026-11-21T10:18:39+07:00"
 },
 {
 "id": "eec940d77486",
@@ -8585,7 +8729,7 @@
 "summary": "",
 "image": "",
 "source": "Báo Mới",
-"cat": "tc",
+"cat": "bds",
 "published": "2026-11-23T17:41:00+07:00",
 "found": "2026-11-24T06:46:52+07:00"
 },
@@ -15525,6 +15669,17 @@
 "cat": "tc",
 "published": "2026-11-23T07:04:00+07:00",
 "found": "2026-11-23T09:45:15+07:00"
+},
+{
+"id": "1d2a758aad6c",
+"title": "Toản bức xúc trước sự hỗn láo của em gái Bình | Căn nhà không mái che | Tập 18",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1uOTNSNzhkWERybkp0Rm9XTHl0dnh3UHhBbE5VT0MyUkcyQnI3RzNyMHdPdWdhcV9Bal9PMW95Z1I?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T07:00:00+07:00",
+"found": "2026-11-21T10:18:39+07:00"
 },
 {
 "id": "e7787333a343",
@@ -26084,6 +26239,17 @@
 "found": "2026-11-21T18:58:54+07:00"
 },
 {
+"id": "d9ecae5c44ac",
+"title": "Kết luận thanh tra công tác quản lý vốn và tài sản của nhà nước tại Tập đoàn TKV",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTNfc2MzNTNyak9Kd0dmYjZmSnAwVUV5VUh2Q05JaEtXSWVKMzVNNDdha1R5ZWxLQlRtMzcxUUdwMWRINF9iZzZ4MU5TTUMtLVpPaWdySTR3VXE0aTJOTTZfSS1mRDR1OFVmenlkMzRBc3pocjFyNTY2WDFNNDF5aENvU09lMl94dWE5eVF0RFJhVklkMnQ5eER3Q2hlLWNJSjZEVDJSel8tNjM2UDlfSnZuNA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T18:42:00+07:00",
+"found": "2026-11-24T15:32:53+07:00"
+},
+{
 "id": "4e0b77ba545f",
 "title": "Người đàn ông chặn đầu taxi, cầm dao tấn công tài xế",
 "link": "https://vnexpress.net/nguoi-dan-ong-chan-dau-taxi-cam-dao-tan-cong-tai-xe-5145233.html",
@@ -27041,6 +27207,17 @@
 "found": "2026-11-21T17:57:25+07:00"
 },
 {
+"id": "7af9eb167839",
+"title": "Thông qua Luật Nhà ở (sửa đổi)",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tSTFlZ1FPNmhWSVJLT2pRUmpPS0Y2bnpweFlLTjFtSm1BbGJGT0VQVnhlM1VORlNpZ2s2UGtjWEwyWFYtQl9ESDkwX2lsNG43TjF0MkI2WTNGRkp4YW1oVUZqai1zTFZPd0ZQUG5n?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-21T16:29:00+07:00",
+"found": "2026-11-24T15:32:53+07:00"
+},
+{
 "id": "ae3ef9da7c2e",
 "title": "Khai mạc vòng chung kết toàn quốc giải pickleball Thanh niên Việt Nam năm 2026",
 "link": "https://thanhnien.vn/khai-mac-vong-chung-ket-toan-quoc-giai-pickleball-thanh-nien-viet-nam-nam-2026-185261121155806091.htm",
@@ -27948,184 +28125,6 @@
 "cat": "xh",
 "published": "2026-11-21T14:16:00+07:00",
 "found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "54c532daa450",
-"title": "Người đàn ông nhặt được súng khi dọn vườn",
-"link": "https://dantri.com.vn/phap-luat/nguoi-dan-ong-nhat-duoc-sung-khi-don-vuon-20261121114543360.htm",
-"summary": "(Dân trí) - Quá trình dọn vườn, người đàn ông tại Đắk Lắk phát hiện một khẩu súng đã bị hoen gỉ nên giao nộp cho cơ quan công an.",
-"image": "https://cdnphoto.dantri.com.vn/TdWr9GR0LG09tyUVFPy5i8JwE3o=/2026/11/21/sung-1795235875328.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-21T14:14:41+07:00",
-"found": "2026-11-21T14:37:15+07:00"
-},
-{
-"id": "4d2faabf2a29",
-"title": "Người lao động có thêm 2 ngày nghỉ lễ hằng năm, hưởng nguyên lương",
-"link": "https://kenh14.vn/nguoi-lao-dong-co-them-2-ngay-nghi-le-hang-nam-huong-nguyen-luong-215261121141452675.chn",
-"summary": "Quốc hội đồng ý bổ sung 2 ngày nghỉ lễ, hưởng nguyên lương là Ngày Thương binh, liệt sĩ (27/7) và Ngày Văn hóa Việt Nam (24/11). Như vậy, tổng số ngày nghỉ trong năm là 13 ngày nghỉ hưởng nguyên lương.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795245244214-17952452446011510291266.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T14:10:00+07:00",
-"found": "2026-11-21T14:22:05+07:00"
-},
-{
-"id": "f069ac921407",
-"title": "Giá vàng tuần tới: Kỳ vọng phục hồi còn mong manh",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU0pvMTd6SENSTVQwaXdVeHMxVFhRTnVTOFNUUVk0T1BfZUd0NmZmRFJRSXNOSWhYbVZ6SzZ1WEotaUM5MjZrckJGbDM4OFljVE1LNjFzc05Ia1ZlVDZSdmZ6bmUzN3dLbHBxMk1YWU5pcGVvQXBITjVuMmNVMEI3MTBUT3M2SXNK?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T14:08:56+07:00",
-"found": "2026-11-21T14:22:05+07:00"
-},
-{
-"id": "804c381b76b8",
-"title": "Nghiên cứu sinh gốc Hoa bị ICE bắt ở cổng lên máy bay",
-"link": "https://vnexpress.net/nghien-cuu-sinh-goc-hoa-bi-ice-bat-o-cong-len-may-bay-5147358.html",
-"summary": "Eva Yi Xie, nghiên cứu sinh tiến sĩ Đại học Princeton, bị đặc vụ ICE bắt khi chuẩn bị lên máy bay sau khi dự hội thảo ở Washington.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/21/xie-1795237801-9481-1795238015.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6sJbP7Jqny7oB4aVwVJZLQ",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-21T14:08:26+07:00",
-"found": "2026-11-22T01:39:12+07:00"
-},
-{
-"id": "330c96058ba4",
-"title": "Phương Trang đưa xe khách giường nằm thuần điện chạy liên tỉnh, đầu tiên ở Việt Nam",
-"link": "https://thanhnien.vn/phuong-trang-dua-xe-khach-giuong-nam-thuan-dien-chay-lien-tinh-dau-tien-o-viet-nam-185261121111907517.htm",
-"summary": "Phương Trang đưa 100 xe giường nằm thuần điện KIM LONG MOTOR vào khai thác trên 3 tuyến TP.HCM - Đà Lạt, Cần Thơ và Trà Ôn. Xe có 34 giường, chạy hơn 450 km/lần sạc.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/ha-tang-sac-xe-khach-dien-futa-17952404324291519816498-230-0-1707-2362-crop-1795240887051452410666.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T14:07:00+07:00",
-"found": "2026-11-21T14:22:05+07:00"
-},
-{
-"id": "32e8e8755557",
-"title": "Khởi tố 11 bị can liên quan vụ án mua bán dâm gây xôn xao tại Huế",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbkxjUkRMZkE2OUtwVGNySTFYN2xEdUpZVWM1ZFppOXppSlhiazB1TERMNWxMMlN0OWd0WVgzSFoxR2loNU9JcG5xZWVvOVladTdBMTFRQUxwRnpTUWtvOG5Qa01LZ1RnbGFwZjEwUHVkU3RvNGhxVWFYX0pCTGNhRjJHaGNkaVBOc1lmSkJscFlwTGI0VGIyNlFkdTBRU2YycUVzNTdwYk9oSndfZk1FV2Z3?oc=5",
-"summary": "Nguồn: Znews",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T14:03:03+07:00",
-"found": "2026-11-21T14:52:31+07:00"
-},
-{
-"id": "05ecc17596c6",
-"title": "Lên mạng rủ nhau \"cháy phố\", 4 thanh niên bị khởi tố",
-"link": "https://dantri.com.vn/phap-luat/len-mang-ru-nhau-chay-pho-4-thanh-nien-bi-khoi-to-20261121122520657.htm",
-"summary": "(Dân trí) - Từ lời rủ rê trên mạng xã hội, nhiều thanh, thiếu niên tụ tập chạy xe lạng lách, đánh võng trên đường phố ở Khánh Hòa. Công an tỉnh này đã khởi tố 4 người về tội Gây rối trật tự công cộng.",
-"image": "https://cdnphoto.dantri.com.vn/SDUtT4bPYWhqzf1AebcekPO-kMo=/2026/11/21/screenrecording20261121120808cc-cc11-1-1795238145263.gif",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-21T14:02:55+07:00",
-"found": "2026-11-21T14:37:15+07:00"
-},
-{
-"id": "d804b1932b82",
-"title": "Luật Nhà ở (sửa đổi) làm rõ ranh giới giữa tuổi thọ công trình và quyền sở hữu căn hộ",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQm5ZY1JNV2xiNUFuUHg2WTJZeDBVZWpnMUZVRnItQ3h3cUF5U0JNODZyMksxZmlLSllUQnhBcEdmbGJ6TjFRdGIxdTh2MXNmbmZhN0ZBV1gtazNTalg0MWgyN01nRUpOTlBHSTE3Mlc2SG1fTFdjcUhEVXVXOUlzWUV1ZzhZcERQbnhIdE1mc3dDdUpSX0hUcUY3eWVBdl9aNk1YZkYzUmtBYlZZZmE5VzBjS1Qyamc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T14:02:00+07:00",
-"found": "2026-11-21T14:06:53+07:00"
-},
-{
-"id": "815574a3410a",
-"title": "Vietcap: Hà Đô đã được phê duyệt dự án Minh Long và có thể khởi công vào quý I/2027",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVdnUFhNMF9FMm5VM3ExS3pQM3d1UDBPd1dNTzVzNnJ3Zk9FQkdSTVEtblVYaXhtMW45NEF3YmVFUE1UVGRCbm5fSFQ1VWxLd1BIT2NHVFotSFBTSHVOTUhzTlRkWUhYVDRXeFZkMXlSMXhGVUszWTFLWmNPRlZrWUFNTFVDYzJwMWxLVGQ1aXJIM1Y0aEhhLTJfN3laa0Rad3FycXEtMWFadzNQNkxYNjN6MkgyUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T14:00:00+07:00",
-"found": "2026-11-22T00:22:32+07:00"
-},
-{
-"id": "6a9e70b6adfb",
-"title": "gamba osaka đấu với okayama",
-"link": "https://trends.google.com/trending/rss?geo=VN",
-"summary": "",
-"image": "",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T14:00:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T14:22:05+07:00"
-},
-{
-"id": "684ca104ba79",
-"title": "luat hien tang",
-"link": "https://vnexpress.net/cam-lay-tang-nguoi-duoi-18-tuoi-de-ghep-cho-nguoi-khac-5147304.html",
-"summary": "Cấm lấy tạng người dưới 18 tuổi để ghép cho người khác (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xJSxuaP7jtuXvMV05mqJwdu93WwnuPi-EECNx4eP5t9v9gzHsnGrJ3spL9o",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T14:00:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-21T17:11:19+07:00"
-},
-{
-"id": "deb721733d4f",
-"title": "Cen Land tiếp tục thoái vốn tại công ty con Cen Academy",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUpYU2QxYVNxellGXzNGY0U2SC1laEpfVTgzOWdhU1VfZFZPSHJiQUlKY2N4MG11U1RNLU1ETHQxeVNHaU1CWDV0WU13ZjhpaXhYY1VVbkVDYzNSZEFjRHpqaEppbmxWdzlRc2pTbEZPWFJwNFlpRVFSYXRyVlRZTWNTXzVRcnBnMDNlVUN6YUFPZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T13:56:00+07:00",
-"found": "2026-11-22T10:04:32+07:00"
-},
-{
-"id": "173ef42c5a50",
-"title": "Không để lãng phí đất đai sau thu hồi dự án",
-"link": "https://cafef.vn/khong-de-lang-phi-dat-dai-sau-thu-hoi-du-an-188261121125639045.chn",
-"summary": "Thành phố Hà Nội đang tập trung xử lý các dự án đầu tư ngoài ngân sách chậm triển khai, từ đó khơi thông nguồn lực đất đai. Bên cạnh việc rà soát, tháo gỡ khó khăn, với những dự án không đủ điều kiện sẽ bị đề xuất chấm dứt triển khai, thu hồi đất theo quy định.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795240529089-17952405296792126751401.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T13:55:00+07:00",
-"found": "2026-11-21T14:06:13+07:00"
-},
-{
-"id": "0857a8ad4226",
-"title": "EVN đồng hành cùng chương trình phủ sóng di động vùng sâu, vùng xa, biên giới",
-"link": "https://dantri.com.vn/kinh-doanh/evn-dong-hanh-cung-chuong-trinh-phu-song-di-dong-vung-sau-vung-xa-bien-gioi-20261121134024139.htm",
-"summary": "(Dân trí) - Ngày 20/11, Bộ Quốc phòng tổ chức hội nghị tổng kết Chương trình phủ sóng di động tại các thôn, bản và cụm dân cư lõm sóng ở vùng sâu, vùng xa, biên giới năm 2026.",
-"image": "https://cdnphoto.dantri.com.vn/OsQh6iUOSGkIwpJQPo-ZxuETd9s=/2026/11/21/tcbc-evn-dong-hanh-cung-chuong-trinh-phu-song-di-dong-1-cropped-1795243116387.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T13:54:01+07:00",
-"found": "2026-11-21T14:22:05+07:00"
-},
-{
-"id": "b9ceea404d9c",
-"title": "Điểm sinh hoạt, chăm sóc người cao tuổi ban ngày phường Vũng Tàu ở đâu?",
-"link": "https://thanhnien.vn/diem-sinh-hoat-cham-soc-nguoi-cao-tuoi-ban-ngay-phuong-vung-tau-o-dau-185261121130753442.htm",
-"summary": "Ông Nguyễn Hồng Lĩnh, Ủy viên Trung ương Đảng, Phó chủ nhiệm Ủy ban Kiểm tra Trung ương dự lễ ra mắt điểm sinh hoạt, chăm sóc người cao tuổi ban ngày tại cộng đồng ở phường Vũng Tàu.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/edit-tnw-1795239689460821349631772387947282134963177238794726e486130a5a4208aa993dfa416d12afe-17952410911231371916310-54-0-1654-2560-crop-17952411203481441818870.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T13:52:00+07:00",
-"found": "2026-11-21T14:06:13+07:00"
-},
-{
-"id": "030c7936755a",
-"title": "Luật Đất đai (sửa đổi) được Quốc hội thông qua với loạt điểm mới về cấp sổ đỏ, bảng giá đất và công chứng",
-"link": "https://cafef.vn/luat-dat-dai-sua-doi-duoc-quoc-hoi-thong-qua-voi-loat-diem-moi-ve-cap-so-do-bang-gia-dat-va-cong-chung-188261121124905089.chn",
-"summary": "Sáng 21/11, với 466/479 đại biểu tham gia biểu quyết tán thành, Quốc hội chính thức thông qua Luật Đất đai (sửa đổi). Phó Chủ tịch Quốc hội Nguyễn Hồng Diên điều hành nội dung biểu quyết.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795240130946-17952401312551726609092.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T13:48:00+07:00",
-"found": "2026-11-21T14:06:13+07:00"
 }
 ]
 }
