@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T21:15:06+07:00",
+"updated": "2026-11-24T21:30:39+07:00",
 "new": 9,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 21
+"count": 47
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,94 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "667f7f73fdf9",
+"title": "CSGT rà soát camera, tìm tài xế ô tô đâm xe máy rồi bỏ chạy ở Hà Nội",
+"link": "https://vietnamnet.vn/canh-sat-ra-camera-de-truy-xet-o-to-dam-xe-may-roi-bo-chay-2578194.html",
+"summary": "Đâm từ phía sau khiến xe máy gặp nạn, tài xế ô tô không dừng lại mà điều khiển phương tiện bỏ chạy. Qua rà soát camera, CSGT Hà Nội đã xác định được người gây tai nạn.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/fsavecom-reels-cuc-canh-sat-giao-thong-on-reels-media-1644542559841527-001-702p-5807.gif?width=0&s=IZ3_Mlr5-aMcm1GS46QXbg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T21:22:37+07:00",
+"found": "2026-11-24T17:17:37+07:00"
+},
+{
+"id": "f399d3b873f4",
+"title": "Công an xác định nguồn phát nổ khí gas làm 7 người tử vong ở Hà Nội",
+"link": "https://vietnamnet.vn/cong-an-xac-dinh-nguon-no-khi-gas-lam-7-nguoi-tu-vong-o-ha-noi-2578245.html",
+"summary": "Công an Hà Nội xác định nguyên nhân ban đầu vụ nổ tại phố Nguyễn Văn Tuyết do rò rỉ khí gas, kết hợp với ôxy trong không khí gặp nguồn nhiệt thích hợp, gây cháy nổ hỗn hợp khí.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/1795489665438-4967493519346486797-4967493519346486797-0a895e889e0d26b884ba3b822905a644-6370.jpg?width=0&s=LSsUrvKmqM3pGfAFTkyBLA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T21:19:54+07:00",
+"found": "2026-11-24T20:44:00+07:00"
+},
+{
+"id": "714a039945ca",
+"title": "Hà Nội sắp bán nhà ở xã hội giá gần 15 triệu đồng/m²",
+"link": "https://cafef.vn/ha-noi-sap-ban-nha-o-xa-hoi-gia-gan-15-trieu-dong-m-188261124183305069.chn",
+"summary": "Sở Xây dựng Hà Nội công bố kế hoạch tiếp nhận hồ sơ đăng ký mua nhà ở xã hội tại tòa N04, N05 thuộc Dự án Khu nhà ở Ecohome 3 với giá gần 15 triệu đồng/m².",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795519682439-1795519683196852252643.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-24T21:19:00+07:00",
+"found": "2026-11-24T21:30:39+07:00"
+},
+{
+"id": "c98b63020aed",
+"title": "Ninh Bình bắt giam 6 người làm giả 28 bộ hồ sơ mua nhà xã hội",
+"link": "https://kenh14.vn/ninh-binh-bat-giam-6-nguoi-lam-gia-28-bo-ho-so-mua-nha-xa-hoi-21526112419382302.chn",
+"summary": "Lợi dụng chính sách phát triển nhà ở xã hội dành cho người thu nhập thấp, 6 đối tượng tại Ninh Bình đã làm giả 28 bộ hồ sơ với hơn 250 tài liệu, giấy tờ để đăng ký mua nhà. Một số đối tượng còn lập hợp đồng nhận đặt cọc mua nhà, chiếm đoạt 300 triệu đồng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795523842412-17955238433281404266659.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T21:19:00+07:00",
+"found": "2026-11-24T21:30:39+07:00"
+},
+{
+"id": "36a036261688",
+"title": "Sau vụ nổ 6 người tử vong, Công an Hà Nội giúp người dân di dời đến nơi an toàn",
+"link": "https://vietnamnet.vn/sau-vu-no-6-nguoi-tu-vong-cong-an-ha-noi-giup-nguoi-dan-di-doi-2578219.html",
+"summary": "Cán bộ, chiến sĩ Công an TP Hà Nội đã phối hợp với các đơn vị chức năng hỗ trợ người dân di dời khỏi khu vực bị ảnh hưởng sau vụ nổ tại số 168 phố Nguyễn Văn Tuyết (phường Đống Đa).",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/sau-vu-no-6-nguoi-tu-vong-cong-an-ha-noi-giup-nguoi-dan-di-doi-den-noi-an-toan-6073.jpg?width=0&s=W_QrITEzwCqHj387goJjyA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T21:18:29+07:00",
+"found": "2026-11-24T18:03:10+07:00"
+},
+{
+"id": "7ec32c315fe7",
+"title": "Cửa hàng đồ điện bốc cháy ngùn ngụt ở Bắc Ninh",
+"link": "https://vnexpress.net/cua-hang-do-dien-boc-chay-ngun-ngut-o-bac-ninh-5148479.html",
+"summary": "Cửa hàng kinh doanh đồ điện tử trên đường Hoàng Văn Thái, phường Hiệp Hòa, TP Bắc Ninh, bốc cháy ngùn ngụt chiều 24/11.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/112411-1795528948-7488-1795529094.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=XDDu8oIQ_0tmpbEWeiYYLw&t=image",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T21:16:56+07:00",
+"found": "2026-11-24T21:30:39+07:00"
+},
+{
+"id": "d4a7e5c649a8",
+"title": "Doanh nghiệp liên quan Tân Hoàng Minh mua 21,5 triệu cổ phiếu một công ty chứng khoán",
+"link": "https://cafef.vn/doanh-nghiep-lien-quan-tan-hoang-minh-mua-215-trieu-co-phieu-mot-cong-ty-chung-khoan-18826112421162593.chn",
+"summary": "CTCP Bolt Holdings – doanh nghiệp liên quan đến hệ sinh thái Tân Hoàng Minh vừa mua thành công 21,5 triệu cổ phiếu của chứng khoán UP.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795529755706-179552975651347210896.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-24T21:16:00+07:00",
+"found": "2026-11-24T21:30:39+07:00"
+},
+{
+"id": "1aff6b9fb377",
+"title": "Thông tin mới về nguyên nhân vụ nổ làm 6 người tử vong ở Hà Nội",
+"link": "https://kenh14.vn/thong-tin-moi-ve-nguyen-nhan-vu-no-lam-6-nguoi-tu-vong-o-ha-noi-21526112419355988.chn",
+"summary": "Bước đầu cơ quan điều tra xác định nguyên nhân vụ nổ tại khu tập thể E4 Nguyễn Văn Tuyết (Hà Nội) làm 6 người tử vong do rò rỉ khí gas kết hợp với Ôxi trong không khí gặp nguồn nhiệt thích hợp dẫn đến cháy, nổ hỗn hợp.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795523740352-17955237410991261478777.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T21:09:00+07:00",
+"found": "2026-11-24T21:30:39+07:00"
+},
+{
 "id": "97e53db8374f",
 "title": "Cấp mã định danh điện tử cho nhà ở từ 1/7/2027",
 "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJRWmktOFNOb3BMd2dUd2FEclVqdXl2U3RfX0tHdWo5SjZQSUlyS1hMcTM0ZE9VclZHLWhQdzhyS1M5bEVJQkZMTk5HUFJxT21sVVBVOWhKSmxocjZWWUtDUTlUMWxoaFFBSkZDa3RUbjRXaEQwWVRpQy1FYjdtdVpHNEh3QQ?oc=5",
@@ -224,6 +312,18 @@
 "found": "2026-11-24T21:15:06+07:00"
 },
 {
+"id": "fd58439c9717",
+"title": "c1",
+"link": "https://thethao247.vn/63-haaland-co-co-hoi-tien-sat-ky-luc-cua-ronaldo-ngay-trong-dem-nay-c2-d447044.html",
+"summary": "Haaland có cơ hội tiến sát kỷ lục của Ronaldo đêm nay (Thể Thao 247)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqCYhRWmjBKyhz71LrQq3pmHa_mecE0MqwfKX9Xh_2RXZtc1M48-U46fu1WV0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T21:00:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-24T21:30:39+07:00"
+},
+{
 "id": "76b164dbb376",
 "title": "Công an Hải Phòng thông tin vụ nghi bắt cóc trẻ em tại xã Vĩnh Thuận, gây xôn xao mạng xã hội",
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDZOZVNZT3RoMkZBdm5rb1ZkYW1rVndkU3J2WE9SMW5nWEVJZ0xjcGcwTEctLWI1bjNibXdXMVpGbFd0cC0walRORWlGcFNWWjZtVENOakFlUEw3R1UtUnZmdExIczFjQTZGMExScXRoVWVMS1IwMFMwYS03X01UeUJLaWZCMWU3eVJVN0sxQkxQeHJERy1SQm1Ic3R5Y051aVJiRWRtMGVKdnl1d05GQlZ3aHpGWGVrUHJuUXNNYjczanc?oc=5",
@@ -233,6 +333,17 @@
 "cat": "xh",
 "published": "2026-11-24T20:59:17+07:00",
 "found": "2026-11-24T21:15:06+07:00"
+},
+{
+"id": "4cdf396c9d72",
+"title": "Pháo hoa rực sáng trên sông Sài Gòn",
+"link": "https://vnexpress.net/phao-hoa-ruc-sang-tren-song-sai-gon-5148435.html",
+"summary": "Hàng nghìn người đổ về trung tâm TP HCM vui chơi, xem bắn pháo hoa ngày Văn hóa Việt Nam, kẹt xe xảy ra ở nhiều khu vực, tối 24/11.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/wm1-2aoboretn3eunepnp1p6lhq9viod3nvlzyzeau1a-1795529464.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vuwlMNrwMqo2AbpLu6Q_kA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T20:53:36+07:00",
+"found": "2026-11-24T21:30:39+07:00"
 },
 {
 "id": "38ee0e23cdd8",
@@ -268,6 +379,17 @@
 "found": "2026-11-24T20:44:00+07:00"
 },
 {
+"id": "ef319220ad6f",
+"title": "Vụ nổ gas ở Hà Nội: Ghi nhận nạn nhân thứ 7 tử vong",
+"link": "https://kenh14.vn/vu-no-gas-o-ha-noi-ghi-nhan-nan-nhan-thu-7-tu-vong-215261124205010077.chn",
+"summary": "Thông tin mới nhất, tính đến tối 24/11 đã có nạn nhân thứ 7 trong vụ nổ gas tại phố Nguyễn Văn Tuyết (Hà Nội) tử vong.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795528125419-179552812615167759043.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T20:42:00+07:00",
+"found": "2026-11-24T21:30:39+07:00"
+},
+{
 "id": "6f83f8b89826",
 "title": "ucl",
 "link": "https://www.uefa.com/uefachampionsleague/news/02ab-2223c67db015-c4f7874e074e-1000--champions-league-predicted-line-ups-matchday-5-team-news-/",
@@ -290,17 +412,6 @@
 "published": "2026-11-24T20:40:00+07:00",
 "traffic": "100+",
 "found": "2026-11-24T20:59:33+07:00"
-},
-{
-"id": "f399d3b873f4",
-"title": "Công an xác định nguồn phát nổ khí gas làm 7 người tử vong ở Hà Nội",
-"link": "https://vietnamnet.vn/cong-an-xac-dinh-nguon-no-khi-gas-lam-7-nguoi-tu-vong-o-ha-noi-2578245.html",
-"summary": "Công an Hà Nội xác định nguyên nhân ban đầu vụ nổ tại phố Nguyễn Văn Tuyết do rò rỉ khí gas, kết hợp với ôxy trong không khí gặp nguồn nhiệt thích hợp, gây cháy nổ hỗn hợp khí.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/1795489665438-4967493519346486797-4967493519346486797-0a895e889e0d26b884ba3b822905a644-6370.jpg?width=0&s=LSsUrvKmqM3pGfAFTkyBLA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T20:38:18+07:00",
-"found": "2026-11-24T20:44:00+07:00"
 },
 {
 "id": "7b122607a882",
@@ -1162,17 +1273,6 @@
 "found": "2026-11-24T19:53:50+07:00"
 },
 {
-"id": "667f7f73fdf9",
-"title": "CSGT rà soát camera, tìm tài xế ô tô đâm xe máy rồi bỏ chạy ở Hà Nội",
-"link": "https://vietnamnet.vn/canh-sat-ra-camera-de-truy-xet-o-to-dam-xe-may-roi-bo-chay-2578194.html",
-"summary": "Đâm từ phía sau khiến xe máy gặp nạn, tài xế ô tô không dừng lại mà điều khiển phương tiện bỏ chạy. Qua rà soát camera, CSGT Hà Nội đã xác định được người gây tai nạn.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/fsavecom-reels-cuc-canh-sat-giao-thong-on-reels-media-1644542559841527-001-702p-5807.gif?width=0&s=IZ3_Mlr5-aMcm1GS46QXbg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T18:16:25+07:00",
-"found": "2026-11-24T17:17:37+07:00"
-},
-{
 "id": "f68f6d852af7",
 "title": "Hôm qua 23/11, lần đầu tiên, sân bay Tân Sơn Nhất ghi nhận 1 máy bay đặc biệt của Vietnam Airlines cất cánh",
 "link": "https://kenh14.vn/hom-qua-23-11-lan-dau-tien-san-bay-tan-son-nhat-ghi-nhan-1-may-bay-dac-biet-cua-vietnam-airlines-cat-canh-21526112418175647.chn",
@@ -1239,17 +1339,6 @@
 "cat": "xh",
 "published": "2026-11-24T18:05:00+07:00",
 "found": "2026-11-24T18:33:10+07:00"
-},
-{
-"id": "36a036261688",
-"title": "Sau vụ nổ 6 người tử vong, Công an Hà Nội giúp người dân di dời đến nơi an toàn",
-"link": "https://vietnamnet.vn/sau-vu-no-6-nguoi-tu-vong-cong-an-ha-noi-giup-nguoi-dan-di-doi-2578219.html",
-"summary": "Cán bộ, chiến sĩ Công an TP Hà Nội đã phối hợp với các đơn vị chức năng hỗ trợ người dân di dời khỏi khu vực bị ảnh hưởng sau vụ nổ tại số 168 phố Nguyễn Văn Tuyết (phường Đống Đa).",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/sau-vu-no-6-nguoi-tu-vong-cong-an-ha-noi-giup-nguoi-dan-di-doi-den-noi-an-toan-6073.jpg?width=0&s=W_QrITEzwCqHj387goJjyA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T18:03:40+07:00",
-"found": "2026-11-24T18:03:10+07:00"
 },
 {
 "id": "d569c154863f",
@@ -2665,6 +2754,17 @@
 "cat": "xh",
 "published": "2026-11-24T14:43:00+07:00",
 "found": "2026-11-24T15:01:52+07:00"
+},
+{
+"id": "4709db88e015",
+"title": "Vụ nổ tại Hà Nội: 6 người tử vong, 10 nạn nhân đang được tích cực cứu chữa",
+"link": "https://kenh14.vn/6-nguoi-tu-vong-sau-vu-no-lam-sap-quan-an-o-ha-noi-215261124145027827.chn",
+"summary": "Đến 14h ngày 24/11, số nạn nhân tử vong vụ nổ bình gas xảy ra tại nhà dân trên phố Nguyễn Văn Tuyết, phường Đống Đa (Hà Nội) đã lên 6 người. 10 người bị thương đang được tích cực cứu chữa.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795506930360-179550693403986264785.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T14:43:00+07:00",
+"found": "2026-11-24T21:30:39+07:00"
 },
 {
 "id": "d8d0aedb9b32",
@@ -6860,6 +6960,17 @@
 "cat": "xh",
 "published": "2026-11-24T07:00:00+07:00",
 "found": "2026-11-24T18:03:10+07:00"
+},
+{
+"id": "80eafd9942db",
+"title": "Xem lại bộ phim \"Bí thư Tỉnh ủy\" trên VTV2 và VTVgo",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9iNkhiT0w1X3E0VjlWYkEzMHFvcjhHcGcxRHJ3b0lUSEtEaHhkZlphYU9la0g0NEJmbzVOTEdXOEQ?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T07:00:00+07:00",
+"found": "2026-11-20T03:47:43+07:00"
 },
 {
 "id": "eec940d77486",
@@ -18133,17 +18244,6 @@
 "found": "2026-11-24T09:40:07+07:00"
 },
 {
-"id": "80eafd9942db",
-"title": "Xem lại bộ phim \"Bí thư Tỉnh ủy\" trên VTV2 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9iNkhiT0w1X3E0VjlWYkEzMHFvcjhHcGcxRHJ3b0lUSEtEaHhkZlphYU9la0g0NEJmbzVOTEdXOEQ?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-20T03:47:43+07:00"
-},
-{
 "id": "e04bfb81a0f7",
 "title": "Preview phim Vui lên nào anh em ơi - Tập 8 | Quý nhân của Tiến - Hưng - Thắng xuất hiện",
 "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE05YWo0dVo2VEVIWlZHS2d3MzJZN0tWZU05WTNScHE5VElyR1pYNWhmT0JSQldoeXVLc0IzdG54T3o?oc=5",
@@ -28028,107 +28128,6 @@
 "cat": "tc",
 "published": "2026-11-21T20:02:00+07:00",
 "found": "2026-11-21T21:34:15+07:00"
-},
-{
-"id": "86f1dfecfde8",
-"title": "alex scott",
-"link": "https://bongdaplus.vn/tin-chuyen-nhuong-chelsea/chelsea-dat-thoa-thuan-ca-nhan-voi-muc-tieu-tri-gia-90-trieu-bang-5296772611.html",
-"summary": "Chelsea đạt thỏa thuận cá nhân với mục tiêu trị giá 90 triệu bảng (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQx5BmtiUY2RBB_HZUUrQi1TE6orl2-KBTJTChQgKrPrenalfxMQp3Czc7LXJs",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T20:00:00+07:00",
-"traffic": "100+",
-"found": "2026-11-21T20:16:06+07:00"
-},
-{
-"id": "4926c0778000",
-"title": "rodrigo muniz",
-"link": "https://www.thesun.co.uk/sport/41091229/rodrigo-muniz-baby-celebration-wife-miscarriage-fulham-man-city/",
-"summary": "Muniz does emotional baby celebration after wife's heartbreaking miscarriage (The Sun)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStqvZATIJKVd4Xivye8JLur6B9ve7dDi9OnHLZNx1weJ5YYO3LQVtkytzwbV8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T20:00:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T20:32:14+07:00"
-},
-{
-"id": "cdb9837655fc",
-"title": "Khánh Hòa có chỉ đạo mới về giá đất bồi thường tại loạt dự án trọng điểm",
-"link": "https://cafeland.vn/tin-tuc/khanh-hoa-co-chi-dao-moi-ve-gia-dat-boi-thuong-tai-loat-du-an-trong-diem-156997.html",
-"summary": "Nguồn: CafeLand",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T20:00:00+07:00",
-"found": "2026-11-22T19:33:13+07:00"
-},
-{
-"id": "3cf17f53c168",
-"title": "Doanh nghiệp thuộc TKV khai thác than khi chưa có phép, giải trình nếu dừng sẽ thiệt hại 653 tỉ",
-"link": "https://tuoitre.vn/doanh-nghiep-thuoc-tkv-khai-thac-than-khi-chua-co-phep-giai-trinh-neu-dung-se-thiet-hai-653-ti-100261121194406963.htm",
-"summary": "Thanh tra Chính phủ phát hiện một số doanh nghiệp thuộc Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV) khai thác than, xây dựng mỏ trước khi được cấp phép. Một doanh nghiệp giải trình nếu dừng khai thác sẽ gây thiệt hại hơn 653 tỉ đồng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/tkv-1795264522951812548075-17952662813051341046908-70-214-652-1145-crop-17952663245112139524560.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T19:59:00+07:00",
-"found": "2026-11-21T20:47:46+07:00"
-},
-{
-"id": "161e101caed6",
-"title": "Nữ cảnh vệ Trung Quốc tại APEC 'gây sốt' mạng xã hội",
-"link": "https://vnexpress.net/nu-canh-ve-trung-quoc-tai-apec-gay-sot-mang-xa-hoi-5147486.html",
-"summary": "Nữ cảnh vệ Trung Quốc Xu Jin gây chú ý trên mạng xã hội với phong thái chuyên nghiệp khi thực hiện nhiệm vụ tại APEC ở Thâm Quyến.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/21/1-1795263081-3165-1795263092.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ptWu8W4_2SV50ejG2ZVavA",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-21T19:58:09+07:00",
-"found": "2026-11-22T01:39:12+07:00"
-},
-{
-"id": "4146be2ce095",
-"title": "Trước giờ G của sự kiện được mong chờ cuối tuần này tại Hà Nội, hé lộ 5 trạm trải nghiệm kỹ năng cứu người",
-"link": "https://kenh14.vn/truoc-gio-g-cua-su-kien-duoc-mong-cho-cuoi-tuan-nay-tai-ha-noi-he-lo-5-tram-trai-nghiem-ky-nang-cuu-nguoi-215261121200607181.chn",
-"summary": "Một ngày trước lễ ra mắt Chương trình Người Gần Nhất, ê-kíp chạy thử nội dung trình chiếu trong hội trường Cung Thanh niên Hà Nội. Bên ngoài, các trạm thực hành sơ cấp cứu đang được lắp đặt, với mô hình ép tim và khu vực hướng dẫn xử trí vết thương, băng bó.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795265914905-17952659169021715237346.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T19:58:00+07:00",
-"found": "2026-11-21T20:16:06+07:00"
-},
-{
-"id": "9b6532a83476",
-"title": "Thủ tướng chỉ thị kích cầu tiêu dùng cuối năm",
-"link": "https://vnexpress.net/thu-tuong-chi-thi-kich-cau-tieu-dung-cuoi-nam-5147500.html",
-"summary": "Thủ tướng yêu cầu Bộ Tài chính điều hành chính sách thuế, phí hợp lý, nhằm giảm chi phí sinh hoạt và tăng khả năng chi tiêu của các hộ gia đình, kích cầu tiêu dùng cuối năm.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/img-1795264545-4321-1795264577.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yirqD19ta2l2YSM1MDF1FA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-21T19:51:24+07:00",
-"found": "2026-11-21T20:00:35+07:00"
-},
-{
-"id": "c0095f87b3b9",
-"title": "PNJ thay đổi chính sách thu đổi: Vàng nhận tiền sau 1 ngày, kim cương chờ 4 tháng",
-"link": "https://cafef.vn/pnj-thay-doi-chinh-sach-thu-doi-vang-nhan-tien-sau-1-ngay-kim-cuong-cho-4-thang-188261121182046949.chn",
-"summary": "PNJ rút ngắn thời gian thanh toán thu đổi đối với nhiều nhóm vàng và trang sức, mở rộng lên 141 điểm tiếp nhận trên toàn quốc, trong bối cảnh doanh nghiệp đối mặt áp lực dòng tiền, tồn kho lớn và thua lỗ hàng tháng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795260012333-1795260012765407069734.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-21T19:51:00+07:00",
-"found": "2026-11-21T20:00:35+07:00"
-},
-{
-"id": "3e8bfc6934f9",
-"title": "'Lớp học triệu view' trong gian bếp của cô giáo 74 tuổi",
-"link": "https://vnexpress.net/lop-hoc-trieu-view-trong-gian-bep-cua-co-giao-74-tuoi-5147198.html",
-"summary": "Gần 4 thập kỷ rời bục giảng để làm ruộng nuôi 5 con, cô Bùi Thị Mỹ, 74 tuổi, quay lại giảng Toán, Vật lý trong gian bếp nhỏ, thu hút hàng triệu lượt xem.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/20/co-my-1795170937-3067-1795170971.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7nL9uW1PV7Jq_EJaGb2Nmg",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-21T19:50:43+07:00",
-"found": "2026-11-22T01:39:12+07:00"
 }
 ]
 }
