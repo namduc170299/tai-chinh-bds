@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T13:50:01+07:00",
-"new": 4,
+"updated": "2026-11-24T14:05:11+07:00",
+"new": 11,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 42
+"count": 43
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "e60488cc8bd6",
+"title": "Bạn trẻ tiếc nuối vì phà Bình Quới dừng hoạt động từ 29.11",
+"link": "https://thanhnien.vn/ban-tre-tiec-nuoi-vi-pha-binh-quoi-dung-hoat-dong-tu-2911-18526112412012517.htm",
+"summary": "Sau gần 1 năm được hoạt động trở lại, phà Bình Quới qua sông Sài Gòn sẽ lại tạm ngưng từ 29.11. Nhiều bạn trẻ bày tỏ tiếc nuối và cho biết sẽ tính toán lại lộ trình khi hay thông tin.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-pha-7-1795495485512451277000-103-0-1703-2560-crop-17954961354001485187485.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-24T14:00:00+07:00",
+"found": "2026-11-24T14:05:11+07:00"
+},
+{
+"id": "ab6cf814d42b",
+"title": "Nghiên cứu xén vỉa hè, tháo dỡ dải phân cách để giảm ùn tắc khu vực Bảy Hiền",
+"link": "https://tuoitre.vn/nghien-cuu-xen-via-he-thao-do-dai-phan-cach-de-giam-un-tac-khu-vuc-bay-hien-100261124130107538.htm",
+"summary": "Để giảm ùn tắc giao thông tại khu vực Bảy Hiền (TP.HCM), đơn vị liên quan đang nghiên cứu xén một phần vỉa hè trước Bệnh viện Thống Nhất, đồng thời lên phương án tháo dỡ dải phân cách trên đường Hoàng Văn Thụ nhằm mở rộng mặt đường.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/179547864401134616369760686156403461636976068615640c2582d7770e4b88dd1d495b319b3d38d-17954994717891907590084-221-226-1658-2526-crop-17954998373801091105190.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T13:56:00+07:00",
+"found": "2026-11-24T14:05:11+07:00"
+},
+{
+"id": "f4c3c6ed74b8",
+"title": "Sun Group sẽ làm khu đô thị lấn biển 2,8 tỷ USD ở Phú Quốc",
+"link": "https://vnexpress.net/sun-group-se-lam-khu-do-thi-lan-bien-2-8-ty-usd-o-phu-quoc-5148364.html",
+"summary": "Khu đô thị hỗn hợp lấn biển Bãi Xếp có quy mô gần 84 ha, hiện trạng toàn bộ là mặt biển, do công ty thành viên Sun Group đầu tư.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/djijpg178611512574761786115163-2075-2687-1795501742.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=velxSojpS6IxaJJ_X9qrkw",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-24T13:51:14+07:00",
+"found": "2026-11-24T14:05:11+07:00"
+},
+{
+"id": "2e91ef166703",
+"title": "Quốc hội yêu cầu hạn chế xây trụ sở, dành 80.400 tỉ đồng cải cách tiền lương",
+"link": "https://tuoitre.vn/quoc-hoi-yeu-cau-han-che-xay-tru-so-danh-80400-ti-dong-cai-cach-tien-luong-100261124082542524.htm",
+"summary": "Quốc hội cho phép mở rộng phạm vi sử dụng nguồn tích lũy cải cách tiền lương của ngân sách Trung ương để điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/tien-luong-16877829876101387954767-0-1-562-900-crop-17954823304721551240692.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T13:47:00+07:00",
+"found": "2026-11-24T14:05:11+07:00"
+},
+{
 "id": "9c68e927702e",
 "title": "Cận cảnh hiện trường ngổn ngang sau vụ nổ khiến 2 người tử vong ở phố Nguyễn Văn Tuyết",
 "link": "https://vietnamnet.vn/hien-truong-vu-no-lon-tren-pho-nguyen-van-tuyet-2578077.html",
@@ -222,6 +266,28 @@
 "cat": "xh",
 "published": "2026-11-24T13:46:05+07:00",
 "found": "2026-11-24T10:49:14+07:00"
+},
+{
+"id": "74fca1632296",
+"title": "Công an Hà Nội thông tin nguyên nhân vụ nổ trên phố Nguyễn Văn Tuyết",
+"link": "https://kenh14.vn/cong-an-ha-noi-thong-tin-nguyen-nhan-vu-no-tren-pho-nguyen-van-tuyet-215261124135335569.chn",
+"summary": "Công an thành phố Hà Nội sơ bộ xác minh nguyên nhân ban đầu nghi do nổ khí gas gây sập đổ một phần nhà 1 tầng phía sau Nhà tập thể E4, phố Nguyễn Văn Tuyết, phường Đống Đa, Hà Nội.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795503169425-1795503170296901105968.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T13:46:00+07:00",
+"found": "2026-11-24T14:05:11+07:00"
+},
+{
+"id": "09232919e67e",
+"title": "Những việc tuyệt đối không làm khi ngửi thấy mùi gas",
+"link": "https://tuoitre.vn/nhung-viec-tuyet-doi-khong-lam-khi-ngui-thay-mui-gas-100261124124511915.htm",
+"summary": "Bật quạt để đẩy mùi gas ra ngoài, tắt đèn hay rút phích cắm đều có thể tạo tia lửa, châm cháy lượng khí đang rò rỉ.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/anh-man-hinh-2026-11-24-luc-084503-1795484745208965322305-17955010189891219535253-415-0-871-730-crop-17955010472691584872095.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T13:36:00+07:00",
+"found": "2026-11-24T14:05:11+07:00"
 },
 {
 "id": "b4545f196d93",
@@ -255,6 +321,28 @@
 "cat": "tc",
 "published": "2026-11-24T13:34:23+07:00",
 "found": "2026-11-24T13:50:01+07:00"
+},
+{
+"id": "a0ff51bd8d62",
+"title": "Tin mới nhất vụ nổ lớn ở Hà Nội: 5 người chết, 11 người bị thương",
+"link": "https://kenh14.vn/tin-moi-nhat-vu-no-lon-o-ha-noi-5-nguoi-chet-11-nguoi-bi-thuong-215261124134113735.chn",
+"summary": "Báo cáo từ Sở Y tế Hà Nội, vụ nổ bình gas, gây sập một phần nhà 1 tầng phía sau Nhà tập thể E4, phố Nguyễn Văn Tuyết sáng 24/11, khiến 16 người thương vong, trong đó 5 nạn nhân tử vong ngoại viện và 11 người bị thương đang được tập trung điều trị.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795502434841-1795502435034856245260.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T13:34:00+07:00",
+"found": "2026-11-24T14:05:11+07:00"
+},
+{
+"id": "d3ac1c049873",
+"title": "Quy hoạch đô thị Hàm Thuận Nam gắn với bảo tồn thiên nhiên",
+"link": "https://vnexpress.net/quy-hoach-do-thi-ham-thuan-nam-gan-voi-bao-ton-thien-nhien-5148309.html",
+"summary": "Hàm Thuận Nam được định hướng trở thành “phường” đạt tiêu chí đô thị loại III trước năm 2030, phát triển mô hình đô thị xanh, gắn với nông nghiệp công nghệ cao, du lịch sinh thái và bảo tồn thiên nhiên.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/ham-thuan-nam-1795487053-7581-1795491561.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sYjr8BquLo0inVFihIk7xQ",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-24T13:33:55+07:00",
+"found": "2026-11-24T14:05:11+07:00"
 },
 {
 "id": "b8f0e23fb1c6",
@@ -1443,6 +1531,17 @@
 "cat": "bds",
 "published": "2026-11-24T10:45:00+07:00",
 "found": "2026-11-24T11:42:33+07:00"
+},
+{
+"id": "3e8f2c402df1",
+"title": "Vụ nổ lớn ở Hà Nội: Đã có 3 người chết",
+"link": "https://kenh14.vn/vu-no-lon-o-ha-noi-da-co-3-nguoi-chet-215261124105050265.chn",
+"summary": "Tính đến 10h40 ngày 24/11, vụ nổ tại nhà dân trên phố Nguyễn Văn Tuyết (Hà Nội) sáng cùng ngày khiến ít nhất 3 người tử vong và nhiều người bị thương nặng. Các bệnh viện đã kích hoạt báo động đỏ, huy động nhân lực khẩn cấp để cấp cứu, điều trị các nạn nhân.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795492224271-17954922245841320079810.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T10:43:00+07:00",
+"found": "2026-11-24T14:05:11+07:00"
 },
 {
 "id": "c7fbf71808b5",
@@ -16666,6 +16765,17 @@
 "found": "2026-11-22T23:27:12+07:00"
 },
 {
+"id": "23d7a23100b1",
+"title": "Nga gây xôn xao vì cố giữ công nghệ cổ hủ mà thế giới \"bỏ thùng rác\" từ lâu: Rồi sau này tất cả sẽ phải khen họ đúng?",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaHptV3B6akt3Zk9VQXlvTkd1VUQ1U0diRkMtbDYzVTJNQW1zTms5VURHZXlSSmU4OFdScXZ1VlFXNFEtNmtlWUw3RURLdEtmUi15Rnd3RWF6ZndlYlFSalpZM1BYMXlUdlEwdU5qRE40SnBrUHZRNE1hU3dWR0EtM3Y3c2ZzMDFicG5INWJRREE0QmROOVNiV3FZbjBZUzN6SXJldTRXT0hUSWdwTmhHZTJXbzdJYTUzaXJkMlBjd1NMMGNaeUloaXBUREM4NWhtSlUteE1HQ0tIcVBEeUdYTnZVSFd4V3IxNDdF?oc=5",
+"summary": "Nguồn: CafeBiz",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T23:10:00+07:00",
+"found": "2026-11-24T14:05:11+07:00"
+},
+{
 "id": "393c19de1117",
 "title": "Đặc vụ ICE bắt người khi đang lên máy bay, Thống đốc Washington phẫn nộ",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcFhLalNSY0JDUDVEUGJQY080X0l2UTJOX3diT2hXOXNTNmRfUlZpUi16LWRXVHFKVWJranVuM1puUlEzczdzSmx0eDk4Rkh0Wkw4MFVNZUJhYl9TN1phMHByanFiOU5aY0ZiNC1rVjFoR203TnAxWGVSZFlSXzAwcXZidGFLMEoyLS1tcGRBeEg4Y3hNVVE?oc=5",
@@ -16800,17 +16910,6 @@
 "published": "2026-11-22T22:30:00+07:00",
 "traffic": "1000+",
 "found": "2026-11-22T22:56:14+07:00"
-},
-{
-"id": "a64df3315824",
-"title": "Nga gây xôn xao vì cố giữ công nghệ cổ hủ mà thế giới \"bỏ thùng rác\" từ lâu: Rồi sau này tất cả sẽ phải khen họ đúng?",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNW1qV19OR1lSZ0JBYWtCOXJJaXBCS0dtZERvQ05XekttR1d3c0JROW9uMjNHbTd4VlIxdXBsOGpYUWRDaWxucm5pMkhodXZjOGxyV0xWc0VYWlVHcTBfQmUyYWhleEQ5VVZ5andnbGVjd2JrMFZrbDlIMjRBUlZfSmtUU1hjRUpUQU5BQWw2VzJnMWNIQ1R5azRFYlVDUkVxNjZLMGt2S0VrWkVWckFuMExNQ1ZhS3ozM29Yb00wNEZUMXlDU0FGQ2hndVdxX1ZrdkR0eWt1c0tDM1JVSlVHeGFGcUlhcjg?oc=5",
-"summary": "Nguồn: CafeF",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-22T22:26:00+07:00",
-"found": "2026-11-22T22:40:47+07:00"
 },
 {
 "id": "c745b1c6b9e4",
@@ -17644,6 +17743,17 @@
 "published": "2026-11-22T18:40:00+07:00",
 "traffic": "2000+",
 "found": "2026-11-22T19:33:13+07:00"
+},
+{
+"id": "8b57d4d5b706",
+"title": "Thiều Bảo Trâm lại gây xôn xao vì cam thường",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmhVZzRpRXA4cC1ZVEtGUDM3cktZa21nSE5jUXFhelRpUzZZNzlacXF0WXFmY1FmZ3pwV1kxN2hPRFE0WXhQaFpWaEhfQXZQMXRYVFl1VnFTdEVDU1pBb2VwaGNxVWZnOFNxTWNmTTFaZnNLM2huclh2eHQ0Z0pyaGZkSXBQR0lUb0VTcg?oc=5",
+"summary": "Nguồn: CafeF",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T18:40:00+07:00",
+"found": "2026-11-24T14:05:11+07:00"
 },
 {
 "id": "08dcfead48ca",
@@ -19276,17 +19386,6 @@
 "cat": "bds",
 "published": "2026-11-22T13:58:26+07:00",
 "found": "2026-11-22T14:04:30+07:00"
-},
-{
-"id": "fe995ebaa4a5",
-"title": "Thiều Bảo Trâm lại gây xôn xao vì cam thường",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlA1aWNWR1c3N0NLSFRMVFVlNnA2MmEyX3RMcFFEV3l2Rk1nbFkzRG1SSXVjNW9PVnVfcDdVeXpmM25xbXNZQkxnMEJDb0x1VF9xX2MyQXFLc0M1NnVORHU0RGxoam05ZklvSlJMU2VXb3BVQWxPYzZhSTZxaUwzMGx3b0dZbElGZVNZSXJ3?oc=5",
-"summary": "Nguồn: Kenh14.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-22T13:57:00+07:00",
-"found": "2026-11-22T14:19:47+07:00"
 },
 {
 "id": "859bffb07ec3",
@@ -28029,105 +28128,6 @@
 "cat": "bds",
 "published": "2026-11-21T12:56:00+07:00",
 "found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "ad8f85e408be",
-"title": "Luật Kinh doanh bất động sản (sửa đổi): Công khai đầy đủ thông tin, bảo vệ quyền lợi người mua nhà",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaTduX096MHFRbXFzMlUyWFlJUXR0M3RSWVQ2OFZpTkhDOTVBcnFHVFNRQWJqY25rNmIyNWcyeVItNkVWTmFxaEs1LWFEMV94bE5Wdk1zOHhOaEhtbExhc1hKeTBuSXl0UHNzdm0tSmEzTHV6cE5LeVg0ODlPd1JQODZiU3cxNVFyX3VzOE9sN1djWERQNU1NeTlrT2RvYklaeFVJRWtvVGg1ZTNrSUVJVldweGY5cEp6eTNWbW8xY3JQZ3ZzS2c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T12:56:00+07:00",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "479c55cde8bf",
-"title": "Giải mã 'cú rơi' của giá vàng",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0ajVaRzEwUWJKTk13OUM4ZDZXMUJSdk9VZ0ZGTjdMYzF1TWJIc0xJN2xXcW00UU1ZUUU2Y2Y1Y19zMC1oWVkxMFBfMFNJUXVXYTE4aWlRYWlZQlVXcXMzRmw5ZGlJZ3Fld3dhaQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T12:56:00+07:00",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "40919c52a66b",
-"title": "Thêm hình thức bồi thường nào khi Nhà nước thu hồi đất?",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMDZrcFd6QkZ0LTZ1Wm1LWEpzMFdzMmNtOVEzQjg3SU9wVVJRQnlaSEthUmM2SndNeUdfQkZZWFVfQjNWaGlaTXJ0R2hNWDE0RG5OTEUwWkpDRllUWkQzeEVuNHRlREhTazhUTzRDcDZ0ZXhRM0dsMzRwR2NCc0U1ZU5jRW5YVjZ3T191Y1FNOTk?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T12:55:00+07:00",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "f0ccb64df23d",
-"title": "Sắp di dời 33 hộ dân khỏi vùng nguy cơ cao sạt lở tại Núi Một",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2pCMzZtbGtteE5yT1NOc3czTVgtamEzeERoWGFxME4wT3pnTG5QNkJVVDBDbHBvSlg0Q0hIM0o4eHZETlFxM3BCaHp3SGo5RDFOTXpqcG5sWXpSVDVPT252dzJUNXNHZ2hqeVZjYUUxbjVuSUVXNnBEOUtCbWtqZjRlemYyUGpYNjZ1dEpsTkpvNjd6TWY1bmhB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T12:55:00+07:00",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "c6a59dc86c15",
-"title": "Quốc hội thông qua 3 luật mới về nhà ở, bất động sản và trưng mua tài sản",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVBmbGhkc09wTWxDWlhPYzY3STNsR0k4NFh2dndMeGJEdVhlVFFBc0wwNEpMeGtZdU95eC1IWk02S21RSjRuWDBPeTlBbkZFU0VGRkVRcW1oSHJpWVY3aG8tRXU5bUxHOXBZMW9GVWk3MC1BV0Vub2lidzc5MXVsM2xjZDVjYlh1Z2pqUTVHaG1MMjQ3dlpuTHJIRU5pdWxjb3FvU2w2anE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T12:54:28+07:00",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "885d3fe5f05c",
-"title": "Thủ khoa khiến nhiều người bật khóc vì những 'màu áo' mưu sinh",
-"link": "https://thanhnien.vn/thu-khoa-khien-nhieu-nguoi-bat-khoc-vi-nhung-mau-ao-muu-sinh-185261121002925845.htm",
-"summary": "Tốt nghiệp sớm sau 3 năm học với danh hiệu xuất sắc, Thái An khiến nhiều người xúc động khi kể về những tháng ngày vừa học vừa làm. Phía sau tấm bằng thủ khoa là những nỗ lực, mất mát và mong muốn giản dị được nhìn thấy ba mẹ cùng hiện diện trong ngày con trưởng thành.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/2aobore0jf127xvkz8ox9lh0rhtpt3m9r8gdivg0-17951951766341354622594-3-0-1073-1712-crop-1795195568281412019504.jpg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-21T12:54:00+07:00",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "d56d6b64637f",
-"title": "Cần Thơ chấp thuận thêm 2 khu đất thí điểm nhà ở thương mại theo Nghị quyết số 171",
-"link": "https://cafef.vn/can-tho-chap-thuan-them-2-khu-dat-thi-diem-nha-o-thuong-mai-theo-nghi-quyet-so-171-188261121125348103.chn",
-"summary": "Hai lô đất có tổng diện tích 5.040m2 đều nằm ở vị trí Khu dân cư lô số 3A, Khu đô thị Nam Cần Thơ, phường Hưng Phú, được chấp thuận thí điểm nhà ở thương mại theo Nghị quyết số 171.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795240388199-1795240388678512521620.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T12:53:00+07:00",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "2f5e81c3d0cc",
-"title": "Được bổ nhiệm lúc thử việc, giám đốc sản xuất kiện đòi 740 triệu khi bị cho nghỉ",
-"link": "https://vietnamnet.vn/nghi-viec-doi-740-trieu-nguoi-lao-dong-nhan-100-trieu-dong-2577293.html",
-"summary": "Cho rằng bị đơn phương chấm dứt hợp đồng, người lao động kiện đòi 740 triệu đồng. Tòa sơ thẩm buộc doanh nghiệp trả 600 triệu, hai bên thỏa thuận mức hỗ trợ 100 triệu ở phiên phúc thẩm.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/21/duoc-bo-nhiem-luc-thu-viec-giam-doc-san-xuat-kien-doi-740-trieu-khi-bi-cho-nghi-1181.jpg?width=0&s=ByJgPfbllJ8dadSeMRNQLw",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-21T12:51:45+07:00",
-"found": "2026-11-21T12:51:57+07:00"
-},
-{
-"id": "2afb556bf5d4",
-"title": "Tuyên Quang giải ngân 2,8 tỷ đồng vốn vay cho 41 hộ nông dân",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDFObFhtVFBXOHpZUlhrVEJKRzU0Yy1OeUdScmNEbVNjSWpKVE1iZ3pPMFgweXZZdFF6azJQMzJiUTMzN0c0cjFSMnhiNWZ2SWROVlAtamdmRElqZFBDR0xPbmpNT21hYkVqTXRJRHlLZ0ZxX0Z3ZWJFQU5jLWoxNVdqUzU0M1Jyd3dyU2Z3bUktdGFFN25GdA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T12:51:00+07:00",
-"found": "2026-11-21T15:53:55+07:00"
 }
 ]
 }
