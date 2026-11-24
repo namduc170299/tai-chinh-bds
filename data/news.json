@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T20:59:33+07:00",
-"new": 10,
+"updated": "2026-11-24T21:15:06+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 49
+"count": 21
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,28 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "97e53db8374f",
+"title": "Cấp mã định danh điện tử cho nhà ở từ 1/7/2027",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJRWmktOFNOb3BMd2dUd2FEclVqdXl2U3RfX0tHdWo5SjZQSUlyS1hMcTM0ZE9VclZHLWhQdzhyS1M5bEVJQkZMTk5HUFJxT21sVVBVOWhKSmxocjZWWUtDUTlUMWxoaFFBSkZDa3RUbjRXaEQwWVRpQy1FYjdtdVpHNEh3QQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T21:00:03+07:00",
+"found": "2026-11-24T21:15:06+07:00"
+},
+{
+"id": "76b164dbb376",
+"title": "Công an Hải Phòng thông tin vụ nghi bắt cóc trẻ em tại xã Vĩnh Thuận, gây xôn xao mạng xã hội",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDZOZVNZT3RoMkZBdm5rb1ZkYW1rVndkU3J2WE9SMW5nWEVJZ0xjcGcwTEctLWI1bjNibXdXMVpGbFd0cC0walRORWlGcFNWWjZtVENOakFlUEw3R1UtUnZmdExIczFjQTZGMExScXRoVWVMS1IwMFMwYS03X01UeUJLaWZCMWU3eVJVN0sxQkxQeHJERy1SQm1Ic3R5Y051aVJiRWRtMGVKdnl1d05GQlZ3aHpGWGVrUHJuUXNNYjczanc?oc=5",
+"summary": "Nguồn: Báo Dân Việt",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T20:59:17+07:00",
+"found": "2026-11-24T21:15:06+07:00"
+},
 {
 "id": "38ee0e23cdd8",
 "title": "Fofana khiến CĐV Chelsea phẫn nộ vì cười đùa pha đá hỏng luân lưu",
@@ -281,6 +303,17 @@
 "found": "2026-11-24T20:44:00+07:00"
 },
 {
+"id": "7b122607a882",
+"title": "Năm 2027, thị trường tôm thế giới ra sao, tôm Việt Nam có cơ hội gì?",
+"link": "https://tuoitre.vn/nam-2027-thi-truong-tom-the-gioi-ra-sao-tom-viet-nam-co-co-hoi-gi-100261122003847767.htm",
+"summary": "Nguồn cung, nhu cầu tiêu thụ, chính sách thuế và xu hướng sản phẩm sẽ định hình thị trường tôm thế giới năm 2027, mở ra cả thách thức và cơ hội cho tôm Việt Nam.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/tempimage4belo8-1750741096221928935496-39-69-360-582-crop-17955279675131293687098.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T20:32:00+07:00",
+"found": "2026-11-24T21:15:06+07:00"
+},
+{
 "id": "631e37e77a21",
 "title": "Ngày Văn hóa Việt Nam: Đưa truyện tranh văn hóa Việt lên những chuyến bay",
 "link": "https://thanhnien.vn/ngay-van-hoa-viet-nam-dua-truyen-tranh-van-hoa-viet-len-nhung-chuyen-bay-185261124201816067.htm",
@@ -312,7 +345,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T20:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-24T20:59:33+07:00"
 },
 {
@@ -349,6 +382,17 @@
 "found": "2026-11-24T20:44:00+07:00"
 },
 {
+"id": "9f6463896a70",
+"title": "Giá vàng giằng co quanh ngưỡng 3.620 USD/ounce trước kỳ nghỉ lễ Tạ ơn",
+"link": "https://tuoitre.vn/gia-vang-giang-co-quanh-nguong-3620-usd-ounce-truoc-ky-nghi-le-ta-on-100261124192557587.htm",
+"summary": "Sau khi chinh phục bất thành ngưỡng 3.700 USD/ounce, giá vàng thế giới đã giảm trong suốt ngày hôm nay 24-11.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/np-vang-31-3-17955219299281673628142-0-281-1074-2000-crop-1795526640485551241434.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T20:18:00+07:00",
+"found": "2026-11-24T21:15:06+07:00"
+},
+{
 "id": "b0eea45323b9",
 "title": "Hà Nội sắp mở bán 8 căn nhà ở xã hội, có căn giá chưa đến 15 triệu đồng/m2",
 "link": "https://vietnamnet.vn/ha-noi-sap-mo-ban-8-can-nha-o-xa-hoi-co-can-gia-chua-den-15-trieu-dong-m2-2578268.html",
@@ -360,6 +404,17 @@
 "found": "2026-11-24T20:44:00+07:00"
 },
 {
+"id": "c7d843697070",
+"title": "Sân bay Gia Bình triển khai bay kiểm tra, hiệu chuẩn hệ thống dẫn đường hàng không",
+"link": "https://tuoitre.vn/san-bay-gia-binh-trien-khai-bay-kiem-tra-hieu-chuan-he-thong-dan-duong-hang-khong-100261124200217536.htm",
+"summary": "Trong hai ngày 24 và 25-11, Cảng hàng không quốc tế Gia Bình (GBIA) triển khai đợt bay kiểm tra, hiệu chuẩn đầu tiên đối với hệ thống dẫn đường DVOR/DME, do Công ty TNHH Kỹ thuật Quản lý bay (ATTECH) thực hiện.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/san-bay-17955268481451674695653-127-107-552-787-crop-17955268649952017919138.png",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T20:16:00+07:00",
+"found": "2026-11-24T21:15:06+07:00"
+},
+{
 "id": "4743e627a829",
 "title": "Thầy giáo ở TP.HCM nhận Huân chương Lao động hạng nhất, mong học trò giỏi hơn mình",
 "link": "https://tuoitre.vn/thay-giao-o-tphcm-nhan-huan-chuong-lao-dong-hang-nhat-mong-hoc-tro-gioi-hon-minh-100261124180721897.htm",
@@ -369,6 +424,17 @@
 "cat": "mxh",
 "published": "2026-11-24T20:13:00+07:00",
 "found": "2026-11-24T20:59:33+07:00"
+},
+{
+"id": "73f3366d8667",
+"title": "Quy chế hoạt động của Ban Chỉ đạo các công trình trọng điểm lĩnh vực Công Thương và Xây dựng",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV2ZrYzFlanFldmgta2VKRDhyc015R1RGTFhNSjQtcHNfd3A1c3JDZzQ3dWc1cGViWEdWdmpTdFB1TFJFRk1nelZ4bjRPbnpGaVhQX2tic2FzUmpxY3A2MlNMeXhTTzRMdVhyNHlxYWFma005NjVGeUFFaXNQOGxqd21oOVJsOWZXLVVkOENsTlZyNkRRcC1BckVQblRQMHlLYXo1blZyekZYLThnb0lEOWJrTnFRYnk0ajRDQkxheDc5clk?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T20:11:00+07:00",
+"found": "2026-11-24T21:15:06+07:00"
 },
 {
 "id": "5684ccb2b060",
@@ -4054,6 +4120,17 @@
 "found": "2026-11-24T19:53:50+07:00"
 },
 {
+"id": "a547c8ddf93d",
+"title": "Định vị Bình Thuận trong không gian phát triển đô thị Phan Thiết",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWZfTHNVb3lNQm5BLVZra2c0X2VtM2QtbDJYeng3Rk4zczhzTFBoLW1YX2ExekZFWEdYT0Q4ZlBzRGZ0UEs1MDkyOTFCZVhTUGFQUHhhbmFZb29NamgtZEl1cjlzQnUyRXp2aTZCNENHa0dONFIxbEctNGhla0p3dnVndFA0SUZOcjdrLWpCMmJoMlhRd0hITnFaSDdPdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T11:08:00+07:00",
+"found": "2026-11-24T21:15:06+07:00"
+},
+{
 "id": "1f359b4d5718",
 "title": "Đánh thức kinh tế tầm thấp Tây Nam Bộ - Kỳ 1: Đồng bằng vươn ra biển lớn dưới cánh bay",
 "link": "https://tuoitre.vn/danh-thuc-kinh-te-tam-thap-tay-nam-bo-ky-1-dong-bang-vuon-ra-bien-lon-duoi-canh-bay-100261124100759078.htm",
@@ -4339,6 +4416,17 @@
 "cat": "tc",
 "published": "2026-11-24T10:36:00+07:00",
 "found": "2026-11-24T10:49:14+07:00"
+},
+{
+"id": "c775228c6e8d",
+"title": "Động cơ của Nga chỉ bay được 40 chuyến rồi 'vứt bỏ'? Sự thật đằng sau con số gây xôn xao ngành hàng không",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSm42Uk12bHd4V2JoZmhyVEpDMm5kSm5pWkUzWWRnUGlNY0Y0MWJCb2tPNGpSYTYwSW5sWFRIV3NlOVNMMThyVEt4ZDVRNlJiV184UHc3alRlM3hrUkZqRUNJWkc3bFp1Ql83anlUa2VCeUFFZ2VBc3IzX0F4Wk1DSDIwVGRqQmVVNkJUSEo1ZHgtNlJHZHNBbXZLanB6Q1N6a3owa3hR?oc=5",
+"summary": "Nguồn: tin.skydoor.net",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T10:35:32+07:00",
+"found": "2026-11-24T21:15:06+07:00"
 },
 {
 "id": "ec0dac1c22be",
@@ -9715,6 +9803,17 @@
 "cat": "bds",
 "published": "2026-11-23T19:46:00+07:00",
 "found": "2026-11-24T04:42:56+07:00"
+},
+{
+"id": "216fb48262e6",
+"title": "Điều gì đang bào mòn sức chống chịu của các ngân hàng?",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVGl0cU5yekh3MjZ4V0NOTzFIUGoyNUE0a3N1a2JfRGFTdXZWaDlzOWdRVW5DaDVwLWNzQlpGRHNKYVB0NEVmdXZCVjRjdHMyUjZKRVVhSmxKaW8xaUVaRUlFUFdjeTFNY2pRZHdEX29tZzA4MXppdTFpMGVHSy1FQU9NYzgxOG9xenpqLTctcw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T19:46:00+07:00",
+"found": "2026-11-24T21:15:06+07:00"
 },
 {
 "id": "bd3418f9b823",
@@ -28030,106 +28129,6 @@
 "cat": "mxh",
 "published": "2026-11-21T19:50:43+07:00",
 "found": "2026-11-22T01:39:12+07:00"
-},
-{
-"id": "d4bfe7ba2ed4",
-"title": "hà nội fc",
-"link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-dong-nai-ha-noi-cho-cong-phuong-toa-sang-v-league-c48a1812820.html",
-"summary": "Trực tiếp bóng đá Đồng Nai - Hà Nội: Hai Long ghi siêu phẩm (V-League) (Tin tức 24h)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIUl-JJnb6sTa25UZEbGv-GxpLD7yw9lVaewD5woishornuYgEz3xPgvrCvp0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T19:50:00+07:00",
-"traffic": "100+",
-"found": "2026-11-21T20:16:06+07:00"
-},
-{
-"id": "b316186682db",
-"title": "Giá vàng giảm hơn 2.000 USD/ounce từ đỉnh và kỳ vọng đảo chiều",
-"link": "https://dantri.com.vn/kinh-doanh/gia-vang-giam-hon-2000-usdounce-tu-dinh-va-ky-vong-dao-chieu-20261121183337523.htm",
-"summary": "(Dân trí) - Dù kim loại quý vừa trải qua đợt sụt giảm hàng tuần mạnh nhất nhiều năm, các phân tích quốc tế cho thấy gánh nặng nợ công khổng lồ có thể sớm mở đường cho nhịp hồi phục mới.",
-"image": "https://cdnphoto.dantri.com.vn/GMuKg12Z3v48e24MQACF22v-FyQ=/2026/11/09/gold-cropped-1794234930387.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T19:45:00+07:00",
-"found": "2026-11-21T20:16:06+07:00"
-},
-{
-"id": "8af5a788d4ce",
-"title": "Bitcoin lao dốc, chạm mức thấp nhất trong hai năm",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlBNY1AtNkNBaFIzRjg2S2VSanZFUlhlOWdBUnlaUDhfS0dPbVJ4WDlhLXlvSjEwTExZdFhDbThJeUs1ekdTNkRRcno5NFpnalRQU2k1V0tNakdkRjZJVUNVODZ4ZGQtWFBSQ3pjVThnU1AyZmZyeVh5a0s2OGE4R3VjUGFQV0lI?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T19:42:00+07:00",
-"found": "2026-11-22T08:54:03+07:00"
-},
-{
-"id": "5d82caa82d58",
-"title": "Nghiêm cấm vận động, ép buộc người khác sử dụng thuốc lá",
-"link": "https://thanhnien.vn/nghiem-cam-van-dong-ep-buoc-nguoi-khac-su-dung-thuoc-la-185261121185732629.htm",
-"summary": "Một loạt các quy định mới như nghiêm cấm bán thuốc lá cho người chưa đủ 18 tuổi; cấm vận động, ép buộc người khác sử dụng thuốc lá; cấm bán thuốc lá qua nền tảng thương mại điện tử.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/edit-thuoc-la-17952615949861041118841-222-0-1472-2000-crop-17952616737391596579345.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T19:41:00+07:00",
-"found": "2026-11-21T19:45:05+07:00"
-},
-{
-"id": "1e5cd1e53260",
-"title": "Tìm thấy 99 liệt sĩ nằm chồng 4 lớp lên nhau ở mộ tập thể trong Công viên Lê Thị Riêng",
-"link": "https://kenh14.vn/tim-thay-99-liet-si-nam-chong-4-lop-len-nhau-o-mo-tap-the-trong-cong-vien-le-thi-rieng-215261121191309236.chn",
-"summary": "Quá trình thực hiện việc tìm kiếm quy tập hài cốt liệt sĩ, các cán bộ chiến sĩ Đội K74 - Bộ Tư lệnh TPHCM đã ghi lại chi tiết sơ đồ vị trí, tư thế của từng liệt sĩ khi tìm được.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795263142246-1795263143008882549678.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T19:40:00+07:00",
-"found": "2026-11-21T20:00:35+07:00"
-},
-{
-"id": "f536a9a2f77d",
-"title": "Đà Nẵng dự kiến sắp xếp, ổn định dân cư cho khoảng 8.895 hộ",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcG9GV0JvUm1yUEpUaVQxU2REUXdRUTM2NWExLXV6eWE5a2I2cmQ4bURmeVVMOXc0V3ZGcFZSUENtbGwwUHg4OWxYQTl3cHFFZXcyZ3lCdERjNk13VjVfQjlfUzhwb2FGZ1pXZTFyX2ZIR1VSWmNvc1JPN1ZFSXFjSTNYUlBBaHpHX2syVFlha2N4dHBxNUE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T19:34:00+07:00",
-"found": "2026-11-21T19:45:05+07:00"
-},
-{
-"id": "e7ce74829aac",
-"title": "Ai là người đưa hối lộ hai hiệu trưởng ở Huế liên quan thực phẩm bán trú?",
-"link": "https://kenh14.vn/ai-la-nguoi-dua-hoi-lo-hai-hieu-truong-o-hue-lien-quan-thuc-pham-ban-tru-215261121190149913.chn",
-"summary": "Công an TP Huế đã khởi tố hai nữ chủ cơ sở kinh doanh thực phẩm về hành vi đưa hối lộ cho hiệu trưởng hai trường tiểu học, trong quá trình rà soát hoạt động cung ứng thực phẩm cho các bếp ăn bán trú trên địa bàn thành phố.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795262446415-17952624467671065087977.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T19:33:00+07:00",
-"found": "2026-11-21T19:45:05+07:00"
-},
-{
-"id": "4fc2bee30efc",
-"title": "Nhìn từ trên cao 3 cây cầu nghìn tỷ bắc qua sông Hồng vượt tiến độ thi công",
-"link": "https://kenh14.vn/nhin-tu-tren-cao-3-cay-cau-nghin-ty-bac-qua-song-hong-vuot-tien-do-thi-cong-215261121180118907.chn",
-"summary": "Ba cây cầu Trần Hưng Đạo, Hồng Hà và Mễ Sở đang thi công vượt kế hoạch, nhiều hạng mục lớn dần thành hình trên công trường bắc qua sông Hồng ở Hà Nội.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795258800435-17952588010161391903091.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T19:28:00+07:00",
-"found": "2026-11-21T19:45:05+07:00"
-},
-{
-"id": "c291095f477f",
-"title": "Khu vực sắp có mưa to và dông, người dân đặc biệt lưu ý",
-"link": "https://kenh14.vn/khu-vuc-sap-co-mua-to-va-dong-nguoi-dan-dac-biet-luu-y-215261121181458212.chn",
-"summary": "Gió Đông Bắc mạnh tiếp tục hoạt động trên nhiều vùng biển, trong đó khu vực phía Đông Bắc Biển Đông có gió giật cấp 8-9, sóng cao 3-5m. Trên đất liền, Hà Nội và các tỉnh miền Bắc duy trì trạng thái rét về đêm và sáng sớm, nhiệt độ thấp nhất có nơi xuống dưới 11 độ C.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795259609086-1795259609375447262488.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T19:25:00+07:00",
-"found": "2026-11-21T19:45:05+07:00"
 }
 ]
 }
