@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T18:03:10+07:00",
-"new": 8,
+"updated": "2026-11-24T18:17:40+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 44
+"count": 21
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "667f7f73fdf9",
+"title": "CSGT rà soát camera, tìm tài xế ô tô đâm xe máy rồi bỏ chạy ở Hà Nội",
+"link": "https://vietnamnet.vn/canh-sat-ra-camera-de-truy-xet-o-to-dam-xe-may-roi-bo-chay-2578194.html",
+"summary": "Đâm từ phía sau khiến xe máy gặp nạn, tài xế ô tô không dừng lại mà điều khiển phương tiện bỏ chạy. Qua rà soát camera, CSGT Hà Nội đã xác định được người gây tai nạn.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/fsavecom-reels-cuc-canh-sat-giao-thong-on-reels-media-1644542559841527-001-702p-5807.gif?width=0&s=IZ3_Mlr5-aMcm1GS46QXbg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T18:16:25+07:00",
+"found": "2026-11-24T17:17:37+07:00"
+},
+{
+"id": "ebb16a1797b1",
+"title": "Đà Nẵng đề xuất trả lương CEO trung tâm tài chính 850 triệu/tháng",
+"link": "https://cafef.vn/da-nang-de-xuat-tra-luong-ceo-trung-tam-tai-chinh-850-trieu-thang-188261124181255573.chn",
+"summary": "Để thu hút chuyên gia có trình độ, kinh nghiệm quốc tế về làm việc tại Trung tâm Tài chính quốc tế, Đà Nẵng đề xuất cơ chế tiền lương theo thị trường, trong đó mức chi trả cho giám đốc điều hành (CEO) có thể lên đến 850 triệu đồng/tháng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795518441702-17955184420281110463944.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-24T18:07:00+07:00",
+"found": "2026-11-24T18:17:40+07:00"
+},
+{
 "id": "36a036261688",
 "title": "Sau vụ nổ 6 người tử vong, Công an Hà Nội giúp người dân di dời đến nơi an toàn",
 "link": "https://vietnamnet.vn/sau-vu-no-6-nguoi-tu-vong-cong-an-ha-noi-giup-nguoi-dan-di-doi-2578219.html",
@@ -220,8 +242,74 @@
 "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/sau-vu-no-6-nguoi-tu-vong-cong-an-ha-noi-giup-nguoi-dan-di-doi-den-noi-an-toan-6073.jpg?width=0&s=W_QrITEzwCqHj387goJjyA",
 "source": "VietnamNet",
 "cat": "xh",
-"published": "2026-11-24T18:01:59+07:00",
+"published": "2026-11-24T18:03:40+07:00",
 "found": "2026-11-24T18:03:10+07:00"
+},
+{
+"id": "d569c154863f",
+"title": "TP.HCM sàng lọc người tài, không đạt sẽ dừng đãi ngộ",
+"link": "https://thanhnien.vn/tphcm-sang-loc-nguoi-tai-khong-dat-se-dung-dai-ngo-18526112417554582.htm",
+"summary": "TP.HCM sẽ rà soát toàn bộ nhân sự đang hưởng chính sách thu hút người tài, phân thành 3 nhóm để đánh giá, đưa ra khỏi diện hưởng đãi ngộ nếu không đạt yêu cầu.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-trung-tam-phuc-vu-hanh-chinh-cong-tphcm-2025-ngoc-duong-17805631389971356328050-58-0-1658-2560-crop-1795517181024628498177-1795517207561560584253.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T18:03:00+07:00",
+"found": "2026-11-24T18:17:40+07:00"
+},
+{
+"id": "71f362305c6d",
+"title": "Ngày Văn hóa Việt Nam 24/11: Doanh nghiệp có bắt buộc thưởng tiền cho nhân viên?",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3NkLUNsc0VXTE5tUHdQUHJUYktyVXp4aUpCTlJGcXZibTJNSEY4M096dXBQVHhEM3ZwQ0VKNUZkM3hMTlJsV3dSdUZEeUFoaTdKaWlXbTZhLWU4eFhOUWtTdDRJRlBhVC04TFFSMklLaFhaeW1JRDl1ZjhTZUJUbm5wdkg5blRzUFVubk5iV3o0Z2wzZkhBUkRkbC1fMnU5elJCWF9XMlBTcXY2LTZrMQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T18:00:52+07:00",
+"found": "2026-11-24T18:17:40+07:00"
+},
+{
+"id": "47740e625dd9",
+"title": "Thái Nguyên đấu giá 137 ha đất làm khu đô thị, du lịch Hồ Núi Cốc",
+"link": "https://vnexpress.net/thai-nguyen-dau-gia-137-ha-dat-lam-khu-do-thi-du-lich-ho-nui-coc-5148421.html",
+"summary": "Tỉnh Thái Nguyên sẽ đấu giá để tìm nhà đầu tư thực hiện dự án khu đô thị, du lịch hơn 173 ha ở Hồ Núi Cốc.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/honuicoc-1795511391-8668-1795511419.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=llXhg7mwHKTu0vzeZIEXmg",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-24T18:00:50+07:00",
+"found": "2026-11-24T18:17:40+07:00"
+},
+{
+"id": "f1874d07cbac",
+"title": "Vietjet đưa đờn ca tài tử Nam bộ lên các chuyến bay",
+"link": "https://vnexpress.net/vietjet-dua-don-ca-tai-tu-nam-bo-len-cac-chuyen-bay-5148440.html",
+"summary": "Nhiều hành khách của Vietjet bất ngờ khi được thưởng thức đờn ca tài tử Nam bộ trên độ cao 10.000 mét, trong các chuyến bay ngày 24/11.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/24/a6-1795515693-4729-1795516395.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rW9oPn5Retes_JyM5rJ_JQ",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-24T18:00:00+07:00",
+"found": "2026-11-24T18:17:40+07:00"
+},
+{
+"id": "c60a4cf7ae14",
+"title": "BIDV: Nợ xấu vay mua nhà tăng khi lãi suất thả nổi",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSGJEb0JVb0lBck5zbk5WclM1bXVrQS1UZ2o0RDRzd0VzQ2JtTVcydDQ1UF9BQVdrVzRtNlhGeDQ1QlVacWo4amk2cGpsMVFkVi0yd2ZQN09JaGpTUDA0c1JRaDctZ0dxanVFY1Z1cDRMOFhfb2RaS0Q5NWFFNmhrZFprRVVPWlJiSWc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T18:00:00+07:00",
+"found": "2026-11-24T18:17:40+07:00"
+},
+{
+"id": "d5f33af02475",
+"title": "Quy hoạch không gian xanh: Xu hướng tất yếu của thị trường",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcFBQdVQ3RVpDSnBxamlBLTRYRkd2SEZDX2lfVnJmbmVwczNTRE50dkIyOWRBeEV5WVpWMFo1ZEVyZVp5WTZRQmlEMndiTkthZnpJQkg3UEFJbWRyeWhqcEJ0eUFRWTNaX2ZqMThacXBMbjRWRy1IMzNfbjcyNUxhbkdCdFNraDlUbDdXY19NVXFzdFAw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T17:57:00+07:00",
+"found": "2026-11-24T18:17:40+07:00"
 },
 {
 "id": "0569d87b9c22",
@@ -244,6 +332,17 @@
 "cat": "xh",
 "published": "2026-11-24T17:45:00+07:00",
 "found": "2026-11-24T17:47:56+07:00"
+},
+{
+"id": "f5aed19fadb0",
+"title": "300 người mang sắc cờ Tổ quốc chinh phục 2 cung đèo Nà Tềnh - Khau Cốc Chà ở Cao Bằng",
+"link": "https://tuoitre.vn/300-nguoi-mang-sac-co-to-quoc-chinh-phuc-2-cung-deo-na-tenh-khau-coc-cha-o-cao-bang-100261124162925221.htm",
+"summary": "Khoảng 300 người cùng 200 xe máy mang sắc đỏ cờ Tổ quốc đi gần 30km qua hai cung đèo Nà Tềnh - Khau Cốc Chà, quảng bá du lịch Cao Bằng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/anh-man-hinh-2026-11-24-luc-161348-1795511653309335600667-0-75-833-1408-crop-17955122374261165548065.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T17:44:00+07:00",
+"found": "2026-11-24T18:17:40+07:00"
 },
 {
 "id": "7ac5e0a48209",
@@ -334,6 +433,17 @@
 "cat": "xh",
 "published": "2026-11-24T17:35:59+07:00",
 "found": "2026-11-24T14:20:22+07:00"
+},
+{
+"id": "a9465f2ef6b2",
+"title": "Hà Nội sắp mở bán nhà ở xã hội giá từ 14,95 triệu đồng/m2",
+"link": "https://dantri.com.vn/bat-dong-san/ha-noi-sap-mo-ban-nha-o-xa-hoi-gia-tu-1495-trieu-dongm2-20261124170526991.htm",
+"summary": "(Dân trí) - Sở Xây dựng Hà Nội vừa công bố kế hoạch tiếp nhận hồ sơ đăng ký mua 8 căn nhà ở xã hội tại hai dự án Ecohome 3 và Khu nhà ở xã hội tại xã Đông Anh, với mức giá từ gần 15 triệu đồng/m2.",
+"image": "https://cdnphoto.dantri.com.vn/VyfBWCuXF3IZRfLk5RWmvQ9CNU0=/2026/11/24/anh-man-hinh-2026-11-24-luc-1703-1795514662170.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-24T17:34:32+07:00",
+"found": "2026-11-24T18:17:40+07:00"
 },
 {
 "id": "4f258f84e8ff",
@@ -524,17 +634,6 @@
 "found": "2026-11-24T17:47:56+07:00"
 },
 {
-"id": "667f7f73fdf9",
-"title": "CSGT rà soát camera, tìm tài xế ô tô đâm xe máy rồi bỏ chạy ở Hà Nội",
-"link": "https://vietnamnet.vn/canh-sat-ra-camera-de-truy-xet-o-to-dam-xe-may-roi-bo-chay-2578194.html",
-"summary": "Đâm từ phía sau khiến xe máy gặp nạn, tài xế ô tô không dừng lại mà điều khiển phương tiện bỏ chạy. Qua rà soát camera, CSGT Hà Nội đã xác định được người gây tai nạn.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/fsavecom-reels-cuc-canh-sat-giao-thong-on-reels-media-1644542559841527-001-702p-5807.gif?width=0&s=IZ3_Mlr5-aMcm1GS46QXbg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T17:10:38+07:00",
-"found": "2026-11-24T17:17:37+07:00"
-},
-{
 "id": "5b6ba52714df",
 "title": "lễ các thánh tử đạo việt nam 2026",
 "link": "https://www.tonggiaophanhanoi.org/dai-chung-vien-thanh-giu-se-ha-noi-mung-quan-thay-de-nhi-tai-tthh-toan-quoc-kinh-cac-thanh-tu-dao-viet-nam/",
@@ -690,7 +789,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T16:50:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T17:17:37+07:00"
 },
 {
@@ -28030,105 +28129,6 @@
 "cat": "tc",
 "published": "2026-11-21T17:09:00+07:00",
 "found": "2026-11-21T17:11:19+07:00"
-},
-{
-"id": "2a2d16faebe3",
-"title": "Tạm giữ nghi phạm đâm chết người trong quán ăn ở Đồng Tháp",
-"link": "https://tuoitre.vn/tam-giu-nghi-pham-dam-chet-nguoi-trong-quan-an-o-dong-thap-10026112116160061.htm",
-"summary": "Một người đàn ông bị đâm trọng thương khi đang ngồi tại quán ăn ở tỉnh Đồng Tháp. Nạn nhân tử vong tại bệnh viện.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/nghi-pham-17952568737811934233663-56-0-426-592-crop-17952568942601721729734.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T17:09:00+07:00",
-"found": "2026-11-21T17:57:25+07:00"
-},
-{
-"id": "881d15da9c23",
-"title": "Hà Nội nêu điều kiện giao chủ đầu tư dự án nhà ở cho thuê không qua đấu giá, đấu thầu",
-"link": "https://tuoitre.vn/ha-noi-neu-dieu-kien-giao-chu-dau-tu-du-an-nha-o-cho-thue-khong-qua-dau-gia-dau-thau-100261121163548783.htm",
-"summary": "Hà Nội ban hành quy định về điều kiện, trình tự, thủ tục giao chủ đầu tư dự án nhà ở cho thuê không sử dụng vốn đầu tư công. Ưu tiên nhà đầu tư có quyền sử dụng đất, năng lực tài chính và kinh nghiệm thực hiện dự án.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/90049272317932855752264208232419334438954416n-1795253642308455136554-0-0-934-1495-crop-17952557619141193693151.png",
-"source": "Tuổi Trẻ",
-"cat": "bds",
-"published": "2026-11-21T17:06:00+07:00",
-"found": "2026-11-21T17:42:16+07:00"
-},
-{
-"id": "7d0199ee1c39",
-"title": "Thái Nguyên đấu giá khu đất 137ha làm khu đô thị, du lịch Hồ Núi Cốc",
-"link": "https://cafef.vn/thai-nguyen-dau-gia-khu-dat-137ha-lam-khu-do-thi-du-lich-ho-nui-coc-188261121171024042.chn",
-"summary": "UBND tỉnh Thái Nguyên vừa phê duyệt phương án đấu giá quyền sử dụng khu đất rộng gần 137ha để lựa chọn nhà đầu tư thực hiện Dự án Khu đô thị hỗn hợp, dịch vụ du lịch Hồ Núi Cốc, với tổng chi phí đầu tư xây dựng sơ bộ khoảng 4.481 tỷ đồng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795255478091-17952554786891265479706.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T17:05:00+07:00",
-"found": "2026-11-21T17:27:08+07:00"
-},
-{
-"id": "327aa445fc24",
-"title": "Xuất khẩu tôm đạt 4,22 tỷ USD, cần động lực cạnh tranh mới ngoài giá bán",
-"link": "https://dantri.com.vn/kinh-doanh/xuat-khau-tom-dat-422-ty-usd-can-dong-luc-canh-tranh-moi-ngoai-gia-ban-20261121150747966.htm",
-"summary": "(Dân trí) - Dù xuất khẩu 10 tháng đạt 4,22 tỷ USD, ngành tôm Việt Nam vẫn phải giải bài toán giá thành cao, sản xuất nhỏ lẻ để nâng cao vị thế cạnh tranh trong năm 2027.",
-"image": "https://cdnphoto.dantri.com.vn/ew8DypLmd6iylfEwmx7-G1UU4Ec=/2026/11/21/cong-nhan-thuy-sanhuynh-hai-1795247391367.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T17:04:50+07:00",
-"found": "2026-11-21T17:42:16+07:00"
-},
-{
-"id": "b511d452b178",
-"title": "Người 70 tuổi được hưởng trợ cấp hưu trí xã hội khi nào?",
-"link": "https://thanhnien.vn/nguoi-70-tuoi-duoc-huong-tro-cap-huu-tri-xa-hoi-khi-nao-185261121165308982.htm",
-"summary": "Khi điều kiện cho phép, Chính phủ sẽ trình Ủy ban Thường vụ Quốc hội xem xét, quyết định giảm độ tuổi hưởng trợ cấp hưu trí xã hội.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/edit-kham-17952546248651934719006-0-0-1115-1784-crop-17952546848541731291762.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T17:02:00+07:00",
-"found": "2026-11-21T17:11:19+07:00"
-},
-{
-"id": "68376260d012",
-"title": "Nhà đầu tư ngoại rút gần 5 tỷ USD khỏi HOSE sau hơn 11 tháng",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWh5U0FvbHZndGhMQWZUTUgwZXZrS2ljQm42ZElHU0JTQVZ2cGNhYnUtV2d2N3Zkd2hWMkNqZEVzSkdYd2xpTDExdC0ybExiMDBnM2lGMEI0RUZNYWkwMnNLN3N5bG9CZWVvSGRfUnRacTdtdTFOSmViZG1LZDF3UUZISGFJNWM4bTd0OWQ1TmlXdmI4d3E0eA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T17:00:00+07:00",
-"found": "2026-11-22T08:38:53+07:00"
-},
-{
-"id": "f614d93cc985",
-"title": "Đồng bào dân tộc ít người nhất Việt Nam diễu hành trên phố",
-"link": "https://vnexpress.net/dong-bao-dan-toc-it-nguoi-nhat-viet-nam-dieu-hanh-tren-pho-5147415.html",
-"summary": "Người Mảng, La Hủ, Si La... những dân tộc có dân số ít nhất Việt Nam, cùng xuống đường nhảy múa trong ngày hội văn hóa tại xã Bum Tở.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/wm1-c91r8166-jpg-1795243469-1795243625.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=edpLqBcbZZ8IbqtYTFFTog",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-21T16:53:22+07:00",
-"found": "2026-11-21T17:57:25+07:00"
-},
-{
-"id": "24424cef0811",
-"title": "60 thanh thiếu niên tụ tập đua xe, quay video đăng TikTok: Khởi tố 4 quái xế",
-"link": "https://kenh14.vn/60-thanh-thieu-nien-tu-tap-dua-xe-quay-video-dang-tiktok-khoi-to-4-quai-xe-215261121153313968.chn",
-"summary": "Phòng Cảnh sát hình sự Công an tỉnh Khánh Hoà vừa khởi tố 4 người trong nhóm thanh thiếu niên tụ tập đua xe, cổ vũ đua xe ở khu vực Quảng trường 16/4.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795249859423-17952498599381509386827.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T16:52:00+07:00",
-"found": "2026-11-21T17:11:19+07:00"
-},
-{
-"id": "bc2b74c22b6b",
-"title": "Quốc hội thông qua 38 luật, đặt mục tiêu tăng trưởng GDP năm 2027 đạt từ 10% trở lên",
-"link": "https://tuoitre.vn/quoc-hoi-thong-qua-38-luat-dat-muc-tieu-tang-truong-gdp-nam-2027-dat-tu-10-tro-len-100261121161036949.htm",
-"summary": "Kỳ họp thứ 2, Quốc hội khóa XVI đã thông qua 38 luật, 5 nghị quyết quy phạm pháp luật và quyết định nhiều vấn đề quan trọng của đất nước; đồng thời đặt mục tiêu triển khai đồng bộ các quyết sách, phấn đấu tăng trưởng GDP năm 2027 đạt từ 10% trở lên...",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/17952507561071113794694636773611111379469463677361107b4be06d1c37a746d2a2c2c83e14d2e-17952519715581405394768-0-0-1279-2047-crop-17952520742631381962959.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T16:51:00+07:00",
-"found": "2026-11-21T17:42:16+07:00"
 }
 ]
 }
