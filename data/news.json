@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T01:45:44+07:00",
-"new": 2,
+"updated": "2026-11-25T02:00:54+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 21
+"count": 48
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,29 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "107cfb5e91bd",
+"title": "bodø/glimt đấu với lask",
+"link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-bodo-glimt-vs-lask-linz-00h45-ngay-25-11-niem-tin-vao-linz-5297602611.html",
+"summary": "Nhận định bóng đá Bodo Glimt vs LASK Linz, 00h45 ngày 25/11: Niềm tin vào Linz (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWygTB-SIEbVCqCPcT4e_fQ9L7KeGeiH7hTfBva8SgKpnVtWnYgjUqg0c4Bw0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T01:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T02:00:54+07:00"
+},
+{
+"id": "d51d39185a3c",
+"title": "Nhà gỗ 335 m2 có phòng khách nằm trên mặt biển",
+"link": "https://vnexpress.net/nha-go-335-m2-co-phong-khach-nam-tren-mat-bien-5148326.html",
+"summary": "Công trình ứng dụng kỹ thuật mộc đóng thuyền truyền thống, với hệ kết cấu thích nghi sự thay đổi của mực nước theo thủy triều.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/3-1795490532.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7wRO9cTDefwu-F1CAzU_FQ",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-25T01:10:29+07:00",
+"found": "2026-11-25T02:00:54+07:00"
+},
 {
 "id": "c0adca71b27f",
 "title": "Ngắm pháo hoa rực sáng trên bầu trời TPHCM trong Ngày Văn hóa Việt Nam",
@@ -311,7 +334,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T00:20:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-25T00:46:38+07:00"
 },
 {
@@ -21860,6 +21883,17 @@
 "found": "2026-11-22T18:30:15+07:00"
 },
 {
+"id": "131911c0a121",
+"title": "Đoàn ĐBQH tỉnh Quảng Trị: Trách nhiệm tại nghị trường, đồng hành cùng cử tri",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSGhkdkVHejh6VWdMS2tzOXNZTmQ4NHdDcUJZcUFoc084aTJNUHZsWklreFlRN09OSkMyTmVRQUZVdzV3Y1E5T09rMzhjaXliY2lzWThWaVBPN1JqSGhLTXlnR3N2ZDdlVUFWNi1BTjlFd3FHakVhalNzbldrbW5iWlBrOHFST2V1NlFBV0xjWTI0bnVxaUxyWVNhVFNZVERRbE9xYUlUY2JKaDA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-22T18:22:00+07:00",
+"found": "2026-11-25T02:00:54+07:00"
+},
+{
 "id": "f85514f9d695",
 "title": "HLV đối thủ bức xúc khi Messi thoát thẻ đỏ ở trận thua 0-3",
 "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbXV1cXFmNXlIb2otR2NfVjRaOFdMNG5QWXUybEx4WEZla2oySy1TYTRETFV2VXNUOFlybk4zVVlmSnZReEVIVFlDTzRNNFUtMGRiMThERy13MXN4TDZZVU5SOHo4R3FVdThCRVlIaW5Ga0hMdnVaSlNiM2F1MUY1VzAzWUNieUU1amtKWkNNYWJhV2FDWm5hYWtISWN6Zw?oc=5",
@@ -28080,39 +28114,6 @@
 "image": "",
 "source": "Báo Mới",
 "cat": "bds",
-"published": "2026-11-21T22:59:00+07:00",
-"found": "2026-11-22T19:33:13+07:00"
-},
-{
-"id": "ee58f2f59d9d",
-"title": "Nvidia đối mặt cuộc điều tra mới từ Ủy ban Chứng khoán Mỹ",
-"link": "https://baomoi.com/nvidia-doi-mat-cuoc-dieu-tra-moi-tu-uy-ban-chung-khoan-my-c56575121.epi",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T22:59:00+07:00",
-"found": "2026-11-22T19:33:13+07:00"
-},
-{
-"id": "570a123b4712",
-"title": "Xe đầu kéo bị tước phù hiệu vẫn hoạt động, tài xế và chủ xe bị phạt 17 triệu",
-"link": "https://baomoi.com/xe-dau-keo-bi-tuoc-phu-hieu-van-hoat-dong-tai-xe-va-chu-xe-bi-phat-17-trieu-c56574331.epi",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T22:59:00+07:00",
-"found": "2026-11-22T19:33:13+07:00"
-},
-{
-"id": "c06465fd50c0",
-"title": "Thị trường chứng khoán sau khi được nâng hạng: Tìm cách hiện thực hóa kỳ vọng",
-"link": "https://baomoi.com/thi-truong-chung-khoan-sau-khi-duoc-nang-hang-tim-cach-hien-thuc-hoa-ky-vong-c56572549.epi",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
 "published": "2026-11-21T22:59:00+07:00",
 "found": "2026-11-22T19:33:13+07:00"
 }
