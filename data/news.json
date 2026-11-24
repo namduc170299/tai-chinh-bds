@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T19:38:36+07:00",
+"updated": "2026-11-24T19:53:50+07:00",
 "new": 12,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 47
+"count": 20
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "805307a6778d",
+"title": "Cửa hàng đồ điện ở Bắc Ninh bốc cháy dữ dội, liên tiếp phát ra tiếng nổ",
+"link": "https://vietnamnet.vn/chay-lon-cua-hang-do-dien-o-bac-ninh-nhieu-tieng-no-2578254.html",
+"summary": "Đám cháy tại cửa hàng kinh doanh đồ điện trên quốc lộ 37 (Bắc Ninh) kèm nhiều tiếng nổ lớn, sau đó lan sang hai ngôi nhà liền kề, khiến công tác chữa cháy gặp nhiều khó khăn.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/cua-hang-do-dien-o-bac-ninh-boc-chay-du-doi-lien-tiep-phat-ra-tieng-no-6439.jpeg?width=0&s=jTC4DwjRlkTrkNL-2Ry2Cg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T19:52:41+07:00",
+"found": "2026-11-24T19:53:50+07:00"
+},
+{
+"id": "6e4d084380fc",
+"title": "Thủ tướng Lê Minh Hưng thăm các nạn nhân vụ nổ khí ga ở Hà Nội",
+"link": "https://thanhnien.vn/thu-tuong-le-minh-hung-tham-cac-nan-nhan-vu-no-khi-ga-o-ha-noi-185261124191416982.htm",
+"summary": "Chiều tối 24.11, Thủ tướng Lê Minh Hưng đã đến Bệnh viện đa khoa Xanh Pôn và Bệnh viện Đại học Y Hà Nội thăm hỏi, động viên các nạn nhân trong vụ nổ khí ga tại một cửa hàng ăn uống trên phố Nguyễn Văn Tuyết, P.Đống Đa (Hà Nội).",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/thu-tuong-tham-nan-nhan-17955222933051841040778-106-0-1706-2560-crop-17955224063271419490002.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T19:41:00+07:00",
+"found": "2026-11-24T19:53:50+07:00"
+},
+{
+"id": "ea47cc9ffdf6",
+"title": "Vì sao Tập đoàn PC1 bị xử phạt?",
+"link": "https://cafef.vn/vi-sao-tap-doan-pc1-bi-xu-phat-188261124182834683.chn",
+"summary": "Tập đoàn PC1 bị xử phạt do hành vi vi phạm quy định về thời hạn công bố thông tin một số Biên bản, Nghị quyết ĐHĐCĐ,...",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795519416740-1795519417432557372114.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-24T19:40:00+07:00",
+"found": "2026-11-24T19:53:50+07:00"
+},
+{
+"id": "f61a81b88af6",
+"title": "Chủ tịch Tập đoàn Đầu tư Thăng Long (TIG) bị bán giải chấp 6,2 triệu cổ phiếu",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHF2YlRPRWpkU0ozUHRsc3VLTzJudUJMdXRCM0tvTXVWWWhBcjA5dGtpMkgwdC1ybDF0NS1RdUl0dlBZdTZNZHFNbk5zYXJTazhVUnplMWJnYktiTEw1bHd5R1BtMGFQZC1NREFrRHFZOHJqazJxOHBGWmY5QlMydFhIakE0WTl4ZlludXBMYVpnLUZDUjB5WGFlOVlJclJvTzJ4QVE1WXBPY2JI?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T19:40:00+07:00",
+"found": "2026-11-24T19:53:50+07:00"
+},
+{
 "id": "bbff037ecb21",
 "title": "Thanh Hóa rà soát biển cấm đỗ xe theo giờ sau kiến nghị của người dân",
 "link": "https://thanhnien.vn/thanh-hoa-ra-soat-bien-cam-do-xe-theo-gio-sau-kien-nghi-cua-nguoi-dan-185261120111251988.htm",
@@ -222,6 +266,40 @@
 "cat": "xh",
 "published": "2026-11-24T19:36:00+07:00",
 "found": "2026-11-24T19:38:36+07:00"
+},
+{
+"id": "94c3cea1d5c3",
+"title": "Đưa bản sắc vào sản phẩm, tạo lợi thế cạnh tranh",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0dxbGdObEdTZVFoU2JSTnI3ZjdFWDVQU1NodFc5UW5IVDNhWUptY25RSko2Z3Q5RzBkcklZdHVhYjNScngwMEJJa0F4c1pvd2lJakRwUWhBUEl6VjZTVmJGbjFoNWlZcVRLQmk0c3FmZHVXd3BxYVBZYkplYkh6Zl9NRERodzg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T19:36:00+07:00",
+"found": "2026-11-24T19:53:50+07:00"
+},
+{
+"id": "f260baa423d2",
+"title": "Chứng khoán Nhất Việt (VFS) chốt quyền chào bán 139,9 triệu cổ phiếu tăng vốn vượt 2.938 tỷ đồng, lãi quý III giảm hơn 37%",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR2xadHNrTXhydWFPSmM4ZThLSHp5RkdDWE5HeUpNdm82aDFnNV9pblN5Q3YtMi1JQlA1YzJnNkd0am1CaXpfQVdtdG9LZ1BIMVI3Y1J3NllJdWVlQkE4MDhWbzI3bEFRUTNQSU0zRnktemdYcERHLWNqUUY2QTUxcllXZnJBMHBrT2Y0SXhubEpQU1RNWmI5Yks3am5iN0pqWXJwUVJlc1JRa0VtallCOHNROXhHVnI4czVpMW5sTEYxTkVTMjVfRlJWZVRzQ2xoTUdDaEFsWXRkaFl0VmgwTzAwallBUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T19:35:00+07:00",
+"found": "2026-11-24T19:53:50+07:00"
+},
+{
+"id": "0ad13d593965",
+"title": "u-17 nhật đấu với đội tuyển bóng đá u-17 quốc gia serbia",
+"link": "https://laodong.vn/ldt/an-choi/lich-thi-dau-u17-world-cup-2026-hom-nay-2411-1805556.ldo",
+"summary": "Lịch thi đấu U17 World Cup 2026 hôm nay 24.11 (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4IC13zpmdXInoSQTbGPbUjJ1ENNtk8dpYm9jvZd5F2-Ack1MIakLMntRo7wY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T19:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T19:53:50+07:00"
 },
 {
 "id": "81364392038f",
@@ -301,6 +379,17 @@
 "published": "2026-11-24T19:20:00+07:00",
 "traffic": "200+",
 "found": "2026-11-24T19:38:36+07:00"
+},
+{
+"id": "829654e85387",
+"title": "\"Đại gia\" chăn nuôi mở rộng chuỗi giá trị để giảm phụ thuộc vào giá heo hơi",
+"link": "https://dantri.com.vn/kinh-doanh/dai-gia-chan-nuoi-mo-rong-chuoi-gia-tri-de-giam-phu-thuoc-vao-gia-heo-hoi-20261124173924406.htm",
+"summary": "(Dân trí) - Giá heo hơi quý III giảm 11,2% so với quý trước, lợi nhuận các doanh nghiệp chăn nuôi phân hóa. Chế biến và phân phối thịt là một hướng để doanh nghiệp mở rộng nguồn thu.",
+"image": "https://cdnphoto.dantri.com.vn/HRGu82vJktRe4XXVLMV49JsSOMk=/2026/08/13/trang-trai-chan-nuoi-heo-cropped-1786607461736.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-24T19:20:00+07:00",
+"found": "2026-11-24T19:53:50+07:00"
 },
 {
 "id": "e9f84569e937",
@@ -412,6 +501,17 @@
 "cat": "bds",
 "published": "2026-11-24T18:57:00+07:00",
 "found": "2026-11-24T19:04:10+07:00"
+},
+{
+"id": "8d1db08af3c2",
+"title": "Sao 'Reply 1988' trình diện cảnh sát sau khi say rượu gây tai nạn",
+"link": "https://vnexpress.net/sao-reply-1988-trinh-dien-canh-sat-sau-khi-say-ruou-gay-tai-nan-5148452.html",
+"summary": "Go Kyung-pyo cúi rạp xin lỗi khi trình diện cảnh sát với cáo buộc lái ôtô khi say rượu, tông vào xe thu gom rác khiến một công nhân vệ sinh bị thương.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/mmztazlfgvstambvmqywczjzge-179-7162-3209-1795520476.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Da1KYTt6PTGkbx-h3tZV2A",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T18:56:20+07:00",
+"found": "2026-11-24T19:53:50+07:00"
 },
 {
 "id": "830cfdedd668",
@@ -634,6 +734,18 @@
 "published": "2026-11-24T18:20:00+07:00",
 "traffic": "1000+",
 "found": "2026-11-24T18:48:40+07:00"
+},
+{
+"id": "d25ba46e088f",
+"title": "mai phương thúy",
+"link": "https://cafef.vn/mai-phuong-thuy-khac-la-sau-khi-cat-toc-thu-nhan-mot-noi-kho-ve-ngoai-hinh-tu-be-den-lon-188261124135904396.chn",
+"summary": "Mai Phương Thúy khác lạ sau khi cắt tóc, thú nhận một \"nỗi khổ\" về ngoại hình từ bé đến lớn (CafeF)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRocuaO8Nga8sRdvVez3RJvgKUYCULHAlN_l522vsJeHAP_04ZhVNwGW1_ax8s",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T18:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T19:53:50+07:00"
 },
 {
 "id": "667f7f73fdf9",
@@ -3547,6 +3659,17 @@
 "published": "2026-11-24T11:10:00+07:00",
 "traffic": "500+",
 "found": "2026-11-24T11:42:33+07:00"
+},
+{
+"id": "2ae6b642ff0f",
+"title": "Thông xe kỹ thuật cầu Nhật Lệ 3 tại tỉnh Quảng Trị",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdWJtVUludGlVWDl5MVlIeGRhM0xkbGZQbERBRnQ2LTNBZ19rRl9sYndLNWVYWGdmUUdhSTFOM1lCT29UYno2dHlzOWpZemJoVDJ0NlJ1c3pxTWpGYmJlVUdBakEzS1RjTF9YYUxQSHdvempYVzJYR2xkemNnbWFHV2dEYUJNLUFMYkZV?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T11:08:00+07:00",
+"found": "2026-11-24T19:53:50+07:00"
 },
 {
 "id": "1f359b4d5718",
@@ -22288,6 +22411,17 @@
 "found": "2026-11-22T13:05:58+07:00"
 },
 {
+"id": "480ebd45e464",
+"title": "Cận cảnh khai thác rừng phục vụ cao tốc nghìn tỷ kết nối với Lào",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONldhQWIwYzFUbGFVM1VjMDluLTVFdkNNbXZGZlRZUjgtMFF3QzlpWjBGN3ZSR0laWVVodkd4aXE1UlBiZWZYb1gxLWJfdDhBTUp4VFkydzdsUTRLY3N1WkowYzZCZnhxRTB1amc1UThsaE9CdklZQmo2Vk1mU3N2bDhmRml3ZG4wcmx1VzYwQlpKc0QycGR2dFVMT1BqUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-22T12:29:00+07:00",
+"found": "2026-11-24T19:53:50+07:00"
+},
+{
 "id": "b75bc8df1fcb",
 "title": "Cứu 6 người khỏi căn nhà cháy",
 "link": "https://vnexpress.net/cuu-6-nguoi-khoi-can-nha-chay-5147645.html",
@@ -27994,141 +28128,6 @@
 "cat": "xh",
 "published": "2026-11-21T18:36:00+07:00",
 "found": "2026-11-21T18:58:54+07:00"
-},
-{
-"id": "ad5bbd73ab83",
-"title": "Bắt chủ hụi online ở An Giang trong vụ lừa đảo chiếm đoạt tiền tỉ",
-"link": "https://thanhnien.vn/bat-chu-hui-online-o-an-giang-trong-vu-lua-dao-chiem-doat-tien-ti-185261121175534591.htm",
-"summary": "Trong quá trình làm chủ hụi, Lư Ngọc Thùy (32 tuổi) đã lấy tên hụi viên khống để hốt và mua bán hụi nhằm lừa đảo chiếm đoạt của các hụi viên số tiền hơn 4,5 tỉ đồng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/edit-thuy-1-17952584784342067683025-68-0-457-622-crop-1795258494175601881576.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T18:35:00+07:00",
-"found": "2026-11-21T18:43:21+07:00"
-},
-{
-"id": "190be47c9fdb",
-"title": "Đen Vâu cùng thanh niên công an lan tỏa văn hóa Việt trên không gian số",
-"link": "https://thanhnien.vn/den-vau-cung-thanh-nien-cong-an-lan-toa-van-hoa-viet-tren-khong-gian-so-185261121181608109.htm",
-"summary": "Hưởng ứng Ngày Văn hóa Việt Nam, tuổi trẻ Công an nhân dân đã cùng các nghệ sĩ nổi tiếng lan tỏa giá trị văn hóa dân tộc, xây dựng hình ảnh người chiến sĩ công an chuẩn mực trên không gian số.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/anh7-1795259470559730666515-84-0-1334-2000-crop-1795259476898567282118.jpg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-21T18:34:00+07:00",
-"found": "2026-11-21T18:43:21+07:00"
-},
-{
-"id": "4e616d8d6ed9",
-"title": "Bị tuyên tù chung thân, cựu Tổng giám đốc GFDI xin giảm án",
-"link": "https://dantri.com.vn/phap-luat/bi-tuyen-tu-chung-than-cuu-tong-giam-doc-gfdi-xin-giam-an-20261121151549375.htm",
-"summary": "(Dân trí) - Cựu Tổng giám đốc Công ty GFDI Nguyễn Quang Hoàng cùng 4 đồng phạm làm đơn kháng cáo, xin giảm nhẹ hình phạt sau khi bị tuyên án tù chung thân trong vụ lừa đảo chiếm đoạt hơn 2.400 tỷ đồng.",
-"image": "https://cdnphoto.dantri.com.vn/TPtcODhDDwmI2UP2Rq1Epk43_Ms=/2026/09/24/xet-xu-vu-ahoai-son2-edited-1790229125680.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-21T18:32:40+07:00",
-"found": "2026-11-21T19:14:07+07:00"
-},
-{
-"id": "71fc9a2e5473",
-"title": "Chánh án TAND tỉnh Lào Cai bàn giao nhà, trao Huy hiệu Đảng cho 3 đảng viên",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTTg2QUtzOTJUd2twVDA5Vld6YzJzOW1yQjRsemlYZzZoVXQ0eVA2UXlrRGhRRW1uY1J6NWhFRl9YQTJNVlZBTlEwZXpOVGY1SEREY3JGUzVRWkJGT0NsX3JGQ3hRYWUtMnlMYnlQeHM4SXl6RjNfM25xOTNPc3I0V3RJdXNnS21zQzhCeGlYSHAtMno1ZlJCY0RncXFPVjhGWlFWZENWZWdGT2M?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T18:32:00+07:00",
-"found": "2026-11-24T06:30:01+07:00"
-},
-{
-"id": "833ad75c8611",
-"title": "man city đấu với fulham",
-"link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-man-city-fulham-khong-duoc-phep-say-chan-ngoai-hang-anh-c48a1812819.html",
-"summary": "Trực tiếp bóng đá Man City - Fulham: Không được phép sảy chân (Ngoại hạng Anh) (Tin tức 24h)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCO1SJDUscGFv_j2E2RRDTWRFYhn-i6WvmZ1IOA020IC_ef8TbvhBQQD4gTMY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T18:30:00+07:00",
-"traffic": "20000+",
-"found": "2026-11-21T18:58:54+07:00"
-},
-{
-"id": "d50bc98f876c",
-"title": "xsmb",
-"link": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-hau-giang-ngay-2111-1804294.ldo",
-"summary": "Kết quả xổ số Hậu Giang ngày 21.11 (Laodong.vn)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDQOcvdVYK5TNoJ2pxR6GCmw9WIFsXSWOZVc8-a9ADMczPiTvt4f74J4b5hI",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T18:30:00+07:00",
-"traffic": "200000+",
-"found": "2026-11-21T19:29:18+07:00"
-},
-{
-"id": "bd46fe7a1d49",
-"title": "Khai mạc 'Ngày hội kết nối và tiêu thụ sản phẩm Hà Tĩnh'",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZG9qYy01Q1d2LUFfRXpNV25UOWNJZThCbTZpeU1oZlpqMjZHUE5LOGk0TDVhXzBGZm9HWVFFSVpTY0Z5VG9wU0xaYjk1NXhuNlNKMUxEWUthdEx4NU5LWFdsRmF0NVRiMHJBWmxnTVBzelU0X2Y3aFhTVURBT1VuWDJlcHVwaVQxeUtXZXIzV0w?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T18:29:00+07:00",
-"found": "2026-11-23T10:58:21+07:00"
-},
-{
-"id": "c178237dd39e",
-"title": "Ra lệnh bắt tạm giam Thái Văn Nam SN 1989 liên quan đến số tiền 25.000.000 đồng",
-"link": "https://kenh14.vn/ra-lenh-bat-tam-giam-thai-van-nam-sn-1989-lien-quan-den-so-tien-25000000-dong-215261121181257667.chn",
-"summary": "Đối tượng bị khởi tố về tội lừa đảo chiếm đoạt tài sản và Sử dụng con dấu, tàu liệu giả của cơ quan, tổ chức.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795259486622-1795259487256857991517.jpeg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T18:28:00+07:00",
-"found": "2026-11-21T18:43:21+07:00"
-},
-{
-"id": "f29fbf452b28",
-"title": "Án mạng bất ngờ trong quán ăn",
-"link": "https://dantri.com.vn/phap-luat/an-mang-bat-ngo-trong-quan-an-20261121180308666.htm",
-"summary": "(Dân trí) - Lê Ngọc Thành bước vào quán bò, bất ngờ cầm dao đâm vào bụng người đàn ông 41 tuổi. Nạn nhân được đưa đi cấp cứu nhưng đã tử vong sau đó.",
-"image": "https://cdnphoto.dantri.com.vn/BJFmzmS-Zl3d26fuzPc7jhgdfAA=/2026/11/21/khoi-to-edited-1795258588802.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-21T18:23:42+07:00",
-"found": "2026-11-21T18:43:21+07:00"
-},
-{
-"id": "47318e1cbdae",
-"title": "Triển khai chủ trương thu hồi đất dự án Khu đô thị hỗn hợp phía Nam trục Nguyễn Tất Thành",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOek9ZN2JyQW9jeGFnV1V6VGhTMzJiTXIwTk5jT083cjBMS3FOQkk4b3RKRjctX0hKVkgyak5HaTdhc3EtZzlYWVU3ZjlKTWVvV3MxY1ZHOFNOeU1CVG1tZWdhTlhxN3UxY21VSjdmV1o2Q1hHMS1YMERRQ3JxVnJGNVRWUFEtSi14TWFRb0RNRnpDV1dFLW4wVlJYZjBZV1RJYXdHOWdPMVFKM29jVHlnS1NGR2tDaG9KaFdGWThpWQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T18:21:00+07:00",
-"found": "2026-11-21T18:28:02+07:00"
-},
-{
-"id": "9986d87c365a",
-"title": "Người dân vùng biên Đắk Lắk xúc động vì được cấp đất ở và đất sản xuất",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnB3N2NMVHNJSXdjZzBXaW8tM0xNYU95aTItVWJIY1hXT2FpNzQzYW0zMFUxVUdWMjlXRk9IRnZhb3NrRHgtWVdZNHYwOTQxVEdTbDU1UHE0a2hGMDBVam5RUEJUNlhMRjllRVhyWFZUX2I0TVNRdHl4VlNTNHhaNVZNdmhROGtHeHVTS3lDRlNRbnhNN3AxRzZLM1FNWVV0NHdMeDJB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T18:21:00+07:00",
-"found": "2026-11-21T18:28:02+07:00"
-},
-{
-"id": "132b48a125ca",
-"title": "đại hội thể thao toàn quốc 2026",
-"link": "https://thanhnien.vn/toi-nay-vi-tri-nao-xem-mo-to-nuoc-du-luon-tren-song-sai-gon-dep-nhat-185261121140034841.htm",
-"summary": "Tối nay, vị trí nào xem mô tô nước, dù lượn trên sông Sài Gòn đẹp nhất? (Báo Thanh Niên)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWKBXlh1pSbc9ToFq938_KRb0rPZGE-had2oZ_zJ3V25u6kpfZotnMKifMxEA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T18:20:00+07:00",
-"traffic": "500+",
-"found": "2026-11-21T18:43:21+07:00"
 }
 ]
 }
