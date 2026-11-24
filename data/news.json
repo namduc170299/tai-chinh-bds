@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T02:56:17+07:00",
-"new": 3,
+"updated": "2026-11-25T03:11:27+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 48
+"count": 21
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,30 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "8586a7ae0e0a",
+"title": "calcio como đấu với aek",
+"link": "https://www.bbc.com/sport/football/live/cm36gwx7w44pt",
+"summary": "Como vs AEK Athens: UEFA Champions League stats & head-to-head (BBC)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T02:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-25T03:11:27+07:00"
+},
+{
+"id": "e02d417f7e33",
+"title": "slovan bratislava đấu với betis",
+"link": "https://baonghean.vn/truc-tiep-slovan-bratislava-vs-real-betis-doi-hinh-xuat-phat-10356543.html",
+"summary": "Trực tiếp Slovan Bratislava vs Real Betis: Đội hình xuất phát (Báo Nghệ An)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSn-5d4cNeSRnJZHhiGbb0487E8OkUP_ncHIEqmP8vk4Sl6udhFEEw6DGzQ2cA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T02:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-25T03:11:27+07:00"
+},
+{
 "id": "4231f248fa3a",
 "title": "arsenal vs dortmund",
 "link": "https://news.laodong.vn/bong-da-quoc-te/du-doan-ti-so-arsenal-vs-dortmund-tai-champions-league-1805466.ldo",
@@ -221,7 +245,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T02:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-25T02:56:17+07:00"
 },
 {
@@ -28095,30 +28119,6 @@
 "cat": "mxh",
 "published": "2026-11-21T23:50:00+07:00",
 "traffic": "1000+",
-"found": "2026-11-22T00:06:57+07:00"
-},
-{
-"id": "abeedfaa0edd",
-"title": "bournemouth",
-"link": "https://www.skysports.com/football/live-blog/13610877/bournemouth-vs-nottingham-forest-live-premier-league-match-updates-news-and-score",
-"summary": "Bournemouth vs Nottingham Forest LIVE! Premier League match updates, news and score (Sky Sports)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiVKsnn_AtoOPFbwhyJes_felM9-82ZGlPNWOHmczBW-e_m6tAo3p-Jiaf2Eg",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T23:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-22T00:06:57+07:00"
-},
-{
-"id": "2545cb8efda0",
-"title": "psg",
-"link": "https://fr.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-nice-vs-psg-tai-ligue-1-1803959.ldo",
-"summary": "Prédiction du match Nice vs PSG en Ligue 1 (Laodong.vn)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5OU7NL5lxwyTNuluYt8BoAmsSMjNBM772nscO6KB1BfBhtnB6-1W2586JfAM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T23:40:00+07:00",
-"traffic": "2000+",
 "found": "2026-11-22T00:06:57+07:00"
 }
 ]
