@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T21:40:30+07:00",
-"new": 5,
+"updated": "2026-11-24T21:55:47+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 47
+"count": 21
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "e1eea91bbf56",
+"title": "Rác tràn ngập sau đêm khai mạc Festival 'Dòng xanh An Giang', lãnh đạo tỉnh lên tiếng",
+"link": "https://thanhnien.vn/rac-tran-ngap-sau-dem-khai-mac-festival-dong-xanh-an-giang-lanh-dao-tinh-len-tieng-185261124200740887.htm",
+"summary": "Mạng xã hội xuất hiện nhiều đoạn clip quay cảnh rác thải tràn ngập sau lễ khai mạc Festival 'Dòng xanh An Giang'. Lãnh đạo tỉnh An Giang cho biết sẽ yêu cầu các đơn vị rút kinh nghiệm, nâng cao ý thức người dân.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-4-1795525068717515670048-154-0-794-1024-crop-1795525592340930373071.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T21:41:00+07:00",
+"found": "2026-11-24T21:55:47+07:00"
+},
+{
+"id": "bb471ce9e22b",
+"title": "Lập biên bản cửa hàng bán bình gas mini không rõ nguồn gốc tại TP.HCM",
+"link": "https://thanhnien.vn/lap-bien-ban-cua-hang-ban-binh-gas-mini-khong-ro-nguon-goc-tai-tphcm-18526112421035077.htm",
+"summary": "Kiểm tra đột xuất tại TP.HCM, cảnh sát phòng cháy chữa cháy phát hiện một cửa hàng tạp hóa bán bình gas mini không rõ nguồn gốc, vỏ bình đã qua sử dụng nhiều lần, gỉ sét.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/base64-17955318001601784421632-245-0-1495-2000-crop-179553182257360330692.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T21:40:00+07:00",
+"found": "2026-11-24T21:55:47+07:00"
+},
+{
+"id": "8359f6d58f4c",
+"title": "Quốc lộ 4A qua đèo Khau Múc liên tục bị sạt lở",
+"link": "https://kenh14.vn/quoc-lo-4a-qua-deo-khau-muc-lien-tuc-bi-sat-lo-2152611242058382.chn",
+"summary": "Thời gian qua, Quốc lộ 4A đoạn qua đèo Khau Múc có nhiều đèo dốc, với những khúc cua tay áo hiểm trở liên tục bị sạt lở gây nguy hiểm cho người và phương tiện di chuyển.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795528314907-17955283154752102428331.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T21:40:00+07:00",
+"found": "2026-11-24T21:55:47+07:00"
+},
+{
+"id": "43d8fdf03771",
+"title": "Quỹ của tỷ phú Bill Gates bất ngờ bán mạnh một cổ phiếu Việt Nam",
+"link": "https://cafef.vn/quy-cua-ty-phu-bill-gates-bat-ngo-ban-manh-mot-co-phieu-viet-nam-188261124213533942.chn",
+"summary": "Tỷ lệ sở hữu của cả nhóm theo đó giảm từ 5,0469% xuống 4,9346%, không còn đáp ứng ngưỡng sở hữu của cổ đông lớn.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1794242108197-1794242108474224452076-17955309126681977896267.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-24T21:38:00+07:00",
+"found": "2026-11-24T21:55:47+07:00"
+},
+{
 "id": "5495d58b4e80",
 "title": "Nghi nhóm người lạ bắt cóc trẻ em, người dân bao vây, đưa đến trụ sở xã",
 "link": "https://thanhnien.vn/nghi-nhom-nguoi-la-bat-coc-tre-em-nguoi-dan-bao-vay-dua-den-tru-so-xa-185261124210327365.htm",
@@ -222,6 +266,63 @@
 "cat": "xh",
 "published": "2026-11-24T21:35:00+07:00",
 "found": "2026-11-24T21:40:30+07:00"
+},
+{
+"id": "970b77de079d",
+"title": "CSGT Hà Nội truy vết, tìm tài xế ô tô tông xe chở hàng của shipper rồi bỏ chạy",
+"link": "https://kenh14.vn/csgt-ha-noi-truy-vet-tim-tai-xe-o-to-tong-xe-cho-hang-cua-shipper-roi-bo-chay-215261124200204839.chn",
+"summary": "CSGT Hà Nội trích xuất camera nhà dân, hệ thống dữ liệu phương tiện nhanh chóng tìm được danh tính người lái ô tô tông vào xe máy của shipper rồi bỏ chạy.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795525122078-17955251226461720577057.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T21:35:00+07:00",
+"found": "2026-11-24T21:55:47+07:00"
+},
+{
+"id": "bd38fccdd58e",
+"title": "Tài sản của nhà sáng lập DeepSeek tăng vọt lên 55 tỷ USD sau đợt gọi vốn",
+"link": "https://dantri.com.vn/kinh-doanh/tai-san-cua-nha-sang-lap-deepseek-tang-vot-len-55-ty-usd-sau-dot-goi-von-20261124211722291.htm",
+"summary": "(Dân trí) - Tài sản của nhà sáng lập DeepSeek, ông Lương Văn Phong (Liang Wenfeng), đã tăng 45%, lên 55 tỷ USD sau khi công ty khởi nghiệp trí tuệ nhân tạo (AI) của Trung Quốc này hoàn tất đợt gọi vốn mới nhất.",
+"image": "https://cdnphoto.dantri.com.vn/6hWklkDT-qKqXDeLwvpyMDPGVPg=/2026/11/24/tai-san-cua-nha-sang-lap-deepseek-tang-vot-len-55-ty-usd-sau-dot-goi-von-cropped-1795529750176.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-24T21:30:58+07:00",
+"found": "2026-11-24T21:55:47+07:00"
+},
+{
+"id": "79ac827573fc",
+"title": "thứ hạng của ratchaburi gặp johor dt",
+"link": "https://baonghean.vn/ratchaburi-o-nhom-cuoi-sau-tran-hoa-johor-darul-takzim-fc-10356517.html",
+"summary": "Ratchaburi ở nhóm cuối sau trận hòa Johor Darul Takzim FC (Báo Nghệ An)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBsPKLvAv2L7953euVO-bTccOFEyq_fskeDZrJnhXiZxfgwf37Ztb3jl3t0sE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T21:30:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-24T21:55:47+07:00"
+},
+{
+"id": "358c3a6685a6",
+"title": "mỹ tâm",
+"link": "https://vnexpress.net/cach-my-tam-duy-tri-vi-the-than-tuong-gan-30-nam-5147815.html",
+"summary": "Cách Mỹ Tâm duy trì vị thế thần tượng gần 30 năm (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ZgKCSKyAy2zqJBK7vRzcrXuj1ikt41Rv4dDeIiTNhxqt0MXqr-QULfLlm6I",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T21:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T21:55:47+07:00"
+},
+{
+"id": "559ca11380ba",
+"title": "Giá vàng thế giới quay đầu giảm nhẹ",
+"link": "https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-quay-dau-giam-nhe-20261124212309182.htm",
+"summary": "(Dân trí) - Giá vàng giảm nhẹ sau phiên phục hồi mạnh mẽ đầu tuần khi nhà đầu tư cân nhắc số liệu lạm phát sắp công bố của Mỹ và liệu đà phục hồi nhanh của thị trường chứng khoán có thể duy trì được hay không.",
+"image": "https://cdnphoto.dantri.com.vn/lostyfmzThpHKAcpzYiwKUh4ce8=/2024/03/15/gia-vang-thanh-dong-2-edited-1710474130340.jpeg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-24T21:28:49+07:00",
+"found": "2026-11-24T21:55:47+07:00"
 },
 {
 "id": "667f7f73fdf9",
@@ -380,6 +481,17 @@
 "found": "2026-11-24T21:15:06+07:00"
 },
 {
+"id": "b180ba7328b7",
+"title": "Cổ phiếu công nghệ châu Á tăng vọt sau khi ông Jensen Huang ngồi lại ghế CEO Nvidia",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWVvbV9hakJzWVk4Z1FDTU8xTkZSS3AwdUFZSUwxUHN1QUhBSWdjSVN2MTlZV0VoUUROUkc3Zk9zSEJrMFJ4aHBGd0RtWmxSUnpMN0xDb3dsR2VaelVnVGk4ZjRvQ1BSMDR6NV9uV0FSM00wd2ZGcmVLNzdzN0FpLXhLSXBXZjFwaksxTnduMWRPd19YRnVQNlVkNGY3Z1lwWXVvaXlOZ1k1a00xb1l4YU0xWk9ZWTg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T20:54:43+07:00",
+"found": "2026-11-24T21:55:47+07:00"
+},
+{
 "id": "4cdf396c9d72",
 "title": "Pháo hoa rực sáng trên sông Sài Gòn",
 "link": "https://vnexpress.net/phao-hoa-ruc-sang-tren-song-sai-gon-5148435.html",
@@ -455,7 +567,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T20:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-24T20:59:33+07:00"
 },
 {
@@ -890,7 +1002,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T19:20:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-24T19:38:36+07:00"
 },
 {
@@ -7535,6 +7647,17 @@
 "found": "2026-11-24T05:46:34+07:00"
 },
 {
+"id": "62786c5148f7",
+"title": "Xét xử tài xế Lexus tông liên hoàn 5 ô tô và 1 xe máy ở Hà Nội",
+"link": "https://dantri.com.vn/phap-luat/xet-xu-tai-xe-lexus-tong-lien-hoan-5-o-to-va-1-xe-may-o-ha-noi-20261124210910771.htm",
+"summary": "(Dân trí) - Sau 2 lần tông vào đuôi ô tô chờ đèn đỏ, chiếc Lexus lao sang làn đường ngược chiều, gây tai nạn liên hoàn khiến 2 người bị thương, trong đó một người có tỷ lệ tổn thương cơ thể 76%.",
+"image": "https://cdnphoto.dantri.com.vn/Bzi6UhSo56PRzF-Ro_wEnFjzKCI=/2026/11/24/van-de-phap-ly-tu-vu-xe-dien-lexus-tong-lien-hoan-trong-dem-o-ha-noi-1774497472677-1795529219265.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-24T05:30:00+07:00",
+"found": "2026-11-24T21:55:47+07:00"
+},
+{
 "id": "2a1adc4d14d3",
 "title": "doanh nhân",
 "link": "https://hanoionline.vn/ket-noi-doanh-nhan-mo-rong-co-hoi-hop-tac-24626112322515079.htm",
@@ -12491,6 +12614,17 @@
 "cat": "mxh",
 "published": "2026-11-23T16:08:00+07:00",
 "found": "2026-11-23T16:56:17+07:00"
+},
+{
+"id": "0334695a26c9",
+"title": "TS. Cấn Văn Lực: Khơi thông dòng tiền, đưa vốn vào sản xuất kinh doanh",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkEtZWh2LTJUaEtTUGFTdjkzcnYwYWxaLWlBQ0NpenBjT1BiSWQzLWQ1Y1ZrZWl5MHZ0RENXREw4dEx2a0RiTUtsLVNseVQ2QVdjWC1DdzAzN1poZ3VtdEZKYjlESmNlTGZtZWFDU05TcFFqMERLN0VQeEx4eXZ5SWs0aC1kZkxVNF84ODJMRkRvd2ozWm5jdzVzWURadXpGUkE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T16:08:00+07:00",
+"found": "2026-11-24T21:55:47+07:00"
 },
 {
 "id": "e73f176f5ee7",
@@ -23426,18 +23560,6 @@
 "found": "2026-11-22T11:53:47+07:00"
 },
 {
-"id": "07e87ee2d236",
-"title": "mỹ tâm",
-"link": "https://vnexpress.net/see-the-light-2-suc-hut-cua-my-tam-5147410.html",
-"summary": "'See The Light 2': Sức hút của Mỹ Tâm (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9HB8PLQ33hLhfrVHpcx_rXrYQY_xtko7XwLLktvhjcVoy2SYW1SscprkVavU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T11:30:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-22T11:53:47+07:00"
-},
-{
 "id": "8ac4986969b7",
 "title": "Người độc thân, chưa có con nhỏ ở lại làm việc trễ, đánh giá lao động lại 'ưu tiên' cho người về sớm",
 "link": "https://tuoitre.vn/nguoi-doc-than-chua-co-con-nho-o-lai-lam-viec-tre-danh-gia-lao-dong-lai-uu-tien-cho-nguoi-ve-som-100261120185654005.htm",
@@ -28005,130 +28127,6 @@
 "published": "2026-11-21T20:30:00+07:00",
 "traffic": "2000+",
 "found": "2026-11-21T21:03:17+07:00"
-},
-{
-"id": "c0625ef12e76",
-"title": "Bộ Chính trị đồng ý chủ trương thành lập Khu kinh tế đặc biệt Vân Phong",
-"link": "https://thanhnien.vn/bo-chinh-tri-dong-y-chu-truong-thanh-lap-khu-kinh-te-dac-biet-van-phong-185261121191701433.htm",
-"summary": "Bộ Chính trị đồng ý chủ trương thành lập Khu kinh tế đặc biệt Vân Phong (Khánh Hòa), đồng thời cho phép áp dụng cơ chế, chính sách ưu đãi tối đa.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-17927322540063131820935754539413131820935754539414a0778d401e027d1c15362f076bf1843-1795262093851469862793-273-0-1873-2560-crop-1795263097646153938441.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T20:28:00+07:00",
-"found": "2026-11-21T20:32:14+07:00"
-},
-{
-"id": "7b3d51b68e03",
-"title": "Chủ tịch công ty dược phẩm Nguyễn Thị Ngọc Huệ SN 1976 lãnh án chung thân",
-"link": "https://kenh14.vn/chu-tich-cong-ty-duoc-pham-nguyen-thi-ngoc-hue-sn-1976-lanh-an-chung-than-215261121185641678.chn",
-"summary": "Tự giới thiệu là Chủ tịch công ty dược phẩm, Nguyễn Thị Ngọc Huệ đưa ra thông tin gian dối về các thương vụ kinh doanh thuốc tân dược, khẩu trang, găng tay y tế để chiếm đoạt hơn 77 tỷ đồng của 3 người và phải lĩnh án tù chung thân.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795262079226-17952620800451920467813.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T20:27:00+07:00",
-"found": "2026-11-21T20:47:46+07:00"
-},
-{
-"id": "88f2d54e441e",
-"title": "Mai Tài Phến cùng bố mẹ Mỹ Tâm xem concert",
-"link": "https://vnexpress.net/mai-tai-phen-cung-bo-me-my-tam-xem-concert-5147361.html",
-"summary": "Diễn viên Mai Tài Phến ngồi cạnh gia đình Mỹ Tâm, cổ vũ cô trong concert \"See The Light 2\", tối 21/11.",
-"image": "https://vcdn1-giaitri.vnecdn.net/2026/11/21/1795265338224b49b2cbab653ed2ccfd6f30eacf4ab7-1795266731.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4hSyp42lQuWynhTcrv70cA",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-21T20:23:56+07:00",
-"found": "2026-11-22T10:45:30+07:00"
-},
-{
-"id": "b5bf76ada4ff",
-"title": "lazio đấu với lecce",
-"link": "https://bongdaplus.vn/serie-a/nhan-dinh-bong-da-lazio-vs-lecce-21h00-ngay-21-11-lecce-chua-ngan-duoc-dai-bang-5293562611.html",
-"summary": "Nhận định bóng đá Lazio vs Lecce, 21h00 ngày 21/11: Lecce chưa ngăn được Đại bàng (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWJ1211PVSO3oBjmqRZ1m9jTL5EDUxJuw5s-cTLV5yJ3wcOAbwYNPF2foNr6I",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T20:20:00+07:00",
-"traffic": "500+",
-"found": "2026-11-21T20:47:46+07:00"
-},
-{
-"id": "f2717d72a51c",
-"title": "luật đất đai",
-"link": "https://vnexpress.net/nha-o-xa-hoi-khong-duoc-ban-lai-tu-do-tu-1-7-2027-5147341.html",
-"summary": "Nhà ở xã hội không được bán lại tự do từ 1/7/2027 (VnExpress)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBg59QO3EQ0g87z1ThTWRF9mgewezcjXq0yvrTbLqn7cHYK7a0YkvK0_dDUh4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T20:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-21T20:47:46+07:00"
-},
-{
-"id": "4446ad41216e",
-"title": "Gia Lai đề xuất hỗ trợ hơn 400 tỷ đồng để di dời dân vùng thiên tai",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjVYM0xxMTM2QVhqa1c0VUtwOTJZajJwMzZTRUFVcDBldWtsUmtvZ0FqdUhPeXlzd0d2UTlsS3VRSWRYNnY5Y2VGMjYtbHhZT2lJa2VkWlRTR2hPUkt4Q2FOUlR5SXJUQ29jVWRlYzdJa0hBdzNSRXBNeUdPQ09SRUI5Y1ZzZ1hRaWdPSzJUODBVUzFBSUtjV3VIRVE1SnRvY1E?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T20:19:00+07:00",
-"found": "2026-11-22T22:56:49+07:00"
-},
-{
-"id": "d1433b9eec8c",
-"title": "Đường ra đảo Hòn Khoai dự kiến thử lắp dầm trên biển đầu tháng 12",
-"link": "https://thanhnien.vn/duong-ra-dao-hon-khoai-du-kien-thu-lap-dam-tren-bien-dau-thang-12-185261121192628116.htm",
-"summary": "Dự án đường giao thông ra đảo Hòn Khoai (Cà Mau) đã thi công 808 trong tổng số 2.408 cọc khoan nhồi. Các đơn vị đang lắp dầm ở những nhịp trên cạn và dự kiến thử lắp dầm trên biển vào đầu tháng 12.2026.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/2aoborebgbctyqyc8set8kttj41havmqzforgu08-17952626307171985253330-20-0-820-1280-crop-1795263497040705903164.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T20:16:00+07:00",
-"found": "2026-11-21T20:32:14+07:00"
-},
-{
-"id": "cfd87f136c73",
-"title": "Tựa game GTA VI thu gần 3,8 tỷ USD ngày đầu, lập kỷ lục ra mắt mọi thời đại",
-"link": "https://dantri.com.vn/kinh-doanh/tua-game-gta-vi-thu-gan-38-ty-usd-ngay-dau-lap-ky-luc-ra-mat-moi-thoi-dai-20261121190616214.htm",
-"summary": "(Dân trí) - Tựa game bom tấn “Grand Theft Auto VI” vừa xô đổ mọi kỷ lục ngành giải trí khi cán mốc 3,79 tỷ USD ngay trong 24 giờ đầu mở bán, tạo nên hiện tượng văn hóa đại chúng trên toàn cầu.",
-"image": "https://cdnphoto.dantri.com.vn/FYuGQgNfQTu94Izx4PbN9YSapzE=/2026/11/21/game-1795262195307.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T20:15:00+07:00",
-"found": "2026-11-21T20:32:14+07:00"
-},
-{
-"id": "6e05bb8b14db",
-"title": "Nhà ở cho thuê: Bước đột phá cho thị trường bất động sản",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlBWcmFBM2hjUENqT0ppNTNPVHpIc2RJZm9pb3lXNmltOWl2Wkd6c25HQmI3TXhjd3FrNDVDeDREbXRqRzJNS2pVWDNzVWRlS1pDNnJLTGJBWTVadE43WTd3TEVhcmVsSXRkeWU5SEJFU3NUbm0xdmh5SWlYQ1MtaW1HLTRmUmg2Y1JZWEtpYlRHUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T20:14:00+07:00",
-"found": "2026-11-22T17:59:39+07:00"
-},
-{
-"id": "b931c13b2ca1",
-"title": "thứ hạng của thép xanh nam định gặp câu lạc bộ bóng đá hải phòng",
-"link": "https://www.24h.com.vn/bong-da/video-bong-da-nam-dinh-hai-phong-buoc-ngoat-the-do-v-league-c48a1813026.html",
-"summary": "Video bóng đá Nam Định - Hải Phòng: Bước ngoặt thẻ đỏ (V-League) (Tin tức 24h)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH0Rd_jLgzxb7NOS2Rut9ii56ioAvz10-38xt-Agdqd6jbOA2OLV43fUpGbx4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T20:10:00+07:00",
-"traffic": "10000+",
-"found": "2026-11-21T21:19:05+07:00"
-},
-{
-"id": "18fed05c8204",
-"title": "Luật Kinh doanh bất động sản sửa đổi tăng trách nhiệm chủ đầu tư",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkFxRkw3WmtxaGRvSW9iWS1MdTFwbHBRZWx0U2w3WW1DbnpQTGNXdUtia0FxUS13MFZMUUdNQ0QtUDFfT0thSDV5NEVjbVpSU1lvTFVRemdzcndsbXBLTVhfdEFOQlFBTi16bm1GTDRfS3ZhZTlmM1dlZHdXWks0Wk5leTc1RlhNNHhmd2dOSGhuWkdxX3piMzQ4cTdHQQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T20:08:00+07:00",
-"found": "2026-11-21T20:16:06+07:00"
 }
 ]
 }
