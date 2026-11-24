@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T16:42:46+07:00",
-"new": 10,
+"updated": "2026-11-24T16:58:03+07:00",
+"new": 15,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 20
+"count": 44
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,51 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "89f8d36913b9",
+"title": "Tỷ phú Ireland khởi công công trình đầu tiên tại Khu công nghệ cao sinh học Hà Nội sau 20 năm chờ đợi",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTEJ2X0FKQUdlNXFYVldqNHVRRnFqTXAxb2RmcWlwX2RuSmpxZ2VHTG9vc19JVlZNVmNfUlZZd1JRZDk2eWc1T3hJSzVOTHVnWXFHUFdwQ05zTVR4RlBVb1hlZ3hvQTZ0M1pORTdMNXA2a3BBd3VWRzFBQzd5NXlaODNFRm45YVRMcl8wb2VtZzl5UkkyU1daWXFCQ3JIRVVVdGZBT0w4UVNPUkdCU1ZRd2oxQVJyVWJlY1RyN3RjYTV4UXc3Ukp0SlJYNUFPVjA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T16:53:00+07:00",
+"found": "2026-11-24T16:58:03+07:00"
+},
+{
+"id": "75f604690dab",
+"title": "Tạm hoãn xuất cảnh do nợ thuế: Cần cảnh báo sớm để gỡ khó cho doanh nghiệp",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb09aVDBpaWx2MVhOZlFYcFdOdHhwblZiTEFtcUJZQ2RzaUJKN3pRaXMtaU45NHJhWEFyMUZ6OHFYRDFlUHY5cjRTUkFkWElkdC1zTFpvM2dWc1pfczFiSnpqNFZMN1RPUjFJTkNxRk01WUlkSU5pclpXVnllelNGVEFDWUhfNkJUYm4yc3BFcUdWSWcyelpxRmFRMFlSME1FaktoSG40bFVkQQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T16:51:00+07:00",
+"found": "2026-11-24T16:58:03+07:00"
+},
+{
+"id": "4553e63af03a",
+"title": "Bất động sản công nghiệp phía nam chuyển sang cạnh tranh bằng kết nối và tiêu chuẩn bền vững thay bằng giá",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2V3Q0tTWFNpYV8tcGFQbmJQTGk1NlhVSWt3U2czVXpocmtrbjBNS3pFOXNOSlVsdjRmTk5tMWpoYUtFZTZzMl9xMTRvSmlSNGp0NnlPV2VZQUE4WlRIeFZGMnY4STRodFJWaTlabldsSzl6b0szWkV0cnZodDFhZVZFMjhVRldXWExwaTRSOTRtd1EwX0JLNmpJUUlXS2ZBUU5QcXB5enVWUG84WE1aSFlSVkNsR0FIRVNYdFhYT2JyQXZNdDNjVG55eXFFS0ExRDMwbjN3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T16:49:00+07:00",
+"found": "2026-11-24T16:58:03+07:00"
+},
+{
+"id": "477ba30e815a",
+"title": "uyển ân",
+"link": "https://znews.vn/uyen-an-cong-khai-hen-ho-negav-post1698667.html",
+"summary": "Uyển Ân công khai hẹn hò Negav? (Znews)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYnNPwJcDTiYVfOPQemFPlLS70OqN699JNdN-Z2M08JGK4rqmfQH3oJUd6hL4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T16:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T16:58:03+07:00"
+},
+{
 "id": "260927d7697b",
 "title": "Liên tiếp xảy ra cháy nổ khí gas, Công an TP.HCM tiếp tục đưa ra khuyến cáo",
 "link": "https://thanhnien.vn/lien-tiep-xay-ra-chay-no-khi-gas-cong-an-tphcm-tiep-tuc-dua-ra-khuyen-cao-185261124155456169.htm",
@@ -222,6 +267,17 @@
 "cat": "xh",
 "published": "2026-11-24T16:38:00+07:00",
 "found": "2026-11-24T16:42:46+07:00"
+},
+{
+"id": "f0013ef40003",
+"title": "Điều gì giúp Jensen Huang trở lại?",
+"link": "https://vnexpress.net/dieu-gi-giup-jensen-huang-tro-lai-5148358.html",
+"summary": "Sức ép từ thị trường chứng khoán, vận động của ông Trump và vai trò khó thay thế trong ngành AI giúp Jensen Huang trở lại bất chấp bê bối.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/24/afp-widak-nvidiasc250106-npkqi-3715-5941-1795500387.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_kOvFfmVe_uieCgTmGVHvw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-24T16:30:02+07:00",
+"found": "2026-11-24T16:58:03+07:00"
 },
 {
 "id": "57c4d9fa5af2",
@@ -279,6 +335,50 @@
 "found": "2026-11-24T16:42:46+07:00"
 },
 {
+"id": "0a39b02d398a",
+"title": "Cơ hội sở hữu bất động sản tại trung tâm kinh tế biển TPHCM",
+"link": "https://dantri.com.vn/bat-dong-san/co-hoi-so-huu-bat-dong-san-tai-trung-tam-kinh-te-bien-tphcm-20261124161423464.htm",
+"summary": "(Dân trí) - TPHCM đang định hình Cần Giờ thành cực tăng trưởng mới. Tại đây, Vinhomes Green Paradise được quan tâm nhờ vị trí lõi trung tâm kinh tế - thương mại biển (CBD), hệ sinh thái tiện ích quy mô lớn và cảnh quan sinh thái.",
+"image": "https://cdnphoto.dantri.com.vn/5_ObTR823jcy0233Eq7-e5qg4J8=/2026/11/24/a2-36-cropped-1795511348886.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-24T16:25:43+07:00",
+"found": "2026-11-24T16:58:03+07:00"
+},
+{
+"id": "78011330fb71",
+"title": "Tổng thống Donald Trump có thể hưởng lợi tới 15 triệu USD khi CEO Nvidia trở lại",
+"link": "https://tuoitre.vn/tong-thong-donald-trump-co-the-huong-loi-toi-15-trieu-usd-khi-ceo-nvidia-tro-lai-100261124160159265.htm",
+"summary": "Ông Jensen Huang trở lại vị trí CEO Nvidia, kéo giá cổ phiếu công ty tăng vọt hơn 30% trong phiên ngày 23-11.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/c8bd8f5df8a81b52c6df76eb15dc8a461193b89favif-17955094760541285783042-0-0-810-1296-crop-17955099585221123976798.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T16:25:00+07:00",
+"found": "2026-11-24T16:58:03+07:00"
+},
+{
+"id": "5ada2ebe70cd",
+"title": "Sơn mài, mật dừa nước, hồ tiêu TP.HCM chính thức lên hạng 5 sao OCOP",
+"link": "https://tuoitre.vn/son-mai-mat-dua-nuoc-ho-tieu-tphcm-chinh-thuc-len-hang-5-sao-ocop-100261124122126598.htm",
+"summary": "6 sản phẩm và nhóm sản phẩm của 3 doanh nghiệp tại TP.HCM chính thức được công nhận OCOP 5 sao cấp quốc gia, chiếm một nửa trong tổng số 12 sản phẩm được công nhận mới đợt 1 năm 2026.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/179500782489266023649949127352646602364994912735264a10d5075b4cc35042bf32ca0b48f8e80-17954972803611869559761-76-0-1676-2560-crop-17954975666531063492432.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T16:24:00+07:00",
+"found": "2026-11-24T16:58:03+07:00"
+},
+{
+"id": "7785ad856b7d",
+"title": "30 năm chứng khoán Việt: Từ sáng mua chiều lãi đến bài học đầu tư dài hạn",
+"link": "https://tuoitre.vn/30-nam-chung-khoan-viet-tu-sang-mua-chieu-lai-den-bai-hoc-dau-tu-dai-han-100261013221802298.htm",
+"summary": "Hai nhà đầu tư đồng thời là những chuyên gia có nhiều năm gắn bó với thị trường chứng khoán Việt Nam chia sẻ những câu chuyện thú vị, khi nhìn lại chặng đường phát triển đầy thăng trầm của thị trường.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/hose-17955081375622140469706-21-410-924-1854-crop-17955129553031297267002.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T16:19:00+07:00",
+"found": "2026-11-24T16:58:03+07:00"
+},
+{
 "id": "1652a9a77c7d",
 "title": "Từ 1/7/2027, căn hộ chung cư được cho thuê lưu trú",
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGtCXzBLeVdXZE5rTWhuTHl3OXlzbloxbWJCcjFTTXYyVlZ1RVM2YlhmNE1xem1PX2JnY1VlTGtUdHk3ZFcyQTdQcWZEaE00X3hrWThnM1RVM0p2YjhHWTJQWHdjSmQyb0t3Q0lTWFlUSktqYjg4Ump6U0dKNzJTc292ZG85TmVscXc?oc=5",
@@ -288,6 +388,17 @@
 "cat": "bds",
 "published": "2026-11-24T16:14:15+07:00",
 "found": "2026-11-24T16:27:31+07:00"
+},
+{
+"id": "c38bca8229cf",
+"title": "350.000ha lúa ở Đồng bằng sông Cửu Long đối mặt nguy cơ thiếu nước ngọt vì El Nino",
+"link": "https://tuoitre.vn/350000-ha-lua-o-dong-bang-song-cuu-long-doi-mat-nguy-co-thieu-nuoc-ngot-vi-el-nino-100261124132738967.htm",
+"summary": "Thông tin mới nhất từ chuyên gia: dư báo nguy cơ xâm nhập mặn vào sâu 50-70km trong nội đồng. Có khoảng 350.000ha lúa đối mặt nguy cơ thiếu nước ngọt vì không chủ động được thủy lợi.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/nguyen-anh-phong-1795499986352334084616-310-144-1502-2051-crop-1795512791106647118025-38-348-984-1861-crop-1795512886024946380182.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T16:11:00+07:00",
+"found": "2026-11-24T16:58:03+07:00"
 },
 {
 "id": "5f67bd9d3b50",
@@ -302,6 +413,17 @@
 "found": "2026-11-24T16:42:46+07:00"
 },
 {
+"id": "3ac82b90a1a5",
+"title": "Tân Sơn Nhất nâng cấp 20 cửa xuất nhập cảnh tự động, khách đỡ phải xếp hàng ngay dịp Tết",
+"link": "https://tuoitre.vn/tan-son-nhat-nang-cap-20-cua-xuat-nhap-canh-tu-dong-khach-do-phai-xep-hang-ngay-dip-tet-100261124151648494.htm",
+"summary": "Cảng hàng không quốc tế Tân Sơn Nhất đang lắp đặt, nâng cấp hệ thống 20 cửa kiểm soát xuất nhập cảnh tự động (Autogate) với công nghệ sinh trắc học, dự kiến đưa vào hoạt động đầu tháng 12-2026.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/tempimage4yyvtv-179550787081177205079-158-106-548-730-crop-1795512868099971127685.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T16:09:00+07:00",
+"found": "2026-11-24T16:58:03+07:00"
+},
+{
 "id": "d4c92d15cb0e",
 "title": "Siêu El Nino tăng nhiệt trở lại sau 2 tuần suy giảm",
 "link": "https://thanhnien.vn/sieu-el-nino-tang-nhiet-tro-lai-sau-2-tuan-suy-giam-185261124155705718.htm",
@@ -311,6 +433,17 @@
 "cat": "tc",
 "published": "2026-11-24T16:08:00+07:00",
 "found": "2026-11-24T16:12:22+07:00"
+},
+{
+"id": "6f00c82c08d4",
+"title": "Ngày Văn hóa Việt Nam: Khách ưu tiên 'chill' tại chỗ, nhiều nơi ở TP.HCM 'bùng nổ'",
+"link": "https://tuoitre.vn/ngay-van-hoa-viet-nam-khach-uu-tien-chill-tai-cho-nhieu-noi-o-tphcm-bung-no-100261124155003503.htm",
+"summary": "Không khí mua sắm sôi động của mùa giảm giá cuối năm kết hợp nghỉ lễ Ngày Văn hóa Việt Nam, nhiều điểm vui chơi, mua sắm, ăn uống... tại TP.HCM đông nghẹt khách.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/2aoboreqou61a4tvqk5i3dyzkdeykbubimss5ira-1795509046619405683644-221-89-1607-2307-crop-1795509804577299453955.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T16:05:00+07:00",
+"found": "2026-11-24T16:58:03+07:00"
 },
 {
 "id": "eaa2362feef4",
@@ -335,6 +468,28 @@
 "found": "2026-11-24T16:12:22+07:00"
 },
 {
+"id": "49fc64809ef0",
+"title": "Nhân tài ở TP.HCM được chia 3 nhóm để xem xét chính sách đãi ngộ",
+"link": "https://tuoitre.vn/nhan-tai-o-tphcm-duoc-chia-3-nhom-de-xem-xet-chinh-sach-dai-ngo-100261124152844796.htm",
+"summary": "TP.HCM sẽ rà soát những người đã được tuyển chọn, đưa vào diện hưởng chính sách thu hút nhân tài theo Nghị quyết 25/2023 và chia thành 3 nhóm để xem xét tiếp tục áp dụng chính sách mới.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/vo-van-minh-30102026-edit-1795511407009443997659-144-441-1272-2246-crop-17955130598661660317568.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T16:03:00+07:00",
+"found": "2026-11-24T16:58:03+07:00"
+},
+{
+"id": "77f11bc094f2",
+"title": "Giá dầu thế giới xuống gần mức thấp nhất 3 tháng",
+"link": "https://vnexpress.net/gia-dau-the-gioi-xuong-gan-muc-thap-nhat-3-thang-5148418.html",
+"summary": "Hôm 24/11, giá dầu đã có phiên giảm thứ hai liên tiếp xuống mức thấp nhất gần 3 tháng do nguy cơ thừa cung trên thị trường.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/24/oil-1795509678-3856-1795509694.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z90XzkcGGJE_XX7lAxIwkg",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-24T16:02:13+07:00",
+"found": "2026-11-24T16:58:03+07:00"
+},
+{
 "id": "a99f46634821",
 "title": "Đã có phương án bồi thường cho 106 hộ dân bị ảnh hưởng do thi công kênh Thụy Phương",
 "link": "https://cafef.vn/da-co-phuong-an-boi-thuong-cho-106-ho-dan-bi-anh-huong-do-thi-cong-kenh-thuy-phuong-18826112415073737.chn",
@@ -344,6 +499,17 @@
 "cat": "bds",
 "published": "2026-11-24T15:59:00+07:00",
 "found": "2026-11-24T16:12:22+07:00"
+},
+{
+"id": "03798ff52b86",
+"title": "Bộ Công Thương tính tăng quy mô điện mặt trời, lưu trữ và nhập khẩu",
+"link": "https://vnexpress.net/bo-cong-thuong-tinh-tang-quy-mo-dien-mat-troi-luu-tru-va-nhap-khau-5148391.html",
+"summary": "Hồ sơ điều chỉnh Quy hoạch điện VIII tính đưa công suất điện mặt trời lên 62–82 GW và nguồn lưu trữ lên 13,3-25,1 GW vào năm 2030, đồng thời đẩy nhanh các dự án điện khí, điện than để bảo đảm cung ứng.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/24/wm1-wm1-img0094jpg-1795504361-4702-1795508581.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ympj_In5E9d5LgwI2sWIIA",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-24T15:57:34+07:00",
+"found": "2026-11-24T16:58:03+07:00"
 },
 {
 "id": "00257407ece0",
@@ -508,7 +674,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T15:40:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-24T16:12:22+07:00"
 },
 {
@@ -1052,7 +1218,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T14:20:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T15:01:52+07:00"
 },
 {
@@ -27961,171 +28127,6 @@
 "cat": "xh",
 "published": "2026-11-21T15:34:00+07:00",
 "found": "2026-11-21T15:53:55+07:00"
-},
-{
-"id": "a8b2003509a5",
-"title": "Quốc hội thông qua Luật Đấu thầu (sửa đổi), bệnh viện tự quyết định mua sắm thuốc",
-"link": "https://tuoitre.vn/quoc-hoi-thong-qua-luat-dau-thau-sua-doi-benh-vien-tu-quyet-dinh-mua-sam-thuoc-100261121150016749.htm",
-"summary": "Luật Đấu thầu (sửa đổi) vừa thông qua có nhiều quy định siết chặt nhằm chống thông thầu; đồng thời trao quyền tự quyết định hoạt động mua sắm, đấu thầu trên cơ sở bảo đảm công khai, minh bạch và hiệu quả.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/179524637009811137946946367736111113794694636773611e53588d658027d2553872aa5f7e98489-17952477802901593792281-27-0-1627-2560-crop-1795247841123179840709.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T15:33:00+07:00",
-"found": "2026-11-21T17:11:59+07:00"
-},
-{
-"id": "36bf404b4ebe",
-"title": "Hà Nội mở cơ chế giao chủ đầu tư nhà cho thuê không qua đấu giá, đấu thầu",
-"link": "https://vnexpress.net/ha-noi-mo-co-che-giao-chu-dau-tu-nha-cho-thue-khong-qua-dau-gia-dau-thau-5147416.html",
-"summary": "Hà Nội cho phép lựa chọn trực tiếp chủ đầu tư dự án nhà cho thuê với các tiêu chí ưu tiên gồm quyền sử dụng đất, năng lực tài chính và kinh nghiệm triển khai.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/dji-jpg-1795243802-6543-1795244023.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=J5SBU2SBljjqaaPf_6IoQw",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-21T15:31:28+07:00",
-"found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "7d68f7c85701",
-"title": "Nâng cao hiệu quả quản lý đất đai, nhà ở, bất động sản; khơi thông nguồn lực cho phát triển đất nước",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONzRlbkg1S0xIbTBqZ3JhQ0dwblBSSFB1cXJYUDlxRUozUjVLdXBDSi1mUVBsSWRTdDhEbUtNckZ6RHMwcXFXY2Y4N0xLbFZzNEhqbUZGaTZDd2ZJZjNIVENweGhVRTRmbWlIaTdiUHFnMjBwbndQU0RBQmxDb3FoN09fOG9SWUNOS0ZpYTJKS3NlUmNIU25SbjZrSkVaTDV5SkdMNks2SUgyWW1GNlhyd1RqY2NQcDI3UC1QLUtjOGp5Wlc1N2VqRHNR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T15:30:05+07:00",
-"found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "6c3c997030e4",
-"title": "Từng tự ti vì giọng địa phương, nữ thủ khoa báo chí nay làm BTV truyền hình",
-"link": "https://thanhnien.vn/tung-tu-ti-vi-giong-dia-phuong-nu-thu-khoa-bao-chi-nay-lam-btv-truyen-hinh-185261121132341869.htm",
-"summary": "Ít ai biết cô gái đang tự tin dẫn chương trình truyền hình từng nhiều lần bị nhắc lỗi phát âm. Lê Linh Phương đã đi một chặng đường dài để trở thành thủ khoa báo chí và theo đuổi nghề mình yêu thích.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/base64-17952414846171459619328-267-0-1333-1706-crop-1795241996307354987911.jpeg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-21T15:30:00+07:00",
-"found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "6b828be5e50f",
-"title": "Đại học Trung Quốc lắp camera soi từng cử chỉ của sinh viên",
-"link": "https://tuoitre.vn/dai-hoc-trung-quoc-lap-camera-soi-tung-cu-chi-cua-sinh-vien-100261121125942045.htm",
-"summary": "Đại học Nam Kinh tại tỉnh Giang Tô (Trung Quốc) đầu tư hệ thống lớp học thông minh, có công nghệ theo dõi 'tỉ lệ ngẩng đầu' của sinh viên.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/dai-hoc-trung-quoc-gay-tranh-luan-khi-dung-camera-theo-doi-sinh-vien-1795240483634469446736.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-21T15:30:00+07:00",
-"found": "2026-11-21T16:09:09+07:00"
-},
-{
-"id": "d24113237e65",
-"title": "Tạm dừng tuyển dụng, điều chuyển cán bộ, công chức",
-"link": "https://kenh14.vn/tam-dung-tuyen-dung-dieu-chuyen-can-bo-cong-chuc-215261121141754893.chn",
-"summary": "Bộ Nội vụ đề nghị các bộ, ngành, địa phương tạm dừng tuyển dụng mới, điều chuyển cán bộ, công chức trong thời gian rà soát, hoàn thiện vị trí việc làm và phương án biên chế giai đoạn 2027-2031.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795245439483-1795245440057215006389.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T15:28:00+07:00",
-"found": "2026-11-21T15:53:55+07:00"
-},
-{
-"id": "6e3cd3ebc28f",
-"title": "Mua đất rừng Phú Quốc 400 triệu rồi lừa bán giá 16 tỉ",
-"link": "https://tuoitre.vn/mua-dat-rung-phu-quoc-400-trieu-roi-lua-ban-gia-16-ti-100261121150302937.htm",
-"summary": "Công an tỉnh An Giang đã bắt tạm giam Lê Thanh Tuấn để điều tra về hành vi lừa đảo chiếm đoạt tài sản qua bán đất rừng Phú Quốc.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/tuan-2-17952479492771003874568-0-0-750-1200-crop-17952479948791564056842-75-120-750-1200-crop-17952514597991728740158.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T15:28:00+07:00",
-"found": "2026-11-21T16:09:09+07:00"
-},
-{
-"id": "b01d92610ad7",
-"title": "Quyết định bất ngờ của người đàn ông trúng giải độc đắc kỷ lục 2,04 tỷ USD",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWw0andSa1hqaVZaRDZ0THZReHo3Zng0YWNfYXlXUlNQNmRhQ3MtS2ZaRkE4ZUhiRFhMNEo5VHY1b0lOelQ4V1VGTkR1czhrRUpmS0hIRUtKSzVZZjBab01tMGp1T3VLU1ZYTFlQNGVFY0lheHczX1Q0N0xIbHZlTDdrc2docjNxSF9SLXFjaVNKTXFFeGpCZ0xBcHF3cEhYZ3loYU0yOXkwOFk?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T15:25:00+07:00",
-"found": "2026-11-21T19:14:07+07:00"
-},
-{
-"id": "7f93c447862c",
-"title": "Cổ phiếu Novaland bán cho cổ đông bị... ế",
-"link": "https://cafef.vn/co-phieu-novaland-ban-cho-co-dong-bi-e-188261121151831464.chn",
-"summary": "Tập đoàn Novaland lần thứ hai kéo dài thời gian chuyển nhượng quyền mua, đăng ký và nộp tiền mua khi bán hơn 800 triệu cổ phiếu cho cổ đông hiện hữu. Tương tự, Công ty CP Đầu tư Thương mại SMC cũng kéo dài thêm gần 1 tháng thời gian đăng ký mua và nộp tiền cho đợt chào bán gần…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795249082991-17952490862161261034757.webp",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-21T15:18:00+07:00",
-"found": "2026-11-21T15:23:13+07:00"
-},
-{
-"id": "a35100b23f35",
-"title": "Hà Nội sáng nay đẹp rực rỡ: 4.000 người cùng vẽ nên bức tranh văn hóa giữa phố đi bộ",
-"link": "https://kenh14.vn/ha-noi-sang-nay-dep-ruc-ro-4000-nguoi-cung-ve-nen-buc-tranh-van-hoa-giua-pho-di-bo-215261121152148531.chn",
-"summary": "Sáng 21/11, khoảng 4.000 người trong trang phục truyền thống, mang theo những biểu tượng văn hóa đặc trưng của các vùng miền, cùng diễu hành quanh hồ Hoàn Kiếm, tạo nên không khí lễ hội rộn ràng giữa lòng Thủ đô.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795249154405-1795249155104986604651.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T15:17:00+07:00",
-"found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "208997035082",
-"title": "Quốc hội quyết định xóa nợ lệ phí môn bài, tiền chậm nộp cho người nộp thuế diện ‘03, 06’",
-"link": "https://tuoitre.vn/quoc-hoi-quyet-dinh-xoa-no-le-phi-mon-bai-tien-cham-nop-cho-nguoi-nop-thue-dien-03-06-100261121145647908.htm",
-"summary": "Quốc hội quyết nghị từ hôm nay (21-11) người nộp thuế thuộc diện \"03, 06\" được xóa nợ lệ phí môn bài và tiền chậm nộp phát sinh để hoàn tất thủ tục chấm dứt hoạt động khi đủ điều kiện.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/qh1113-17952468982091061446907-19-206-765-1400-crop-1795246932440416539281.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T15:17:00+07:00",
-"found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "903bc06dc94b",
-"title": "Hải Phòng 'cứu' các dự án tồn đọng thế nào?",
-"link": "https://tuoitre.vn/hai-phong-cuu-cac-du-an-ton-dong-the-nao-100261121140607954.htm",
-"summary": "Sau nhiều năm mắc kẹt vì vướng quy hoạch và thủ tục đầu tư, hàng loạt dự án tại Hải Phòng đang được tháo gỡ nhằm xử lý dứt điểm những tồn đọng kéo dài.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/du-an-ton-dong-17952429980621105401843-38-0-999-1538-crop-17952436660462012180728.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-21T15:16:00+07:00",
-"found": "2026-11-21T15:38:44+07:00"
-},
-{
-"id": "12b099577d0d",
-"title": "Bộ Y tế làm rõ những nội dung lớn của Luật Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác (sửa đổi)",
-"link": "https://tuoitre.vn/bo-y-te-lam-ro-nhung-noi-dung-lon-cua-luat-hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac-sua-doi-100261121142857548.htm",
-"summary": "Bộ Y tế nhấn mạnh điểm xuyên suốt của Luật Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác (sửa đổi) là đặt hoạt động hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác trong khuôn khổ pháp lý chặt chẽ: tự nguyện từ phía người hiến...",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/773611111379469463677361155f83425197d836b6edbfb943da7a5ce-1795231762314201448898-69-1172-594-2012-crop-179524603586011323930-57-101-464-752-crop-179524901936276078077.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T15:13:00+07:00",
-"found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "2397eca68b34",
-"title": "Bãi bỏ 18 thủ tục hành chính về sở hữu trí tuệ",
-"link": "https://vnexpress.net/bai-bo-18-thu-tuc-hanh-chinh-ve-so-huu-tri-tue-5147427.html",
-"summary": "Luật Sở hữu trí tuệ sửa đổi bãi bỏ 18 thủ tục hành chính, cắt giảm 5 điều kiện kinh doanh, đơn giản hóa chuyển nhượng quyền và thống nhất đầu mối quản lý giống cây trồng.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/2aobore96jlzewytlbsmmwfcdcvpel-5248-3056-1795248667.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0dLyC5ghUhYrqJQVHL1JgA",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-21T15:11:41+07:00",
-"found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "206403a6b6c8",
-"title": "Bitcoin giảm xuống mức thấp nhất trong hơn 2 năm",
-"link": "https://vnexpress.net/bitcoin-giam-xuong-muc-thap-nhat-trong-hon-2-nam-5147439.html",
-"summary": "Trái phiếu chính phủ Mỹ mạnh lên gây áp lực tới các tài sản rủi ro, trong đó có tiền số, riêng Bitcoin có lúc về gần mốc 55.000 USD.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/107167409175551915013610716740-4557-4906-1795247774.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0d1Fojw1N96EfgMxc6izVQ",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-21T15:10:20+07:00",
-"found": "2026-11-21T15:38:25+07:00"
 }
 ]
 }
