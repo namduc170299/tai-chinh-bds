@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T18:33:10+07:00",
-"new": 10,
+"updated": "2026-11-24T18:48:40+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 21
+"count": 46
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "adc455ed1514",
+"title": "Hỗ trợ người dân di dời ra khỏi khu vực nguy hiểm sau vụ nổ tại phố Nguyễn Văn Tuyết",
+"link": "https://kenh14.vn/ho-tro-nguoi-dan-di-doi-ra-khoi-khu-vuc-nguy-hiem-sau-vu-no-tai-pho-nguyen-van-tuyet-215261124180953063.chn",
+"summary": "Sau vụ nổ khiến công trình bị hư hại, nhiều hộ dân nhà tập thể E3, E4 phố Nguyễn Văn Tuyết, phường Đống Đa, Hà Nội được hỗ trợ di dời ra khỏi khu vực để bảo đảm an toàn.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795518511458-17955185121582011995484.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T18:37:00+07:00",
+"found": "2026-11-24T18:48:40+07:00"
+},
+{
+"id": "f0248cff1bcb",
+"title": "Việt Nam có gia đình trí thức đặc biệt với 6 người con đều là Giáo sư, Phó Giáo sư: Cha từng là Bộ trưởng, 3 con rể là tướng lĩnh quân đội, con trai duy nhất không theo ngành của cha mà làm kiến trúc sư",
+"link": "https://kenh14.vn/viet-nam-co-gia-dinh-tri-thuc-dac-biet-voi-6-nguoi-con-deu-la-giao-su-pho-giao-su-cha-tung-la-bo-truong-3-con-re-la-tuong-linh-quan-doi-con-trai-duy-nhat-khong-theo-nganh-cua-cha-ma-lam-kien-truc-su-215261124181646289.chn",
+"summary": "Đây là một gia đình tri thức với cách dạy các con nổi bật.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795518974507-17955189748832002054992.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T18:34:00+07:00",
+"found": "2026-11-24T18:48:40+07:00"
+},
+{
 "id": "8e93628240dd",
 "title": "Bản tin Nhà đất và đầu tư | 24/11/2026",
 "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PRjZvNlk1R2c5Y2p3OGZ6YkZhaHdVMjhSQVZWdXpiN3FVRkxSWUZHV19kWF9PaXNXZkhkRFdrZkp2T3lLUS0waHJPYWRDaFQ3cHhVRy1NRGdHMy1kaUUwa1hMVEdkNnZGRHViSUVwMG1DMGQ1aW51UA?oc=5",
@@ -235,6 +257,17 @@
 "found": "2026-11-24T18:33:10+07:00"
 },
 {
+"id": "8db275023dbf",
+"title": "Hình hài đường nối cao tốc Biên Hòa - Vũng Tàu gần 14.000 tỷ sau hơn 1 năm thi công",
+"link": "https://cafef.vn/hinh-hai-duong-noi-cao-toc-bien-hoa-vung-tau-gan-14000-ty-sau-hon-1-nam-thi-cong-188261124181347967.chn",
+"summary": "Sau hơn 1 năm thi công, dự án đường nối vào cao tốc Biên Hòa - Vũng Tàu đang dần thành hình. Trong khi một số đoạn tuyến đã cơ bản hoàn thiện, nhiều vị trí khác đang được triển khai thi công, một số nơi mới bắt đầu làm móng cầu, đường.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795518531065-17955185314072107445280.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-24T18:29:00+07:00",
+"found": "2026-11-24T18:48:40+07:00"
+},
+{
 "id": "3acbc7a33d81",
 "title": "Tân Sơn Nhất 'tổng lực' nâng cấp AutoGate: Xuất nhập cảnh tết này nhanh chưa từng có",
 "link": "https://thanhnien.vn/tan-son-nhat-tong-luc-nang-cap-autogate-xuat-nhap-canh-tet-nay-nhanh-chua-tung-co-185261124182536345.htm",
@@ -255,6 +288,18 @@
 "cat": "mxh",
 "published": "2026-11-24T18:20:00+07:00",
 "found": "2026-11-24T18:33:10+07:00"
+},
+{
+"id": "75e16e0429be",
+"title": "cảng thượng hải đấu với buriram utd",
+"link": "https://www.goal.com/en-in/news/live-stream-online-tv-where-to-watch-shanghai-port-v-buriram-united/blt9bb1da9815b7b8c9",
+"summary": "Watch Shanghai Port vs Buriram United live today: Who is broadcasting the match on TV and via live stream? (Goal.com)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzbgsyXnNtlRSGeH6UKVjuZbbp1WY7rBEYLbPTuzZJS7QQHotQmqsHm4OymRg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T18:20:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-24T18:48:40+07:00"
 },
 {
 "id": "667f7f73fdf9",
@@ -811,7 +856,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T17:00:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-24T18:03:10+07:00"
 },
 {
@@ -28084,50 +28129,6 @@
 "source": "Báo Mới",
 "cat": "bds",
 "published": "2026-11-21T17:19:38+07:00",
-"found": "2026-11-21T17:27:08+07:00"
-},
-{
-"id": "1d0314c50cc0",
-"title": "Xổ số miền Nam ngày 21 tháng 11: Dãy số trúng độc đắc 025502 gây xôn xao",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWhSQUpCaUFzRkVVejh2S29DMEJiOUJZaW1tSFNrQVZOTEFUNTRMcHJfQnJLRnFvcl9aNUlUbmhUWTlYNzJGcFlTdjR5clk3T2pjZExlMHpzdTBCX0ZCNGNsYzhnUUxtaUlsY0tydzVJeTZKWGRrWktTUVktanFDblUwYlN6dVRlUGZid09OcGZqNHVHV3U4NllqRFJOckpwQ1N4X0tKaGFicGxaMFFDTXhYb2ZUdw?oc=5",
-"summary": "Nguồn: Báo Thanh Niên",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T17:18:00+07:00",
-"found": "2026-11-21T17:42:16+07:00"
-},
-{
-"id": "0eeed0dcc1ca",
-"title": "Nỗ lực giải bài toán thiếu lao động tại các dự án xây dựng",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFI2a2ZqdnZyeGk3SFRDOFBra3BjaUY3aG50SUhjQkhIMnhMeDFaUThsMExJSURWLXdjbS1HOHJvOXdkU2NLaEJVN3g4T09xdC1ManlLdHY2ajZhVWxJajdvcmdBSTFicmZwWXVhWWlnX09TMlpHc1hKWFhKeHJyc3pvY0tGNkc5TUZ0SFVTU3BubkRqd0E?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T17:17:12+07:00",
-"found": "2026-11-22T14:51:42+07:00"
-},
-{
-"id": "0bc321d03024",
-"title": "Óc Eo trao hai căn nhà Đại đoàn kết cho hộ khó khăn",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX21kUU5DTWJJRlJxRGRTRW5uazkyWF9udktaNU10RkVtTzJaSlMxUVpvUHR4b2RCaXh6OGV5U180NHpqMDl2aDlkVnNoREg2OHVXM0VnMHpvNDNVbUY5V3lWdkdLODNXWlBjLVNMNDNhQV9DbUJ6TEQ1SVRHS0Y3MjI2WlRfLV9lYjd6eQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T17:17:00+07:00",
-"found": "2026-11-21T17:27:08+07:00"
-},
-{
-"id": "a24a11c61053",
-"title": "Quy định mới về tiến độ thanh toán, tiền đặt cọc bất động sản",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGExNUE3UHp5MXpQTk5meUt5Y0ZYR212YmxydURVOGpQYWJDVGYwNjItcEVWUUR4WWZTaWJXdi1ucU1PUzBRaV9Ta01VVjVoZ2JFTUxsN1RnNGhELXJRR0phdFVIN0V2ejBfUGY0czJiMjQ5b1ZCUTQtMl93TjFmcHNabGRpUVlnNE1PaS16OXZvM2hXUVl1Mw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T17:17:00+07:00",
 "found": "2026-11-21T17:27:08+07:00"
 }
 ]
