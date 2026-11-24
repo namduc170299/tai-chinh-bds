@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T02:16:04+07:00",
-"new": 6,
+"updated": "2026-11-25T02:41:08+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 48
+"count": 21
 },
 {
 "name": "Kenh14",
@@ -213,15 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
-"id": "62d67330c712",
-"title": "Biến động ghế nóng tại loạt nhà băng",
-"link": "https://cafef.vn/bien-dong-ghe-nong-tai-loat-nha-bang-188261124215121327.chn",
-"summary": "Loạt ngân hàng liên tiếp có biến động nhân sự cấp cao, với nhiều quyết định bổ nhiệm, thay thế lãnh đạo ở các vị trí chủ chốt như Chủ tịch HĐQT, Tổng giám đốc và quyền Tổng giám đốc",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795531846067-17955318465021140804230.png",
+"id": "704902daad22",
+"title": "Cổ phiếu bất động sản midcap đón dòng tiền trở lại, kỳ vọng từ mùa cuối năm",
+"link": "https://cafef.vn/co-phieu-bat-dong-san-midcap-don-dong-tien-tro-lai-ky-vong-tu-mua-cuoi-nam-188261125021951405.chn",
+"summary": "Trong giai đoạn cuối năm, tiến độ bàn giao dự án, khả năng ghi nhận doanh thu, kết quả kinh doanh và mặt bằng lãi suất là những yếu tố trực tiếp định hình triển vọng của nhóm cổ phiếu bất động sản midcap.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/co-phieu-bat-dong-san-buoc-vao-giai-doan-sang-loc-va-phuc-hoi-thuc-chat-7d67ffb708a4-1774306125-1795547967667730809540-0-0-720-1152-crop-1795547975046618868900.jpg",
 "source": "CafeF",
-"cat": "tc",
-"published": "2026-11-25T02:02:00+07:00",
-"found": "2026-11-25T02:16:04+07:00"
+"cat": "bds",
+"published": "2026-11-25T02:20:00+07:00",
+"found": "2026-11-25T02:41:08+07:00"
+},
+{
+"id": "58d4fe93d82d",
+"title": "real madrid đấu với psv",
+"link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-real-madrid-vs-psv-03h00-ngay-25-11-thien-duong-thu-10-5297622611.html",
+"summary": "Nhận định bóng đá Real Madrid vs PSV, 03h00 ngày 25/11: Thiên đường thứ 10 (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3xhw5_0dA6_cy3a5_K3C5ai-V3wRT_GcAQqn_b_keSr_X63LNA27xarrYM6w",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T02:10:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-25T02:41:08+07:00"
+},
+{
+"id": "8e6ae780a760",
+"title": "man city đấu với napoli",
+"link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-man-city-vs-napoli-03h00-ngay-25-11-khoc-di-napoli-5297482611.html",
+"summary": "Nhận định bóng đá Man City vs Napoli, 03h00 ngày 25/11: Khóc đi, Napoli! (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQClPEmfaTJCpJy_iJbQF7Pdi8OS4DdiddZd63IvuKJvY2zzIYbtj2SVVAx5tw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T02:10:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-25T02:41:08+07:00"
 },
 {
 "id": "93177691fe0f",
@@ -255,6 +279,29 @@
 "cat": "mxh",
 "published": "2026-11-25T02:00:00+07:00",
 "traffic": "100+",
+"found": "2026-11-25T02:16:04+07:00"
+},
+{
+"id": "737088e5ec40",
+"title": "arsenal đấu với dortmund",
+"link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-arsenal-vs-dortmund-03h00-ngay-25-11-khong-de-cho-arsenal-5297512611.html",
+"summary": "Nhận định bóng đá Arsenal vs Dortmund, 03h00 ngày 25/11: Không dễ cho Arsenal (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbTow-0zUAhMSGyA8XCbaTJ9GBRW3KA3fzy__VoM8-W6UuNnw3S88vhZtvyeU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T02:00:00+07:00",
+"traffic": "5000+",
+"found": "2026-11-25T02:41:08+07:00"
+},
+{
+"id": "62d67330c712",
+"title": "Biến động ghế nóng tại loạt nhà băng",
+"link": "https://cafef.vn/bien-dong-ghe-nong-tai-loat-nha-bang-188261124215121327.chn",
+"summary": "Loạt ngân hàng liên tiếp có biến động nhân sự cấp cao, với nhiều quyết định bổ nhiệm, thay thế lãnh đạo ở các vị trí chủ chốt như Chủ tịch HĐQT, Tổng giám đốc và quyền Tổng giám đốc",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795531846067-17955318465021140804230.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T01:50:00+07:00",
 "found": "2026-11-25T02:16:04+07:00"
 },
 {
@@ -345,7 +392,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T01:00:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-25T02:16:04+07:00"
 },
 {
@@ -426,7 +473,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T00:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-25T00:46:38+07:00"
 },
 {
@@ -28072,52 +28119,6 @@
 "cat": "xh",
 "published": "2026-11-21T23:31:46+07:00",
 "found": "2026-11-22T02:24:44+07:00"
-},
-{
-"id": "8476a0879bbd",
-"title": "newcastle đấu với arsenal",
-"link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-newcastle-arsenal-thu-thach-tai-st-james-park-ngoai-hang-anh-c48a1812983.html",
-"summary": "Trực tiếp bóng đá Newcastle - Arsenal: Thử thách tại St James’ Park (Ngoại hạng Anh) (Tin tức 24h)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMDtRufwGnOUW1r4MBskTXB4b94LC89SQNwwS2UThGGMZ8hDxP2NrdVHFkvnQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T23:30:00+07:00",
-"traffic": "20000+",
-"found": "2026-11-21T23:51:48+07:00"
-},
-{
-"id": "26336d0cc4f6",
-"title": "aston villa vs",
-"link": "https://www.bbc.com/sport/football/live/ck3r530w3vd3t",
-"summary": "Premier League: Spurs winning, Leeds equalise at Chelsea, Frank's Palace drawing 2-2 (BBC)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5qTKTGp4dUSvUJbuDEPxGpLhxlGqcips3peUGVUThY6pqEDAfpihDw9N2DY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T23:20:00+07:00",
-"traffic": "100+",
-"found": "2026-11-21T23:51:48+07:00"
-},
-{
-"id": "fe50525fd8be",
-"title": "Nhiều cơ sở nhà, đất thuộc TKV chưa hoàn thiện thủ tục pháp lý, trụ sở 35 tầng ở Hà Nội chưa được cấp 'sổ đỏ'",
-"link": "https://cafef.vn/nhieu-co-so-nha-dat-thuoc-tkv-chua-hoan-thien-thu-tuc-phap-ly-tru-so-35-tang-o-ha-noi-chua-duoc-cap-so-do-188261121230604954.chn",
-"summary": "Theo kết luận thanh tra, Tập đoàn TKV và các đơn vị thành viên quản lý, sử dụng 1.104 cơ sở nhà, đất. Tuy nhiên, còn một số cơ sở nhà, đất chưa hoàn thiện thủ tục pháp lý theo quy định; tòa nhà Trung tâm giao dịch Than - Khoáng sản tại Cầu Giấy (Hà Nội) cao 35 tầng hiện chưa…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795276830516-1795276830837823083422.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T23:16:00+07:00",
-"found": "2026-11-21T23:21:07+07:00"
-},
-{
-"id": "254bae1ba2b8",
-"title": "Bạc không chỉ là kim loại quý, mà là một phần của nếp sống và di sản Việt",
-"link": "https://tuoitre.vn/bac-khong-chi-la-kim-loai-quy-ma-la-mot-phan-cua-nep-song-va-di-san-viet-100261121224214612.htm",
-"summary": "Bạc đã đi cùng người Việt qua nhiều thế hệ, trong nén bạc để dành của ông bà, chiếc vòng đầu đời của trẻ em hay ấm trà mời khách trong nhà.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/thumb-bac-2-17952743112182046788488-1795274312666423395420-107-116-695-1057-crop-1795274342018586583596.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-21T23:15:00+07:00",
-"found": "2026-11-21T23:51:48+07:00"
 }
 ]
 }
