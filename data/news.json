@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T08:59:42+07:00",
-"new": 18,
+"updated": "2026-11-24T09:14:55+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,72 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "95117b51c6bc",
+"title": "Nổ lớn, sập nhà ở Hà Nội",
+"link": "https://vietnamnet.vn/no-lon-sap-nha-o-ha-noi-2578015.html",
+"summary": "Vụ nổ lớn xảy ra vào khoảng 8h sáng nay tại phố Nguyễn Văn Tuyết.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/no-lon-sap-nha-o-ha-noi-2262.jpg?width=0&s=2aQenL7_lg4sCb6W7gKE8w",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T09:12:46+07:00",
+"found": "2026-11-24T08:59:42+07:00"
+},
+{
+"id": "e9504ead9693",
+"title": "Những tổn thương thật từ bàn phím",
+"link": "https://thanhnien.vn/nhung-ton-thuong-that-tu-ban-phim-18526112319084793.htm",
+"summary": "Người trẻ hôm nay có thể kết nối với cả thế giới, tự do bày tỏ quan điểm và tham gia vào những cuộc thảo luận xã hội. Thế nhưng khi ranh giới giữa tranh luận và công kích ngày càng dễ bị xóa nhòa, không ít người lại biến bàn phím thành công cụ gây tổn thương.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-anh-4-17954354613791753479715-17954354844931211148482-73-0-1323-2000-crop-1795486326181702015233.jpeg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-24T09:12:00+07:00",
+"found": "2026-11-24T09:14:55+07:00"
+},
+{
+"id": "ab1c431ce7d7",
+"title": "Giá USD hôm nay 24.11.2026: Thế giới nhảy vọt, trong nước neo cao",
+"link": "https://thanhnien.vn/gia-usd-hom-nay-24112026-the-gioi-nhay-vot-trong-nuoc-neo-cao-185261124082227234.htm",
+"summary": "Giá USD thế giới tăng vọt và tỷ giá trung tâm trong nước cũng duy trì mức kỷ lục.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-ty-gia-usd-anh-ngoc-thang-1-72-17103241139801254796025-17954845143571012914024-53-0-1333-2048-crop-17954845196501847605986.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-24T09:03:00+07:00",
+"found": "2026-11-24T09:14:55+07:00"
+},
+{
+"id": "a227cea44541",
+"title": "Củng cố vị thế và niềm tin vào đồng Việt Nam",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGpCUGY1ME9aSHpZT2FZRDBxclRuV292bDJoSHpBOGY1SU1SckNqdC1hY3BEQmtNbmtUS2h6bTc1a0ZPWXM5T2p3WEpQLThwckFINGhEdHVWa1Fkdms1Rm9VRGVuVTM5MGVQWnNrLVN4VnNEeXYzc1FMeHdqTW1NZFFacw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T09:00:56+07:00",
+"found": "2026-11-24T09:14:55+07:00"
+},
+{
+"id": "641811601a27",
+"title": "Bất động sản kế cận Cầu Rồng: Giá trị từ tọa độ khó tìm tại Đà Nẵng",
+"link": "https://vietnamnet.vn/bat-dong-san-ke-can-cau-rong-gia-tri-tu-toa-do-kho-tim-tai-da-nang-2577835.html",
+"summary": "Quỹ đất ven sông Hàn ngày càng hạn chế, trong khi sức hút du lịch và dòng vốn đầu tư tiếp tục gia tăng, khiến những bất động sản sở hữu vị trí trung tâm như M Riverside Da Nang thu hút sự quan tâm của thị trường.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/bat-dong-san-ke-can-cau-rong-gia-tri-tu-toa-do-kho-tim-tai-da-nang-1450.png?width=0&s=ypOjQiPp6Vw9MXHdIJIYbA",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-24T09:00:00+07:00",
+"found": "2026-11-24T09:14:55+07:00"
+},
+{
+"id": "5bd6c79e8db2",
+"title": "Không gian sống xanh định hình xu hướng an cư tại phía tây Hà Nội",
+"link": "https://vietnamnet.vn/khong-gian-song-xanh-dinh-hinh-xu-huong-an-cu-tai-phia-tay-ha-noi-2577889.html",
+"summary": "Trước áp lực ô nhiễm không khí và mật độ đô thị tại Hà Nội, nhiều gia đình ưu tiên lựa chọn nơi an cư có tỷ lệ mảng xanh lớn ở phía tây Thủ đô, tiêu biểu như tòa căn hộ Moonlight 2 thuộc khu đô thị Anlac Green Symphony.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/khong-gian-song-xanh-dinh-hinh-xu-huong-an-cu-tai-phia-tay-ha-noi-1986.png?width=0&s=o_b71eW6smYZ7D_gTbTJIw",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-24T09:00:00+07:00",
+"found": "2026-11-24T09:14:55+07:00"
+},
+{
 "id": "ab32e2f4af4f",
 "title": "Tỷ giá USD hôm nay 24/11: USD trong nước đi ngang, DXY vượt 104 điểm sau dữ liệu PMI Mỹ",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdDdpVVFaZUJfRkZHdGtPRFFYV0dqMHl6WUtuVjZ1R2I2dzVJQVFvQjctcU9BV1F5bEdOVHFRZUZuOEl0ZkxINWdmZEZ6ekVWanI4bHBRa3o1NDhwU1dfSS1sQTJvTldKeVY0YlcwWFNnWHg1NGpqX0E1ZkNpUTNlbkxueG9ZejZaSE1sQnNBTElMMXRWREFrcGZLQnBxTlA4c1RMU0VSTUZzajVoX1F2T1ZYS2h2M09aZWc?oc=5",
@@ -221,17 +287,6 @@
 "source": "Báo Mới",
 "cat": "tc",
 "published": "2026-11-24T08:56:00+07:00",
-"found": "2026-11-24T08:59:42+07:00"
-},
-{
-"id": "95117b51c6bc",
-"title": "Nổ lớn, sập nhà ở Hà Nội",
-"link": "https://vietnamnet.vn/no-lon-sap-nha-o-ha-noi-2578015.html",
-"summary": "Vụ nổ lớn xảy ra vào khoảng 8h sáng nay tại phố Nguyễn Văn Tuyết.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/no-lon-sap-nha-o-ha-noi-2262.jpg?width=0&s=2aQenL7_lg4sCb6W7gKE8w",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T08:53:47+07:00",
 "found": "2026-11-24T08:59:42+07:00"
 },
 {
@@ -766,6 +821,17 @@
 "found": "2026-11-24T08:59:42+07:00"
 },
 {
+"id": "1ff6ea059f06",
+"title": "Bẫy quà hàng hiệu trong vụ sát hại nữ giáo viên yoga ở khách sạn 5 sao",
+"link": "https://vnexpress.net/bay-qua-hang-hieu-trong-vu-sat-hai-nu-giao-vien-yoga-o-khach-san-5-sao-5148180.html",
+"summary": "Aqua Chow Wai-yin nhận được ảnh túi xách Delvaux và khăn quàng Hermès từ bạn trai cũ, kèm lời hứa tặng quà trong lần gặp cuối, nhưng cuộc hẹn lại thành điểm kết thúc cuộc đời cô.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/1194371602704240640352810-1795-2901-7525-1795430017.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cEH3XLTJjJyxgN2ur3Jx8w",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T08:00:00+07:00",
+"found": "2026-11-24T09:14:55+07:00"
+},
+{
 "id": "d1d5239ae049",
 "title": "Thông tin quan trọng về quy hoạch TPHCM tầm nhìn 100 năm",
 "link": "https://cafef.vn/thong-tin-quan-trong-ve-quy-hoach-tphcm-tam-nhin-100-nam-188261124071314567.chn",
@@ -829,7 +895,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T07:50:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T08:44:31+07:00"
 },
 {
@@ -1239,7 +1305,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T07:10:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-24T07:34:10+07:00"
 },
 {
@@ -13988,6 +14054,17 @@
 "cat": "xh",
 "published": "2026-11-22T23:34:00+07:00",
 "found": "2026-11-23T00:28:12+07:00"
+},
+{
+"id": "3aabdde88c1f",
+"title": "Das Fan-Treffen „Proscutor's Proposal“ wurde als glanzlos kritisiert – ein Zeichen dafür, dass SikWoo sich als Paar trennen?",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWtQOEVkcm5FbFh2b3M1UURNSW5xWjdDVWMxR0IwLUw4dmh5QURvV1ZnSmt4NGY0MnlXcDBmNkhiUmxhaVNhWTdENTRPdVBURWtLYVVPMGVkSl9fOWF1dGJTM2lPUzc3WTExNl9IeXpMOGhqdWV0aWVxaV9Jdi1TQ29pRFdqRlAzdWdSZFlrRnVwTmh2Z21DbE9NczZSMGI0VjNvd2FYOUtKZw?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-22T23:33:10+07:00",
+"found": "2026-11-24T09:14:55+07:00"
 },
 {
 "id": "6a52c94d1fce",
@@ -28047,83 +28124,6 @@
 "cat": "xh",
 "published": "2026-11-21T10:01:00+07:00",
 "found": "2026-11-21T10:03:28+07:00"
-},
-{
-"id": "0d91362c3543",
-"title": "Chàng trai biến những cuộn len thành búp bê có giá gần 1 triệu đồng",
-"link": "https://thanhnien.vn/chang-trai-bien-nhung-cuon-len-thanh-bup-be-co-gia-gan-1-trieu-dong-185261120183416194.htm",
-"summary": "Từ những cuộn len nhiều màu sắc, Nguyễn Văn Nghĩa (28 tuổi, quê Đồng Tháp) tạo nên những con búp bê khoác áo dài, áo bà ba, và trang phục của các dân tộc Việt Nam. Những sản phẩm thủ công độc đáo này đang được rất nhiều khách hàng trẻ yêu thích và tìm mua.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/anh-6-17951742318591507633075-108-0-1708-2560-crop-17951742413451494499221.jpg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-21T10:00:00+07:00",
-"found": "2026-11-21T10:03:28+07:00"
-},
-{
-"id": "3eef17c552ce",
-"title": "Tài xế Green SM tăng thu nhập dịp cuối năm",
-"link": "https://vnexpress.net/tai-xe-green-sm-tang-thu-nhap-dip-cuoi-nam-5147346.html",
-"summary": "Một số tài xế Green SM ghi nhận lượng khách tăng sau khi hãng tung ưu đãi giảm giá cước, có thêm nguồn thu nhờ chính sách miễn phí nền tảng và hỗ trợ sạc.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/2-1795228624-8086-1795228686.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=c620idzd9r0lu_GVlzLV6Q",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-21T10:00:00+07:00",
-"found": "2026-11-21T10:18:39+07:00"
-},
-{
-"id": "b11a6c80da90",
-"title": "Một hòn đảo của Việt Nam được tạo nên từ những đợt phun trào núi lửa từ hàng triệu năm trước sắp được xây sân bay, cáp treo, tàu điện 76.600 tỷ đồng",
-"link": "https://kenh14.vn/mot-hon-dao-cua-viet-nam-duoc-tao-nen-tu-nhung-dot-phun-trao-nui-lua-tu-hang-trieu-nam-truoc-sap-duoc-xay-san-bay-cap-treo-tau-dien-76600-ty-dong-215261121092400799.chn",
-"summary": "Quảng Ngãi vừa ban hành kế hoạch phát triển đặc khu Lý Sơn thành trung tâm du lịch biển đảo, với tổng nhu cầu đầu tư hơn 76.656 tỷ đồng. Danh mục có sân bay 11.300 tỷ đồng, cáp treo nối đảo Lớn – đảo Bé và khu nghỉ dưỡng, thể thao golf Hòn Sỏi 20.000 tỷ đồng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795227748307-17952277489221476826290.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T09:59:00+07:00",
-"found": "2026-11-21T10:29:04+07:00"
-},
-{
-"id": "72bf1c5bac2a",
-"title": "Điểm tin xây dựng - bất động sản ngày 21/11: Quảng Ngãi đề xuất chuyển hơn 125 ha rừng làm khu đô thị",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQam9TN1d5aHItb2dtRjU0Uzd2RGZOVGtWc29Cbkh2ZFpWZERZcjZtbEp1ZFpPVWdCRzllS3kzcHRyVEhhTjZLZUZZcldNMlRYdzdNdFQzTDZpZGlNaXBYNXZNS1lRek5DS2lIdk1zZTJqUE5wdUZMdmMtTFBob3oxdllONkZDOEFCN3NmYjRWMlR2R1M1WGJyWjhBVFFpSnFSWW1PUTU2R1g5aEZIWTN0Snk1TzlqZmFMbmRvMVV1aE1kUXlGenVUMzJEMA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T09:59:00+07:00",
-"found": "2026-11-21T10:03:28+07:00"
-},
-{
-"id": "a7321bda0427",
-"title": "Ý tưởng chăm sóc vết thương của sinh viên Việt thắng giải cuộc thi khởi nghiệp tại Mỹ",
-"link": "https://tuoitre.vn/y-tuong-cham-soc-vet-thuong-cua-sinh-vien-viet-thang-giai-cuoc-thi-khoi-nghiep-tai-my-100261121093734311.htm",
-"summary": "Kết hợp curcumin từ nghệ, chiết xuất lá trầu không và trí tuệ nhân tạo (AI), dự án chăm sóc vết thương của nhóm sinh viên Trường đại học Lạc Hồng giành giải nhất cuộc thi VentureX Global Challenge 2026 tại Mỹ, nhận thưởng 4.000 USD.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/sv-lac-hong-1795228111178712065660-93-0-1613-2432-crop-1795228392344519098007.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-21T09:58:00+07:00",
-"found": "2026-11-21T10:18:39+07:00"
-},
-{
-"id": "ccfb91f3f497",
-"title": "Bộ Tư lệnh TP.HCM tổ chức hội thi tìm hiểu và tuyên truyền 'Ngày Văn hóa Việt Nam'",
-"link": "https://tuoitre.vn/bo-tu-lenh-tphcm-to-chuc-hoi-thi-tim-hieu-va-tuyen-truyen-ngay-van-hoa-viet-nam-100261121091536026.htm",
-"summary": "Sáng 21-11, Bộ Tư lệnh TP.HCM tổ chức hội thi tìm hiểu và tuyên truyền “Ngày Văn hóa Việt Nam” trong lực lượng vũ trang thành phố năm 2026, với chủ đề “Tự hào văn hóa Việt Nam”.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/qk7-edit-17952304184951911295335-298-683-1216-2152-crop-17952305308071463119534.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T09:58:00+07:00",
-"found": "2026-11-21T11:23:57+07:00"
-},
-{
-"id": "c65f9eeb6e9f",
-"title": "Giá vàng miếng xuống mức thấp nhất 15 tháng",
-"link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-21-11-5147347.html",
-"summary": "Theo đà giảm mạnh của giá thế giới, các thương hiệu sáng nay bán ra vàng miếng quanh 133,5 triệu đồng, mức thấp nhất tính từ tháng 9/2025.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/233A0822-1602-1795228698.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PHDslAM4Y3MJMY2kbj0XXA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-21T09:56:36+07:00",
-"found": "2026-11-21T10:18:39+07:00"
 }
 ]
 }
