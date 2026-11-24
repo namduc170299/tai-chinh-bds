@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T04:00:11+07:00",
-"new": 7,
+"updated": "2026-11-25T04:15:23+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 22
+"count": 48
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,41 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "86dad20cfc2c",
+"title": "Truy tìm trống đồng cổ sau hơn 30 năm mất dấu",
+"link": "https://vnexpress.net/truy-tim-trong-dong-co-sau-hon-30-nam-mat-dau-5148197.html",
+"summary": "Trống đồng cổ do ba đứa trẻ phát hiện năm 1994 ở Nho Quan đang được lưu giữ tại bảo tàng tỉnh, song quyền lợi người tìm thấy cổ vật chưa được giải quyết.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/trong-dong-1795432852-3511-1795433188.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uaqX-PeYxnQgurc1uP2Ajg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-25T04:00:00+07:00",
+"found": "2026-11-25T04:15:23+07:00"
+},
+{
+"id": "76749be0f7f9",
+"title": "nguyễn xuân son",
+"link": "https://vnexpress.net/ronaldo-vang-mat-xuan-son-duoc-de-cu-qua-bong-vang-chau-a-5148415.html",
+"summary": "Ronaldo vắng mặt, Xuân Son được đề cử 'Quả Bóng Vàng' châu Á (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQALN2USd0Ut1riikME58iPuETx2fz5FM6d8-x1R2tT9JSZ-1xO5LSplyVR9a8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T04:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-25T04:15:23+07:00"
+},
+{
+"id": "9f5cd2e00fd3",
+"title": "tiền",
+"link": "https://tuoitre.vn/bat-42-nguoi-trong-duong-day-rua-tien-danh-bac-gan-1300-tai-khoan-ngan-hang-nhan-hon-9000-ti-dong-100261123215058965.htm",
+"summary": "Bắt 42 người trong đường dây rửa tiền đánh bạc, gần 1.300 tài khoản ngân hàng nhận hơn 9.000 tỉ đồng (Báo Tuổi Trẻ)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7u2O4ICj04tJmTKZknjCtH1fVVbNdOLSP-ATiFZIhcJoh4kUkcLq9swqP0s",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T03:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T04:15:23+07:00"
+},
+{
 "id": "a66ffe8281cc",
 "title": "leipzig đấu với lens",
 "link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-leipzig-vs-lens-03h00-ngay-25-11-5297492611.html",
@@ -233,7 +268,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T03:30:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-25T04:00:11+07:00"
 },
 {
@@ -245,7 +280,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T03:30:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-25T04:00:11+07:00"
 },
 {
@@ -281,7 +316,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T02:50:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-25T03:11:27+07:00"
 },
 {
@@ -8398,18 +8433,6 @@
 "cat": "mxh",
 "published": "2026-11-24T06:20:00+07:00",
 "traffic": "500+",
-"found": "2026-11-24T06:46:52+07:00"
-},
-{
-"id": "b9c51675f6b8",
-"title": "nguyễn xuân son",
-"link": "https://www.24h.com.vn/bong-da/xuan-son-tranh-qua-bong-vang-chau-a-2026-c48a1813553.html",
-"summary": "Xuân Son tranh Quả bóng vàng châu Á 2026 (Tin tức 24h)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRb1-ya_X1WJUEBUlBnPuFvihujK3kVbEgbp2kkN_DFgx1arPuDy7KKUrT2N0Y",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T06:20:00+07:00",
-"traffic": "200+",
 "found": "2026-11-24T06:46:52+07:00"
 },
 {
@@ -28097,29 +28120,6 @@
 "source": "VnExpress",
 "cat": "xh",
 "published": "2026-11-22T00:00:00+07:00",
-"found": "2026-11-22T00:22:32+07:00"
-},
-{
-"id": "660670304ad5",
-"title": "13 ngày nghỉ lễ, Tết năm 2027",
-"link": "https://vnexpress.net/13-ngay-nghi-le-tet-nam-2027-5146995.html",
-"summary": "Năm 2027, người lao động có 13 ngày nghỉ lễ, Tết hưởng nguyên lương, chia thành 8 dịp, sau khi bổ sung Ngày Tổ quốc tri ân - Ngày Thương binh, liệt sĩ (27/7) và Ngày Văn hóa Việt Nam (24/11).",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/lich-nghi-le-2027-settop-02-1795148138.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y7rUucc5mdagPwTvoJGF3A",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-22T00:00:00+07:00",
-"found": "2026-11-22T00:22:32+07:00"
-},
-{
-"id": "a281ab2fc1dc",
-"title": "thứ hạng của bournemouth gặp nottingham forest",
-"link": "https://www.bbc.com/sport/football/live/cr5y18vyynlxt",
-"summary": "Bournemouth 2-0 Nottingham Forest: Evanilson scores again in Premier League win (BBC)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXFGc4kiRM0vMsgqwxL2EAilHlqBZpmBiEWiKJPF2Xj1Ly7shxoy-qbbyeC3s",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T00:00:00+07:00",
-"traffic": "5000+",
 "found": "2026-11-22T00:22:32+07:00"
 }
 ]
