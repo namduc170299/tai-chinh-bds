@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T15:01:52+07:00",
-"new": 21,
+"updated": "2026-11-24T15:17:23+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 20
+"count": 45
 },
 {
 "name": "Kenh14",
@@ -213,15 +213,59 @@
 "fix_kenh14_tz": true,
 "items": [
 {
-"id": "c5994381ea91",
-"title": "Thủ tướng yêu cầu khẩn trương khắc phục hậu quả vụ nổ ở phố Nguyễn Văn Tuyết",
-"link": "https://vietnamnet.vn/thu-tuong-yeu-cau-khac-phuc-hau-qua-vu-no-o-pho-nguyen-van-tuyet-2578136.html",
-"summary": "Phó Thủ tướng Thường trực Phạm Gia Túc vừa ký Công điện của Thủ tướng Chính phủ về vụ nổ cửa hàng ăn uống tại phố Nguyễn Văn Tuyết (phường Đống Đa, Hà Nội).",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/vu-no-o-nguyen-van-tuyet-5-5051.jpg?width=0&s=YdLkldigS7dML5r6kAsF3w",
+"id": "d59c92398a06",
+"title": "Ai sẽ là ngân hàng của năm 2026?",
+"link": "https://cafef.vn/ai-se-la-ngan-hang-cua-nam-2026-188261124150332039.chn",
+"summary": "Trong một năm mà nguồn vốn trở thành tâm điểm cạnh tranh, các ngân hàng Việt Nam đang cho thấy những cách thức rất khác nhau để duy trì đà tăng trưởng. Từ những thương vụ huy động vốn quốc tế, cuộc đua mở rộng hệ sinh thái đến sự thay đổi trong cách tiếp cận khách hàng, những…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/integrated-banking-innovation-landscape-1795506536414321552199-0-0-991-1586-crop-179550654332158057641.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-24T15:15:00+07:00",
+"found": "2026-11-24T15:17:23+07:00"
+},
+{
+"id": "dcbab211246b",
+"title": "Vụ nổ 6 người tử vong: Bí thư Hà Nội yêu cầu rà soát khu dân cư không đảm bảo an toàn",
+"link": "https://vietnamnet.vn/vu-no-o-pho-nguyen-van-tuyet-bi-thu-ha-noi-chi-dao-ra-soat-2578140.html",
+"summary": "Bí thư Thành ủy Hà Nội Trần Đức Thắng yêu cầu rà soát các khu dân cư, công trình không bảo đảm an toàn và lên phương án di dời người dân sau vụ nổ ở Nguyễn Văn Tuyết làm 6 người tử vong.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/vu-no-6-nguoi-tu-vong-bi-thu-ha-noi-yeu-cau-ra-soat-khu-dan-cu-khong-dam-bao-an-toan-5244.jpg?width=0&s=j1iVJfvp3Hoxtyi-feL0TA",
 "source": "VietnamNet",
 "cat": "xh",
-"published": "2026-11-24T15:00:30+07:00",
-"found": "2026-11-24T14:20:22+07:00"
+"published": "2026-11-24T15:12:04+07:00",
+"found": "2026-11-24T15:01:52+07:00"
+},
+{
+"id": "91bfe0e56de2",
+"title": "Vụ nổ 2 người tử vong tại Hà Nội: &apos;Sau tiếng nổ lớn, quầng sáng lóe lên, mọi thứ bị hất văng&apos;",
+"link": "https://vietnamnet.vn/vu-no-lon-tai-ha-noi-quang-loe-len-moi-thu-bi-hat-vang-2578063.html",
+"summary": "Sau vụ nổ xảy ra tại phố Nguyễn Văn Tuyết (phường Đống Đa, Hà Nội), nhiều người dân vẫn chưa hết bàng hoàng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/vu-no-ha-noi-img-8229-sao-chep-3249.jpg?width=0&s=uW_D9jZMQ-42S7AI60C7NA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T15:10:31+07:00",
+"found": "2026-11-24T10:25:40+07:00"
+},
+{
+"id": "9c68e927702e",
+"title": "Cận cảnh hiện trường ngổn ngang sau vụ nổ khiến 2 người tử vong ở phố Nguyễn Văn Tuyết",
+"link": "https://vietnamnet.vn/hien-truong-vu-no-lon-tren-pho-nguyen-van-tuyet-2578077.html",
+"summary": "Lực lượng công an đang phong toả hiện trường, thực hiện công tác cứu nạn cứu hộ và điều tra nguyên nhân vụ nổ lớn trên phố Nguyễn Văn Tuyết (phường Đống Đa).",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/can-canh-hien-truong-ngon-ngang-sau-vu-no-khien-2-nguoi-tu-vong-o-pho-nguyen-van-tuyet-3573.jpg?width=0&s=zLEu-3991YL2JS8Q54uSjw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T15:06:43+07:00",
+"found": "2026-11-24T10:49:14+07:00"
+},
+{
+"id": "65b7f6dfb265",
+"title": "Dùng điện chích cá, người đàn ông 36 tuổi ở TP.HCM bị điện giật tử vong",
+"link": "https://thanhnien.vn/dung-dien-chich-ca-nguoi-dan-ong-36-tuoi-o-tphcm-bi-dien-giat-tu-vong-18526112414540324.htm",
+"summary": "Người đàn ông 36 tuổi ở TP.HCM dùng điện chích cá và bị điện giật, được người thân đưa đi cấp cứu nhưng không qua khỏi dù đã được ê kíp 115 hồi sức tại chỗ.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/base64-17955066934472127073726-219-0-819-960-crop-1795506736936536555304.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T15:06:00+07:00",
+"found": "2026-11-24T15:17:23+07:00"
 },
 {
 "id": "82342b9cb8ae",
@@ -231,8 +275,30 @@
 "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/va-cham-voi-xe-tai-o-to-con-bien-dang-mot-phu-nu-tu-vong-tai-cho-5424.jpg?width=0&s=GcpI_r-Mhu9fmlhdESb23Q",
 "source": "VietnamNet",
 "cat": "xh",
-"published": "2026-11-24T15:00:22+07:00",
+"published": "2026-11-24T15:04:38+07:00",
 "found": "2026-11-24T15:01:52+07:00"
+},
+{
+"id": "ed3d896812be",
+"title": "Chủ tịch Hà Nội trực tiếp chỉ đạo cứu nạn vụ nổ sập nhà ở Nguyễn Văn Tuyết",
+"link": "https://vietnamnet.vn/vu-no-sap-nha-o-nguyen-van-tuyet-chu-tich-ha-noi-truc-tiep-chi-dao-cuu-nan-2578083.html",
+"summary": "Vụ nổ sập nhà ở Nguyễn Văn Tuyết (phường Đống Đa, Hà Nội) sáng 24/11 làm 2 người tử vong, 6 người bị thương. Chủ tịch UBND TP Hà Nội Vũ Đại Thắng đến hiện trường, trực tiếp chỉ đạo cứu nạn.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/chu-tich-ha-noi-truc-tiep-chi-dao-cuu-nan-vu-no-sap-nha-o-nguyen-van-tuyet-3643.jpg?width=0&s=BHQkXxP_0OgOhPZ-ZZWrcQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T15:04:25+07:00",
+"found": "2026-11-24T10:49:14+07:00"
+},
+{
+"id": "c5994381ea91",
+"title": "Thủ tướng yêu cầu khẩn trương khắc phục hậu quả vụ nổ ở phố Nguyễn Văn Tuyết",
+"link": "https://vietnamnet.vn/thu-tuong-yeu-cau-khac-phuc-hau-qua-vu-no-o-pho-nguyen-van-tuyet-2578136.html",
+"summary": "Phó Thủ tướng Thường trực Phạm Gia Túc vừa ký Công điện của Thủ tướng Chính phủ về vụ nổ cửa hàng ăn uống tại phố Nguyễn Văn Tuyết (phường Đống Đa, Hà Nội).",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/vu-no-o-nguyen-van-tuyet-5-5051.jpg?width=0&s=YdLkldigS7dML5r6kAsF3w",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T15:00:30+07:00",
+"found": "2026-11-24T14:20:22+07:00"
 },
 {
 "id": "95117b51c6bc",
@@ -246,48 +312,38 @@
 "found": "2026-11-24T08:59:42+07:00"
 },
 {
-"id": "9c68e927702e",
-"title": "Cận cảnh hiện trường ngổn ngang sau vụ nổ khiến 2 người tử vong ở phố Nguyễn Văn Tuyết",
-"link": "https://vietnamnet.vn/hien-truong-vu-no-lon-tren-pho-nguyen-van-tuyet-2578077.html",
-"summary": "Lực lượng công an đang phong toả hiện trường, thực hiện công tác cứu nạn cứu hộ và điều tra nguyên nhân vụ nổ lớn trên phố Nguyễn Văn Tuyết (phường Đống Đa).",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/can-canh-hien-truong-ngon-ngang-sau-vu-no-khien-2-nguoi-tu-vong-o-pho-nguyen-van-tuyet-3573.jpg?width=0&s=zLEu-3991YL2JS8Q54uSjw",
-"source": "VietnamNet",
+"id": "6fa73ca2ca0a",
+"title": "Không dự tiệc 20/11, giáo viên bị nêu tên công khai tại trường",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1pKVU5idENsMWNqNXpzaEljVks3WjJQcExLclFVZkU4dWY3MThPVGpfUERseEtCQlUtOV9SUDdITU9pTTFrU0l6MTVydWZ3M1pVbWJoeDBNUURsV3VIaXlRZ1Y1bFJjcVZ1d2dVLV80X2RIZm55dkpTOEZGQ2xWWDNfaUFFOEhBbWx1TjlyQTU2aUZJMmFncXlVdDducWMtTTJzOHFnbU1JUWxpb1pWbg?oc=5",
+"summary": "Nguồn: Tin tức 24h",
+"image": "",
+"source": "Google News",
 "cat": "xh",
-"published": "2026-11-24T14:59:20+07:00",
-"found": "2026-11-24T10:49:14+07:00"
+"published": "2026-11-24T15:00:00+07:00",
+"found": "2026-11-24T15:17:23+07:00"
 },
 {
-"id": "91bfe0e56de2",
-"title": "Vụ nổ 2 người tử vong tại Hà Nội: &apos;Sau tiếng nổ lớn, quầng sáng lóe lên, mọi thứ bị hất văng&apos;",
-"link": "https://vietnamnet.vn/vu-no-lon-tai-ha-noi-quang-loe-len-moi-thu-bi-hat-vang-2578063.html",
-"summary": "Sau vụ nổ xảy ra tại phố Nguyễn Văn Tuyết (phường Đống Đa, Hà Nội), nhiều người dân vẫn chưa hết bàng hoàng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/vu-no-ha-noi-img-8229-sao-chep-3249.jpg?width=0&s=uW_D9jZMQ-42S7AI60C7NA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T14:58:33+07:00",
-"found": "2026-11-24T10:25:40+07:00"
+"id": "02559dbab0bf",
+"title": "covid 19",
+"link": "https://laodong.vn/the-gioi/phat-hien-bien-the-covid-19-moi-co-kha-nang-xam-nhap-te-bao-vuot-troi-lay-lan-nhanh-1804856.ldo",
+"summary": "Phát hiện biến thể COVID-19 mới có khả năng xâm nhập tế bào vượt trội, lây lan nhanh (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRxW5TG7PAvA21iW2g7LvcFFBsYs7NptPHYo-AKaOK_Vsz5tccLUzD35KCsnY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T15:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T15:17:23+07:00"
 },
 {
-"id": "ed3d896812be",
-"title": "Chủ tịch Hà Nội trực tiếp chỉ đạo cứu nạn vụ nổ sập nhà ở Nguyễn Văn Tuyết",
-"link": "https://vietnamnet.vn/vu-no-sap-nha-o-nguyen-van-tuyet-chu-tich-ha-noi-truc-tiep-chi-dao-cuu-nan-2578083.html",
-"summary": "Vụ nổ sập nhà ở Nguyễn Văn Tuyết (phường Đống Đa, Hà Nội) sáng 24/11 làm 2 người tử vong, 6 người bị thương. Chủ tịch UBND TP Hà Nội Vũ Đại Thắng đến hiện trường, trực tiếp chỉ đạo cứu nạn.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/chu-tich-ha-noi-truc-tiep-chi-dao-cuu-nan-vu-no-sap-nha-o-nguyen-van-tuyet-3643.jpg?width=0&s=BHQkXxP_0OgOhPZ-ZZWrcQ",
-"source": "VietnamNet",
+"id": "d8574237021a",
+"title": "Phó Thủ tướng yêu cầu điều tra, làm rõ trách nhiệm vụ nổ ở phố Nguyễn Văn Tuyết",
+"link": "https://kenh14.vn/pho-thu-tuong-yeu-cau-dieu-tra-lam-ro-trach-nhiem-vu-no-o-pho-nguyen-van-tuyet-215261124140603517.chn",
+"summary": "Phó Thủ tướng Thường trực yêu cầu khẩn trương điều tra nguyên nhân, làm rõ trách nhiệm của các tổ chức, cá nhân liên quan vụ nổ khiến 14 người thương vong.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795503876556-1795503877393594356343.jpg",
+"source": "Kenh14",
 "cat": "xh",
-"published": "2026-11-24T14:57:07+07:00",
-"found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "dcbab211246b",
-"title": "Vụ nổ 6 người tử vong: Bí thư Hà Nội yêu cầu rà soát khu dân cư không đảm bảo an toàn",
-"link": "https://vietnamnet.vn/vu-no-o-pho-nguyen-van-tuyet-bi-thu-ha-noi-chi-dao-ra-soat-2578140.html",
-"summary": "Bí thư Thành ủy Hà Nội Trần Đức Thắng yêu cầu rà soát các khu dân cư, công trình không bảo đảm an toàn và lên phương án di dời người dân sau vụ nổ ở Nguyễn Văn Tuyết làm 6 người tử vong.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/vu-no-6-nguoi-tu-vong-bi-thu-ha-noi-yeu-cau-ra-soat-khu-dan-cu-khong-dam-bao-an-toan-5244.jpg?width=0&s=j1iVJfvp3Hoxtyi-feL0TA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T14:56:45+07:00",
-"found": "2026-11-24T15:01:52+07:00"
+"published": "2026-11-24T14:58:00+07:00",
+"found": "2026-11-24T15:17:23+07:00"
 },
 {
 "id": "140dc3279642",
@@ -299,6 +355,17 @@
 "cat": "bds",
 "published": "2026-11-24T14:56:00+07:00",
 "found": "2026-11-24T15:01:52+07:00"
+},
+{
+"id": "b536d68c49e3",
+"title": "Việt Nam cần gần 1.000 tỷ USD phát triển ngành điện đến năm 2050",
+"link": "https://dantri.com.vn/kinh-doanh/viet-nam-can-gan-1000-ty-usd-phat-trien-nganh-dien-den-nam-2050-20261124143505254.htm",
+"summary": "(Dân trí) - Đề án điều chỉnh Quy hoạch điện 8 ước tính Việt Nam cần 943 tỷ USD phát triển nguồn và lưới điện giai đoạn 2026-2050, trong đó điện gió ngoài khơi, điện hạt nhân cần vốn lớn nhất.",
+"image": "https://cdnphoto.dantri.com.vn/zhy5uWeoJfTyaXcZQdlBaAp2sBg=/2026/09/10/evn-ha-dongthanh-dong-11-cropped-1779819456925-1789016611097.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-24T14:47:00+07:00",
+"found": "2026-11-24T15:17:23+07:00"
 },
 {
 "id": "49ee8e0d4852",
@@ -378,6 +445,17 @@
 "found": "2026-11-24T15:01:52+07:00"
 },
 {
+"id": "eaede48f4497",
+"title": "Giá vàng hôm nay (chiều 24-11): Vàng miếng đi ngang",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFlMNUNVTWxnZzlnTWJLTWpwVjJXQU90WVMxTmw3ellJbHhFU1VqNWZyV1lMbnM1RFFkcDVxSy1uV0RoNDN1MnY3WGpyT0JMVkhJS1FhTWtkYlNRWFJMTnFGZWxkS3JyWkREbkxMc1ZBUmEwdEVoZm9scVJnblFMVkcwZDVtT2xv?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T14:35:00+07:00",
+"found": "2026-11-24T15:17:23+07:00"
+},
+{
 "id": "2c801ce17f2d",
 "title": "Truy tặng Huân chương Dũng cảm cho 2 người tử vong khi cứu người đuối nước",
 "link": "https://thanhnien.vn/truy-tang-huan-chuong-dung-cam-cho-2-nguoi-tu-vong-khi-cuu-nguoi-duoi-nuoc-185261124132614898.htm",
@@ -398,6 +476,17 @@
 "cat": "tc",
 "published": "2026-11-24T14:30:00+07:00",
 "found": "2026-11-24T15:01:52+07:00"
+},
+{
+"id": "5dfe9513106a",
+"title": "Công ty 1 Anh Trai Chông Gai vừa lên tiếng xin lỗi, người hâm mộ bức xúc với “cả sớ” vấn đề",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb2RQR21XSVhUcHZhUm1NTTgtczBBSU4zOWxoQmZVX0E2bEF2aEdoaTItYm1hUEVYX3gxaGJvaUpIaEZKUlExZ0pFSUVjdzVSVHotTGF1U18wR2dENlhJVVlpeHhXNG9sd2g4cHlaT1FYZ05SUGNfNU1jRkM1cEx5cGdCaXVPenIwd1RZQkEwajh5cjVBWHE3bXVSNWdiWWdLaDRsUlpSY3lidGUwSzRNQ3lwUzlyWTBLT0s5SXB1d1FHWHZTLTh6SQ?oc=5",
+"summary": "Nguồn: Kenh14.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T14:30:00+07:00",
+"found": "2026-11-24T15:17:23+07:00"
 },
 {
 "id": "5882f818e9a2",
@@ -430,7 +519,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T14:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-24T15:01:52+07:00"
 },
 {
@@ -489,6 +578,17 @@
 "found": "2026-11-24T14:20:22+07:00"
 },
 {
+"id": "4867a60953b5",
+"title": "Kỹ sư 9x bỏ phố về quê khởi nghiệp, doanh thu tiền tỉ nhờ món truyền thống",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX2NzVVRWS25FRDRmc2VqZXlGYnIxSnZIZ3FIMlAwY2NZOGY1SGstY0JzMU1oeVNVMWo0Q2tzMnlXbnVicjItVjVfUnQ4UG9ONGV5bU5UQU84akgxazhmcnZIM1VUMUFjNklVbU9sV01EQ29leWE3czBDeUc0Skg5NmQ2dFgwX3JOcDNNanBXazBNam5TQVlpU2hOT0hydFh1UGltbmpjZVZ3Zw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T14:03:00+07:00",
+"found": "2026-11-24T15:17:23+07:00"
+},
+{
 "id": "e60488cc8bd6",
 "title": "Bạn trẻ tiếc nuối vì phà Bình Quới dừng hoạt động từ 29.11",
 "link": "https://thanhnien.vn/ban-tre-tiec-nuoi-vi-pha-binh-quoi-dung-hoat-dong-tu-2911-18526112412012517.htm",
@@ -508,7 +608,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T14:00:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-24T14:20:22+07:00"
 },
 {
@@ -1043,17 +1143,6 @@
 "found": "2026-11-24T14:20:22+07:00"
 },
 {
-"id": "a2203dc9177d",
-"title": "Công ty 1 Anh Trai Chông Gai vừa lên tiếng xin lỗi, người hâm mộ bức xúc với “cả sớ” vấn đề",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbE1nS0ZZNEZMOHhkcHBFM1BTQjJmQ3NvaEduUkJOdjY2alVyMjB4RUZXVG1ndXpjNVN4enlfQktISlN6ZDJCa1MwUU9IS2t1Y21qM3VUcE9RbjNIak13WWVkNEUzbU1rdzkySENJWG9hZFlkZG1vdWhwaF84dzNQWDdtbjRXbi1kN3VPQ2V5cGU3MlZ6MmxTNHMwaGcyV29ROUN0cjlKUHd3emlDb19CenRQb0NvYi0wMmRDRlJSdnJWRUk?oc=5",
-"summary": "Nguồn: Phụ nữ Mới",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-24T12:31:00+07:00",
-"found": "2026-11-24T13:09:54+07:00"
-},
-{
 "id": "809f441310eb",
 "title": "tử vi hôm nay",
 "link": "https://www.24h.com.vn/ban-tre-cuoc-song/tu-vi-12-con-giap-hom-nay-24-11-suu-binh-on-tuat-tien-bac-doi-dao-c64a1813566.html",
@@ -1062,7 +1151,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T12:30:00+07:00",
-"traffic": "2000+",
+"traffic": "1000+",
 "found": "2026-11-24T12:54:43+07:00"
 },
 {
@@ -4309,6 +4398,17 @@
 "found": "2026-11-24T07:49:19+07:00"
 },
 {
+"id": "1d2a758aad6c",
+"title": "Toản bức xúc trước sự hỗn láo của em gái Bình | Căn nhà không mái che | Tập 18",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1uOTNSNzhkWERybkp0Rm9XTHl0dnh3UHhBbE5VT0MyUkcyQnI3RzNyMHdPdWdhcV9Bal9PMW95Z1I?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T07:00:00+07:00",
+"found": "2026-11-21T10:18:39+07:00"
+},
+{
 "id": "eec940d77486",
 "title": "Rao bán chung cư rẻ hơn cả tỷ đồng, chiêu trò khiến chủ nhà mắc bẫy",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSU5obkhKU3l1Q3ZXXzMxblZVbl8yd2x4cWxFeUJqV0lNLV8zRlZpQVFIYUZqQThNb0hRLVc1SURpRUU0VUVNNGQtd2ROWV9xY1RaRVRmQjI4VWJoQW5lOUl0Z1pvM0pGTnU3d3VtbmJIMXdIN0UzVmlXeGtVTlFlTnRzTm5LRFlwdmdrLS1jcW9fYTlVVHVsX1JMWXM3aHRN?oc=5",
@@ -6753,18 +6853,6 @@
 "found": "2026-11-23T21:17:24+07:00"
 },
 {
-"id": "591042b58876",
-"title": "covid 19",
-"link": "https://laodong.vn/the-gioi/phat-hien-bien-the-covid-19-moi-co-kha-nang-xam-nhap-te-bao-vuot-troi-lay-lan-nhanh-1804856.ldo",
-"summary": "Phát hiện biến thể COVID-19 mới có khả năng xâm nhập tế bào vượt trội, lây lan nhanh (Laodong.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRxW5TG7PAvA21iW2g7LvcFFBsYs7NptPHYo-AKaOK_Vsz5tccLUzD35KCsnY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T20:50:00+07:00",
-"traffic": "100+",
-"found": "2026-11-23T21:17:24+07:00"
-},
-{
 "id": "96f0cc64b118",
 "title": "căn nhà không mái che tập 19",
 "link": "https://vietnamnet.vn/can-nha-khong-mai-che-tap-19-toan-chuc-hanh-tim-duoc-cho-dua-2577617.html",
@@ -9009,6 +9097,17 @@
 "cat": "xh",
 "published": "2026-11-23T17:04:00+07:00",
 "found": "2026-11-23T17:11:27+07:00"
+},
+{
+"id": "1b60d9087ff8",
+"title": "Ý nghĩa ảnh chú mèo \"xấu xí\" tràn ngập trên mạng xã hội những ngày qua",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUG84dS02enNvdzRMbm1tNTZxRkVXMEZObl9JVDd2Wm5XOXE0MHN5VU9YdUdkX1hkYS1lMUltbFBOVjhSNnliUm9YOHUxNlg1TzlfMUpHNjlNWkxmcXpkYmN2ak9rQjdUX1c0dlVIcE1YSWlhZlpZcjJGQmVBd3JBRjlEQTQ1V29TaUdUclE5VVl4SEZLeXc?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T17:01:11+07:00",
+"found": "2026-11-24T15:17:23+07:00"
 },
 {
 "id": "1cd4127e3714",
@@ -12046,6 +12145,17 @@
 "cat": "tc",
 "published": "2026-11-23T12:26:00+07:00",
 "found": "2026-11-23T12:45:16+07:00"
+},
+{
+"id": "78f610dac067",
+"title": "Hà Nội có Xôi Yến thì Sài Gòn có Xôi Mềm: Giá cao chót vót, chờ đợi mỏi mòn",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzh2WGhEbm01RWNTczFhLW43MzFJWDZQbGFHRFlUaHprOXVudUpVX3VaUDFvMnM0YzhtR2t5NnB4OUh0T2NTSjJJNDhrWng2UUphRGFVYl9UN1k5MUZXSHE0LWFQWXBMTVl2RUs0NklVLUhXbXJOcTJycnYydVJqLTE3ZHR0c0lWeTJOYUlfMS0xWTYzMFV1eEREc2pkRFJ1WGZHUmpTWXY0X3hUZ1FPaGxBcw?oc=5",
+"summary": "Nguồn: CafeF",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T12:25:00+07:00",
+"found": "2026-11-24T15:17:23+07:00"
 },
 {
 "id": "941756ab1bb2",
@@ -15485,17 +15595,6 @@
 "found": "2026-11-23T07:53:21+07:00"
 },
 {
-"id": "1d2a758aad6c",
-"title": "Toản bức xúc trước sự hỗn láo của em gái Bình | Căn nhà không mái che | Tập 18",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1uOTNSNzhkWERybkp0Rm9XTHl0dnh3UHhBbE5VT0MyUkcyQnI3RzNyMHdPdWdhcV9Bal9PMW95Z1I?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-21T10:18:39+07:00"
-},
-{
 "id": "d0a5132b652f",
 "title": "Hàng nghìn người chiêm bái hộp đựng xá lị hơn 1.000 năm",
 "link": "https://vnexpress.net/hang-nghin-nguoi-chiem-bai-hop-dung-xa-li-hon-1-000-nam-5147617.html",
@@ -15549,6 +15648,28 @@
 "cat": "xh",
 "published": "2026-11-23T07:00:00+07:00",
 "found": "2026-11-24T09:40:07+07:00"
+},
+{
+"id": "80eafd9942db",
+"title": "Xem lại bộ phim \"Bí thư Tỉnh ủy\" trên VTV2 và VTVgo",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9iNkhiT0w1X3E0VjlWYkEzMHFvcjhHcGcxRHJ3b0lUSEtEaHhkZlphYU9la0g0NEJmbzVOTEdXOEQ?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T07:00:00+07:00",
+"found": "2026-11-20T03:47:43+07:00"
+},
+{
+"id": "e04bfb81a0f7",
+"title": "Preview phim Vui lên nào anh em ơi - Tập 8 | Quý nhân của Tiến - Hưng - Thắng xuất hiện",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE05YWo0dVo2VEVIWlZHS2d3MzJZN0tWZU05WTNScHE5VElyR1pYNWhmT0JSQldoeXVLc0IzdG54T3o?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T07:00:00+07:00",
+"found": "2026-11-24T15:17:23+07:00"
 },
 {
 "id": "5057cbfc575a",
@@ -22996,17 +23117,6 @@
 "found": "2026-11-22T10:30:20+07:00"
 },
 {
-"id": "80eafd9942db",
-"title": "Xem lại bộ phim \"Bí thư Tỉnh ủy\" trên VTV2 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9iNkhiT0w1X3E0VjlWYkEzMHFvcjhHcGcxRHJ3b0lUSEtEaHhkZlphYU9la0g0NEJmbzVOTEdXOEQ?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-22T07:00:00+07:00",
-"found": "2026-11-20T03:47:43+07:00"
-},
-{
 "id": "3834932826c4",
 "title": "Điểm nhấn cuối tuần | Thời gian ơi! Kể chuyện | VTV3 và VTVgo",
 "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aaTNRY0t4ajFlenZUemhRUE9EVkFRWldkVVVQZDJseEZvM1J3WXFmbVRUenUxUlFkRVQ4X0pKcmhOMURjNTF4ZA?oc=5",
@@ -28016,116 +28126,6 @@
 "cat": "bds",
 "published": "2026-11-21T13:48:00+07:00",
 "found": "2026-11-21T14:06:13+07:00"
-},
-{
-"id": "52f5d030d4af",
-"title": "Phát hiện nhiều hài cốt liệt sĩ tại khu vực Gò Mồ ở Quảng Ngãi",
-"link": "https://kenh14.vn/phat-hien-nhieu-hai-cot-liet-si-tai-khu-vuc-go-mo-o-quang-ngai-215261121092141735.chn",
-"summary": "Từ thông tin người dân cung cấp về khu vực nghi có mộ tập thể, lực lượng chức năng tỉnh Quảng Ngãi tổ chức tìm kiếm và phát hiện nhiều hài cốt tại Gò Mồ (xã Bình Chương).",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795227687538-17952276882491089597705.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T13:42:00+07:00",
-"found": "2026-11-21T14:06:13+07:00"
-},
-{
-"id": "6eceeb7374ab",
-"title": "Chào mừng Ngày Văn hoá Việt Nam: Nhiều chương trình văn hoá nghệ thuật đặc sắc phục vụ miễn phí du khách",
-"link": "https://kenh14.vn/chao-mung-ngay-van-hoa-viet-nam-nhieu-chuong-trinh-van-hoa-nghe-thuat-dac-sac-phuc-vu-mien-phi-du-khach-215261121122955467.chn",
-"summary": "Chào mừng Ngày Văn hóa Việt Nam (24-11), trong hai ngày 21 và 22-11, khu vực hồ Hoàn Kiếm và phụ cận sẽ diễn ra chuỗi hoạt động văn hóa, nghệ thuật, trình diễn di sản, trải nghiệm làng nghề và công nghệ ánh sáng đặc sắc.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795238967837-1795238968441956043852.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T13:41:00+07:00",
-"found": "2026-11-21T14:06:13+07:00"
-},
-{
-"id": "4fa3a34a01f7",
-"title": "Nhà lưu trú công nhân ở Lâm Đồng cho thuê tối đa 113.100 đồng mỗi m2",
-"link": "https://vnexpress.net/nha-luu-tru-cong-nhan-o-lam-dong-cho-thue-toi-da-113-100-dong-moi-m2-5147394.html",
-"summary": "Giá thuê nhà lưu trú công nhân trong các khu công nghiệp ở Lâm Đồng dao động 36.700-113.100 đồng mỗi m2 một tháng, tùy chiều cao công trình và số tầng hầm, áp dụng từ tháng 12.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/mot-khu-nha-o-xa-hoi-o-lam-don-7723-8498-1795236852.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6_IPZJ1wPsdD6O39mn_o-A",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-21T13:40:33+07:00",
-"found": "2026-11-21T13:50:46+07:00"
-},
-{
-"id": "ae10f85682f0",
-"title": "Giá chung cư Hà Nội hạ nhiệt, người mua bắt đầu 'xuống tiền'",
-"link": "https://cafef.vn/gia-chung-cu-ha-noi-ha-nhiet-nguoi-mua-bat-dau-xuong-tien-188261121124456796.chn",
-"summary": "Sau giai đoạn tăng nóng, giá bán căn hộ chung cư Hà Nội đang có xu hướng điều chỉnh giảm, trong khi giao dịch trên thị trường thứ cấp bắt đầu phục hồi sau nhiều tháng trầm lắng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/17952398610471681194410-0-0-335-536-crop-1795239867322814088072.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T13:40:00+07:00",
-"found": "2026-11-21T13:50:46+07:00"
-},
-{
-"id": "9b954bf7608f",
-"title": "Dấu ấn kinh tế thế giới tuần 15-21/11/2026: Cuộc gặp thượng đỉnh lịch sử, bán tháo cổ phiếu AI sau IPO của Anthropic, cú giảm chóng mặt của giá vàng",
-"link": "https://vneconomy.vn/dau-an-kinh-te-the-gioi-tuan-15-21112026-cuoc-gap-thuong-dinh-lich-su-ban-thao-co-phieu-ai-sau-ipo-cua-anthropic-cu-giam-chong-mat-cua-gia-vang.htm",
-"summary": "Tuần này chứng kiến cuộc gặp thượng đỉnh ba bên của của lãnh đạo Mỹ, Trung Quốc và Nga lần đầu tiên trong lịch sử và cuộc gặp thượng đỉnh Mỹ - Trung thứ ba trong năm nay...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/21/1e45f491a8224ed2ac69ce263c00ac4e-137491.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-21T13:39:59+07:00",
-"found": "2026-11-21T12:10:20+07:00"
-},
-{
-"id": "f8f209794b55",
-"title": "Cổ đông ABBank sắp được quyền mua thêm 50% và nhận cổ phiếu thưởng 12%",
-"link": "https://vneconomy.vn/co-dong-abbank-sap-duoc-quyen-mua-them-50-va-nhan-co-phieu-thuong-12.htm",
-"summary": "Ủy ban Chứng khoán Nhà nước (UBCKNN) vừa cấp Giấy chứng nhận đăng ký chào bán thêm cổ phiếu ra công chúng cho cổ đông hiện hữu của ABBank với tỷ lệ thực hiện quyền 50%. Cùng ngày, UBCKNN cũng có văn bản xác nhận đã nhận đủ tài liệu báo cáo phát hành cổ phiếu tăng vốn từ nguồn…",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/21/7fbb0487bd6446c298559cdabb9cffc2-137532.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-21T13:38:09+07:00",
-"found": "2026-11-21T13:50:46+07:00"
-},
-{
-"id": "aa867bcc9a2e",
-"title": "TP.HCM thu hồi đất cải tạo toàn tuyến kênh Hàng Bàng",
-"link": "https://thanhnien.vn/tphcm-thu-hoi-dat-cai-tao-toan-tuyen-kenh-hang-bang-185261121125802824.htm",
-"summary": "TP.HCM chuẩn bị thu hồi đất thực hiện đoạn kênh Hàng Bàng từ đường Bình Tiên đến Phạm Đình Hổ, nối thông toàn tuyến từ kênh Tân Hóa - Lò Gốm ra đến kênh Tàu Hủ.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-kenh-hang-bang-nguyen-vu-17952403654681552572380-0-0-1600-2560-crop-17952408619691177519409-17952408803711256618453.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T13:38:00+07:00",
-"found": "2026-11-21T13:50:46+07:00"
-},
-{
-"id": "7ab0e0cac607",
-"title": "DNSE và Dragon Capital đưa góc nhìn nâng tầm năng lực đầu tư và phân bổ tài sản tại DNSE Future Tech Summit",
-"link": "https://vneconomy.vn/dnse-va-dragon-capital-dua-goc-nhin-nang-tam-nang-luc-dau-tu-va-phan-bo-tai-san-tai-dnse-future-tech-summit.htm",
-"summary": "Ngày 20/11, sự kiện công nghệ thường niên DNSE Future Tech Summit 2026 đã diễn ra tại TP. Hồ Chí Minh, quy tụ hơn 500 nhà đầu tư cùng các chuyên gia tài chính, đầu tư và công nghệ, tập trung vào xu hướng ứng dụng AI tối ưu chiến lược đầu tư và phương pháp phân bổ tài sản theo…",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/21/a8e3b47a699b49198c33ae6345afd712-137525.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-21T13:37:55+07:00",
-"found": "2026-11-21T13:50:46+07:00"
-},
-{
-"id": "6169b9f0b617",
-"title": "THACO huy động 3.000 tỷ đồng trái phiếu, dùng cổ phần Đại Quang Minh và “đất vàng” Thủ Thiêm bảo đảm",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUo3RXJhRG84dHR6VWo0M3JYOFdtZ2RYY05RUlpNbUs1ZEY4QWpLeGNreGRuMlF4N1VCU190Q2lfbHladE1jSTlMU2EzVG1YT3pSOEVDQldQTHR6SkVaLTcyUVRfRmZXVkgxdjd0NC1OOVR1X015ZXltcUkydXNjN2xia0wtZWJkTXNOR3VwU1V3cU16TGZtMDZkMWtFd1dXWUlqQjJrRlpGSU5NY0wyQ21nVjVmN0lPWGQwYzdEOWUxSnZaWjE1Nkh3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T13:37:00+07:00",
-"found": "2026-11-21T13:50:46+07:00"
-},
-{
-"id": "18f06a26cfa2",
-"title": "Giá chung cư Hà Nội hạ nhiệt, người mua bắt đầu 'xuống tiền'",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzEtbUhVb2szeVY2MTlRLTRHSHZsUlhIRGhFWVd3YjhyTnM3dGdJeG5qbDBVSW9sQzJEX21iZG9xSWp5Z3FOMl9IZUo1LURWdWM2aGlEYjN4ek4wSTdSeTdfbHdxSHpDeWp5YnNJU2hXb0ItS0xQREJtQ2xMelIzWXRqcmgtS2dWbWpHN2NOZHN1eGFG?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T13:36:00+07:00",
-"found": "2026-11-21T13:50:46+07:00"
 }
 ]
 }
