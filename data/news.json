@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T06:32:07+07:00",
-"new": 10,
+"updated": "2026-11-25T06:47:38+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 50
+"count": 22
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "0ab4374603da",
+"title": "Tỷ giá USD hôm nay (25-11): Đồng USD quay đầu giảm",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVBfQnJoZTB1aW1ReERnUWk1MUljeFJVX0VCaE9rbHR2eWpibkVRQUNQMlJmbVZkd05ha01Rb2FnUVpWMTdtdXpzQjR6UDAzWm5LUFI1WGRISnBQbEZ4azlybzlxbU9fMkVQQzh2QUVySUhvMWJscEFYYm1ESGlEbFVuQVdjbEk?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T06:37:00+07:00",
+"found": "2026-11-25T06:47:38+07:00"
+},
+{
+"id": "a702133d96fb",
+"title": "Sang năm 2027, quy định về Sổ đỏ có loạt thay đổi lớn: Toàn bộ người dân lưu ý!",
+"link": "https://kenh14.vn/sang-nam-2027-quy-dinh-ve-so-do-co-loat-thay-doi-lon-toan-bo-nguoi-dan-luu-y-215261125062722621.chn",
+"summary": "Với đa số đại biểu có mặt tán thành, Quốc hội đã thông qua Luật Đất đai (sửa đổi), với nhiều quy định mới liên quan đến cấp sổ đỏ vào ngày 21/11.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795562782802-17955627832261543158099.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T06:34:00+07:00",
+"found": "2026-11-25T06:47:38+07:00"
+},
+{
+"id": "306ca366639e",
+"title": "Chuyên gia nói gì về việc dùng vàng làm quỹ dự phòng khẩn cấp?",
+"link": "https://dantri.com.vn/kinh-doanh/chuyen-gia-noi-gi-ve-viec-dung-vang-lam-quy-du-phong-khan-cap-20261124195757775.htm",
+"summary": "(Dân trí) - Nhiều người chuộng tích vàng để phòng thân, nhưng kim loại quý này có thể khiến gia chủ hao hụt khoản tiền đáng kể nếu chẳng may phải bán gấp đúng lúc thị trường lao dốc.",
+"image": "https://cdnphoto.dantri.com.vn/q80dX4RJPVyCS4M6lBh0F5VyC9I=/2026/10/23/gold-1792751307890.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-25T06:33:00+07:00",
+"found": "2026-11-25T06:32:07+07:00"
+},
+{
 "id": "54c568f7d76c",
 "title": "Khu bảo tồn voi duy nhất Việt Nam: Giữ mái nhà cho voi",
 "link": "https://thanhnien.vn/khu-bao-ton-voi-duy-nhat-viet-nam-giu-mai-nha-cho-voi-185261124164558519.htm",
@@ -224,6 +257,30 @@
 "found": "2026-11-25T06:32:07+07:00"
 },
 {
+"id": "0a86d1deeb65",
+"title": "giải bóng đá nữ vô địch thế giới",
+"link": "https://www.24h.com.vn/bong-da/xac-dinh-chu-nha-ky-world-cup-nu-lich-su-dt-nu-viet-nam-don-tin-vui-c48a1813793.html",
+"summary": "Xác định chủ nhà kỳ World Cup nữ lịch sử, ĐT nữ Việt Nam đón tin vui (Tin tức 24h)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQv1iU0ockqLUoHRKhcfHGW67FFlwdZLW44V7lf4KXobqxMIGFVyQIo3Sl2r0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T06:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T06:47:38+07:00"
+},
+{
+"id": "4dec7aa0357c",
+"title": "câu lạc bộ bóng đá inter miami",
+"link": "https://laodong.vn/bong-da-quoc-te/van-de-cua-inter-miami-va-messi-1805855.ldo",
+"summary": "Vấn đề của Inter Miami và Messi (Laodong.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKTmaDOL40CW7wOjCW5-LnXdyryC3VsVfBphM-WGQfl0KViE-cRPjuRT6aKFA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T06:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T06:47:38+07:00"
+},
+{
 "id": "a8a96adb6483",
 "title": "Ma trận 'xuân dược': Từ chợ online đến quầy thuốc tây",
 "link": "https://thanhnien.vn/ma-tran-xuan-duoc-tu-cho-online-den-quay-thuoc-tay-185261124182212611.htm",
@@ -233,6 +290,17 @@
 "cat": "xh",
 "published": "2026-11-25T06:27:00+07:00",
 "found": "2026-11-25T06:32:07+07:00"
+},
+{
+"id": "10857cdff3f8",
+"title": "Đang lái ô tô qua rừng, tài xế bất ngờ bị sinh vật quý hiếm lao xuống đường đuổi theo, kiểm lâm vào cuộc",
+"link": "https://kenh14.vn/dang-lai-o-to-qua-rung-tai-xe-bat-ngo-bi-sinh-vat-quy-hiem-lao-xuong-duong-duoi-theo-kiem-lam-vao-cuoc-215261124222036207.chn",
+"summary": "Đang di chuyển trên đường Hồ Chí Minh, một tài xế bất ngờ bị sinh vật quý hiếm đuổi theo, thậm chí tìm cách bám lên xe.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795533521360-17955335218262083131915.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T06:26:00+07:00",
+"found": "2026-11-25T06:47:38+07:00"
 },
 {
 "id": "b46dc9cc5201",
@@ -255,6 +323,18 @@
 "cat": "bds",
 "published": "2026-11-25T06:21:00+07:00",
 "found": "2026-11-25T06:32:07+07:00"
+},
+{
+"id": "b23220f88f00",
+"title": "날씨",
+"link": "https://www.yna.co.kr/view/AKR20261125023000530",
+"summary": "서울 최저 -4.2도 전국 '영하의 추위'…한낮 4∼12도 그쳐 (연합뉴스)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6_IH1EA-grSEvVvUfqkcItso3Zr67nZpet8ia1jWi_UqLulmei-uXpRg1-KE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T06:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-25T06:47:38+07:00"
 },
 {
 "id": "1fa68746a584",
@@ -402,17 +482,6 @@
 "found": "2026-11-25T06:32:07+07:00"
 },
 {
-"id": "306ca366639e",
-"title": "Chuyên gia nói gì về việc dùng vàng làm quỹ dự phòng khẩn cấp?",
-"link": "https://dantri.com.vn/kinh-doanh/chuyen-gia-noi-gi-ve-viec-dung-vang-lam-quy-du-phong-khan-cap-20261124195757775.htm",
-"summary": "(Dân trí) - Nhiều người chuộng tích vàng để phòng thân, nhưng kim loại quý này có thể khiến gia chủ hao hụt khoản tiền đáng kể nếu chẳng may phải bán gấp đúng lúc thị trường lao dốc.",
-"image": "https://cdnphoto.dantri.com.vn/q80dX4RJPVyCS4M6lBh0F5VyC9I=/2026/10/23/gold-1792751307890.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-25T06:00:00+07:00",
-"found": "2026-11-25T06:32:07+07:00"
-},
-{
 "id": "8fb39ed0c0a4",
 "title": "Khu vực nào ở TP HCM giảm ngập nhờ dự án ngăn triều 10.000 tỷ đồng?",
 "link": "https://vnexpress.net/khu-vuc-nao-o-tp-hcm-giam-ngap-nho-du-an-ngan-trieu-10-000-ty-dong-5148484.html",
@@ -454,7 +523,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T05:50:00+07:00",
-"traffic": "5000+",
+"traffic": "2000+",
 "found": "2026-11-25T06:07:52+07:00"
 },
 {
@@ -522,7 +591,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T05:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-25T06:07:52+07:00"
 },
 {
@@ -545,7 +614,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T05:30:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-25T05:52:42+07:00"
 },
 {
@@ -557,7 +626,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T05:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-25T05:52:42+07:00"
 },
 {
@@ -18767,6 +18836,17 @@
 "found": "2026-11-23T10:27:55+07:00"
 },
 {
+"id": "392afa5f82b4",
+"title": "Tràn lan ảnh sao nữ hôn Chủ tịch tập đoàn công nghệ 63 tuổi, công chúng phẫn nộ",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT3RGdG1nYVg0d2J3cGNFRlprY1l0dnV4bG12TGpmWnplNDN1YWZRRmtTTWtkWkdrSlk4WkJOdmZYd2xhcWR0R0FzaUpPMUVBUlNnSjlCRHpsQVJLQkVETFN0U3VZZnl3SHhkVWZ2UHJPUVE2aWpQbmR1YUtmUHBVU1cwU01USTRqVzdkUmRleV9IejNHZERGb3RleS1mYlR4dzdHTFVxbDFzMWtUQVVEZndqTkFoYUg4?oc=5",
+"summary": "Nguồn: CafeF",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T09:14:00+07:00",
+"found": "2026-11-25T06:47:38+07:00"
+},
+{
 "id": "0eba71261577",
 "title": "Tây Ninh trục xuất 7 người Trung Quốc làm việc không phép",
 "link": "https://dantri.com.vn/phap-luat/tay-ninh-truc-xuat-7-nguoi-trung-quoc-lam-viec-khong-phep-20261123082222218.htm",
@@ -19808,17 +19888,6 @@
 "cat": "xh",
 "published": "2026-11-23T08:00:00+07:00",
 "found": "2026-11-23T09:30:05+07:00"
-},
-{
-"id": "1d381da1e343",
-"title": "Tràn lan ảnh sao nữ hôn Chủ tịch tập đoàn công nghệ 63 tuổi, công chúng phẫn nộ",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa3c0dGFURHRSM3Yxc0ZLZ2QwNTlYMnZkRmRZWG54bVZQUWpBWFVicHhKVHl4cC1TM2tUN1RxRkUxNWVBX1N5WFNsRXhFNFlZdTFfVjdXSlBtU2wtNDF0SDN2c3pwSFhmQnctWjlseXZXVHNHWE5RR3dyWU9LNS1MQnNtdVlELTZiVDM1U3ZUbFdZb2h3M21UZVYtT2tXY1ZMb29lQmkxaFh1ZXVNVExHOGFwX0JpU0M3TlFMcA?oc=5",
-"summary": "Nguồn: aFamily",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T08:00:00+07:00",
-"found": "2026-11-25T05:52:42+07:00"
 },
 {
 "id": "239c3973ab0f",
@@ -28054,73 +28123,6 @@
 "cat": "bds",
 "published": "2026-11-22T06:00:25+07:00",
 "found": "2026-11-22T22:56:49+07:00"
-},
-{
-"id": "84886787246f",
-"title": "Giá vàng hôm nay 22/11: SJC mất 6 triệu đồng/lượng chỉ trong ít ngày",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHl1S3QydlduRjg0cU9YYTNUQ1FqTmZobVhCS3JISHFvQVdZVkd6dHBGa0ttbmdJR1owODBTTkc3VURlNjg2YVZOYnRIdHpVMGhPZUNjTEJ5RjdGX0R3YTBqLVUyWUxKZ0tPQ1dIMjktMUZoWUtaX1hLbFdXQnIwRFRXVVd1SHhOOFpxZloxeVpmSENmMjhzMUpMVm5tZWNDU2c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T06:00:00+07:00",
-"found": "2026-11-22T15:22:02+07:00"
-},
-{
-"id": "b54c398bc422",
-"title": "APEC 2027 - cơ hội đón 'sếu đầu đàn'",
-"link": "https://thanhnien.vn/apec-2027-co-hoi-don-seu-dau-dan-185261121213606384.htm",
-"summary": "Tại Hội nghị cấp cao APEC lần thứ 33 mới đây, Tổng Bí thư, Chủ tịch nước Tô Lâm đã chính thức tiếp nhận vai trò chủ nhà Diễn đàn Hợp tác Kinh tế châu Á - Thái Bình Dương (APEC) 2027 và đây là lần thứ ba Việt Nam đảm nhận vị trí này, mở ra cơ hội mới để tập trung thúc đẩy tăng…",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/a2-1795271316144572075536-0-107-573-1024-crop-1795271360011298495225.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-22T06:00:00+07:00",
-"found": "2026-11-22T06:01:00+07:00"
-},
-{
-"id": "2fe21da3311a",
-"title": "Doanh nghiệp nhỏ và vừa được chắp thêm cánh",
-"link": "https://thanhnien.vn/doanh-nghiep-nho-va-vua-duoc-chap-them-canh-185261121180722679.htm",
-"summary": "Đánh giá cao tinh thần và cách tiếp cận của luật mới song theo các chuyên gia, điều quan trọng nhất là một quy trình thủ tục được thiết kế đơn giản, dễ tiếp cận để cộng đồng doanh nghiệp siêu nhỏ, nhỏ và vừa tiếp cận được ưu đãi, hỗ trợ từ nhà nước.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/doanh-nghiep-17952591320121331035711-0-23-576-945-crop-179525914743833397392.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-22T06:00:00+07:00",
-"found": "2026-11-22T06:01:00+07:00"
-},
-{
-"id": "2aeb39a2ce96",
-"title": "Lời cảm ơn, xin lỗi sao khó nói?",
-"link": "https://thanhnien.vn/loi-cam-on-xin-loi-sao-kho-noi-185261121182358413.htm",
-"summary": "Lời cảm ơn và xin lỗi là những phép ứng xử rất cơ bản, nhưng không phải lúc nào người trẻ cũng dễ dàng nói ra, nhất là trong guồng quay cuộc sống hiện đại.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-nguoi-tre-1795260588971183030773-40-0-680-1024-crop-17952606656751121310523.jpg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-22T06:00:00+07:00",
-"found": "2026-11-22T06:01:00+07:00"
-},
-{
-"id": "7292cd83a4be",
-"title": "Vì sao nhiều hãng bay chưa muốn chuyển đến Long Thành?",
-"link": "https://vnexpress.net/vi-sao-nhieu-hang-bay-chua-muon-chuyen-den-long-thanh-5147517.html",
-"summary": "Nhiều hãng bay quốc tế đề xuất lùi thời điểm chuyển đến Long Thành vì lo vận hành, giao thông kết nối và dịch vụ hậu cần chưa đồng bộ.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/233A6680-1795268729-2235-1795268772.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=S5tsXY91dVbk4bZKjsCALg",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-22T06:00:00+07:00",
-"found": "2026-11-22T06:46:53+07:00"
-},
-{
-"id": "7f67818c7d61",
-"title": "24h bong da",
-"link": "https://www.24h.com.vn/bong-da/nong-bang-xep-hang-ngoai-hang-anh-arsenal-lo-thoi-co-bo-xa-man-city-tottenham-ap-sat-chelsea-c48a1813087.html",
-"summary": "Nóng bảng xếp hạng Ngoại hạng Anh: Arsenal lỡ thời cơ bỏ xa Man City, Tottenham áp sát Chelsea (Tin tức 24h)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIJ28ITHGm0_JbuzYYGunO2qCxiaN6N1Vtr09vZN0h2PFryNNGgZj0SYE8E_w",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T06:00:00+07:00",
-"traffic": "100+",
-"found": "2026-11-22T07:02:04+07:00"
 }
 ]
 }
