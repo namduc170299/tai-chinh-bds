@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T10:10:25+07:00",
-"new": 12,
+"updated": "2026-11-24T10:25:40+07:00",
+"new": 16,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,94 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "29d2384bfa6b",
+"title": "'Khói bụi mù mịt sau tiếng nổ như bom, người bị thương nằm la liệt dưới đường'",
+"link": "https://thanhnien.vn/khoi-bui-mu-mit-sau-tieng-no-nhu-bom-nguoi-bi-thuong-nam-la-liet-duoi-duong-185261124101411778.htm",
+"summary": "Vụ nổ lớn tại phố Nguyễn Văn Tuyết (P.Đống Đa, Hà Nội) khiến nhiều người dân sống gần hiện trường hoảng loạn. Nhiều nhân chứng kể lại, vụ nổ khiến nhiều công trình liền kề hư hỏng. Khi khói bụi tan thấy nhiều người bị thương nằm trên đường.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/640570731484505095857646631484505095857646674bf9c3d666f6705a9fd2df2f5da39a2-179548675314575829608-17954898080691890537043-106-0-1706-2560-crop-17954900067431180548655.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T10:25:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
+},
+{
+"id": "05d3b110d5c7",
+"title": "Giá vàng bật tăng gần 3% sau cú bán tháo, \"cá mập\" vàng lớn nhất thế giới vẫn miệt mài xả hàng",
+"link": "https://cafef.vn/gia-vang-bat-tang-gan-3-sau-cu-ban-thao-ca-map-vang-lon-nhat-the-gioi-van-miet-mai-xa-hang-18826112410131942.chn",
+"summary": "Bất chấp đà phục hồi mạnh của giá vàng thế giới, quỹ SPDR Gold Trust tiếp tục bán ra hơn 3 tấn vàng, nâng tổng lượng bán trong 4 phiên liên tiếp lên hơn 17 tấn.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/afp-20260413-a7np2tr-v3-highre-2591-5871-1789657776-1795489941902441514192-0-0-1275-2040-crop-17954899450861169913841.webp",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-24T10:24:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
+},
+{
+"id": "2308e963c836",
+"title": "Hà Nội: Nổ lớn trên phố Nguyễn Văn Tuyết, nhiều nạn nhân được đưa đi cấp cứu",
+"link": "https://cafef.vn/ha-noi-no-lon-tren-pho-nguyen-van-tuyet-nhieu-nan-nhan-duoc-dua-di-cap-cuu-188261124092907461.chn",
+"summary": "Khoảng 8h sáng 24/11, nhiều người dân nghe thấy tiếng nổ lớn phát ra từ ngôi nhà trên phố Nguyễn Văn Tuyết, Đống Đa, Hà Nội.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795487303615-17954873042351849519803.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-24T10:23:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
+},
+{
+"id": "5d905c68ff99",
+"title": "Đà Nẵng: Cù Lao Chàm đặt mục tiêu 350.000 khách năm 2030, siết xây dựng giữ hệ sinh thái",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT1dWOExKQ1ZVeURoQkhwLURLMG9oWWZxQVZYbWJVM0E0NDdONjRod3I2R1A5bzBmYlNJa1RlZzhhNmNqUER0SnpSd0daZEJ2VmlDOG5uZnk5T2dabmt4QVRmMHF4NXpialdEYVIyVnZGRVNYZ1A1ckxIZHkwQmJrRVBGX3dVYjVIUWJCcHBVMHM3UVAyeTFTS3c2RFlEZDRncVIzeGRhdkNqMTdQVVNXTU4yV2VvUmhIaVcw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T10:18:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
+},
+{
+"id": "95117b51c6bc",
+"title": "Nổ lớn, sập nhà ở Hà Nội",
+"link": "https://vietnamnet.vn/no-lon-sap-nha-o-ha-noi-2578015.html",
+"summary": "Vụ nổ lớn xảy ra vào khoảng 8h sáng nay tại phố Nguyễn Văn Tuyết.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/no-lon-sap-nha-o-ha-noi-2262.jpg?width=0&s=2aQenL7_lg4sCb6W7gKE8w",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T10:15:23+07:00",
+"found": "2026-11-24T08:59:42+07:00"
+},
+{
+"id": "91bfe0e56de2",
+"title": "Vụ nổ 2 người tử vong tại Hà Nội: &apos;Sau tiếng nổ lớn, quầng sáng lóe lên, mọi thứ bị hất văng&apos;",
+"link": "https://vietnamnet.vn/vu-no-lon-tai-ha-noi-quang-loe-len-moi-thu-bi-hat-vang-2578063.html",
+"summary": "Sau vụ nổ xảy ra tại phố Nguyễn Văn Tuyết (phường Đống Đa, Hà Nội), nhiều người dân vẫn chưa hết bàng hoàng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/vu-no-ha-noi-img-8229-sao-chep-3249.jpg?width=0&s=uW_D9jZMQ-42S7AI60C7NA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T10:15:08+07:00",
+"found": "2026-11-24T10:25:40+07:00"
+},
+{
+"id": "d4d305d0a9dd",
+"title": "Sắc xanh phủ kín Phố Wall sau khi CEO Nvidia Jensen Huang nắm quyền trở lại",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRnd4ajZ5SmNlUkNBcC1rRkQ5UEJVZUppLVVQWjR5eXhzWXhFaEVxcUw3Q0FOUjl1ZS10QnpkWVdpSkQzYXYtLW80VzJ6SE96ZHFMek9KRTRHbGtsYmdjaUt4bHp2SmxNUEVRTTNzS3M2b2NSeXlCNElVR2pubTFDYmR2dkg2MFBrTldCLVIyaGp2cEllYmMzcEJmRjZkRVh3azJmam53QlJPb29E?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T10:14:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
+},
+{
+"id": "f888fecae9ad",
+"title": "Doanh nghiệp Mỹ đầu tư 117 triệu USD xây nhà máy pin tại Đà Nẵng",
+"link": "https://dantri.com.vn/kinh-doanh/doanh-nghiep-my-dau-tu-117-trieu-usd-xay-nha-may-pin-tai-da-nang-20261123212102652.htm",
+"summary": "(Dân trí) - Với tổng vốn đầu tư 117 triệu USD, nhà máy sản xuất hệ thống lưu trữ năng lượng bằng pin của doanh nghiệp Mỹ tại Đà Nẵng dự kiến khởi công trong tháng 12 và đi vào hoạt động từ quý III/2028.",
+"image": "https://cdnphoto.dantri.com.vn/fOEQaPoro2xGVPkIewUNJ_JYHeY=/2026/10/25/khu-cong-nghe-cao-da-nanghoai-son1-1792903703182.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-24T10:13:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
+},
+{
 "id": "c847be88b4a1",
 "title": "Căn hộ lấy cảm hứng từ sắc vàng cam của hổ phách",
 "link": "https://cafef.vn/can-ho-lay-cam-hung-tu-sac-vang-cam-cua-ho-phach-188261124092711492.chn",
@@ -222,6 +310,61 @@
 "cat": "bds",
 "published": "2026-11-24T10:10:00+07:00",
 "found": "2026-11-24T10:10:25+07:00"
+},
+{
+"id": "98399ebbe050",
+"title": "Hà Nội bố trí 5 điểm gửi xe miễn phí phục vụ chương trình nghệ thuật ngày 24/11",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGpKLS1oeDZKc3p0U3lPQXk3blFMV2prMTcwV3RPLVRSMUg2OHNWTS0zVWY3d3pBcVp1d05wNXo5ejlPdWRveENsM004cWJPWnZ6ekppYmVObUU4WlpUeG9hRmJYMldBVE1FT3VfWDBGcDVCNjNPU205Qk9XN2sxNlNIYjRib1FXQVNRYTA2WnBQQUg0OUJGWl9YRXV4Q3NiY2E1bkZkUzhwcXcxR1ZMT2pB?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T10:10:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
+},
+{
+"id": "8b21635c0a86",
+"title": "Cổ phiếu Nvidia ghi nhận phiên tăng mạnh thứ 3 trong lịch sử",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamhzdUNaZmhzZ3F2eWhhT0JDYUZPQnVpeW4tekFha3dUMktPWDdZNGFmaEtmdGpZM2xVR0RPYVhKMFFFZ09QSVpObUh3b2xZZDZYenI0WmxnLVpMY3gxaDR4SVJqZ1Ziai15Y19NekltVlVEbTJpSXBuYWlXS0xGVzhEQXVqckJTUDdEVmhiMUVqekRjeXVJZQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T10:08:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
+},
+{
+"id": "74a8e9d07f44",
+"title": "Nhộn nhịp mùa cổ tức cuối năm",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBndXVOTmx4OWl6RG9zMk5abmt1WXVyUll1ajJreS1hQUIySHp3b3RyZU9XVExCdVRHRmxyU3hxblhpX2k3d1MzMHRCeHJuTUtfRGhWcXcyQTNSZWRGWHBnUWt4a2xvMVE4ZXpvbC1XRQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T10:08:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
+},
+{
+"id": "fd46165b5040",
+"title": "Hàng nhập khẩu qua sàn thương mại điện tử dưới 1 triệu đồng được miễn thuế",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNjR3M1hUUlMwZmlLUENSMVp6YjNGX1dzUXBDanBUbnJRNTVvZzRvNC14VW9KaXE4ZFBaQmhfQzc4ZDJoZ0I1aDZUWThRczdoT0V6dXlRWmREdTctMzEyNXdvdUxOaFVodzVtRHZXOVhpUFdhMEwwd2c1OXB6SGRZbW53Wjd3dEJieFg1RXE0QmRCYlJLLWZRNlhiaktHTlpQVF9Ec21ZWDJuVTQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T10:08:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
+},
+{
+"id": "9254be8e60b0",
+"title": "Ngày 24/11: Giá bạc tiếp đà phục hồi",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yc1pDUGVGZHluQkpOc3JyUFlsbHZ3N0pkX3V2eFcwX2xJTzdYRVhSTE92NmNPdUE2UGptWWRyaWNIVFRHcmFveDJ4c2pYU2ZPc3NWWUgtZ2RXZkVsWWV1aVVKUndTWGhtSVJ4WERtU3hpYjhaREdF?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T10:07:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
 },
 {
 "id": "729eb0ce4154",
@@ -257,17 +400,6 @@
 "found": "2026-11-24T08:44:31+07:00"
 },
 {
-"id": "95117b51c6bc",
-"title": "Nổ lớn, sập nhà ở Hà Nội",
-"link": "https://vietnamnet.vn/no-lon-sap-nha-o-ha-noi-2578015.html",
-"summary": "Vụ nổ lớn xảy ra vào khoảng 8h sáng nay tại phố Nguyễn Văn Tuyết.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/no-lon-sap-nha-o-ha-noi-2262.jpg?width=0&s=2aQenL7_lg4sCb6W7gKE8w",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T09:58:56+07:00",
-"found": "2026-11-24T08:59:42+07:00"
-},
-{
 "id": "e76e2f280e1f",
 "title": "Loạt đại công trình APEC ở Phú Quốc tăng tốc, sẵn sàng đón sự kiện toàn cầu",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU3Rjb3BQcGhsZEhrRDhCVXBnV3ZGdlhkRE0yTzFLLUJSSHdsOEZ4UDhXS21feEF0MWRBYndlOUhOckNYZkFoUkNhNVV3MThoOTlzdGphY0lRUUZTaEprYVRwaDkyYlN1LVRZb2I4TWwzQlZIQU9UWG1uWDhNVHdHelphNUMxdU1vZndRQzl2RHA5dnJfNk93TEtVUDFNUFRLYXF2S0Q5YXZkdFU?oc=5",
@@ -299,6 +431,17 @@
 "cat": "xh",
 "published": "2026-11-24T09:53:00+07:00",
 "found": "2026-11-24T10:10:25+07:00"
+},
+{
+"id": "0c9a78bd5854",
+"title": "Cơn sốt Nvidia khi CEO Jensen Huang trở lại: Lời khuyên từ các chiến lược gia đầu tư",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZEFPdmZ2cWJOM0VqZmxxTFIxcGZxaTBUMWtHcUNkX2ZJQWd5V19CendhVkhSMXB6NmlfQ25zYzhfTVhWc2t4TERZSmFxck9KUnVaLUhUaUZWVmUtczNqdk53S0M5eVNXSHpuY0VHSEswdkRDODNqeHdqX1VfdTRWNjFtVzhneTFfU2d5d2FNTmg5a1YwcVpOd2RZcHBNU0xUQ1U5T0lScEl5RVZ0QW16dGlqVWZ4c0k?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T09:53:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
 },
 {
 "id": "d774bfd1f1e1",
@@ -588,6 +731,17 @@
 "found": "2026-11-24T10:10:25+07:00"
 },
 {
+"id": "8cd21286aac1",
+"title": "Giá vàng hôm nay (chiều 23-11): Bật tăng mạnh trở lại",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2twTE9YZGYtcnMyMDJzWjZTVFBZYTI0ZXZoVFN0Q0xDR0lmWkUwVGRDVEpWcjhNM1Z3cVloTnczY09DX1F0Smw2dkFzdU1wZW40dnhTVnVXMXBNTGg1YjF5TWxXbmVyMlFCazc0MW5lTG5OTWlIQXhRcmJIU1ZvTlRlakUxbU91SFRZ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T09:20:58+07:00",
+"found": "2026-11-24T03:07:58+07:00"
+},
+{
 "id": "c93ab069f939",
 "title": "Gia đình HĐQT Tập đoàn KN Holdings cam kết góp 150 tỷ cho Quỹ Nhân đạo Việt Nam",
 "link": "https://vietnamnet.vn/gia-dinh-hdqt-tap-doan-kn-holdings-cam-ket-gop-150-ty-cho-quy-nhan-dao-viet-nam-2578053.html",
@@ -795,7 +949,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T09:00:00+07:00",
-"traffic": "500+",
+"traffic": "2000+",
 "found": "2026-11-24T09:40:07+07:00"
 },
 {
@@ -808,6 +962,17 @@
 "cat": "xh",
 "published": "2026-11-24T08:59:14+07:00",
 "found": "2026-11-24T09:55:16+07:00"
+},
+{
+"id": "ebda4fde3d84",
+"title": "Nổ lớn ở Hà Nội, hai người chết",
+"link": "https://vnexpress.net/no-lon-o-ha-noi-hai-nguoi-chet-5148300.html",
+"summary": "Sau tiếng nổ lớn, quán cháo lòng số 168 phố Nguyễn Văn Tuyết, phường Đống Đa đổ sập, làm hai người chết, sáu người bị thương, cảnh sát vẫn đang tìm kiếm người mắc kẹt, sáng 24/11.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/quan2-1795488514-9716-1795488517.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TEwQPhMFJqt55nN7ya_Kmw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T08:59:14+07:00",
+"found": "2026-11-24T10:25:40+07:00"
 },
 {
 "id": "7f9c7b107ca5",
@@ -1462,7 +1627,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T08:00:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-24T08:44:31+07:00"
 },
 {
@@ -1586,6 +1751,17 @@
 "cat": "tc",
 "published": "2026-11-24T07:41:00+07:00",
 "found": "2026-11-24T07:49:19+07:00"
+},
+{
+"id": "10f567c16618",
+"title": "Han Seok-jun bật khóc vì phải rời chương trình Cuộc thi tiếng Hàn",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTVpJdE42Qi1RNV9zMDRLeDBJVWJvQnRBa2wyalYtY1VleV9IN1MzSlluMTIyWnl0Y3F6MUdFenptZFc1bTkyb1BPS0lILVpGbFJGWkN0MGZUWkJVU0t3bXJ3dWhHT1NUcXZIb2lFYkdpeFFHU0dHNmtOeXVyb19LNERR?oc=5",
+"summary": "Nguồn: 미디어파인",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T07:40:42+07:00",
+"found": "2026-11-24T10:25:40+07:00"
 },
 {
 "id": "f8379af746b8",
@@ -8464,17 +8640,6 @@
 "found": "2026-11-23T16:11:54+07:00"
 },
 {
-"id": "8cd21286aac1",
-"title": "Giá vàng hôm nay (chiều 23-11): Bật tăng mạnh trở lại",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2twTE9YZGYtcnMyMDJzWjZTVFBZYTI0ZXZoVFN0Q0xDR0lmWkUwVGRDVEpWcjhNM1Z3cVloTnczY09DX1F0Smw2dkFzdU1wZW40dnhTVnVXMXBNTGg1YjF5TWxXbmVyMlFCazc0MW5lTG5OTWlIQXhRcmJIU1ZvTlRlakUxbU91SFRZ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T14:40:00+07:00",
-"found": "2026-11-24T03:07:58+07:00"
-},
-{
 "id": "04ec914e2d41",
 "title": "[VIDEO] TPHCM mở mùa mua sắm Tết với hơn 5.000 điểm bán",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVExGdDZDejRQTFRmUTZmc1Q1eUlKcXk2RHpVLXM3RW4zVGRkMVYxMm0zMDY0alFUczNLZFZwaGFPNW9HSnk5eFBwMTJkd3JFMk1MOXZnX05VN2d4QVpaSVpfWElDUzZzWDdKa2IxTFlURUhnYmV6UEdTUmRkZlgtSzl3NXVYaEFTa21US2dzNA?oc=5",
@@ -11713,6 +11878,17 @@
 "cat": "mxh",
 "published": "2026-11-23T09:26:00+07:00",
 "found": "2026-11-23T10:15:47+07:00"
+},
+{
+"id": "33262aaf5ef9",
+"title": "Giá xăng dầu hôm nay 23/11: Thế giới đi xuống, trong nước ở mức thấp",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMG5OM1UxLVQ3U2ZnbVItVndlZHF1V3pwb3lQRVVMTm80Znd6a0lnSG5mQ3h6RlJ5Nm00OGhwb3A0cFB6QXJmbWI5SW12RmhhV1QweFp4Tk9zaHpWTTB0R1hfZVNqbFg0cVQ0UkJvb05mOE5hekcyelA5SWVIdUxzVmVEUUp0SThsbldBb1pVa05Gc3J3MnlRbjVLMFZXTloz?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T09:25:00+07:00",
+"found": "2026-11-24T10:25:40+07:00"
 },
 {
 "id": "286e06919e93",
@@ -27951,183 +28127,6 @@
 "cat": "xh",
 "published": "2026-11-21T10:59:00+07:00",
 "found": "2026-11-21T11:14:36+07:00"
-},
-{
-"id": "34b04be1f9db",
-"title": "100 xe giường nằm điện chạy ba tuyến liên tỉnh từ TP HCM",
-"link": "https://vnexpress.net/100-xe-giuong-nam-dien-chay-ba-tuyen-lien-tinh-tu-tp-hcm-5147370.html",
-"summary": "100 ôtô giường nằm điện được đưa vào khai thác trên ba tuyến từ TP HCM đi Đà Lạt, Cần Thơ và Vĩnh Long, giá vé không đổi so với xe dầu.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/179523140917977700476233407389-2497-5998-1795232649.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ck8TQRH0PtcQ1GMA4L36hw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-21T10:58:22+07:00",
-"found": "2026-11-21T11:14:36+07:00"
-},
-{
-"id": "62db0f62d31c",
-"title": "Gia Lai thu hút hơn 248.800 tỷ đồng vốn đầu tư, vượt 57% kế hoạch năm",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2Q0dm9yM05qUVJWWWxyQ1F0SUlpWWlnbW81eVJ1UDBLa0E3UWdURmFoUWVxcWdQOUR2c21ha1FHWWFhVDVNSEU0VXlFUm9ncm1CSkhnbFpLbHljQmROR05Za2pQRlY0QmVYSm5tM2hTYXl5WmFySFgyNEcxS085cXYxeURNendBX3hFU0tXeGJyVzlLb0VKVldWay1vTF9GLWc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T10:58:00+07:00",
-"found": "2026-11-21T14:22:05+07:00"
-},
-{
-"id": "6826ac1f0c43",
-"title": "Bitcoin thủng 56.000 USD, thấp nhất 2 năm qua",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0JCQTdIRHB2SXM3c2w4Slp1andoLWM3V3ozSm82OTJLalB1SjRxcnRaWHFBMWU4bk9uSEE1X1BwVTJxT2J1SzZpZXVnWmZ5NTFVVWRBcGNoNzZkdGxSNFBnNnBfVHRiSjRQem9QMy1fSWszQTdyb0M5NDhGbU1jUzZORQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T10:57:21+07:00",
-"found": "2026-11-22T07:47:54+07:00"
-},
-{
-"id": "5cda4bdb5015",
-"title": "Bitcoin thủng mốc 58.000 USD, thấp chưa từng thấy trong 2 năm qua",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUJXcDBsd3I1T09FbEd6VkM0alVndWZGTVh1OE52M3FfbHU2OEJ2b3FyQWJyZE1NRDJOZUUyYnpZTGtaX3hSZHNOVk1DSHB5cklQa1AyLWhHNk1aejkzQWZoaGpjXzdaLTRYak90cW1YZGlCMC1sWDVoTms2RGhRaXZMRWdlZ0haR2lsbmRaUUR6cElsRFhiY2tYUVgwdw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T10:57:21+07:00",
-"found": "2026-11-22T21:16:32+07:00"
-},
-{
-"id": "935e0577e8f7",
-"title": "Thông qua Luật Đất đai: Bổ sung cơ chế hỗ trợ phục hồi sinh kế sau thu hồi đất",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeldEMXJsbHFJeDRBc3BxQmJYSmRyUlVoQXNqQWNla1RvUVduV0h6M2JtZzI1Q1JxVDI0X0YwNzVZOHpCc2JuWHlvT3hhNFRaSmNhX1g0SzdpX2VIRnk3MzdTUUs5bzhUNWNqdEZYbVNSMUdpTmpJZm5CMzA2bDdNd0k4WTd5VEtnSWM4ZEM0U3dzcXZrVUJYSk9hdlo5OGQ0TmVoQ0RaWHRpd1R1YTBn?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T10:57:00+07:00",
-"found": "2026-11-21T11:14:36+07:00"
-},
-{
-"id": "46107d5be9e1",
-"title": "Ngân hàng rao bán khoản nợ của ông Lê Hải Trà",
-"link": "https://dantri.com.vn/kinh-doanh/ngan-hang-rao-ban-khoan-no-cua-ong-le-hai-tra-20261121091923274.htm",
-"summary": "(Dân trí) - Agribank Chi nhánh Bình Thạnh đang thực hiện thủ tục lựa chọn tổ chức đấu giá hai khoản nợ có liên quan đến ông Lê Hải Trà, cựu lãnh đạo HoSE.",
-"image": "https://cdnphoto.dantri.com.vn/NmQm9CCk56T4eYedZRLtOtfF0K8=/2026/11/21/dau-gia-cropped-1795233181806.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T10:55:57+07:00",
-"found": "2026-11-21T11:23:57+07:00"
-},
-{
-"id": "00b21e49be4f",
-"title": "Giá vàng rơi xuống đáy 14 tháng do sức ép lãi suất và làn sóng bán tháo cổ phiếu",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2k1ckMzVUtBb0ZndnhGNW00RWhGSXZ2ZXdNbDlJdjlWbjhnTDZJREdLX1BmWHpISlZ3Zy0xbTRLNFNmdmJiWlphVVNxM1Z1N3ltN2xVNm9IT0RKbkRfLWdxQmZXTERmaDhmYmtvZzlINDhmcGZNb0hoQVlnNmRHQ1hUUXFNUTdfbE9IQ2ZfaEtZOGFyTElzdnItT1dkM001TkJ3bmZRdkl5S1FFWGJtaXU3Zw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T10:54:00+07:00",
-"found": "2026-11-21T10:59:26+07:00"
-},
-{
-"id": "6c679167e3a9",
-"title": "Câu hỏi khó nhất đề tiếng Anh thi đại học Hàn Quốc 2027, nói về hội họa nhưng phải hiểu âm nhạc mới làm được",
-"link": "https://soha.vn/cau-hoi-kho-nhat-de-tieng-anh-thi-dai-hoc-han-quoc-2027-noi-ve-hoi-hoa-nhung-phai-hieu-am-nhac-moi-lam-duoc-198261121104529977.htm",
-"summary": "Nguồn: SOHA",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T10:54:00+07:00",
-"found": "2026-11-22T19:33:13+07:00"
-},
-{
-"id": "5157806939b0",
-"title": "Bộ Nội vụ: Tạm dừng tuyển dụng mới, điều chuyển công chức khi xây dựng phương án biên chế 2027-2031",
-"link": "https://tuoitre.vn/bo-noi-vu-tam-dung-tuyen-dung-moi-dieu-chuyen-cong-chuc-khi-xay-dung-phuong-an-bien-che-2027-2031-10026112110311736.htm",
-"summary": "Bộ Nội vụ đề nghị tạm dừng tuyển dụng mới, điều chuyển cán bộ, công chức trong thời gian rà soát, hoàn thiện vị trí việc làm và phương án biên chế giai đoạn 2027-2031.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/cong-chuc-1778377919688993629637-106-0-1706-2560-crop-1795231563854677573707.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T10:51:00+07:00",
-"found": "2026-11-21T11:23:57+07:00"
-},
-{
-"id": "8d9ff76d4f4d",
-"title": "The Art Of Living Well - Hành trình trải nghiệm thành phố đáng sống One Era",
-"link": "https://dantri.com.vn/bat-dong-san/the-art-of-living-well-hanh-trinh-trai-nghiem-thanh-pho-dang-song-one-era-20261121102835762.htm",
-"summary": "(Dân trí) - Ngày 20/11, tại One Era Galleria, sự kiện The Art of Living Well - Hành trình khám phá thành phố đáng sống One Era đã diễn ra trong không gian sang trọng, quy tụ các khách mời, đối tác và cộng đồng doanh nhân.",
-"image": "https://cdnphoto.dantri.com.vn/oVokQNv6Tp_vOQDX7caQPvd5pbo=/2026/11/21/era-106-thumb-1795231557185.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-21T10:50:54+07:00",
-"found": "2026-11-21T11:14:36+07:00"
-},
-{
-"id": "fcc836b5236f",
-"title": "Căn hộ 120m² phong cách Wabi Sabi, hướng đến không gian sống bình yên",
-"link": "https://cafef.vn/can-ho-120m-phong-cach-wabi-sabi-huong-den-khong-gian-song-binh-yen-18826112107511379.chn",
-"summary": "Lấy cảm hứng từ phong cách Wabi Sabi của Nhật Bản, căn hộ rộng 120m² hướng đến vẻ đẹp giản dị, đề cao sự thư thái và cân bằng trong đời sống thường ngày.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795221818375-1795221819526738523157.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T10:50:00+07:00",
-"found": "2026-11-21T10:59:26+07:00"
-},
-{
-"id": "823e62cdf5b0",
-"title": "Tạm dừng tuyển dụng, điều chuyển cán bộ, công chức trên cả nước",
-"link": "https://thanhnien.vn/tam-dung-tuyen-dung-dieu-chuyen-can-bo-cong-chuc-tren-ca-nuoc-185261121102828117.htm",
-"summary": "Các bộ, ngành, địa phương tạm dừng tuyển dụng mới công chức và điều chuyển cán bộ, công chức, nhằm giữ ổn định biên chế được giao trong thời gian rà soát, hoàn thiện vị trí việc làm và phương án biên chế giai đoạn 2027 - 2030.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/edit-edit-vien-chuc-17952313782271150166982-45-0-850-1288-crop-1795231435776616057188.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T10:50:00+07:00",
-"found": "2026-11-21T10:59:26+07:00"
-},
-{
-"id": "2861440ca846",
-"title": "btc",
-"link": "https://dantri.com.vn/kinh-doanh/vang-dau-ha-nhiet-gia-bitcoin-bien-dong-ra-sao-20261119144713068.htm",
-"summary": "Vàng, dầu hạ nhiệt: Giá bitcoin biến động ra sao? (Báo Dân trí)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVm9M-hCzx07aPPEL_AKbWmTWFQI6nzImjA0U5WWqcWQS2fJxhOPfEElE0cCE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T10:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T11:14:36+07:00"
-},
-{
-"id": "7eb2cb98b03e",
-"title": "HDBank và MUFG mở rộng hợp tác thị trường vốn, thúc đẩy dòng vốn đầu tư Việt Nam – Nhật Bản",
-"link": "https://cafef.vn/hdbank-va-mufg-mo-rong-hop-tac-thi-truong-von-thuc-day-dong-von-dau-tu-viet-nam-nhat-ban-188261121105010241.chn",
-"summary": "Ngày 12 tháng 11 năm 2026, trong khuôn khổ chuyến thăm chính thức Nhật Bản của Tổng Bí thư, Chủ tịch nước Tô Lâm, HDBank và Tập đoàn Tài chính Mitsubishi UFJ (MUFG) đã ký kết Thoả thuận hợp tác, mở rộng kết nối thị trường vốn quốc tế và thúc đẩy đầu tư Việt Nam – Nhật Bản, trước…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/photo2026-11-2110-45-43-17952327885661867311383-1795232951966-17952329521751569407478-0-0-609-975-crop-17952329676361403463057.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-21T10:49:32+07:00",
-"found": "2026-11-21T11:14:36+07:00"
-},
-{
-"id": "2130f5c7d79f",
-"title": "Minh bạch giao dịch, ngăn rủi ro cho người mua bất động sản",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2FGOE1MWUlFd2k4RXl2enNiMVVmX0JBcFBDZy1yaC0tMmdwbzFGMUs0NTFJVzhwLU5TMVllWVFGNTNLeWtMak1SMnAzRW81RFBmOVhZZDlEcFJjUGJ3ZEk5RlBmdUgtZVJJM1lUdF9yYXRfeE5nWkEyNEFNOXZKTE9iZURZeGpLNlpGMDRPTWpyamFEM2c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T10:49:00+07:00",
-"found": "2026-11-21T10:59:26+07:00"
-},
-{
-"id": "b72a2a5bf81c",
-"title": "TP.HCM thúc tiến độ dự án, yêu cầu hoàn tất thủ tục đầu tư trong tháng 12",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzdyMElsRUZyN01KV2N3SC1mOHNfSG5ha2ZZaDdPZ0dCU2xDNEJiVUhLZW50T041R2lPTDNkMFJRb2NKSHpwMEJKeGFFTGhoazNQQS1jZUMxV1d2djJ0Q1I3aHdMOVdaejRHR3hzQXNMNTVqOXpPVDFLVzJYYW5KaHpCeC12ZTN3Q1hDZU51bXJUbW1RT2laeXlzRWVzZ0wycEQtLTlmOWo?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T10:49:00+07:00",
-"found": "2026-11-21T10:59:26+07:00"
 }
 ]
 }
