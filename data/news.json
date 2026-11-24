@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T22:56:59+07:00",
-"new": 7,
+"updated": "2026-11-24T23:12:27+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 50
+"count": 21
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,18 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "fedfb045237b",
+"title": "jk phạm vũ nguyệt nga",
+"link": "https://vtv.vn/the-thao/gia-danh-bac-si-chuyen-gia-tham-my-de-lua-khach-4-doi-tuong-bi-khoi-to-100261124121016319.htm",
+"summary": "Giả danh bác sĩ, chuyên gia thẩm mỹ để lừa khách, 4 đối tượng bị khởi tố (VTV.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RUVa7hsGefu8uMIeGDt8bNFnEf_OdAgJE4r0IoAka402k_QzOBW17lZkNqU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T22:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T23:12:27+07:00"
+},
 {
 "id": "9f71eea09fd1",
 "title": "bóng đá vô địch các câu lạc bộ châu âu",
@@ -314,6 +326,17 @@
 "found": "2026-11-24T22:56:59+07:00"
 },
 {
+"id": "e1389f32daa4",
+"title": "Thêm nạn nhân tử vong trong vụ nổ khí gas ở Hà Nội",
+"link": "https://vnexpress.net/them-nan-nhan-tu-vong-trong-vu-no-khi-gas-o-ha-noi-5148493.html",
+"summary": "Nữ bệnh nhân 24 tuổi, bị đa chấn thương trong vụ nổ khí gas trên phố Nguyễn Văn Tuyết, tử vong tối 24/11, nâng tổng số người tử nạn lên 7.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/nan-nhan-1795533765-8319-1795533802.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=s81zn16PIUqiErFD3hD8Nw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T22:24:33+07:00",
+"found": "2026-11-24T23:12:27+07:00"
+},
+{
 "id": "492097f7f452",
 "title": "TPHCM rực rỡ pháo hoa trong Ngày Văn hóa Việt Nam",
 "link": "https://vietnamnet.vn/phao-hoa-ruc-ro-mung-ngay-van-hoa-viet-nam-o-tphcm-2578296.html",
@@ -337,6 +360,18 @@
 "found": "2026-11-24T22:41:32+07:00"
 },
 {
+"id": "f6190a44744d",
+"title": "thứ hạng của đội tuyển bóng đá u-17 quốc gia nhật bản gặp đội tuyển bóng đá u-17 quốc gia serbia",
+"link": "https://laodong.vn/ldt/an-choi/lich-thi-dau-u17-world-cup-2026-hom-nay-2411-1805556.ldo",
+"summary": "Lịch thi đấu U17 World Cup 2026 hôm nay 24.11 (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4IC13zpmdXInoSQTbGPbUjJ1ENNtk8dpYm9jvZd5F2-Ack1MIakLMntRo7wY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T22:20:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-24T23:12:27+07:00"
+},
+{
 "id": "1cff0c7aca1c",
 "title": "EVF muốn mua lại trái phiếu, kế hoạch huy động vốn có bước tiến",
 "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1MzLWFOWnlKc21IU2tLLTFXU3ZSSk9GX1hpR1pfUEZtOXdWWjBHbFlWdE93QWViZnVSSnp0d1hRWE1GVHdXWFI4cWR4WUlELXQzVVBYYVVQSXc1dE5WV2JtcWtmUEQ5N1JXYk9uMXBJWnZzRXNFY09sd1Ywd2NTUWs3aG4wY1NJa1Z3b0NzQklGRHRDa1Q1X0FzRQ?oc=5",
@@ -357,6 +392,17 @@
 "cat": "xh",
 "published": "2026-11-24T22:14:00+07:00",
 "found": "2026-11-24T22:26:09+07:00"
+},
+{
+"id": "f7269dc8ad79",
+"title": "Năm người bị vây đánh vì hiểu nhầm bắt cóc trẻ em ở Hải Phòng",
+"link": "https://vnexpress.net/nam-nguoi-bi-vay-danh-vi-hieu-nham-bat-coc-tre-em-o-hai-phong-5148476.html",
+"summary": "Thấy nhóm trẻ mặc phong phanh giữa trời lạnh, 5 người đi ôtô qua xã Vĩnh Thuận gọi lại cho tiền nhưng bị người dân hiểu lầm là bắt cóc trẻ em, tấn công và phát trực tiếp lên mạng xã hội kèm thông tin chưa đúng",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/1795528178532-g312314341098846-2402-6156-1795528579.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pWnvNNzeo8-CUC-hPGGiWA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T22:13:29+07:00",
+"found": "2026-11-24T23:12:27+07:00"
 },
 {
 "id": "cce470093ef8",
@@ -28079,52 +28125,6 @@
 "cat": "mxh",
 "published": "2026-11-21T21:25:56+07:00",
 "found": "2026-11-22T10:45:30+07:00"
-},
-{
-"id": "6088edd0fc74",
-"title": "Haaland bị khước từ bàn tranh cãi trong trận hòa của Man City",
-"link": "https://vnexpress.net/haaland-bi-khuoc-tu-ban-tranh-cai-trong-tran-hoa-cua-man-city-5147520.html",
-"summary": "Tiền đạo Erling Haaland không được công nhận bàn do lỗi đá bóng trong tay thủ môn, khi Man City hòa Fulham 1-1 ở vòng 11 Ngoại hạng Anh.",
-"image": "https://i1-thethao.vnecdn.net/2026/11/21/a-nh-ma-n-hi-nh-lu-c-179527001-3233-9521-1795270032.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=SRulfS2rnPIwS89mulA_7g",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-21T21:25:56+07:00",
-"found": "2026-11-22T13:34:04+07:00"
-},
-{
-"id": "ef6a2a850ba7",
-"title": "Cơ bản hoàn thành giải phóng mặt bằng cầu Đồng Liên ở Thái Nguyên",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEVDVk1FNWxhbnozRE1XS0FIQ0k5TTN1VmNtbE1zSnpDbmFQd21mcFY4TlZSNzBUMlhxajJnYXNTTnBzX2JIM3NGWlRDeE1IVDVmUmFPa2tTUVBOM3lDRWZxajRFMnhwNUdqVnNMNmJ5WjUtWFRDa3dyeGJHWWlycFVsdE45M2dJYzBEalc5Q3ZvbHM2bVlyaFhuNzhQdTQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T21:21:00+07:00",
-"found": "2026-11-23T08:08:32+07:00"
-},
-{
-"id": "115d96b77051",
-"title": "como vs",
-"link": "https://bongdaplus.vn/serie-a/nhan-dinh-bong-da-como-vs-cagliari-21h00-ngay-21-11-thang-hoa-cung-fabregas-5294462611.html",
-"summary": "Nhận định bóng đá Como vs Cagliari, 21h00 ngày 21/11: Thăng hoa cùng Fabregas (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTInRtW8JZLJT6b3Fsis2_2xgKH3PMKRxnn8f2p2AsGipcR1dSRYyRxtXI3Nkc",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T21:20:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T21:49:25+07:00"
-},
-{
-"id": "fdb39bb09f35",
-"title": "100 day of deception",
-"link": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261119/real-history-figures-inspire-tvn-drama-100-days-of-deception",
-"summary": "Real history, figures inspire tvN drama '100 Days of Deception' (The Korea Times)",
-"image": "",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T21:20:00+07:00",
-"traffic": "100+",
-"found": "2026-11-21T21:49:25+07:00"
 }
 ]
 }
