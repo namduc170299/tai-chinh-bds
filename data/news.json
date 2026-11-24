@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T05:37:31+07:00",
-"new": 7,
+"updated": "2026-11-25T05:52:42+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 47
+"count": 49
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "923a62824d82",
+"title": "Bà ngoại để lại 90m2 đất cho cháu, bảy người con phản đối",
+"link": "https://vietnamnet.vn/ba-ngoai-de-lai-90-m2-dat-cho-chau-bay-nguoi-con-phan-doi-2578211.html",
+"summary": "Trước khi qua đời, cụ bà lập di chúc để lại 90m2 đất cho cháu ngoại. Dù cả bảy người con đều phản đối, cuối cùng người cháu vẫn được công nhận quyền hưởng di sản.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/ba-ngoai-de-lai-90-m2-dat-cho-chau-bay-nguoi-con-phan-doi-6533.jpg?width=0&s=bNhiX4o8fsT_DLOoRMM0uQ",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-25T05:45:00+07:00",
+"found": "2026-11-25T05:52:42+07:00"
+},
+{
+"id": "632731ac9048",
+"title": "Quy định mới về nhà ở xã hội: Sau 5 năm bán phải tuân thủ các quy định gì?",
+"link": "https://vietnamnet.vn/quy-dinh-moi-ve-nha-o-xa-hoi-sau-5-nam-duoc-ban-lai-cho-ai-2578283.html",
+"summary": "Từ 1/7/2027, nhà ở xã hội đã trả đủ tiền sau 5 năm được bán lại theo giá thị trường nhưng phải đúng đối tượng, giá bán do các bên thỏa thuận thay vì chuyển nhượng tự do như hiện nay.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/quy-dinh-moi-ve-nha-o-xa-hoi-sau-5-nam-duoc-ban-lai-cho-ai-6747.jpg?width=0&s=WZvMHgsEqq68Ne0Xdpn3iw",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-25T05:45:00+07:00",
+"found": "2026-11-25T05:52:42+07:00"
+},
+{
+"id": "0fbb2e200f3d",
+"title": "Chuyển nhầm 301 triệu, bị ngân hàng trích hơn 261 triệu để thu hồi nợ của bên nhận tiền",
+"link": "https://vietnamnet.vn/chuyen-nham-301-trieu-bi-ngan-hang-trich-hon-261-trieu-de-thu-hoi-no-2573160.html",
+"summary": "Chuyển nhầm hơn 301 triệu đồng vào tài khoản người lạ, anh T. được trả lại hơn 39 triệu đồng. Số tiền còn lại đã bị ngân hàng cấn trừ vào khoản vay của người nhận, khiến anh phải khởi kiện để đòi lại.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/chuyen-nham-301-trieu-bi-ngan-hang-trich-hon-261-trieu-de-thu-hoi-no-cua-ben-nhan-tien-6721.jpg?width=0&s=IzsYh9U2XdwOe5u8rQsoPQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-25T05:45:00+07:00",
+"found": "2026-11-25T05:52:42+07:00"
+},
+{
+"id": "65f2f2b99856",
+"title": "Gây xôn xao khi 'đi học bằng máy bay' hằng tuần, cô gái 24 tuổi nói gì?",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFB5bi0xV05WeGNPNlNpVjNQdXk3UkFPdUpTV2xFYWpzbnh5VnpmNU82eXgyX0NjbzMxTGt5a2hXaE80R3lXOFdya0xYSkZpTzFxS3Q2aURtanNVZGswUFhIaFdvOEsyVHROU09LcnZHekMxb3hzdF9fX1RzOFFmZjRiaGJ6SmVhSkV3UlhWZm41a2VzSzA0bWMxeFFFZDNmZUVySWpTREw3bWdjYWdmcA?oc=5",
+"summary": "Nguồn: Báo Thanh Niên",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-25T05:45:00+07:00",
+"found": "2026-11-25T05:52:42+07:00"
+},
+{
 "id": "bb8e43db0cc5",
 "title": "Xăng giảm nhiều kỳ, vì sao cước xe khách vẫn chưa hạ?",
 "link": "https://vietnamnet.vn/xang-giam-nhieu-ky-vi-sao-cuoc-xe-khach-van-chua-ha-2577824.html",
@@ -222,6 +266,54 @@
 "cat": "tc",
 "published": "2026-11-25T05:30:00+07:00",
 "found": "2026-11-25T05:37:31+07:00"
+},
+{
+"id": "eee200e9fe56",
+"title": "thứ hạng của rb leipzig gặp rc lens",
+"link": "https://sports.yahoo.com/articles/confirmed-ucl-lineups-rb-leipzig-185700162.html",
+"summary": "Confirmed UCL lineups: RB Leipzig vs. RC Lens (Yahoo Sports)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvkvHAzoXQqNkHFMS3GOJmnPS12WSauaP-Cd4eHXg-nqEgkuBG9rQiOyIaBNc",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T05:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-25T05:52:42+07:00"
+},
+{
+"id": "bb99d6801642",
+"title": "tham nhũng",
+"link": "https://dantri.com.vn/thoi-su/phat-hien-nhieu-vi-pham-ve-phong-chong-tham-nhung-o-ba-ria-vung-tau-20261124190540169.htm",
+"summary": "Phát hiện nhiều vi phạm về phòng chống tham nhũng ở Bà Rịa - Vũng Tàu (Báo Dân trí)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8w-Gp_7WHn1KJu3i85OLNYyCHXYBv1oABzP2_dyiICseeQw2x2YjN5HQuEnQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T05:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T05:52:42+07:00"
+},
+{
+"id": "fc2847f3af35",
+"title": "porto vs",
+"link": "https://thethao247.vn/441-nhan-dinh-feyenoord-vs-fc-porto-thu-thach-tai-de-kuip-3h00-ngay-25-11-2026-c288-d446610.html",
+"summary": "Nhận định Feyenoord vs FC Porto: Thử thách tại De Kuip, 3h00 ngày 25/11/2026 (Thể Thao 247)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8UPWHu2YAAbVx7SlddUuOs4ZJ0BdWxpHNl91AOwxwUNmF_iUbPE3C7JA4dCA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T05:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T05:52:42+07:00"
+},
+{
+"id": "a0d20dcf0d4a",
+"title": "chi lợn",
+"link": "https://laodong.vn/thi-truong/gia-heo-hoi-hom-nay-2411-giam-manh-cao-nhat-o-muc-55000-dongkg-1805625.ldo",
+"summary": "Giá heo hơi hôm nay 24.11: Giảm mạnh, cao nhất ở mức 55.000 đồng/kg (Laodong.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUO9sn95tEwKrsul4NjJc5Dk-wVCNGoDQaZhYuJGYm6Tx7ofvztPq1g9En6cc",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T05:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T05:52:42+07:00"
 },
 {
 "id": "b97422bee3b5",
@@ -293,6 +385,30 @@
 "found": "2026-11-25T05:11:23+07:00"
 },
 {
+"id": "46e3705d803b",
+"title": "thứ hạng của como 1907 gặp aek athens f.c.",
+"link": "https://www.tallahatchienews.ms/node/457362",
+"summary": "Replace Your Title Here (Charleston Sun-Sentinel)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqwUVc_qWy2yjiUxMYKwXAE7QXTqOEWWaZQ4UGRVw35yxI5AzXRLJTBvXcgUY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T05:10:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-25T05:52:42+07:00"
+},
+{
+"id": "7ac2676a8faf",
+"title": "thứ hạng của slovan bratislava gặp real betis",
+"link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-slovan-bratislava-vs-betis-03h00-ngay-25-11-betis-ca-khuc-khai-hoan-5297532611.html",
+"summary": "Nhận định bóng đá Slovan Bratislava vs Betis, 03h00 ngày 25/11: Betis ca khúc khải hoàn (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR63RbjD9670LBFVMETfKlEw6noTyf0jku5zWmPAdLWpn6yo4bMMisRRfzZ-Ek",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T05:10:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-25T05:52:42+07:00"
+},
+{
 "id": "6d4cb8992c84",
 "title": "Thời tiết hôm nay 25-11: Bắc Bộ rét 10 độ C, Nam Bộ nóng 34 độ C",
 "link": "https://tuoitre.vn/thoi-tiet-hom-nay-25-11-bac-bo-ret-10-do-c-nam-bo-nong-34-do-c-100261124182935855.htm",
@@ -324,6 +440,18 @@
 "cat": "tc",
 "published": "2026-11-25T05:00:00+07:00",
 "found": "2026-11-25T05:11:23+07:00"
+},
+{
+"id": "9c6cb9d4ace2",
+"title": "thứ hạng của real madrid gặp psv",
+"link": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-psv-buoc-ngoat-phat-den-cup-c1-c48a1813830.html",
+"summary": "Video bóng đá Real Madrid - PSV: Trút cơn thịnh nộ (Cúp C1) (Tin tức 24h)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRAEsitTuFt3O9OLyF7HarN1j3cmQ8sTucxD0P0A8cYJy88RSGXSMii3abcyk",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T05:00:00+07:00",
+"traffic": "20000+",
+"found": "2026-11-25T05:52:42+07:00"
 },
 {
 "id": "87cbc1227057",
@@ -19392,6 +19520,17 @@
 "found": "2026-11-23T09:30:05+07:00"
 },
 {
+"id": "1d381da1e343",
+"title": "Tràn lan ảnh sao nữ hôn Chủ tịch tập đoàn công nghệ 63 tuổi, công chúng phẫn nộ",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa3c0dGFURHRSM3Yxc0ZLZ2QwNTlYMnZkRmRZWG54bVZQUWpBWFVicHhKVHl4cC1TM2tUN1RxRkUxNWVBX1N5WFNsRXhFNFlZdTFfVjdXSlBtU2wtNDF0SDN2c3pwSFhmQnctWjlseXZXVHNHWE5RR3dyWU9LNS1MQnNtdVlELTZiVDM1U3ZUbFdZb2h3M21UZVYtT2tXY1ZMb29lQmkxaFh1ZXVNVExHOGFwX0JpU0M3TlFMcA?oc=5",
+"summary": "Nguồn: aFamily",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T08:00:00+07:00",
+"found": "2026-11-25T05:52:42+07:00"
+},
+{
 "id": "239c3973ab0f",
 "title": "Thoát vai ‘trồng và bán’, hợp tác xã cà phê Lâm Đồng có cơ hội mới",
 "link": "https://tuoitre.vn/thoat-vai-trong-va-ban-hop-tac-xa-ca-phe-lam-dong-co-co-hoi-moi-100261120200406561.htm",
@@ -20381,17 +20520,6 @@
 "published": "2026-11-23T05:40:00+07:00",
 "traffic": "200+",
 "found": "2026-11-23T06:05:27+07:00"
-},
-{
-"id": "33dcdbe2515e",
-"title": "Tràn lan ảnh sao nữ hôn Chủ tịch tập đoàn công nghệ 63 tuổi, công chúng phẫn nộ",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlZUQWNIdzNMTmhXbU9rVzh4TkZfMVk2b0k2bzNnbFlfcGk5OXVJbnc5X2NSNlFzVXJ1ei1HaHJvNHh1QVN3d2JseVV6dUl5V25fTlJpSFNONGRQdU5WOWcxQ2lReXVGNlJzZDNQZ1lXY0hFSEplMjBSNzRZakI5UDFZa0tMdmF4V1hxdlRGdnpKT0NlQWRrZjF1M3JBeWtGSFhXd3R2c0pIU1J2VkRWYTNNZ2paRERROEE?oc=5",
-"summary": "Nguồn: Kenh14.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T05:38:00+07:00",
-"found": "2026-11-23T07:53:21+07:00"
 },
 {
 "id": "4d0aa973afd8",
@@ -27999,133 +28127,6 @@
 "published": "2026-11-22T04:50:00+07:00",
 "traffic": "500+",
 "found": "2026-11-22T05:30:25+07:00"
-},
-{
-"id": "fa8a41d760df",
-"title": "đội tuyển bóng đá u-17 quốc gia tây ban nha",
-"link": "https://www.24h.com.vn/bong-da/video-bong-da-u17-tay-ban-nha-u17-trung-quoc-huy-diet-5-ban-u17-world-cup-c48a1812803.html",
-"summary": "Video bóng đá U17 Tây Ban Nha - U17 Trung Quốc: Hủy diệt 5 bàn (U17 World Cup) (Tin tức 24h)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrT2r7IMEHJdaZXGAtwLL8sD11F3R4CYwmfcLes_8imWuFuYICLaf2aPrFQgI",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T04:40:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-22T05:00:06+07:00"
-},
-{
-"id": "5af60c959353",
-"title": "Một sổ đỏ có nhiều thửa đất, khi cấp đổi có phải tách thành nhiều sổ riêng?",
-"link": "https://thanhnien.vn/mot-so-do-co-nhieu-thua-dat-khi-cap-doi-co-phai-tach-thanh-nhieu-so-rieng-185261121161827663.htm",
-"summary": "Người dân muốn chuyển đất vườn sang đất ở nhưng bị thông báo sẽ cấp riêng sổ hồng cho từng thửa đất liền kề trong cùng một sổ đỏ. Luật sư cho rằng việc làm này không đúng luật.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-luat-su-nguyen-van-hau-17952518153971065611009-52-0-848-1274-crop-17952519845321780352984.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-22T04:31:00+07:00",
-"found": "2026-11-22T04:44:30+07:00"
-},
-{
-"id": "15d24f70a410",
-"title": "đội tuyển bóng đá u-17 quốc gia colombia",
-"link": "https://vov.vn/the-thao/ket-qua-u17-world-cup-2026-choi-thieu-nguoi-u17-nhat-ban-thua-dau-u17-colombia-post1352149.vov",
-"summary": "Kết quả U17 World Cup 2026: Chơi thiếu người, U17 Nhật Bản thua đau U17 Colombia (VOV.VN)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3xjX16TB_bOEO1LQfKcvAAsD2XYapgx0B0wdoR6EycpXQGuKX8c6Q6a_agNY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T04:30:00+07:00",
-"traffic": "500+",
-"found": "2026-11-22T05:00:06+07:00"
-},
-{
-"id": "334e1f7d2be8",
-"title": "Ngày 22/11, gửi dưới 100 triệu đồng kỳ hạn 18 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
-"link": "https://cafef.vn/ngay-22-11-gui-duoi-100-trieu-dong-ky-han-18-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261121213006452.chn",
-"summary": "Lãi suất tiết kiệm kỳ hạn 18 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB có sự chênh lệch đáng kể giữa hình thức gửi tại quầy và trực tuyến. Với khoản tiền gửi dưới 100 triệu đồng, số tiền lãi khách hàng nhận được phụ thuộc vào ngân hàng, sản phẩm tiết kiệm…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/179090852721859745778259262868715974577825926286871h-143223852-150101-17952712827271408362907-0-0-750-1200-crop-17952712865531324229631.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-22T04:28:00+07:00",
-"found": "2026-11-22T04:44:30+07:00"
-},
-{
-"id": "141876c488ed",
-"title": "bão áp thấp nhiệt đới",
-"link": "https://trends.google.com/trending/rss?geo=VN",
-"summary": "",
-"image": "",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T04:00:00+07:00",
-"traffic": "200+",
-"found": "2026-11-22T04:29:18+07:00"
-},
-{
-"id": "36c2695a1341",
-"title": "Nhân viên văn phòng rủ nhau chăm mộ nghĩa trang",
-"link": "https://vnexpress.net/nhan-vien-van-phong-ru-nhau-cham-mo-nghia-trang-5146312.html",
-"summary": "Cuối tuần, Thùy Dương cùng đồng nghiệp đi xe máy hơn 60 km từ Hà Nội lên Hòa Bình cũ chăm mộ, dọn cỏ khuôn viên nghĩa trang trong một ngày.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/a3-1795015600-7563-1795015616.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=07JQlYIkdJ7P5qa-dWhciw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-22T04:00:00+07:00",
-"found": "2026-11-21T04:15:58+07:00"
-},
-{
-"id": "251ab01a0724",
-"title": "Nhân viên văn phòng rủ nhau chăm mộ, bảo vệ nghĩa trang",
-"link": "https://vnexpress.net/nhan-vien-van-phong-ru-nhau-cham-mo-bao-ve-nghia-trang-5146312.html",
-"summary": "Cuối tuần, Thùy Dương cùng đồng nghiệp đi xe máy hơn 60 km từ Hà Nội lên Hòa Bình cũ chăm mộ, dọn cỏ khuôn viên nghĩa trang trong một ngày.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/a3-1795015600-7563-1795015616.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=07JQlYIkdJ7P5qa-dWhciw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-22T04:00:00+07:00",
-"found": "2026-11-22T12:24:07+07:00"
-},
-{
-"id": "c486e8dfc5a1",
-"title": "thứ hạng của sevilla fc gặp real betis",
-"link": "https://www.bbc.com/sport/football/live/cr2klx9kkkvwt",
-"summary": "Sevilla vs Real Betis: Spanish La Liga stats & head-to-head (BBC)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T03:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-22T04:14:08+07:00"
-},
-{
-"id": "e0dab51987bb",
-"title": "Báo Bỉ: 'Tưởng chừng sẽ thắng dễ Việt Nam ở U17 World Cup'",
-"link": "https://vnexpress.net/bao-bi-tuong-chung-se-thang-de-viet-nam-o-u17-world-cup-5147481.html",
-"summary": "Truyền thông Bỉ đánh giá trận thắng Việt Nam 3-2 ở vòng bảng U17 World Cup 2026 là hấp dẫn nhưng khó nhằn, đồng thời khen ngợi hai bàn thắng của Lê Sỹ Bách và Chu Ngọc Nguyễn Lực.",
-"image": "https://vcdn1-thethao.vnecdn.net/2026/11/21/img-1795256741-3279-1795256854.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wgwiQXg8HZUg3xD4TxIqIQ",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-22T03:38:27+07:00",
-"found": "2026-11-22T10:45:30+07:00"
-},
-{
-"id": "da953040d1b6",
-"title": "napoli đấu với torino",
-"link": "https://bongdaplus.vn/serie-a/nhan-dinh-bong-da-napoli-vs-torino-02h45-ngay-22-11-tin-vao-chu-nha-5294842611.html",
-"summary": "Nhận định bóng đá Napoli vs Torino, 02h45 ngày 22/11: Tin vào chủ nhà! (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLrBsvtY-bMR2s--IDHRMFden_zy9Wux3usjGzIQmtyYSOQOFffvo6-0x9O1Y",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T02:40:00+07:00",
-"traffic": "500+",
-"found": "2026-11-22T02:57:09+07:00"
-},
-{
-"id": "8032dc8ddf42",
-"title": "napoli",
-"link": "https://www.napolicalcionews.it/news-calcio-napoli/Allegri-a-Sky---Oggi-i-cambi-saranno-determinanti--De-Bruyne--Non-e-questione-di-gestione--151467.aspx",
-"summary": "ALLEGRI A SKY: \"OGGI I CAMBI SARANNO DETERMINANTI. DE BRUYNE? NON È QUESTIONE DI GESTIONE\" (NapoliCalcioNews.it)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREkLZIWqHOPBSn6vBp2sDf852NZiBtoR_SaQjx6HKOwm3rMi4NSeVs3I0EJu0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T02:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-22T02:57:09+07:00"
 }
 ]
 }
