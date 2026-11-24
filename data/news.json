@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T18:48:40+07:00",
-"new": 4,
+"updated": "2026-11-24T19:04:10+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 46
+"count": 21
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,72 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "f3f8984940d4",
+"title": "Công an xác định nguồn phát nổ khí gas làm 6 người tử vong ở Hà Nội",
+"link": "https://vietnamnet.vn/cong-an-xac-dinh-nguon-no-khi-gas-lam-6-nguoi-tu-vong-o-ha-noi-2578245.html",
+"summary": "Công an Hà Nội xác định nguyên nhân ban đầu vụ nổ tại phố Nguyễn Văn Tuyết do rò rỉ khí gas, kết hợp với ôxy trong không khí gặp nguồn nhiệt thích hợp, gây cháy nổ hỗn hợp khí.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/1795489665438-4967493519346486797-4967493519346486797-0a895e889e0d26b884ba3b822905a644-6370.jpg?width=0&s=LSsUrvKmqM3pGfAFTkyBLA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T19:01:48+07:00",
+"found": "2026-11-24T19:04:10+07:00"
+},
+{
+"id": "54529790e590",
+"title": "Phát hiện vi phạm tại một số thửa đất của người có nghệ danh Lý Nhã Kỳ",
+"link": "https://cafef.vn/phat-hien-vi-pham-tai-mot-so-thua-dat-cua-nguoi-co-nghe-danh-ly-nha-ky-188261124181041002.chn",
+"summary": "UBND xã Sông Ray đã báo cáo UBND TP Đồng Nai về kết quả kiểm tra 15 thửa đất ở khu vực hồ Sông Ray của người có nghệ danh Lý Nhã Kỳ, trong đó có một số thửa đất vi phạm về xây dựng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795518338401-1795518338645303193772.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-24T18:59:00+07:00",
+"found": "2026-11-24T19:04:10+07:00"
+},
+{
+"id": "4d98f02b8731",
+"title": "Phát hiện vi phạm tại một số thửa đất của người có nghệ danh Lý Nhã Kỳ",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN19QTzdDRVZKb21kWldrUklLV0RtNjRRbFQ4Zkhra3dnRFdUTHpFY1B0eEJta2tSbEZWM0o2Z3lRa3EzaGlWNF9kX212bzdTR2N5UTFOUzRSOVpOT0VSNGZ4d3VRM1pBTVNmUGhjS2xVTGhSM2NFbjZ1dEN0Tl9ydVRlMkhVMzdWOWZMRkNCaUFaTXNpUnF2LW5rVTdnZTBXaS01UGV3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T18:57:00+07:00",
+"found": "2026-11-24T19:04:10+07:00"
+},
+{
+"id": "4ce55278b9de",
+"title": "Phát hiện vi phạm tại một số thửa đất của người có nghệ danh Lý Nhã Kỳ",
+"link": "https://kenh14.vn/phat-hien-vi-pham-tai-mot-so-thua-dat-cua-nguoi-co-nghe-danh-ly-nha-ky-215261124181121513.chn",
+"summary": "UBND xã Sông Ray đã báo cáo UBND TP Đồng Nai về kết quả kiểm tra 15 thửa đất ở khu vực hồ Sông Ray của người có nghệ danh Lý Nhã Kỳ, trong đó có một số thửa đất vi phạm về xây dựng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795518647724-17955186483151298662111.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T18:53:00+07:00",
+"found": "2026-11-24T19:04:10+07:00"
+},
+{
+"id": "a522693a0bf0",
+"title": "Ninh Bình bắt giam 6 người làm giả 28 bộ hồ sơ mua nhà xã hội",
+"link": "https://cafef.vn/ninh-binh-bat-giam-6-nguoi-lam-gia-28-bo-ho-so-mua-nha-xa-hoi-188261124181456118.chn",
+"summary": "Lợi dụng chính sách phát triển nhà ở xã hội dành cho người thu nhập thấp, 6 đối tượng tại Ninh Bình đã làm giả 28 bộ hồ sơ với hơn 250 tài liệu, giấy tờ để đăng ký mua nhà. Một số đối tượng còn lập hợp đồng nhận đặt cọc mua nhà, chiếm đoạt 300 triệu đồng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795518585543-1795518585847185646822.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-24T18:50:00+07:00",
+"found": "2026-11-24T19:04:10+07:00"
+},
+{
+"id": "559bc4fccad8",
+"title": "Ba chuyến bay phải chuyển hướng do diều ở Nội Bài",
+"link": "https://vnexpress.net/ba-chuyen-bay-phai-chuyen-huong-do-dieu-o-noi-bai-5148451.html",
+"summary": "Phát hiện chiếc diều gần sân bay Nội Bài, nhà chức đã điều tiết một số chuyến bay chờ hạ cánh và điều chuyển ba máy bay đáp xuống Cát Bi (Hải Phòng).",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/496489369-1795520208-4767-1795520659.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=dcJnl8LWR-u7jVPZgjS0Jg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T18:44:37+07:00",
+"found": "2026-11-24T19:04:10+07:00"
+},
+{
 "id": "adc455ed1514",
 "title": "Hỗ trợ người dân di dời ra khỏi khu vực nguy hiểm sau vụ nổ tại phố Nguyễn Văn Tuyết",
 "link": "https://kenh14.vn/ho-tro-nguoi-dan-di-doi-ra-khoi-khu-vuc-nguy-hiem-sau-vu-no-tai-pho-nguyen-van-tuyet-215261124180953063.chn",
@@ -224,6 +290,17 @@
 "found": "2026-11-24T18:48:40+07:00"
 },
 {
+"id": "0fdd8249aba2",
+"title": "Hà Nội quyết liệt xử lý các công trình vi phạm đất đai, trật tự xây dựng, phòng cháy, chữa cháy",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUZvOWRXdkZaWmNteHBfTkNaSTh5X0stTGI2S1RNeDF3akw0TzU4THpYX1h1WV9lUXQ5a1E4YUE3Nm1DLUZBNUt6WlJYSkRFVXEwclRHVHF6RVhQaVYzQmNPdWRRUFNlUk55RlFHbHZvak1GN0psbEx6MlB4ZmZ1ZktVTThMRXBCMHlGeVpzbGRieE8zVDgycGptc1pJei1odzc3TjNFcDRKeW9BT0hYQmIwb1lEbnRVM0w5bDFFb1JFcnM?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T18:35:00+07:00",
+"found": "2026-11-24T19:04:10+07:00"
+},
+{
 "id": "f0248cff1bcb",
 "title": "Việt Nam có gia đình trí thức đặc biệt với 6 người con đều là Giáo sư, Phó Giáo sư: Cha từng là Bộ trưởng, 3 con rể là tướng lĩnh quân đội, con trai duy nhất không theo ngành của cha mà làm kiến trúc sư",
 "link": "https://kenh14.vn/viet-nam-co-gia-dinh-tri-thuc-dac-biet-voi-6-nguoi-con-deu-la-giao-su-pho-giao-su-cha-tung-la-bo-truong-3-con-re-la-tuong-linh-quan-doi-con-trai-duy-nhat-khong-theo-nganh-cua-cha-ma-lam-kien-truc-su-215261124181646289.chn",
@@ -233,6 +310,28 @@
 "cat": "xh",
 "published": "2026-11-24T18:34:00+07:00",
 "found": "2026-11-24T18:48:40+07:00"
+},
+{
+"id": "f6222b624b16",
+"title": "Bất động sản 24/11: Hưng Yên mở bán 92 căn nhà ở xã hội, giá từ 786 triệu đồng",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWwzNGx2U0o4RnV3RzVTc2kxRzBxM1FraTdHOHRKUXZQY0RkRV9rbklnZ3RlaHhVaVNXQWhqdG1nN2xROHA4SnJqaXBtV1UzTGlIUFkySHZmZkNHQnl4d0ZuU09jMWNzejQ3SEdrVmw1OWE3NEJTVmk0aHE2NV9tTHB5bE0yd2VLWWJnR1JnUlpPUVVzak1UcnN0OVFQNjBIREppYnhUMVBiamRaeGc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T18:34:00+07:00",
+"found": "2026-11-24T19:04:10+07:00"
+},
+{
+"id": "e82a7a8d29de",
+"title": "1.458 căn hộ CT6 Kiến Hưng tồn tại có điều kiện",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHZ6UF9UdzhjYXB4dU5YYzNwRGNvZGxlV1lGUjQzSUZ0aWk0czJ3M1BMSHZsX3lJZVl0RS1MaW1TQzRfVmdCTkMtTzkyV2ZKQUFZNHpWbGROR0k4TDQzZlN1empSaU9QdHpVX1lhOG5ZUk9fMW96N1VEUU10MDJ6UEVJSnpuZE0?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T18:31:00+07:00",
+"found": "2026-11-24T19:04:10+07:00"
 },
 {
 "id": "8e93628240dd",
@@ -257,6 +356,18 @@
 "found": "2026-11-24T18:33:10+07:00"
 },
 {
+"id": "78a7c35c5c3b",
+"title": "ratchaburi đấu với johor dt",
+"link": "https://baonghean.vn/truc-tiep-ratchaburi-vs-johor-darul-takzim-fc-doi-hinh-xuat-phat-10356517.html",
+"summary": "Trực tiếp Ratchaburi vs Johor Darul Takzim FC: Đội hình xuất phát (Báo Nghệ An)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTp5JMl9NJ36Y6s4o61fV45fdB8ovv8dq0kpWt0akGvbgvPCmgeYRtF9ae9sGQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T18:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T19:04:10+07:00"
+},
+{
 "id": "8db275023dbf",
 "title": "Hình hài đường nối cao tốc Biên Hòa - Vũng Tàu gần 14.000 tỷ sau hơn 1 năm thi công",
 "link": "https://cafef.vn/hinh-hai-duong-noi-cao-toc-bien-hoa-vung-tau-gan-14000-ty-sau-hon-1-nam-thi-cong-188261124181347967.chn",
@@ -277,6 +388,17 @@
 "cat": "tc",
 "published": "2026-11-24T18:27:00+07:00",
 "found": "2026-11-24T18:33:10+07:00"
+},
+{
+"id": "799195a2d628",
+"title": "Về Buôn Ma Thuột, thưởng thức cà phê ở con đường me cổ thụ dịp lễ",
+"link": "https://tuoitre.vn/ve-buon-ma-thuot-thuong-thuc-ca-phe-o-con-duong-me-co-thu-dip-le-100261124103133188.htm",
+"summary": "Giữa lòng Buôn Ma Thuột, con đường Phan Đình Giót rợp bóng me cổ thụ trở thành điểm hẹn của người dân và du khách trong những ngày diễn ra \"Không gian di sản văn hóa cà phê\".",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/ve-buon-ma-thuoc-thuong-thuc-ca-phe-o-con-duong-me-co-thu-le-trung-2026-11-24-20-1795490584514714750608-74-0-1949-3000-crop-1795490595695341320609.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T18:27:00+07:00",
+"found": "2026-11-24T19:04:10+07:00"
 },
 {
 "id": "0fc7587392e2",
@@ -498,7 +620,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T17:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T18:03:10+07:00"
 },
 {
@@ -7679,6 +7801,17 @@
 "cat": "bds",
 "published": "2026-11-23T22:16:00+07:00",
 "found": "2026-11-24T05:28:26+07:00"
+},
+{
+"id": "380e00db2f54",
+"title": "Đoàn công tác Thanh tra Chính phủ làm việc với UBND tỉnh",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmJVc3Qyc3gzWDBfaUF6SGtWa0hqb2Q4dXRFd0dFaURmSDJRM3ZqdGpuVEtLRWhXeVdMRUNoM0VhblhndS04bWVHenVQVDAzdjR6RFZvbnJzNC1IWXJ0blFwQnpCdGEzZ01CTk0tS29BRVZINzY3eXhrLU1tQzl1YkFiSVhBVFJfcmwwQzA2VVVEeE0?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T22:16:00+07:00",
+"found": "2026-11-24T19:04:10+07:00"
 },
 {
 "id": "8e4075ff8c84",
@@ -27998,138 +28131,6 @@
 "published": "2026-11-21T17:40:00+07:00",
 "traffic": "500+",
 "found": "2026-11-21T18:28:02+07:00"
-},
-{
-"id": "bd3c43830c95",
-"title": "Từng là “hoa hậu”, nay về đáy 10 năm, cơ hội nào cho cổ phiếu PNJ?",
-"link": "https://dantri.com.vn/dt360/tung-la-hoa-hau-nay-ve-day-10-nam-co-hoi-nao-cho-co-phieu-pnj-20261121103004743.htm",
-"summary": "(Dân trí) - Những ngày qua, cổ phiếu PNJ liên tục được giao dịch quanh vùng 14.500 đồng. Từ ngôi sao sáng trên thị trường chứng khoán, cổ phiếu PNJ không chỉ mất hơn 80% thị giá mà còn đang ở vùng đáy 10 năm.",
-"image": "https://cdnphoto.dantri.com.vn/Kt-4edKwY4QqF1qG7tNi1vh53kQ=/2026/11/21/tung-la-hoa-hau-nay-ve-day-10-nam-co-hoi-nao-cho-co-phieu-pnj-cropped-1795231694996.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T17:38:50+07:00",
-"found": "2026-11-21T17:57:25+07:00"
-},
-{
-"id": "55e556c7a48d",
-"title": "Người dân Điện Biên phấn khởi, sẵn sàng cho dự án cao tốc",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREFWVm4wOEN0emdQTklNZ3RKZGhEdE5PaV9LRG1QZk5mNlBIbkRRcWNpZzBmNGtIWEdxbmRLd3hBdnVucEhrWHp5RFhxOEJOWDlYQ2hyRUE2MUdGWEZtcUZIU1FFaGJBYkdJb1BsRVZ2WGVVT0d2VU1KVUlnMFROWmg3b09nYlNmaU5aWllCQjZvNFE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T17:32:00+07:00",
-"found": "2026-11-21T18:28:02+07:00"
-},
-{
-"id": "074520d70545",
-"title": "Một đoạn cao tốc TP.HCM - Long Thành chuyển làn, tài xế cần lưu ý gì?",
-"link": "https://tuoitre.vn/mot-doan-cao-toc-tphcm-long-thanh-chuyen-lan-tai-xe-can-luu-y-gi-100261121142613746.htm",
-"summary": "Từ 0h ngày 22-11, xe cộ đi cao tốc TP.HCM - Long Thành - Dầu Giây (đoạn từ cầu dẫn Long Thành đến nút giao quốc lộ 51) sẽ được chuyển sang phần đường mở rộng vừa hoàn thành, để phục vụ thi công nâng cấp mặt đường hiện hữu.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/179525201489718099154321354508281809915432135450828959a755a68f3d72c3c087c321871d450-1795254030260697196375-98-0-1625-2443-crop-1795255529991305463050.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T17:31:00+07:00",
-"found": "2026-11-21T19:29:18+07:00"
-},
-{
-"id": "f82b5267afa5",
-"title": "Áp dụng bảng giá đất, hệ số điều chỉnh từ ngày 01/01/2028",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbGV2M3FUWlltQ1pLdVlySUpwNVlHWWoydjZhcmVxN3FhU2NDVk5UZVEwWnk1Ry1FRWpGNTFpT0NQWHlySHY1ZEVfV3ZLTzJkYW0xWW1yVUJFLW50QUdpeFp5M215amptUjduSXFLa3ZJZVFTYnVZN1FKYzh0aHdCeHJ1dDJENWF3THVtaUVNNGN2SDA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T17:30:46+07:00",
-"found": "2026-11-21T17:42:16+07:00"
-},
-{
-"id": "480860c1b14b",
-"title": "Ngân hàng Thái Lan khuyến khích nhân viên nghỉ hưu từ tuổi 45",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMEY4RUkyeWxZVG92Z3RoMlhZbklmb2NDQ3V3RTVkNVpla3pMTEcyV0gzVmhmNHhXV2NXMzNOZkdJN0VqVUozRTQzMUVuSDdUbzJzcUplWGdvb2l6S01KQUFEWUZJSXNXVHoxNXpTeHRlZXhvWTJNUzVxbUR5TzVnSnRhMWNnd0xNTGxsZ2RsbkxPWTZjeEtVcFhR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T17:30:31+07:00",
-"found": "2026-11-21T21:19:05+07:00"
-},
-{
-"id": "cbe5e589f1f5",
-"title": "Làm rõ vụ đổ đất đá xuống biển ở Nha Trang",
-"link": "https://thanhnien.vn/lam-ro-vu-do-dat-da-xuong-bien-o-nha-trang-185261121165408308.htm",
-"summary": "Sau khi xuất hiện thông tin phản ánh việc đổ đất đá xuống biển tại khu nghỉ dưỡng dưới chân đèo Lương Sơn, phường Bắc Nha Trang, UBND tỉnh Khánh Hòa đã chỉ đạo cơ quan chức năng làm rõ vụ việc.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-dji0020-1795253749613866863759-0-256-1440-2560-crop-1795254758446267899561.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T17:30:00+07:00",
-"found": "2026-11-21T17:42:16+07:00"
-},
-{
-"id": "2ea7bc68c2b4",
-"title": "ROX Group hợp tác phát triển năng lượng sạch tại Azerbaijan",
-"link": "https://dantri.com.vn/kinh-doanh/rox-group-hop-tac-phat-trien-nang-luong-sach-tai-azerbaijan-20261121170713131.htm",
-"summary": "(Dân trí) - ROX Group và Bộ Năng lượng Azerbaijan vừa trao Thỏa thuận triển khai về việc đánh giá, phát triển và thực hiện dự án điện mặt trời và dự án điện gió tại quốc gia này.",
-"image": "https://cdnphoto.dantri.com.vn/aYcFfZHZ_uAxSIWVMDecNq3-gfM=/2026/11/21/pr-tcbc-su-kien-ia-20-cropped-1795255495091.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T17:30:00+07:00",
-"found": "2026-11-21T17:57:25+07:00"
-},
-{
-"id": "d470c22dead9",
-"title": "TPHCM: Bồi thường nhà đất dự án rạch Ông Bé, cao nhất 222 triệu đồng/m2",
-"link": "https://cafef.vn/tphcm-boi-thuong-nha-dat-du-an-rach-ong-be-cao-nhat-222-trieu-dong-m2-18826112117074801.chn",
-"summary": "Theo phương án bồi thường, hỗ trợ, tái định cư dự án nạo vét, cải tạo môi trường kết hợp chỉnh trang đô thị trục thoát nước rạch Ông Bé UBND phường Chánh Hưng vừa ban hành, đơn giá bồi thường nhà đất của các hộ dân thuộc diện giải tỏa, di dời cao hơn bảng giá đất của TPHCM…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795255314039-1795255314384512985371.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T17:29:00+07:00",
-"found": "2026-11-21T17:42:16+07:00"
-},
-{
-"id": "aba6fa73d939",
-"title": "Tây Ninh gắn tăng năng suất với tăng thu nhập người lao động",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2lramdIdmFva1EtbFYyQmpfQjQ0UHNoZ3BRUFU2MjVzdTB3QVJlY0lYa0NPTUlZMkk3WEI1Njk5a0JsMGc2VnNneXdRZWp2ZnhBWWtzOXJCTW8xRE9mSmRacFNKNEQxcVVXY3VHSW1MMXhoaW4tVDR0MWFNRUJ0LWdDWG1yUnIxS1BsQmFLSEpUU3UzUXhKLQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T17:27:00+07:00",
-"found": "2026-11-22T06:16:29+07:00"
-},
-{
-"id": "a7c8a84125a5",
-"title": "Để điện ảnh trở thành ngành công nghiệp sáng tạo có sức cạnh tranh",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjlIZWdpVlBaWEMyUnJ1d1AtamtCeDhyLVFLMXp5S0hGX0hfTzNhQW5yM1V1VFlVbmkwYmdLRGNFOG96T2lNSVpMejJ2U2hKV0w0YW43TWVqVVdINUpaZFZYYjFneFoza0FQQ1A5b1NXXzJnZjhlQTFoTzROR3V3U3pBc3BWaWUzUk5KNnl3MjRZOE5iZzhkRkt5ZHNVYjFX?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T17:24:44+07:00",
-"found": "2026-11-22T13:34:04+07:00"
-},
-{
-"id": "3e04eb455bd7",
-"title": "Phu nhân Ngô Phương Ly cùng Phu nhân Tổng thống Azerbaijan trải nghiệm văn hóa phố cổ Hà Nội",
-"link": "https://tuoitre.vn/phu-nhan-ngo-phuong-ly-cung-phu-nhan-tong-thong-azerbaijan-trai-nghiem-van-hoa-pho-co-ha-noi-100261121152852851.htm",
-"summary": "Trong tiết trời đầu đông, hương trà sen, tiếng phách ca trù và sắc lụa áo dài đã làm nên cuộc gặp thân tình, ấm áp giữa Phu nhân Ngô Phương Ly và Phu nhân Tổng thống Azerbaijan.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/phu-nhan-ngo-phuong-ly-azerbaijan-1-1795249767427216849201-999-1445-3275-5086-crop-1795249843332169348726.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T17:22:00+07:00",
-"found": "2026-11-21T17:42:16+07:00"
-},
-{
-"id": "34b0a2ab53af",
-"title": "Hải Phòng rà soát 3 dự án chậm triển khai",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WNHVzZW84WXFMV0tSZUJsaF80cnk5T3UtTE0yTnRwSXVVMFpmWTU4Q3NzT3VnZ3VnN1hkWi0zbkF3dmtwOUp0MFVodjIwRXdiT2FSQlA4MFRaTnktLTZ3aVRWYkd2VVlXZnhSMzRnV3N0Rkx4dk1vWHFDOTAxMnc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T17:19:38+07:00",
-"found": "2026-11-21T17:27:08+07:00"
 }
 ]
 }
