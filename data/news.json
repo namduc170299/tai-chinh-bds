@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T16:12:22+07:00",
-"new": 13,
+"updated": "2026-11-24T16:27:31+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 20
+"count": 45
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,17 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "1652a9a77c7d",
+"title": "Từ 1/7/2027, căn hộ chung cư được cho thuê lưu trú",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGtCXzBLeVdXZE5rTWhuTHl3OXlzbloxbWJCcjFTTXYyVlZ1RVM2YlhmNE1xem1PX2JnY1VlTGtUdHk3ZFcyQTdQcWZEaE00X3hrWThnM1RVM0p2YjhHWTJQWHdjSmQyb0t3Q0lTWFlUSktqYjg4Ump6U0dKNzJTc292ZG85TmVscXc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T16:14:15+07:00",
+"found": "2026-11-24T16:27:31+07:00"
+},
 {
 "id": "d4c92d15cb0e",
 "title": "Siêu El Nino tăng nhiệt trở lại sau 2 tuần suy giảm",
@@ -323,6 +334,28 @@
 "found": "2026-11-24T16:12:22+07:00"
 },
 {
+"id": "6fb7e651baac",
+"title": "Cựu Phó Tổng giám đốc Công ty Bách Đạt An được giảm án từ chung thân xuống 20 năm tù về tội 'Tham ô tài sản'",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLVJjU25hUHBaOHFyQlFTdWY3Y2JyT181bzFCMk9zVmd3ZEZxblZScThVNjVuTzJzaV9mOTBlX1IyQ2xyT2NHZ3YyOUV3NDVtZEhDX212Y29lZW83Z0lOV3ZOemZDM3BqdmdYRWR5clYzZkk5NkphZDU3ZVVuSG5WOGhwYWdYZUxlLWlIdUNZU0hCcnlud2ZUSzR0T19QMjZWNkd4amhqVV8yZldTR3A5RUFqdmtfTHFRdFhhamhaQktzSkZ6WVI1Q3pObVAtNTRISjU3anhR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T15:50:00+07:00",
+"found": "2026-11-24T16:27:31+07:00"
+},
+{
+"id": "71177e2ea993",
+"title": "‘La bàn’ ẩm thực Coca-Cola Foodmarks giúp tìm quán ngon theo sở thích",
+"link": "https://tuoitre.vn/la-ban-am-thuc-coca-cola-foodmarks-giup-tim-quan-ngon-theo-so-thich-10026112317223884.htm",
+"summary": "Thay vì mất thời gian tìm kiếm giữa nhiều lựa chọn, người dùng có thể tham khảo bản đồ ẩm thực Coca-Cola Foodmarks để khám phá các quán ăn địa phương và những địa điểm được cộng đồng yêu thích.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/8235-1795508765481951387173-30-0-830-1280-crop-17955087727041370057934.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T15:46:00+07:00",
+"found": "2026-11-24T16:27:31+07:00"
+},
+{
 "id": "17a85abe43ac",
 "title": "USD duy trì sát đỉnh 20 tháng nhờ 'cú twist' của Nvidia củng cố kỳ vọng Fed tăng lãi suất",
 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNajVsQTMwemZmdERvdWtUVXJ4YTV0cFBaUHZBUU5Dd2NQdVNHU0NRSlpGbWp1MG5yRHJYZHJra2FZRjM5VV9Jb0xLNWY3UzVKWVU0Qmsta3lkcjZUWHhCdEY3VGtpZGtQRnl1YnJGdERLd2QtLWVlbmV3QlFYQU5jTHo1aEZvTEFTTUF1dllyYWVoMldxemJoRmJweENKcl85SWgzSTQ3QnJubUdfcGozaFZ3R2MxME52cGwySA?oc=5",
@@ -367,6 +400,17 @@
 "found": "2026-11-24T15:01:52+07:00"
 },
 {
+"id": "b8f08f65eba0",
+"title": "Luật đất đai sửa đổi: Bảng giá đất được xây dựng theo tiêu chí nào?",
+"link": "https://tuoitre.vn/luat-dat-dai-sua-doi-bang-gia-dat-duoc-xay-dung-theo-tieu-chi-nao-100261124133229794.htm",
+"summary": "Luật đất đai sửa đổi 2026 quy định bảng giá đất được xây dựng theo loại đất, khu vực, vị trí. Hệ số điều chỉnh cho phép điều chỉnh giá tăng hoặc giảm để phản ánh sự khác biệt về vị trí, hạ tầng, quy hoạch và các yếu tố khác đã được xác định trong bảng giá đất.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/bds-dat-dai-3-edit-17955101598621882027632-106-0-1706-2560-crop-1795510241749227630180.jpg",
+"source": "Tuổi Trẻ",
+"cat": "bds",
+"published": "2026-11-24T15:42:00+07:00",
+"found": "2026-11-24T16:27:31+07:00"
+},
+{
 "id": "3ddc3af7ec79",
 "title": "tin nhắn sms",
 "link": "https://cafef.vn/canh-bao-tin-nhan-sms-mao-danh-napas-voi-nhieu-kich-ban-lua-dao-khach-hang-188261124125154879.chn",
@@ -375,7 +419,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T15:40:00+07:00",
-"traffic": "100+",
+"traffic": "500+",
 "found": "2026-11-24T16:12:22+07:00"
 },
 {
@@ -587,7 +631,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T15:10:00+07:00",
-"traffic": "1000+",
+"traffic": "200+",
 "found": "2026-11-24T16:12:22+07:00"
 },
 {
@@ -1274,7 +1318,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T13:10:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-24T13:34:29+07:00"
 },
 {
@@ -1451,7 +1495,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T12:50:00+07:00",
-"traffic": "500+",
+"traffic": "2000+",
 "found": "2026-11-24T13:09:54+07:00"
 },
 {
@@ -4829,6 +4873,28 @@
 "published": "2026-11-24T07:00:00+07:00",
 "traffic": "1000+",
 "found": "2026-11-24T07:49:19+07:00"
+},
+{
+"id": "93b054f3741d",
+"title": "Quốc phát hiện thân phận thật của người mà Phú giới thiệu là bố | Đội bóng nữ làng Xuân | Tập 22",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DUm9YNTU3aW5wN3hBWkk4R1lSS1JFalFWUFNBLWtOeWlqYkNXdVVCQ3hKTU9POFRvT19uMXRnSEQ?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T07:00:00+07:00",
+"found": "2026-11-22T18:30:15+07:00"
+},
+{
+"id": "8df08ff1dff8",
+"title": "Thịt bò giả ngâm hóa chất: Nguy hại sức khỏe khó lường",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5ndGZvak5yY1YtRHNDMkVOeDJGdXBKQ1p0eVBFWkgwZEhRWmZPbjRMS3VwRTF2NWlDM1A3cGZCTEY?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T07:00:00+07:00",
+"found": "2026-11-24T16:27:31+07:00"
 },
 {
 "id": "eec940d77486",
@@ -9521,6 +9587,17 @@
 "found": "2026-11-23T17:11:27+07:00"
 },
 {
+"id": "51cc3d2de315",
+"title": "Phú Quốc hoàn thành 78/78 tiêu chí về an ninh, trật tự và văn minh đô thị",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYU5RUExlTXVJc2tCNDNWYmdNOGh3QWFheTloMk5FZGladldGdjhoSlRPdXFnazJTX09XMDg3YVJ6ZkxzZW9nckdva0QwaXNISzNNTUg2VzZlUWJtTE1Ob2dnQmp2SllQTXVjVkhtcG0yWWhMSEJubFNwRzNOaHJjZXl0QkFxaEJkaHRVQkRJazM5M2NNOEc5d0o1WFVoZXFiVzV6TkNNclI?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T17:02:00+07:00",
+"found": "2026-11-24T16:27:31+07:00"
+},
+{
 "id": "1b60d9087ff8",
 "title": "Ý nghĩa ảnh chú mèo \"xấu xí\" tràn ngập trên mạng xã hội những ngày qua",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUG84dS02enNvdzRMbm1tNTZxRkVXMEZObl9JVDd2Wm5XOXE0MHN5VU9YdUdkX1hkYS1lMUltbFBOVjhSNnliUm9YOHUxNlg1TzlfMUpHNjlNWkxmcXpkYmN2ak9rQjdUX1c0dlVIcE1YSWlhZlpZcjJGQmVBd3JBRjlEQTQ1V29TaUdUclE5VVl4SEZLeXc?oc=5",
@@ -11883,6 +11960,17 @@
 "cat": "xh",
 "published": "2026-11-23T13:35:14+07:00",
 "found": "2026-11-23T14:33:02+07:00"
+},
+{
+"id": "9a366ba2e38a",
+"title": "Thiều Bảo Trâm lại gây xôn xao vì cam thường",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWHMxYUhWeEZjbmMxXzRnRXdWR001cTNqMlJDdTN2Z3NIeVhBbTRxUlpSTG11eVlXS21LaF9JTTI5S2RmbEFUbUZ4WVBSS0xoTHB6aF9fY2JpNWRzSjJLcFptcjlLakE4dmMxQ25saGxmenViUDFPT3hHWkxaS19fRFl2bWFQQXpCdW9CbQ?oc=5",
+"summary": "Nguồn: m.gamek.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T13:34:00+07:00",
+"found": "2026-11-24T16:27:31+07:00"
 },
 {
 "id": "b4dce931412b",
@@ -16061,17 +16149,6 @@
 "found": "2026-11-21T17:57:42+07:00"
 },
 {
-"id": "93b054f3741d",
-"title": "Quốc phát hiện thân phận thật của người mà Phú giới thiệu là bố | Đội bóng nữ làng Xuân | Tập 22",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DUm9YNTU3aW5wN3hBWkk4R1lSS1JFalFWUFNBLWtOeWlqYkNXdVVCQ3hKTU9POFRvT19uMXRnSEQ?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-22T18:30:15+07:00"
-},
-{
 "id": "f5770e39ae4b",
 "title": "Đình chỉ giáo viên kỷ luật học sinh bằng kim tiêm",
 "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9xUTZUYjVVbm5QY1pUT3NPX1owSWJjLVNEOWFaZEZMdGtZSmdRTHhIeUoyUElzeXp3NHFoLUROUlM?oc=5",
@@ -18607,17 +18684,6 @@
 "published": "2026-11-22T18:40:00+07:00",
 "traffic": "2000+",
 "found": "2026-11-22T19:33:13+07:00"
-},
-{
-"id": "8b57d4d5b706",
-"title": "Thiều Bảo Trâm lại gây xôn xao vì cam thường",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmhVZzRpRXA4cC1ZVEtGUDM3cktZa21nSE5jUXFhelRpUzZZNzlacXF0WXFmY1FmZ3pwV1kxN2hPRFE0WXhQaFpWaEhfQXZQMXRYVFl1VnFTdEVDU1pBb2VwaGNxVWZnOFNxTWNmTTFaZnNLM2huclh2eHQ0Z0pyaGZkSXBQR0lUb0VTcg?oc=5",
-"summary": "Nguồn: CafeF",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-22T18:40:00+07:00",
-"found": "2026-11-24T14:05:11+07:00"
 },
 {
 "id": "08dcfead48ca",
@@ -28059,72 +28125,6 @@
 "cat": "xh",
 "published": "2026-11-21T15:01:00+07:00",
 "found": "2026-11-21T15:38:25+07:00"
-},
-{
-"id": "b9081504fff3",
-"title": "Thông qua Luật Nhà ở (sửa đổi), chốt điều kiện bán lại nhà ở xã hội sau 5 năm",
-"link": "https://cafef.vn/thong-qua-luat-nha-o-sua-doi-chot-dieu-kien-ban-lai-nha-o-xa-hoi-sau-5-nam-188261121125232118.chn",
-"summary": "Sau 5 năm kể từ ngày đã thanh toán đủ tiền, bên mua, bên thuê mua nhà ở xã hội được bán lại nhà ở, nhưng chỉ được bán cho đối tượng thuộc trường hợp được mua nhà ở xã hội.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795240330874-1795240332180807939124.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T15:00:00+07:00",
-"found": "2026-11-21T15:08:01+07:00"
-},
-{
-"id": "3b1539ccf622",
-"title": "PNJ cho khách hàng đổi vàng sang kim cương nhưng không cho đổi kim cương sang vàng",
-"link": "https://cafef.vn/pnj-cho-khach-hang-doi-vang-sang-kim-cuong-nhung-khong-cho-doi-kim-cuong-sang-vang-188261121150148291.chn",
-"summary": "Từ ngày 21/11, PNJ áp dụng phương án thu đổi mới, cho phép khách hàng chuyển đổi vàng miếng SJC, nhẫn khoen sang kim cương và trang sức kim cương. Tuy nhiên, khách hàng sở hữu kim cương không thể đổi trực tiếp sang vàng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/pnj-aeon-maill-ha-dong-152956-459-171202-1790731993637527752867-0-0-468-749-crop-17907320100771334309414-17952479951332084108238.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-21T15:00:00+07:00",
-"found": "2026-11-21T15:08:01+07:00"
-},
-{
-"id": "3b6600d71bcf",
-"title": "Điểm danh những nhà băng có tổng tài sản trên 500.000 tỷ đồng hiện nay",
-"link": "https://cafef.vn/diem-danh-nhung-nha-bang-co-tong-tai-san-tren-500000-ty-dong-hien-nay-188261121145805587.chn",
-"summary": "Hiện 14 ngân hàng tại Việt Nam có tổng tài sản trên 500.000 tỷ đồng. Ngoài ra có 3 ngân hàng khác cũng đang tiến sát mốc này.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1760501518770-17605015194021005123814-17952477750261832105306-0-0-630-1008-crop-1795247779621514415235.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-21T14:59:00+07:00",
-"found": "2026-11-21T15:08:01+07:00"
-},
-{
-"id": "b9645dbd3ddd",
-"title": "Từ 1/7/2027, cấm hút thuốc lá trong toàn khuôn viên cao đẳng, đại học, học viện",
-"link": "https://kenh14.vn/tu-1-7-2027-cam-hut-thuoc-la-trong-toan-khuon-vien-cao-dang-dai-hoc-hoc-vien-21526112114200106.chn",
-"summary": "Từ 1/7/2027, các trường cao đẳng, đại học, học viện thuộc diện cấm hút thuốc lá hoàn toàn trong nhà và trong phạm vi khuôn viên, thay vì chỉ cấm trong nhà như trước.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795245556885-17952455576671769586226.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T14:57:00+07:00",
-"found": "2026-11-21T15:08:01+07:00"
-},
-{
-"id": "c7177d1cb727",
-"title": "Tối nay, vị trí nào xem mô tô nước, dù lượn trên sông Sài Gòn đẹp nhất?",
-"link": "https://thanhnien.vn/toi-nay-vi-tri-nao-xem-mo-to-nuoc-du-luon-tren-song-sai-gon-dep-nhat-185261121140034841.htm",
-"summary": "Tối nay, những màn biểu diễn mô tô nước, ván bay và dù lượn trên sông Sài Gòn hứa hẹn khiến người xem mãn nhãn. Không cần vé vào khán đài, bạn trẻ có thể đứng ở đâu để chiêm ngưỡng?",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/photo-1795243516933-17952435201801996511584-115-0-790-1080-crop-1795244351759628665059.jpeg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-21T14:56:00+07:00",
-"found": "2026-11-21T15:08:01+07:00"
-},
-{
-"id": "2b17ddf5179b",
-"title": "Tỷ phú Trần Bá Dương rời ghế Chủ tịch Thaco Agri, đại gia Khoa 'khàn' thế chỗ",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcC04Y2Yxclh1NUUxWTYxSmZYQklCX0trUlB6ZW94RTFZSTVmM1hOMS1KMk13anV1ckFzbS1tN05wM01IODZ1d2pJMUpDdXhsMXZfX3h4RUp2a3JzUV9zQVdTNGJ0aFJHUTNIcGMxNTVhSTNKZTFXVHkxOW42QVB5TWpldElfVWJBSWJLcDEzRjhRYzVkcmxlQ1BnX2lpbXRxX1VxTDZ5SE9UWkk?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T14:51:00+07:00",
-"found": "2026-11-21T15:08:01+07:00"
 }
 ]
 }
