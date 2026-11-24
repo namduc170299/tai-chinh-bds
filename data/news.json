@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T04:40:38+07:00",
-"new": 3,
+"updated": "2026-11-25T04:56:08+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "1f969db6347c",
+"title": "Việt Nam đang đóng tàu khổng lồ dài 250 m: Gắn 2 cánh buồm thép cao bằng tòa nhà 12 tầng dù vẫn chạy bằng khí và dầu",
+"link": "https://kenh14.vn/viet-nam-dang-dong-tau-khong-lo-dai-250-m-gan-2-canh-buom-thep-cao-bang-toa-nha-12-tang-du-van-chay-bang-khi-va-dau-215261124233002282.chn",
+"summary": "Mỗi cánh buồm gồm 3 phần có thể thay đổi vị trí tương đối với nhau. Công nghệ này có nguyên lý gần với cánh máy bay hơn là những cánh buồm vải thông thường.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795537796369-1795537796860870427418.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T04:40:00+07:00",
+"found": "2026-11-25T04:56:08+07:00"
+},
+{
 "id": "f4070e4631ae",
 "title": "Rộn ràng lễ hội trên sóc Bom Bo trong Ngày Văn hóa Việt Nam",
 "link": "https://thanhnien.vn/ron-rang-le-hoi-tren-soc-bom-bo-trong-ngay-van-hoa-viet-nam-185261124220855867.htm",
@@ -222,6 +233,30 @@
 "cat": "xh",
 "published": "2026-11-25T04:32:00+07:00",
 "found": "2026-11-25T04:40:38+07:00"
+},
+{
+"id": "89921676502c",
+"title": "park hang-seo",
+"link": "https://www.saostar.vn/sao-sport/buoc-ngoat-moi-cho-hlv-park-hang-seo-va-tuyen-viet-nam-202611241147300874.html",
+"summary": "Bước ngoặt mới cho HLV Park Hang Seo và tuyển Việt Nam (Tạp chí Saostar)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsqqxONd6SNHtjcRno8XuD5U6FmKGjeb8uZa_Ji_VD0tMdcXLoc_j05jFGe7k",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T04:30:00+07:00",
+"traffic": "5000+",
+"found": "2026-11-25T04:56:08+07:00"
+},
+{
+"id": "09fcaaea1820",
+"title": "xe máy điện",
+"link": "https://laodong.vn/xu-huong-xe/thi-truong-xe-may-viet-nam-chuyen-dong-manh-cung-lan-song-xe-dien-1805707.ldo",
+"summary": "Thị trường xe máy Việt Nam chuyển động mạnh cùng làn sóng xe điện (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5yEJ0_OGwCx7SELtc7TyhMX8iic77Qma4ieAKJNMq8U9f-TcIIni26zhgwok",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T04:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-25T04:56:08+07:00"
 },
 {
 "id": "b43eba857918",
@@ -293,6 +328,18 @@
 "found": "2026-11-25T04:15:23+07:00"
 },
 {
+"id": "96bfea740cc3",
+"title": "xe cơ giới",
+"link": "https://vnexpress.net/de-xuat-gioi-han-toc-do-xe-khach-xe-tai-lon-tren-cao-toc-5147911.html",
+"summary": "Đề xuất giới hạn tốc độ xe khách, xe tải lớn trên cao tốc (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRW73lE2KqpMiFO95JAJRWEfSrI_3vUFo-PSgPxO9TmJ_k140R1K9DtCa3pnYM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T03:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T04:56:08+07:00"
+},
+{
 "id": "a66ffe8281cc",
 "title": "leipzig đấu với lens",
 "link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-leipzig-vs-lens-03h00-ngay-25-11-5297492611.html",
@@ -301,7 +348,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T03:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-25T04:00:11+07:00"
 },
 {
@@ -325,8 +372,20 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T03:30:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-25T04:00:11+07:00"
+},
+{
+"id": "375bebf912fe",
+"title": "como",
+"link": "https://ecosistemastartup.com/chileconverge-emprende-75-millones-y-como-postular/",
+"summary": "ChileConverge Emprende: $75 millones y cómo postular (El Ecosistema Startup)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3tDJYvPWbbVCJG7kfTIs0g3Vu5K6fXpl1s_Sgz6qFl3GiMcbe9he1TIBTQqo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T03:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T04:56:08+07:00"
 },
 {
 "id": "18f25896d935",
@@ -5103,18 +5162,6 @@
 "cat": "tc",
 "published": "2026-11-24T12:00:00+07:00",
 "found": "2026-11-24T12:12:56+07:00"
-},
-{
-"id": "62483b0ab36a",
-"title": "park hang-seo",
-"link": "https://giadinhvaphapluat.vn/hlv-park-hang-seo-bao-tin-vui-khi-hlv-kim-sang-sik-het-hop-dong-p137132.html",
-"summary": "HLV Park Hang Seo báo tin vui khi HLV Kim Sang Sik hết hợp đồng (giadinhvaphapluat.vn)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhmnHee28pvXAqtdWei4EeQudsRDx8DSLEEMipTbmEy8G9p3Oej6evTfvQE0w",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T12:00:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-24T12:28:07+07:00"
 },
 {
 "id": "60abe5c3a027",
@@ -28078,50 +28125,6 @@
 "cat": "tc",
 "published": "2026-11-22T00:05:00+07:00",
 "found": "2026-11-22T00:22:32+07:00"
-},
-{
-"id": "ddc141173236",
-"title": "Tập đoàn T&T của bầu Hiển đón tin vui tại khu đô thị 50ha, gần 4.750 tỷ đồng ở tỉnh biên giới: Có tòa nhà 18 tầng, hơn 1.500 căn nhà ở xã hội",
-"link": "https://cafef.vn/tap-doan-tt-cua-bau-hien-don-tin-vui-tai-khu-do-thi-50ha-gan-4750-ty-dong-o-tinh-bien-gioi-co-toa-nha-18-tang-hon-1500-can-nha-o-xa-hoi-188261121230148233.chn",
-"summary": "UBND tỉnh Lạng Sơn vừa tổ chức trao hợp đồng thực hiện Dự án đầu tư kinh doanh Khu đô thị phía Nam Lạng Sơn cho Công ty TNHH Phát triển Bất động sản Móng Cái, doanh nghiệp thuộc hệ sinh thái T&T Group.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/lang-son12-1795276573030645727806-0-0-675-1080-crop-17952765764771717549437.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-22T00:03:00+07:00",
-"found": "2026-11-22T00:06:57+07:00"
-},
-{
-"id": "a53e07cb2b23",
-"title": "Vàng giảm gần 60 triệu đồng/lượng, nhà đầu tư nên làm gì?",
-"link": "https://cafef.vn/vang-giam-gan-60-trieu-dong-luong-nha-dau-tu-nen-lam-gi-188261121223256579.chn",
-"summary": "Giá vàng thế giới giảm hơn 2.000 USD/ounce so với mức đỉnh, vàng trong nước mất gần 60 triệu đồng/lượng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795275133765-1795275134663132995830.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-22T00:03:00+07:00",
-"found": "2026-11-22T00:06:57+07:00"
-},
-{
-"id": "9fb4339c3d6a",
-"title": "FPT bốc hơi 23.000 tỷ đồng vốn hóa sau một tháng, 27 quỹ ồ ạt “xả hàng”",
-"link": "https://cafef.vn/fpt-boc-hoi-23000-ty-dong-von-hoa-sau-mot-thang-27-quy-o-at-xa-hang-188261120150520578.chn",
-"summary": "So với vùng đỉnh đầu năm 2025, cổ phiếu công nghệ này đã giảm gần 60% giá trị.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/20/avatar1791300636448-1791300637528553255216-1795161858131973613915-27-0-427-640-crop-17951618623872014128662.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-22T00:03:00+07:00",
-"found": "2026-11-22T00:06:57+07:00"
-},
-{
-"id": "5238b3f05cb4",
-"title": "Thành phố đáng sống bậc nhất Việt Nam nghiên cứu mở rộng Khu thương mại tự do thêm 1.205ha, 2 vị trí nằm gần ga đường sắt tốc độ cao, sân bay Chu Lai và loạt cảng biển",
-"link": "https://cafef.vn/thanh-pho-dang-song-bac-nhat-viet-nam-nghien-cuu-mo-rong-khu-thuong-mai-tu-do-them-1205ha-2-vi-tri-nam-gan-ga-duong-sat-toc-do-cao-san-bay-chu-lai-va-loat-cang-bien-188261121224857761.chn",
-"summary": "UBND xã Tam Mỹ, TP Đà Nẵng vừa tổ chức hội nghị lấy ý kiến người dân về phương án mở rộng ranh giới Khu thương mại tự do Đà Nẵng tại 2 vị trí với tổng diện tích khoảng 1.205ha.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/ban-do-vi-tri-1795275837984975043469-0-0-1226-1962-crop-1795275842998297122260.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-22T00:02:00+07:00",
-"found": "2026-11-22T00:06:57+07:00"
 }
 ]
 }
