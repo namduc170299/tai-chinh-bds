@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T12:28:07+07:00",
-"new": 7,
+"updated": "2026-11-24T12:39:10+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 42
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -342,7 +342,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T12:00:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-24T12:28:07+07:00"
 },
 {
@@ -413,6 +413,17 @@
 "published": "2026-11-24T11:50:00+07:00",
 "traffic": "100+",
 "found": "2026-11-24T12:12:56+07:00"
+},
+{
+"id": "c12009dd8a19",
+"title": "Nghệ An: Chủ trang trại lợn xây trái phép trên đất rừng cam kết tự tháo dỡ",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTdmdWNmVThKMWVsNFdoNHhobEZGamMyUkp1eFUwZWIzRGN2U21fekM1YWwteHRpVnhQQm5KQzlVMWRCemJ6MHZNM3RodG1LVzJISW40OXdNVWRQRkU5Y0lZMkc2a18zcXFJajJyMFpfS2tiSmJJSjl3SjRIU3ZlbklIbjdzZnFFcUJKQXFWazhST2NtYnd1bkU2eXpHa0hOTUJudGRBWUNqZw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T11:50:00+07:00",
+"found": "2026-11-24T12:39:10+07:00"
 },
 {
 "id": "5f5722371b6a",
@@ -491,6 +502,17 @@
 "published": "2026-11-24T11:40:00+07:00",
 "traffic": "500+",
 "found": "2026-11-24T11:57:44+07:00"
+},
+{
+"id": "f7914cbc9bf5",
+"title": "Bờ Bắc kênh Đôi 'khoác áo mới' sau hơn 1 năm thi công",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakh6by1WMkZ3enJ4b1U2VHJDOHpwSkdQbUZqTFdCZ3NTN0Jud3E4VXREOUNXQ1pUWGw4V0k1S2xaUzNLM09tSWp4d3lCZ3JteUQwbXlYVFFWYWlKSzZTTHRPNWZlVE5GWGJSWXNTdnAyQ1psZzdqU2F3dEp5ZGZDNlUzYjNuZXBvdW5QWA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T11:36:50+07:00",
+"found": "2026-11-24T12:39:10+07:00"
 },
 {
 "id": "1c6bbba5c626",
@@ -955,6 +977,17 @@
 "cat": "xh",
 "published": "2026-11-24T10:42:37+07:00",
 "found": "2026-11-24T10:49:14+07:00"
+},
+{
+"id": "56f55b939e39",
+"title": "TPHCM: Bứt tốc giải ngân, tháo gỡ vướng mắc từng dự án",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVWpVOXlMamdLMjBXNWZmVWFsNkJiek1OVkVfczV6ZTRTMWowUWNqdVVWU0cwQ3d5MHNFMkJfME1mZzJDVHBkLS1KWDMzeE85RHFIaDNESWZVMTd6ZDVqSVJYVmRrbkdrdk5mb0FrbklLeHV1aFVYZzhQLVhzNG85VWRQcS1HVTBrc2l1TkVn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T10:40:00+07:00",
+"found": "2026-11-24T12:39:10+07:00"
 },
 {
 "id": "681f6307b509",
@@ -1740,17 +1773,6 @@
 "cat": "tc",
 "published": "2026-11-24T09:21:00+07:00",
 "found": "2026-11-24T10:10:25+07:00"
-},
-{
-"id": "8cd21286aac1",
-"title": "Giá vàng hôm nay (chiều 23-11): Bật tăng mạnh trở lại",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2twTE9YZGYtcnMyMDJzWjZTVFBZYTI0ZXZoVFN0Q0xDR0lmWkUwVGRDVEpWcjhNM1Z3cVloTnczY09DX1F0Smw2dkFzdU1wZW40dnhTVnVXMXBNTGg1YjF5TWxXbmVyMlFCazc0MW5lTG5OTWlIQXhRcmJIU1ZvTlRlakUxbU91SFRZ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T09:20:58+07:00",
-"found": "2026-11-24T03:07:58+07:00"
 },
 {
 "id": "c93ab069f939",
@@ -3262,6 +3284,17 @@
 "cat": "xh",
 "published": "2026-11-24T07:03:00+07:00",
 "found": "2026-11-24T07:17:15+07:00"
+},
+{
+"id": "2894c7aaaa4e",
+"title": "Giá xăng dầu hôm nay 24/11/2026: Dầu thế giới giảm mạnh phiên đầu giờ sáng",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlBTTXVKMTVzZVRfRjFMLUVsQlBsTHZja0tkaC1hLXNodW1rVFpjeFAyS0NzRHhsTHN3OWs4MG5LN21QUThWcFlrT3dQWUFqNG9LT0drQjhWSC1jV2pMUkVuanVOQzc1bjNTckM3TzZZblRMdWZMOXhEdzJUYlZsb2RxeVBmbEEwSjMtTXZJUHlkVTRIVVlYTWtCUlhmN1phaGdSb0ZjZEZXUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T07:03:00+07:00",
+"found": "2026-11-24T12:39:10+07:00"
 },
 {
 "id": "303fb4539576",
@@ -6233,6 +6266,17 @@
 "cat": "xh",
 "published": "2026-11-23T19:55:00+07:00",
 "found": "2026-11-23T19:57:45+07:00"
+},
+{
+"id": "83a4d1c194c3",
+"title": "UBND xã Vạn Ninh họp triển khai về sắp xếp đơn vị hành chính cấp xã",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnQ5V3htMEczWThrTVhfMHN4azdKZGtFU0ZNQTlfY083X2tKOUJUd0JvemxfSFUyT2NEYzI1cWdrbTZvSlBPb1lJb3JVZk1wRHRiR29Tc1ZVYlJuOEpYNEtDcDdRSTFpelRyLTlLVnVGaWh0YnJDNXN1dXRUSTMxbDVLdjQydGVpdTBuekRxZk5hZFo5OFU5MHVHN19rZGZTcmc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-23T19:55:00+07:00",
+"found": "2026-11-24T12:39:10+07:00"
 },
 {
 "id": "04084f2e436a",
@@ -9760,6 +9804,17 @@
 "cat": "tc",
 "published": "2026-11-23T14:41:51+07:00",
 "found": "2026-11-23T15:41:10+07:00"
+},
+{
+"id": "8cd21286aac1",
+"title": "Giá vàng hôm nay (chiều 23-11): Bật tăng mạnh trở lại",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2twTE9YZGYtcnMyMDJzWjZTVFBZYTI0ZXZoVFN0Q0xDR0lmWkUwVGRDVEpWcjhNM1Z3cVloTnczY09DX1F0Smw2dkFzdU1wZW40dnhTVnVXMXBNTGg1YjF5TWxXbmVyMlFCazc0MW5lTG5OTWlIQXhRcmJIU1ZvTlRlakUxbU91SFRZ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-23T14:40:00+07:00",
+"found": "2026-11-24T03:07:58+07:00"
 },
 {
 "id": "93c04ea80cb2",
@@ -28073,61 +28128,6 @@
 "source": "Báo Mới",
 "cat": "bds",
 "published": "2026-11-21T12:14:00+07:00",
-"found": "2026-11-21T12:21:06+07:00"
-},
-{
-"id": "6594af10aee9",
-"title": "Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì lễ đón Tổng thống Azerbaijan",
-"link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-le-don-tong-thong-azerbaijan-100261120232908348.htm",
-"summary": "Sáng 21-11, lễ đón chính thức Tổng thống Azerbaijan Ilham Aliyev và Phu nhân đã được tổ chức trang trọng, dưới sự chủ trì của Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/tong-bi-thu-le-don-azerbaijan-5-1795235103814956300175-295-954-1712-3221-crop-179523517201278476336-36-66-1245-2000-crop-1795239751419239472888.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T12:13:00+07:00",
-"found": "2026-11-21T13:34:47+07:00"
-},
-{
-"id": "0a73db4af48c",
-"title": "Cuộc đua mới quanh những nhà ga metro TP.HCM - Tạp chí Nhà Quản Trị - TheLEADER",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSERZaVBVOW1YWFRIWVBUS0hBWWhuWUFFN01PeWc2LU5tWGFjYkdrNG84Rk1wUkJGX1FKNVViSlFHY1dlcWU0Z3RHR3N4SWlnMlBrckEtTjVwdUVZMDFnMkl6WVQwTERLOUVDWENDemoxTjNqZXFyeU5udE8tdlpFV3lycw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T12:12:00+07:00",
-"found": "2026-11-21T12:21:06+07:00"
-},
-{
-"id": "6b2e38dfdf68",
-"title": "Xử lý cơ sở chữa bệnh &apos;nghe tả triệu chứng là tiêm&apos; ở Hà Nội",
-"link": "https://vietnamnet.vn/xu-ly-co-so-chua-benh-nghe-ta-trieu-chung-la-tiem-o-ha-noi-2577326.html",
-"summary": "Cơ sở khám, chữa bệnh trái phép ở Hà Nội bị phát hiện tiêm thuốc không rõ nguồn gốc cho người bệnh, chỉ định tiêm truyền qua mô tả triệu chứng, tiềm ẩn nguy cơ sốc phản vệ, tử vong.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/21/xu-ly-co-so-chua-benh-nghe-ta-trieu-chung-la-tiem-o-ha-noi-1141.jpg?width=0&s=Va5kC9UyQoeZtMTYfhlSBQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-21T12:11:13+07:00",
-"found": "2026-11-21T12:21:06+07:00"
-},
-{
-"id": "2f7274993113",
-"title": "Tạm dừng tuyển dụng công chức trên toàn quốc",
-"link": "https://vnexpress.net/tam-dung-tuyen-dung-cong-chuc-tren-toan-quoc-5147400.html",
-"summary": "Các bộ, ngành, địa phương tạm dừng tuyển dụng công chức, kể cả trường hợp đã thi tuyển nhưng chưa có quyết định tuyển dụng, để rà soát vị trí việc làm và biên chế.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/1792545690945b11941319c9749b6b-9414-3482-1795237172.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JnE1xwHSwAnsYOayHqmazA",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-21T12:10:18+07:00",
-"found": "2026-11-21T12:51:57+07:00"
-},
-{
-"id": "10f249e05bf4",
-"title": "Giảm giá 70-80%, nhiều người chen chân săn hàng 'sale khủng'",
-"link": "https://thanhnien.vn/giam-gia-70-80-nhieu-nguoi-chen-chan-san-hang-sale-khung-185261121013659536.htm",
-"summary": "Dù còn khoảng một tuần nữa mới đến Black Friday, nhiều cửa hàng thời trang tại TP.HCM đã tung chương trình giảm giá sâu, đồng giá, mua 1 tặng 1… thu hút đông đảo người trẻ tìm đến mua sắm, nhiều nơi đông khách đến mức không còn chỗ gửi xe.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/tnw-2aobore16lea5vsbpdorjsmhq2av9p3ckuprovjm-17951973608551664349125-320-0-1920-2560-crop-17951988702391619926192.jpg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-21T12:10:00+07:00",
 "found": "2026-11-21T12:21:06+07:00"
 }
 ]
