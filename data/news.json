@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T20:44:00+07:00",
-"new": 15,
+"updated": "2026-11-24T20:59:33+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 47
+"count": 49
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "38ee0e23cdd8",
+"title": "Fofana khiến CĐV Chelsea phẫn nộ vì cười đùa pha đá hỏng luân lưu",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjBLdXpDUmJyZnJzb0ZFY0VhN1lnTXV1NXdLaTluR1A1bFl2WFRsdEFZRjhzRlZYQ1lxRVgydGFQNWJmQ3JjTDduVXlwWVNIdElpOUF1X0RFY2ZWVHdUT1ZKU2VQVjl2QjBzMC11LXRYMnREODI2QUUxSV9DYlNPZGdsbWRYX2Z2XzNMS1pLQjRiVFhCQWs1OGQ0WHAyZ0VlYnc?oc=5",
+"summary": "Nguồn: bongda.com.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T20:48:19+07:00",
+"found": "2026-11-24T20:59:33+07:00"
+},
+{
+"id": "293e94a1e900",
+"title": "Xử phạt Hưng Thịnh Phát do chậm công bố thông tin về trái phiếu, tài chính",
+"link": "https://cafef.vn/xu-phat-hung-thinh-phat-do-cham-cong-bo-thong-tin-ve-trai-phieu-tai-chinh-188261124183129401.chn",
+"summary": "Hưng Thịnh Phát bị xử phạt hành chính do chậm công bố thông tin từ 10 ngày làm việc trở lên so với thời hạn theo quy định pháp luật.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795519590224-179551959130564103073.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-24T20:45:00+07:00",
+"found": "2026-11-24T20:59:33+07:00"
+},
+{
 "id": "3b6d14f34ff7",
 "title": "Hộ gia đình người dân tộc thiểu số được vay vốn với lãi suất chỉ 3%/năm",
 "link": "https://vietnamnet.vn/ho-gia-dinh-nguoi-dan-toc-thieu-so-duoc-vay-von-voi-lai-suat-chi-3-nam-2578022.html",
@@ -222,6 +244,30 @@
 "cat": "tc",
 "published": "2026-11-24T20:42:40+07:00",
 "found": "2026-11-24T20:44:00+07:00"
+},
+{
+"id": "6f83f8b89826",
+"title": "ucl",
+"link": "https://www.uefa.com/uefachampionsleague/news/02ab-2223c67db015-c4f7874e074e-1000--champions-league-predicted-line-ups-matchday-5-team-news-/",
+"summary": "Champions League predicted line-ups: Matchday 5 team news, injuries, suspensions (UEFA.com)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQounOBkcRkEG408rr9MhCObUbYwuERxuZkWKgKw_RmwTuhyX8Jt2o0UI4MSQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T20:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T20:59:33+07:00"
+},
+{
+"id": "66abc9efed57",
+"title": "anthony gordon",
+"link": "https://znews.vn/anthony-gordon-gap-lai-con-ac-mong-tai-barcelona-post1698586.html",
+"summary": "Anthony Gordon gặp lại cơn ác mộng tại Barcelona (Znews)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTewXXMbfkujISL6x7EYS-QUAM33dmjyrYgAwKwZNN1CHatQ-agHZ0PLVlaX20",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T20:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T20:59:33+07:00"
 },
 {
 "id": "f399d3b873f4",
@@ -246,6 +292,30 @@
 "found": "2026-11-24T20:44:00+07:00"
 },
 {
+"id": "3c043a816b23",
+"title": "weather tomorrow",
+"link": "https://telanganatoday.com/telangana-records-seasons-first-single-digit-temperature-at-9-6-degrees",
+"summary": "Telangana records season’s first single-digit temperature at 9.6 degrees (Telangana Today)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbQRe7n8iiu6nCNGUtr96w2qv0kboTj9nIS1Ruz240REwwneoT6G0bxZWq8bg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T20:30:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-24T20:59:33+07:00"
+},
+{
+"id": "f99451e2c1cb",
+"title": "căn nhà không mái che tập 20",
+"link": "https://vietnamnet.vn/can-nha-khong-mai-che-tap-20-hung-lo-toan-da-co-nguoi-phu-nu-khac-2578032.html",
+"summary": "'Căn nhà không mái che' tập 20: Hùng lo Toản đã có người phụ nữ khác (Báo VietNamNet)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0jlxGZoY4nrtchTzGH-roT3zd6Wsa2TJrwbvX6fBA1Of0eI7Axsh4H-EkhTo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T20:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T20:59:33+07:00"
+},
+{
 "id": "bb5640006efb",
 "title": "Thép Nam Kim muốn ‘rót’ thêm 1.500 tỷ đồng vào công ty con",
 "link": "https://cafef.vn/thep-nam-kim-muon-rot-them-1500-ty-dong-vao-cong-ty-con-188261124182940261.chn",
@@ -255,6 +325,17 @@
 "cat": "bds",
 "published": "2026-11-24T20:29:00+07:00",
 "found": "2026-11-24T20:44:00+07:00"
+},
+{
+"id": "64d64333fe6f",
+"title": "Novaland muốn rút vốn khỏi doanh nghiệp liên quan diễn viên Chi Bảo",
+"link": "https://dantri.com.vn/bat-dong-san/novaland-muon-rut-von-khoi-doanh-nghiep-lien-quan-dien-vien-chi-bao-20261124201151377.htm",
+"summary": "(Dân trí) - Novaland muốn chuyển nhượng toàn bộ vốn tại hai doanh nghiệp, tổng giá trị hơn 490 tỷ đồng, trong đó có công ty liên quan diễn viên Chi Bảo.",
+"image": "https://cdnphoto.dantri.com.vn/JVEer2VcxI4oP4H4DjM0vvQyhaU=/2026/11/24/novaland-crop-cropped-cropped-1795525769520.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-24T20:26:16+07:00",
+"found": "2026-11-24T20:59:33+07:00"
 },
 {
 "id": "706023980500",
@@ -277,6 +358,17 @@
 "cat": "bds",
 "published": "2026-11-24T20:17:15+07:00",
 "found": "2026-11-24T20:44:00+07:00"
+},
+{
+"id": "4743e627a829",
+"title": "Thầy giáo ở TP.HCM nhận Huân chương Lao động hạng nhất, mong học trò giỏi hơn mình",
+"link": "https://tuoitre.vn/thay-giao-o-tphcm-nhan-huan-chuong-lao-dong-hang-nhat-mong-hoc-tro-gioi-hon-minh-100261124180721897.htm",
+"summary": "Thầy Nguyễn Tứ Cường được trao Huân chương Lao động hạng nhất sau thành tích giành HCV Vovinam thế giới năm 2025, mong truyền đam mê võ thuật cho học trò.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/edit-thay-giao-17955179307331481699410-171-826-1055-2241-crop-1795526776312961482123-38-16-884-1369-crop-1795526815457109058205.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-24T20:13:00+07:00",
+"found": "2026-11-24T20:59:33+07:00"
 },
 {
 "id": "5684ccb2b060",
@@ -311,6 +403,17 @@
 "cat": "xh",
 "published": "2026-11-24T20:07:32+07:00",
 "found": "2026-11-24T20:09:00+07:00"
+},
+{
+"id": "14fcdb66e377",
+"title": "Cảnh sát PCCC TP.HCM phát hiện tiệm tạp hóa bán gần 100 bình gas mini không đảm bảo an toàn",
+"link": "https://tuoitre.vn/canh-sat-pccc-tphcm-phat-hien-tiem-tap-hoa-ban-gan-100-binh-gas-mini-khong-dam-bao-an-toan-100261124191329745.htm",
+"summary": "Qua kiểm tra một cửa hàng tạp hóa trên đường Tôn Đản (phường Khánh Hội), lực lượng Cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ TP.HCM phát hiện khoảng 82 bình gas mini, gồm cả bình còn gas và vỏ bình đã qua sử dụng, không đảm bảo an toàn.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/binh-gas-mini-3-1795521191254892416549-66-0-1416-2160-crop-17955215204591530595416.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T20:02:00+07:00",
+"found": "2026-11-24T20:59:33+07:00"
 },
 {
 "id": "73ef3987b29f",
@@ -486,7 +589,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T19:30:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-24T19:53:50+07:00"
 },
 {
@@ -565,7 +668,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T19:20:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T19:38:36+07:00"
 },
 {
@@ -632,7 +735,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T19:10:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-24T20:09:00+07:00"
 },
 {
@@ -645,6 +748,17 @@
 "cat": "xh",
 "published": "2026-11-24T19:06:00+07:00",
 "found": "2026-11-24T19:23:24+07:00"
+},
+{
+"id": "c5c3793df3c8",
+"title": "Đại diện ECB thận trọng về lộ trình tăng lãi suất",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZG1UU3lRWm5YTk1JOGZyazBlWHBTUXdZN2R0WHZDLVNDR3JMcTUzRVVBY3lNaTBRU3hEZEo4MEd4RUM2R0RHWEU5dS11QVFranBXS1E1UlFqZW5ndk9pWHI3RlBQR25WSGZNeGlzb2szakNqT2RiTGptX2ZCcHc5Yk1Rd0FacnJ1WWc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T19:06:00+07:00",
+"found": "2026-11-24T20:59:33+07:00"
 },
 {
 "id": "68add1c39d92",
@@ -9224,18 +9338,6 @@
 "cat": "tc",
 "published": "2026-11-23T20:40:56+07:00",
 "found": "2026-11-23T11:41:14+07:00"
-},
-{
-"id": "731e23a02f75",
-"title": "weather tomorrow",
-"link": "https://kwschennai.com/blog/easterly-wave-to-bring-widespread-rainfall-across-tn/",
-"summary": "Easterly Wave to bring widespread rainfall across TN (KWS Chennai)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJrxS3H8MTexBW5ZwNwHtHXfr8focYgwkwrn5zCjPm_LBy7MyPFEjfjhoiu44",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T20:40:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-23T21:17:24+07:00"
 },
 {
 "id": "378685aa6aa6",
@@ -28028,108 +28130,6 @@
 "cat": "xh",
 "published": "2026-11-21T19:25:00+07:00",
 "found": "2026-11-21T19:45:05+07:00"
-},
-{
-"id": "7acf035fcccc",
-"title": "Bộ Chính trị đồng ý thành lập Khu kinh tế đặc biệt Vân Phong",
-"link": "https://cafef.vn/bo-chinh-tri-dong-y-thanh-lap-khu-kinh-te-dac-biet-van-phong-188261121190556697.chn",
-"summary": "Bộ Chính trị vừa đồng ý chủ trương thành lập Khu kinh tế đặc biệt Vân Phong, tỉnh Khánh Hòa, với cơ chế, chính sách ưu đãi tối đa như Khu kinh tế Dung Quất (Quảng Ngãi).",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795262439909-17952624403081831661054.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T19:20:00+07:00",
-"found": "2026-11-21T19:29:18+07:00"
-},
-{
-"id": "6870acd06e1a",
-"title": "alavés đấu với deportivo",
-"link": "https://bongdaplus.vn/la-liga/nhan-dinh-bong-da-alaves-vs-deportivo-20h00-ngay-21-11-5293852611.html",
-"summary": "Nhận định bóng đá Alaves vs Deportivo, 20h00 ngày 21/11: Chủ nhà giành chiến thắng (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFYtdxnuIlcs-JCifHctOxK9BB7REYwM2cWXyUtypyg3QnfdiTk0U19sXYT18",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T19:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-21T19:45:05+07:00"
-},
-{
-"id": "f390923d7814",
-"title": "u-17 nhật đấu với đội tuyển bóng đá u-17 quốc gia colombia",
-"link": "https://vietnamnet.vn/lich-thi-dau-va-truc-tiep-u17-world-cup-2026-hom-nay-21-11-2577235.html",
-"summary": "Lịch thi đấu, trực tiếp U17 World Cup 2026 hôm nay 21/11 (Báo VietNamNet)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUzHrU5NBgVl-SUeeZFY4qWucb2Zx-5zju7P2RS4i4HiZc-u1nY_ylFFB6CmI",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T19:20:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T19:45:05+07:00"
-},
-{
-"id": "f56a103a0409",
-"title": "Dâu tây nhập khẩu có dư lượng thuốc trừ sâu vượt ngưỡng gần 6 lần, hải quan siết kiểm tra",
-"link": "https://tuoitre.vn/dau-tay-nhap-khau-co-du-luong-thuoc-tru-sau-vuot-nguong-gan-6-lan-hai-quan-siet-kiem-tra-10026112116342858.htm",
-"summary": "Kết quả kiểm nghiệm mẫu từ một lô dâu tây tươi 4 tấn nhập khẩu từ Trung Quốc phát hiện dư lượng thuốc bảo vệ thực vật vượt giới hạn cho phép gần 6 lần. Cục Hải quan yêu cầu các Chi cục Hải quan khu vực chủ động phối hợp kiểm tra chặt các lô hàng liên quan.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/dau-tay-2-1795253555993314787789-192-43-815-1040-crop-1795253573973785466757.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-21T19:17:00+07:00",
-"found": "2026-11-21T19:29:18+07:00"
-},
-{
-"id": "1f0ba28557d3",
-"title": "152 clip dự thi Đại sứ OCOP TP.HCM, top 16 chính thức lộ điện",
-"link": "https://tuoitre.vn/152-clip-du-thi-dai-su-ocop-tphcm-top-16-chinh-thuc-lo-dien-100261121180455424.htm",
-"summary": "Sau chưa đầy một tháng phát động, cuộc thi Đại sứ OCOP TP.HCM đã nhận được 152 clip dự thi. Thay vì chỉ thuyết minh sản phẩm, nhiều thí sinh kể lại sinh động câu chuyện về vùng đất, con người phía sau mỗi đặc sản.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/chan-dung-ben-vuon-hoa-dem-do-thi-17952567440611507588419-269-48-1070-1330-crop-17952589017611410931288.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-21T19:16:00+07:00",
-"found": "2026-11-21T19:29:18+07:00"
-},
-{
-"id": "76d871807ff6",
-"title": "Doanh nghiệp của tỷ phú Trần Bá Dương huy động 3.000 tỷ đồng cho dự án tại Campuchia",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNV96bV9KZ1pieUMyU0J2VGk0T0hzekZGcHVJX2dXeFBYVVBGdTFTamZ4U2VTNTBPU0x4ZV9fNUxaMDZEVHh5ZEE5b3kwZnZmeUtQUUZZMzNQdTBEbXRvLWx4cjFCZmdNZm50cjB5NEdaTV8xMmVRYVFPY3RKZzA0QUpIRklOZlE1ZGswamxYdU1EdEN2NEtWS1lEREZrWkVuNjV5czJVX1dlSHk2ZFlORlN3ZldhMTZf?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T19:15:00+07:00",
-"found": "2026-11-22T00:22:32+07:00"
-},
-{
-"id": "6958678a6019",
-"title": "Thu gom 300 tấn chất thải công nghiệp, chờ tiêu hủy trái phép",
-"link": "https://dantri.com.vn/phap-luat/thu-gom-300-tan-chat-thai-cong-nghiep-cho-tieu-huy-trai-phep-20261121185035756.htm",
-"summary": "(Dân trí) - Đối tượng Phan Quang Tuyến tập kết hàng trăm tấn chất thải công nghiệp thu mua được trong Khu công nghiệp Trung Hà, lợi dụng hoạt động san lấp mặt bằng để tiêu hủy trái phép, thu lợi bất chính.",
-"image": "https://cdnphoto.dantri.com.vn/XyPL1CxLErpR-aa_JaVTfrxcLO8=/2026/11/21/cong-an-xa-dao-xa-cropped-1795261726388.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-21T19:10:14+07:00",
-"found": "2026-11-21T19:29:18+07:00"
-},
-{
-"id": "2ae9b13d8300",
-"title": "Đồng Nai thành lập Ban Chỉ đạo chính sách nhà ở và thị trường bất động sản",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXhIN3NiWUpsbldJMXQwWndYcVNWNWZmZFkzdGR4anpmeWJVWUFaNjY1ODM4cmpOeUlHLURabk5IdS1aeUptNE5IVHlPd3p4cWE4azlyNWp2a09Vb2x4dVZiU1JNYmJLb2ZkdFV1WVRfUk9hREJCNDdsT1ZsWVl0V1RwMTlNSkYzSm9aWDhpb1I0ZkVOSFEzSXR0NE9aYVJxSlc2UktOOHFtMnc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T19:10:00+07:00",
-"found": "2026-11-21T19:14:07+07:00"
-},
-{
-"id": "439540c667f8",
-"title": "fulham – newcastle",
-"link": "https://www.24h.com.vn/bong-da/mu-se-hoc-arsenal-khien-liverpool-tat-dien-tam-diem-wirtz-fernandes-clip-1-phut-bong-da-24h-c48a1812980.html",
-"summary": "MU sẽ học Arsenal khiến Liverpool tắt điện, tâm điểm Wirtz - Fernandes (Clip 1 phút Bóng đá 24H) (Tin tức 24h)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6yguO5ANkxi-_WeaLLUVQpByMgBiLbbRFr2Bgfckyzjac5RtJbPrBKGXHCsg",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T19:10:00+07:00",
-"traffic": "100+",
-"found": "2026-11-21T19:29:18+07:00"
 }
 ]
 }
