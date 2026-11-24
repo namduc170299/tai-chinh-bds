@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T05:11:23+07:00",
-"new": 6,
+"updated": "2026-11-25T05:22:21+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 48
+"count": 47
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,28 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "5e05b18d2243",
+"title": "Dự báo thời tiết 25/11/2026: Miền Bắc rét nhất đợt, Trung Bộ mưa rất lớn",
+"link": "https://vietnamnet.vn/du-bao-thoi-tiet-25-11-2026-mien-bac-ret-sau-trung-bo-mua-lon-2572290.html",
+"summary": "Không khí lạnh tiếp tục được tăng cường khiến miền Bắc rét sâu hơn. Từ Huế đến phía đông Quảng Ngãi có mưa to đến rất to, nguy cơ ngập úng, lũ quét và sạt lở đất. VietNamNet cập nhật những diễn biến mới nhất về thời tiết trên cả nước.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/2026-mien-bac-ret-nhat-dot-trung-bo-mua-rat-lon-18.jpg?width=0&s=7MKq73zBNjwTMUkqwe-Wdw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-25T05:15:00+07:00",
+"found": "2026-11-25T05:22:21+07:00"
+},
+{
+"id": "2510686a5a1f",
+"title": "Sau vụ nổ khí gas ở Hà Nội, Cục Cảnh sát PCCC và CNCH đưa khuyến cáo quan trọng",
+"link": "https://vietnamnet.vn/sau-vu-no-khi-gas-o-ha-noi-cuc-canh-sat-pccc-khuyen-cao-2578258.html",
+"summary": "Sau một số vụ nổ khí gas xảy ra tại Hà Nội và TPHCM, Cục Cảnh sát PCCC và CNCH (Bộ Công an) đưa ra khuyến cáo quan trọng với người dân và các cơ sở kinh doanh.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/sau-vu-no-khi-gas-o-ha-noi-cuc-canh-sat-pccc-va-cnch-khuyen-cao-quan-trong-7314.jpg?width=0&s=6KV6vk8oRdkPaW1FdZJW7Q",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-25T05:13:00+07:00",
+"found": "2026-11-25T05:22:21+07:00"
+},
 {
 "id": "b1ca92980320",
 "title": "Trưởng thôn 28 tuổi ở Phú Thọ gây sốt với bài phát biểu ấn tượng",
@@ -335,7 +357,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T04:20:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-25T04:40:38+07:00"
 },
 {
@@ -360,6 +382,18 @@
 "published": "2026-11-25T04:10:00+07:00",
 "traffic": "100+",
 "found": "2026-11-25T05:11:23+07:00"
+},
+{
+"id": "edaaa7f19c34",
+"title": "bảo hiểm y tế",
+"link": "https://www.vietnam.vn/de-khong-ai-dung-ngoai-luoi-an-sinh-bhyt",
+"summary": "Để không ai đứng ngoài lưới an sinh BHYT (Vietnam.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRp4WTNjyuQSoGoApHtJTsDZ8fqk7GzL_dbgh0KtHePGOZhqHYNejdpGW_tzts",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T04:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T05:22:21+07:00"
 },
 {
 "id": "86dad20cfc2c",
@@ -28091,41 +28125,6 @@
 "cat": "tc",
 "published": "2026-11-22T01:20:05+07:00",
 "found": "2026-11-22T01:39:12+07:00"
-},
-{
-"id": "b7d4f4b706de",
-"title": "real betis",
-"link": "https://www.clarosports.com/futbol/laliga/el-derbi-que-divide-a-sevilla-mas-de-un-siglo-de-rivalidad-un-cambio-de-poder-y-la-huella-de-alvaro-fidalgo/",
-"summary": "El derbi que divide a Sevilla: más de un siglo de rivalidad, un cambio de poder y la huella de Álvaro Fidalgo (Claro Sports)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1av3XJzR5jEVbPqmoo5yUldERoklzKfxVazO-8bi_c0jxr1U8F59FwOSnA0Y",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T01:20:00+07:00",
-"traffic": "100+",
-"found": "2026-11-22T01:38:44+07:00"
-},
-{
-"id": "23022dafca5c",
-"title": "Ngày 22/11, gửi dưới 100 triệu đồng kỳ hạn 6 tháng tại LPBank, MSB, Nam A Bank, VIB và OCB nhận được bao nhiêu tiền lãi?",
-"link": "https://cafef.vn/ngay-22-11-gui-duoi-100-trieu-dong-ky-han-6-thang-tai-lpbank-msb-nam-a-bank-vib-va-ocb-nhan-duoc-bao-nhieu-tien-lai-188261121212422552.chn",
-"summary": "Lãi suất tiết kiệm kỳ hạn 6 tháng tại LPBank, MSB, Nam A Bank, VIB và OCB có sự chênh lệch giữa hình thức gửi tại quầy và trực tuyến. Với khoản tiền gửi dưới 100 triệu đồng, số tiền lãi khách hàng nhận được phụ thuộc vào ngân hàng, số tiền gửi và hình thức gửi tiết kiệm.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/1795270737794957815198-0-0-341-546-crop-1795270741938104942244.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-22T01:19:00+07:00",
-"found": "2026-11-22T01:23:33+07:00"
-},
-{
-"id": "84fcd98442db",
-"title": "ufc",
-"link": "https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling",
-"summary": "Official Weigh-In Results | UFC Qatar (UFC.com)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkpCuv8gxkdwcnv5w_IWy1MA-aARLLrRwxOK7Yx098W6FxwCTEjD-M7Ug4Ux4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T01:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-22T01:38:44+07:00"
 }
 ]
 }
