@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T00:31:27+07:00",
-"new": 0,
+"updated": "2026-11-25T00:46:38+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 48
+"count": 21
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "6bc994b8cf35",
+"title": "Hàng loạt ngân hàng thay tướng",
+"link": "https://vnexpress.net/hang-loat-ngan-hang-thay-tuong-5148503.html",
+"summary": "Chỉ trong ngày 23/11, SeABank, SCB và LPBank cùng công bố thay người đứng đầu, nối dài danh sách ngân hàng đổi tướng từ giữa tháng 9 đến nay.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/Settop-1795540695-1455-1795540902.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JOjY9GIyOTxwGULApsdmxQ",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-25T00:22:10+07:00",
+"found": "2026-11-25T00:46:38+07:00"
+},
+{
 "id": "056fa5e39df1",
 "title": "Dòng vốn toàn cầu và Khát vọng Việt Nam hội tụ tại HDBank Global Capital Summit 2026",
 "link": "https://cafef.vn/dong-von-toan-cau-va-khat-vong-viet-nam-hoi-tu-tai-hdbank-global-capital-summit-2026-188261124201905557.chn",
@@ -224,6 +235,18 @@
 "found": "2026-11-25T00:28:42+07:00"
 },
 {
+"id": "2864eb9e7961",
+"title": "al-nassr đấu với al sadd",
+"link": "https://bongdaplus.vn/afc-champions-league/nhan-dinh-bong-da-al-nassr-vs-al-sadd-01h15-ngay-25-11-khang-dinh-suc-manh-5298852611.html",
+"summary": "Nhận định bóng đá Al Nassr vs Al Sadd, 01h15 ngày 25/11: Khẳng định sức mạnh (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1TnY4DpOTspaRJEZORpZCp1yaGo10IRWfgpf7QDKSl4R7P13Ne3KySKChXb8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T00:20:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-25T00:46:38+07:00"
+},
+{
 "id": "de13301aba98",
 "title": "FPT Software dự kiến doanh thu lập kỷ lục trong quý 4",
 "link": "https://cafef.vn/fpt-software-du-kien-doanh-thu-lap-ky-luc-trong-quy-4-188261124205750774.chn",
@@ -233,6 +256,18 @@
 "cat": "tc",
 "published": "2026-11-25T00:12:00+07:00",
 "found": "2026-11-25T00:28:42+07:00"
+},
+{
+"id": "844d45cac784",
+"title": "galatasaray",
+"link": "https://www.beyazbelgehaber.com/haber/galatasaray-spor-kulubu-aston-villa-macinda-parcali-formasini-giyecek",
+"summary": "Galatasaray Spor Kulübü, Aston Villa maçında parçalı formasını giyecek (https://beyazbelgehaber.com/)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4PDG8Qg2xbKBm7Bm10_aKfCvQFt2j3k8J9qeLa49QF1meDu0U8V8IU0TCZCk",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T00:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T00:46:38+07:00"
 },
 {
 "id": "028003540473",
@@ -255,6 +290,17 @@
 "cat": "tc",
 "published": "2026-11-25T00:03:00+07:00",
 "found": "2026-11-25T00:13:33+07:00"
+},
+{
+"id": "afed222305a0",
+"title": "Đề xuất nghiên cứu đường dây siêu cao áp hơn 1.000 km kéo điện ra Bắc",
+"link": "https://vnexpress.net/de-xuat-nghien-cuu-duong-day-sieu-cao-ap-hon-1-000-km-keo-dien-ra-bac-5148461.html",
+"summary": "Bộ Công Thương đề xuất sớm nghiên cứu tuyến truyền tải điện một chiều ±800 kV từ duyên hải Nam Trung Bộ đến Đồng bằng sông Hồng, với vốn đầu tư sơ bộ gần 3,5 tỷ USD.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/24/khoanhkhacantuong268248-179552-1973-5391-1795531328.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZO5UvcOWwbkZbdmKmy16sg",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-25T00:03:00+07:00",
+"found": "2026-11-25T00:46:38+07:00"
 },
 {
 "id": "57a6db280279",
@@ -311,6 +357,17 @@
 "published": "2026-11-25T00:00:00+07:00",
 "traffic": "100+",
 "found": "2026-11-25T00:28:42+07:00"
+},
+{
+"id": "6380da615899",
+"title": "Làm gì khi lỡ 'đu đỉnh' bạc?",
+"link": "https://vnexpress.net/lam-gi-khi-lo-du-dinh-bac-5146077.html",
+"summary": "Giá bạc đảo chiều sau đợt tăng nóng có thể khiến người mua phân vân: nên bán ra, tiếp tục nắm giữ hay mua thêm để bình quân giá?",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/18/img2aa881550f781-1794978261-1371-1794978478.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tVQkRkdG80V_ulW7IRY6xA",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-25T00:00:00+07:00",
+"found": "2026-11-25T00:46:38+07:00"
 },
 {
 "id": "3d38c5ce4a12",
@@ -571,7 +628,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T22:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T23:58:24+07:00"
 },
 {
@@ -28057,63 +28114,6 @@
 "source": "CafeF",
 "cat": "bds",
 "published": "2026-11-21T22:36:00+07:00",
-"found": "2026-11-21T22:50:47+07:00"
-},
-{
-"id": "c22402236dab",
-"title": "Thủ tướng chỉ thị kích cầu tiêu dùng cuối năm, xử lý nghiêm việc tăng giá bất hợp lý",
-"link": "https://tuoitre.vn/thu-tuong-chi-thi-kich-cau-tieu-dung-cuoi-nam-xu-ly-nghiem-viec-tang-gia-bat-hop-ly-100261121221506083.htm",
-"summary": "Thủ tướng yêu cầu xử lý nghiêm các hành vi đầu cơ, găm hàng, thao túng giá, lợi dụng biến động thị trường để tăng giá bất hợp lý.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/anh-man-hinh-2026-11-12-luc-174627-17944804650531455146068-0-96-1124-1894-crop-1795273414024776791400.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-21T22:35:00+07:00",
-"found": "2026-11-21T23:51:48+07:00"
-},
-{
-"id": "8792ee228d46",
-"title": "Cổ phiếu 'vua' hết thời được dòng tiền săn đón?",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ0tGeUtHams5anVIeUlwRUhkQ2RocHljSzNMSFB4Sl9SNHRKNU9kZGdoYWFQc2NUT25OQnJHYThaOFFBcGxfalMyYnh6eXlQbXZMSzktcm4zOERfd2RDOGhCbWEyV3NZMVFRRERjQ1ZZTVdTdTVUaFFHMmpTMXpsVzUwVQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T22:30:45+07:00",
-"found": "2026-11-21T12:10:20+07:00"
-},
-{
-"id": "1a9bff6b5299",
-"title": "Dự báo thời tiết cuối tuần: Miền Bắc rét, Trung Bộ mưa lớn trên 150mm",
-"link": "https://vietnamnet.vn/du-bao-thoi-tiet-cuoi-tuan-mien-bac-ret-trung-bo-mua-lon-150mm-2572299.html",
-"summary": "Trong hai ngày cuối tuần (21-22/11), không khí lạnh suy yếu dần khiến miền Bắc ấm lên từ Chủ nhật. Khu vực từ TP Huế đến Quảng Ngãi có mưa lớn, cục bộ trên 150mm. VietNamNet cập nhật những diễn biến mới nhất về thời tiết trên cả nước.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/du-bao-thoi-tiet-cuoi-tuan-mien-bac-ret-trung-bo-mua-lon-tren-150mm-3347.jpg?width=0&s=5xNT_XOu7w_Q3Bwg6TaaWQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-21T22:22:44+07:00",
-"found": "2026-11-21T05:28:31+07:00"
-},
-{
-"id": "9a35cef6bd65",
-"title": "nice đấu với psg",
-"link": "https://bongdaplus.vn/ligue-1/nhan-dinh-bong-da-nice-vs-psg-23h15-ngay-21-11-thien-duong-thu-12-5294612611.html",
-"summary": "Nhận định bóng đá Nice vs PSG, 23h15 ngày 21/11: Thiên đường thứ 12 (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAAWOzaRgPSwp6hj0bqT36wqq9mwy36uHLnxNvbddVnjz_lCYaSbQexSMx_OA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T22:20:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-21T22:50:47+07:00"
-},
-{
-"id": "688ff0bce773",
-"title": "lucá williams-barnett",
-"link": "https://www.spurs-web.com/spurs-news/youre-going-to-be-like-glenn-hoddle-micky-hazard-reveals-what-he-told-williams-barnett/",
-"summary": "‘You’re going to be like Glenn Hoddle’ – Micky Hazard reveals what he told Williams-Barnett (Spurs Web)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSppuwRYIWjFU-ZU4Z_R_Y09aQ5ro3NIW3P-jhCL2coobFDyvqvKvGJaIpGAI4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T22:20:00+07:00",
-"traffic": "500+",
 "found": "2026-11-21T22:50:47+07:00"
 }
 ]
