@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T22:26:09+07:00",
-"new": 10,
+"updated": "2026-11-24T22:41:32+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "407c663315f4",
+"title": "Chủ quán bar ở Chiang Mai bị bắt vì 'chặt chém' du khách nước ngoài",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlZCazhaWThkQThDbTgyMTFyM1A1NHg0YkZpNVJEUm9mNkZORi1QUWIxZktKcnlLMWZ5LUlGOXlTeW1tMm9jR2w5Zy1BNEwyM0dyeC1jTnJIdUVvbDY0cV9IamZGUW94TTVXNGlhUzdESWVRSUVlQjdoY2hSRDkyZl95WWtKVFdMY242R0FqWVhjQQ?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T22:36:26+07:00",
+"found": "2026-11-24T22:41:32+07:00"
+},
+{
+"id": "f0cec7e1d328",
+"title": "CPTPP bàn nâng cấp hiệp định, mở rộng thành viên tại Hà Nội",
+"link": "https://vnexpress.net/cptpp-ban-nang-cap-hiep-dinh-mo-rong-thanh-vien-tai-ha-noi-5148494.html",
+"summary": "Quan chức cấp cao 12 thành viên CPTPP thảo luận việc nâng cấp hiệp định, mở rộng thành viên và tăng hợp tác với EU, ASEAN trong chuỗi hội nghị do Việt Nam chủ trì.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/24/wm6-wm6-17955233400126254858831438-2491-7476-1795533223.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GqgUGZc9RV3c4K3EshbRyg",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-24T22:31:32+07:00",
+"found": "2026-11-24T22:41:32+07:00"
+},
+{
+"id": "ce17f6842388",
+"title": "Tháp Tam Thắng Vũng Tàu nhộn nhịp người xem bắn pháo hoa Ngày Văn hóa Việt Nam",
+"link": "https://thanhnien.vn/thap-tam-thang-vung-tau-nhon-nhip-nguoi-xem-ban-phao-hoa-ngay-van-hoa-viet-nam-185261124214705776.htm",
+"summary": "Dù 21 giờ mới diễn ra chương trình bắn pháo hoa chào mừng Ngày Văn hóa Việt Nam nhưng từ chiều 24.11, nhiều người đã có mặt tại khu vực tháp Tam Thắng (Bãi Sau, Vũng Tàu) để chọn vị trí đẹp.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/edit-tnw-179553136151982134963177238794728213496317723879472743de77c6651f436947460f3745e1846-17955314340881918361446-132-1018-936-2305-crop-1795531459370102132145.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T22:30:00+07:00",
+"found": "2026-11-24T22:41:32+07:00"
+},
+{
+"id": "a67d9d735303",
+"title": "Công ty 6.000 tỷ đồng do FLC sáng lập để thuê mua máy bay bất ngờ đổi tên, mở rộng sang lĩnh vực năng lượng",
+"link": "https://kenh14.vn/cong-ty-6000-ty-dong-do-flc-sang-lap-de-thue-mua-may-bay-bat-ngo-doi-ten-mo-rong-sang-linh-vuc-nang-luong-215261124221656573.chn",
+"summary": "Từng được định hướng đầu tư và cho thuê tàu bay phục vụ kế hoạch mở rộng đội bay của Bamboo Airways, doanh nghiệp vốn điều lệ 6.000 tỷ đồng vừa đổi tên, chuyển trụ sở và bổ sung hàng loạt ngành nghề liên quan đến năng lượng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795533368162-17955333684921520361804.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-24T22:25:00+07:00",
+"found": "2026-11-24T22:41:32+07:00"
+},
+{
 "id": "492097f7f452",
 "title": "TPHCM rực rỡ pháo hoa trong Ngày Văn hóa Việt Nam",
 "link": "https://vietnamnet.vn/phao-hoa-ruc-ro-mung-ngay-van-hoa-viet-nam-o-tphcm-2578296.html",
@@ -222,6 +266,18 @@
 "cat": "xh",
 "published": "2026-11-24T22:22:08+07:00",
 "found": "2026-11-24T22:26:09+07:00"
+},
+{
+"id": "1ae485609f00",
+"title": "love in disguise",
+"link": "https://www.soompi.com/article/1890031wpp/love-in-disguise-sees-slight-ratings-boost-ahead-of-finale",
+"summary": "\"Love In Disguise\" Sees Slight Ratings Boost Ahead Of Finale (Soompi)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQZmx2fBl2hmWaBRrDjQxH-JwDEErtt4dPBwE7lz7NvBnECKVsSEKsp3ktN8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T22:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-24T22:41:32+07:00"
 },
 {
 "id": "1cff0c7aca1c",
@@ -527,6 +583,17 @@
 "cat": "xh",
 "published": "2026-11-24T21:18:29+07:00",
 "found": "2026-11-24T18:03:10+07:00"
+},
+{
+"id": "e131bbb611f9",
+"title": "Hà Nội sắp mở bán 8 căn nhà ở xã hội, có căn giá chưa đến 15 triệu đồng/m2",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXNnUzhjeE51MjlFa3ltcFM0MzlaeGdmajczaVlMQ3NzZ0N0NnVmTXZ0M2FjZDh5d2RVVkpDR25xSFBEOG40UXFCaGo2MXF6bDktVVRpbHp0a2FOUGw2Z3c2UF9zMWdKM2duWktvQkgyYXVDdmxJNjhZMU41ZlMyYmhXNlJJYjFveXlJV0djMTZweW1ER3owR1RncHd1YU8yM0ZYazZCaEt4UQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T21:17:00+07:00",
+"found": "2026-11-24T22:41:32+07:00"
 },
 {
 "id": "7ec32c315fe7",
@@ -1600,6 +1667,17 @@
 "published": "2026-11-24T18:20:00+07:00",
 "traffic": "500+",
 "found": "2026-11-24T19:53:50+07:00"
+},
+{
+"id": "d3338cfa255a",
+"title": "Giá vàng giảm khi thị trường chờ đợi dữ liệu lạm phát của Mỹ",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0F5R2U5ZXB4S3JwTnNqOTZBMWtFWnFGZGZpdlZDM3FOQ19JUDNJRWcyZG4zcDhwLWRMV2VsakswY3Z6RUI1ZXQ1Ym4xUl9JTVZILVR1YkNnX1pUVS1STU9vYmdpSWE2NVdxZ0pqOFdvV0VxRmZPOS1YYkpxX0pmbURBMmZPdW04Rnkwdjh3TWJPZ2RPenNZQg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T18:17:00+07:00",
+"found": "2026-11-24T22:41:32+07:00"
 },
 {
 "id": "f68f6d852af7",
@@ -6085,6 +6163,17 @@
 "cat": "tc",
 "published": "2026-11-24T08:36:06+07:00",
 "found": "2026-11-24T08:44:31+07:00"
+},
+{
+"id": "b5cc4aac1629",
+"title": "Nvidia quay xe cực gắt: Từng tuyên bố không đón lại Jensen Huang, nay HĐQT đồng loạt bỏ phiếu đưa ông trở lại ghế CEO!",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeFRtNzRzWkg3elY0dHgzSTRNX0V1R1RWY1dWMGFKRFhTT0lLbVhtSEw3djlqa2YxRm1zNEJnbjdVU25RaTRCUzJVcGxHbnBWSTdaa3Fpb1hPRjl0SlJrdGI3c1hLZlFWYVU4R05mV0F1U29YMzg4TEVISm9sWHBrZDZmakIwOVZCZmNiX2RpX2locUJWREpYQzIybkM3RmlPT1BEUHhUMGxFSVZMVTBHWDlKTVoya3IzSDBFd0RFYi1fOWtnNHFDN0VDSEhUZ0J3UEU0c2dGVTBKRU9DRVdXZ3ZaUzdJRHRaa0QxWVdKS05VR1E?oc=5",
+"summary": "Nguồn: Cộng đồng Kinh doanh Việt Nam",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T08:35:53+07:00",
+"found": "2026-11-24T22:41:32+07:00"
 },
 {
 "id": "d544c2ea0a1a",
@@ -28038,97 +28127,6 @@
 "cat": "tc",
 "published": "2026-11-21T21:01:00+07:00",
 "found": "2026-11-21T21:19:05+07:00"
-},
-{
-"id": "924b4b352822",
-"title": "aston villa đấu với sunderland",
-"link": "https://bongdaplus.vn/ngoai-hang-anh/nhan-dinh-bong-da-aston-villa-vs-sunderland-22h00-ngay-21-11-meo-den-khong-de-xoi-5294702611.html",
-"summary": "Nhận định bóng đá Aston Villa vs Sunderland, 22h00 ngày 21/11: Mèo đen không dễ ‘xơi’ (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYJKOTJytguJjVg7dQUrM6Wpkf832axif7qNj74AAH9EXTmrIT80H_t9_k15k",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T21:00:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-21T21:19:05+07:00"
-},
-{
-"id": "7a8658eb42d5",
-"title": "bournemouth đấu với nottm forest",
-"link": "https://www.bbc.com/sport/football/live/cr5y18vyynlxt",
-"summary": "Bournemouth vs Nottingham Forest: Premier League preview, team news, stats & head-to-head (BBC)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp6hohvWNT5PsgRxR933gEJevgTleLt8V0gJHXBf6nyJR6IzC11JqaBNKxdpk",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T21:00:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-21T21:19:05+07:00"
-},
-{
-"id": "be3d6417390d",
-"title": "elliot anderson",
-"link": "https://sports.yahoo.com/articles/elliot-anderson-roars-back-england-140600168.html",
-"summary": "Elliot Anderson roars back from England nightmare in style 💫 (Yahoo Sports)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9G5s7cRCQyqaA3uxQheDW_yuppLlLO0PkkJO--GemKmAcTJbq4cdFNKkTb_s",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T21:00:00+07:00",
-"traffic": "500+",
-"found": "2026-11-21T21:34:15+07:00"
-},
-{
-"id": "5f4dfdc2430b",
-"title": "Dùng đất rừng ở Phú Quốc lừa khách Hà Nội 16 tỷ đồng",
-"link": "https://vietnamnet.vn/biet-dat-thuoc-rung-nha-nuoc-van-rao-ban-cho-khach-ha-noi-de-lua-dao-16-ty-dong-2577413.html",
-"summary": "Hai người ở An Giang bị khởi tố, bắt tạm giam vì bị cáo buộc gian dối về nguồn gốc pháp lý của 11.000m² đất rừng tại Phú Quốc, bán cho một người ở Hà Nội để lừa đảo 16 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/21/dung-dat-rung-o-phu-quoc-lua-khach-ha-noi-16-ty-dong-2046.jpg?width=0&s=HdhMJbfvkx7iPdlGSMDbEQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-21T20:59:48+07:00",
-"found": "2026-11-21T18:58:54+07:00"
-},
-{
-"id": "8564ac8007a8",
-"title": "Thu hồi đất nông nghiệp bỏ hoang 24 tháng",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vNm1PZXFsbXpTSERza01yQS13RERrOWZsRzFKX3hpSkZPcGFUOUpja0JTS3RMc0Q0QkVpaEdiaTZqOGxCZkM5VUhNbTRHYWRxNHhsbjdhZzJxRnZHTndrSjFLR2tHSmQ5YUtBTHp1YWQtNFhSaHpkWTU1RE12UHM?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T20:59:00+07:00",
-"found": "2026-11-21T21:03:17+07:00"
-},
-{
-"id": "b1eb4c919d0b",
-"title": "Nữ chủ hụi online bị bắt vì lừa hơn 4,5 tỷ đồng",
-"link": "https://vietnamnet.vn/choi-hui-qua-facebook-nhieu-nguoi-bi-lua-dao-hon-4-5-ty-dong-2577409.html",
-"summary": "Tin tưởng tham gia các dây hụi trên Facebook, nhiều người bị Lư Ngọc Thùy lừa chiếm đoạt hơn 4,5 tỷ đồng bằng cách lập 46 phần hụi khống để rút tiền.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/21/nu-chu-hui-online-bi-bat-vi-lua-hon-45-ty-dong-2036.jpg?width=0&s=MWvHx9BkFB9QTmehgkHZ-g",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-21T20:58:43+07:00",
-"found": "2026-11-21T18:58:54+07:00"
-},
-{
-"id": "369cea62279e",
-"title": "Sau 5 năm, nhà ở xã hội chỉ được bán cho người đủ điều kiện mua nhà ở xã hội",
-"link": "https://kenh14.vn/sau-5-nam-nha-o-xa-hoi-chi-duoc-ban-cho-nguoi-du-dieu-kien-mua-nha-o-xa-hoi-215261121180707588.chn",
-"summary": "Sau 5 năm kể từ ngày đã thanh toán đủ tiền, bên mua, bên thuê mua nhà ở xã hội được bán lại nhà ở này nhưng chỉ được bán cho đối tượng thuộc trường hợp được mua nhà ở xã hội.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795259069983-1795259070986936921049.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T20:57:00+07:00",
-"found": "2026-11-21T21:19:05+07:00"
-},
-{
-"id": "c89f86f754bf",
-"title": "Thanh khoản căn hộ thứ cấp Hà Nội chững đà giảm sau giai đoạn điều chỉnh",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUxhRGRKMnFFNl9aeEpjWXhTNUdoOWlJWFhxaU9YdnRvY1BHR29ZTlFjV0M0enF3UzV2R3NweVpRVEpKSkh6TkxCckZVdFpuTXhpR2UwWWoxLTJsQ3JXakFrUXhSQXZrS3J2T3N1OGFiSUZJcmluc0RBT3JhV05nRTMyNTFhemhHbV9vRHdCRlQxeUJlbUVLR055YVBJbFFaend0N3BrZG0?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T20:53:00+07:00",
-"found": "2026-11-21T21:03:17+07:00"
 }
 ]
 }
