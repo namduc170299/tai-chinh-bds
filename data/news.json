@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T13:09:54+07:00",
-"new": 14,
+"updated": "2026-11-24T13:25:06+07:00",
+"new": 1,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 42
+"count": 43
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,17 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "fa23e111d87f",
+"title": "Xe tải tông ôtô 4 chỗ biến dạng, một người chết",
+"link": "https://vnexpress.net/xe-tai-tong-oto-4-cho-bien-dang-mot-nguoi-chet-5148372.html",
+"summary": "Xe tải va chạm với ôtô 4 chỗ tại giao lộ ở Khu đô thị Nam Tuy Hòa, phường Phú Yên, khiến một người tử vong, hai người bị thương nặng, sáng 24/11.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/a-nh-ma-n-hi-nh-lu-c-179549942-8155-5585-1795499506.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=SuPJQmDuSTUwbhC7Dx5VKQ",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T13:06:54+07:00",
+"found": "2026-11-24T13:25:06+07:00"
+},
 {
 "id": "0a6413cd8d43",
 "title": "Cảnh giác bẫy kép lừa đảo trên không gian mạng",
@@ -28119,17 +28130,6 @@
 "cat": "tc",
 "published": "2026-11-21T12:33:00+07:00",
 "found": "2026-11-22T07:47:54+07:00"
-},
-{
-"id": "d8e0e76c94e2",
-"title": "Người nước ngoài không được sở hữu quá 30% số lượng căn hộ trong một tòa nhà chung cư",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjh5MS1GcUZhcGJYbUQwS3NkcXVXZUhyc095TkdwRmxtVkxoVzVpcDhhYkUzYVpQR2haU1hGdkduNzZMUENhZ1pkVzBWSnc4dFhYeDBoMzdXcFd0RzRVVW9CcVBHOVp1SjN1NWY4bnZoOGp6Xy0yM0w2YmlCT0xBM0ljcXBSRlU1TjM1MG5NbDh3VlRkS254cXZiMzVIYmlGbGpoZzF0ajZRODVfR2UwLWlqUFJIS01a?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T12:32:00+07:00",
-"found": "2026-11-21T12:36:34+07:00"
 }
 ]
 }
