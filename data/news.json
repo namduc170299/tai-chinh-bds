@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T13:25:06+07:00",
-"new": 1,
+"updated": "2026-11-24T13:34:29+07:00",
+"new": 18,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 43
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,96 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "616ce2700b76",
+"title": "Vụ nổ khí gas tại Hà Nội: Khẩn trương rà soát, lập danh sách các nạn nhân",
+"link": "https://thanhnien.vn/vu-no-khi-gas-tai-ha-noi-khan-truong-ra-soat-lap-danh-sach-cac-nan-nhan-185261124131225783.htm",
+"summary": "Hà Nội sẵn sàng điều động nhân lực y tế, bảo đảm điều kiện điều trị tốt nhất cho người bệnh là các nạn nhân trong vụ nổ khí gas xảy ra sáng 24.11.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/vu-no-benh-vien-cap-cuu-nan-nhan-17955002597321049064443-160-0-960-1280-crop-17955002666051578617173.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-24T13:31:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
+"id": "95117b51c6bc",
+"title": "Nổ lớn, sập nhà ở Hà Nội",
+"link": "https://vietnamnet.vn/no-lon-sap-nha-o-ha-noi-2578015.html",
+"summary": "Vụ nổ lớn xảy ra vào khoảng 8h sáng nay tại phố Nguyễn Văn Tuyết.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/no-lon-sap-nha-o-ha-noi-2262.jpg?width=0&s=2aQenL7_lg4sCb6W7gKE8w",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T13:27:51+07:00",
+"found": "2026-11-24T08:59:42+07:00"
+},
+{
+"id": "b275e7e1b669",
+"title": "Người dân TP.HCM hào hứng đi xem triển lãm quy hoạch tổng thể TP.HCM tầm nhìn 100 năm",
+"link": "https://tuoitre.vn/nguoi-dan-tphcm-hao-hung-di-xem-trien-lam-quy-hoach-tong-the-tphcm-tam-nhin-100-nam-100261124123039012.htm",
+"summary": "Ngày 24-11, hàng trăm người dân TP.HCM hào hứng xem triển lãm quy hoạch tổng thể TP.HCM tầm nhìn 100 năm tại Trung tâm triển lãm quy hoạch TP.HCM (phường An Khánh, TP.HCM).",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/dsc02674-1795496134405386985156-60-0-1660-2560-crop-17954978631691446191337.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T13:22:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
+"id": "1953af289849",
+"title": "Đà Nẵng làm việc với NVIDIA, đón nhiều tập đoàn lớn về ô tô, công nghệ về mở nhà máy",
+"link": "https://tuoitre.vn/da-nang-lam-viec-voi-nvidia-don-nhieu-tap-doan-lon-ve-o-to-cong-nghe-ve-mo-nha-may-100261124122728889.htm",
+"summary": "Chỉ trong thời gian ngắn, Đà Nẵng liên tiếp thu hút các tập đoàn trong và ngoài nước đầu tư xây dựng nhà máy với quy mô hàng ngàn tỉ đồng. Thành phố cũng đang tiếp xúc với NVIDIA.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/uacvn-18-1795497559050533148610-0-0-1600-2560-crop-17954977718281107848217-251-375-1250-1974-crop-1795501069573615369700.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T13:14:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
+"id": "4c74cf586dbd",
+"title": "cô dâu",
+"link": "https://trends.google.com/trending/rss?geo=VN",
+"summary": "",
+"image": "",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T13:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
+"id": "f123a63e0bf7",
+"title": "bắn pháo hoa 24 11",
+"link": "https://laodong.vn/van-hoa-giai-tri/phuong-my-chi-toi-xuc-dong-khi-hat-ca-khuc-chu-de-o-concert-muon-sac-viet-nam-1805464.ldo",
+"summary": "Phương Mỹ Chi: Tôi xúc động khi hát ca khúc chủ đề ở concert Muôn sắc Việt Nam (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9weiU7SEa0W7EyzE7fsi1Irjbxbl468HfV0wAqjn0uGinv7-G-uKwtElFUdI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T13:10:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
+"id": "ad932a0896df",
+"title": "Long Thành tính tăng chuyến dịp Tết, khách tránh nhầm sân bay khi đặt vé",
+"link": "https://dantri.com.vn/kinh-doanh/long-thanh-tinh-tang-chuyen-dip-tet-khach-tranh-nham-san-bay-khi-dat-ve-20261124122012315.htm",
+"summary": "(Dân trí) - Từ ngày 24/12, sân bay Long Thành dự kiến khai thác thương mại, với sản lượng có thể tăng lên 30-40 chuyến/ngày dịp Tết Nguyên đán 2027.",
+"image": "https://cdnphoto.dantri.com.vn/bvExOaBiXB0ndYFFe5RT5UGmeQw=/2026/11/24/khach-bay-anh-long-hai-cropped-1795497476038.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-24T13:07:33+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
+"id": "5309ab6e0fb2",
+"title": "Khơi dậy mạnh mẽ lòng tự hào, khát vọng cống hiến để văn hóa thấm sâu vào từng nếp nghĩ, việc làm",
+"link": "https://tuoitre.vn/khoi-day-manh-me-long-tu-hao-khat-vong-cong-hien-de-van-hoa-tham-sau-vao-tung-nep-nghi-viec-lam-100261124121556461.htm",
+"summary": "Trưởng Ban Tuyên giáo Trung ương Trịnh Văn Quyết nhấn mạnh, nhìn lại 80 năm, chúng ta tự hào khẳng định bản sắc dân tộc được bồi đắp qua các cuộc kháng chiến trường kỳ và qua sự nghiệp bảo vệ Tổ quốc, công cuộc Đổi mới và hội nhập.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/ong-trinh-van-quyet-17954961104231313145212-99-373-1382-2425-crop-17954961499611095157743.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T13:07:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
 "id": "fa23e111d87f",
 "title": "Xe tải tông ôtô 4 chỗ biến dạng, một người chết",
 "link": "https://vnexpress.net/xe-tai-tong-oto-4-cho-bien-dang-mot-nguoi-chet-5148372.html",
@@ -244,6 +334,17 @@
 "cat": "tc",
 "published": "2026-11-24T13:02:00+07:00",
 "found": "2026-11-24T13:09:54+07:00"
+},
+{
+"id": "0c6c2dce44bf",
+"title": "Bộ Y tế hướng dẫn giảm trừ thuế thu nhập cá nhân với chi phí khám chữa bệnh",
+"link": "https://tuoitre.vn/bo-y-te-huong-dan-giam-tru-thue-thu-nhap-ca-nhan-voi-chi-phi-kham-chua-benh-100261124114320742.htm",
+"summary": "Một người dân cho biết vợ phải phẫu thuật, không có bảo hiểm y tế (BHYT) chi trả, tổng chi phí khám, chữa bệnh khoảng 100 triệu đồng và được thanh toán thành nhiều đợt. Người này muốn biết khoản tiền trên có được tính giảm trừ khi quyết toán thuế thu nhập cá nhân hay không.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/vien-phi-bhyt9-read-only-17579888506471602398731-105-0-1705-2560-crop-17954952874221775335771.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T13:02:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
 },
 {
 "id": "6fd4d3193cc9",
@@ -323,6 +424,17 @@
 "found": "2026-11-24T12:54:43+07:00"
 },
 {
+"id": "6e442e4f96c8",
+"title": "Trộm vàng, bạc trong két sắt nhà dân mang về vườn chôn giấu",
+"link": "https://dantri.com.vn/phap-luat/trom-vang-bac-trong-ket-sat-nha-dan-mang-ve-vuon-chon-giau-20261124112749405.htm",
+"summary": "(Dân trí) - Vang Văn Đức đào hố sau nhà, chôn toàn bộ số vàng, bạc trộm được rồi bắt xe rời khỏi địa phương.",
+"image": "https://cdnphoto.dantri.com.vn/pgxDrXNnC-fgqVGf3qLciOvnMNk=/2026/11/24/tromvang-nghean-vanhau-1795494093962.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-24T12:51:30+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
 "id": "a504ccc27354",
 "title": "Bắt nhóm làm giả hơn 250 giấy tờ để 'chạy' suất mua nhà ở xã hội",
 "link": "https://tuoitre.vn/bat-nhom-lam-gia-hon-250-giay-to-de-chay-suat-mua-nha-o-xa-hoi-100261124111332332.htm",
@@ -342,7 +454,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T12:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-24T13:09:54+07:00"
 },
 {
@@ -379,6 +491,39 @@
 "found": "2026-11-24T12:54:43+07:00"
 },
 {
+"id": "3b79ce55b756",
+"title": "TP.HCM quảng bá du lịch trên CNN, Discovery..., mở rộng hình ảnh điểm đến",
+"link": "https://tuoitre.vn/tphcm-quang-ba-du-lich-tren-cnn-discovery-mo-rong-hinh-anh-diem-den-100261124114803956.htm",
+"summary": "Từ ngày 20-11 đến 20-12, hình ảnh du lịch TP.HCM xuất hiện trên CNN, Discovery và Asian Food Network tại khu vực châu Á - Thái Bình Dương, giới thiệu hành trình từ trung tâm đô thị, làng nghề đến các vùng biển và Côn Đảo.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/qdi7858-1795494372371880647671-67-0-1667-2560-crop-17954954185201080206723.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T12:44:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
+"id": "4636afb47fea",
+"title": "Bắt giữ người đàn ông Đài Loan vận chuyển 2kg ma túy qua biên giới ở Tây Ninh",
+"link": "https://dantri.com.vn/phap-luat/bat-giu-nguoi-dan-ong-dai-loan-van-chuyen-2kg-ma-tuy-qua-bien-gioi-o-tay-ninh-20261124121604799.htm",
+"summary": "(Dân trí) - Lực lượng biên phòng Tây Ninh bắt quả tang người đàn ông quốc tịch Đài Loan (Trung Quốc) vận chuyển 2kg Ketamine từ Campuchia vào Việt Nam.",
+"image": "https://cdnphoto.dantri.com.vn/_7eq0Jrs8LQJeN9YsthS8Gy5tgA=/2026/11/24/1-1795497083479.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-24T12:41:17+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
+"id": "9a3052295109",
+"title": "Khách Tây dành trọn kỳ nghỉ, chi ngàn đô săn sale Black Friday tại TP.HCM",
+"link": "https://tuoitre.vn/khach-tay-danh-tron-ky-nghi-chi-ngan-do-san-sale-black-friday-tai-tphcm-100261124113305844.htm",
+"summary": "Chloe (Singapore) trở lại TP.HCM lần thứ hai với lịch trình chỉ xoay quanh mua sắm, trong khi Martin (Pháp) dự chi 1.500 USD (gần 40 triệu đồng) cho 4 ngày mua sắm tại thành phố trong dịp Black Friday.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/0b31376e-1c7b-4db0-b822-31986b09399b-1795493199185970104437-180-0-1085-1448-crop-1795493357223853022750-301-133-882-1062-crop-17954991957881957948963.png",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T12:40:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
 "id": "666d82d9eeb5",
 "title": "Gửi tiết kiệm 500 triệu đồng, lãi suất cao nhất ở ngân hàng bao nhiêu?",
 "link": "https://dantri.com.vn/kinh-doanh/gui-tiet-kiem-500-trieu-dong-lai-suat-cao-nhat-o-ngan-hang-bao-nhieu-20261124114431139.htm",
@@ -388,6 +533,17 @@
 "cat": "tc",
 "published": "2026-11-24T12:39:01+07:00",
 "found": "2026-11-24T12:54:43+07:00"
+},
+{
+"id": "cd9724dd82de",
+"title": "Sau vụ nổ khí gas làm 2 người chết, người dân bắt đầu di dời ra khỏi khu nhà tập thể",
+"link": "https://tuoitre.vn/sau-vu-no-khi-gas-lam-2-nguoi-chet-nguoi-dan-bat-dau-di-doi-ra-khoi-khu-nha-tap-the-100261124122100845.htm",
+"summary": "Ghi nhận của Tuổi Trẻ, khoảng 10h40 ngày 24-11, nhiều hộ dân sinh sống tại 2 tòa tập thể cũ nhận được thông báo. Lúc 11h, lực lượng công an, tổ dân phố có mặt tại khu nhà để kêu gọi người dân di dời.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/nguoi-dan-no-khi-edit-1795499015224300744738-131-164-1606-2526-crop-1795499089751267800720.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T12:38:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
 },
 {
 "id": "56a122485935",
@@ -424,6 +580,39 @@
 "found": "2026-11-24T12:54:43+07:00"
 },
 {
+"id": "6ce9eb34ed6a",
+"title": "39 điểm ngập do triều cường ở TP.HCM trước khi vận hành dự án ngăn triều 10.000 tỉ đồng",
+"link": "https://tuoitre.vn/39-diem-ngap-do-trieu-cuong-o-tphcm-truoc-khi-van-hanh-du-an-ngan-trieu-10000-ti-dong-100261124113120076.htm",
+"summary": "Theo cơ quan chức năng, hiện TP.HCM có 39 điểm ngập do triều cường, như Trần Xuân Soạn, Nguyễn Thị Thập... Nhiều người dân bày tỏ hy vọng sẽ sớm thoát cảnh ngập nước khi dự án ngăn triều 10.000 tỉ vận hành.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/trieu-cuong-edit-17954982001881965260271-0-101-1562-2600-crop-1795498275274678586381.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T12:27:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
+"id": "7e3b6539d7cf",
+"title": "Sôi nổi tranh tài giải bơi biển tự do ở khu lấn biển Rạch Giá",
+"link": "https://tuoitre.vn/soi-noi-tranh-tai-giai-boi-bien-tu-do-o-khu-lan-bien-rach-gia-100261124114538717.htm",
+"summary": "An Giang khai mạc giải bơi biển và các trò chơi dân gian, góp phần quảng bá hình ảnh du lịch, đất và con người địa phương đến với du khách.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/mai2-17954953944452085827421-38-0-1748-2736-crop-1795495399494581370893.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T12:23:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
+"id": "f483ea105995",
+"title": "Tổng Bí thư, Chủ tịch nước: Mỗi quyết sách cần tính tác động với con người, di sản, lợi ích lâu dài của Nhân dân",
+"link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-moi-quyet-sach-can-tinh-tac-dong-voi-con-nguoi-di-san-loi-ich-lau-dai-cua-nhan-dan-100261124113742169.htm",
+"summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh thành quả phát triển đất nước phải thể hiện ở chất lượng cuộc sống, nhân cách con người và những quan hệ xã hội tốt đẹp.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/a2-1795493701448869414456-107-0-1707-2560-crop-1795495645369701674959.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T12:22:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
 "id": "2f613916c5ab",
 "title": "Doanh nghiệp trước \"ma trận\" tư vấn xanh, số: Họ cần được hỗ trợ thực chiến",
 "link": "https://dantri.com.vn/kinh-doanh/doanh-nghiep-truoc-ma-tran-tu-van-xanh-so-ho-can-duoc-ho-tro-thuc-chien-20261123222144928.htm",
@@ -446,6 +635,17 @@
 "found": "2026-11-24T12:28:07+07:00"
 },
 {
+"id": "966f493053f0",
+"title": "Nguyên nhân vụ nổ làm 2 người chết, 11 người bị thương ở Hà Nội",
+"link": "https://tuoitre.vn/nguyen-nhan-vu-no-lam-2-nguoi-chet-11-nguoi-bi-thuong-o-ha-noi-100261124100400984.htm",
+"summary": "Theo Công an TP Hà Nội, nguyên nhân ban đầu của vụ nổ nghi do nổ khí gas gây sập đổ một phần nhà 1 tầng phía sau nhà tập thể E4. Cơ quan chức năng đã đưa 11 người bị thương đến bệnh viện, 2 người đã tử vong bàn giao cho lực lượng y tế.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/5-17954892649942027556513-159-0-3939-6048-crop-17954892748161362489459.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T12:18:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
 "id": "44f949ac9389",
 "title": "Hai thanh niên nghi say xỉn tông đại úy cảnh sát Hà Nội nhập viện",
 "link": "https://vietnamnet.vn/hai-thanh-nien-nghi-say-xin-tong-dai-uy-canh-sat-ha-noi-nhap-vien-2578080.html",
@@ -457,6 +657,17 @@
 "found": "2026-11-24T11:04:27+07:00"
 },
 {
+"id": "da39229d5209",
+"title": "Sacombank kết hợp giải pháp bảo hiểm và đặc quyền tài chính",
+"link": "https://tuoitre.vn/sacombank-ket-hop-giai-phap-bao-hiem-va-dac-quyen-tai-chinh-100261124112344516.htm",
+"summary": "Không chỉ cung cấp các sản phẩm bảo hiểm, Sacombank kết hợp giải pháp bảo vệ tài chính với những ưu đãi trong giao dịch ngân hàng, hướng đến đáp ứng nhu cầu của khách hàng ở nhiều giai đoạn cuộc sống.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/avatcbctcbcno-text-1795494010120332594895-0-0-1108-1772-crop-1795494086816255201881.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-24T12:15:00+07:00",
+"found": "2026-11-24T13:34:29+07:00"
+},
+{
 "id": "9c68e927702e",
 "title": "Cận cảnh hiện trường ngổn ngang sau vụ nổ khiến 2 người tử vong ở phố Nguyễn Văn Tuyết",
 "link": "https://vietnamnet.vn/hien-truong-vu-no-lon-tren-pho-nguyen-van-tuyet-2578077.html",
@@ -466,17 +677,6 @@
 "cat": "xh",
 "published": "2026-11-24T12:14:31+07:00",
 "found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "95117b51c6bc",
-"title": "Nổ lớn, sập nhà ở Hà Nội",
-"link": "https://vietnamnet.vn/no-lon-sap-nha-o-ha-noi-2578015.html",
-"summary": "Vụ nổ lớn xảy ra vào khoảng 8h sáng nay tại phố Nguyễn Văn Tuyết.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/no-lon-sap-nha-o-ha-noi-2262.jpg?width=0&s=2aQenL7_lg4sCb6W7gKE8w",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T12:13:12+07:00",
-"found": "2026-11-24T08:59:42+07:00"
 },
 {
 "id": "8edfa4d19164",
@@ -27928,208 +28128,6 @@
 "cat": "tc",
 "published": "2026-11-21T12:50:00+07:00",
 "found": "2026-11-21T13:50:46+07:00"
-},
-{
-"id": "aa4919f86d07",
-"title": "Đề xuất không thu tiền bổ sung đất nếu doanh nghiệp không vi phạm",
-"link": "https://cafef.vn/de-xuat-khong-thu-tien-bo-sung-dat-neu-doanh-nghiep-khong-vi-pham-188261121125008076.chn",
-"summary": "HoREA đề xuất miễn khoản tiền nộp bổ sung trong giai đoạn chưa tính tiền sử dụng đất, tiền thuê đất nếu người sử dụng đất không vi phạm pháp luật về đất đai.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795240191787-17952401920642083163894.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T12:49:00+07:00",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "cb548d6e052d",
-"title": "Quốc hội chốt chuyển hơn 40 km² đất và 1.057 người dân Phú Thọ về Hà Nội",
-"link": "https://cafef.vn/quoc-hoi-chot-chuyen-hon-40-km-dat-va-1057-nguoi-dan-phu-tho-ve-ha-noi-188261121124722047.chn",
-"summary": "Quốc hội quyết định điều chỉnh diện tích tự nhiên 40,06 km², quy mô dân số 1.057 người của tỉnh Phú Thọ vào TP Hà Nội.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795240031910-17952400323861856103426.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-21T12:47:00+07:00",
-"found": "2026-11-21T12:51:57+07:00"
-},
-{
-"id": "d88c8ac10f89",
-"title": "Ai thay ông Trần Bá Dương làm Chủ tịch HĐQT Thaco Agri?",
-"link": "https://cafef.vn/ai-thay-ong-tran-ba-duong-lam-chu-tich-hdqt-thaco-agri-188261121124755412.chn",
-"summary": "Ông Trần Đăng Khoa thay ông Trần Bá Dương làm Chủ tịch HĐQT Thaco Agri.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795240048563-17952400491261810209165.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-21T12:47:00+07:00",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "7e0d18e3887c",
-"title": "Quy định về chính sách tín dụng ưu đãi hỗ trợ đối với đồng bào dân tộc thiểu số và miền núi",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3o4Y0xtWTVnTU5BZkZrZEtBTTloT28ybGxhc0pzT1VFQXJ2WTJUTEZBTFIwY3pheG9PMW9JT1hpanVudTRud1ozUjJnU0NNbUFBZTQ3X1BGRlRtUks4dWRlM1VoZXlnTWpuSHBLN052UVcxS1hvUEQ0Y3RWQTk1cG84eER1TzREaFZLUVRfSGtHd3VDeDhHWjB0dUxXVkI0ZDJNdV8tLWtwcHNVUXFzNGNTSkN4XzJPLXNaTTUxRzRDUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T12:47:00+07:00",
-"found": "2026-11-21T14:22:05+07:00"
-},
-{
-"id": "e7d9439eb0db",
-"title": "TP.HCM đánh giá chất lượng cải cách hành chính ở cấp xã sau sắp xếp",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDNLbkNMZHNjSzRUaWtYTUJMQVQxVkhRMXM0YmoxTm9XN09xcXhTSjlkaWJmZEFzYXhmd2t1S1NPaHZIWlYzUk1KUEhMdGwxQ0hTWi1ZZmdNWUZKdkJtRzVCN1plR09mWjNYODdjTFduNkRhazFhZXdUbDh4WGsxMGxxem1iVW5XaEgzWFEwajhlMVlKRVpZcjZMMGlKbl9yNnc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T12:45:00+07:00",
-"found": "2026-11-21T12:51:57+07:00"
-},
-{
-"id": "65a546449287",
-"title": "Vướng mặt bằng, ba dự án ở Cà Mau gần 2.186 tỉ đồng xin gia hạn sang 2027",
-"link": "https://thanhnien.vn/vuong-mat-bang-ba-du-an-o-ca-mau-gan-2186-ti-dong-xin-gia-han-sang-2027-185261121104851274.htm",
-"summary": "Ba dự án kè, chống xói lở tại khu vực Bạc Liêu (Cà Mau) có tổng mức đầu tư gần 2.186 tỉ đồng đều vướng mặt bằng, chủ đầu tư đề nghị kéo dài thời gian thực hiện đến hết năm 2027.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/edit-ke-chong-ngap-bac-lieu-179523288243897032055-0-251-1443-2560-crop-1795232893756469016395.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T12:45:00+07:00",
-"found": "2026-11-21T12:51:57+07:00"
-},
-{
-"id": "3d10fc514681",
-"title": "Cứu người phụ nữ tắm biển Nha Trang lúc có cảnh báo cấm, 1 người tử vong, 1 người nhập viện",
-"link": "https://tuoitre.vn/cuu-nguoi-phu-nu-tam-bien-nha-trang-luc-co-canh-bao-cam-1-nguoi-tu-vong-1-nguoi-nhap-vien-100261121115707866.htm",
-"summary": "Một phụ nữ tắm biển thì bị sóng cuốn chới với, 1 người đàn ông lao ra cứu bị sóng nhấn chìm. Nhân viên cứu hộ bờ biển Nha Trang lao ra đưa được 2 người vào bờ nhưng bản thân bị nạn.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/17943005931052700457494743257793270045749474325779312ad8b3d5a8962963030ba575bc70ff4-1795236828354328728683-0-0-1600-2560-crop-17952369222921818449887.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T12:45:00+07:00",
-"found": "2026-11-21T13:34:47+07:00"
-},
-{
-"id": "deb586c03e7c",
-"title": "Quốc hội thông qua Nghị quyết điều chỉnh địa giới hành chính giữa Hà Nội và Phú Thọ",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT083cHhqbWx0STlzb1doOGNNdWc0akRPWmRDWE9WN3hESkhEc2JKOFA0dERMYTk0TXh1U2otRG9UMllycU1QTFdfbXFyYm1EX0NtTld5RzJIdlJpUVVJNjNMMXB6Q0JEX21fWUNVV2ZlNVZjOXlJREtCSGFzb0VQUkxlR0VfT3FITkEwMjdQV29BX1hLbTFfeEVPUWJXZC1lcEdtUWdIZjNPalBuUE9ORmV3Nll2R1E?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T12:41:00+07:00",
-"found": "2026-11-21T14:22:05+07:00"
-},
-{
-"id": "f4dd9b9749fe",
-"title": "vùng phát thải thấp",
-"link": "https://vnexpress.net/kiem-soat-xe-chay-xang-dau-tai-vung-phat-thai-thap-5147337.html",
-"summary": "Kiểm soát xe chạy xăng, dầu tại vùng phát thải thấp (VnExpress)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqeVm1wmPGVAVDr5kGxaNLos7rxRo-Lj1tLHqWSwEQ2HeLuTyanLKhXDWapMk",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T12:40:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "9f6c320fca1c",
-"title": "cải cách",
-"link": "https://laodong.vn/thoi-su/80400-ti-dong-cai-cach-tien-luong-can-tao-thu-nhap-xung-dang-cho-nguoi-co-nang-luc-1804007.ldo",
-"summary": "80.400 tỉ đồng cải cách tiền lương cần tạo thu nhập xứng đáng cho người có năng lực (Laodong.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7bnvACmdVK8i2W4LIxY1RzK8-b4WDZ1gbOROgVvIP7Yn0ZE1K345LcbAvaG0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T12:40:00+07:00",
-"traffic": "500+",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "5adf0a8a8136",
-"title": "phú thọ",
-"link": "https://dantri.com.vn/noi-vu/hon-1000-nguoi-phu-tho-thanh-cong-dan-ha-noi-tu-ngay-112027-20261121101106264.htm",
-"summary": "Hơn 1.000 người Phú Thọ thành công dân Hà Nội từ ngày 1/1/2027 (Báo Dân trí)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVJ2KkKbzfh4Fw8Drsf3ItxlElTjPRl0x7R2L8_T0WZZLpt0N1KFwcwekyvZo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T12:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "884302fbe8f3",
-"title": "Điều chỉnh địa giới hành chính Hà Nội - Phú Thọ không nhằm tạo quỹ đất mở rộng đô thị",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbUtTZkM4NWZFV1F3NldGX1hfMmRZN3dkOWZEQTVORnA2VW1lVE5DM1BKeTVURl93Um9RX0d5R0xWSG8yUVBLa0luM0pJV25WRHBKaG9aY2ZnVWtyX29EMl9La2RRaEhHOEs1V1psMXU5VE9LVGFuMXpRNlg3SmQwTFJ1d2N1VEVjZmNOWWk4Ymo1ZUh2R3NfSmR4V2h1T2RGVk5vNzNab1RHa2FOR1ljR25TbkdUcTA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T12:40:00+07:00",
-"found": "2026-11-21T13:50:46+07:00"
-},
-{
-"id": "f6ed6f6f293a",
-"title": "giá heo hơi miền trung",
-"link": "https://thoibaotaichinhvietnam.vn/ngay-21-11-gia-heo-hoi-co-xu-huong-tang-manh-tro-lai-207335.html",
-"summary": "Ngày 21/11: Giá heo hơi có xu hướng tăng mạnh trở lại (Thời báo Tài chính Việt Nam)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJeD2ecOfcbt5w9yVx6_3TLUbUfUDyEr9AUlCwvv8oofN9TklLrAROGW9DmF4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T12:40:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-21T14:06:13+07:00"
-},
-{
-"id": "0c93eabbeea4",
-"title": "Công an thành phố Huế thông tin vụ mại dâm gây xôn xao dư luận",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd042VDNKNUZfTC11a1FCY29meTExdXZKN3lJUjZwQ0VXVzZ4NWVHMjZ1WXdGS0lweVo0d0pKMlN6VnFkMnZyVkNyc0ViM2FMeFFXZnVRNlRnU3FiS3kyejlITmpOZWhGQnU2ZE1RRE1oQ1Q0bGo2UG5ad3dQVk1xY0ZOeE5rbDhicG1PYzdsaG9odw?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T12:34:58+07:00",
-"found": "2026-11-22T20:25:37+07:00"
-},
-{
-"id": "99a1d36d1d9c",
-"title": "Tài 'Đen' và quá trình phạm tội kéo dài: Từ nổ súng ở quán bar đến cướp ngân hàng",
-"link": "https://tuoitre.vn/tai-den-va-qua-trinh-pham-toi-keo-dai-tu-no-sung-o-quan-bar-den-cuop-ngan-hang-100261121101856226.htm",
-"summary": "Trong những năm trốn truy nã, Tài \"Đen\" tiếp tục lôi kéo, chỉ đạo đàn em gây ra hàng loạt vụ án đặc biệt nghiêm trọng, từ giết người, bảo kê, cưỡng đoạt tài sản đến cướp ngân hàng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/tai-den-17952395928071007861952-211-939-944-2111-crop-17952397021991150167768.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-21T12:34:00+07:00",
-"found": "2026-11-21T13:50:46+07:00"
-},
-{
-"id": "ea344427d103",
-"title": "“Giảm giá sập sàn” trước Black Friday: Khách xem nhiều, chốt đơn ít",
-"link": "https://dantri.com.vn/kinh-doanh/giam-gia-sap-san-truoc-black-friday-khach-xem-nhieu-chot-don-it-20261121085930005.htm",
-"summary": "(Dân trí) - Biển giảm giá 50-80% phủ kín các phố thời trang trước Black Friday cả tuần, nhưng nhiều cửa hàng vẫn thưa khách. Người mua ghé xem, hỏi giá, thử đồ, song không vội xuống tiền.",
-"image": "https://cdnphoto.dantri.com.vn/hKB-tJEXqJNir7UI32oJk6vJ4Qo=/2026/11/21/hinh-mua-hang-1-cropped-1795225753687.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T12:33:16+07:00",
-"found": "2026-11-21T13:07:24+07:00"
-},
-{
-"id": "88a8a1cc6d6a",
-"title": "Quốc hội thông qua Luật Kinh doanh bất động sản (sửa đổi) và chủ trương đầu tư 3 dự án cao tốc",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbmVDYUdDRWN0UVpBQXhpLU9xZUtadjljR21XTHUxc05FdHpldWJsYzJMRzFueUVLMndiWjR4eXBNTjl0enBVWEZiY3F0NE1tX2s2LTlLbmNkRUFSX1Z2U0duYWlYa2lJWDF3RmRXTEtHUEFBa2J1NHdGcW1RQVF5NUxoaWpEeUR0TzR3UzdEc2IzQWNzaTg2clZMeFZLWTFpVVVtQzA4TU9Id2FEYUNpWGhvSm1fSnhYOENuRHVQZGtteDQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T12:33:00+07:00",
-"found": "2026-11-21T12:36:34+07:00"
-},
-{
-"id": "5ce7b37caa26",
-"title": "Ông Trần Bá Dương rời ghế Chủ tịch Thaco Agri",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0FpVEwtdjlTTXE2YlREcF8yQVlEUnRQRnNaV1JCRjRoM216cGJEZVJZa09ZQ196MmtzWGJ1WXRBSUxOeTlGYzhlU0VadmlMOGZKc0lXOV9FQVIzSnZ5MEhXZUV2d3phM2hna0FaQlZ3QUo0ZGxHbkYwMTdjSDVWN3Rfc3U?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T12:33:00+07:00",
-"found": "2026-11-22T07:47:54+07:00"
 }
 ]
 }
