@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T17:17:37+07:00",
-"new": 9,
+"updated": "2026-11-24T17:32:46+07:00",
+"new": 11,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 44
+"count": 20
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,61 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "7e9aaaa05f3b",
+"title": "Giá vàng nhẫn trơn, vàng miếng chiều tối 24/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải: Tăng 200.000-500.000 đồng/lượng",
+"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-24-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-tang-200000-500000-dong-luong-188261123231959617.chn",
+"summary": "Giá vàng nhẫn tại một số thương hiệu tăng thêm 200.000-500.000 đồng/lượng trong sáng 24/11, lên ngang giá vàng miếng SJC ở mức 135 triệu đồng/lượng. Trong khi đó, giá vàng thế giới đi ngang quanh mức 3.635 USD/ounce sau khi tăng mạnh 2,74% trong phiên giao dịch hôm qua.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795492001740-17954920020441867565178.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-24T17:30:00+07:00",
+"found": "2026-11-24T17:32:46+07:00"
+},
+{
+"id": "45a270a912ed",
+"title": "Ông Jensen Huang trở lại Nvidia, chứng khoán châu Á-Thái Bình Dương đồng loạt khởi sắc",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYkd6R1h5WWRVRTRLZ081R19DVGcwOFdfUkxCcDNMUW91MUdTdG1sVmd1WXk3LVpLbzhQZDJseHMtZ1JuQVJtYjVDdkZRTTZBNGdWWnNZdFozendLOU5FSU43ck1FQWlGVWVUU3Y1ekdyRmljekZpV3p6Tk81ek5NcUNuaDc5SmVuWmp2eXhBa21QUTNQQVpjeXI4MEJNNTFUTFN2NXdxMXkyMUFVWTIzamdVMmdfSHlBS3c?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T17:26:00+07:00",
+"found": "2026-11-24T17:32:46+07:00"
+},
+{
+"id": "ff2b8dfa27cc",
+"title": "Tỷ giá USD hôm nay (24-11): Đồng USD tăng mạnh",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2ZqanJISE44b3ZPLVVPclZFVzEtLXZSMGo3Z0Y1UW9VbmtDR0hjVGt0UXYxNXp3Q05WLXVaVWFpaTVpdlRhdVdZZWJERUJCVWJDSEI0SGJIanpzVXBIR2Fha0RENE40cVB6MGpFUzd6Y211Q1JPTUoxT1Y3MlQwTzZ3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T17:21:41+07:00",
+"found": "2026-11-24T07:02:04+07:00"
+},
+{
+"id": "6ae743284bef",
+"title": "Hà Nội sắp bán nhà ở xã hội giá gần 15 triệu đồng/m²",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMlVEVzMwYTltWnJ6SlR2MUl5Z0E4Z0hlbHhxSnQ4U19VX1RabEZ1Z3pnLVhyOVdrdU9md1ZIMEpOWGdfbUFSeWZBRzhTUmRjRzY5cHdfTmlXQm1XNVc4emZtWG5YZ3dScU1qUWh5dzQ3MWhieVgyek5NZVVka3JWd0picG80Z1pDX3V0VU5R?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T17:18:47+07:00",
+"found": "2026-11-24T17:32:46+07:00"
+},
+{
+"id": "81e86406a8f3",
+"title": "Quảng Trị: Thêm nhà mới, nước sạch và ánh sáng cho vùng biên giới",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZXJJTzQzbzFCcF94MlpkODdIVmpRMXBpc3ZfNEowUUxiLWhmT0FOUEhVemtZSHhuUmJKR1BpUTdxM3VGZ2ZSSGsycW42VXpWNkJxNURXU3FXWG5MY3d3OFhtdmhYN1c0V3hzbFRYc0k4ZUN4WnF0b21rb2o5dmpiTG9TUlUtX1JJQVFZX0dWeEdpZXFFd2RsdVN4YXU?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T17:18:00+07:00",
+"found": "2026-11-24T17:32:46+07:00"
+},
+{
 "id": "667f7f73fdf9",
 "title": "CSGT rà soát camera, tìm tài xế ô tô đâm xe máy rồi bỏ chạy ở Hà Nội",
 "link": "https://vietnamnet.vn/canh-sat-ra-camera-de-truy-xet-o-to-dam-xe-may-roi-bo-chay-2578194.html",
@@ -222,6 +277,18 @@
 "cat": "xh",
 "published": "2026-11-24T17:10:38+07:00",
 "found": "2026-11-24T17:17:37+07:00"
+},
+{
+"id": "5b6ba52714df",
+"title": "lễ các thánh tử đạo việt nam 2026",
+"link": "https://www.tonggiaophanhanoi.org/dai-chung-vien-thanh-giu-se-ha-noi-mung-quan-thay-de-nhi-tai-tthh-toan-quoc-kinh-cac-thanh-tu-dao-viet-nam/",
+"summary": "Đại Chủng viện Thánh Giu-se Hà Nội mừng quan thầy đệ nhị tại TTHH toàn quốc kính Các Thánh Tử Đạo Việt Nam (Tổng Giáo Phận Hà Nội)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7VDBtt9TTZX0B5CVH6MSLUEw1ojcLbGPrfjMtTbk85QrtfTtoIS8XrPlncfI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T17:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-24T17:32:46+07:00"
 },
 {
 "id": "bb6a963857b2",
@@ -280,6 +347,17 @@
 "found": "2026-11-24T17:17:37+07:00"
 },
 {
+"id": "d0ecb94cd097",
+"title": "Chôn gần 3 cây vàng và 100 triệu đồng ăn trộm trong vườn",
+"link": "https://vnexpress.net/chon-gan-3-cay-vang-va-100-trieu-dong-an-trom-trong-vuon-5148430.html",
+"summary": "Vang Văn Đức bị cáo buộc đột nhập nhà dân lấy trộm 29 chỉ vàng và 100 triệu đồng, chôn toàn bộ trong vườn nhà rồi bỏ trốn.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/trom-vang-1795513351-2956-1795513355.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WEfGOgPVh1lL2Wv3YZkY-w",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-24T16:57:21+07:00",
+"found": "2026-11-24T17:32:46+07:00"
+},
+{
 "id": "89f8d36913b9",
 "title": "Tỷ phú Ireland khởi công công trình đầu tiên tại Khu công nghệ cao sinh học Hà Nội sau 20 năm chờ đợi",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTEJ2X0FKQUdlNXFYVldqNHVRRnFqTXAxb2RmcWlwX2RuSmpxZ2VHTG9vc19JVlZNVmNfUlZZd1JRZDk2eWc1T3hJSzVOTHVnWXFHUFdwQ05zTVR4RlBVb1hlZ3hvQTZ0M1pORTdMNXA2a3BBd3VWRzFBQzd5NXlaODNFRm45YVRMcl8wb2VtZzl5UkkyU1daWXFCQ3JIRVVVdGZBT0w4UVNPUkdCU1ZRd2oxQVJyVWJlY1RyN3RjYTV4UXc3Ukp0SlJYNUFPVjA?oc=5",
@@ -322,7 +400,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T16:50:00+07:00",
-"traffic": "200+",
+"traffic": "10000+",
 "found": "2026-11-24T17:17:37+07:00"
 },
 {
@@ -335,6 +413,28 @@
 "cat": "bds",
 "published": "2026-11-24T16:49:00+07:00",
 "found": "2026-11-24T16:58:03+07:00"
+},
+{
+"id": "841f709d1648",
+"title": "Đừng để cuộc đời mình bị áp lực vì sự rực rỡ của người khác",
+"link": "https://tuoitre.vn/dung-de-cuoc-doi-minh-bi-ap-luc-vi-su-ruc-ro-cua-nguoi-khac-100261124135727892.htm",
+"summary": "Sáng 24-11, talkshow 'Hãy rực rỡ theo cách của riêng mình' cùng diễn giả Phạm Minh Mẫn đã mang đến cho các bạn trẻ cuộc trò chuyện gần gũi về tuổi trẻ, ước mơ, những lựa chọn và hành trình tìm kiếm hạnh phúc.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/hoi-sach-17955139464241898166649-338-633-1542-2560-crop-17955140077461817590322.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-24T16:49:00+07:00",
+"found": "2026-11-24T17:32:46+07:00"
+},
+{
+"id": "c9c5095839e0",
+"title": "Chàng bác sĩ Cơ Ho giúp bệnh nhân tìm lại niềm tin, cô gái Tày đưa công nghệ đến với người dân",
+"link": "https://tuoitre.vn/chang-bac-si-co-ho-giup-benh-nhan-tim-lai-niem-tin-co-gai-tay-dua-cong-nghe-den-voi-nguoi-dan-100261124162354626.htm",
+"summary": "102 gương 'Thanh niên dân tộc thiểu số tiêu biểu' năm 2026 đã được tuyên dương chiều 24-11 tại Nhà văn hóa sinh viên TP.HCM (phường Đông Hòa).",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/17955100755701292194897526244223207470934787180654e3a118fb23ae66673466c90788f7a7f2-17955109310761551864710-23-0-1621-2557-crop-1795512445251862784227.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-24T16:47:00+07:00",
+"found": "2026-11-24T17:32:46+07:00"
 },
 {
 "id": "477ba30e815a",
@@ -516,6 +616,18 @@
 "found": "2026-11-24T16:42:46+07:00"
 },
 {
+"id": "7a4d40ffd034",
+"title": "bắn pháo hoa ngày 24 11",
+"link": "https://dantri.com.vn/giai-tri/toi-nay-ha-noi-ban-phao-hoa-17-phut-o-my-dinh-mung-ngay-van-hoa-viet-nam-20261124103428861.htm",
+"summary": "Tối nay Hà Nội bắn pháo hoa 17 phút ở Mỹ Đình mừng Ngày Văn hóa Việt Nam (Báo Dân trí)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgto0kAD98WYtyhIJaYvBO-PDotyvVWFrpIofrK6Ep0HhmD2i4Qbl5Zp4MGnk",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T16:10:00+07:00",
+"traffic": "500+",
+"found": "2026-11-24T17:32:46+07:00"
+},
+{
 "id": "3ac82b90a1a5",
 "title": "Tân Sơn Nhất nâng cấp 20 cửa xuất nhập cảnh tự động, khách đỡ phải xếp hàng ngay dịp Tết",
 "link": "https://tuoitre.vn/tan-son-nhat-nang-cap-20-cua-xuat-nhap-canh-tu-dong-khach-do-phai-xep-hang-ngay-dip-tet-100261124151648494.htm",
@@ -679,6 +791,17 @@
 "cat": "xh",
 "published": "2026-11-24T15:52:14+07:00",
 "found": "2026-11-24T16:12:22+07:00"
+},
+{
+"id": "46e056ef2389",
+"title": "Truy tặng Huân chương dũng cảm cho 2 người tử vong khi cứu người ở biển Nha Trang",
+"link": "https://tuoitre.vn/truy-tang-huan-chuong-dung-cam-cho-2-nguoi-tu-vong-khi-cuu-nguoi-o-bien-nha-trang-100261124153027488.htm",
+"summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm có quyết định truy tặng Huân chương Dũng cảm cho ông Nguyễn Duy An và ông Phạm Sáng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/1-1795423436645297341291-0-0-1536-2458-crop-17954235942101402917803.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T15:52:00+07:00",
+"found": "2026-11-24T17:32:46+07:00"
 },
 {
 "id": "3ffc92515217",
@@ -977,7 +1100,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T15:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-24T15:32:53+07:00"
 },
 {
@@ -1247,6 +1370,17 @@
 "found": "2026-11-24T16:42:46+07:00"
 },
 {
+"id": "e89a4f2dec63",
+"title": "Cổ phiếu HNX ngừng giao dịch 2 ngày trước khi chuyển sang sàn HOSE",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWDNVaGVxZ015aVR2RkFaTGhMM0w2TE9JMU9PSkV1MFg0TXk2M0lVTG1SMll4M0N4MmRrczVDdjlIU3hYNGgxaEhHaVdzMm8wOXI0OWcxV3QxUF90aWlEQW0wa3BQVnBFTWE5Wms1VWtyY3FrN1Nnc0hlTkRZeXZRZGNTb2I5M0FCNThPN0FUVk14c2tXZHJHOS1jSnN5SmtN?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T14:30:02+07:00",
+"found": "2026-11-24T17:32:46+07:00"
+},
+{
 "id": "b171863a5577",
 "title": "Vietnam Airlines nhận giải nhất về bình đẳng giới tại nơi làm việc",
 "link": "https://vnexpress.net/vietnam-airlines-nhan-giai-nhat-ve-binh-dang-gioi-tai-noi-lam-viec-5148400.html",
@@ -1378,17 +1512,6 @@
 "cat": "xh",
 "published": "2026-11-24T14:08:35+07:00",
 "found": "2026-11-24T14:20:22+07:00"
-},
-{
-"id": "ff2b8dfa27cc",
-"title": "Tỷ giá USD hôm nay (24-11): Đồng USD tăng mạnh",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2ZqanJISE44b3ZPLVVPclZFVzEtLXZSMGo3Z0Y1UW9VbmtDR0hjVGt0UXYxNXp3Q05WLXVaVWFpaTVpdlRhdVdZZWJERUJCVWJDSEI0SGJIanpzVXBIR2Fha0RENE40cVB6MGpFUzd6Y211Q1JPTUoxT1Y3MlQwTzZ3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T14:08:23+07:00",
-"found": "2026-11-24T07:02:04+07:00"
 },
 {
 "id": "a7212031ac3b",
@@ -28005,131 +28128,6 @@
 "cat": "xh",
 "published": "2026-11-21T16:18:56+07:00",
 "found": "2026-11-21T16:24:19+07:00"
-},
-{
-"id": "91f772bf7775",
-"title": "Xuất khẩu Trung Quốc trên đà vượt 4.000 tỷ USD: Vì sao các bên cạnh tranh khó cản bước?",
-"link": "https://dantri.com.vn/kinh-doanh/xuat-khau-trung-quoc-tren-da-vuot-4000-ty-usd-vi-sao-cac-ben-canh-tranh-kho-can-buoc-20261121144828727.htm",
-"summary": "(Dân trí) - Không còn chỉ là công xưởng hàng giá rẻ, Trung Quốc đang lấn sâu vào xe điện, pin mặt trời và robot với giá thành thấp hơn đáng kể so với các bên cạnh tranh.",
-"image": "https://cdnphoto.dantri.com.vn/jFNEBSPpdMR6OCmHJgDZgW7D0d0=/2026/11/21/xuat-khau-trung-quoc-tren-da-vuot-4-cropped-1795252486118.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T16:15:20+07:00",
-"found": "2026-11-21T16:40:17+07:00"
-},
-{
-"id": "e4b1cf8367e9",
-"title": "Tháng 12, TP.HCM tiếp nhận hồ sơ mua, thuê 72 căn hộ nhà ở xã hội giá gần 14,9 triệu đồng/m²",
-"link": "https://tuoitre.vn/thang-12-tphcm-tiep-nhan-ho-so-mua-thue-72-can-ho-nha-o-xa-hoi-gia-gan-149-trieu-dong-m-100261121160137042.htm",
-"summary": "Sở Xây dựng TP.HCM chính thức công bố thông tin tiếp nhận hồ sơ đăng ký mua và thuê 72 căn hộ nhà ở xã hội tại phường An Phú.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/21/nha-o-xa-hoi-an-phu-1795251330002455243444-24-0-622-956-crop-17952513665951553469623.jpg",
-"source": "Tuổi Trẻ",
-"cat": "bds",
-"published": "2026-11-21T16:15:00+07:00",
-"found": "2026-11-21T17:57:25+07:00"
-},
-{
-"id": "a5d66750de1d",
-"title": "kim sang sik",
-"link": "https://dantri.com.vn/the-thao/hlv-kim-sang-sik-dam-phan-hop-dong-moi-muc-tieu-tam-chau-a-20261121032106327.htm",
-"summary": "HLV Kim Sang Sik đàm phán hợp đồng mới, mục tiêu tầm châu Á? (Báo Dân trí)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQ3tT_aH4aZHLltjavyNOSzmE2Upz_3R4048Ze-SSUmJhFjvg0gn9fdTe61eA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T16:10:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-21T16:40:17+07:00"
-},
-{
-"id": "c1186bc5302e",
-"title": "bảo thanh",
-"link": "https://vietnamnet.vn/dien-vien-bao-thanh-tro-thanh-trung-uy-cong-an-2577308.html",
-"summary": "Diễn viên Bảo Thanh chính thức vào ngành công an, nhận hàm Trung úy (Báo VietNamNet)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBaG1oV2G3gjJGbSUvPsH7GtQSh8YPs5ApnaId2E03dLbGLoNBSPE2tUX9yw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T16:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T16:40:17+07:00"
-},
-{
-"id": "b3af1c9448ee",
-"title": "trần hiếu",
-"link": "https://dantri.com.vn/giai-tri/nsnd-tran-hieu-ngoi-xe-lan-say-me-hat-cung-hoc-tro-tan-minh-trong-tan-20261121005546017.htm",
-"summary": "NSND Trần Hiếu ngồi xe lăn, say mê hát cùng học trò Tấn Minh, Trọng Tấn (Báo Dân trí)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ7unXERfRKUgFtIpO6kdek9KYn8d8RghwOI87mEpQRLZjzzljnA8MqQyDhqc",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T16:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T16:40:17+07:00"
-},
-{
-"id": "493d6a75358a",
-"title": "Công an Huế khởi tố 11 bị can trong vụ án mua bán dâm gây xôn xao, cảnh báo làn sóng tin giả trên mạng",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQemZRNUVsRFFIUTdNNkp4X0F6ak5CN1J6dFdhNFE5WWZKTDk3U1FCR2szVjN0WVY0bzhiMjBjdDZoTnhrdGdvT0ZjN2FqOEE1eDF2bG1JMUJzSU41QTdzWmMtZ0l6YnJaZHc1anJfVFhDNnRXWlRVd0RJU3UyTWRjUzNUTklmUl9hLXFSdmhTeE43bHctQTlWeG5kZmFGbEhWa3lMTmFwTXpqWUN4V3JtMDdVbS1qbGI3S29EdWlKclQzZkRVQTZOSG5OR1lkcG9ZOXlmSF96RUlsN25MUlE?oc=5",
-"summary": "Nguồn: Docnhanh.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-21T16:05:00+07:00",
-"found": "2026-11-21T17:11:19+07:00"
-},
-{
-"id": "6042dad1dce6",
-"title": "Đấu giá hơn 34.000 xe máy vi phạm ở TPHCM, giá từ 570.000 đồng/chiếc",
-"link": "https://dantri.com.vn/kinh-doanh/dau-gia-hon-34000-xe-may-vi-pham-o-tphcm-gia-tu-570000-dongchiec-20261121155220123.htm",
-"summary": "(Dân trí) - Hơn 34.000 xe máy là tang vật vi phạm hành chính ở TPHCM bị tịch thu sắp được đưa ra đấu giá bán dưới hình thức phế liệu, trong đó nhiều xe còn biển số, số khung, số máy.",
-"image": "https://cdnphoto.dantri.com.vn/tyAuTPxUJFbx7kKEKbmyzA-YRig=/2026/11/21/dau-gia-hon-1200-xe-may-vi-pham-gia-tu-350000-dongchiec-1758614806880-1795250989874.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-21T16:02:30+07:00",
-"found": "2026-11-21T16:40:17+07:00"
-},
-{
-"id": "f23c9cac9793",
-"title": "Người đàn ông tử vong khi lao xuống biển Nha Trang cứu người",
-"link": "https://kenh14.vn/nguoi-dan-ong-tu-vong-khi-lao-xuong-bien-nha-trang-cuu-nguoi-215261121152940827.chn",
-"summary": "Phát hiện người phụ nữ chới với giữa biển, hai người lao xuống ứng cứu nhưng một người tử vong, người còn lại phải nhập viện cấp cứu.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795249745167-17952497456441539916142.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-21T16:00:00+07:00",
-"found": "2026-11-21T16:24:19+07:00"
-},
-{
-"id": "c0cf336301d3",
-"title": "Đồng chí Bí thư Tỉnh ủy kiểm tra các dự án tại phường Đồng Hới và Đồng Thuận",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNekN1TTVRZzFLQmMySm1wN0JqU05oNWRMN19yU0dIYVpnVnotZ0hIWVV2bzhzRzhEc2drUlhGdmdRTzkyTmw2ZFVzTFJ0a3h5SC16bjE1cFdSZExjSUJWNi0wQ0swS2NxZURIeWR3RlU3LTRpanNaMUdxbS1wYUU1R0JXdEpUbnB0VHZ1XzE3UGl6eGZQR3gxNG1pd3pZNzl6RHlBUEJsSmROOEp0a3c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T15:54:00+07:00",
-"found": "2026-11-21T16:24:19+07:00"
-},
-{
-"id": "ff021a61f9f3",
-"title": "PNJ trả tiền mua lại vàng trong 1 ngày, kim cương vẫn chờ 4 tháng",
-"link": "https://cafef.vn/pnj-tra-tien-mua-lai-vang-trong-1-ngay-kim-cuong-van-cho-4-thang-188261121155138374.chn",
-"summary": "PNJ lại điều chỉnh chính sách, rút ngắn thời gian thanh toán mua vàng và một số loại trang sức xuống 1 ngày nhưng khách bán kim cương vẫn phải chờ 120 ngày.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/21/avatar1795251058737-17952510593851402911646.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-21T15:51:00+07:00",
-"found": "2026-11-21T15:53:55+07:00"
-},
-{
-"id": "4ab50752e640",
-"title": "brisbane đấu với sydney",
-"link": "https://thethao247.vn/426-nhan-dinh-brisbane-roar-vs-sydney-fc-so-tai-nhom-dau-15h40-ngay-21-11-2026-c288-d446314.html",
-"summary": "Nhận định Brisbane Roar vs Sydney FC: So tài nhóm đầu, 15h40 ngày 21/11/2026 (Thể Thao 247)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrqzgVSEpPihJlonTlt55GOCNai8QEiyA99gCRE-CQYsZ8RRqVrpLApRjjKUE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T15:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T16:09:09+07:00"
 }
 ]
 }
