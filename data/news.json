@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-24T11:42:33+07:00",
-"new": 29,
+"updated": "2026-11-24T11:57:44+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 42
+"count": 41
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "95117b51c6bc",
+"title": "Nổ lớn, sập nhà ở Hà Nội",
+"link": "https://vietnamnet.vn/no-lon-sap-nha-o-ha-noi-2578015.html",
+"summary": "Vụ nổ lớn xảy ra vào khoảng 8h sáng nay tại phố Nguyễn Văn Tuyết.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/no-lon-sap-nha-o-ha-noi-2262.jpg?width=0&s=2aQenL7_lg4sCb6W7gKE8w",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-24T11:56:05+07:00",
+"found": "2026-11-24T08:59:42+07:00"
+},
+{
+"id": "06682ca1b07f",
+"title": "Gerrard bức xúc vì Pochettino đối xử bất công với Maguire",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHl5azRUdWNIVjAyWTUtRUxaMVRrQXVjNDlzS2l2b01TWDZvRTA4M2cyTllXeGFjalJNa2lfMDdOMlBrM1l3R1VCZjBLNGtxU2YyTGpmMWotOEh6ZG8yc0s3YzRFS3E5RG1XQmU2czBoZjd4a0huZ25kN1E1ZUJIZDVESS0yV1FTbkZ6NzdadUNMdWlVdEt3ZHJ5MXkyT29MdXRybWc5UWJSUC1naUdV?oc=5",
+"summary": "Nguồn: Tạp chí Bóng đá",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T11:45:02+07:00",
+"found": "2026-11-24T11:57:44+07:00"
+},
+{
+"id": "9b0fa10ead54",
+"title": "Bitcoin phục hồi, gần 1,8 tỷ USD rút khỏi các quỹ ETF",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEVSQUU1TkYtb3VRWENUbW9CaGRuazRQd19iY3c4VUdHVTI3b04xRzgyMmt5Q2ZaVUtIVDVXTExEMWRMRlhZZVN4dFlOeXVmUEJXeEl0cGhlakZ3UG9zVU55WTRYaG94eG1Ldm1IajJvY0pGcHk2bWFEMGFqbGdfZDlPcVo0VWRIMUFaRkRn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T11:45:00+07:00",
+"found": "2026-11-24T11:57:44+07:00"
+},
+{
+"id": "84d81f5bcd16",
+"title": "Ca sĩ Phương Mỹ Chi gửi thông điệp ý nghĩa đến người trẻ tại Hội nghị Văn hóa",
+"link": "https://thanhnien.vn/ca-si-phuong-my-chi-gui-thong-diep-y-nghia-den-nguoi-tre-tai-hoi-nghi-van-hoa-185261124112519979.htm",
+"summary": "Phát biểu tại Lễ kỷ niệm 80 năm Hội nghị Văn hóa toàn quốc lần thứ nhất, ca sĩ Phương Mỹ Chi nhấn mạnh trách nhiệm của thế hệ trẻ trong gìn giữ, tiếp nối và sáng tạo các giá trị văn hóa dân tộc trong thời đại hội nhập.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/524437951-1286837992-1795494199646494810178-26-0-439-660-crop-1795494281767924815740.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-24T11:43:00+07:00",
+"found": "2026-11-24T11:57:44+07:00"
+},
+{
 "id": "adef53091759",
 "title": "Đà Nẵng phê duyệt giá đất chi tiết tổ hợp Alphanam Luxury",
 "link": "https://cafef.vn/da-nang-phe-duyet-gia-dat-chi-tiet-to-hop-alphanam-luxury-188261124072101498.chn",
@@ -222,6 +266,18 @@
 "cat": "bds",
 "published": "2026-11-24T11:40:00+07:00",
 "found": "2026-11-24T11:42:33+07:00"
+},
+{
+"id": "4435a71ff7cf",
+"title": "lê công vinh",
+"link": "https://www.saostar.vn/sao-sport/mung-vi-quyet-dinh-cua-le-cong-vinh-sau-khi-chia-tay-202611231548422756.html",
+"summary": "Mừng vì quyết định của Lê Công Vinh sau khi chia tay (Tạp chí Saostar)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlxPbfrObHn7oO0hYZiou0nwhC41M1oyTCqHefDPrHZ8FRvctkjKPCfEye4UM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-24T11:40:00+07:00",
+"traffic": "500+",
+"found": "2026-11-24T11:57:44+07:00"
 },
 {
 "id": "1c6bbba5c626",
@@ -246,6 +302,17 @@
 "found": "2026-11-24T11:42:33+07:00"
 },
 {
+"id": "dc0a85caac7f",
+"title": "Áp thuế 0,2% đất bỏ hoang từ 1-7-2027: Những nhóm sử dụng đất nào sẽ chịu thuế?",
+"link": "https://tuoitre.vn/ap-thue-02-dat-bo-hoang-tu-1-7-2027-nhung-nhom-su-dung-dat-nao-se-chiu-thue-100261122075357986.htm",
+"summary": "Quy định đánh thuế suất 0,2% đối với đất bỏ hoang vừa được Quốc hội thông qua và Luật đất đai sửa đổi cũng quy định về đất bỏ hoang đã xác định những nhóm đối tượng sử dụng đất sẽ chịu mức thuế trên.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/bds-ap-thue-nha-dat-edit-17954955892612138385974-57-0-1546-2382-crop-1795495665140311094696.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-24T11:34:00+07:00",
+"found": "2026-11-24T11:57:44+07:00"
+},
+{
 "id": "ed50d67f1746",
 "title": "Đầu tư bất động sản qua thời 'cứ mua là thắng'",
 "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdXZMM3VCTkJrREo5V25VX1ZxbWt5bDRHQ1dLbElnck9CMXpVZ0gyVWRMV1hRSzBCLXJQcnprc3NtMXNZWDVMSHJkbkxhUXNGQmhkQ2taNjZHRkwzRFUwcHdmcmNVV2Q0STJhZDBrR09VNGYxQk1fUGNvX2NQcHRUdEJtQQ?oc=5",
@@ -266,17 +333,6 @@
 "cat": "mxh",
 "published": "2026-11-24T11:31:00+07:00",
 "found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "95117b51c6bc",
-"title": "Nổ lớn, sập nhà ở Hà Nội",
-"link": "https://vietnamnet.vn/no-lon-sap-nha-o-ha-noi-2578015.html",
-"summary": "Vụ nổ lớn xảy ra vào khoảng 8h sáng nay tại phố Nguyễn Văn Tuyết.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/no-lon-sap-nha-o-ha-noi-2262.jpg?width=0&s=2aQenL7_lg4sCb6W7gKE8w",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T11:30:14+07:00",
-"found": "2026-11-24T08:59:42+07:00"
 },
 {
 "id": "cece2a84ea4a",
@@ -332,6 +388,17 @@
 "cat": "xh",
 "published": "2026-11-24T11:29:00+07:00",
 "found": "2026-11-24T11:42:33+07:00"
+},
+{
+"id": "51951df4db00",
+"title": "Nghịch lý \"chờ đủ tiền mới mua\" và bài toán chi phí cơ hội",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTG9qUnVuUmNNMlRXQXFPaTBvRDVGOUExa1J4aUdpQnBwWWxxTDBneVhvMHkxZ0hXbXVTTk5FaUwtbmhVVTMwMzZSaUtOS1kyOElLY3hGM01UM3Q3MTlCS05LMzhDUnJOOXFBb1ViUnNtanVKTGNVQmdKVmt5Q2FGdDZUU3R6UG5lWVhIbWtnMlJSS3c?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-24T11:29:00+07:00",
+"found": "2026-11-24T11:57:44+07:00"
 },
 {
 "id": "1c15f38718fc",
@@ -938,7 +1005,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T10:20:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-24T10:49:14+07:00"
 },
 {
@@ -962,7 +1029,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T10:20:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-24T10:49:14+07:00"
 },
 {
@@ -1736,7 +1803,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-24T09:00:00+07:00",
-"traffic": "5000+",
+"traffic": "10000+",
 "found": "2026-11-24T09:40:07+07:00"
 },
 {
@@ -28060,73 +28127,6 @@
 "cat": "bds",
 "published": "2026-11-21T12:00:00+07:00",
 "found": "2026-11-21T12:10:20+07:00"
-},
-{
-"id": "7a1b0c2b68d8",
-"title": "Hà Nội công khai loạt nhà ga metro, kích hoạt mạng lưới thành phố 15 phút",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkd3ZVN3YzUxWF9PMko0ZFp5cWhwWEhmNl9sR3hSamM0cnk2R3lVa2FSNmVqa0FHUkdEazNTU1RuMzhxUzh4MTlCVk9Kb19IQ0NaWmtobjFOTWV5V240WmJsd1RJVkx6RGpWYnpIQXRMcWJJMmZOUVZLdVNneEFYNmFGMWJ4d0tiSG95TjdFaDZoVzZuc0JDWjBydjBUSlZLTWVicXhUNzY?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-21T12:00:00+07:00",
-"found": "2026-11-21T12:10:20+07:00"
-},
-{
-"id": "82c5f2fe1044",
-"title": "Tìm thấy 16 hài cốt liệt sĩ dưới trụ sở UBND xã bỏ hoang ở Cần Thơ",
-"link": "https://thanhnien.vn/tim-thay-16-hai-cot-liet-si-duoi-tru-so-ubnd-xa-bo-hoang-o-can-tho-185261121104220457.htm",
-"summary": "Sau hơn 5 ngày nỗ lực tìm kiếm, đào sâu 2,5 m - 3 m đất, lực lượng chức năng đã tìm thấy 16 hài cốt liệt sĩ tại trụ sở UBND xã bỏ hoang nhiều năm ở Cần Thơ.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-anh-1-1795231977440830713418-83-0-1333-2000-crop-17952320107291316724944-17952320196601319900347.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-21T12:00:00+07:00",
-"found": "2026-11-21T12:10:20+07:00"
-},
-{
-"id": "75f23c20791f",
-"title": "EVNHCMC rà soát điều kiện áp dụng quy chuẩn trạm sạc xe điện",
-"link": "https://vnexpress.net/evnhcmc-ra-soat-dieu-kien-ap-dung-quy-chuan-tram-sac-xe-dien-5147388.html",
-"summary": "EVNHCMC yêu cầu rà soát trạm sạc, đánh giá tác động đến lưới điện, kiểm tra hồ sơ đấu nối và hướng dẫn khách hàng đáp ứng yêu cầu về vận hành, an toàn điện từ 1/7/2027.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/2-1795235565-1666-1795235649.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uqbsv2cfidYj_ws66_aS1w",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-21T12:00:00+07:00",
-"found": "2026-11-21T12:21:06+07:00"
-},
-{
-"id": "44f41e064100",
-"title": "bạc",
-"link": "https://laodong.vn/tien-te-dau-tu/bien-dong-gia-bac-2111-bac-mieng-bac-thoi-giam-manh-1803509.ldo",
-"summary": "Biến động giá bạc 21.11: Bạc miếng, bạc thỏi giảm mạnh (Laodong.vn)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLfxWo3llc65ZmGvMA0V3Fgjp9c8zMHh2x0GjBLhFgq2poSJ4obZ83tGdxRHo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-21T12:00:00+07:00",
-"traffic": "200+",
-"found": "2026-11-21T12:21:06+07:00"
-},
-{
-"id": "df92f808b75a",
-"title": "Anthropic - từ phòng thí nghiệm AI đến đế chế nghìn tỷ USD",
-"link": "https://vnexpress.net/anthropic-tu-phong-thi-nghiem-ai-den-de-che-nghin-ty-usd-5147177.html",
-"summary": "Được thành lập với 7 cựu nhân viên OpenAI, Anthropic mong muốn phát triển trí tuệ nhân tạo an toàn, nhưng đang gặp thách thức với chính mục tiêu đó sau IPO.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/21/2026t220550z-rc21roah5bkl-rtrm-7755-4046-1795194498.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l_yWfibT_EQFVpq5fdyEpQ",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-21T12:00:00+07:00",
-"found": "2026-11-22T01:39:12+07:00"
-},
-{
-"id": "0934c30c4bec",
-"title": "CEO Dragon Capital chỉ ra 3 yếu tố quyết định tỷ trọng cổ phiếu trong danh mục đầu tư",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXhKT0M1TzNvRnBXOUtoeElmU2VfNVliWmRsaVkwOHozLVUtdlctbi16R3l4azdiQnptWmgwWHdrendWY0VydkdZT0I1TEZvUkZsbGhSYmNhaWdqeHR1NUlWNTFmLXQ2d3R6enM2RktVd0VjeTlicGZmVEhRczhlZ1NjRG9pUkhma1VfMXJBT0NEY2xlb20zWHUwOUl6dk0xeDl2a25sOEJpOHFFbkh4ckJhV2IxeHdtVWc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-21T12:00:00+07:00",
-"found": "2026-11-22T21:31:42+07:00"
 }
 ]
 }
