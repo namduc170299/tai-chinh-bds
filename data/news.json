@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T05:21:21+07:00",
-"new": 6,
+"updated": "2026-11-26T05:36:30+07:00",
+"new": 11,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 57
+"count": 22
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,41 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "71b5fd5a6b57",
+"title": "Từng bị cho là ‘phá vườn’, lão nông Sơn La nay thu tiền tỷ từ cam, mận",
+"link": "https://vietnamnet.vn/tung-bi-cho-la-pha-vuon-lao-nong-son-la-nay-thu-tien-ty-tu-cam-man-2578526.html",
+"summary": "Từ những gốc mận trồng thử trên đồi ngô, lão nông Hàng A Sở ở Sơn La đã gây dựng vườn cây ăn quả rộng 8ha, cho thu tiền tỷ. Kinh nghiệm làm vườn cũng được ông tậntình chia sẻ cho người dân bản để cùng nhau thoát nghèo.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/tung-bi-cho-la-pha-vuon-lao-nong-son-la-nay-thu-tien-ty-tu-cam-man-4476.png?width=0&s=EeqMVBqkEsiKKg8ZusSQXg",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-26T05:30:00+07:00",
+"found": "2026-11-26T05:36:30+07:00"
+},
+{
+"id": "0d20809528a0",
+"title": "vàng",
+"link": "https://laodong.vn/tien-te-dau-tu/gia-vang-giam-6-trieu-dongluong-sau-mot-tuan-nguoi-dan-tiep-tuc-mua-vao-1806227.ldo",
+"summary": "Giá vàng giảm 6 triệu đồng/lượng sau một tuần, người dân tiếp tục mua vào (Laodong.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdC2wRRd_8o338UyxuEIA5obqVpAOy2wEjMfKQVUqT6eiem0HnYMe10IxeCW4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:20:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-26T05:36:30+07:00"
+},
+{
+"id": "9ba114b752c9",
+"title": "24h",
+"link": "https://laodong.vn/tien-te-dau-tu/tong-hop-du-bao-gia-vang-nam-2027-cua-12-to-chuc-quoc-te-1806344.ldo",
+"summary": "Tổng hợp dự báo giá vàng năm 2027 của 12 tổ chức quốc tế (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjXqQgVuNV7KySZngAdsUOSYocBGEzzDmb7kMIuMrfNTYI_ZYXgFz6N4O-cAQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:20:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-26T05:36:30+07:00"
+},
+{
 "id": "a42aac51d09c",
 "title": "Dự báo thời tiết 26/11/2026: Không khí lạnh dần suy yếu, miền Bắc nắng trở lại",
 "link": "https://vietnamnet.vn/du-bao-thoi-tiet-26-11-2026-khong-khi-lanh-giam-mien-bac-nang-2572289.html",
@@ -222,6 +257,66 @@
 "cat": "xh",
 "published": "2026-11-26T05:19:00+07:00",
 "found": "2026-11-26T05:21:21+07:00"
+},
+{
+"id": "57c66a358630",
+"title": "thứ hạng của inter milan gặp vfb stuttgart",
+"link": "https://www.bbc.com/sport/football/live/ck9q848dq75xt",
+"summary": "Inter Milan vs Stuttgart: UEFA Champions League stats & head-to-head (BBC)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T05:36:30+07:00"
+},
+{
+"id": "37a0f6e42bb6",
+"title": "khai thác mỏ",
+"link": "https://cafef.vn/my-dua-quai-vat-cong-nghe-cao-tri-gia-773-ty-dong-sang-viet-nam-phuc-vu-khai-thac-kho-bau-duoi-day-bien-18826112514501515.chn",
+"summary": "Mỹ đưa 'quái vật' công nghệ cao trị giá 773 tỷ đồng sang Việt Nam, phục vụ khai thác kho báu dưới đáy biển (CafeF)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTLMbMtln-V94Xsuz_2m7LTqJ2qS9FzLao_nzkWNxeF5nKNQjvGu_9mzRGy38",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T05:36:30+07:00"
+},
+{
+"id": "9e578e7881c2",
+"title": "cải cách",
+"link": "https://laodong.vn/thoi-su/mo-rong-su-dung-nguon-cai-cach-tien-luong-de-dieu-chinh-luong-huu-1805571.ldo",
+"summary": "Mở rộng sử dụng nguồn cải cách tiền lương để điều chỉnh lương hưu (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0q8OUDFrxO3V0u58iun9RDLyH76I3y_eOtn93WCn18XEeS4bdUqFK4Cn8Pcw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T05:36:30+07:00"
+},
+{
+"id": "a9e29fdaed09",
+"title": "tin tuc 24h",
+"link": "https://laodong.vn/moi-truong/du-bao-6-tinh-thanh-mua-to-tu-chieu-toi-2711-co-noi-tren-600mm-1806442.ldo",
+"summary": "Dự báo 6 tỉnh thành mưa to từ chiều tối 27.11, có nơi trên 600mm (Laodong.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxzXFFNIk8Bt6MSnyZ1DXxzfabfAu-lojpnjadzUYGoP6fR3zkWZOx4NU9Nug",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:10:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-26T05:36:30+07:00"
+},
+{
+"id": "75a7915f6271",
+"title": "nba",
+"link": "https://sports.yahoo.com/nba/articles/knicks-announce-karl-anthony-towns-215608631.html",
+"summary": "Knicks Announce Karl-Anthony Towns Injury News Before Must-Win Cavaliers Game (Yahoo Sports)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCedpsd12Othm2xwfAq7DaO_Wf-yGs908jk872a_nblzdB0kDECM-hXfkiTgo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T05:36:30+07:00"
 },
 {
 "id": "886a943d5be4",
@@ -301,6 +396,41 @@
 "published": "2026-11-26T05:00:00+07:00",
 "traffic": "200+",
 "found": "2026-11-26T05:21:21+07:00"
+},
+{
+"id": "077919269fd2",
+"title": "Nhiều người tính để dành thưởng Tết vì giá tăng",
+"link": "https://vnexpress.net/nhieu-nguoi-tinh-de-danh-thuong-tet-vi-gia-tang-5148820.html",
+"summary": "Áp lực sinh hoạt phí tăng khiến nhiều gia đình thắt chặt chi tiêu, thậm chí lên kế hoạch tiết kiệm phần lớn tiền thưởng Tết sắp tới.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/233a4524-1795602359-3448-1795603287.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tfr02ca7-GvbyOevCji8ew",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-26T05:00:00+07:00",
+"found": "2026-11-26T05:36:30+07:00"
+},
+{
+"id": "8934abcf1bfa",
+"title": "thứ hạng của sporting gặp man utd",
+"link": "https://vnexpress.net/man-utd-roi-chien-thang-trong-tran-cau-nhieu-tranh-cai-5148943.html",
+"summary": "Man Utd rơi chiến thắng trong trận cầu nhiều tranh cãi (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRhp3cTwwV8bP1D9VRAO4t2T0LTcw5wKLG9WM1GalU4mnGGpT7DJD9p4ApM2U",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:00:00+07:00",
+"traffic": "20000+",
+"found": "2026-11-26T05:36:30+07:00"
+},
+{
+"id": "415dd7a3e029",
+"title": "thứ hạng của psg gặp as roma",
+"link": "https://vnexpress.net/enrique-va-cuoc-cach-mang-dang-do-o-roma-5148796.html",
+"summary": "Enrique và cuộc cách mạng dang dở ở Roma (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnsyUNvhPWeB1Ragjh-3sX3vDBTQXpEvYUkcj5dCIGEeIx6IJU1DwJzjgKWQQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:00:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-26T05:36:30+07:00"
 },
 {
 "id": "872a10e31ade",
@@ -20217,18 +20347,6 @@
 "found": "2026-11-24T06:01:45+07:00"
 },
 {
-"id": "1569fc1e34d1",
-"title": "vàng",
-"link": "https://vnexpress.net/gia-vang-the-gioi-tang-vot-5148251.html",
-"summary": "Giá vàng hôm nay ngày 23/11: Giá vàng thế giới tăng vọt (VnExpress)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPXuptpUxhZh27eL1_ItWpyG45ekvFKQuULdbZAzRQJIFm9IHtkKngf04qjHs",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T05:30:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-24T05:46:34+07:00"
-},
-{
 "id": "2a1adc4d14d3",
 "title": "doanh nhân",
 "link": "https://hanoionline.vn/ket-noi-doanh-nhan-mo-rong-co-hoi-hop-tac-24626112322515079.htm",
@@ -20688,18 +20806,6 @@
 "source": "Dân Trí",
 "cat": "tc",
 "published": "2026-11-24T00:21:11+07:00",
-"found": "2026-11-24T00:43:24+07:00"
-},
-{
-"id": "4c69ff3570a0",
-"title": "24h",
-"link": "https://vnexpress.net/tp-hcm-dat-muc-tieu-vao-nhom-100-thanh-pho-dang-song-tren-the-gioi-5147930.html",
-"summary": "TP HCM đặt mục tiêu vào nhóm 100 thành phố đáng sống trên thế giới (VnExpress)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ57KPqYi126elwf5DNZEEySMdjRidLg5aQqNwqsFgz1-yNl6dcJWyBr4CJtDg",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T00:20:00+07:00",
-"traffic": "2000+",
 "found": "2026-11-24T00:43:24+07:00"
 },
 {
@@ -27983,108 +28089,6 @@
 "cat": "xh",
 "published": "2026-11-23T11:53:00+07:00",
 "found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "76d05b9a291f",
-"title": "Sun Group khởi công khu đô thị gần 6.700 tỉ đồng tại Măng Đen",
-"link": "https://thanhnien.vn/sun-group-khoi-cong-khu-do-thi-gan-6700-ti-dong-tai-mang-den-185261123113444536.htm",
-"summary": "Tập đoàn Sun Group tổ chức khởi công Khu đô thị số 1 xã Măng Đen (Quảng Ngãi), quy mô hơn 264 ha, tổng mức đầu tư gần 6.700 tỉ đồng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/tnw-d62a6595-17954080143201862987966-2-0-1602-2560-crop-17954083577371340775116.jpg",
-"source": "Thanh Niên",
-"cat": "bds",
-"published": "2026-11-23T11:53:00+07:00",
-"found": "2026-11-23T11:57:38+07:00"
-},
-{
-"id": "cf9036678811",
-"title": "10 tháng: Việt Nam chi hơn 10 tỉ USD nhập khẩu xăng dầu",
-"link": "https://thanhnien.vn/10-thang-viet-nam-chi-hon-10-ti-usd-nhap-khau-xang-dau-185261123113408082.htm",
-"summary": "Trong 10 tháng tính từ đầu năm, Việt Nam nhập khẩu 9,13 triệu tấn xăng dầu các loại, trị giá 10,24 tỉ USD, tăng 79,1% về trị giá so với cùng kỳ năm trước. Đáng chú ý, nhập khẩu dầu diesel tăng 18%, trong khi lượng xăng nhập khẩu giảm 9,4%.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/tnw-kho-xang-dau-nha-be-anh-ngoc-duong-2-17954077866261144935054-320-0-1920-2560-crop-17954083774401996844600.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-23T11:53:00+07:00",
-"found": "2026-11-23T11:57:38+07:00"
-},
-{
-"id": "e92edf973934",
-"title": "dự báo thời tiết",
-"link": "https://laodong.vn/moi-truong/mien-bac-sap-mua-dong-tu-dem-nay-co-noi-duoi-10-do-c-do-khong-khi-lanh-1805090.ldo",
-"summary": "Miền Bắc sắp mưa dông từ đêm nay, có nơi dưới 10 độ C do không khí lạnh (Laodong.vn)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNkTPorx-uozv8i5zlKVrV2Ca5Pj5lIsPgTwowulSRdHbwuMhtOS2s2ZWN1kc",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T11:50:00+07:00",
-"traffic": "10000+",
-"found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "72257ef41066",
-"title": "trực tiếp đua ghe ngo sóc trăng",
-"link": "https://vtv.vn/truc-tiep-giai-dua-ghe-ngo-can-tho-2026-tren-vtv-100261123090855827.htm",
-"summary": "TRỰC TIẾP Giải đua ghe ngo Cần Thơ 2026 trên VTV (VTV.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv1qFxZY_q5verl-L0zuyWkwt_cQ1YobKpisjItLhJAhho6UAuiOhAjMZbngY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T11:50:00+07:00",
-"traffic": "500+",
-"found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "cebf7bb36dc0",
-"title": "Ngân hàng giảm lãi vay mua nhà, người mua vẫn dè dặt",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUndsNHlHUk5haDE0VFlKU0lJbkFiLU1nNTZTWHBTNUlON0F5RV9DRk5ZTDdVUWZiREthNEU1UHRkMTZETVV3Y0xqbnNGMm1XWE10WEtqTTBCcjAwN2pBMDEyMGtVY1JiMmNzanVPNW15dUd2ODVZeDlaVUNFX0hCcklUU096ZVVwQThXQg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T11:45:33+07:00",
-"found": "2026-11-23T13:15:37+07:00"
-},
-{
-"id": "fdbfcfca1ca4",
-"title": "Giá bạc hồi phục, bạc thỏi tăng tới hơn 1 triệu đồng/kg",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU2IycWRKdmJzMnJNM1hZU0syYjJvNTFZYjBFUmVRQW1LeWgwUUJJMkM2VWNkdU4tSmV0U0lFamc2eGo5Y04wWjNUUFhVQzYtYm1Lb1BfU0R4c05DeHBibnNBakhnRWRIT1FZTzBQTllscFVEV09EY21pSjNhUTJsS3NYaVB0dGcwekZ1SVVlRFY?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T11:40:00+07:00",
-"found": "2026-11-23T11:57:38+07:00"
-},
-{
-"id": "d32ffeb2803f",
-"title": "xe tải",
-"link": "https://vnexpress.net/xe-con-len-qua-hong-xe-tai-vuot-len-nhu-tu-sat-5147820.html",
-"summary": "Xe con len qua hông xe tải vượt lên như tự sát (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmcG0mi123v8qct7Cn9aRC616G9989HoyStuYGrLBBLlv8CqPZGBNV6iR78s",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T11:40:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-23T11:57:38+07:00"
-},
-{
-"id": "034e3401b13d",
-"title": "Thanh khoản ngân hàng cải thiện, bài toán nguồn vốn vẫn cần lời giải",
-"link": "https://cafef.vn/thanh-khoan-ngan-hang-cai-thien-bai-toan-nguon-von-van-can-loi-giai-188261123113623478.chn",
-"summary": "Ngành Ngân hàng tiếp tục duy trì nền tảng sinh lời tương đối ổn định, trong khi áp lực thanh khoản ngắn hạn đã giảm bớt nhờ điều tiết tăng trưởng tín dụng và đẩy mạnh huy động vốn dài hạn. Tuy nhiên, chi phí vốn, chất lượng tài sản và nhu cầu vốn cho nền kinh tế vẫn là những yếu…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795408534487-1795408534839281677450.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-23T11:36:00+07:00",
-"found": "2026-11-23T11:57:38+07:00"
-},
-{
-"id": "c8bc35dcf39f",
-"title": "VIFC-HCMC bổ sung 7 thành viên, dự kiến huy động thêm 5 tỷ USD",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdzhvazVlcFNpLTFtazF5RkJ2TDBZWllGU3VZU3EwajBfQkppZkozZzZhVklTbm9ONHlWNUpSeElpS1F6ZHo5b2JXdHJRMVFGV2pSeXY4aWFvVHRGa281aVMxMFl6eV8wSkprbGREN3pLYUlWMjI5cmQ2M1F2dUZORlBmZGFGUEZNeC1CSUJKVEtsTW5MdV9mckZR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T11:35:00+07:00",
-"found": "2026-11-23T21:17:24+07:00"
 }
 ]
 }
