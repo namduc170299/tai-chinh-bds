@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T06:06:56+07:00",
-"new": 12,
+"updated": "2026-11-26T06:16:44+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 56
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,28 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "1c8d264e9ef0",
+"title": "Sân vận động 41.000 chỗ ngồi đặc biệt bậc nhất thế giới: Nằm ở độ cao 3.581m, vượt đỉnh Fansipan gần 440m, được xây dựng từ gần một thế kỷ trước",
+"link": "https://cafef.vn/san-van-dong-41000-cho-ngoi-dac-biet-bac-nhat-the-gioi-nam-o-do-cao-3581m-vuot-dinh-fansipan-gan-440m-duoc-xay-dung-tu-gan-mot-the-ky-truoc-188261125154638569.chn",
+"summary": "Được đưa vào sử dụng từ năm 1930, sân vận động này nổi tiếng với vị trí cao 3.581m so với mực nước biển.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/images-20-1795595175247537241202-199-0-508-495-crop-1795595185600392258619.jpeg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-26T06:12:00+07:00",
+"found": "2026-11-26T06:16:44+07:00"
+},
+{
+"id": "49eaa10fe6e4",
+"title": "Ngay tháng sau, Việt Nam sẽ làm siêu dự án metro gần 89.000 tỷ đồng tại thành phố giàu nhất cả nước, tương lai có thể đón tới 830.000 lượt khách mỗi ngày",
+"link": "https://cafef.vn/ngay-thang-sau-viet-nam-se-lam-sieu-du-an-metro-gan-89000-ty-dong-tai-thanh-pho-giau-nhat-ca-nuoc-tuong-lai-co-the-don-toi-830000-luot-khach-moi-ngay-188261126020938537.chn",
+"summary": "Theo kế hoạch dự kiến, TPHCM sẽ khởi công một số hạng mục vào tháng 12/2026 và dự kiến hoàn thành đưa vào khai thác năm 2030.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/anh20chuan201-17956337373661985776317-12-0-362-560-crop-17956337430641938639736.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-26T06:09:00+07:00",
+"found": "2026-11-26T06:16:44+07:00"
+},
 {
 "id": "073dff19e58a",
 "title": "Loại quả ruột đen như sô cô la, giá 150 nghìn đồng/kg hút khách",
@@ -288,6 +310,39 @@
 "cat": "mxh",
 "published": "2026-11-26T06:00:00+07:00",
 "found": "2026-11-26T06:06:56+07:00"
+},
+{
+"id": "66e393855394",
+"title": "Thị trường chung cư thay đổi ra sao khi căn hộ được cho thuê lưu trú?",
+"link": "https://vnexpress.net/thi-truong-chung-cu-thay-doi-ra-sao-khi-can-ho-duoc-cho-thue-luu-tru-5148644.html",
+"summary": "Cho thuê lưu trú từ giữa năm 2027 giúp căn hộ chung cư mở rộng tệp khách và cải thiện dòng tiền, song khó tạo sóng tăng giá bán đồng loạt, theo chuyên gia.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/25/dji-d-1795577914-9254-1795578492.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ANVYcxqgw4EvHrgGq-jlrA",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-26T06:00:00+07:00",
+"found": "2026-11-26T06:16:44+07:00"
+},
+{
+"id": "f34de640a4fc",
+"title": "Quy hoạch siêu đô thị TPHCM 100 năm: Lấy đâu vốn làm 960km metro?",
+"link": "https://dantri.com.vn/bat-dong-san/quy-hoach-sieu-do-thi-tphcm-100-nam-lay-dau-von-lam-960km-metro-20261125212057855.htm",
+"summary": "(Dân trí) - TPHCM đặt mục tiêu hoàn thành khoảng 960km metro vào năm 2050. Bài toán lớn là huy động vốn, trong đó có khai thác giá trị đất quanh nhà ga và chia sẻ rủi ro với nhà đầu tư.",
+"image": "https://cdnphoto.dantri.com.vn/T7PxACAyvgu6CUsu9ayJ7Kn5Fjc=/2026/11/25/metro-so-1-2-cropped-1795616285073.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-26T06:00:00+07:00",
+"found": "2026-11-26T06:16:44+07:00"
+},
+{
+"id": "e1dc720b7711",
+"title": "Đưa Jensen Huang trở lại sau 11 ngày: Cú \"quay xe\" nghìn tỷ USD của Nvidia",
+"link": "https://dantri.com.vn/kinh-doanh/dua-jensen-huang-tro-lai-sau-11-ngay-cu-quay-xe-nghin-ty-usd-cua-nvidia-20261125215124085.htm",
+"summary": "(Dân trí) - Chỉ 11 ngày sau khi rời ghế nóng vì lý do cá nhân, Jensen Huang bất ngờ tái xuất, kéo vốn hóa Nvidia tăng gần 1.000 tỷ USD nhưng để lại bài học đắt giá về quản trị doanh nghiệp.",
+"image": "https://cdnphoto.dantri.com.vn/1GfSR5oSwiJ2bfgLc6-nwTcJk3A=/2026/11/25/jensens-back-cropped-1795616502462.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-26T06:00:00+07:00",
+"found": "2026-11-26T06:16:44+07:00"
 },
 {
 "id": "3bf604ab065f",
@@ -367,7 +422,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T05:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-26T06:06:56+07:00"
 },
 {
@@ -461,7 +516,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T05:20:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-26T05:36:30+07:00"
 },
 {
@@ -8531,6 +8586,17 @@
 "cat": "tc",
 "published": "2026-11-25T10:27:00+07:00",
 "found": "2026-11-25T10:54:47+07:00"
+},
+{
+"id": "b566e32d1fc6",
+"title": "Nhiều cơ chế đặc thù, tạo động lực phát triển du lịch Việt Nam",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjVYXzlxc0JYLTF2TW96T3FzWHo0MGY1Zk1hRGxsc21TQ2lmTXBRSUc0NzNGOWxfSUdBWGpYVUV2eXJjdnBxUkVxMHVwR0xoRHdickpETHlTbVJxb3JJbXBSVlJQYVota000VkFpd2JIaFBiS2pIa1ZIODlaM1BKWEVTYmxPNmdLOTZ5NVBxS2Vqd3ptSUR0Z0Jn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T10:27:00+07:00",
+"found": "2026-11-26T06:16:44+07:00"
 },
 {
 "id": "3617b13d7551",
@@ -28031,72 +28097,6 @@
 "cat": "tc",
 "published": "2026-11-23T12:14:00+07:00",
 "found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "310371af3388",
-"title": "Giá vàng ngày 23/11: Chênh lệch giá mua-bán vàng nhẫn SJC lên tới 6 triệu đồng/lượng",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDlXd0xfVzR5NEkyVWFyajJ1MzdZbzNRREQ2WWpjOFhuYUhCeWxsSjY4SFdDM25fZTViY2oxR2dPaUF3V0J3eEFRcjFUZHk2c01rY0cxcTlSOFNUQ1J1R015RjdSY0RleWRjMDRaNzU4TlBXN1RFc0FadzdRZjVVR1hPQ2xocTJCR1BERXMxdUlhNnpUMm90eVFGRzVmbmlCMFEwYW5FX2dGdzhOMTdlM2Z6YTRZcTg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T12:12:00+07:00",
-"found": "2026-11-23T12:28:35+07:00"
-},
-{
-"id": "ec364bea0b38",
-"title": "Hà Nội giao gần 6.700m2 đất triển khai 2 dự án nhà ở xã hội",
-"link": "https://dantri.com.vn/bat-dong-san/ha-noi-giao-gan-6700m2-dat-trien-khai-2-du-an-nha-o-xa-hoi-20261123111243680.htm",
-"summary": "(Dân trí) - Hà Nội vừa giao gần 6.700m2 đất tại hai xã Phúc Thịnh và Thiên Lộc để thực hiện các dự án nhà ở xã hội. Trong đó, một dự án được bố trí thêm diện tích xây dựng nhà ở thương mại.",
-"image": "https://cdnphoto.dantri.com.vn/FOtcY766lvvadeJgrMqzdxQmDWA=/2026/08/10/nha-o-xa-hoi-tro-lai-duong-dua-khuay-dao-nguon-cung-tu-ha-noi-den-tphcm-cropped-1786334201701.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-23T12:11:26+07:00",
-"found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "5947a63c9790",
-"title": "Đồng yên Nhật đang phát huy vai trò “hầm trú ẩn” dù rủi ro mất giá vẫn lớn",
-"link": "https://vneconomy.vn/dong-yen-nhat-dang-phat-huy-vai-tro-ham-tru-an-du-rui-ro-mat-gia-van-lon.htm",
-"summary": "Trong tuần vừa rồi, khi thị trường chứng khoán toàn cầu biến động mạnh vì cổ phiếu trí tuệ nhân tạo (AI) bị bán tháo, đồng yên Nhật Bản đã được nhiều nhà đầu tư mua vào như một tài sản an toàn...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/23/53600efeabf54efb98517b158337b33d-137800.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-23T12:11:21+07:00",
-"found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "d891c0918e82",
-"title": "Cổ phiếu AI giảm mạnh gợi nhớ thời bong bóng dot-com, liệu bong bóng AI đã vỡ?",
-"link": "https://vneconomy.vn/co-phieu-ai-giam-manh-goi-nho-thoi-bong-bong-dot-com-lieu-bong-bong-ai-da-vo.htm",
-"summary": "Đợt bán tháo cổ phiếu liên quan đến trí tuệ nhân tạo (AI) trong những tuần gần đây có nhiều điểm tương đồng với giai đoạn bong bóng dot-com vỡ, làm dấy lên câu hỏi liệu bong bóng AI đã vỡ hay chưa...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/23/20e79fb1bb0040159c8158dea59bf1a1-137845.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-23T12:11:01+07:00",
-"found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "f215fa8919ae",
-"title": "Trung tâm Tài chính Quốc tế Việt Nam tại TP.HCM công bố thêm 7 thành viên",
-"link": "https://thanhnien.vn/trung-tam-tai-chinh-quoc-te-viet-nam-tai-tphcm-cong-bo-them-7-thanh-vien-185261123120515322.htm",
-"summary": "Trung tâm Tài chính Quốc tế Việt Nam tại TP.HCM công bố thêm 7 thành viên mới, mở rộng hệ sinh thái và kết nối nguồn vốn.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/2aoboreyvexb98ceb5nfmotxtj7dclft40biwo80-17954100666101884685368-196-0-1796-2560-crop-1795410124528503150098.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-23T12:11:00+07:00",
-"found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "95a7461c9826",
-"title": "Nam thanh niên đi xuống cầu Chìm rồi mất dấu: Vớt được xe SH trên sông Tiên",
-"link": "https://tuoitre.vn/nam-thanh-nien-di-xuong-cau-chim-roi-mat-dau-vot-duoc-xe-sh-tren-song-tien-100261123115518524.htm",
-"summary": "Lực lượng chức năng và người dân địa phương tìm được chiếc xe máy của nam thanh niên nghi bị nước cuốn trôi tại sông Tiên.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/17954075603397633399284533162958763339928453316295827cedca05d8dbed39400e3033d5c6c84-17954089895331430031027-33-0-833-1280-crop-17954091401552056182896.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T12:11:00+07:00",
-"found": "2026-11-23T14:02:05+07:00"
 }
 ]
 }
