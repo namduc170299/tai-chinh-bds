@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T01:26:39+07:00",
-"new": 0,
+"updated": "2026-11-26T01:41:50+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 55
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "2fcc726a685a",
+"title": "Ngày 26/11, gửi 100 triệu đồng kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+"link": "https://cafef.vn/ngay-26-11-gui-100-trieu-dong-ky-han-12-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-18826112522380546.chn",
+"summary": "Lãi suất tiết kiệm kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank có sự chênh lệch đáng kể giữa hình thức gửi tại quầy và trực tuyến. Với khoản tiền gửi 100 triệu đồng, số tiền lãi khách hàng nhận được sau một năm có thể chênh lệch tới hơn 2 triệu đồng tùy…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/179090852726759745778259262868715974577825926286871h-1792462298069155831727-17956209442621554478379-0-0-1250-2000-crop-17956209477562124391595.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-26T01:36:00+07:00",
+"found": "2026-11-26T01:41:50+07:00"
+},
+{
+"id": "cd22ee008341",
+"title": "Chứng khoán Mỹ lao dốc sau tin chấn động về chính sách thuế mới",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGlaRlJzSXhwYTkyU0VFX1RvSVpsUHh6cUZaQVBJR1ZKUkNlSVBub3ZOOFJWOHFyTXVnM21GZjBIWEg3Tkh0Rm53UzIwcWdSSXRXN0hTbFhMeGJIV1pQUjJQX3VrTWRHNmh6U21CR3pmSjRZTW1sdUR1SGt5SWFyZkcxS2VPSlp6X2thQXVpLXJPSzdxTWR6NFBZRkU?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T01:29:00+07:00",
+"found": "2026-11-26T01:41:50+07:00"
+},
+{
 "id": "1f2d8348e490",
 "title": "Từ hôm nay (26/11), ngân hàng tư nhân lớn nhất hệ thống điều chỉnh lãi suất tiết kiệm",
 "link": "https://cafef.vn/tu-hom-nay-26-11-ngan-hang-tu-nhan-lon-nhat-he-thong-dieu-chinh-lai-suat-tiet-kiem-188261125223209256.chn",
@@ -234,6 +256,18 @@
 "published": "2026-11-26T00:40:00+07:00",
 "traffic": "1000+",
 "found": "2026-11-26T01:10:32+07:00"
+},
+{
+"id": "9a8bd55f50e9",
+"title": "barcelona",
+"link": "https://www.vietnam.vn/es/nhan-dinh-sabah-fa-vs-barcelona-khach-tiep-tuc-bay-cao",
+"summary": "Pronóstico Sabah FA vs Barcelona: ¿Continuarán los visitantes con su racha ganadora? (Vietnam.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT55Dwx-1oZ2jrgLmA7IKWPDafW3K-ohjA96ZMv2qn82JENubpGRH7lxj_x9wk",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T00:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T01:41:50+07:00"
 },
 {
 "id": "6306ca63ca17",
@@ -491,7 +525,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T23:00:00+07:00",
-"traffic": "1000+",
+"traffic": "500+",
 "found": "2026-11-25T23:20:49+07:00"
 },
 {
@@ -1522,6 +1556,17 @@
 "cat": "tc",
 "published": "2026-11-25T19:54:00+07:00",
 "found": "2026-11-25T20:00:21+07:00"
+},
+{
+"id": "f9f6b40b931b",
+"title": "5 địa phương có nguy cơ không hoàn thành chỉ tiêu cơ sở dữ liệu đất đai năm 2026",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekVOV19RZjJxeWVha1BIbEwzVmxxZjBzRWxMSWpCREFnbVVURmRib3NLN0dCMDBkLXJueGluUVVrMnZxOHpTMzNkeFpfRlpBYzFYdU4xTnJ0WjlsWUYxZkZ1Mm9ZcWlnc0tYZE55TXZuUzRjSlJyazhMekZ2SkNWM1V2NGhSUFlsanpvZzNYUng5UndQWnN4TDFzV0RfazA5R3BzMm1YQW0yZnhxbjdpQ0l6QQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T19:53:00+07:00",
+"found": "2026-11-26T01:41:50+07:00"
 },
 {
 "id": "212aac77b11e",
@@ -28009,50 +28054,6 @@
 "source": "CafeF",
 "cat": "bds",
 "published": "2026-11-23T10:51:00+07:00",
-"found": "2026-11-23T10:58:21+07:00"
-},
-{
-"id": "19fb679ab1dc",
-"title": "Một phần khu đất từng gắn với dự án công viên Hello Kitty của BRG bị Hà Nội thu hồi chuẩn bị được đấu giá, giá khởi điểm hơn 114 triệu đồng/m2",
-"link": "https://cafef.vn/mot-phan-khu-dat-tung-gan-voi-du-an-cong-vien-hello-kitty-cua-brg-bi-ha-noi-thu-hoi-chuan-bi-duoc-dau-gia-gia-khoi-diem-hon-114-trieu-dong-m2-188261123104437158.chn",
-"summary": "Hà Nội vừa quyết định đấu giá quyền sử dụng khu đất rộng 2.678m² tại số 153 Yên Phụ, phường Tây Hồ. Khu đất này từng nằm trong phạm vi dự án Tổ hợp công viên vui chơi giải trí và phụ trợ, có tên thương mại Sanrio Hello Kitty World Hanoi do doanh nghiệp thuộc Tập đoàn BRG phát…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/hello-kitty-1795405350595151733436-0-0-427-683-crop-17954053554491084108346.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-23T10:50:00+07:00",
-"found": "2026-11-23T10:58:21+07:00"
-},
-{
-"id": "bbd1fbfc2740",
-"title": "Chợ đầu mối trăm tỷ đồng đìu hiu, gần 100 ki-ốt bỏ trống",
-"link": "https://dantri.com.vn/kinh-doanh/cho-dau-moi-tram-ty-dong-diu-hiu-gan-100-ki-ot-bo-trong-20261122134225883.htm",
-"summary": "(Dân trí) - Chợ đầu mối Bình Hương (Hà Tĩnh) được đầu tư 140 tỷ đồng, đưa vào hoạt động từ năm 2019. Tuy nhiên, hiện gần 100 trong tổng số 250 ki-ốt vẫn chưa có người thuê kinh doanh.",
-"image": "https://cdnphoto.dantri.com.vn/4wthiBFbZtTKx1YyggCo2l4dvNs=/2026/11/22/chohatinhduongnguyen12-edited-edited-1795329421225.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-23T10:48:13+07:00",
-"found": "2026-11-23T11:41:14+07:00"
-},
-{
-"id": "89f56f42f66a",
-"title": "Công an phục hồi điều tra, truy nã Vũ Tiến Tới SN 1968",
-"link": "https://kenh14.vn/cong-an-phuc-hoi-dieu-tra-truy-na-vu-tien-toi-sn-1968-215261123105248108.chn",
-"summary": "Nếu bị can không ra đầu thú sẽ bị xét xử vắng mặt theo quy định của pháp luật.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795405887728-17954058884461438027567.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-23T10:48:00+07:00",
-"found": "2026-11-23T10:58:21+07:00"
-},
-{
-"id": "4b73cbaed99e",
-"title": "Vay 3%/năm mua đất, làm nhà: Chính sách tín dụng ưu đãi mới cho vùng đồng bào dân tộc thiểu số, miền núi",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQTZNOVlxYzhVZFFtQk9LWVp4UEZ3dnF4RGEyT0xjei1NSXhsY3kzdWlmR3kwUUFubjR3Y2xZd05Edi13REhvVnZScUpVZUtxNTNoS1l1QUZ2Y1BqLU9EY19Jbl9EWXEwTS1NQjh4RjZyS29yTUJzaWNRWjNFRXRTYkUtVXFhMG1lczJPbnV1dGtVX241Y0x0N3ZlbExvM0VKUlVLY3pqbDFFMzNiWERvMnRUZEdEWThxSE9ZR3A2QVpmSWIyWmUtTU9RamxhZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T10:48:00+07:00",
 "found": "2026-11-23T10:58:21+07:00"
 }
 ]
