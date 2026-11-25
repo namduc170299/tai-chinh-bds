@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T15:21:37+07:00",
-"new": 32,
+"updated": "2026-11-25T15:36:50+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 22
+"count": 55
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,94 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "0ab0e89385c3",
+"title": "TPHCM cam kết đi trước về mặt bằng để hút vốn tư nhân vào 23 dự án PPP",
+"link": "https://vietnamnet.vn/tphcm-cam-ket-di-truoc-ve-mat-bang-de-hut-von-tu-nhan-vao-23-du-an-ppp-2578498.html",
+"summary": "Giai đoạn 2026-2030, TPHCM đặt mục tiêu tăng trưởng GRDP bình quân 10-11%/năm với tổng nhu cầu vốn đầu tư công ước khoảng 3,1 triệu tỷ đồng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/tphcm-cam-ket-di-truoc-ve-mat-bang-de-hut-von-tu-nhan-vao-23-du-an-ppp-3403.jpg?width=0&s=LruZOW-Paiu3GVBXfsAF3w",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-25T15:34:43+07:00",
+"found": "2026-11-25T15:36:50+07:00"
+},
+{
+"id": "90eda88ff32f",
+"title": "Các quỹ ETF tiếp tục rút ròng 18,87 triệu USD trong vòng một tuần",
+"link": "https://vneconomy.vn/cac-quy-etf-tiep-tuc-rut-rong-1887-trieu-usd-trong-vong-mot-tuan.htm",
+"summary": "Các quỹ giao dịch hoán đổi theo dõi thị trường Việt Nam và Thái Lan tiếp tục bị rút ròng lần lượt 18,87 triệu USD và 13,18 triệu USD.",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/4e260a23446c4fad8f9b2da2fae1572d-138584.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-25T15:31:23+07:00",
+"found": "2026-11-25T15:36:50+07:00"
+},
+{
+"id": "59cf5552e7d7",
+"title": "Công ty phát điện lớn nhất sàn chứng khoán thông báo “nóng\"",
+"link": "https://cafef.vn/cong-ty-phat-dien-lon-nhat-san-chung-khoan-thong-bao-nong-18826112515301034.chn",
+"summary": "Lũy kế 10 tháng đầu năm 2026, tổng doanh thu của các đơn vị thuộc PV Power ước đạt 56.091 tỷ đồng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/a-t42-9896-9963-17955953416461708061969-0-18-401-660-crop-1795595345033338310202.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T15:31:00+07:00",
+"found": "2026-11-25T15:36:50+07:00"
+},
+{
+"id": "dba66a34c3e8",
+"title": "Phó tổng SCIC: Tiếp tục bán vốn ở những công ty nhỏ lẻ để dồn nguồn lực cho doanh nghiệp lớn",
+"link": "https://vneconomy.vn/pho-tong-scic-tiep-tuc-ban-von-o-nhung-cong-ty-nho-le-de-don-nguon-luc-cho-doanh-nghiep-lon.htm",
+"summary": "Khi SCIC bán vốn ở những doanh nghiệp nhỏ, phân tán thì sử dụng nguồn lực từ con người (cụ thể là từ quản trị những doanh nghiệp đó) để tập trung vào quản trị những doanh nghiệp lớn, từ đó, mong muốn tạo ra sự tăng trưởng tốt hơn cho doanh nghiệp, hình thành doanh nghiệp lớn,…",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/3e25c49d666e4040b50ed7d7608ec4b2-138512.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-25T15:30:38+07:00",
+"found": "2026-11-25T15:36:50+07:00"
+},
+{
+"id": "35863ead0cae",
+"title": "Sức bật từ tâm điểm Vũ Yên: Điểm hẹn của làn sóng đầu tư và chuẩn sống tương lai",
+"link": "https://cafef.vn/suc-bat-tu-tam-diem-vu-yen-diem-hen-cua-lan-song-dau-tu-va-chuan-song-tuong-lai-188261125151650899.chn",
+"summary": "Từ cuộc sáp nhập với Hải Dương đến sức bật của hạ tầng liên vùng, Hải Phòng đang dịch chuyển từ trung tâm công nghiệp – cảng biển truyền thống sang đô thị biển đa trung tâm. Trên bản đồ tái cấu trúc ấy, sự dịch chuyển về phía Bắc sông Cấm, đảo Vũ Yên cùng các tổ hợp căn hộ cao…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/photo1795533295177-17955332955661365534274-179559461635757082690.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T15:30:00+07:00",
+"found": "2026-11-25T15:36:50+07:00"
+},
+{
+"id": "58b765f6473f",
+"title": "Tranh thủ xả hàng lướt sóng, thanh khoản tăng mạnh cuối phiên, cổ giảm la liệt",
+"link": "https://vneconomy.vn/tranh-thu-xa-hang-luot-song-thanh-khoan-tang-manh-cuoi-phien-co-giam-la-liet.htm",
+"summary": "Thanh khoản khớp lệnh sàn HoSE chiều nay tăng vọt 59% so với buổi sáng nhưng mặt bằng giá xuống thấp hơn nhiều. Số mã đỏ nhiều gấp 2,8 lần số xanh trong khi 38% số mã đóng cửa giảm quá 1% giá trị.",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/6a791c6d44dd465d94843d1179a3f4b3-138587.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-25T15:29:37+07:00",
+"found": "2026-11-25T15:36:50+07:00"
+},
+{
+"id": "df9c80f17c87",
+"title": "TPHCM huy động hơn 2.500 người, hàng trăm phương tiện diễn tập chữa cháy quy mô lớn",
+"link": "https://vietnamnet.vn/tphcm-huy-dong-hon-2-500-nguoi-hang-tram-phuong-tien-dien-tap-chua-chay-2570215.html",
+"summary": "Ngày 31/10, hơn 2.500 người cùng hàng trăm phương tiện tham gia cuộc diễn tập chữa cháy và cứu nạn, cứu hộ do Bộ Công an và UBND TPHCM tổ chức tại xã Long Sơn.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/31/tphcm-huy-dong-hon-2-1340.jpg?width=0&s=NBUaHfsMYSUYs8JpXsTUAQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-25T15:29:36+07:00",
+"found": "2026-11-25T15:36:50+07:00"
+},
+{
+"id": "ebe04fc8743e",
+"title": "VPBank công bố tầm nhìn “Kiến trúc sư gia sản”",
+"link": "https://vneconomy.vn/vpbank-cong-bo-tam-nhin-kien-truc-su-gia-san.htm",
+"summary": "Khi số lượng người giàu Việt Nam tăng gấp đôi chỉ sau một thập kỷ, thách thức không còn dừng ở việc tạo dựng, mà làm thế nào để gia sản tiếp tục tăng trưởng, gìn giữ và chuyển giao qua nhiều thế hệ.",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/1184f587ad044025a85bb7ccec8b037e-138563.jpg?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-25T15:24:54+07:00",
+"found": "2026-11-25T15:36:50+07:00"
+},
+{
 "id": "948be07c5dc3",
 "title": "Thành lập 7 hội đồng tư vấn của Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam",
 "link": "https://thanhnien.vn/thanh-lap-7-hoi-dong-tu-van-cua-uy-ban-tu-mat-tran-to-quoc-viet-nam-185261125143235163.htm",
@@ -244,6 +332,17 @@
 "cat": "tc",
 "published": "2026-11-25T15:17:00+07:00",
 "found": "2026-11-25T15:21:37+07:00"
+},
+{
+"id": "5937939f38ca",
+"title": "Giả danh chủ đầu tư, rao bán hơn 600 'suất' nhà ở xã hội để chiếm đoạt 150 tỷ đồng",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1k4VG5nRTkwMldOazlLMFU3RUU5VkNhMGxwenFsLWtvZmJpNEVTRzlzaTBQMFNBZklFRi0zNWR1bUxUcHl2MTRVWXZNMGV4QXJzY3pQeVI5UVJ4eE9SRXRrR21ZRUR0bi0yWnRvelVCenhpLThpcGdpZW1Mem5wVlMxQ3pZX0hkWkRMWm5rdVFXU1RIQmZCU0k0TkFGUEsyS2lLUmZKN3NkeXZlQUFla3Nn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T15:16:00+07:00",
+"found": "2026-11-25T15:36:50+07:00"
 },
 {
 "id": "aa11a5bfc9bf",
@@ -334,6 +433,17 @@
 "found": "2026-11-25T15:21:37+07:00"
 },
 {
+"id": "e7419f04eca4",
+"title": "Viethome phản đối tăng giá căn hộ Roxana Plaza, nói CĐT phải giữ hợp đồng cũ",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWdIeERYVzYtajJTRXVkTjU0aGZrRUZMdlBFNUt0VXpuUjNpRUhWb012UW5YWU13ZXFQM1QyMk5lV3hEbmVEZURKaVg4ZFZIbzNFbmVUenRTb0lJSG0xSFRvdTg2U3FHemhDa1VzZTJBQVN4N0phS3l6b01hOWxMV0p4dHMxTUgxa0M5anNDT3ZpWTdXeldNdEhiejRseTNIQWNjLXFPU1RiWkFI?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T15:08:13+07:00",
+"found": "2026-11-25T15:36:50+07:00"
+},
+{
 "id": "2b228ada6e2a",
 "title": "Nghệ An, Hà Tĩnh bàn giao 115 ô tô cho công an xã, phường",
 "link": "https://tuoitre.vn/nghe-an-ha-tinh-ban-giao-115-o-to-cho-cong-an-xa-phuong-100261125143959905.htm",
@@ -354,6 +464,17 @@
 "cat": "mxh",
 "published": "2026-11-25T15:08:00+07:00",
 "found": "2026-11-25T15:21:37+07:00"
+},
+{
+"id": "4d093c09d23d",
+"title": "Kho TP HCM kín chỗ, dòng vốn bất động sản logistics dồn về Đồng Nai, Tây Ninh",
+"link": "https://vnexpress.net/kho-tp-hcm-kin-cho-dong-von-bat-dong-san-logistics-don-ve-dong-nai-tay-ninh-5148756.html",
+"summary": "Kho xây sẵn tại TP HCM lấp đầy hơn 99%, đẩy nhu cầu thuê và vốn bất động sản logistics hàng trăm triệu USD đổ về Đồng Nai, Tây Ninh.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/khotayninh-1795594541-3494-1795594550.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EQYmU8POmuwP9PSpybXCJg",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-25T15:06:20+07:00",
+"found": "2026-11-25T15:36:50+07:00"
 },
 {
 "id": "430a7311ef8e",
@@ -1006,7 +1127,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T14:00:00+07:00",
-"traffic": "5000+",
+"traffic": "10000+",
 "found": "2026-11-25T15:06:26+07:00"
 },
 {
@@ -1407,7 +1528,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T13:20:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-25T15:06:26+07:00"
 },
 {
@@ -3787,6 +3908,17 @@
 "cat": "tc",
 "published": "2026-11-25T09:30:00+07:00",
 "found": "2026-11-25T12:39:45+07:00"
+},
+{
+"id": "8e65310add75",
+"title": "Chuyên gia: Việt Nam nhiều tiềm năng hút dòng vốn tỷ USD",
+"link": "https://vnexpress.net/chuyen-gia-ban-co-hoi-hut-dong-von-toan-cau-tai-hdbank-global-capital-summit-2026-5148466-tong-thuat.html",
+"summary": "Thị trường được nâng hạng, Trung tâm Tài chính Quốc tế Việt Nam hoạt động mở ra cơ hội hút dòng vốn ngoại đồng thời cũng đặt bài toán về niềm tin để giữ chân các nhà đầu tư.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/179558204161520719488247455923-6456-1524-1795593712.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CKrwxSFyiGLLvpRXY2Zv7A",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-25T09:30:00+07:00",
+"found": "2026-11-25T15:36:50+07:00"
 },
 {
 "id": "468e85a1f877",
@@ -27966,145 +28098,6 @@
 "cat": "mxh",
 "published": "2026-11-22T21:19:22+07:00",
 "found": "2026-11-23T03:16:24+07:00"
-},
-{
-"id": "b16b4123b134",
-"title": "Phó Thủ tướng Thường trực: Cần nghe được tiếng nói phản ánh những bức xúc của người dân và giải quyết kịp thời",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUEttMHVFRjN4akN2WWFGVHhSaTYtbjRzRDQ2S1hJLVhON0dsNjVFdUtERzA5U2d6WXZWMWZLbVJ0dVo2V1lRbjVoZHRPX2NTcnR1T0MyTHZvTzF4UHJCa2JwS2RManhIdEJzcTI0aS1iSndOWlNTcWxNdXpCaHRwanpORTJxMTRfUkI2VXdEZnB2eWsxNExKSmpJc3JUcmF5SE5tNWpYYkROR3FQYVVZNEFMMVdwSWgxZmxseWd4S3lYUFNCdGViYTRDWmVlXzl1M2VMaDRzaXdWZw?oc=5",
-"summary": "Nguồn: Báo Dân Việt",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-22T21:13:57+07:00",
-"found": "2026-11-22T22:40:47+07:00"
-},
-{
-"id": "d21f1573b7be",
-"title": "An Giang kêu gọi doanh nghiệp đầu tư các dự án lấn biển, phát triển hạ tầng",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalNhYlluYjhzMXByeVh6T0xGVGppaVFnQzVweHJXTlFVdUlhbW96c3J3Wjl6TmI1S21JcExVN1hSUV9IOVFDQkVIaUhlVTUyUk1MbG4wQ0U4c3dYMmxHMndLOEZ0eGg0WV9yYXR4NndCM1NybVA2TFVQYnZvNWR3UmlRZk9SWmE2VVkxb0VxVm1nTXJCc0J3LW11dDlIX0xiRFBlQWJLX0FwZzg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T21:11:56+07:00",
-"found": "2026-11-23T10:43:06+07:00"
-},
-{
-"id": "90fe80edcb6f",
-"title": "hull city – brighton",
-"link": "https://www.theguardian.com/football/live/2026/nov/22/hull-city-v-brighton-premier-league-live",
-"summary": "Hull City v Brighton: Premier League – live (The Guardian)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcRb3EuFZgv5iqfopW9lBfwy8Yb2to4y479aNIZBazGS5Vdf0Prin0hF6dwL0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T21:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-22T21:46:53+07:00"
-},
-{
-"id": "0798c950f3e2",
-"title": "Quảng cáo Việt giữa cơn lốc AI: Bản sắc văn hóa là thứ không thể sao chép",
-"link": "https://tuoitre.vn/quang-cao-viet-giua-con-loc-ai-ban-sac-van-hoa-la-thu-khong-the-sao-chep-100261122203341584.htm",
-"summary": "Ông Nguyễn Thanh Đảo, Chủ tịch Hiệp hội Quảng cáo TP.HCM, cho rằng AI không thể thay thế sức sáng tạo của con người, trong khi bản sắc văn hóa Việt là lợi thế giúp ngành quảng cáo tạo dấu ấn riêng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/phat-bieu-truoc-bang-quang-cao-ngoai-troi-17953533315241871746792-350-431-804-1156-crop-17953569590011243288327.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-22T21:09:00+07:00",
-"found": "2026-11-22T21:31:42+07:00"
-},
-{
-"id": "2161da1459d1",
-"title": "Câu lạc bộ Niềm Tin Số Thủ Đô trở thành một trong những thành viên sáng lập đầu tiên của Mạng lưới Người Gần Nhất",
-"link": "https://kenh14.vn/cau-lac-bo-niem-tin-so-thu-do-tro-thanh-mot-trong-nhung-thanh-vien-sang-lap-dau-tien-cua-mang-luoi-nguoi-gan-nhat-215261122210355772.chn",
-"summary": "Sự đồng hành của Câu lạc bộ Niềm tin số Thủ đô góp phần mở rộng Mạng lưới Người Gần Nhất, hướng tới xây dựng một cộng đồng nhân ái, có kiến thức, kỹ năng và sẵn sàng hành động vì nhau.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795356144792-1795356145082828081781.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-22T21:07:00+07:00",
-"found": "2026-11-22T21:31:42+07:00"
-},
-{
-"id": "9f615d0bb263",
-"title": "sân bay quốc tế seattle tacoma",
-"link": "https://vnexpress.net/dac-vu-ice-bat-nguoi-ngay-tai-cua-len-may-bay-5147669.html",
-"summary": "Đặc vụ ICE bắt người ngay tại cửa lên máy bay (VnExpress)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ8kgcgizMb7uNvreO-X1DfaulrBnkfeC22vKy3yPtZXIHHC8CKZQ99bOo4YU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T21:00:00+07:00",
-"traffic": "500+",
-"found": "2026-11-22T21:16:32+07:00"
-},
-{
-"id": "98e38f9b2332",
-"title": "tajon buchanan",
-"link": "https://www.corsicanadailysun.com/sports/national_sports/spain-la-liga-soccer/image_ed8e0f43-29f7-5818-9e2e-7396c03e76cb.html",
-"summary": "Spain La Liga Soccer (Corsicana Daily Sun)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLzlvmqCVW9TddOlkbmDnxbPnQfJKF7y1bNNk9Fj4hoQBIdJUzGWbAS7UDPYs",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T21:00:00+07:00",
-"traffic": "100+",
-"found": "2026-11-22T21:16:32+07:00"
-},
-{
-"id": "fc3e186d843f",
-"title": "bologna đấu với udinese",
-"link": "https://bongdaplus.vn/serie-a/nhan-dinh-bong-da-bologna-vs-udinese-21h00-ngay-22-11-dim-khach-xuong-day-5295792611.html",
-"summary": "Nhận định bóng đá Bologna vs Udinese, 21h00 ngày 22/11: Dìm khách xuống đáy (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbcjt94gBj4k5nLBu-jEAimwO1zcbYjUIqZduaGS63Aflh26rrRCCnRh1csM0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T20:50:00+07:00",
-"traffic": "500+",
-"found": "2026-11-22T21:11:11+07:00"
-},
-{
-"id": "3bafd1f85149",
-"title": "augsburg đấu với mainz",
-"link": "https://bongdaplus.vn/bundesliga/nhan-dinh-bong-da-augsburg-vs-mainz-21h30-ngay-22-11-niem-vui-cho-doi-khach-5295882611.html",
-"summary": "Nhận định bóng đá Augsburg vs Mainz, 21h30 ngày 22/11: Niềm vui cho đội khách (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy3YJn7QmaKJyXKFtOc2zUhkzQr5iip9pICy2EZA2BwVLZoRXdg0vTeW4Ulxw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T20:50:00+07:00",
-"traffic": "500+",
-"found": "2026-11-22T21:11:11+07:00"
-},
-{
-"id": "740f5c41ac1c",
-"title": "brighton vs",
-"link": "https://bongdaplus.vn/ngoai-hang-anh/nhan-dinh-bong-da-hull-vs-brighton-21h00-ngay-22-11-brighton-thang-tien-5293672611.html",
-"summary": "Nhận định bóng đá Hull vs Brighton, 21h00 ngày 22/11: Brighton thẳng tiến (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJUHfAhl7BakMzaUH90SX6dVXWhglVxafijihAfhfDFVf8JdHeVEtPDAmEPIE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T20:50:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-22T21:11:11+07:00"
-},
-{
-"id": "67159d313c8b",
-"title": "arsenal – hull city",
-"link": "https://www.bbc.com/sport/football/live/cky97ll8253wt",
-"summary": "Hull City vs Brighton & Hove Albion LIVE: Premier League build-up, team news, stats & updates (BBC)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJLLqX8x7Ba57FQLAmUYlgIDJJmlAuzODytRwRkZVHF4xMIb4ESoxy7ATiZkU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T20:50:00+07:00",
-"traffic": "100+",
-"found": "2026-11-22T22:02:03+07:00"
-},
-{
-"id": "119481b42993",
-"title": "Liên danh Việt - Pháp - Hàn trúng gói tư vấn lớn nhất đường sắt tốc độ cao Bắc Nam",
-"link": "https://vnexpress.net/lien-danh-viet-phap-han-trung-goi-tu-van-lon-nhat-duong-sat-toc-do-cao-bac-nam-5147718.html",
-"summary": "Liên danh 8 doanh nghiệp Việt Nam, Pháp và Hàn Quốc trúng gói thầu tư vấn lớn nhất dự án đường sắt tốc độ cao Bắc Nam, trị giá hơn 10.243 tỷ đồng.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/395afd4a-ee7da30d70b0fe0-17953-8878-3722-1795353176.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=dvtE8qrf55-4hwz73-pgJQ",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-22T20:47:24+07:00",
-"found": "2026-11-22T21:11:11+07:00"
 }
 ]
 }
