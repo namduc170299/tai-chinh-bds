@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T15:52:04+07:00",
-"new": 12,
+"updated": "2026-11-25T16:16:24+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 22
+"count": 56
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,105 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "455e0036f323",
+"title": "Chính sách tiếp sức, đồng bào chủ động thoát nghèo",
+"link": "https://vietnamnet.vn/chinh-sach-tiep-suc-dong-bao-chu-dong-thoat-ngheo-2577640.html",
+"summary": "Từ những gia đình vượt qua khó khăn, ổn định sinh kế đến những mái nhà mới nơi vùng cao, hiệu quả chính sách giảm nghèo đang tiếp thêm niềm tin, khơi dậy tinh thần tự lực và ý chí vươn lên của đồng bào dân tộc thiểu số.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/chinh-sach-tiep-suc-dong-bao-chu-dong-thoat-ngheo-2527.jpeg?width=0&s=A0nChhsXdbhJ_gwVRCLJ7Q",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-25T16:02:24+07:00",
+"found": "2026-11-25T13:50:28+07:00"
+},
+{
+"id": "4ae7a5da395e",
+"title": "Vì sao giá vàng thế giới lao dốc, SJC liệu có về dưới 120 triệu đồng?",
+"link": "https://vietnamnet.vn/vi-sao-gia-vang-the-gioi-lao-doc-sjc-ve-duoi-120-trieu-dong-2578416.html",
+"summary": "Giá vàng thế giới lao dốc trong phiên 24/11 và tiếp tục giảm sáng 25/11. Vàng nhẫn một số thương hiệu lớn mất 1,5 triệu đồng/lượng. Trước áp lực từ Fed và đồng USD, liệu giá vàng trong nước có thể xuống dưới 120 triệu đồng/lượng?",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/vi-sao-gia-vang-the-gioi-lao-doc-sjc-lieu-co-ve-duoi-120-trieu-dong-2513.jpg?width=0&s=jJOUHBwe3zZP7zfh08TTXQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-25T16:01:25+07:00",
+"found": "2026-11-25T13:50:28+07:00"
+},
+{
+"id": "cc91ae916097",
+"title": "Đà Nẵng khởi công Cụm công nghiệp Hòa Nhơn gần 25ha",
+"link": "https://cafef.vn/da-nang-khoi-cong-cum-cong-nghiep-hoa-nhon-gan-25ha-188261125150237512.chn",
+"summary": "Ngày 25-11, UBND TP Đà Nẵng phối hợp Công ty Cổ phần Đầu tư Sài Gòn – Đà Nẵng (SDN) khởi công Dự án Cụm công nghiệp Hòa Nhơn tại xã Bà Nà.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795593721945-1795593723667416273183.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T16:01:00+07:00",
+"found": "2026-11-25T16:16:24+07:00"
+},
+{
+"id": "88f0e438abe3",
+"title": "Hơn 600 người sập bẫy lừa đảo mua nhà ở xã hội Lý Thường Kiệt",
+"link": "https://thanhnien.vn/hon-600-nguoi-sap-bay-lua-dao-mua-nha-o-xa-hoi-ly-thuong-kiet-185261125151502534.htm",
+"summary": "Phòng Cảnh sát hình sự Công an TP.HCM đã triệt phá đường dây giả danh Công ty cổ phần Đức Mạnh, chủ đầu tư dự án nhà ở xã hội Lý Thường Kiệt tại số 324 Lý Thường Kiệt, phường Diên Hồng, TP.HCM để lừa bán nhà ở xã hội tại chung cư này.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/img-1906-17955944929331156613490-0-0-1250-2000-crop-17955944977361206051083.jpeg",
+"source": "Thanh Niên",
+"cat": "bds",
+"published": "2026-11-25T16:01:00+07:00",
+"found": "2026-11-25T16:16:24+07:00"
+},
+{
+"id": "f19bfca7da05",
+"title": "Đóng điện Trạm biến áp 220kV Lai Uyên, tăng nguồn cấp cho TP.HCM",
+"link": "https://vietnamnet.vn/dong-dien-tram-bien-ap-220kv-lai-uyen-tang-nguon-cap-cho-tphcm-2578522.html",
+"summary": "Vào lúc 21h53 phút, ngày 21/11/2026, Tổng công ty Truyền tải điện Quốc gia (EVNNPT) cùng các đơn vị liên quan đóng điện Dự án Trạm biến áp 220kV Lai Uyên và đấu nối tại xã Bàu Bàng, góp phần chống quá tải và nâng cao độ tin cậy lưới điện TP.HCM.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/anh-2-3581.jpg?width=0&s=PyYTH3dUDZg9CmE70YP1kg",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-25T15:56:56+07:00",
+"found": "2026-11-25T16:16:24+07:00"
+},
+{
+"id": "3e1fc5dc4150",
+"title": "TPHCM: Người đàn ông mang búa rìu và xăng đi tìm giết &apos;tình địch&apos;",
+"link": "https://vietnamnet.vn/tphcm-nguoi-dan-ong-mang-bua-riu-va-xang-di-tim-giet-tinh-dich-2578512.html",
+"summary": "Không chấp nhận việc người tình cũ có quan hệ với người đàn ông khác, Nguyễn Minh Hải (ở TPHCM) chuẩn bị xăng, búa rìu tìm đến phòng trọ phóng hỏa.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/tphcm-nguoi-dan-ong-mang-bua-riu-va-xang-di-tim-giet-tinh-dich-3553.jpg?width=0&s=C1KHPRF7VICi0zVsFI2slw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-25T15:54:06+07:00",
+"found": "2026-11-25T16:16:24+07:00"
+},
+{
+"id": "edc4d7fd1dd9",
+"title": "Nhà máy bột giấy 3.400 tỉ ở Tây Ninh làm thủ tục chấm dứt hoạt động sau 22 năm",
+"link": "https://thanhnien.vn/nha-may-bot-giay-3400-ti-o-tay-ninh-lam-thu-tuc-cham-dut-hoat-dong-sau-22-nam-18526111808350525.htm",
+"summary": "Sau hơn 22 năm khởi công, dự án Nhà máy bột giấy Phương Nam vốn đầu tư 3.400 tỉ đồng ở Tây Ninh đang được cơ quan chức năng hướng dẫn thủ tục chấm dứt hoạt động.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/18/edit-anh-0-17949649019951180016332-0-0-1307-2091-crop-1794965756455727248736.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-25T15:54:00+07:00",
+"found": "2026-11-25T16:16:24+07:00"
+},
+{
+"id": "84b6dde5d989",
+"title": "Giá vàng hôm nay 25/11: Đà phục hồi đối mặt áp lực lớn",
+"link": "https://vietnamnet.vn/gia-vang-hom-nay-25-11-da-phuc-hoi-doi-mat-ap-luc-lon-2578291.html",
+"summary": "Giá vàng thế giới quay đầu giảm sau nhịp phục hồi mạnh từ vùng đáy 14 tháng. Kỳ vọng Fed tiếp tục tăng lãi suất trong tháng 12, cùng sự phục hồi của nhóm cổ phiếu công nghệ, đang tạo thêm sức ép lên kim loại quý.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/11-da-phuc-hoi-doi-mat-ap-luc-lon-7386.jpg?width=0&s=njficyIa2MXt_JZFw6In1Q",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-25T15:53:35+07:00",
+"found": "2026-11-25T05:11:23+07:00"
+},
+{
+"id": "fff0e69aefb1",
+"title": "Sự thật về hình ảnh được cho là chủ cơ sở thẩm mỹ nổi tiếng bị khởi tố",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUV5ZXlOQzdsTGxmX0lxaFNtUENyZGlnNHZ4cUw4MkhveXlubjR0YkRDZnk2Y3dCMEJWcVBkWV9ESWVDMmNSaHpCNHVuXzNOSE9hSnEzdm1FVlpjdFdoWjRlY19EUkxMdllZNWFmTkdNalFNTXFOeXltQU5tNE5XSG9SX1M0RndqWC0xdjExSUpkWXM?oc=5",
+"summary": "Nguồn: 2SAO",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-25T15:53:00+07:00",
+"found": "2026-11-25T16:16:24+07:00"
+},
 {
 "id": "f18e09ed6a2e",
 "title": "Diễn biến thị trường tài chính - tiền tệ quốc tế sáng 25/11",
@@ -397,7 +496,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T15:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-25T15:52:04+07:00"
 },
 {
@@ -872,7 +971,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T14:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-25T15:06:26+07:00"
 },
 {
@@ -1395,28 +1494,6 @@
 "published": "2026-11-25T13:50:00+07:00",
 "traffic": "100+",
 "found": "2026-11-25T14:20:47+07:00"
-},
-{
-"id": "455e0036f323",
-"title": "Chính sách tiếp sức, đồng bào chủ động thoát nghèo",
-"link": "https://vietnamnet.vn/chinh-sach-tiep-suc-dong-bao-chu-dong-thoat-ngheo-2577640.html",
-"summary": "Từ những gia đình vượt qua khó khăn, ổn định sinh kế đến những mái nhà mới nơi vùng cao, hiệu quả chính sách giảm nghèo đang tiếp thêm niềm tin, khơi dậy tinh thần tự lực và ý chí vươn lên của đồng bào dân tộc thiểu số.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/chinh-sach-tiep-suc-dong-bao-chu-dong-thoat-ngheo-2527.jpeg?width=0&s=A0nChhsXdbhJ_gwVRCLJ7Q",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-25T13:48:55+07:00",
-"found": "2026-11-25T13:50:28+07:00"
-},
-{
-"id": "4ae7a5da395e",
-"title": "Vì sao giá vàng thế giới lao dốc, SJC liệu có về dưới 120 triệu đồng?",
-"link": "https://vietnamnet.vn/vi-sao-gia-vang-the-gioi-lao-doc-sjc-ve-duoi-120-trieu-dong-2578416.html",
-"summary": "Giá vàng thế giới lao dốc trong phiên 24/11 và tiếp tục giảm sáng 25/11. Vàng nhẫn một số thương hiệu lớn mất 1,5 triệu đồng/lượng. Trước áp lực từ Fed và đồng USD, liệu giá vàng trong nước có thể xuống dưới 120 triệu đồng/lượng?",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/vi-sao-gia-vang-the-gioi-lao-doc-sjc-lieu-co-ve-duoi-120-trieu-dong-2513.jpg?width=0&s=jJOUHBwe3zZP7zfh08TTXQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-25T13:48:20+07:00",
-"found": "2026-11-25T13:50:28+07:00"
 },
 {
 "id": "2ba4a6361b18",
@@ -2296,6 +2373,17 @@
 "found": "2026-11-25T12:14:36+07:00"
 },
 {
+"id": "10530f2b819c",
+"title": "Gặp nhà đầu tư quốc tế, ông Thomas Nguyễn nhấn mạnh: Câu chuyện tăng trưởng của Việt Nam là một trong những câu chuyện hấp dẫn nhất thế giới",
+"link": "https://cafef.vn/gap-nha-dau-tu-quoc-te-ong-thomas-nguyen-nhan-manh-cau-chuyen-tang-truong-cua-viet-nam-la-mot-trong-nhung-cau-chuyen-hap-dan-nhat-the-gioi-188261125115019883.chn",
+"summary": "Việt Nam cần những đại sứ thương hiệu và doanh nhân có tầm ảnh hưởng như Anh hùng Lao động, Tiến sĩ Nguyễn Thị Phương Thảo để lan tỏa câu chuyện đó đến cộng đồng quốc tế.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795582118088-1795582123758161724674.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T12:05:00+07:00",
+"found": "2026-11-25T16:16:24+07:00"
+},
+{
 "id": "8f8a7ab95981",
 "title": "EU siết trần nhập khẩu xe hybrid Trung Quốc",
 "link": "https://vnexpress.net/eu-siet-tran-nhap-khau-xe-hybrid-trung-quoc-5148517.html",
@@ -2802,6 +2890,17 @@
 "cat": "bds",
 "published": "2026-11-25T11:28:00+07:00",
 "found": "2026-11-25T11:44:17+07:00"
+},
+{
+"id": "147d66f04c8d",
+"title": "Gần 1.300 tài khoản ngân hàng sử dụng trong đường dây rửa tiền",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGdpcTZhNHFrVWVwckJJamFUWmJmMnB4Ykx6c3BfOC1pWnAyMVhfemp2SkR3bnNfN3h0cGZhRHRqdE1vSHhsWGJfX3lzTDhfNHFnYVBOMmk4TU10U0NvdWRWeDVERmZ5SWpmYkN6R045NExtaVA5UVRmNmhUUEpSNXI1aGR6QmFmaDFsY2dPa24xRm8wcGVQektyMA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T11:28:00+07:00",
+"found": "2026-11-25T16:16:24+07:00"
 },
 {
 "id": "29ca286336fc",
@@ -3997,17 +4096,6 @@
 "cat": "mxh",
 "published": "2026-11-25T09:30:37+07:00",
 "found": "2026-11-25T10:54:47+07:00"
-},
-{
-"id": "84b6dde5d989",
-"title": "Giá vàng hôm nay 25/11: Đà phục hồi đối mặt áp lực lớn",
-"link": "https://vietnamnet.vn/gia-vang-hom-nay-25-11-da-phuc-hoi-doi-mat-ap-luc-lon-2578291.html",
-"summary": "Giá vàng thế giới quay đầu giảm sau nhịp phục hồi mạnh từ vùng đáy 14 tháng. Kỳ vọng Fed tiếp tục tăng lãi suất trong tháng 12, cùng sự phục hồi của nhóm cổ phiếu công nghệ, đang tạo thêm sức ép lên kim loại quý.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/11-da-phuc-hoi-doi-mat-ap-luc-lon-7386.jpg?width=0&s=njficyIa2MXt_JZFw6In1Q",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-25T09:30:22+07:00",
-"found": "2026-11-25T05:11:23+07:00"
 },
 {
 "id": "199a5e8afe53",
@@ -5845,6 +5933,17 @@
 "found": "2026-11-25T14:20:47+07:00"
 },
 {
+"id": "93b054f3741d",
+"title": "Quốc phát hiện thân phận thật của người mà Phú giới thiệu là bố | Đội bóng nữ làng Xuân | Tập 22",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DUm9YNTU3aW5wN3hBWkk4R1lSS1JFalFWUFNBLWtOeWlqYkNXdVVCQ3hKTU9POFRvT19uMXRnSEQ?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-25T07:00:00+07:00",
+"found": "2026-11-22T18:30:15+07:00"
+},
+{
 "id": "613708154fc0",
 "title": "Corriere dello Sport: Højlund được cho là đã bày tỏ lòng tri ân Man Utd khi ăn mừng bàn thắng, gây xôn xao mạng xã hội",
 "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX01VMFdqMGpwR0JtNy1JQUVJM3RaZmxRdzNEWmxaTWdfYkRuSUNiV3lQYUg0SVdKUXVSQTBTRnRKRWZpczNwVV96YVktYU13aU5Cd0t3OVE1TzlnNWdNUmE4NXJETjlPandHOVpBY2VWZ2gtZVFMMVB3OVVHVThkRDlNYTV5d05vSXp2MEFoZy15QQ?oc=5",
@@ -7459,6 +7558,17 @@
 "found": "2026-11-24T23:43:15+07:00"
 },
 {
+"id": "4b0e4207faab",
+"title": "Najnowsze wiadomości: CAS postanawia „przywrócić” tytuł mistrza Pucharu Narodów Afryki 2025 Senegalowi.",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYS00eTV0T2UybDNrNWZtLUtXM2pjSlJkNGNpRGJSVGlDdUNXOEhtSmRjRUtNeEJkTkRRYnc5aEZwZTNjMzd4V2JENzAtOWUyMGFwZ1JyMEJJRGFHZjVLNTl2UG93Mk1kMEV5SWtnajNibWVqdVZwY3ZNYlJlbk5od2Y5cm5Bbms5SW9PaDl3RnZfUjlzQXp6WWJkOW9UZFFB?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T22:44:31+07:00",
+"found": "2026-11-25T16:16:24+07:00"
+},
+{
 "id": "9f71eea09fd1",
 "title": "bóng đá vô địch các câu lạc bộ châu âu",
 "link": "https://vnexpress.net/pochettino-do-loi-cho-trong-tai-khi-thua-liverpool-0-4-5147791.html",
@@ -7615,6 +7725,17 @@
 "cat": "tc",
 "published": "2026-11-24T22:18:00+07:00",
 "found": "2026-11-24T22:26:09+07:00"
+},
+{
+"id": "789a078d8862",
+"title": "Senegal chính thức được trả lại chức vô địch AFCON 2025",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRnRIdV94Uy1kV0pKdE9CazJvcXBXdUhWVHliNTRrNlMwX3JVRWYwd2NMTmZPdklGanV5ZU5TMm5zc05sMEUzcGczT1E5RkR0bWotV0lKd25pUDI2R3FPLTdyaUhES3d5SnpUNURwazNIdGVyY21RdXBKV2hPbUdBRTBCY2xQWVVWc2NJNndfbE1NS0c0MWpUb3AtYWR4Y1FT?oc=5",
+"summary": "Nguồn: BÁO SÀI GÒN GIẢI PHÓNG",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T22:15:21+07:00",
+"found": "2026-11-25T16:16:24+07:00"
 },
 {
 "id": "52857028e009",
@@ -14890,17 +15011,6 @@
 "cat": "bds",
 "published": "2026-11-24T07:00:00+07:00",
 "found": "2026-11-24T07:18:11+07:00"
-},
-{
-"id": "93b054f3741d",
-"title": "Quốc phát hiện thân phận thật của người mà Phú giới thiệu là bố | Đội bóng nữ làng Xuân | Tập 22",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DUm9YNTU3aW5wN3hBWkk4R1lSS1JFalFWUFNBLWtOeWlqYkNXdVVCQ3hKTU9POFRvT19uMXRnSEQ?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-24T07:00:00+07:00",
-"found": "2026-11-22T18:30:15+07:00"
 },
 {
 "id": "8df08ff1dff8",
@@ -27979,121 +28089,6 @@
 "cat": "xh",
 "published": "2026-11-22T22:44:00+07:00",
 "found": "2026-11-22T23:42:23+07:00"
-},
-{
-"id": "d86c767fe146",
-"title": "TP400-D6 – Động cơ tạo nên sức mạnh của vận tải cơ A400M",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajRXMkJYcDdMei1DQzBXeEhVRVpXRjJ6MEFCWkpDd010NWctS1N5WWNHOXQtcWZKUDh4SHh3ai1oNlN5bktmY2EyQWk3QXlNSTR2TGxiT19DbmVUbXJhQkFUeGtzVTFSaWxkX0RYc2VxSVpIR01OWG1Ha2dHaVI4WTk3YzlOWFl4WWVIRzAxR3U?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T22:40:36+07:00",
-"found": "2026-11-22T22:56:14+07:00"
-},
-{
-"id": "8e3434841395",
-"title": "2 ngày 1 đêm mùa 5 bất ngờ lùi lịch phát sóng tập 109, khán giả từ háo hức thành hụt hẫng",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmhWb0U1ZDNSTEtTdllrdFNfUWRxVE5EM1M5ekw2UjdGT1BPWE5fcGU3QVlHb2t5bklKY2x4akpmRmladW5JeHF2YzBuVmRqcHdpMG9YbG5FdERILTlmWXAxaGNHaEdlUGlfQ0N2Ny13UmN0bTVYbzlpajRPYlZzT3BNRklQQUVfN1prTTlwb3pOWHBNSzBudE5Ra0ppZXlRakFUdDVmaGJRZ0t2NFczeQ?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-22T22:35:35+07:00",
-"found": "2026-11-23T18:41:51+07:00"
-},
-{
-"id": "0a0807ffda7a",
-"title": "liverpool đấu với man utd",
-"link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-liverpool-mu-ruc-lua-derby-nuoc-anh-ngoai-hang-anh-c48a1813227.html",
-"summary": "Trực tiếp bóng đá Liverpool - MU: Fernandes hết lời khen Pochettino (Ngoại hạng Anh) (Tin tức 24h)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBM9axt5aCvMutRP2DjlgMMOkQrfmIZM9Cm-N7MMkUtI89KRtC6eSaj-luVok",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T22:30:00+07:00",
-"traffic": "20000+",
-"found": "2026-11-22T22:56:14+07:00"
-},
-{
-"id": "5cc699bb46f1",
-"title": "liverpool vs man utd",
-"link": "https://www.skysports.com/football/live-blog/13610924/liverpool-vs-man-utd-live-premier-league-match-updates-free-highlights-news-and-score",
-"summary": "Liverpool vs Man Utd LIVE! Premier League match updates, free highlights, news and score (Sky Sports)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjprwGmTrgi7X0pwmcm1U8KuLXqHJ2Fk2lbMhjlChBThvKoSz_Hmk3YTDu2PU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T22:30:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-22T22:56:14+07:00"
-},
-{
-"id": "c745b1c6b9e4",
-"title": "sao mai 2026",
-"link": "https://tapchitoaan.vn/thanh-hoa-gala-sao-mai-2026-noi%C2%A0%E2%80%9Cgiao-thoa%E2%80%9D-giua-cac-the-he-nghe-si-am-nhac-truyen-thong-va-hoi-tho-duong-dai16744.html",
-"summary": "Thanh Hóa: Gala Sao Mai 2026 - Nơi “Giao thoa” giữa các thế hệ nghệ sĩ, âm nhạc truyền thống và hơi thở đương đại (tapchitoaan.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrHnz3t-0WDPQ-RIophxfcxpyjyYcLLqvhzSmd8oaz8gTSxqLciftJRRWjirc",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T22:20:00+07:00",
-"traffic": "200+",
-"found": "2026-11-22T23:12:01+07:00"
-},
-{
-"id": "228745f293ed",
-"title": "Yamal lần thứ ba hỏng phạt đền tại La Liga",
-"link": "https://vnexpress.net/yamal-lan-thu-ba-hong-phat-den-tai-la-liga-5147741.html",
-"summary": "Lamine Yamal trở thành cầu thủ trẻ nhất sút hỏng ba quả phạt đền tại La Liga, khi Barca thắng ngược Villarreal 3-2 ở vòng 13 tối 22/11.",
-"image": "https://i1-thethao.vnecdn.net/2026/11/22/afp-d8an42g-v1-highres-fblespl-8077-4086-1795360571.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1ULZd01_VEokCp0Srcb_Pg",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-22T22:16:11+07:00",
-"found": "2026-11-23T03:16:24+07:00"
-},
-{
-"id": "62270be09ebf",
-"title": "pau navarro",
-"link": "https://www.goal.com/en/news/flick-explains-garcia-and-de-jong-positions-and-justifies-faith-in-adeyemi/blt4fe7555b6c6a64a4",
-"summary": "Flick explains García and De Jong positions and justifies faith in Adeyemi (Goal.com)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83K3ph4qIPdV4WuvmG6hkOx82TCg_mmCWCPZFfaa4TFKX8JRIiv-EF-hWxvM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T22:00:00+07:00",
-"traffic": "200+",
-"found": "2026-11-22T22:25:19+07:00"
-},
-{
-"id": "741a468464d3",
-"title": "lamine yamal",
-"link": "https://www.goal.com/en/news/flick-explains-garcia-and-de-jong-positions-and-justifies-faith-in-adeyemi/blt4fe7555b6c6a64a4",
-"summary": "Flick explains García and De Jong positions and justifies faith in Adeyemi (Goal.com)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83K3ph4qIPdV4WuvmG6hkOx82TCg_mmCWCPZFfaa4TFKX8JRIiv-EF-hWxvM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T22:00:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-22T22:40:47+07:00"
-},
-{
-"id": "ddf74dfb72e4",
-"title": "Sắc màu văn hóa Việt Nam hội tụ trên phố đi bộ Nguyễn Huệ ở TP.HCM",
-"link": "https://thanhnien.vn/sac-mau-van-hoa-viet-nam-hoi-tu-tren-pho-di-bo-nguyen-hue-o-tphcm-185261122213351618.htm",
-"summary": "Từ nghệ thuật truyền thống đến trình diễn ánh sáng, Tuần lễ Văn hóa - Đại đoàn kết năm 2026 tại TP.HCM mở ra nhiều không gian để người dân trải nghiệm văn hóa.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/tnw-179535746092860716608905103428946071660890510342894729999b93ae3d9ba09240177f607a72d-1795358459719766081033-59-0-1555-2394-crop-179535846884677869742.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-22T21:59:00+07:00",
-"found": "2026-11-22T22:02:03+07:00"
-},
-{
-"id": "c87cfcafe4df",
-"title": "Đối tượng nào được vay ưu đãi mua đất, xây nhà lãi suất 3%/năm?",
-"link": "https://dantri.com.vn/kinh-doanh/doi-tuong-nao-duoc-vay-uu-dai-mua-dat-xay-nha-lai-suat-3nam-20261122214125685.htm",
-"summary": "(Dân trí) - Một số hộ gia đình vùng đồng bào dân tộc thiểu số và miền núi được vay tối đa 100 triệu đồng mua đất ở, 100 triệu đồng làm nhà, với lãi suất 3%/năm và thời hạn tối đa 15 năm.",
-"image": "https://cdnphoto.dantri.com.vn/izLlUhwuf-_U61ZdLRyanm7cq6s=/2026/11/22/vay-von-1795357900960.png",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-22T21:54:34+07:00",
-"found": "2026-11-22T22:25:19+07:00"
 }
 ]
 }
