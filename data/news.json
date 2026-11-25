@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T09:47:30+07:00",
-"new": 12,
+"updated": "2026-11-25T10:02:41+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,83 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "7dbf4d946cf9",
+"title": "Giá vàng nhẫn trơn, vàng miếng sáng 25/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-25-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261124224943954.chn",
+"summary": "Giá vàng trong nước mở đầu phiên sáng 25/11 đi ngang, với vàng miếng SJC giữ mức 135 triệu đồng/lượng. Đáng chú ý, giá vàng nhẫn tại DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải tiếp tục ngang giá vàng miếng SJC ở cả hai chiều mua vào và bán ra.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/2024-du-bao-tang-manh-1751-1727664809329-17276648097311737471176-1795535287086539415806-80-0-1280-1920-crop-17955352940331109402010.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T09:59:00+07:00",
+"found": "2026-11-25T05:11:23+07:00"
+},
+{
+"id": "2d994b8edfb2",
+"title": "Xây nhà trên đất nông nghiệp, khi thu hồi có được bố trí tái định cư?",
+"link": "https://cafef.vn/xay-nha-tren-dat-nong-nghiep-khi-thu-hoi-co-duoc-bo-tri-tai-dinh-cu-188261125094916269.chn",
+"summary": "Cục Quản lý đất đai, Bộ Nông nghiệp và Môi trường trả lời công dân về vấn đề, xây nhà trên đất nông nghiệp khi thu hồi có được bố trí tái định cư hay không.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795574927154-17955749274991043815149.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T09:59:00+07:00",
+"found": "2026-11-25T10:02:41+07:00"
+},
+{
+"id": "481c370e614d",
+"title": "Điểm lại thông tin kinh tế trước ngày nghỉ Văn hoá Việt Nam",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3ZuLTh0TXhYVWpHaHVwNk9pTG1VX1hoVnU5TXdoN2dYZjNjOEVscHQ2WTg1cWxzVlgwRU1BVV9XODA1czVNTFVlejZEd3RJcERieUdYTGp2em5keEw4cTFUMl9XV3FLbGw0eGVQZEtuc0V3UndLaDIxaFhUWHN5LTNpZTN6eFFERVlmWV9JVm1CbzROdzN3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T09:57:32+07:00",
+"found": "2026-11-25T10:02:41+07:00"
+},
+{
+"id": "d05415189930",
+"title": "Metro số 1 lập kỷ lục đón khách ngày Văn hóa Việt Nam",
+"link": "https://thanhnien.vn/metro-so-1-lap-ky-luc-don-khach-ngay-van-hoa-viet-nam-185261125095614025.htm",
+"summary": "Trước lượng khách tăng cao đột biến trong ngày đầu tiên người dân được nghỉ lễ hưởng ứng Ngày Văn hóa Việt Nam (24.11), tuyến metro số 1 TP.HCM (Bến Thành - Suối Tiên) đã phải bổ sung 4 chuyến tàu, đồng thời kéo dài thời gian hoạt động đến 23 giờ, tạo điều kiện cho người dân di…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/editphotoeeexfrkwmu-1783686258-17955752454351272691783-0-80-1080-1808-crop-1795575331441459193573.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-25T09:57:00+07:00",
+"found": "2026-11-25T10:02:41+07:00"
+},
+{
+"id": "fc8ad123f404",
+"title": "Phê duyệt chủ trương đầu tư quảng trường hơn 256 tỉ đồng ở Lạng Sơn",
+"link": "https://thanhnien.vn/phe-duyet-chu-truong-dau-tu-quang-truong-hon-256-ti-dong-o-lang-son-185261125093735714.htm",
+"summary": "UBND tỉnh Lạng Sơn vừa phê duyệt chủ trương đầu tư dự án quảng trường Lạng Sơn tại khu vực sân vận động Đông Kinh, kết hợp Nhà lưu niệm Chủ tịch Hồ Chí Minh, với tổng đầu tư dự án hơn 256 tỉ đồng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/quang-truong-1-17955731090081767493224-4-0-628-998-crop-1795573532910773857449.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-25T09:55:00+07:00",
+"found": "2026-11-25T10:02:41+07:00"
+},
+{
+"id": "2d690c25d845",
+"title": "TP.HCM thu hồi hàng loạt khu đất, dự án",
+"link": "https://thanhnien.vn/tphcm-thu-hoi-hang-loat-khu-dat-du-an-185261125093353679.htm",
+"summary": "TP.HCM thông báo thu hồi nhiều khu đất do doanh nghiệp đã chấm dứt hoạt động, tự nguyện trả lại đất, không thực hiện đầy đủ nghĩa vụ tài chính về tiền thuê đất…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/img-1849-1795573923767155958887-0-0-1250-2000-crop-1795573930196791883677.jpeg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-25T09:50:00+07:00",
+"found": "2026-11-25T10:02:41+07:00"
+},
+{
+"id": "f3138475a21d",
+"title": "Tăng án phạt tù với tội làm nhục người khác, bổ sung tội danh về tài sản mã hóa",
+"link": "https://tuoitre.vn/tang-an-phat-tu-voi-toi-lam-nhuc-nguoi-khac-bo-sung-toi-danh-ve-tai-san-ma-hoa-100261123100458652.htm",
+"summary": "Bộ luật Hình sự sửa đổi mới được Quốc hội thông qua, có hiệu lực từ 1-3-2027 đã tăng án phạt tù với tội làm nhục người khác và bổ sung một số tội danh, trong đó có tội về tài sản mã hóa.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/hgxx-16112026-edit-17955747435421674069742-549-337-1706-2188-crop-17955748851291466170941.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-25T09:39:00+07:00",
+"found": "2026-11-25T10:02:41+07:00"
+},
 {
 "id": "4ea918fb369f",
 "title": "Hải Phòng kỷ niệm 80 năm Ngày truyền thống lực lượng vũ trang",
@@ -570,6 +647,17 @@
 "found": "2026-11-25T09:32:20+07:00"
 },
 {
+"id": "782cea3244cb",
+"title": "Frasers Property khai trương không gian trải nghiệm tại Hà Nội",
+"link": "https://vnexpress.net/frasers-property-khai-truong-khong-gian-trai-nghiem-tai-ha-noi-5148557.html",
+"summary": "Không gian trải nghiệm tại tòa nhà HCO, phường Cửa Nam giúp người mua, nhà đầu tư tìm hiểu danh mục bất động sản công nghiệp, nhà ở của tập đoàn.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/anmai-1795569740-1965-1795571358.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=51kOX3NOs4QPXHOCOakwxg",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-25T09:00:00+07:00",
+"found": "2026-11-25T10:02:41+07:00"
+},
+{
 "id": "d9b7f2bf8a3c",
 "title": "Nợ xấu tăng ở nhiều ngân hàng, kể cả Big 4: Áp lực từ lãi suất cao?",
 "link": "https://tuoitre.vn/no-xau-tang-o-nhieu-ngan-hang-ke-ca-big-4-ap-luc-tu-lai-suat-cao-100261124170453474.htm",
@@ -834,6 +922,17 @@
 "published": "2026-11-25T08:40:00+07:00",
 "traffic": "200+",
 "found": "2026-11-25T09:07:26+07:00"
+},
+{
+"id": "2e2e408f894b",
+"title": "Giá vàng giảm mạnh trở lại vì mối lo lãi suất cao hơn lâu hơn",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWowd3VCMm0yTjNXQ3d3TUV1Z0lJQVhEbEtVMWpRN0VHVlMzeFBnME15b2l2U0prSlNNbl93alp3aXByZGI1QVlneXBRN2tfdzFUM2xNS0tSbG9oUFhQa3U3MUszVXdkYkY2Z0ZHc0xvRExvbHVlWElKTHR3TGlJbmpCWXJldlpIU09WQmhOVzk3T21yRWNUa09B?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T08:39:27+07:00",
+"found": "2026-11-25T10:02:41+07:00"
 },
 {
 "id": "42b537e8fed7",
@@ -2454,17 +2553,6 @@
 "cat": "xh",
 "published": "2026-11-25T05:07:00+07:00",
 "found": "2026-11-25T05:37:31+07:00"
-},
-{
-"id": "7dbf4d946cf9",
-"title": "Giá vàng nhẫn trơn, vàng miếng sáng 25/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
-"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-25-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261124224943954.chn",
-"summary": "Giá vàng trong nước mở đầu phiên sáng 25/11 đi ngang, với vàng miếng SJC giữ mức 135 triệu đồng/lượng. Đáng chú ý, giá vàng nhẫn tại DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải tiếp tục ngang giá vàng miếng SJC ở cả hai chiều mua vào và bán ra.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/2024-du-bao-tang-manh-1751-1727664809329-17276648097311737471176-1795535287086539415806-80-0-1280-1920-crop-17955352940331109402010.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-25T05:00:00+07:00",
-"found": "2026-11-25T05:11:23+07:00"
 },
 {
 "id": "9c6cb9d4ace2",
@@ -28038,94 +28126,6 @@
 "published": "2026-11-22T09:50:00+07:00",
 "traffic": "500+",
 "found": "2026-11-22T10:20:03+07:00"
-},
-{
-"id": "a86deb60c9a3",
-"title": "Vàng miếng mất 4 triệu đồng trong tuần qua khi giá thế giới giảm 8,6%",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVU4RFJHYUtkY1ZxZjlOVmJmTGN4dDJFbEpEcVBvQTMwOF9WbUl5VDVubjJzelRhM1c0TDZJYU5VcDAyZWRmOUI5WV9oeGJJYzVDemtGR25nRzRYVUViMDdueVA3M1hJbWFOV2RJRVJwUmdHYjVFOExzQ0N6RTh0TWloRklndlE3YXZiemFYSUItZUpkV1BFWE5oaWFKZE9wLWVV?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T09:48:00+07:00",
-"found": "2026-11-22T10:45:30+07:00"
-},
-{
-"id": "6d55d0d17481",
-"title": "Ôm 'núi nợ' 80 triệu USD, đối tác KFC đang làm chủ 84 nhà hàng xin bảo hộ phá sản",
-"link": "https://tuoitre.vn/om-nui-no-80-trieu-usd-doi-tac-kfc-dang-lam-chu-84-nha-hang-xin-bao-ho-pha-san-100261122091120756.htm",
-"summary": "Doanh thu lao dốc, gánh khoản nợ hơn 80 triệu USD và đứng trước nguy cơ mất quyền nhượng quyền từ KFC, Taco Bell, một doanh nghiệp phải xin bảo hộ phá sản và rao bán 84 nhà hàng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/screenshot-2026-11-22-at-085633-1795312612520318290919-66-68-744-1153-crop-179531275775857255275.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-22T09:46:00+07:00",
-"found": "2026-11-22T11:00:40+07:00"
-},
-{
-"id": "3fb674ccf7f7",
-"title": "Phong cách \"áo da doanh nhân\" có lung lay sau sóng gió của cựu CEO Nvidia?",
-"link": "https://dantri.com.vn/kinh-doanh/phong-cach-ao-da-doanh-nhan-co-lung-lay-sau-song-gio-cua-cuu-ceo-nvidia-20261122080903253.htm",
-"summary": "(Dân trí) - Từng là biểu tượng đột phá giúp Jensen Huang định vị hình ảnh, chiếc áo khoác da quen thuộc bỗng rơi vào tâm điểm tranh luận sau khi ông rời ghế điều hành Nvidia giữa biến cố đời tư.",
-"image": "https://cdnphoto.dantri.com.vn/XbLtkfC8ODuLSn4X_YUDDceTtz0=/2026/11/22/jensen-huang-jacket-cropped-1795309498776.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-22T09:44:01+07:00",
-"found": "2026-11-22T10:20:03+07:00"
-},
-{
-"id": "d43058da981c",
-"title": "MAUR tham vấn phương án lựa chọn nhà thầu cho 3 dự án đường sắt đô thị",
-"link": "https://cafef.vn/maur-tham-van-phuong-an-lua-chon-nha-thau-cho-3-du-an-duong-sat-do-thi-188261122091032775.chn",
-"summary": "TPHCM đặt mục tiêu đến năm 2030 hoàn thành 8 tuyến đường sắt đô thị dài khoảng 255km, đến năm 2035 phát triển mạng lưới khoảng 532km.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795313104175-17953131049151598780261.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-22T09:41:00+07:00",
-"found": "2026-11-22T09:48:59+07:00"
-},
-{
-"id": "00ec5d25d835",
-"title": "Công an lấy lời khai người dùng dao tấn công tài xế taxi công nghệ ở TP.HCM",
-"link": "https://kenh14.vn/cong-an-lay-loi-khai-nguoi-dung-dao-tan-cong-tai-xe-taxi-cong-nghe-o-tphcm-215261122092312674.chn",
-"summary": "Công an lấy lời khai người đàn ông để làm rõ hành vi dùng dao tấn công nam tài xế taxi thương tích sau khi xảy ra mâu thuẫn.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795314120780-17953141212281008489253.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-22T09:41:00+07:00",
-"found": "2026-11-22T10:04:32+07:00"
-},
-{
-"id": "3b3f74a1333c",
-"title": "Lãnh đạo Đất Kinh Tuyến Số Một lãnh án 20 năm tù",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1UtUllYX1puQzNUNW1fZ2xFN2F4R3AxTGRraXVyN04zS3djQlRjbmhfc0g5aUl2TEpwanRleV9jMGhaUUlzaWJCWXlDdnlHcGVzYUtpVnAxQVpjZU5aY2lVNkV4ODdmaE5ISXVMa0pJTDRublJ3b2wtVjFiQkxGNkxiaU50dW1o?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-22T09:40:00+07:00",
-"found": "2026-11-22T09:48:59+07:00"
-},
-{
-"id": "6f86746b3861",
-"title": "Chia tay bạn gái sau 10 năm sống chung, người đàn ông kiện đòi lại tiền",
-"link": "https://vnexpress.net/chia-tay-ban-gai-sau-10-nam-song-chung-nguoi-dan-ong-kien-doi-lai-tien-5147594.html",
-"summary": "Sau gần 10 năm chung sống, có con nhưng không đăng ký kết hôn, Trần Minh kiện bạn gái đòi lại tiền mua nhà, xe, quà tặng và các khoản chuyển khoản.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/hnqqvqzoq8pti0lvpdplltzmafll95-3189-1210-1795315099.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CJQGgpzcNP6SHXojgRAr5A",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-22T09:38:19+07:00",
-"found": "2026-11-22T10:20:03+07:00"
-},
-{
-"id": "56bd70f3b741",
-"title": "Dâu tây Trung Quốc có mẫu vượt ngưỡng thuốc bảo vệ thực vật gần 6 lần",
-"link": "https://vnexpress.net/dau-tay-trung-quoc-co-mau-vuot-nguong-thuoc-bao-ve-thuc-vat-gan-6-lan-5147587.html",
-"summary": "Một lô dâu tây tươi nhập khẩu từ Trung Quốc vừa bị phát hiện có dư lượng thuốc trừ sâu vượt ngưỡng gần 6 lần, khiến nhà chức trách yêu cầu tăng kiểm tra các lô hàng liên quan.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/22/screen-shot-at-am-1795313160-2174-1795313297.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=crNaHA_JzfIn8rsE0sh7Fw",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-22T09:34:06+07:00",
-"found": "2026-11-22T10:04:32+07:00"
 }
 ]
 }
