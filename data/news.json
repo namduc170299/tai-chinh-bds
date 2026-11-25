@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T15:36:50+07:00",
+"updated": "2026-11-25T15:52:04+07:00",
 "new": 12,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 55
+"count": 22
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,105 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "f18e09ed6a2e",
+"title": "Diễn biến thị trường tài chính - tiền tệ quốc tế sáng 25/11",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdUd1SThXcVNIbVF5VVNPOENPbHUtWjQtSHRDZWVVVnl4VzQ2N01tbWhPLW9KTFdPMy10MktUenNhejEzU0Z4cUtaaFd5SVVmMHNHM3h2bl9PN2RmRFdwZVNUdGRTOWdEM05tMUdWQ3hVZEZ0dmI2cEFVMjhBb29tLXQ3aWY4WWl0dURZbFNtVllGRjJl?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T15:47:28+07:00",
+"found": "2026-11-25T15:52:04+07:00"
+},
+{
+"id": "be1aab23a1d6",
+"title": "Việt Nam sắp có tổ hợp công nghiệp đường sắt 320ha của tỷ phú Trần Bá Dương, bên trong có dây chuyền đùn ép nhôm 10.000 tấn, dự kiến sản xuất toa tàu metro từ tháng 4/2027",
+"link": "https://cafef.vn/viet-nam-sap-co-to-hop-cong-nghiep-duong-sat-320ha-cua-ty-phu-tran-ba-duong-ben-trong-co-day-chuyen-dun-ep-nhom-10000-tan-du-kien-san-xuat-toa-tau-metro-tu-thang-4-2027-188261125154706755.chn",
+"summary": "Dự án Khu công nghiệp đường sắt và cơ khí đa dụng do Tập đoàn Trường Hải (THACO) đầu tư được định hướng sản xuất đầu máy, toa xe metro, máy khoan hầm TBM và nhiều thiết bị phục vụ xây dựng đường sắt.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795596375892-17955963767741240158962.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T15:46:00+07:00",
+"found": "2026-11-25T15:52:04+07:00"
+},
+{
+"id": "24417d81e683",
+"title": "Một cổ phiếu \"hot\" bị khối ngoại bán ròng đột biến 4.800 tỷ đồng phiên 25/11",
+"link": "https://cafef.vn/mot-co-phieu-hot-bi-khoi-ngoai-ban-rong-dot-bien-4800-ty-dong-phien-25-11-188261125151859485.chn",
+"summary": "Giao dịch của khối ngoại là điểm trừ của thị trường khi áp lực bán ròng gia tăng mạnh, tâm điểm là cổ phiếu VIC với giá trị bán ròng khoảng 4.800 tỷ đồng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/photo1621239105144-16212391052931788775925-1659-17955946941971889500921.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T15:45:00+07:00",
+"found": "2026-11-25T15:52:04+07:00"
+},
+{
+"id": "a1c2e02f3aa8",
+"title": "Một cổ phiếu ngân hàng bất ngờ \"tím lịm\", thanh khoản tăng đột biến",
+"link": "https://cafef.vn/mot-co-phieu-ngan-hang-bat-ngo-tim-lim-thanh-khoan-tang-dot-bien-188261125145357986.chn",
+"summary": "Thanh khoản với hơn 1,5 triệu cổ phiếu được sang tay, cao gấp nhiều lần mức bình quân chỉ hơn 150.000 đơn vị mỗi phiên thời gian gần đây.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/y-nghia-mau-tim-phan-loai-tinh-cach-nguoi-yeu-mau-tim-bia-17955931980831969047372-0-0-481-770-crop-179559320275684798684.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T15:45:00+07:00",
+"found": "2026-11-25T15:52:04+07:00"
+},
+{
+"id": "a171fdc5da23",
+"title": "TS. Nguyễn Thị Phương Thảo trải lòng về hành trình 20 năm làm \"cầu nối niềm tin\", mong muốn nhà đầu tư nắm bắt cơ hội vàng của thị trường vốn Việt Nam",
+"link": "https://cafef.vn/ts-nguyen-thi-phuong-thao-trai-long-ve-hanh-trinh-20-nam-lam-cau-noi-niem-tin-mong-muon-nha-dau-tu-nam-bat-co-hoi-vang-cua-thi-truong-von-viet-nam-188261125154535106.chn",
+"summary": "Theo nữ tỷ phú Nguyễn Thị Phương Thảo, dư địa của Việt Nam vẫn còn vô cùng rộng lớn ở mọi lĩnh vực, từ hạ tầng, công nghệ, giáo dục, y tế, văn hóa cho đến phát triển con người và phát triển thị trường. Bà hoàn toàn tự tin rằng các chính sách của Việt Nam hiện nay đang là những…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795596302108-17955963031481475512802.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T15:45:00+07:00",
+"found": "2026-11-25T15:52:04+07:00"
+},
+{
+"id": "4b71fc377c97",
+"title": "TH tiên phong trung hòa carbon theo chuẩn ISO 14068 ‘khó và nghiêm ngặt hàng đầu thế giới’",
+"link": "https://thanhnien.vn/th-tien-phong-trung-hoa-carbon-theo-chuan-iso-14068-kho-va-nghiem-ngat-hang-dau-the-gioi-185261125100645191.htm",
+"summary": "ISO 14068-1:2023 là một trong những tiêu chuẩn ISO khó và nghiêm ngặt nhất thế giới hiện nay. TH là khách hàng đầu tiên của Control Union trên toàn cầu xác minh trung hòa carbon theo tiêu chuẩn này.Ông Wouter Melis van Ravenhorst, Giám đốc điều hành Control Union tại Việt Nam…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/img7-1795595501473387981934-0-0-1200-1920-crop-1795595504837585495507.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-25T15:39:00+07:00",
+"found": "2026-11-25T15:52:04+07:00"
+},
+{
+"id": "3d5babc0ac6b",
+"title": "Tín dụng đón nguồn cung nhà ở xã hội mới",
+"link": "https://cafef.vn/tin-dung-don-nguon-cung-nha-o-xa-hoi-moi-18826112514313184.chn",
+"summary": "Khoảng 18.000 căn nhà ở xã hội tại TP. Hồ Chí Minh dự kiến hoàn thành các điều kiện về tiến độ xây dựng để được xem xét đưa ra thị trường trong năm nay. Cùng với việc đẩy mạnh cho vay, các ngân hàng đang chuẩn bị nguồn vốn đáp ứng nhu cầu mua nhà của người dân.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795591857377-17955918577481251528920.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T15:38:00+07:00",
+"found": "2026-11-25T15:52:04+07:00"
+},
+{
+"id": "76633dbd1446",
+"title": "Bắc Ninh đấu giá hơn 1ha đất làm nhà ở liền kề tổ dân phố Đại Bái",
+"link": "https://cafef.vn/bac-ninh-dau-gia-hon-1ha-dat-lam-nha-o-lien-ke-to-dan-pho-dai-bai-188261125150924896.chn",
+"summary": "Bắc Ninh phê duyệt phương án đấu giá quyền sử dụng đất làm Khu nhà ở tổ dân phố Đại Bái, phường Gia Bình.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795594113703-1795594113962793518507.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T15:35:00+07:00",
+"found": "2026-11-25T15:52:04+07:00"
+},
+{
+"id": "9b9168c95d52",
+"title": "Lộ diện 37 'cò lùa' trong đường dây lừa bán 600 'suất kín' nhà ở xã hội Lý Thường Kiệt",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPclRITmNqSGtVN1hhV3VHY2VKN3lic05IRlJ1Zjg2NUlIRTktNDZvVEhMLUlOWGt6Ynd4MUc1bTlBMFdSc2ZvNno5cHBoX1B2Q2hZNDBYekdReU1CRnVvN2QzSFpXSFN0ZzVqWF9XSk1KQWZyY3FaUVlhWGhjaWQxNjUzRU9jYnhSTmF3b3hLMl9iQ0JGRlpRSUdSbGtkQlJOVVlwaDhBTjkxQUlVZWNMYzRSc3RsQQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T15:35:00+07:00",
+"found": "2026-11-25T15:52:04+07:00"
+},
+{
 "id": "0ab0e89385c3",
 "title": "TPHCM cam kết đi trước về mặt bằng để hút vốn tư nhân vào 23 dự án PPP",
 "link": "https://vietnamnet.vn/tphcm-cam-ket-di-truoc-ve-mat-bang-de-hut-von-tu-nhan-vao-23-du-an-ppp-2578498.html",
@@ -222,6 +321,28 @@
 "cat": "tc",
 "published": "2026-11-25T15:34:43+07:00",
 "found": "2026-11-25T15:36:50+07:00"
+},
+{
+"id": "00ac9f27a16d",
+"title": "Vụ clip nhạy cảm bắt ghen trên ô tô: Xử phạt quản trị viên nhóm Facebook \"Garage Sale in Huế\"",
+"link": "https://kenh14.vn/vu-clip-nhay-cam-bat-ghen-tren-o-to-xu-phat-quan-tri-vien-nhom-facebook-garage-sale-in-hue-215261125144701449.chn",
+"summary": "Công an TP Huế xử phạt quản trị viên nhóm Facebook “Garage Sale in Huế” 15 triệu đồng do buông lỏng kiểm duyệt, để video nhạy cảm liên quan vụ bắt ghen trên ô tô xuất hiện trên nhóm.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/05606728530407702-0-13-592-960-crop-17937056185121091428918-0-101-529-947-crop-1793713079360922346307-1795592707491495260308-0-0-686-1098-crop-17955927107931905011823.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T15:33:00+07:00",
+"found": "2026-11-25T15:52:04+07:00"
+},
+{
+"id": "b6cc174d3fa7",
+"title": "Việt Nam đưa 42.000 cây tre ra đảo, ngâm bùn 6 tháng, hun khói 3 tuần để tạo công trình cao 15m không cần dùng đến đinh, ốc, sắt thép, bê tông: Bên trong \"giấu\" 2 biểu tượng đặc biệt",
+"link": "https://kenh14.vn/viet-nam-dua-42000-cay-tre-ra-dao-ngam-bun-6-thang-hun-khoi-3-tuan-de-tao-cong-trinh-cao-15m-khong-can-dung-den-dinh-oc-sat-thep-be-tong-ben-trong-giau-2-bieu-tuong-dac-biet-215261125152443271.chn",
+"summary": "Chỉ trong 10 tháng, đội ngũ kiến trúc sư Việt Nam và các cộng sự đã tạo nên công trình cao gần 15 m từ hàng chục nghìn cây tre, sử dụng phương pháp xử lý vật liệu có từ xa xưa.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795594945213-1795594945794359903001.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T15:32:00+07:00",
+"found": "2026-11-25T15:52:04+07:00"
 },
 {
 "id": "90eda88ff32f",
@@ -266,6 +387,18 @@
 "cat": "bds",
 "published": "2026-11-25T15:30:00+07:00",
 "found": "2026-11-25T15:36:50+07:00"
+},
+{
+"id": "fb367169281a",
+"title": "miss international 2026",
+"link": "https://ngoisao.vnexpress.net/khanh-nhu-huynh-thi-thanh-thuy-miss-international-hoa-hau-miss-world-vietnam-5148486.html",
+"summary": "Khánh Như buồn vì thiếu bố mẹ trong ngày thi Miss International (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqBEeYzYNQiAJsuJzJh5v-zWwaGql5EseWMdU92m9loT2SPUNdbPz_ai1XTo4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T15:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T15:52:04+07:00"
 },
 {
 "id": "58b765f6473f",
@@ -873,7 +1006,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T14:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-25T15:06:26+07:00"
 },
 {
@@ -27961,143 +28094,6 @@
 "cat": "tc",
 "published": "2026-11-22T21:54:34+07:00",
 "found": "2026-11-22T22:25:19+07:00"
-},
-{
-"id": "bca071a311aa",
-"title": "Phát hiện thi thể người đàn ông mặc áo đỏ trôi trên sông Rạch Muồng",
-"link": "https://tuoitre.vn/phat-hien-thi-the-nguoi-dan-ong-mac-ao-do-troi-tren-song-rach-muong-100261122183451637.htm",
-"summary": "Người dân phát hiện thi thể người đàn ông trôi trên sông Rạch Muồng, đoạn qua xã Mỹ Thành, tỉnh Đồng Tháp. Nạn nhân chưa được xác định danh tính, cơ quan chức năng đang điều tra nguyên nhân tử vong.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/kenh-1-17953603591091928930940-122-0-859-1179-crop-1795360378790575473176.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-22T21:52:00+07:00",
-"found": "2026-11-22T23:12:01+07:00"
-},
-{
-"id": "21beee059ff9",
-"title": "Mãn nhãn màn trình diễn nghệ thuật 3D mapping trên nền kiến trúc trụ sở UBND TP.HCM",
-"link": "https://tuoitre.vn/man-nhan-man-trinh-dien-nghe-thuat-3d-mapping-tren-nen-kien-truc-tru-so-ubnd-tphcm-100261122174029107.htm",
-"summary": "Tối 22-11, chương trình trình diễn nghệ thuật 3D mapping tuyệt đẹp trên nền kiến trúc trụ sở UBND TP.HCM đã chính thức mở màn cho chuỗi hoạt động chào mừng Ngày Văn hóa Việt Nam năm 2026. Chương trình do Công ty cổ phần truyền thông VINAMA thực hiện.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/2aoboreqhc7guarq1yntyrwdlalpvuof3znhho9a-17953530933811042335972-17953596856221109872529-74-60-1613-2523-crop-1795359842868906074269.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-22T21:45:00+07:00",
-"found": "2026-11-22T23:42:23+07:00"
-},
-{
-"id": "240e6d513849",
-"title": "Lệnh báo động đỏ: Đêm nghẹt thở giữ hầm xuyên núi dài nhất cao tốc Bắc - Nam",
-"link": "https://kenh14.vn/lenh-bao-dong-do-dem-nghet-tho-giu-ham-xuyen-nui-dai-nhat-cao-toc-bac-nam-21526112221305684.chn",
-"summary": "Hầm Núi Vung dài 2,2 km trên cao tốc Cam Lâm – Vĩnh Hảo là hầm xuyên núi dài nhất của tuyến cao tốc Bắc – Nam phía Đông, tổng vốn đầu tư khoảng 1.600 tỷ đồng, thời gian thi công 30 tháng. Ít ai biết, công trình từng đứng trước nguy cơ sập ngay chiều 30 Tết.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795357726596-1795357727106437433053.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-22T21:40:00+07:00",
-"found": "2026-11-22T22:02:03+07:00"
-},
-{
-"id": "6dc0305a9de6",
-"title": "cầu lạc bộ bóng đá bournemouth",
-"link": "https://znews.vn/doi-bong-ngoai-hang-anh-thang-9-tran-lien-tiep-post1698246.html",
-"summary": "Đội bóng Ngoại hạng Anh thắng 9 trận liên tiếp (Znews)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNFwBqG16q01BoaJrICL80HvMBcvufFCSRPvVRyKZFtmzkR4s7_906okCBWzg",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T21:40:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-22T22:02:03+07:00"
-},
-{
-"id": "1f43f318ae24",
-"title": "Thanh tra Chính phủ công khai loạt vi phạm tại Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0d2MzZfczh6V2hrMms3OWpEdmNGSk02MTZoODR5Q0RJME5EQ00yNWpkaUZFM0pIa3YyZFJFWUhrUll4UzgtdmRmV2VFWDNfRF9JUTJuckxfUHBjNVNCamlRV1JYMEFadTl6WGxNVm1KNXg2d2s5S083bDM2N2lxOTRmRXNVMFFycnNxZmZ5SGlWVldTUzBTZEZ5TWNsbDJJSTdyX3ZMZ3hLdzRnajJ0WXlkazFkeUNzcEtjMmdrdWdWeHc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T21:39:00+07:00",
-"found": "2026-11-23T08:08:32+07:00"
-},
-{
-"id": "d407ccb9060b",
-"title": "Đủ tuổi nghỉ hưu vẫn đóng BHXH, mức hưởng trợ cấp thay đổi ra sao?",
-"link": "https://kenh14.vn/du-tuoi-nghi-huu-van-dong-bhxh-muc-huong-tro-cap-thay-doi-ra-sao-215261122205728101.chn",
-"summary": "Các dự án luật lớn liên quan đến lao động, việc làm, bảo hiểm xã hội vừa được Quốc hội thông qua đã ban hành nhiều chính sách mới liên quan đến quyền lợi của người lao động.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795355782685-1795355783039825764066.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-22T21:35:00+07:00",
-"found": "2026-11-22T21:46:53+07:00"
-},
-{
-"id": "9d89bf5e4cd0",
-"title": "racing santander đấu với real sociedad",
-"link": "https://bongdaplus.vn/la-liga/nhan-dinh-bong-da-racing-vs-real-sociedad-22h15-ngay-22-11-khach-lan-at-5295522611.html",
-"summary": "Nhận định bóng đá Racing vs Real Sociedad, 22h15 ngày 22/11: Khách lấn át (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQNGM1Oc6WQBeOI-3txXmziz8NUxCiLIS25jFqIxfEQdcJih0e9KTzX5nkMEw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T21:30:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-22T21:46:53+07:00"
-},
-{
-"id": "83597af5b874",
-"title": "Tất cả người dân, doanh nghiệp ở Việt Nam chú ý, có mức phạt lên đến 2 tỷ đồng nếu vi phạm một việc",
-"link": "https://kenh14.vn/tat-ca-nguoi-dan-doanh-nghiep-o-viet-nam-chu-y-co-muc-phat-len-den-2-ty-dong-neu-vi-pham-mot-viec-215261122201329487.chn",
-"summary": "Đây là quy định mới vừa được Chính phủ ban hành.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795353081035-17953530818761650145593.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-22T21:25:00+07:00",
-"found": "2026-11-22T21:46:53+07:00"
-},
-{
-"id": "43c788c6bd3b",
-"title": "arsenal w.f.c. đấu với west ham",
-"link": "https://www.bbc.com/sport/football/live/c5y431zlw28mt",
-"summary": "Watch WSL: Arsenal host West Ham after Spurs stun Man City (BBC)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm3bshQ9DE0Hy0abWTDVj3-_pw_jbw6_CREuA85tc9ztB7bAd3eTe3HdsrgM0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T21:20:00+07:00",
-"traffic": "500+",
-"found": "2026-11-22T21:46:53+07:00"
-},
-{
-"id": "fe1c05bcfed7",
-"title": "maxx morando",
-"link": "https://www.bbc.com/news/articles/cq8e0p87l89lo",
-"summary": "Miley Cyrus marries Maxx Morando in California ceremony (BBC)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF4SgIbjcr4GlmnGO0NNBzjGwzKzcWJP05uHPtCv2rl1YWhXrwJ9OM2xJy5oc",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T21:20:00+07:00",
-"traffic": "100+",
-"found": "2026-11-22T21:46:53+07:00"
-},
-{
-"id": "71ae3866aefe",
-"title": "barcelona fc",
-"link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004254099/lamine-yamal-falla-penalti-villarreal.html",
-"summary": "Lamine Yamal falla el penalti ante el Villarreal (Mundo Deportivo)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqZF_SY1617RBH_QJ9qMI7EVVekt1M0jPrDWkZweEB5D1TIFbLNspPDLPyvZs",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T21:20:00+07:00",
-"traffic": "100+",
-"found": "2026-11-22T21:46:53+07:00"
-},
-{
-"id": "881ff0d460be",
-"title": "Đoàn xe tăng Đức đổi đường tới Litva 'vì lo ngại Nga'",
-"link": "https://vnexpress.net/doan-xe-tang-duc-doi-duong-toi-litva-vi-lo-ngai-nga-5147717.html",
-"summary": "Sư đoàn xe tăng Đức di chuyển bằng đường sắt, thay vì cơ động bằng đường bộ qua Ba Lan như kế hoạch, nhằm tránh khiêu khích Nga, theo Bild.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/22/Xetng-1795355934-4730-1795356411.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=IfGYi-4dbMHl7P5MWbx_mw",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-22T21:19:22+07:00",
-"found": "2026-11-23T03:16:24+07:00"
 }
 ]
 }
