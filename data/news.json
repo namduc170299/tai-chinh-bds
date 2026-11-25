@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T22:50:12+07:00",
+"updated": "2026-11-25T23:05:36+07:00",
 "new": 3,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 57
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,28 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "70bf3f230861",
+"title": "Ông Đoàn Nguyên Đức vừa tặng “món quà” hơn 50 tỷ đồng cho Campuchia",
+"link": "https://kenh14.vn/ong-doan-nguyen-duc-vua-tang-mon-qua-hon-50-ty-dong-cho-campuchia-215261125225701395.chn",
+"summary": "Món quà này sẽ mang tên Hoàng Anh Gia Lai.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795622159520-17956221599201189311294.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T22:49:00+07:00",
+"found": "2026-11-25T23:05:36+07:00"
+},
+{
+"id": "d2d3769c02d3",
+"title": "Vành đai 5 Vùng Thủ đô: Trung ương rót tối đa 61.000 tỷ đồng, 7 địa phương phải bàn giao mặt bằng từ năm 2027",
+"link": "https://kenh14.vn/vanh-dai-5-vung-thu-do-trung-uong-rot-toi-da-61000-ty-dong-7-dia-phuong-phai-ban-giao-mat-bang-tu-nam-2027-215261125224913059.chn",
+"summary": "Chính phủ yêu cầu 7 tỉnh, thành phố có tuyến Vành đai 5 đi qua rà soát quy hoạch, phát triển các khu đô thị, khu công nghiệp dọc tuyến, đồng thời nghiên cứu cơ chế phân chia nguồn thu từ các dự án này. Riêng tuyến cao tốc dài khoảng 116km được bố trí tối đa 61.394 tỷ đồng vốn…",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795621681492-17956216819111332089430.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T22:42:00+07:00",
+"found": "2026-11-25T23:05:36+07:00"
+},
 {
 "id": "ce07ff490c5f",
 "title": "Ngân hàng rao bán khoản nợ hơn 84,9 tỷ đồng của một công ty, không còn tài sản bảo đảm",
@@ -288,6 +310,17 @@
 "cat": "xh",
 "published": "2026-11-25T22:00:00+07:00",
 "found": "2026-11-25T22:06:54+07:00"
+},
+{
+"id": "0bb6db5a21d1",
+"title": "Ký hợp đồng tư vấn lớn nhất dự án đường sắt tốc độ cao Bắc Nam",
+"link": "https://vnexpress.net/ky-hop-dong-tu-van-lon-nhat-du-an-duong-sat-toc-do-cao-bac-nam-5148913.html",
+"summary": "Chiều 25/11, Ban Quản lý dự án Thăng Long ký hợp đồng tư vấn đường sắt tốc độ cao Bắc Nam trị giá hơn 10.243 tỷ đồng với liên danh 8 nhà thầu Việt Nam, Pháp và Hàn Quốc.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/420-jpg-1795618553-7279-1795618569.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FoFBvmu_aQgJZZPO3ufWWg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-25T21:56:38+07:00",
+"found": "2026-11-25T23:05:36+07:00"
 },
 {
 "id": "87ea94d61737",
@@ -700,7 +733,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T20:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-25T21:06:14+07:00"
 },
 {
@@ -28012,39 +28045,6 @@
 "source": "Báo Mới",
 "cat": "tc",
 "published": "2026-11-23T10:07:55+07:00",
-"found": "2026-11-23T10:15:47+07:00"
-},
-{
-"id": "a75335d002d0",
-"title": "Phó Thủ tướng yêu cầu tiếp tục rà soát các mỏ vật liệu xây dựng thông thường phục vụ công trình trọng điểm quốc gia",
-"link": "https://cafef.vn/pho-thu-tuong-yeu-cau-tiep-tuc-ra-soat-cac-mo-vat-lieu-xay-dung-thong-thuong-phuc-vu-cong-trinh-trong-diem-quoc-gia-188261123100449489.chn",
-"summary": "Văn phòng Chính phủ vừa phát đi văn bản số 12064/VPCP-CN truyền đạt ý kiến chỉ đạo của Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc về việc tiếp tục rà soát các mỏ vật liệu xây dựng thông thường phục vụ các công trình trọng điểm quốc gia.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795403038734-17954030391661443500718.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-23T10:04:00+07:00",
-"found": "2026-11-23T10:15:47+07:00"
-},
-{
-"id": "f91d5de35044",
-"title": "One Era ký kết hợp tác và khởi công sản phẩm thấp tầng phân khu Central District",
-"link": "https://thanhnien.vn/one-era-ky-ket-hop-tac-va-khoi-cong-san-pham-thap-tang-phan-khu-central-district-185261123103055146.htm",
-"summary": "Ngày 21.11.2026, Lễ ký kết hợp tác và khởi công phân khu Central District - dự án One Era đã diễn ra, đánh dấu cột mốc quan trọng trên hành trình phát triển đô thị quy mô lên đến 50 ha tại đông bắc TP.HCM.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/5555-17954043414961993630873-0-0-1600-2560-crop-179540448563515056259.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-23T10:04:00+07:00",
-"found": "2026-11-23T10:43:06+07:00"
-},
-{
-"id": "ca363f396ea1",
-"title": "TP Đồng Nai thành lập Ban Chỉ đạo về chính sách nhà ở và thị trường bất động sản",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmV6bGJneXNLdzduQmZKbm9ZVGxBZnYtYnFiUXk5aU5qVlM4OUFtQ3NWejhVcDg0UDhLX0o3Z3lWWm0tN0FMZmR5V0MzcDhGVWpxY09oU1RiWEZWWmhFb2tNOHNJSVd3U2JxNnpIY29uenFPck9QSzNYQzhMdHE0enVhSVFKYXJWdFlYclNaX0lkV05nTnYyN2p1Z3RvSlpKYTFQaXFkTFd4SkZSZGFPTWtwYw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T10:03:00+07:00",
 "found": "2026-11-23T10:15:47+07:00"
 }
 ]
