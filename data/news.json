@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T18:27:26+07:00",
-"new": 5,
+"updated": "2026-11-25T18:42:41+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 57
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,72 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "4900a789c66f",
+"title": "SeABank chính thức bổ nhiệm Tổng giám đốc mới",
+"link": "https://thanhnien.vn/seabank-chinh-thuc-bo-nhiem-tong-giam-doc-moi-185261125180914351.htm",
+"summary": "Ngày 25.11, Hội đồng quản trị (HĐQT) Ngân hàng TMCP Đông Nam Á (SeABank) chính thức bổ nhiệm ông Lê Văn Tần giữ chức vụ Tổng giám đốc.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/seabank-anh-4-17956047498281996406839-0-121-1440-2425-crop-17956048970121797083557.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-25T18:37:00+07:00",
+"found": "2026-11-25T18:42:41+07:00"
+},
+{
+"id": "055c34a9e2dd",
+"title": "Thứ trưởng Bộ Công an thông tin xử lý 'sốt giá đất ảo' qua đấu giá",
+"link": "https://thanhnien.vn/thu-truong-bo-cong-an-thong-tin-xu-ly-sot-gia-dat-ao-qua-dau-gia-185261125181556084.htm",
+"summary": "Trước phản ánh của cử tri TP.HCM về tình trạng đấu giá đất cao bất thường rồi bỏ cọc, gây 'sốt giá đất ảo', Thứ trưởng Bộ Công an Lê Quốc Hùng thông tin về việc xử lý sai phạm.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/dau-gia-dat-ao-1795605060416339534497-0-265-1275-2305-crop-1795605309411983702734.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-25T18:35:00+07:00",
+"found": "2026-11-25T18:42:41+07:00"
+},
+{
+"id": "e5fe4e92d793",
+"title": "Thứ trưởng Bộ Công an thông tin xử lý 'sốt giá đất ảo' qua đấu giá",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeDRsV1VRNjg5RFNsUzZWZlNITDJJV0dSNHBtOVdTRjNfOEs4bmJmSng3Vy0zSk80YUhlOGM1aTdoYjljTU1MRHBBNXBTQVFoZFE0OGhycElQNzkycmNVeGNjVnQ0RG9yMHljeVc3U1F3OWJpMzZKXzhBT2xGR2JpLVV5S25DMndfam9iSkl5clNHTWVPVjgzMzdIRFlKaEcyeHEteWFBcDU2ai1N?oc=5",
+"summary": "Nguồn: Thanh Niên",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-25T18:35:00+07:00",
+"found": "2026-11-25T18:42:41+07:00"
+},
+{
+"id": "a86cf8c1d2fc",
+"title": "Sau phản ánh của Báo Tiền Phong, người dân chung cư Tây Lĩnh đón niềm vui có sổ đỏ",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1lxVjh4NlQ4SjlBdXh5WGt0LU9qM3ZpVWpUSWl0ZjlXWkRmNWxsa3NveksxTUJHejlhQTFoVFozSWVEaHloTkFBTW5mZTMyTEpnTFVzSURLWWxYc3dyYWU3UkNUZk0zVE1feHlxNnUtaDhpS05HSFo1RDRpaGMzOXJobzkzVFdsQ0pzRVMwbnktdk5lcUNYRm91cjlqSmNJRHZ6bUNLWnVTOUczS192WFZsMzY?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T18:32:00+07:00",
+"found": "2026-11-25T18:42:41+07:00"
+},
+{
+"id": "4daed7944c08",
+"title": "Chính thức vận hành Dự án chống ngập 10.000 tỷ đồng tại TP.HCM",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdXEtcnFPRnBPYXVXaU5aQWxDWUNtMDlzNFRFNHVsSXlIZS1pMzRtTlNVakVPZW4zcklKc3lHOF8tRWZ6bXlkQ094ano3OXJUMGNSbERSdXdIUEdubTlnYzRQUFBubVRHMUtRSkw5dzNjbGpnMkViWmZlR2U3NFhlXzVISW5YeE9TWHNNZjJJODJ2bFFocV96WkhPVQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T18:30:00+07:00",
+"found": "2026-11-25T18:42:41+07:00"
+},
+{
+"id": "1513307d2c61",
+"title": "Lừa bán 'suất ngoại giao' nhà ở xã hội, chiếm đoạt hơn 150 tỷ đồng",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHE1al9NRkFac2lJVFZRSkFzRVVnWlVnNmpFcjlJQVVXU0E3aGxfMDlfazhld3hxd2JEcVBQc3huWjFpendXbXQ5YjQ1UGpVQzdBYUUzUE1YVnNvVEV6ZmxWdUhtTFdmT1hIVzVqU3FEblZabjVfQlU4aW0zNkh6Y3ZqRUhwU1N5cjB1WXI4b1NTbnphMFJIbXhiZVg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T18:26:00+07:00",
+"found": "2026-11-25T18:42:41+07:00"
+},
+{
 "id": "3fab365dd7b1",
 "title": "Vì sao vàng Trung Quốc giảm sâu hơn vàng thế giới 4%?",
 "link": "https://vietnamnet.vn/vi-sao-vang-trung-quoc-giam-sau-hon-vang-the-gioi-4-2578286.html",
@@ -233,6 +299,17 @@
 "cat": "xh",
 "published": "2026-11-25T18:15:04+07:00",
 "found": "2026-11-25T18:27:26+07:00"
+},
+{
+"id": "98d917917e9e",
+"title": "Lộ trình triển khai dự án đường Vành đai 5 Vùng Thủ đô",
+"link": "https://dantri.com.vn/bat-dong-san/lo-trinh-trien-khai-du-an-duong-vanh-dai-5-vung-thu-do-20261125174207563.htm",
+"summary": "(Dân trí) - Chính phủ yêu cầu chuẩn bị đầu tư đường Vành đai 5 từ năm 2026, triển khai từ năm 2027 và phấn đấu hoàn thành toàn tuyến dài khoảng 349km trước năm 2035.",
+"image": "https://cdnphoto.dantri.com.vn/JLCxLS_ZsW7aC4Efe4KuBGamokI=/2026/11/25/5-vanh-dai-hn-1782291580-7696-6405-4429-1785983079-1795593310987440911318-cropped-1795603263196.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-25T18:13:18+07:00",
+"found": "2026-11-25T18:42:41+07:00"
 },
 {
 "id": "abfb76f73da9",
@@ -266,6 +343,17 @@
 "cat": "bds",
 "published": "2026-11-25T18:09:00+07:00",
 "found": "2026-11-25T18:27:26+07:00"
+},
+{
+"id": "c1e14155a358",
+"title": "Xử lý người phụ nữ ở Hải Phòng chia sẻ thông tin sai sự thật trên Facebook",
+"link": "https://dantri.com.vn/phap-luat/xu-ly-nguoi-phu-nu-o-hai-phong-chia-se-thong-tin-sai-su-that-tren-facebook-20261125175527334.htm",
+"summary": "(Dân trí) - Không sinh sống tại địa bàn, không liên quan và không biết thực hư vụ việc, một phụ nữ vẫn đăng tải, chia sẻ thông tin sai sự thật về vụ nghi bắt cóc trẻ em ở xã Vĩnh Thuận, Hải Phòng.",
+"image": "https://cdnphoto.dantri.com.vn/7APhiex4GmoXKMMTRa1yG97SCzc=/2026/11/25/ba-t-lam-viec-voi-cong-an-cropped-1795604023435.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-25T18:06:45+07:00",
+"found": "2026-11-25T18:42:41+07:00"
 },
 {
 "id": "ba30c1b8bcaf",
@@ -653,6 +741,18 @@
 "cat": "xh",
 "published": "2026-11-25T17:23:00+07:00",
 "found": "2026-11-25T17:29:38+07:00"
+},
+{
+"id": "1155dba7d87a",
+"title": "bảng xếp hạng ngày sinh may mắn 2027",
+"link": "https://baolamdong.vn/bang-xep-hang-may-man-nam-2027-theo-ngay-thang-nam-sinh-top-1-nam-ngoai-tut-154-bac-475684.html",
+"summary": "Bảng xếp hạng may mắn năm 2027 theo ngày tháng năm sinh: Top 1 năm ngoái tụt 154 bậc (Báo Lâm Đồng)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYx-4cIxGbCgMWvXZTzOSplgoT71Lu6fFY4YPiSjUMaV2b_jjRkaloTmIBi9M",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T17:20:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-25T18:42:41+07:00"
 },
 {
 "id": "9adb1237c105",
@@ -1218,7 +1318,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T16:20:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-25T16:46:44+07:00"
 },
 {
@@ -1815,7 +1915,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T15:30:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-25T15:52:04+07:00"
 },
 {
@@ -10540,6 +10640,17 @@
 "cat": "bds",
 "published": "2026-11-24T18:31:00+07:00",
 "found": "2026-11-24T19:04:10+07:00"
+},
+{
+"id": "768e423cd544",
+"title": "Nữ nhân viên của K.O xin lỗi fan, thông báo ngừng hợp tác sau ồn ào dùng acc clone",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdzhVTEJvTE5DaHJsSWhFSVZ3U1dlQ0hyYnVYUDRxNDJpZ0h2THZlM2RRRkVKX0YxbjllMF9BZnBIazRrXy1FTWxkWWVCTFl3WGVnVDJvTHpUWGF6VUU5Mi1FbGhRLUxhTnh0eDZkVk9VQTkwRThCeDFQSWtqNXh0dXUteW8xMUZ4MUFnZWJmRG5qRVRiS2hMdDJoNGU4NHVEclFXWGEyZTZfZjU1bDRVckprU2luejdzYjhUZlI5X1JWYjNHblE?oc=5",
+"summary": "Nguồn: Hoa học trò",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T18:30:36+07:00",
+"found": "2026-11-25T18:42:41+07:00"
 },
 {
 "id": "8e93628240dd",
@@ -27928,121 +28039,6 @@
 "published": "2026-11-23T06:50:00+07:00",
 "traffic": "5000+",
 "found": "2026-11-23T07:06:46+07:00"
-},
-{
-"id": "4a54966ca895",
-"title": "âm lịch",
-"link": "https://cafef.vn/loi-khuyen-cho-3-con-giap-giau-co-may-man-nhat-nua-cuoi-thang-10-am-lich-top-1-tang-manh-tai-san-rong-nhung-phai-de-y-tieu-nhan-18826112215333091.chn",
-"summary": "Lời khuyên cho 3 con giáp giàu có, may mắn nhất nửa cuối tháng 10 Âm lịch: Top 1 tăng mạnh tài sản ròng nhưng phải để ý tiểu nhân (CafeF)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuqTHBS00399KEMudS0FJYrfFUDbuReSCbqZIJ_gOM5fT-2F5y-Y1U_-1jvcs",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T06:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-23T07:06:46+07:00"
-},
-{
-"id": "df6ce3aa3d2a",
-"title": "Nghệ An bơm nước sông 'cứu' hào thành cổ",
-"link": "https://thanhnien.vn/nghe-an-bom-nuoc-song-cuu-hao-thanh-co-185261122190925678.htm",
-"summary": "Được đầu tư hàng trăm tỉ đồng để cải tạo, nhưng hào thành cổ Vinh và kênh Bắc ở TP.Vinh cũ (Nghệ An) vẫn ô nhiễm nghiêm trọng do nước thải chưa được xử lý triệt để. Dự án bơm nước sông vào hào thành và tách nước thải được kỳ vọng sẽ cải thiện tình trạng này.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/tnw-anh-hao-thanh-3-1795349193609201416363-167-0-1767-2560-crop-179534929200624275910.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T06:48:00+07:00",
-"found": "2026-11-23T06:51:14+07:00"
-},
-{
-"id": "6e1ef2a5206e",
-"title": "Tỷ giá USD hôm nay (23-11): Đồng USD duy trì đà tăng, triển vọng tiếp tục tích cực",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjEycUtvV0F3QjZxWTEtTnVfTmQ4VXZzMnk1QlRsdzF4NzNLRjNzeDhZc2JLRW5SWFk3SjZrZ0ZHdUVKMERVZndpbXJOd2h5ZW0zZmtOR1Z3MU5qUnhlRFU1ZFFMSXJMeHN3UnZLRzhnMjUzcFZlNDc2VkZBcGY3c3VBem1qa0stR0RQeV9hcXU0akhpaS1jOVl4a0s3X3l3VWV5bDAwczlpR0UxLUYyTg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T06:48:00+07:00",
-"found": "2026-11-23T07:06:46+07:00"
-},
-{
-"id": "6bff93e33499",
-"title": "Cựu Chủ tịch Sen Tài Thu lừa đảo gần 1.000 tỉ để lấy tiền trả nợ",
-"link": "https://thanhnien.vn/cuu-chu-tich-sen-tai-thu-lua-dao-gan-1000-ti-de-lay-tien-tra-no-185261122230515337.htm",
-"summary": "Do cần tiền trả nợ và chi tiêu cá nhân, cựu Chủ tịch Tập đoàn Sen Tài Thu cùng 2 cấp dưới lên kế hoạch lừa đảo gần 1.000 tỉ đồng của các nhà đầu tư.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/bi-can-hoa-17720048487901355668261-1795390407883265825248-11-0-447-698-crop-17953904743481748805364.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T06:44:00+07:00",
-"found": "2026-11-23T06:51:14+07:00"
-},
-{
-"id": "2948116981f0",
-"title": "Tặng quà, khám bệnh, tư vấn chính sách tín dụng cho phạm nhân Trại giam Kim Sơn",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdlJpenZIQnhIN1NMS29QWHNXOTFzMWpBZmRpcUM5MkdNbkNIYnJhYnh1M1NodEszSW13clN6TFA3djhDTV9RYmVLWk5PZXdSSWp0aWI4aDFsZDBpVnBuejI3eFRXcFI1WW52aEZWbFhjMmV5blBZZVFHMm05TWpYaDRtbkgzUjNNZG5yaXYzS2ZwODJpN2Nkb0wwTzB0amJKMFREcWYzNzlla2tBM1g4?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T06:41:00+07:00",
-"found": "2026-11-23T08:31:56+07:00"
-},
-{
-"id": "3d30f675379e",
-"title": "giá cà phê hôm nay",
-"link": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2311-gia-ca-phe-trong-nuoc-va-the-gioi-on-dinh-post1352445.vov",
-"summary": "Giá cà phê hôm nay 23/11: Giá cà phê trong nước và thế giới ổn định (VOV.VN)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe6DRwZ0W36LgH07QOABgBab-X0GkPgTQM9Q8CkUq36OXGvB6jECY1iufTof4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T06:40:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-23T07:06:46+07:00"
-},
-{
-"id": "3d1431b478ed",
-"title": "anthropic",
-"link": "https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html",
-"summary": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters (Yahoo Finance)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMj7s23FnLfKHgwA_qJR38384V0sXYO0W6k8wLQrKZKKBiA_Y--AJQJBgbGA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T06:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-23T07:06:46+07:00"
-},
-{
-"id": "9b8e09a7f1e6",
-"title": "Sắp thêm 11.000 phòng khách sạn cao cấp tại Phú Quốc",
-"link": "https://cafef.vn/sap-them-11000-phong-khach-san-cao-cap-tai-phu-quoc-188261123060034072.chn",
-"summary": "Phú Quốc có thể thêm khoảng 11.000 phòng khách sạn cao cấp trong giai đoạn 2027-2030, phần lớn gia nhập thị trường vào năm 2027-2028. Quy mô nguồn cung khách sạn 4-5 sao có thể tăng gần gấp đôi so với hiện nay, chủ yếu tập trung tại Nam đảo và gắn với các thương hiệu quản lý…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795388381354-17953883817231603222205.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-23T06:33:00+07:00",
-"found": "2026-11-23T06:35:46+07:00"
-},
-{
-"id": "ddff66513f5a",
-"title": "chivas đấu với cruz azul",
-"link": "https://thethao247.vn/63-nhan-dinh-guadalajara-chivas-vs-cruz-azul-dai-chien-ngoi-dau-6h07-ngay-23-11-2026-c288-d446527.html",
-"summary": "Nhận định Guadalajara Chivas vs Cruz Azul: Đại chiến ngôi đầu, 6h07 ngày 23/11/2026 (Thể Thao 247)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjZVpejEDYMEfXEpvlQpiPGLtYhzmUVdwGG4dUwIgPQKZIFIGkb4MCfRmj95I",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T06:30:00+07:00",
-"traffic": "200+",
-"found": "2026-11-23T06:51:14+07:00"
-},
-{
-"id": "2a27e27ae5be",
-"title": "cà phê",
-"link": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2311-gia-ca-phe-trong-nuoc-va-the-gioi-on-dinh-post1352445.vov",
-"summary": "Giá cà phê hôm nay 23/11: Giá cà phê trong nước và thế giới ổn định (VOV.VN)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe6DRwZ0W36LgH07QOABgBab-X0GkPgTQM9Q8CkUq36OXGvB6jECY1iufTof4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T06:30:00+07:00",
-"traffic": "500+",
-"found": "2026-11-23T06:51:14+07:00"
 }
 ]
 }
