@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T03:11:16+07:00",
-"new": 3,
+"updated": "2026-11-26T03:17:56+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 56
+"count": 22
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "e85b1bc135fd",
+"title": "Việt Nam có thể có thêm khu du lịch biển rộng 960ha tại vùng đất có địa thế đặc biệt “một bên đồi, một bên biển”: Tổng vốn đầu tư đề xuất lên tới 28.000 tỷ đồng",
+"link": "https://kenh14.vn/viet-nam-co-the-co-them-khu-du-lich-bien-rong-960ha-tai-vung-dat-co-dia-the-dac-biet-mot-ben-doi-mot-ben-bien-tong-von-dau-tu-de-xuat-len-toi-28000-ty-dong-215261125225309711.chn",
+"summary": "Một vùng đất sở hữu địa thế đặc biệt đang được nhắm tới cho dự án nghỉ dưỡng quy mô lớn, với những tham vọng không chỉ dừng lại ở du lịch biển.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795621904860-17956219057011256579355.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T03:08:00+07:00",
+"found": "2026-11-26T03:17:56+07:00"
+},
+{
 "id": "9245d83a21c8",
 "title": "Trớ trêu chuyển nhầm 300 triệu vào tài khoản người đang vay nợ, ngân hàng tự động trừ luôn 261 triệu đồng, không đồng ý trả lại",
 "link": "https://cafef.vn/tro-treu-chuyen-nham-300-trieu-vao-tai-khoan-nguoi-dang-vay-no-ngan-hang-tu-dong-tru-luon-261-trieu-dong-khong-dong-y-tra-lai-188261125162851362.chn",
@@ -222,6 +233,18 @@
 "cat": "tc",
 "published": "2026-11-26T03:04:00+07:00",
 "found": "2026-11-26T03:11:16+07:00"
+},
+{
+"id": "3cc8a6e25aea",
+"title": "mu",
+"link": "https://znews.vn/real-madrid-bat-dau-lo-ngai-ve-than-dong-mu-post1699031.html",
+"summary": "Real Madrid bắt đầu lo ngại về thần đồng MU (Znews)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGi9wqHflVKDK-EYKiPj7pDjWO55xYZ4rNhZsoVlMV7vsQWotfwdOsBT0qF00",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T03:00:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-26T03:17:56+07:00"
 },
 {
 "id": "5f62b5414eff",
@@ -234,6 +257,18 @@
 "published": "2026-11-26T02:50:00+07:00",
 "traffic": "200+",
 "found": "2026-11-26T03:11:16+07:00"
+},
+{
+"id": "782000f48600",
+"title": "xem bóng đá trực tiếp hôm nay",
+"link": "https://thethao247.vn/63-nhan-dinh-u17-uganda-vs-u17-new-caledonia-bai-toan-xuyen-pha-cua-uganda-19h30-ngay-25-11-2026-c288-d446691.html",
+"summary": "Nhận định U17 Uganda vs U17 New Caledonia: Bài toán xuyên phá của Uganda, 19h30 ngày 25/11/2026 (Thể Thao 247)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYGcYaRizofIsxEwWAwFKue04DWOcSaD-5TcdcLn6uq9DxIujcSYOVj1MxoTw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T02:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T03:17:56+07:00"
 },
 {
 "id": "cea06e57294f",
@@ -268,7 +303,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T02:40:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-26T03:11:16+07:00"
 },
 {
@@ -341,6 +376,17 @@
 "cat": "xh",
 "published": "2026-11-26T01:53:00+07:00",
 "found": "2026-11-26T02:12:10+07:00"
+},
+{
+"id": "e8659a2d7039",
+"title": "Thứ trưởng Bộ Công an thông tin xử lý 'sốt giá đất ảo' qua đấu giá",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ09aZDJfZ29VOXJZUFpzOVhVa0lfX1NHOUZjZTRGTzFKSGVSTVhUUTBCMVA0UmhqQzk5VjJQcjJqZ000MFM3WmIyS2F5bVp5UnRoemMtZ3BXMGZTSi1iUVptLVdka2llWXpKTHh3R3ZpdHpJeXNDcmtfSkRJY0dDYXk0WWxUdU0wVXljRzNsN1g?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T01:39:33+07:00",
+"found": "2026-11-26T03:17:56+07:00"
 },
 {
 "id": "2fcc726a685a",
@@ -2599,17 +2645,6 @@
 "summary": "Trước phản ánh của cử tri TP.HCM về tình trạng đấu giá đất cao bất thường rồi bỏ cọc, gây 'sốt giá đất ảo', Thứ trưởng Bộ Công an Lê Quốc Hùng thông tin về việc xử lý sai phạm.",
 "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/dau-gia-dat-ao-1795605060416339534497-0-265-1275-2305-crop-1795605309411983702734.jpg",
 "source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T18:35:00+07:00",
-"found": "2026-11-25T18:42:41+07:00"
-},
-{
-"id": "e5fe4e92d793",
-"title": "Thứ trưởng Bộ Công an thông tin xử lý 'sốt giá đất ảo' qua đấu giá",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeDRsV1VRNjg5RFNsUzZWZlNITDJJV0dSNHBtOVdTRjNfOEs4bmJmSng3Vy0zSk80YUhlOGM1aTdoYjljTU1MRHBBNXBTQVFoZFE0OGhycElQNzkycmNVeGNjVnQ0RG9yMHljeVc3U1F3OWJpMzZKXzhBT2xGR2JpLVV5S25DMndfam9iSkl5clNHTWVPVjgzMzdIRFlKaEcyeHEteWFBcDU2ai1N?oc=5",
-"summary": "Nguồn: Thanh Niên",
-"image": "",
-"source": "Google News",
 "cat": "xh",
 "published": "2026-11-25T18:35:00+07:00",
 "found": "2026-11-25T18:42:41+07:00"
@@ -28031,39 +28066,6 @@
 "cat": "tc",
 "published": "2026-11-23T11:00:00+07:00",
 "found": "2026-11-23T11:13:32+07:00"
-},
-{
-"id": "8ce1ce7b620f",
-"title": "15 đại lý đồng hành đưa The Spark ra thị trường",
-"link": "https://vnexpress.net/15-dai-ly-dong-hanh-dua-the-spark-ra-thi-truong-5147914.html",
-"summary": "Lễ ra quân phân khu The Spark thuộc dự án The Heritage Tay Ninh quy tụ hơn 500 chuyên viên kinh doanh từ 15 đại lý phân phối, đánh dấu bước khởi động kinh doanh tại Tây Ninh.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/tt2-1795405022-5579-1795405080.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=T1kG4t1ZcvVY8jiH7V7fCA",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-23T11:00:00+07:00",
-"found": "2026-11-23T11:41:14+07:00"
-},
-{
-"id": "25ca9dbb19a3",
-"title": "Nhà đầu tư được kiểm chứng giá trị thực tại Nam Long II Central Lake",
-"link": "https://dantri.com.vn/bat-dong-san/nha-dau-tu-duoc-kiem-chung-gia-tri-thuc-tai-nam-long-ii-central-lake-20261123100422034.htm",
-"summary": "(Dân trí) - Với hệ tiện ích đã vận hành, lợi thế pháp lý, gần 2.000 cư dân sinh sống và kinh doanh, Nam Long II Central Lake đang chứng minh giá trị thực của một khu đô thị tích hợp tại Nam Cần Thơ.",
-"image": "https://cdnphoto.dantri.com.vn/_0K8nKVigv63G6_5UPH2BEzo8w8=/2026/11/23/pr-23-nliicllen-baidocx-1795402881728.png",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-23T11:00:00+07:00",
-"found": "2026-11-23T11:41:14+07:00"
-},
-{
-"id": "f588533370a9",
-"title": "Giá bạc ngày 23/11: Bạc thế giới chịu sức ép khi kỳ vọng Fed tăng lãi suất, bạc trong nước đi ngang",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMVdpZE9BcXFaU2VXeUEyMi1hUS1oS2daZGRsVnA0cWF3c1NuTVdJQXVsR29xS0lyODM3alRQT1BXT3Z0NnBhWExLZnR0SDhnRnpudml1OGhvalloRWFfXzd4UzVjRmpwMElqdVRhMWs1R1RtMTdSLWtVNDgzb09abDhmZ0VGSmFsN2E0Sm1NM1VqLTlCVUpyRUFDZ1ZMbG90NXlXQmZwLUc1YjV5MGJHMU9qWk1lTWxkb0oyclc4T1Flbks5LW9sa2tn?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T11:00:00+07:00",
-"found": "2026-11-23T11:41:14+07:00"
 }
 ]
 }
