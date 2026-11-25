@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T21:36:40+07:00",
-"new": 7,
+"updated": "2026-11-25T21:51:40+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 56
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,72 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "87ea94d61737",
+"title": "Khối ngoại bất ngờ bán ròng 5.200 tỷ đồng, cổ phiếu nào bị xả nhiều nhất?",
+"link": "https://vneconomy.vn/khoi-ngoai-bat-ngo-ban-rong-5200-ty-dong-co-phieu-nao-bi-xa-nhieu-nhat.htm",
+"summary": "Dòng tiền ngoại tiếp tục phân hóa mạnh, với hoạt động bán ròng tập trung tại VIC, tạo thêm sức ép lên diễn biến thị trường.",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/8c4f2491280849d991228f49635cc70a-138729.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-25T21:51:06+07:00",
+"found": "2026-11-25T21:51:40+07:00"
+},
+{
+"id": "163b0c6cbc85",
+"title": "Vụ ném bé trai 4 tuổi xuống sông ở An Giang: Đề nghị truy tố bị can tội giết người",
+"link": "https://thanhnien.vn/vu-nem-be-trai-4-tuoi-xuong-song-o-an-giang-de-nghi-truy-to-bi-can-toi-giet-nguoi-185261125202616334.htm",
+"summary": "Công an tỉnh An Giang đề nghị truy tố Huỳnh Hồng Hải (43 tuổi) về tội giết người. Hải là bị can ném bé trai 4 tuổi xuống sông Long Xuyên.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/ca-ag-179561247446582423305-0-13-576-935-crop-1795613049991158636792.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-25T21:49:00+07:00",
+"found": "2026-11-25T21:51:40+07:00"
+},
+{
+"id": "c7109c9ce406",
+"title": "Ai 'rót' hơn 16.400 tỷ làm đường trên cao nối cao tốc Biên Hòa - Vũng Tàu?",
+"link": "https://cafef.vn/ai-rot-hon-16400-ty-lam-duong-tren-cao-noi-cao-toc-bien-hoa-vung-tau-188261125204911975.chn",
+"summary": "Dự án đường trên cao dọc quốc lộ 51 dài hơn 6 km, quy mô 6 làn xe, kết nối từ Ngã tư Vũng Tàu đến nút giao cao tốc Biên Hòa - Vũng Tàu, do liên danh gồm 4 doanh nghiệp đề xuất đầu tư theo hình thức BOT.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795614466150-1795614473766799628081.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T21:48:00+07:00",
+"found": "2026-11-25T21:51:40+07:00"
+},
+{
+"id": "eaf8cb7d6615",
+"title": "Phó Tổng Giám đốc SHB: Khách hàng có thể kiên nhẫn xếp hàng ăn mì ramen ở Nhật nhưng lại dễ sốt ruột khi gọi tổng đài",
+"link": "https://cafef.vn/pho-tong-giam-doc-shb-khach-hang-co-the-kien-nhan-xep-hang-an-mi-ramen-o-nhat-nhung-lai-de-sot-ruot-khi-goi-tong-dai-188261125212118582.chn",
+"summary": "Theo lãnh đạo SHB, khoảng cách giữa hiệu quả vận hành và trải nghiệm thực tế của khách hàng vẫn hiện hữu. Để thu hẹp, doanh nghiệp không chỉ cần tối ưu quy trình mà còn phải thay đổi cơ chế quản trị, phân định rõ trách nhiệm đối với trải nghiệm khách hàng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795616449657-1795616450500203107975.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T21:46:00+07:00",
+"found": "2026-11-25T21:51:40+07:00"
+},
+{
+"id": "ad7b6eb52c54",
+"title": "SeABank chính thức bổ nhiệm Tổng giám đốc và Phó Tổng giám đốc thường trực",
+"link": "https://cafef.vn/seabank-chinh-thuc-bo-nhiem-tong-giam-doc-va-pho-tong-giam-doc-thuong-truc-188261125212335632.chn",
+"summary": "SeABank vừa kiện toàn bộ máy lãnh đạo cấp cao khi bổ nhiệm ông Lê Văn Tần giữ chức Tổng giám đốc, đồng thời đảm nhiệm vị trí Phó chủ tịch HĐQT. Ông Tần kế nhiệm ông Lê Quốc Long nghỉ hưu theo chế độ, trong khi ông Nguyễn Hồng Quang được bổ nhiệm làm Phó tổng giám đốc thường trực.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795616530442-1795616531287587842371.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T21:45:00+07:00",
+"found": "2026-11-25T21:51:40+07:00"
+},
+{
+"id": "0ac2af288e34",
+"title": "Đề nghị truy tố kẻ ném bé 4 tuổi xuống sông từ 3 năm trước ở An Giang",
+"link": "https://kenh14.vn/de-nghi-truy-to-ke-nem-be-4-tuoi-xuong-song-tu-3-nam-truoc-o-an-giang-215261125205636802.chn",
+"summary": "Trong lúc chở mẹ con người tình đi chơi, bé trai 4 tuổi nhiều lần quấy khóc nên Hải đã ném cháu trẻ xuống sông.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795614946446-179561494697598308315.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T21:36:00+07:00",
+"found": "2026-11-25T21:51:40+07:00"
+},
+{
 "id": "bb8e43db0cc5",
 "title": "Xăng giảm nhiều kỳ, vì sao cước xe khách vẫn chưa hạ?",
 "link": "https://vietnamnet.vn/xang-giam-nhieu-ky-vi-sao-cuoc-xe-khach-van-chua-ha-2577824.html",
@@ -244,6 +310,17 @@
 "cat": "bds",
 "published": "2026-11-25T21:21:00+07:00",
 "found": "2026-11-25T21:36:40+07:00"
+},
+{
+"id": "7ebc118446ae",
+"title": "Án chung thân cho kẻ \"cuồng ghen\" đâm người tình hàng chục nhát",
+"link": "https://dantri.com.vn/phap-luat/an-chung-than-cho-ke-cuong-ghen-dam-nguoi-tinh-hang-chuc-nhat-20261125193540360.htm",
+"summary": "(Dân trí) - Vũ sống chung với bà M. như vợ chồng nhưng do mâu thuẫn nên bà M. bỏ về quê ở với tình cũ. Thấy vậy, Vũ ghen tuông, thuê xe đi từ Đồng Nai xuống Đồng Tháp để sát hại nạn nhân.",
+"image": "https://cdnphoto.dantri.com.vn/ymllF6w0L_ZVDcAXm-t0TwtJ-LQ=/2026/11/25/toabao-ky-edited-1795609810654.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-25T21:17:52+07:00",
+"found": "2026-11-25T21:51:40+07:00"
 },
 {
 "id": "03037b81f592",
@@ -310,6 +387,17 @@
 "cat": "xh",
 "published": "2026-11-25T21:05:01+07:00",
 "found": "2026-11-25T20:15:30+07:00"
+},
+{
+"id": "3102186ab246",
+"title": "Cây điệp 15 m bật gốc, đè hai ôtô ở Cần Thơ",
+"link": "https://vnexpress.net/cay-diep-15-m-bat-goc-de-hai-oto-o-can-tho-5148908.html",
+"summary": "Mưa lớn kèm gió mạnh khiến cây điệp cao hơn 15 m, cạnh trường học ở phường Ninh Kiều, bật gốc, đè trúng hai ôtô, tối 25/11.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/cay-diep-de-xe-1795615362-3975-1795615370.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HJyOz8TVo6ZnrcA8XguWmA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-25T21:03:48+07:00",
+"found": "2026-11-25T21:51:40+07:00"
 },
 {
 "id": "405798864ad2",
@@ -521,7 +609,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T20:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-25T20:51:04+07:00"
 },
 {
@@ -614,6 +702,18 @@
 "published": "2026-11-25T20:20:00+07:00",
 "traffic": "100+",
 "found": "2026-11-25T21:36:40+07:00"
+},
+{
+"id": "8604cf7415c7",
+"title": "xsmn hôm xổ số miền nam 25 11",
+"link": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-soc-trang-hom-nay-ngay-2511-1806501.ldo",
+"summary": "Kết quả xổ số Sóc Trăng hôm nay ngày 25.11 (Laodong.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxak-HhGvBH-tJNPfZZAwGZAeyzckjzO8y6wFWcpNTkyjH8X-TzsCRppQDIj8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T20:20:00+07:00",
+"traffic": "50000+",
+"found": "2026-11-25T21:51:40+07:00"
 },
 {
 "id": "5cbe8e0e0cc2",
@@ -27941,105 +28041,6 @@
 "cat": "xh",
 "published": "2026-11-23T09:49:00+07:00",
 "found": "2026-11-23T10:15:47+07:00"
-},
-{
-"id": "c59a5e18a644",
-"title": "Techcombank và Masterise Group đồng tài trợ độc quyền đưa di sản văn hóa Nga tới Hà Nội",
-"link": "https://vneconomy.vn/techcombank-va-masterise-group-dong-tai-tro-doc-quyen-dua-di-san-van-hoa-nga-toi-ha-noi.htm",
-"summary": "Tiếp nối hành trình đưa những di sản âm nhạc kinh điển của thế giới đến Việt Nam, Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank) và Masterise Group đồng tài trợ độc quyền hai đêm hòa nhạc “St. Petersburg Symphony Night” vào 28 và 29/11 tại Nhà hát Hồ Gươm, Hà Nội.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/23/f7ecfbab63944f51bb3698158cef5474-137766.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-23T09:48:24+07:00",
-"found": "2026-11-23T10:00:30+07:00"
-},
-{
-"id": "7a152d891b8b",
-"title": "\"Ông lớn\" ngân hàng chuẩn bị chia cổ tức tỷ lệ gần 18%",
-"link": "https://cafef.vn/ong-lon-ngan-hang-chuan-bi-chia-co-tuc-ty-le-gan-18-18826112309483776.chn",
-"summary": "Nếu phát hành đủ số cổ phiếu dự kiến, vốn điều lệ ngân hàng sẽ tăng lên khoảng 91.754,8 tỷ đồng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795402068532-1795402069021151338350-0-40-630-1048-crop-17954020837361567991406.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-23T09:48:00+07:00",
-"found": "2026-11-23T10:00:30+07:00"
-},
-{
-"id": "5d8fcb170757",
-"title": "Mẹ con bà chủ Sen Tài Thu vay 18 tỷ đồng nhưng trả nợ hơn 56 tỷ đồng",
-"link": "https://kenh14.vn/me-con-ba-chu-sen-tai-thu-vay-18-ty-dong-nhung-tra-no-hon-56-ty-dong-215261123095110201.chn",
-"summary": "Rà soát các mối quan hệ kinh tế, Cơ quan điều tra xác định mẹ con bà chủ Tập đoàn Sen Tài Thu có khoản vay chỉ hơn 18 tỷ đồng nhưng phải trả tổng số tiền hơn 56 tỷ đồng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795402206892-17954022079741922383323.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-23T09:47:00+07:00",
-"found": "2026-11-23T10:00:30+07:00"
-},
-{
-"id": "6b666d0b2755",
-"title": "Hà Nội giao hơn 3.000m² đất làm Dự án đầu tư xây dựng nhà ở xã hội Tân Thiên Lộc",
-"link": "https://cafef.vn/ha-noi-giao-hon-3000m-dat-lam-du-an-dau-tu-xay-dung-nha-o-xa-hoi-tan-thien-loc-188261123090634297.chn",
-"summary": "UBND TP.Hà Nội vừa có quyết định giao hơn 3.000m² đất cho Đầu tư và Thương mại Long Biên làm Dự án đầu tư xây dựng nhà ở xã hội Tân Thiên Lộc.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795399551724-17953995534482019409563.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-23T09:47:00+07:00",
-"found": "2026-11-23T10:00:30+07:00"
-},
-{
-"id": "043209b53464",
-"title": "Hà Nội đưa chuyển đổi số vào quản lý chuỗi cung ứng thực phẩm",
-"link": "https://vietnamnet.vn/ha-noi-dua-chuyen-doi-so-vao-quan-ly-chuoi-cung-ung-thuc-pham-2576406.html",
-"summary": "Nhằm tháo gỡ điểm nghẽn an toàn thực phẩm, Hà Nội không chỉ tăng cường kiểm tra, xử lý vi phạm mà còn chủ động đưa khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số vào quản lý chuỗi cung ứng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/20/ha-noi-dua-chuyen-doi-so-vao-quan-ly-chuoi-cung-ung-thuc-pham-986.jpg?width=0&s=brUTGo_by1ntK9jqr0zVAA",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-23T09:45:07+07:00",
-"found": "2026-11-23T10:00:30+07:00"
-},
-{
-"id": "a48232383413",
-"title": "Hướng tới 'Thiết kế tại Việt Nam' và 'Phát triển tại Việt Nam', từng bước xây dựng thương hiệu riêng biệt",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUkRfMFFuOFYtWXlKU3loMWNnRTRhTzdTejNabVFCZ0NxVjZTXzRObGxVWnd1VXVCcF8zN1Q2eFpWNHJZRlZvNng3R2JURXJ2NHZDYTB0S0Z5OWpyWjlkdTh4S0Vqb3A2ekJUVVRtcHhGUDd5eVhXam1MZFNyOGx5NzBWenBIY1Z5MkxGOVdqRURIS1MxeGJoNFdwYWh3dlEzRDB4M0JaT1hJQjRnNGdtS0JIVnM1N19iWGMyNTdQX1R5MFNIY3JFU0NKbFV1Zw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T09:45:00+07:00",
-"found": "2026-11-23T10:00:30+07:00"
-},
-{
-"id": "28e232a23dc2",
-"title": "Xã Thường Tín kiểm đếm xong 96% đất đai nằm trong phạm vi thi công dự án quốc lộ 1A",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORTNBZW0yUHJ1UnVibWtqTWlzeWllZ2dhd19fWVo0bVBJOFlaOG0tc0dUejRoLXNqODdLM2hnTHZ4dkRGZTNUQXZxTXZyaFBaY2ZrMUo3Q1AyNDl5NnBLT2tnVldIT0hvdUNtenNoWUR6ZGhnNE1aSUxsazNzSElJRTUteUJBY0d0RVRuRE1xX1BtNHFkWHc3ckxWaFZJcDNHOFlIeVl1ZkptbkluNHd3cFVXZWJ1QQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T09:43:00+07:00",
-"found": "2026-11-23T10:00:30+07:00"
-},
-{
-"id": "792a5ff9465d",
-"title": "Vụ Sen Tài Thu: 26 tỉ đồng giấu dưới gầm giường để mang đi 'chạy án'",
-"link": "https://thanhnien.vn/vu-sen-tai-thu-26-ti-dong-giau-duoi-gam-giuong-de-mang-di-chay-an-185261122234318543.htm",
-"summary": "Vợ chồng cựu Tổng giám đốc Sen Tài Thu 3 lần mang 26 tỉ đồng, giấu dưới gầm giường để nhờ 'chạy án', nhưng cuối cùng lại bị lừa đảo.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/edit-sen-tai-thu-17953992035261193160848-10-0-929-1470-crop-1795399213865519950428.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T09:41:00+07:00",
-"found": "2026-11-23T09:45:15+07:00"
-},
-{
-"id": "7dc801fb9dab",
-"title": "Mạng lưới metro TP.HCM đến năm 2050 đi qua những đâu?",
-"link": "https://thanhnien.vn/mang-luoi-metro-tphcm-den-nam-2050-di-qua-nhung-dau-185261122183513527.htm",
-"summary": "Từ 19,7 km tuyến số 1 Bến Thành - Suối Tiên đã vận hành, TP.HCM xác định ưu tiên 8 tuyến metro dài khoảng 255 km đến năm 2030 và một mạng lưới hơn 750 km vào năm 2050.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/thumb-metro-17953477779171145609180.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T09:41:00+07:00",
-"found": "2026-11-23T09:45:15+07:00"
 }
 ]
 }
