@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T18:42:41+07:00",
-"new": 10,
+"updated": "2026-11-25T18:57:53+07:00",
+"new": 23,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 57
+"count": 56
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,195 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "08953ce7923e",
+"title": "Ba thay đổi về thuế thu nhập cá nhân thúc đẩy quỹ đầu tư",
+"link": "https://thanhnien.vn/ba-thay-doi-ve-thue-thu-nhap-ca-nhan-thuc-day-quy-dau-tu-185261125171337292.htm",
+"summary": "Miễn thuế khi chuyển nhượng chứng chỉ quỹ mở giữ từ 2 năm, giảm 50% thuế lợi tức từ quỹ trong 5 năm, giảm trừ bảo hiểm hưu trí tới 3 triệu đồng/tháng được TS Cấn Văn Lực đánh giá là 3 chính sách thuế thu nhập cá nhân thúc đẩy sự phát triển các quỹ đầu tư.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-img5624-1795601214949480235535-43-266-1283-2250-crop-17956012684612071047219.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-25T18:55:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "8728b035a58e",
+"title": "Giả danh chủ đầu tư lừa bán 'suất' nhà ở xã hội, chiếm đoạt hơn 150 tỷ đồng",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3JreWZ3WVE0dnRFbG54cC1QRXFJZ3FyTmM3MzNfY3diVFFJTnN3NkM4V0N4bGtnRE41U2hackp5Zmk5S0VqNHlWamViWUROSHEyelJ2WEtIcXZJTV9IMkdiRkxLRVNCMEM4VjgxNGtoajFUdEx6ZVYzLTEzYThsLVJoTjF6WEtKeThnS2lld3FlLW45Z0h2VHN2eU9xUkxqbEVQby1pekI?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T18:53:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "d6a59ab33dea",
+"title": "Chốt tiến độ thu hồi đất dự án metro thành phố mới Bình Dương – Suối Tiên",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzc5QmVVMDZMYWdGT3lPUXdZUEN0dnJGOEl2ZjhrdDZaZl9oWlFmSjJGZDZmQkxsTnZacjBmVHhYRHJJcVhYSFhHbk5pODRaUXdXejNxM0lmdWtvdTJEVFJPMjRieUdPdEdiUkdVWGVZd3lRRjlyWU1zUnNkU1ZOU0NlcGp3MDU1WXdrdGtrT0tmb3ppTEpkTUIzQUFzeDJlYU0teXNjQQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T18:50:53+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "9f74801f5354",
+"title": "Thị trường bất động sản Đồng Nai kỳ vọng khởi sắc",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbmFvTWhwVmFxb2ZYZ1R6aWVDRE5sLVZTcmluV0drdjAzclBjWm5NNFNwWFJVODJoeGpXQ2M3MlhVZU1Fak9keFhiem9QRS1BaGUxXzBBY1dYZWcwSGdpZWhyOG5OLUhyaFVHZUJIdFRWVF9YN0ZRRWwyNHQ3WDE1VUJJQnRHTUE1WkE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T18:50:38+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "d03e98d33a3b",
+"title": "5 tỉnh miền Trung mưa lớn dồn dập, có nơi trên 600 mm",
+"link": "https://thanhnien.vn/5-tinh-mien-trung-mua-lon-don-dap-co-noi-tren-600-mm-18526112517273214.htm",
+"summary": "Dự báo thời tiết từ chiều tối 27.11 đến sáng 30.11, 5 tỉnh miền Trung sẽ có có mưa lớn dồn dập, lượng mưa cả đợt có nơi trên 600 mm.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-photo-1793058988833-1793058989718948592634-17956020751571602642402-110-139-748-1160-crop-1795602088217187815132.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-25T18:50:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "49e61f96afce",
+"title": "Biển số 99A-999.99 đấu giá thành công hơn 15 tỉ đồng",
+"link": "https://thanhnien.vn/bien-so-99a-99999-dau-gia-thanh-cong-hon-15-ti-dong-185261125175550109.htm",
+"summary": "Biển số xe ô tô 99A-999.999 (TP.Bắc Ninh) được đưa ra đấu giá lần thứ 3 thành công, với mức trúng đấu giá hơn 15 tỉ đồng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/edit-dau-gia-bien-so-17956040760341927169358-0-30-766-1256-crop-1795604121332423993389.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-25T18:48:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "85026be937d8",
+"title": "Chủ tịch UBND tỉnh Tô Anh Dũng nghe phương án đầu tư Dự án đường giao thông kết nối liên vùng Thanh Hóa - Phú Thọ - Sơn La",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYUM5LTBnS1IwdFBrN1RkOFFxV1JnZkdyUWNaU3RzVnVSVlROVW5kTThldEVKTXZFc2dmNzJYeDA3VW50NHdmSkNEU3RibDZ5M01tSjBnbWFwaHhqSE1RWmItOXAtZFZkQU5CTWlpWFZ5aG1pWFYzXzVyVExyNlA0Q3dTbmtHbWxXRXJuQnZMbjdxZ1RFNk15Q2RwTkZMcUU0eW1YS21iVXA4SVhoN2tpZ2xnVm5SUTVjZVItdkFPbVJHYlJDdXJISUZoMVc0ODBwNFZTMFZxZHRhLVNzb1c4NFVMV0hTUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T18:47:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "2ee96d87ba4d",
+"title": "Không gian triển lãm quảng bá thị trường chứng khoán nhân kỷ niệm 30 năm Ngày truyền thống ngành Chứng khoán Việt Nam",
+"link": "https://cafef.vn/khong-gian-trien-lam-quang-ba-thi-truong-chung-khoan-nhan-ky-niem-30-nam-ngay-truyen-thong-nganh-chung-khoan-viet-nam-188261125184755145.chn",
+"summary": "Đây là một trong những hoạt động thuộc chuỗi sự kiện kỷ niệm 30 năm Ngày truyền thống ngành Chứng khoán Việt Nam, nhằm giới thiệu những thành tựu nổi bật trong quá trình xây dựng và phát triển thị trường chứng khoán, đồng thời quảng bá hình ảnh, tiềm năng phát triển của thị…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/cong-vao-trien-lam-1795607172792578833424-229-0-1479-2000-crop-1795607180116429092546.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T18:46:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "5b24c787385c",
+"title": "Sạt lở làm tắc quốc lộ 49 ở Huế, nhiều người mắc kẹt trên đường về nhà",
+"link": "https://thanhnien.vn/sat-lo-lam-tac-quoc-lo-49-o-hue-nhieu-nguoi-mac-ket-tren-duong-ve-nha-18526112517455661.htm",
+"summary": "Mưa lớn khiến đất đá sạt xuống quốc lộ 49 ở thành phố Huế, buộc lực lượng chức năng phong tỏa cả hai chiều. Đến chiều tối 25.11, tuyến đường vẫn ách tắc, nhiều người chưa thể về nhà.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/93041587113322723160314934551292355847631993n-17956033838332141858689-166-0-1416-2000-crop-1795603406713127158794.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-25T18:46:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "01d292cae9a8",
+"title": "Công an phát thông báo quan trọng liên quan đến giấy phép lái xe, giấy chứng nhận đăng ký xe, sổ đỏ... của người dân",
+"link": "https://kenh14.vn/cong-an-phat-thong-bao-quan-trong-lien-quan-den-giay-phep-lai-xe-giay-chung-nhan-dang-ky-xe-so-do-cua-nguoi-dan-215261125185400785.chn",
+"summary": "Người dân cần thận trọng khi giao, gửi hoặc cho người khác mượn các giấy tờ quan trọng như giấy phép lái xe, giấy chứng nhận đăng ký xe, giấy chứng nhận quyền sử dụng đất...",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795607593180-17956075934171219145870.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T18:46:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "98edf2f7a2dc",
+"title": "Một cổ phiếu niêm yết \"cưa đôi\" sau chưa đầy một tháng, Chủ tịch bị bán giải chấp 6 triệu cổ phiếu, con gái tranh thủ bắt đáy",
+"link": "https://cafef.vn/mot-co-phieu-niem-yet-cua-doi-sau-chua-day-mot-thang-chu-tich-bi-ban-giai-chap-6-trieu-co-phieu-con-gai-tranh-thu-bat-day-188261125145505838.chn",
+"summary": "Cổ phiếu TIG đã trải qua chuỗi 6 phiên giảm sàn liên tiếp, có thời điểm rơi xuống vùng giá thấp nhất gần 7 năm.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/photo1650780811870-16507808121261946803873-17955932759971475914448-0-0-399-638-crop-17955932821311517875317.webp",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T18:45:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "0e4d596c3259",
+"title": "Hôm qua - 24/11, sân bay Nội Bài ghi nhận một máy bay đặc biệt cất cánh",
+"link": "https://kenh14.vn/hom-qua-24-11-san-bay-noi-bai-ghi-nhan-mot-may-bay-dac-biet-cat-canh-215261125185053928.chn",
+"summary": "Máy bay này có gì mà được gọi là máy bay đặc biệt?",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795607366880-1795607367165826489279.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T18:45:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "1a0c377d212b",
+"title": "Căn hộ cho thuê: Từ thị trường đến bài toán quản lý | Vấn đề kinh tế | 25/11/2026",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0ZBQlJQRXNvV1J0TnlwYjRQTGpkUVB5UGkza1ZtZGliRF82dDM5cGI2Q2VXT01iSHE1YmZueHhtZUFMZzVRQ25FMzNfOHlSdF9IaVZDX0Q0N2Y0eFdjaEVDX1ZEZHQ1SDFkbDNGZFRyd3QzZEVWbmsyVHF6N2dHc3lObTJsWkhBMDB5Q3huNmw0SE5jZ0RMd3RiZEd5NllLLV9QUzA5bGlDZ2wtUnc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T18:41:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "ddf0624335f9",
+"title": "Tuấn \"thần đèn\" bị truy tố 3 tội, ép bị hại vào UBND xã ký biên bản nhằm cưỡng đoạt tài sản",
+"link": "https://kenh14.vn/tuan-than-den-bi-truy-to-3-toi-ep-bi-hai-vao-ubnd-xa-ky-bien-ban-nham-cuong-doat-tai-san-215261125175659877.chn",
+"summary": "Tuấn \"Thần đèn\" bị cáo buộc chỉ đạo khai thác trái phép hơn 1,2 triệu m3 khoáng sản tại Thanh Hóa, đồng thời cùng đồng phạm cưỡng đoạt tài sản, vi phạm quy định về kế toán.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795604182246-17956041829062011221060.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T18:40:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "c4fb831238c4",
+"title": "hoàng hậu tái hôn",
+"link": "https://tuoitre.vn/webtoon-hoang-hau-tai-hon-gay-sot-nho-phim-chuyen-the-100261123144027437.htm",
+"summary": "Webtoon 'Hoàng hậu tái hôn' gây sốt nhờ phim chuyển thể (Tuổi Trẻ)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4WI-V__nIcXyHT0nrvk_hoKEq1rjA4e5hJDn_-QVDUi5Yx47zBPGOBjOx2K0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T18:40:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "0113a1c081b1",
+"title": "trần cát ninh",
+"link": "https://vnexpress.net/trung-quoc-dieu-tra-bi-thu-thuong-hai-5148567.html",
+"summary": "Trung Quốc điều tra Bí thư Thượng Hải (VnExpress)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSd2I4mRVx7JWKUhY6_idYcllrRUyhx27Fq55zc4KfcjGv_vU_rL3q9sMCh9OQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T18:40:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
+"id": "b3a05a0be7e4",
+"title": "Thanh tra làm rõ nguồn gốc 15 thửa đất của người có nghệ danh Lý Nhã Kỳ",
+"link": "https://kenh14.vn/thanh-tra-lam-ro-nguon-goc-15-thua-dat-cua-nguoi-co-nghe-danh-ly-nha-ky-2152611251738471.chn",
+"summary": "UBND TP Đồng Nai giao Thanh tra thành phố làm rõ việc quản lý, sử dụng đất và xây dựng tại khu đất rộng khoảng 4,379ha, gồm 15 thửa đất ở xã Sông Ray, do người có nghệ danh Lý Nhã Kỳ đứng tên.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795603095146-1795603095471573136008.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T18:38:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
 "id": "4900a789c66f",
 "title": "SeABank chính thức bổ nhiệm Tổng giám đốc mới",
 "link": "https://thanhnien.vn/seabank-chinh-thuc-bo-nhiem-tong-giam-doc-moi-185261125180914351.htm",
@@ -222,6 +411,17 @@
 "cat": "tc",
 "published": "2026-11-25T18:37:00+07:00",
 "found": "2026-11-25T18:42:41+07:00"
+},
+{
+"id": "287c972a3bb4",
+"title": "Biển số ô tô 99A-999.99 trúng đấu giá hơn 15 tỷ đồng",
+"link": "https://kenh14.vn/bien-so-o-to-99a-99999-trung-dau-gia-hon-15-ty-dong-21526112517583835.chn",
+"summary": "Từng được khách hàng trả lần lượt 21,87 và 27,89 tỷ đồng nhưng bỏ cọc, biển số 99A-999.99 được đưa ra đấu giá lại lần 3, chốt giá hơn 15 tỷ đồng",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795604256072-17956042571221508296156.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T18:37:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
 },
 {
 "id": "055c34a9e2dd",
@@ -277,6 +477,17 @@
 "cat": "bds",
 "published": "2026-11-25T18:26:00+07:00",
 "found": "2026-11-25T18:42:41+07:00"
+},
+{
+"id": "dc1fe13f1542",
+"title": "Công an kêu gọi người dân dự phiên tòa xét xử bảo mẫu hành hạ trẻ ở TPHCM",
+"link": "https://dantri.com.vn/phap-luat/cong-an-keu-goi-nguoi-dan-du-phien-toa-xet-xu-bao-mau-hanh-ha-tre-o-tphcm-20261125175455201.htm",
+"summary": "(Dân trí) - Công an phường Thuận Giao (TPHCM) kêu gọi người dân tham dự phiên tòa xét xử nữ giáo viên mầm non bị truy tố tội Hành hạ người khác khi dùng dây thun bắn trẻ em.",
+"image": "https://cdnphoto.dantri.com.vn/PsMpRUtnch-Sk05_Akp2W6L2fe0=/2026/11/25/z8128400730838fca0459f83ee3ea6bb345347103e7f35-edited-1786147242693-edited-1795603953980.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-25T18:22:01+07:00",
+"found": "2026-11-25T18:57:53+07:00"
 },
 {
 "id": "3fab365dd7b1",
@@ -389,6 +600,17 @@
 "found": "2026-11-25T18:15:28+07:00"
 },
 {
+"id": "4e28c7a6d7c0",
+"title": "ACV đề xuất lùi thời hạn hoàn thành sân bay Long Thành đến 2027-2028",
+"link": "https://vnexpress.net/acv-de-xuat-lui-thoi-han-hoan-thanh-san-bay-long-thanh-den-2027-2028-5148861.html",
+"summary": "Tổng công ty Cảng hàng không Việt Nam cho biết không thể hoàn thành một số dự án thành phần sân bay Long Thành trong năm 2026, nên đề xuất điều chỉnh thời gian thực hiện đến năm 2027-2028.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/dji-d-1795603622-6464-1795604056.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gYyy-dsU4iMlmnkubjTrkg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-25T18:01:41+07:00",
+"found": "2026-11-25T18:57:53+07:00"
+},
+{
 "id": "c74ed2c29bef",
 "title": "MB góp mặt trong Top 10 thương hiệu tăng trưởng nhanh nhất ASEAN giai đoạn 2023 - 2026",
 "link": "https://thanhnien.vn/mb-gop-mat-trong-top-10-thuong-hieu-tang-truong-nhanh-nhat-asean-giai-doan-2023-2026-185261125171304435.htm",
@@ -398,6 +620,17 @@
 "cat": "tc",
 "published": "2026-11-25T18:00:00+07:00",
 "found": "2026-11-25T18:15:28+07:00"
+},
+{
+"id": "60fc110cbb88",
+"title": "Khởi công dự án nhà ở xã hội Parc Ville Hà Đông",
+"link": "https://vnexpress.net/khoi-cong-du-an-nha-o-xa-hoi-parc-ville-ha-dong-5148849.html",
+"summary": "Công ty cổ phần BV Land khởi công dự án nhà ở xã hội Parc Ville Hà Đông tại phường Phú Lương, Hà Nội, sáng 25/11.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/1795589133012-g208982008860560-2737-9251-1795601542.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=O70zNkdwYx3TBxgDnprv_A",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-25T18:00:00+07:00",
+"found": "2026-11-25T18:57:53+07:00"
 },
 {
 "id": "3a39b86941c7",
@@ -420,6 +653,17 @@
 "cat": "bds",
 "published": "2026-11-25T17:58:53+07:00",
 "found": "2026-11-25T18:27:26+07:00"
+},
+{
+"id": "252cbc331756",
+"title": "Sân bay Long Thành chậm Dự án thành phần 3, Phó Thủ tướng yêu cầu tháo gỡ",
+"link": "https://dantri.com.vn/bat-dong-san/san-bay-long-thanh-cham-du-an-thanh-phan-3-pho-thu-tuong-yeu-cau-thao-go-20261125171748383.htm",
+"summary": "(Dân trí) - Phó Thủ tướng Thường trực Phạm Gia Túc yêu cầu khẩn trương tháo gỡ khó khăn, vướng mắc tại Dự án thành phần 3 sân bay Long Thành, có phương án khắc phục triệt để những tồn tại.",
+"image": "https://cdnphoto.dantri.com.vn/GbxXFYEMiF0i2Op0fIMqgwExGi4=/2026/11/25/base64-17955976830931195011382-cropped-1795601784172.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-25T17:58:53+07:00",
+"found": "2026-11-25T18:57:53+07:00"
 },
 {
 "id": "cda3033f4cf5",
@@ -499,6 +743,18 @@
 "published": "2026-11-25T17:50:00+07:00",
 "traffic": "100+",
 "found": "2026-11-25T18:15:28+07:00"
+},
+{
+"id": "ad122129d86f",
+"title": "chung kết miss international 2026",
+"link": "https://news.laodong.vn/van-hoa-giai-tri/kha-nang-dang-quang-cua-le-phuong-khanh-nhu-o-miss-international-2026-1806238.ldo",
+"summary": "Le Phuong Khanh Nhu's chances of winning Miss International 2026 (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAciqtgRHaxE17c7Yw8iIej2f68Q24uJYbbbW10xjqiKRJETzG7ZtIiCHu2Ls",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T17:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T18:57:53+07:00"
 },
 {
 "id": "0fbb2e200f3d",
@@ -27782,263 +28038,6 @@
 "cat": "xh",
 "published": "2026-11-23T07:17:26+07:00",
 "found": "2026-11-24T03:07:58+07:00"
-},
-{
-"id": "6925bdb3b13f",
-"title": "Bản thiết kế tương lai TP.HCM với tầm nhìn 100 năm",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVBXcW53aWdKZnI2THZlT3BxTlptLW9CT2NoVnh5ekhXU1pBcEZvMTRYNjZJdG54dEVWcDdDOTcyNl9iZ0JsWExrdFp2NDlBZzliTnBacmVLelN4a0ZqcU1hcGU4WXNQY0VyaENlZ0diWTFhc18wcHZLOV93Ql82STAtRXkzVzZNZEg4?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T07:15:12+07:00",
-"found": "2026-11-23T07:22:19+07:00"
-},
-{
-"id": "bac701063cb0",
-"title": "Đọc nhanh 23-11: Chứng khoán Mỹ giảm sâu, diễn biến mới tại công ty của Bầu Đức",
-"link": "https://tuoitre.vn/doc-nhanh-23-11-chung-khoan-my-giam-sau-dien-bien-moi-tai-cong-ty-cua-bau-duc-100261123065120527.htm",
-"summary": "Chứng khoán Mỹ lao dốc trong phiên cuối tuần. Giá dầu nhích nhẹ. Trong nước, công ty của Bầu Đức chuẩn bị phát hành 400 tỉ đồng trái phiếu; Dragon Capital và VinaCapital tiếp tục gom cổ phiếu bất động sản.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/base64-1785922854243848205907-1788193118148616249080-1795132094920560032063-17953910378622012349476.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-23T07:15:00+07:00",
-"found": "2026-11-23T07:38:10+07:00"
-},
-{
-"id": "1c8ac2ad92ba",
-"title": "Quốc hội thông qua Luật Nhà ở 2026 sửa đổi: Cho phép sử dụng căn hộ chung cư cho thuê lưu trú",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU0NkR25jajFxb3Q0WVR3UncwenVQNGN5ZzJrS0xEME9zazlmWnV5OC1VSjhHdzR6eFZJRDc1MlB5dWprRVpjVkkzTnRRWWpvemV3TVBYQ1FRUVljQUFZSWphMzU1MFFZcTF2NjdZYTNOak16QTNPb0xHbE15eHBfN0pDRTh5VGdKcmJNNV9xSXQtUEY0M2JMX29xX3gzNWtuel85UzZ2NUZsY2trT2U2NGVyTGYzSTdfTVRCNmpPSGNfdWs?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T07:14:00+07:00",
-"found": "2026-11-23T07:22:19+07:00"
-},
-{
-"id": "09e415719796",
-"title": "Pochettino là HLV ra mắt tệ nhất tại Man Utd sau 100 năm",
-"link": "https://vnexpress.net/pochettino-la-hlv-ra-mat-te-nhat-tai-man-utd-sau-100-nam-5147780.html",
-"summary": "Thất bại 0-4 trước Liverpool khiến Mauricio Pochettino cân bằng kỷ lục về trận thua nặng nhất của một HLV Man Utd trong ngày ra mắt, tồn tại từ năm 1926.",
-"image": "https://vcdn1-thethao.vnecdn.net/2026/11/23/ap26326620429647-1795392360-4727-1795392623.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=m_W8NUOniuBw3aUgmKm6Xg",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-23T07:13:47+07:00",
-"found": "2026-11-23T10:43:06+07:00"
-},
-{
-"id": "960da9f8dc5d",
-"title": "tennis",
-"link": "https://www.atptour.com/en/news/alcaraz-zverev-nitto-atp-finals-2026-sunday",
-"summary": "Alcaraz dispatches Zverev, wins first Nitto ATP Finals crown (ATP Tour)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-oxXpDsK87pHivxAiLn9aTG7miKCnrLxefPgAouN0XipyK_nz4EAWw4vLazo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T07:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-23T07:38:10+07:00"
-},
-{
-"id": "786a6caa7954",
-"title": "Gỡ vướng bồi thường dự án: Cần đồng thuận và minh bạch",
-"link": "https://thanhnien.vn/go-vuong-boi-thuong-du-an-can-dong-thuan-va-minh-bach-185261122185816174.htm",
-"summary": "TP.HCM chủ động đo đạc, kiểm đếm sớm các dự án trọng điểm nhằm đẩy nhanh bồi thường. Đa số ủng hộ cơ quan chức năng gỡ nghẽn tiến độ đầu tư công và đưa ra nhiều góp ý chân thành.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/tnw-a1-17953485082802123697060-283-0-1883-2560-crop-17953487101441460882797.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T07:05:00+07:00",
-"found": "2026-11-23T07:06:46+07:00"
-},
-{
-"id": "ed78da214e6f",
-"title": "Chứng khoán tuần mới: VN-Index còn chịu áp lực giảm đến bao giờ?",
-"link": "https://tuoitre.vn/chung-khoan-tuan-moi-vn-index-con-chiu-ap-luc-giam-den-bao-gio-100261123065202583.htm",
-"summary": "Sau tuần giảm hơn 46 điểm, VN-Index đánh mất mốc 1.700 điểm trong bối cảnh dòng tiền suy yếu.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/qdi0515-1795389963167301090890-49-0-1649-2560-crop-1795391265976465846337.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-23T07:05:00+07:00",
-"found": "2026-11-23T07:38:10+07:00"
-},
-{
-"id": "104d7e2ce537",
-"title": "Hà Nội liên kết vùng, bảo đảm nguồn cung nông sản dịp Tết",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaU5rd3VVcnh6ejcxQkh0Z2poenhoWTRwYjdhdnppS2xNc0V0cklrWTBIZW50ZU5QdWlwbWdSUFdxVDJldW82SjdyVVJYelJSZVZkclZzcHJQS25FSmw1MEhNMjM3Y2s1NVRMeWhSZ2FNOC1tQmg0NGpvdENxTXFQMnRCckxXUjM0QTZ1VzdFX252UTg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T07:04:00+07:00",
-"found": "2026-11-23T09:45:15+07:00"
-},
-{
-"id": "e7787333a343",
-"title": "Thành phố nhỏ nhất Việt Nam chuẩn bị khởi công 2 dự án lớn tại đặc khu Cát Hải: Bến cảng gần 25.000 tỷ đồng có quy mô 146,2ha với tổng chiều dài cầu bến 1.800 m",
-"link": "https://cafef.vn/thanh-pho-nho-nhat-viet-nam-chuan-bi-khoi-cong-2-du-an-lon-tai-dac-khu-cat-hai-ben-cang-gan-25000-ty-dong-co-quy-mo-1462ha-voi-tong-chieu-dai-cau-ben-1800-m-188261122225728456.chn",
-"summary": "Hải Phòng đang hoàn tất công tác chuẩn bị khởi công 2 dự án tại đặc khu Cát Hải, gồm dự án xây dựng 4 bến cảng container tại Lạch Huyện với tổng vốn đầu tư 24.846 tỷ đồng và nhà máy chế tạo vật liệu tinh khiết từ nguyên liệu tổng đất hiếm sạch tại Khu công nghiệp và khu phi thuế…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/cang-nuoc-sau-17953626688441176373232-165-0-1111-1514-crop-17953626765791887461435.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-23T07:06:46+07:00"
-},
-{
-"id": "9249f845eec1",
-"title": "Văn hóa đối thoại bắt đầu từ việc biết lắng nghe",
-"link": "https://thanhnien.vn/van-hoa-doi-thoai-bat-dau-tu-viec-biet-lang-nghe-185261122203640421.htm",
-"summary": "Trong khi ai cũng muốn được bày tỏ quan điểm và thấu hiểu, việc tiếp nhận những ý kiến trái chiều lại không dễ dàng. Văn hóa đối thoại cần bắt đầu từ khả năng lắng nghe và tôn trọng tiếng nói khác biệt.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/tnw-n-khac-biet-giup-cac-thanh-vien-phoi-hop-hieu-qua-hon-trong-qua-trinh-lam-viec-nhomanh-nguyen-quynh-179535426393623170778-0-89-1125-1889-crop-17953542970111025907609-17953543089951332114660.jpeg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-23T07:06:46+07:00"
-},
-{
-"id": "78e182ca90ba",
-"title": "Phố lớn, hẻm nhỏ rợp cờ Tổ quốc mừng ngày Văn hóa Việt Nam",
-"link": "https://thanhnien.vn/pho-lon-hem-nho-rop-co-to-quoc-mung-ngay-van-hoa-viet-nam-185261122160319298.htm",
-"summary": "Những ngày cuối tháng 11, nhiều tuyến đường, khu dân cư và cả hẻm nhỏ ở TP.HCM rực đỏ sắc cờ Tổ mừng ngày Văn hóa Việt Nam.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/18-1795336839616893408841-49-0-1649-2560-crop-1795338070218118474176.jpg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-23T07:06:46+07:00"
-},
-{
-"id": "2badf99f064e",
-"title": "16 thương hiệu quốc tế giảm đến 80% dịp Black Friday",
-"link": "https://vnexpress.net/16-thuong-hieu-quoc-te-giam-den-80-dip-black-friday-5146776.html",
-"summary": "ACFC triển khai chương trình \"Black Friday 2026\" vào ngày 20-30/11, trong đó Levi’s, Mango, Swarovski, DKNY, Calvin Klein cùng nhiều thương hiệu thời trang, phụ kiện, phong cách sống ưu đãi 40-80%.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/22/image001-1795314356-2356-1795314450.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jCQRZVhjMkM59r3U-vpM8g",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-23T07:22:19+07:00"
-},
-{
-"id": "bfe6abfe2271",
-"title": "ngày 24/11",
-"link": "https://laodong.vn/du-lich/cong-dong/vi-sao-2411-la-ngay-van-hoa-viet-nam-toan-dan-duoc-nghi-le-1804909.html",
-"summary": "Vì sao 24.11 là Ngày Văn hóa Việt Nam, toàn dân được nghỉ lễ? (Laodong.vn)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShaOcfHolPGEazcku4pd9WdLpNm2K1cPtA3RUdoWlwh-FduPJ81CdONFsU84c",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T07:00:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-23T07:38:10+07:00"
-},
-{
-"id": "39e13513b210",
-"title": "rằm tháng 10",
-"link": "https://trends.google.com/trending/rss?geo=VN",
-"summary": "",
-"image": "",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T07:00:00+07:00",
-"traffic": "200+",
-"found": "2026-11-23T07:53:21+07:00"
-},
-{
-"id": "d0a5132b652f",
-"title": "Hàng nghìn người chiêm bái hộp đựng xá lị hơn 1.000 năm",
-"link": "https://vnexpress.net/hang-nghin-nguoi-chiem-bai-hop-dung-xa-li-hon-1-000-nam-5147617.html",
-"summary": "Hàng nghìn người đến Bảo tàng Nghệ An - Xô Viết Nghệ Tĩnh chiêm bái hộp đựng xá lị Tháp Nhạn, bảo vật quốc gia được phát hiện trong tháp cổ.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/hinh_1795318127-1795339289.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vGf_6flAgGvBEfSEA3kkvg",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-23T10:43:06+07:00"
-},
-{
-"id": "e4ba66e1fcc5",
-"title": "Kênh Tân Hóa – Lò Gốm với nguy cơ tái ô nhiễm | Alo VTV9",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1aVHlVT1dfMFJaZnF0eVJHM2ZnUWktdW1JOFotSC1kelFGUDhCTjhtcTFLLW5LNnhqYzRFVjltc2Y?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-23T16:11:54+07:00"
-},
-{
-"id": "d3c19089e446",
-"title": "Câu chuyện quốc tế: Khi thế giới nhận ra đã nghiện mạng xã hội | Chuyển động 24h",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB3R3g0eVY0czhIakdNNHNWMUJVNGRzV0xCLTdoOTh1ZGZraU55dVI2T0pKTGRlSks5OXlUVEtOUms?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-21T17:57:42+07:00"
-},
-{
-"id": "e04bfb81a0f7",
-"title": "Preview phim Vui lên nào anh em ơi - Tập 8 | Quý nhân của Tiến - Hưng - Thắng xuất hiện",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE05YWo0dVo2VEVIWlZHS2d3MzJZN0tWZU05WTNScHE5VElyR1pYNWhmT0JSQldoeXVLc0IzdG54T3o?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-24T15:17:23+07:00"
-},
-{
-"id": "ac8973d454d7",
-"title": "Sinh thừa nhận không dám yêu Diệu | Dưới ô cửa sáng đèn | Tập 29",
-"link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sZ1pQbVdOS1lPaC1YZnVYWlloR2tvb3JvQ2RSQ2JWYllodW5uV0diUnlxSVAwc0ZVR3JnOUdETllhY1M5SXIyVA?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-24T23:43:15+07:00"
-},
-{
-"id": "337b09aa0091",
-"title": "Tuấn quyết định hỏi Oanh về thái độ bất thường | Cầu vồng ở phía chân trời | Tập 11 | VTV3 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9oZGRwMlE1YndybWZYLVRHVEE3X1dGYzc5ejBQa3VYWHp1TUgzbTlrd0NKYlVRQUhrSU1ueFQteHQ?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T07:00:00+07:00",
-"found": "2026-11-24T23:43:15+07:00"
-},
-{
-"id": "5057cbfc575a",
-"title": "Phá rào chiếm đất công, hàng loạt kho bãi 'nhờn luật'",
-"link": "https://cafef.vn/pha-rao-chiem-dat-cong-hang-loat-kho-bai-nhon-luat-188261123060225594.chn",
-"summary": "Mặc dù Hà Nội đã ban hành nhiều văn bản yêu cầu tổng kiểm tra, rà soát công trình, nhà xưởng, kho bãi và cơ sở sản xuất, kinh doanh vi phạm đất đai, trật tự xây dựng, PCCC, đồng thời xây dựng lộ trình xử lý dứt điểm từng trường hợp. Thế nhưng tại các địa phương, kho xưởng vi…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795391797767-1795391798825296975269.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-23T06:57:00+07:00",
-"found": "2026-11-23T07:06:46+07:00"
-},
-{
-"id": "0b509a64266f",
-"title": "Cựu Chủ tịch Sen Tài Thu và con gái hầu tòa trong vụ chiếm đoạt gần 989 tỉ đồng",
-"link": "https://tuoitre.vn/cuu-chu-tich-sen-tai-thu-va-con-gai-hau-toa-trong-vu-chiem-doat-gan-989-ti-dong-10026112305405877.htm",
-"summary": "Cựu Chủ tịch Tập đoàn Sen Tài Thu Phạm Thị Hòa cùng con gái và các đồng phạm bị cáo buộc huy động hơn 1.726 tỉ đồng của 459 nhà đầu tư, chiếm đoạt gần 989 tỉ đồng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/anh-man-hinh-2026-11-23-luc-052734-179538651691086541046-0-0-904-1446-crop-17953869849011513868366.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T06:57:00+07:00",
-"found": "2026-11-23T07:22:19+07:00"
-},
-{
-"id": "9f31d00b7f0f",
-"title": "lịch âm",
-"link": "https://thanhnien.vn/lich-am-hom-nay-2111-ngay-ky-hoi-thang-ky-hoi-18526112010241135.htm",
-"summary": "Lịch âm hôm nay 21.11: Ngày Kỷ Hợi, tháng Kỷ Hợi (Thanh Niên)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwEj-Ek3HOhq4MfOd2bfdYrRXP6EkceECWbQb5-jtT90AGOeJW1D9W1geHiVM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T06:50:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-23T07:06:46+07:00"
 }
 ]
 }
