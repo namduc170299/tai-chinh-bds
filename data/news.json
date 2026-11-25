@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T00:24:00+07:00",
+"updated": "2026-11-26T00:39:11+07:00",
 "new": 3,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 56
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,18 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "6306ca63ca17",
+"title": "barcelona – villarreal",
+"link": "https://www.latimes.com/espanol/deportes/articulo/2026-11-23/barcelona-marca-3-goles-en-10-minutos-y-vence-al-villarreal",
+"summary": "Barcelona marca 3 goles en 10 minutos y vence al Villarreal (Los Angeles Times)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQArGiUxka20hvSxGLSkfSutttGILibZemOIfcbarWTGEcsUfC7Qo9Pq9O_Tqg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T00:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T00:39:11+07:00"
+},
 {
 "id": "bf6173170a36",
 "title": "Toàn cảnh quá trình vận hành hệ thống chống ngập 10.000 tỷ đồng ở TPHCM",
@@ -323,6 +335,17 @@
 "found": "2026-11-26T00:24:00+07:00"
 },
 {
+"id": "64f730651ca5",
+"title": "Tái hiện nét kiến trúc Chợ Lớn trong nhà phố hiện đại",
+"link": "https://vnexpress.net/tai-hien-net-kien-truc-cho-lon-trong-nha-pho-hien-dai-5148741.html",
+"summary": "Các chi tiết kiến trúc truyền thống được chọn lọc, kết hợp vật liệu mới và cách tổ chức không gian phù hợp với nhu cầu sinh hoạt của gia chủ.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/ava-1795593117.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AtC1TeRHEd4puF112VRmUw",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-26T00:00:00+07:00",
+"found": "2026-11-26T00:39:11+07:00"
+},
+{
 "id": "f93ea6cccc3a",
 "title": "câu lạc bộ bóng đá sabah đấu với barcelona",
 "link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-sabah-barcelona-kho-tranh-khoi-tran-thua-dam-cup-c1-c48a1814041.html",
@@ -331,7 +354,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T23:50:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-26T00:08:50+07:00"
 },
 {
@@ -389,7 +412,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T23:10:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-25T23:36:00+07:00"
 },
 {
@@ -401,7 +424,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T23:00:00+07:00",
-"traffic": "200+",
+"traffic": "1000+",
 "found": "2026-11-25T23:20:49+07:00"
 },
 {
@@ -6897,6 +6920,17 @@
 "cat": "xh",
 "published": "2026-11-25T11:15:00+07:00",
 "found": "2026-11-25T12:14:36+07:00"
+},
+{
+"id": "b877cbdff000",
+"title": "Hạnh sững sờ khi thấy Toản đi cùng người phụ nữ khác | Căn nhà không mái che | Tập 21",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6NHU4bGpqQVpJX2VTYXFCT3VlVHNrNVhlOW5CbFRDNnJhbVQwS2RMY2dhYnNZMUxHSUF2clhSYXA?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-25T11:14:52+07:00",
+"found": "2026-11-26T00:39:11+07:00"
 },
 {
 "id": "05d5544feac5",
@@ -28019,39 +28053,6 @@
 "cat": "xh",
 "published": "2026-11-23T10:42:00+07:00",
 "found": "2026-11-23T10:58:21+07:00"
-},
-{
-"id": "45b863a3a07e",
-"title": "Giá bạc hồi phục, bạc thỏi tăng tới hơn 1 triệu đồng/kg",
-"link": "https://vietnamnet.vn/gia-bac-hoi-phuc-bac-thoi-tang-toi-hon-1-trieu-dong-kg-2577753.html",
-"summary": "Giá bạc hôm nay (23/11) phục hồi ở cả thị trường trong nước và thế giới. Có thương hiệu điều chỉnh tăng giá bạc thỏi đắt thêm hơn 1 triệu đồng/kg so với mức niêm yết vào cuối tuần trước.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/kg-691.jpg?width=0&s=H995QpwGJZ8x3ZHTq0NPng",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-23T10:40:52+07:00",
-"found": "2026-11-23T10:43:06+07:00"
-},
-{
-"id": "445e560a61c6",
-"title": "Danh sách 100 đơn vị chậm đóng BHXH từ 6 tháng trở lên tại TP.HCM",
-"link": "https://tuoitre.vn/danh-sach-100-don-vi-cham-dong-bhxh-tu-6-thang-tro-len-tai-tphcm-100261122184802576.htm",
-"summary": "Bảo hiểm xã hội TP.HCM vừa công khai danh sách 100 đơn vị chậm đóng bảo hiểm xã hội từ 6 tháng trở lên. Đơn vị có số tiền chậm đóng cao nhất hơn 1,35 tỉ đồng, thời gian kéo dài nhất là 90 tháng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/ban-sao-edit-z4456181221712cdd729cc2abb47377ecb2d99c728bf41-16973367463241173417901-17953473883501814697828-31-0-487-730-crop-1795348097544631436312.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T10:37:00+07:00",
-"found": "2026-11-23T11:41:14+07:00"
-},
-{
-"id": "31efc10d5873",
-"title": "Tòa trả hồ sơ yêu cầu điều tra làm rõ số tiền bị chiếm đoạt vụ Sen Tài Thu",
-"link": "https://dantri.com.vn/phap-luat/toa-tra-ho-so-yeu-cau-dieu-tra-lam-ro-so-tien-bi-chiem-doat-vu-sen-tai-thu-20261123102856958.htm",
-"summary": "(Dân trí) - Cho rằng vụ án còn nhiều tình tiết cần làm rõ, đặc biệt là số tiền các nhà đầu tư bị chiếm đoạt, TAND TP Hà Nội quyết định trả hồ sơ để điều tra bổ sung vụ án xảy ra tại Tập đoàn Sen Tài Thu Việt Nam.",
-"image": "https://cdnphoto.dantri.com.vn/FrBKMykdj0UOIbFOwPLFjxppFbs=/2026/11/23/sentaithu23-1795404283840.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-23T10:36:44+07:00",
-"found": "2026-11-23T11:13:32+07:00"
 }
 ]
 }
