@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T06:31:53+07:00",
-"new": 4,
+"updated": "2026-11-26T06:47:02+07:00",
+"new": 15,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 56
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,94 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "298b4237c4e7",
+"title": "Từ 1.7.2027, đất vườn, đất ao đã cấp sổ đỏ lâu dài, được giữ nguyên thời hạn?",
+"link": "https://thanhnien.vn/tu-172027-dat-vuon-dat-ao-da-cap-so-do-lau-dai-duoc-giu-nguyen-thoi-han-185261125233007494.htm",
+"summary": "Luật Đất đai sửa đổi quy định không xem xét lại thời hạn sử dụng đất lâu dài đã được ghi nhận trên sổ đỏ đúng pháp luật tại thời điểm cấp.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-dat-vuon-dat-ao-179562315603896039416-141-0-941-1280-crop-17956235649432020122144.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T06:41:00+07:00",
+"found": "2026-11-26T06:47:02+07:00"
+},
+{
+"id": "69d812d21c3c",
+"title": "Tỷ giá USD hôm nay (26-11): Đồng USD suy yếu",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TeHZReloyVVdKcExJeGl0bGtHdjAwTlpsMV9Mc3VVUlZ0T3FzdkQxaG84bVVVa1c3UHJQNFR6ZU9DWGN3a3VwRGJvSFN3MWZSSUlqRVNsallhR0VlcDQyd0NIcDV0TmtqM2J2bUs3SzlnNkJqTTBaTGdPS1Y0cTQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T06:39:00+07:00",
+"found": "2026-11-26T06:47:02+07:00"
+},
+{
+"id": "35291b24db55",
+"title": "Thanh khoản căn hộ TP.HCM giảm 72%, doanh nghiệp bất động sản có nơi mất tới 96% doanh thu",
+"link": "https://cafef.vn/thanh-khoan-can-ho-tphcm-giam-72-doanh-nghiep-bat-dong-san-co-noi-mat-toi-96-doanh-thu-188261125135258218.chn",
+"summary": "Lượng tiêu thụ căn hộ sơ cấp tại TP.HCM trong quý III/2026 giảm 72% so với cùng kỳ năm trước. Trong cùng kỳ, nhiều doanh nghiệp địa ốc cũng ghi nhận doanh thu giảm từ 82% đến 96%.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/bat-dong-san-tphcm-1-1795588644534496307495-0-0-675-1080-crop-17955886509401512173602.jpeg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-26T06:37:00+07:00",
+"found": "2026-11-26T06:47:02+07:00"
+},
+{
+"id": "fcaa7b9abc5b",
+"title": "Xã vùng ven TP.HCM cắt điện cơ sở gây ô nhiễm",
+"link": "https://thanhnien.vn/xa-vung-ven-tphcm-cat-dien-co-so-gay-o-nhiem-185261125225525774.htm",
+"summary": "Xã Tân Vĩnh Lộc (TP.HCM) áp dụng biện pháp cắt điện cơ sở gây ô nhiễm môi trường để xử lý tận gốc, từng bước di dời những cơ sở này ra khỏi địa bàn.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-co-so-giat-nhuom-gay-o-nhiem-moi-truong-xa-tan-vinh-loc-tphcm-sy-dong-1795620793721830316711-0-254-1441-2560-crop-17956216579951158839992-1795621679093168474166.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T06:34:00+07:00",
+"found": "2026-11-26T06:47:02+07:00"
+},
+{
+"id": "edfcf1558356",
+"title": "Ashley Young bức xúc vì MU bị cướp trắng chiến thắng",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnZ4ZmRCY01HZU1aZmc2SDM0bERqOGhNbGtMRnE2aUdQMm9Ec3NSenJJMWNKbVZ6c09EZ2NnQ1NaYmtZN3dvTGJnYmx5eXl6Tm1PTnh2WGdVMGRwTXN6SC16TFhkSUloOWdDc1NJNnkwNjlvQnZQa3Vkb1BBZnZQNmFNVUE0bjFEVXkwMEtUT00?oc=5",
+"summary": "Nguồn: bongda.com.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T06:32:57+07:00",
+"found": "2026-11-26T06:47:02+07:00"
+},
+{
+"id": "6c2d14c04a53",
+"title": "Hàng chục tỉ USD làm metro, đường sắt cao tốc, vốn dài hạn ở đâu?",
+"link": "https://thanhnien.vn/hang-chuc-ti-usd-lam-metro-duong-sat-cao-toc-von-dai-han-o-dau-185261125213601286.htm",
+"summary": "Tín dụng ngân hàng chiếm khoảng một nửa vốn cho nền kinh tế nhưng huy động chủ yếu kỳ hạn ngắn, trong khi metro, đường sắt cao tốc cần vốn dài hạn và ổn định.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-ngan-hang-vang-tien-9-17935210050001216098568-99-0-1699-2560-crop-1795617246155698804732.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-26T06:32:00+07:00",
+"found": "2026-11-26T06:47:02+07:00"
+},
+{
+"id": "ee2d9d8668f9",
+"title": "Vợ lén trèo cửa sổ bỏ đi giữa đêm, phản ứng của người chồng nằm bên cạnh gây xôn xao",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQUh0ejJyYklXUlQtU0JKU2NuLXBmUThCTVFaUGVmTDV5Y3FzWmFUTjlQY19PRjUtZ1JuQ21Eb2dEYVJ3NGZuQVkwNFN6ZDRmVmttZ19IRWNHVDZxNkphVUx2WW92VkRVUkdOTlE1TkRjXzVxOWNyUGJheTA0NmsyaEJHUmFFMjVsWk1udUFKWUtiMVJEdEtSSDdnd0ZfSEdoQlRyeFdOSUNkTktzZGRzRy0tX2h1UXRBakdhRUhBbjd0WkxMa3JwM1haTXNsZw?oc=5",
+"summary": "Nguồn: Tạp chí Saostar",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T06:30:00+07:00",
+"found": "2026-11-26T06:47:02+07:00"
+},
+{
+"id": "0ae54407f0a5",
+"title": "Công an phát thông báo quan trọng liên quan đến căn cước, tài khoản định danh điện tử VNeID của người dân",
+"link": "https://kenh14.vn/cong-an-phat-thong-bao-quan-trong-lien-quan-den-can-cuoc-tai-khoan-dinh-danh-dien-tu-vneid-cua-nguoi-dan-215261126062510089.chn",
+"summary": "Người dân cần chú ý khuyến cáo từ cơ quan Công an.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795649067630-17956490682551156151001.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T06:28:00+07:00",
+"found": "2026-11-26T06:47:02+07:00"
+},
+{
 "id": "1af0d8471c6a",
 "title": "Trớ trêu chuyển nhầm 300 triệu vào tài khoản người đang vay nợ, ngân hàng tự động trừ luôn 261 triệu đồng, không đồng ý trả lại",
 "link": "https://kenh14.vn/tro-treu-chuyen-nham-300-trieu-vao-tai-khoan-nguoi-dang-vay-no-ngan-hang-tu-dong-tru-luon-261-trieu-dong-khong-dong-y-tra-lai-215261126062210332.chn",
@@ -243,7 +331,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T06:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-26T06:31:53+07:00"
 },
 {
@@ -387,7 +475,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T06:00:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-26T06:31:53+07:00"
 },
 {
@@ -538,8 +626,20 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T05:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-26T05:51:40+07:00"
+},
+{
+"id": "001b135d6082",
+"title": "câu lạc bộ bóng đá calcio como",
+"link": "https://www.bbc.com/sport/football/videos/cqy80k3menkmo",
+"summary": "Champions League highlights: Luis Milla strike edges Como past AEK Athens (BBC)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl-jnbfrU8iQPb-pFdZeG6n3gWBzX_frriGQkcrLvQFhxPE-tbyHBOYQ9wa4M",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T06:47:02+07:00"
 },
 {
 "id": "0d20809528a0",
@@ -2323,6 +2423,17 @@
 "found": "2026-11-25T20:51:04+07:00"
 },
 {
+"id": "1a90c986bdda",
+"title": "Chủ tịch VietCredit Nguyễn Đức Phương xin từ nhiệm",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSTdfc2NJRTZWRDNKQTJIQnN5RVpqbkZJNUdfZVBVaTU2UENLRlFHN0lTTVBxOUx0Q1JmUWllUURCLTJ1R0ZOdDhmWTdockkzTTk0UVB4ZTZwYlF0azR2enhrY2g3Wk5lYmJYRmRXZ3htb281dTVoZGNDNC1NcHZkWjlqVm9NVHdoRlFj?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T20:21:00+07:00",
+"found": "2026-11-26T06:47:02+07:00"
+},
+{
 "id": "ce48a985d9d5",
 "title": "Thị trường chứng khoán thiếu lực cầu, nhà đầu tư được khuyến nghị hạ tỷ trọng",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGxhR3haYlZwTGZFMThaQW8xeDdSeE9UdXRTTWxVVUhZczRKYXVWV3N2ZE5UYVdFV2NYV2dGMHMzdkhGUk9FazlINnJ1WWFRWFZtTmxNQjBaUzZPOWhUczNJcmRaNlphZXZGNTgyYkIwREl4cndIT21ibF9RaUVPaU82UjlkSVhuYTNsaHZZM3ROMHJ2WVUyV09WUWFydXNoVmpuanVLRXdveTVjdHc?oc=5",
@@ -3506,6 +3617,17 @@
 "found": "2026-11-25T18:42:41+07:00"
 },
 {
+"id": "455db38c8046",
+"title": "Thu hẹp khoảng cách giữa dòng vốn quốc tế và doanh nghiệp Việt",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd251ZS1nREVsak9zcGcxQWhUTTFGc3p1aXhrUXN4SjhKaGVBUWtuRjN1U3hMTUJ0V1piSTNWZDhOcEhoVGNZbHNaYnlmaFdGN0E4VXdydm1tYjJCODF0ckFWeURtV0JyN25XYTE4dndOVjFwOHBZYnJhNU5ZOTNVRnA4VlR1WmFyX096MWRjeUktMHlwZEphVVUzUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T18:29:00+07:00",
+"found": "2026-11-26T06:47:02+07:00"
+},
+{
 "id": "1513307d2c61",
 "title": "Lừa bán 'suất ngoại giao' nhà ở xã hội, chiếm đoạt hơn 150 tỷ đồng",
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHE1al9NRkFac2lJVFZRSkFzRVVnWlVnNmpFcjlJQVVXU0E3aGxfMDlfazhld3hxd2JEcVBQc3huWjFpendXbXQ5YjQ1UGpVQzdBYUUzUE1YVnNvVEV6ZmxWdUhtTFdmT1hIVzVqU3FEblZabjVfQlU4aW0zNkh6Y3ZqRUhwU1N5cjB1WXI4b1NTbnphMFJIbXhiZVg?oc=5",
@@ -4594,6 +4716,17 @@
 "found": "2026-11-25T17:01:54+07:00"
 },
 {
+"id": "aff2a55abbf0",
+"title": "Trung Quốc cân nhắc sáp nhập các hãng hàng không nhỏ để vực dậy ngành",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSnFVazZiYUJ0R1E2RWpkbkZTUV9JODdHVmVmNWxRZ0ZLbWJHVEZRU0t2VU9rN09JR1VKYUExXzc2VFBfTnIzYUFTSjRtODFWZ0FaMHlHY1lGR2xmeEpRWjlHS0dqbUFIbEd1b00wOXlWeHE5YVhZUkVWNFc3bmNLcWJKSy10WkV1QS1DejVnTVZoYVdNaHpNenp5VjYxTHNWMXVfNA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T16:38:00+07:00",
+"found": "2026-11-26T06:47:02+07:00"
+},
+{
 "id": "3693c63ee53d",
 "title": "Toàn cảnh Quy hoạch phân khu đô thị sông Hồng qua 16 phường, xã của Hà Nội",
 "link": "https://vietnamnet.vn/toan-canh-quy-hoach-phan-khu-do-thi-song-hong-qua-16-phuong-xa-cua-ha-noi-2578552.html",
@@ -4713,6 +4846,17 @@
 "cat": "tc",
 "published": "2026-11-25T16:28:37+07:00",
 "found": "2026-11-25T16:31:33+07:00"
+},
+{
+"id": "67f441f814e0",
+"title": "Tháo gỡ vướng mắc trong xử lý nợ vay của các công ty nông, lâm nghiệp",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQWZ6WWpUR0pXWS05T1NUcEtFTHpCandvWmYxTEQtX1gwZUQxNzI2djVLdzVZX2M0UjFrcEpMXy16NHR3TGJlNzdJUEZsRzBZSW9Ga2k5TVRJM1o1TVhpMTl6RW5ITDdmZVB6VElSLTQ1NEJWVnh1Mm5zQ3RlVVdRQUcxeFRHX3FkZlpadEJhYjY0RjdqUWkwbzNhN2pneERGbnpz?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T16:25:51+07:00",
+"found": "2026-11-26T06:47:02+07:00"
 },
 {
 "id": "baa36f10afb5",
@@ -5928,6 +6072,17 @@
 "cat": "xh",
 "published": "2026-11-25T14:42:11+07:00",
 "found": "2026-11-25T15:21:37+07:00"
+},
+{
+"id": "2bc4cd62a7e3",
+"title": "Lãi suất tiết kiệm 25/11/2026: Một ngân hàng giảm 0,1-0,2 điểm phần trăm ở một số kỳ hạn",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXFBMjZMUnNJSXRveXJKNm9Ra3kzWWQxSnI3X1JtR2lDYVg2dDc3eEN5YndMR0taOHVXV19Wc3ZaMjk3bkJGdlZPVm1Yd2ppRVVSdGQtX0Y1YUNFQWpuQ2IzeXZCTjI1dldYWnd2VkNKWXpKVlBrbnVXZ1hpZkVGSl82QUdVZGZWeG5DVk5Bek9wUzYtdnhneWNsbklvOXRVSkpLZTBYUDFTVHdTdXg3dnV1UFdHbGdlQTdzeQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T14:41:40+07:00",
+"found": "2026-11-25T09:32:20+07:00"
 },
 {
 "id": "5b51d51cfc19",
@@ -8190,6 +8345,17 @@
 "found": "2026-11-25T11:09:57+07:00"
 },
 {
+"id": "6ed61890fbc2",
+"title": "Mở hướng sinh kế với dược liệu bản địa",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCRGtXTjA5WW53MFMyLWR6TDFnZHdtamtZSThiLUhwWUhaSEZhR2Q0Y19zcDYydWxTMUpSQ1lVejlwczBJcURwN3JIQUxwMUF6UWljcTFkdFZQTjBrVFhnVlZQSll4WS1JdS01Y1NTTmw2cUQ3YmVobVloRQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T11:02:00+07:00",
+"found": "2026-11-26T06:47:02+07:00"
+},
+{
 "id": "ecbbc8e5944d",
 "title": "Dự kiến khởi công đường sắt tốc độ cao Bắc Nam cuối năm 2028",
 "link": "https://vnexpress.net/du-kien-khoi-cong-duong-sat-toc-do-cao-bac-nam-cuoi-nam-2028-5148586.html",
@@ -8797,6 +8963,17 @@
 "cat": "xh",
 "published": "2026-11-25T10:14:00+07:00",
 "found": "2026-11-25T12:14:36+07:00"
+},
+{
+"id": "47d882f994c9",
+"title": "Giá cả thị trường ngày 25/11/2026",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DeXVjNTZNTnVrcUp5QndmOEpHWXBSUC1pd3NFa2o0ZFlvZTQxS1NEQjFHN0VzcDFvb1ViWGhuSHFoR1VXLUJPcWpieEU2bTBsMnV3R19JbHlwTzQ3ZmdxeUtVY0JMLWR3eDVoejJPeFpLOTh4?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T10:10:59+07:00",
+"found": "2026-11-26T06:47:02+07:00"
 },
 {
 "id": "ff98d4a82877",
@@ -9418,17 +9595,6 @@
 "source": "Tuổi Trẻ",
 "cat": "tc",
 "published": "2026-11-25T09:09:00+07:00",
-"found": "2026-11-25T09:32:20+07:00"
-},
-{
-"id": "2bc4cd62a7e3",
-"title": "Lãi suất tiết kiệm 25/11/2026: Một ngân hàng giảm 0,1-0,2 điểm phần trăm ở một số kỳ hạn",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXFBMjZMUnNJSXRveXJKNm9Ra3kzWWQxSnI3X1JtR2lDYVg2dDc3eEN5YndMR0taOHVXV19Wc3ZaMjk3bkJGdlZPVm1Yd2ppRVVSdGQtX0Y1YUNFQWpuQ2IzeXZCTjI1dldYWnd2VkNKWXpKVlBrbnVXZ1hpZkVGSl82QUdVZGZWeG5DVk5Bek9wUzYtdnhneWNsbklvOXRVSkpLZTBYUDFTVHdTdXg3dnV1UFdHbGdlQTdzeQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T09:07:00+07:00",
 "found": "2026-11-25T09:32:20+07:00"
 },
 {
@@ -27930,175 +28096,6 @@
 "cat": "xh",
 "published": "2026-11-23T12:32:50+07:00",
 "found": "2026-11-23T13:30:46+07:00"
-},
-{
-"id": "918ce1a1205f",
-"title": "Sun Group chính thức khởi công khu đô thị nghìn tỷ tại nơi quanh năm mát mẻ chỉ 20 độ C, nằm ở độ cao 1.200m được ví như “Đà Lạt thứ hai” của Tây Nguyên",
-"link": "https://cafef.vn/sun-group-chinh-thuc-khoi-cong-khu-do-thi-nghin-ty-tai-noi-quanh-nam-mat-me-chi-20-do-c-nam-o-do-cao-1200m-duoc-vi-nhu-da-lat-thu-hai-cua-tay-nguyen-188261123123109139.chn",
-"summary": "Khu đô thị số 1 tại xã Măng Đen, tỉnh Quảng Ngãi có quy mô 264,4 ha, tổng vốn đầu tư gần 6.700 tỷ đồng, được định hướng phát triển thành khu đô thị nghỉ dưỡng kết hợp thương mại, thể thao và chăm sóc sức khỏe.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/anh-man-hinh-2026-11-23-luc-122713-1795411656934202403749-40-0-1303-2020-crop-17954118499151363042652.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-23T12:31:00+07:00",
-"found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "c000d23645d8",
-"title": "Tuần giảm giá mạnh của thị trường hàng hóa",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdC03cmZiN0RpU3B2UDBrc3doTms4RklLN0ZlbERHd0xLREtaVXNiSk9TTGxkTGNFbUFVaGdLQU96SFEyajVOeVZ4dzduZnlfNHpJczFxWm1fVG5LclhWcHFNSXA5TWpTSWNUMXh1Q3VNbkozenAwcVFqQ1ZBMWxmdA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T12:26:00+07:00",
-"found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "78f610dac067",
-"title": "Hà Nội có Xôi Yến thì Sài Gòn có Xôi Mềm: Giá cao chót vót, chờ đợi mỏi mòn",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzh2WGhEbm01RWNTczFhLW43MzFJWDZQbGFHRFlUaHprOXVudUpVX3VaUDFvMnM0YzhtR2t5NnB4OUh0T2NTSjJJNDhrWng2UUphRGFVYl9UN1k5MUZXSHE0LWFQWXBMTVl2RUs0NklVLUhXbXJOcTJycnYydVJqLTE3ZHR0c0lWeTJOYUlfMS0xWTYzMFV1eEREc2pkRFJ1WGZHUmpTWXY0X3hUZ1FPaGxBcw?oc=5",
-"summary": "Nguồn: CafeF",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T12:25:00+07:00",
-"found": "2026-11-24T15:17:23+07:00"
-},
-{
-"id": "941756ab1bb2",
-"title": "Jeff Bezos từng dự báo Amazon phá sản và tiết lộ quy luật 30 năm",
-"link": "https://dantri.com.vn/kinh-doanh/jeff-bezos-tung-du-bao-amazon-pha-san-va-tiet-lo-quy-luat-30-nam-20261123110622671.htm",
-"summary": "(Dân trí) - Dù vừa chạm đỉnh vinh quang tại Mỹ, Amazon từng nhận lời cảnh báo từ chính nhà sáng lập Jeff Bezos: Mọi đế chế đều có hạn mức sinh tồn và Amazon rồi sẽ sụp đổ.",
-"image": "https://cdnphoto.dantri.com.vn/RCViBgVsjT387pzzJfAtYmFdTko=/2026/11/23/gettyimages-1795406503321.webp",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-23T12:24:24+07:00",
-"found": "2026-11-23T13:00:26+07:00"
-},
-{
-"id": "51986da64fa1",
-"title": "Chứng khoán Mỹ đối diện tuần giao dịch đầy áp lực",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdmNwWmZwYXM5Wkk0Mkd0N3dsNE5MRmhiaGwwRFJlalVCdlpjdS10X0RkWVZvalF4VEF2cnFtdFZUY2d3ZFhMS0RPVGRPLWxybzd0NW1SeF9zWktfTml2NVhyTlNCZzg5OVBmRGlPaGxkWVdDR3d1N0swMXZRSXVzX2xVQWpQZ2gyMHc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T12:22:45+07:00",
-"found": "2026-11-23T12:28:35+07:00"
-},
-{
-"id": "eed468634d9f",
-"title": "Mâu thuẫn sau va chạm, tài xế liên tục đánh lái làm người bám ở gương chiếu hậu ngã xuống đường tử vong",
-"link": "https://tuoitre.vn/mau-thuan-sau-va-cham-tai-xe-lien-tuc-danh-lai-lam-nguoi-bam-o-guong-chieu-hau-nga-xuong-duong-tu-vong-100261123114437804.htm",
-"summary": "Theo Công an tỉnh Hưng Yên, từ mâu thuẫn phát sinh sau một vụ va chạm giao thông, sự việc đã dẫn đến hậu quả là một người tử vong.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/toi-pham-edit-resize-17954117303441661043337-330-425-2062-3196-crop-1795411799276155096208.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T12:22:00+07:00",
-"found": "2026-11-23T14:02:05+07:00"
-},
-{
-"id": "9bb16aa06459",
-"title": "Lợi thế khi doanh nghiệp sở hữu văn phòng trong khu đô thị tích hợp?",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQnp0Z3lXMWZ3SzVwSG04Qk00WW9faHRBeUIxR1pqeDltamxnRklFLVdVZTZTbkNjTE1rTFFLdmthU2J4V2R0cThSTWMzV2V2cjZOeGktcnJPcGo1OUsyZHJnZktEOGN5ZVMyakhWNk51OUNuN0tIblFyOWI2MUpvMnhfajR1d01RZExSUXpkeEprNFNjZzVLYjJoX3lPcUVKUXc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T12:21:26+07:00",
-"found": "2026-11-23T13:00:26+07:00"
-},
-{
-"id": "b4e06d90319d",
-"title": "Chuyện lạ: Ngư dân Gia Lai dùng smartphone cứu hộ rùa biển",
-"link": "https://thanhnien.vn/chuyen-la-ngu-dan-gia-lai-dung-smartphone-cuu-ho-rua-bien-185261123110116359.htm",
-"summary": "Từ những chuyến ra khơi, ngư dân Gia Lai trở thành tình nguyện viên bảo vệ rùa biển, thú biển bằng cách ghi nhận, báo cáo và cứu hộ những cá thể gặp nguy hiểm. Năm 2026, chương trình ghi nhận 50 cá thể được cứu hộ.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/r99khxikzs02-1795405349852369981017-0-65-575-985-crop-17954064188161423004652.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T12:21:00+07:00",
-"found": "2026-11-23T12:28:35+07:00"
-},
-{
-"id": "d040c1f0d0ff",
-"title": "Nhận 3,8 tỉ đồng để hướng dẫn doanh nghiệp trốn thuế, cựu cán bộ thuế nhận 8 năm tù",
-"link": "https://tuoitre.vn/nhan-38-ti-dong-de-huong-dan-doanh-nghiep-tron-thue-cuu-can-bo-thue-nhan-8-nam-tu-100261123120547089.htm",
-"summary": "Sáng 23-11, TAND TP.HCM đã tuyên án đối với 42 bị cáo trong vụ mua bán trái phép hóa đơn, chứng từ thu nộp ngân sách nhà nước, trốn thuế.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/nghia-can-bo-thue-1795069056629102477532-288-471-1130-1818-crop-1795069130736338513088.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T12:21:00+07:00",
-"found": "2026-11-23T14:02:05+07:00"
-},
-{
-"id": "a92d02db9c18",
-"title": "Ba tiếng ngăn người phụ nữ 66 tuổi chuyền tiền cho 'bạn trai ca sĩ'",
-"link": "https://vnexpress.net/ba-tieng-ngan-nguoi-phu-nu-66-tuoi-chuyen-tien-cho-ban-trai-ca-si-5147974.html",
-"summary": "Tin đang yêu một ca sĩ nổi tiếng, người phụ nữ 66 tuổi định bán ba chỉ vàng để lấy tiền nhận quà từ nước ngoài, bất chấp con cháu can ngăn.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/cong-an-thuyen-phuc-1795410007-1997-1795410749.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yz7Kg36deHOP7d4cu98Z1Q",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-23T12:20:38+07:00",
-"found": "2026-11-23T13:30:46+07:00"
-},
-{
-"id": "153356010cd2",
-"title": "Kinh Bắc có thêm một công ty con gián tiếp",
-"link": "https://cafef.vn/kinh-bac-co-them-mot-cong-ty-con-gian-tiep-188261123120836272.chn",
-"summary": "Công ty cổ phần Đầu tư hạ tầng Kinh Bắc Quảng Trị trở thành công ty con do KBC sở hữu gián tiếp 97,87%.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795410440275-17954104408001006009316.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-23T12:20:00+07:00",
-"found": "2026-11-23T12:28:35+07:00"
-},
-{
-"id": "fd23ff354e3a",
-"title": "bitcoin",
-"link": "https://vnexpress.net/hang-ty-usd-bi-thoi-bay-sau-cu-roi-cua-bitcoin-5147874.html",
-"summary": "Hàng tỷ USD bị thổi bay sau cú rơi của Bitcoin (VnExpress)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvTqWR7oFM2tPUhxLETEAs57nQXTphGc47Jw4XIvrlVpKMaa976UyRwEQgEsk",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T12:20:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "292023bd8574",
-"title": "kim tae-hee",
-"link": "https://www.starnewskorea.com/en/broadcast-show/2026/11/22/2026112221122346856",
-"summary": "‘Kim Tae-hee’s husband’ Rain: “My daughter is in the same class as Baek Ji-young and Jung Suk-won’s daughter… I always attend sports day” [Please Take Care of My Fridge] [Byulbyul TV] (스타뉴스)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPH-ojWXhfy52vyAI3jmRHE26sCozTHNPJJZttCIF_ua1_98L3F81pTBingIo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T12:20:00+07:00",
-"traffic": "200+",
-"found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "7162ff85d2a3",
-"title": "đua ghe ngo",
-"link": "https://vtv.vn/truc-tiep-giai-dua-ghe-ngo-can-tho-2026-tren-vtv-100261123090855827.htm",
-"summary": "TRỰC TIẾP Giải đua ghe ngo Cần Thơ 2026 trên VTV (VTV.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv1qFxZY_q5verl-L0zuyWkwt_cQ1YobKpisjItLhJAhho6UAuiOhAjMZbngY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T12:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-23T13:30:46+07:00"
-},
-{
-"id": "0d707dc02fcd",
-"title": "việt nam",
-"link": "https://bvhttdl.gov.vn/dang-ky-nhan-ve-chuong-trinh-nghe-thuat-dac-biet-muon-sac-viet-nam-20260228171221607.htm",
-"summary": "Đăng ký nhận vé chương trình nghệ thuật đặc biệt \"Muôn sắc Việt Nam\" (bvhttdl.gov.vn)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNvgm9A1S5rgYLsPxg6AeBO5G3ied1CO6r8WE9YkHAlQvRXbHXGLS-Y-TOFoE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T12:20:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-23T15:41:10+07:00"
 }
 ]
 }
