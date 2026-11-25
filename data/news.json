@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T01:10:32+07:00",
+"updated": "2026-11-26T01:26:01+07:00",
 "new": 3,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 55
 },
 {
 "name": "Kenh14",
@@ -232,7 +232,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T00:40:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-26T01:10:32+07:00"
 },
 {
@@ -391,6 +391,17 @@
 "found": "2026-11-26T00:55:00+07:00"
 },
 {
+"id": "b40c40c252bd",
+"title": "Giá vàng giảm hơn 120 USD/ounce sau tin Mỹ sắp áp thuế",
+"link": "https://tuoitre.vn/gia-vang-giam-hon-120-usd-ounce-sau-tin-my-sap-ap-thue-100261125235032733.htm",
+"summary": "Giá vàng thế giới tối nay 25-11 đã giảm hơn 120 USD/ounce, về 3.437,6 USD/ounce - thấp nhất trong vòng một năm rưỡi qua - sau tin Mỹ sắp áp thuế lên hàng chục đối tác thương mại, mức cao nhất lên tới 20%.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/np-vang-3-1-5-1795624425408836641427-0-0-1250-2000-crop-17956244409791306228079.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-25T23:59:00+07:00",
+"found": "2026-11-26T01:26:01+07:00"
+},
+{
 "id": "f93ea6cccc3a",
 "title": "câu lạc bộ bóng đá sabah đấu với barcelona",
 "link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-sabah-barcelona-kho-tranh-khoi-tran-thua-dam-cup-c1-c48a1814041.html",
@@ -399,7 +410,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T23:50:00+07:00",
-"traffic": "5000+",
+"traffic": "10000+",
 "found": "2026-11-26T00:08:50+07:00"
 },
 {
@@ -423,8 +434,19 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T23:50:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-26T00:08:50+07:00"
+},
+{
+"id": "e84cfa7a8618",
+"title": "Bộ Công Thương thông tin về mức thuế bổ sung của Mỹ",
+"link": "https://tuoitre.vn/bo-cong-thuong-thong-tin-ve-muc-thue-bo-sung-cua-my-100261125232530909.htm",
+"summary": "Thông tin vừa được Bộ Công Thương phát đi tối muộn ngày 25-11, Cơ quan Đại diện Thương mại Hoa Kỳ (USTR) vừa có kết luận sơ bộ đề xuất mức thuế bổ sung tối đa có thể áp dụng đối với hàng hóa nhập khẩu từ Việt Nam.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/edit-det-may-1781259262449897379132-225-505-709-1280-crop-1795626282331732523465-0-0-413-661-crop-1795626302686271670603.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-25T23:35:00+07:00",
+"found": "2026-11-26T01:26:01+07:00"
 },
 {
 "id": "a6774d9dafef",
@@ -9931,6 +9953,17 @@
 "found": "2026-11-22T10:30:20+07:00"
 },
 {
+"id": "f5770e39ae4b",
+"title": "Đình chỉ giáo viên kỷ luật học sinh bằng kim tiêm",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9xUTZUYjVVbm5QY1pUT3NPX1owSWJjLVNEOWFaZEZMdGtZSmdRTHhIeUoyUElzeXp3NHFoLUROUlM?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-25T07:00:00+07:00",
+"found": "2026-11-24T09:40:07+07:00"
+},
+{
 "id": "613708154fc0",
 "title": "Corriere dello Sport: Højlund được cho là đã bày tỏ lòng tri ân Man Utd khi ăn mừng bàn thắng, gây xôn xao mạng xã hội",
 "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX01VMFdqMGpwR0JtNy1JQUVJM3RaZmxRdzNEWmxaTWdfYkRuSUNiV3lQYUg0SVdKUXVSQTBTRnRKRWZpczNwVV96YVktYU13aU5Cd0t3OVE1TzlnNWdNUmE4NXJETjlPandHOVpBY2VWZ2gtZVFMMVB3OVVHVThkRDlNYTV5d05vSXp2MEFoZy15QQ?oc=5",
@@ -18785,6 +18818,17 @@
 "found": "2026-11-24T07:34:10+07:00"
 },
 {
+"id": "9ba3890d06af",
+"title": "Từ tin đồn liên quan đến Jensen Huang, phụ nữ gốc Á ở Mỹ thành đối tượng bị chế giễu",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcHE2emM3MUhfcmxVZ3Z2OFNxaWFUY3B2MFYzWVlXeVhGZDNRd1ItQkJ5M3BmejBJNDRyWmRzYVNGRTc5NTM1aXg0Ti1TTTFqTDhXVG5wU2l4U181MFJycTc1WjJlUGNTTzFXR01FM1Uxdjh0blRpMlNjU3hIYkNfLUQ1a0p2MUVxVGs0M0drTFBIXzBaMXJ1NUxJeGktNlItZTRLeHNQSl9pbDVUT0JpZk1RZlBabU1waWFmWg?oc=5",
+"summary": "Nguồn: VIETTIMES",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T07:18:46+07:00",
+"found": "2026-11-26T01:26:01+07:00"
+},
+{
 "id": "e4c470a05a66",
 "title": "Thủ đoạn hack ví tiền số trên iPhone bằng quảng cáo",
 "link": "https://vnexpress.net/thu-doan-hack-vi-tien-so-tren-iphone-bang-quang-cao-5148223.html",
@@ -19052,17 +19096,6 @@
 "cat": "xh",
 "published": "2026-11-24T07:00:00+07:00",
 "found": "2026-11-20T03:47:43+07:00"
-},
-{
-"id": "f5770e39ae4b",
-"title": "Đình chỉ giáo viên kỷ luật học sinh bằng kim tiêm",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9xUTZUYjVVbm5QY1pUT3NPX1owSWJjLVNEOWFaZEZMdGtZSmdRTHhIeUoyUElzeXp3NHFoLUROUlM?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-24T07:00:00+07:00",
-"found": "2026-11-24T09:40:07+07:00"
 },
 {
 "id": "05671faeb7eb",
@@ -28020,39 +28053,6 @@
 "source": "Báo Mới",
 "cat": "bds",
 "published": "2026-11-23T10:48:00+07:00",
-"found": "2026-11-23T10:58:21+07:00"
-},
-{
-"id": "6f3e46447a8c",
-"title": "Chung cư hết niên hạn, quyền lợi chủ căn hộ được bảo vệ ra sao?",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3dzQnF3MENxem5COEhfcGhtVF9EUW5EbUwyQldaQVI3NTJJY1RfWXFNcUY0c0pCWFNudDA5WXQ5RTZlbTlmRjB6bFY5cjhZcVJWaTFONlBia3BjV0xPNzdfWW4waVpraFA5WHR3MEVkSEN5Y183U0MwbmxDN0NwVmZ3UW8zZ1FhWDJZYVFfVHpWLVE5a1p2N0RR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T10:47:00+07:00",
-"found": "2026-11-23T10:58:21+07:00"
-},
-{
-"id": "d4f09146c940",
-"title": "Tràn lan ảnh sao nữ hôn Chủ tịch tập đoàn công nghệ 63 tuổi, công chúng phẫn nộ",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenpMdTR0d1V0VUVjUGk4QllOaUQtZFltcTRhcGlZUjNtTjBTM3FzeldqVE8yNm9KTXRQdHk1cUdORTlyLVpwQ2pZeHhyV3ZZRXE0RTZVNllSNTQ1Mk9LOWJDM0NpeUpYbTF0eENMbGZyaFc5MXBoM2lkQWhnMVVKd0ZWSG9waVdSQ3Q5SmU2YWViXzROTVJtXzJlbG5qc2U4MDF0amNPWkR5cThsVGZFVzlfb0ZSMFNjdUxYVw?oc=5",
-"summary": "Nguồn: CafeBiz",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T10:47:00+07:00",
-"found": "2026-11-25T09:32:20+07:00"
-},
-{
-"id": "aa1ff293eab0",
-"title": "Bà chủ Sen Tài Thu khóc nức nở khi bị dẫn đến phòng xét xử vụ chiếm đoạt 757 tỷ đồng",
-"link": "https://kenh14.vn/ba-chu-sen-tai-thu-khoc-nuc-no-khi-bi-dan-den-phong-xet-xu-vu-chiem-doat-757-ty-dong-21526112310402049.chn",
-"summary": "Do cần tiền trả nợ và chi tiêu cá nhân, cựu Chủ tịch Tập đoàn Sen Tài Thu cùng 2 cấp dưới lên kế hoạch lừa đảo hơn 1.700 tỷ đồng của các nhà đầu tư. Tuy nhiên, Viện Kiểm sát xác định có 266 bị hại có trình báo, xác định được số tiền nhóm này bị chiếm đoạt 757 tỷ đồng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795404824611-1795404825345550403238.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-23T10:45:00+07:00",
 "found": "2026-11-23T10:58:21+07:00"
 }
 ]
