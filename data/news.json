@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T05:36:30+07:00",
-"new": 11,
+"updated": "2026-11-26T05:51:40+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 22
+"count": 57
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "35cddebbd4c5",
+"title": "Bộ Tài chính đưa ra cách thức ngăn chặn tình trạng lập doanh nghiệp &apos;ma&apos;",
+"link": "https://vietnamnet.vn/bo-tai-chinh-dua-ra-cach-thuc-ngan-chan-tinh-trang-lap-doanh-nghiep-ma-2578310.html",
+"summary": "Nhằm ngăn chặn tình trạng lập DN “ma” để trốn thuế, buôn lậu, Bộ Tài chính đề xuất xác thực qua VNeID khi đăng ký kinh doanh, hạn chế quyền lập công ty mới đối với cá nhân vi phạm.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/bo-tai-chinh-dua-ra-cach-thuc-ngan-chan-tinh-trang-lap-doanh-nghiep-ma-4557.jpg?width=0&s=q94s89t-BxD0Xi3Lz7zFkA",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-26T05:45:00+07:00",
+"found": "2026-11-26T05:51:40+07:00"
+},
+{
+"id": "bcbd27b09b86",
+"title": "Lấy ý kiến dân về quy hoạch khu công nghiệp đông nam Đồng Phú gần 4.200 ha",
+"link": "https://thanhnien.vn/lay-y-kien-dan-ve-quy-hoach-khu-cong-nghiep-dong-nam-dong-phu-gan-4200-ha-185261125203058284.htm",
+"summary": "Tại buổi lấy ý kiến về quy hoạch các khu công nghiệp đông nam Đồng Phú (thành phố Đồng Nai), người dân kỳ vọng quy hoạch phải sát thực tế, công khai lộ trình và đảm bảo sinh kế bền vững cho người bị ảnh hưởng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/phoi-canh-17956124919491288847789-0-92-941-1598-crop-17956124985551127380479.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T05:43:00+07:00",
+"found": "2026-11-26T05:51:40+07:00"
+},
+{
 "id": "71b5fd5a6b57",
 "title": "Từng bị cho là ‘phá vườn’, lão nông Sơn La nay thu tiền tỷ từ cam, mận",
 "link": "https://vietnamnet.vn/tung-bi-cho-la-pha-vuon-lao-nong-son-la-nay-thu-tien-ty-tu-cam-man-2578526.html",
@@ -222,6 +244,65 @@
 "cat": "tc",
 "published": "2026-11-26T05:30:00+07:00",
 "found": "2026-11-26T05:36:30+07:00"
+},
+{
+"id": "7cea36686b0a",
+"title": "Tuấn \"Thần Đèn\" và cú ép doanh nghiệp gần 8 tỷ đồng",
+"link": "https://dantri.com.vn/phap-luat/tuan-than-den-va-cu-ep-doanh-nghiep-gan-8-ty-dong-20261125233135241.htm",
+"summary": "(Dân trí) - Từ việc yêu cầu doanh nghiệp khai thác khoáng sản liền kề bồi thường 3 tỷ đồng, Tuấn \"Thần Đèn\" bị cáo buộc chỉ đạo đàn em cưỡng đoạt hơn 96.500m3 đất, trị giá hơn 7,8 tỷ đồng.",
+"image": "https://cdnphoto.dantri.com.vn/KQ-iQ1e5PxiBS2uhjBOy_TbvnkE=/2026/11/25/tuan-than-den-cropped-1795624207246.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-26T05:30:00+07:00",
+"found": "2026-11-26T05:51:40+07:00"
+},
+{
+"id": "8b4658f1e8ac",
+"title": "xăng",
+"link": "https://laodong.vn/kinh-doanh/du-bao-gia-xang-giam-hon-1000-donglit-1806547.ldo",
+"summary": "Dự báo giá xăng giảm hơn 1.000 đồng/lít (Laodong.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3cpTzXDBV7PkawBaFLs94mbIJC5DvOnhlhuBBSOWfuh-8HBWgrwCVwTJfc44",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:30:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-26T05:51:40+07:00"
+},
+{
+"id": "05940dfb4e13",
+"title": "thứ hạng của burnley gặp birmingham city f.c.",
+"link": "https://www.bbc.com/sport/football/live/ckqx505l5x4qt",
+"summary": "Burnley 0-2 Birmingham City: Priske helps Blues maintain fine form (BBC)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTrw7EonsB16qK7erGFHa3hLo-RQ-U4ri8voJsMkwdTTfjd17lWChbT5eQrnQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T05:51:40+07:00"
+},
+{
+"id": "cc804dac939d",
+"title": "mất điện",
+"link": "https://vietnambiz.vn/lich-cup-dien-tp-hcm-ngay-mai-2511-va-2611-tan-thuan-binh-duong-thong-tay-hoi-binh-hung-hoa-binh-tri-dong-nha-be-cu-chi-di-an-bi-mat-dien-202611249721264.htm",
+"summary": "Lịch cúp điện TP HCM ngày mai 25/11 và 26/11 Tân Thuận, Bình Dương, Thông Tây Hội, Bình Hưng Hòa, Bình Trị Đông, Nhà Bè, Củ Chi, Dĩ An bị mất điện (VietnamBiz)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVgc3esRaoLx3NiIsw8mCDthUKqgV6krFjzd9OxYsni6IPOtVTmHd4U-Tl3bQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:30:00+07:00",
+"traffic": "500+",
+"found": "2026-11-26T05:51:40+07:00"
+},
+{
+"id": "c896a54dad87",
+"title": "lê thị riêng",
+"link": "https://tuoitre.vn/den-ngay-25-11-hon-400-hai-cot-liet-si-duoc-tim-thay-trong-dot-2-o-cong-vien-le-thi-rieng-100261125185756675.htm",
+"summary": "Đến ngày 25-11, hơn 400 hài cốt liệt sĩ được tìm thấy trong đợt 2 ở công viên Lê Thị Riêng (Tuổi Trẻ)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx9aT0PvIUb4WLWWCTPFcOjWQYZoSvR9-VNaJneOfM8QVkkSbJj_e-nD2tE5U",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T05:51:40+07:00"
 },
 {
 "id": "0d20809528a0",
@@ -267,7 +348,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T05:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-26T05:36:30+07:00"
 },
 {
@@ -317,6 +398,18 @@
 "published": "2026-11-26T05:10:00+07:00",
 "traffic": "100+",
 "found": "2026-11-26T05:36:30+07:00"
+},
+{
+"id": "40e10603bd87",
+"title": "sầu riêng",
+"link": "https://tuoitre.vn/mien-tay-tinh-ke-bao-ve-vuon-sau-rieng-ti-do-truoc-nan-el-nino-100261125173511034.htm",
+"summary": "Miền Tây tính kế bảo vệ vườn sầu riêng 'tỉ đô' trước nạn El Nino (Tuổi Trẻ)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRxnFOJIukrB1iB3lzG8Hn-AODwj_6-kKA3gHbgxYhWb0Djh-qDAcxyG7ZJBY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T05:51:40+07:00"
 },
 {
 "id": "886a943d5be4",
@@ -28001,94 +28094,6 @@
 "cat": "tc",
 "published": "2026-11-23T11:59:00+07:00",
 "found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "d0949667136a",
-"title": "Tỷ phú Nguyễn Thị Phương Thảo vừa bắt tay một tập đoàn Trung Quốc 35 năm tuổi: Tài sản hơn 22.000 tỷ, sở hữu công nghệ hàng không đặc biệt",
-"link": "https://kenh14.vn/ty-phu-nguyen-thi-phuong-thao-vua-bat-tay-mot-tap-doan-trung-quoc-35-nam-tuoi-tai-san-hon-22000-ty-so-huu-cong-nghe-hang-khong-dac-biet-215261123111733427.chn",
-"summary": "Thỏa thuận mới của Vietjet mở ra cơ hội phát triển các dịch vụ kỹ thuật hàng không hiện đại tại Việt Nam.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795407377020-1795407377360129533475.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-23T11:58:00+07:00",
-"found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "07677d023382",
-"title": "TPHCM quyết tâm hồi sinh kênh rạch: Bài 1: Bờ Bắc kênh Đôi bàn giao 99% mặt bằng, bờ Nam bắt đầu họp dân",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkpWQVZlMHlkNHhaTVV1QnRTVzRDSXJ4eWd2R1RkcXBYZGY2MlU0aXBZcGhZWWk2MVhjSERwN01LbnkxQU1SdllITHU5d1lUZWNmOHYtYm9PdDRUdW51dUppNklmZlpxQkE1MEI0RGJBTkxWM19mc3l3V3NFUTZyVkVyZ3NlZE9zVTB0T1VkNzRHSlJyWElwMFJ6ODlmNWNxb1NjY3JiTzdkXzh4UTVnZ1FzS0MwS0VFYUdKLUNtVERaYkxYcktNVTdaeVlhUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T11:56:44+07:00",
-"found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "a9335d838763",
-"title": "Cựu cảnh sát, cựu thẩm phán liên quan đường dây làm giả bệnh án thế nào?",
-"link": "https://thanhnien.vn/cuu-canh-sat-cuu-tham-phan-lien-quan-duong-day-lam-gia-benh-an-the-nao-185261123091356737.htm",
-"summary": "Trong đường dây làm giả bệnh án xảy ra tại Bệnh viện Phổi Hà Nội, cơ quan tố tụng xác định nhiều cựu cảnh sát, cựu thẩm phán liên quan với cáo buộc môi giới hối lộ.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/anh-man-hinh-2026-11-23-luc-091242-17953999702551996418294-0-6-1116-1792-crop-17953999768741268811177.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T11:56:00+07:00",
-"found": "2026-11-23T11:57:38+07:00"
-},
-{
-"id": "3d9b4d09d5e7",
-"title": "Nam bộ nắng nóng bất thường nhất 35 năm",
-"link": "https://thanhnien.vn/nam-bo-nang-nong-bat-thuong-nhat-35-nam-185261123114738606.htm",
-"summary": "Lần đầu trong 35 năm qua, Nam bộ xuất hiện đợt nắng nóng diện rộng trong tháng 11 với mức nhiệt cao nhất đến 36 độ C.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/tnw-179453171881220012550051415708763568764129611676799a7491625b4cd5c12c40f0e40395bcca9-1794531739007249346300-73-0-739-1065-crop-17954090476031379536748.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-23T11:54:00+07:00",
-"found": "2026-11-23T11:57:38+07:00"
-},
-{
-"id": "b0865c5365d7",
-"title": "Dâu tây nhập khẩu rẻ bằng 1/5 hàng nội, để ngoài trời 10 ngày không hư",
-"link": "https://dantri.com.vn/kinh-doanh/dau-tay-nhap-khau-re-bang-15-hang-noi-de-ngoai-troi-10-ngay-khong-hu-20261123113248362.htm",
-"summary": "(Dân trí) - Dâu tây nhập khẩu giá chỉ từ 60.000 đồng/kg, trái to, đẹp, có thể bày bán ngoài trời 7-10 ngày vẫn không hư trong khi hàng nội địa giá cao gấp 5 lần nhưng thời gian bảo quản chỉ 2 ngày.",
-"image": "https://cdnphoto.dantri.com.vn/NcTA_Uj3__C0P8VqRx6dCa3Ad1A=/2026/11/23/3-cropped-1795408257698.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-23T11:53:58+07:00",
-"found": "2026-11-23T12:28:35+07:00"
-},
-{
-"id": "ba283d3b572e",
-"title": "Dâu tây nhập khẩu rẻ bằng 1/5 hàng nội, có loại để 10 ngày không hư",
-"link": "https://dantri.com.vn/kinh-doanh/dau-tay-nhap-khau-re-bang-15-hang-noi-co-loai-de-10-ngay-khong-hu-20261123113248362.htm",
-"summary": "(Dân trí) - Dâu tây nhập khẩu giá chỉ từ 60.000 đồng/kg, trái to, đẹp, có thể bày bán ngoài trời 7-10 ngày vẫn không hư trong khi hàng nội địa giá cao gấp 5 lần nhưng thời gian bảo quản chỉ 2 ngày.",
-"image": "https://cdnphoto.dantri.com.vn/NcTA_Uj3__C0P8VqRx6dCa3Ad1A=/2026/11/23/3-cropped-1795408257698.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-23T11:53:58+07:00",
-"found": "2026-11-23T13:30:46+07:00"
-},
-{
-"id": "e826a9852e3c",
-"title": "Nhà đầu tư được kiểm chứng giá trị thực tại Nam Long II Central Lake",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1VndjlLeV9lRERNRVVNOWlRQi1nZ0g4YkNhRmhmeE1nc0Z1aF9YRmk2eDRKajE3YmZBOGZjYWQ5NzRhRy1DT095WXlGLTBhbDVMcXNZbTZmV09xdTR5Qk93SXk0NXpvcmxMWEt4VFZVVlVtVlRGRzZOMG5QQkluamRPV05pd3hpSWlnaHFPdHhIM251OGRlSUViRy1CLTBXVWJZ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T11:53:10+07:00",
-"found": "2026-11-23T12:28:35+07:00"
-},
-{
-"id": "6c60140fbe8f",
-"title": "Tất cả người dân đang có thẻ BHYT chú ý thông báo quan trọng từ BHXH Việt Nam",
-"link": "https://kenh14.vn/tat-ca-nguoi-dan-dang-co-the-bhyt-chu-y-thong-bao-quan-trong-tu-bhxh-viet-nam-21526112311442559.chn",
-"summary": "Mỗi tấm thẻ BHYT không chỉ là sự bảo vệ cho chính bản thân người tham gia mà còn là sự đóng góp vào quỹ chung để hỗ trợ những người không may mắc bệnh.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795409022594-17954090236931758827463.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-23T11:53:00+07:00",
-"found": "2026-11-23T12:13:06+07:00"
 }
 ]
 }
