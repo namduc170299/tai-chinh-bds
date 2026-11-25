@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T00:39:29+07:00",
-"new": 0,
+"updated": "2026-11-26T00:55:00+07:00",
+"new": 1,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 55
 },
 {
 "name": "Kenh14",
@@ -344,6 +344,17 @@
 "cat": "bds",
 "published": "2026-11-26T00:00:00+07:00",
 "found": "2026-11-26T00:39:11+07:00"
+},
+{
+"id": "81263a7f6f9b",
+"title": "Cảnh sát cải trang shipper trả thù tình cũ vì ghen",
+"link": "https://vnexpress.net/canh-sat-cai-trang-shipper-tra-thu-tinh-cu-vi-ghen-5148875.html",
+"summary": "Ám ảnh và ghen tuông, cảnh sát Beau Lamarre-Condon theo dõi, quấy rối tình cũ trong nhiều tháng, trước khi lên kế hoạch sát hại cặp đôi mới rồi phi tang xác.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/img138720240227062942581-17956-2169-3400-1795606281.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=i5J1VEU8OAbC-imqhhqJeQ",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-26T00:00:00+07:00",
+"found": "2026-11-26T00:55:00+07:00"
 },
 {
 "id": "f93ea6cccc3a",
@@ -28042,17 +28053,6 @@
 "cat": "xh",
 "published": "2026-11-23T10:43:13+07:00",
 "found": "2026-11-25T08:20:48+07:00"
-},
-{
-"id": "f23cc647700e",
-"title": "Cận cảnh \"núi xe máy\" vi phạm ở TP.HCM sắp được đấu giá",
-"link": "https://kenh14.vn/can-canh-nui-xe-may-vi-pham-o-tphcm-sap-duoc-dau-gia-215261123101424135.chn",
-"summary": "Hơn 34.000 xe máy là tang vật vi phạm hành chính bị tịch thu tại TP.HCM sắp được đưa ra đấu giá theo hình thức bán phế liệu.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795403616464-179540361712770765370.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-23T10:42:00+07:00",
-"found": "2026-11-23T10:58:21+07:00"
 }
 ]
 }
