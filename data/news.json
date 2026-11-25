@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T08:36:20+07:00",
-"new": 16,
+"updated": "2026-11-25T08:51:54+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 23
+"count": 54
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,61 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "bb8e43db0cc5",
+"title": "Xăng giảm nhiều kỳ, vì sao cước xe khách vẫn chưa hạ?",
+"link": "https://vietnamnet.vn/xang-giam-nhieu-ky-vi-sao-cuoc-xe-khach-van-chua-ha-2577824.html",
+"summary": "Niềm vui từ việc giá nhiên liệu hạ nhiệt vẫn chưa lan tỏa đúng như kỳ vọng của người tiêu dùng, khi các dịch vụ đi kèm như giá cước vận tải chưa được điều chỉnh tương ứng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/xang-giam-nhieu-ky-vi-sao-cuoc-xe-khach-van-chua-ha-6521.jpg?width=0&s=5BbSOLE5SI0m602QqJha_g",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-25T08:50:55+07:00",
+"found": "2026-11-25T05:37:31+07:00"
+},
+{
+"id": "232bb6530959",
+"title": "Khách đến xem, khảo giá rồi về mua online, siêu thị điện máy chao đảo mùa cao điểm",
+"link": "https://vietnamnet.vn/khach-den-xem-roi-mua-online-sieu-thi-dien-may-diu-hiu-mua-cao-diem-2578280.html",
+"summary": "Liên tục tung chương trình giảm giá, khuyến mại dịp cuối năm, nhiều siêu thị điện máy vẫn khá vắng khách. Một bộ phận người tiêu dùng đến cửa hàng để xem và trải nghiệm sản phẩm, sau đó tìm giá tốt hơn trên các sàn thương mại điện tử để đặt mua.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/khach-den-xem-khao-gia-roi-ve-mua-online-sieu-thi-dien-may-chao-dao-mua-cao-diem-7198.jpg?width=0&s=VSc34-MhuwlTOOTooDeiiw",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-25T08:50:22+07:00",
+"found": "2026-11-25T06:07:52+07:00"
+},
+{
+"id": "0fbb2e200f3d",
+"title": "Chuyển nhầm 301 triệu, bị ngân hàng trích hơn 261 triệu để thu hồi nợ của bên nhận tiền",
+"link": "https://vietnamnet.vn/chuyen-nham-301-trieu-bi-ngan-hang-trich-hon-261-trieu-de-thu-hoi-no-2573160.html",
+"summary": "Chuyển nhầm hơn 301 triệu đồng vào tài khoản người lạ, anh T. được trả lại hơn 39 triệu đồng. Số tiền còn lại đã bị ngân hàng cấn trừ vào khoản vay của người nhận, khiến anh phải khởi kiện để đòi lại.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/chuyen-nham-301-trieu-bi-ngan-hang-trich-hon-261-trieu-de-thu-hoi-no-cua-ben-nhan-tien-6721.jpg?width=0&s=IzsYh9U2XdwOe5u8rQsoPQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-25T08:49:58+07:00",
+"found": "2026-11-25T05:52:42+07:00"
+},
+{
+"id": "5e05b18d2243",
+"title": "Dự báo thời tiết 25/11/2026: Miền Bắc rét nhất đợt, Trung Bộ mưa rất lớn",
+"link": "https://vietnamnet.vn/du-bao-thoi-tiet-25-11-2026-mien-bac-ret-sau-trung-bo-mua-lon-2572290.html",
+"summary": "Không khí lạnh tiếp tục được tăng cường khiến miền Bắc rét sâu hơn. Từ Huế đến phía đông Quảng Ngãi có mưa to đến rất to, nguy cơ ngập úng, lũ quét và sạt lở đất. VietNamNet cập nhật những diễn biến mới nhất về thời tiết trên cả nước.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/2026-mien-bac-ret-nhat-dot-trung-bo-mua-rat-lon-18.jpg?width=0&s=7MKq73zBNjwTMUkqwe-Wdw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-25T08:46:03+07:00",
+"found": "2026-11-25T05:22:21+07:00"
+},
+{
+"id": "42b537e8fed7",
+"title": "BAF tiếp tục mở rộng quy mô đầu tư, khởi công dự án chế biến thực phẩm mới 1.250 tỷ đồng tại Gia Lai",
+"link": "https://cafef.vn/baf-tiep-tuc-mo-rong-quy-mo-dau-tu-khoi-cong-du-an-che-bien-thuc-pham-moi-1250-ty-dong-tai-gia-lai-188261125083917014.chn",
+"summary": "Tiếp nối đà phát triển mạnh mẽ của hệ thống 03 nhà máy sản xuất thức ăn chăn nuôi và hơn 50 trang trại chăn nuôi công nghệ cao trải dài khắp cả nước, việc khởi công Nhà máy chế biến thực phẩm BAF Gia Lai thể hiện sự quyết liệt của BAF trong việc nâng cao năng lực sản xuất ở mảng…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795570728426-17955707289381343214506.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T08:39:00+07:00",
+"found": "2026-11-25T08:51:54+07:00"
+},
+{
 "id": "5e4851638e81",
 "title": "Hơn 5.300 cơ sở nhà, đất dôi dư chưa được xử lý",
 "link": "https://cafef.vn/hon-5300-co-so-nha-dat-doi-du-chua-duoc-xu-ly-188261125074431019.chn",
@@ -224,15 +279,15 @@
 "found": "2026-11-25T08:36:20+07:00"
 },
 {
-"id": "5e05b18d2243",
-"title": "Dự báo thời tiết 25/11/2026: Miền Bắc rét nhất đợt, Trung Bộ mưa rất lớn",
-"link": "https://vietnamnet.vn/du-bao-thoi-tiet-25-11-2026-mien-bac-ret-sau-trung-bo-mua-lon-2572290.html",
-"summary": "Không khí lạnh tiếp tục được tăng cường khiến miền Bắc rét sâu hơn. Từ Huế đến phía đông Quảng Ngãi có mưa to đến rất to, nguy cơ ngập úng, lũ quét và sạt lở đất. VietNamNet cập nhật những diễn biến mới nhất về thời tiết trên cả nước.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/2026-mien-bac-ret-nhat-dot-trung-bo-mua-rat-lon-18.jpg?width=0&s=7MKq73zBNjwTMUkqwe-Wdw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-25T08:31:39+07:00",
-"found": "2026-11-25T05:22:21+07:00"
+"id": "99030e394c45",
+"title": "Giá dầu thô giảm nhẹ",
+"link": "https://dantri.com.vn/kinh-doanh/gia-dau-tho-giam-nhe-20261125082812769.htm",
+"summary": "(Dân trí) - Giá dầu giảm khi giới giao dịch cân nhắc giữa dấu hiệu nguồn cung gia tăng và các vụ tấn công tàu thuyền ngày càng leo thang quanh eo biển Hormuz.",
+"image": "https://cdnphoto.dantri.com.vn/u8pTeHjXclHamFPl-XLUSyvGNfU=/2026/11/25/gia-dau-tho-giam-nhe-cropped-1795570050759.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-25T08:31:04+07:00",
+"found": "2026-11-25T08:51:54+07:00"
 },
 {
 "id": "11b353da974f",
@@ -244,6 +299,18 @@
 "cat": "tc",
 "published": "2026-11-25T08:30:37+07:00",
 "found": "2026-11-25T08:36:20+07:00"
+},
+{
+"id": "d6a088642089",
+"title": "giàu",
+"link": "https://vnexpress.net/ba-con-giap-tai-loc-tang-vot-van-may-lien-tiep-cuoi-nam-2026-5147172.html",
+"summary": "Ba con giáp tài lộc tăng vọt, vận may liên tiếp cuối năm 2026 (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQCRWFXVXM7irB4LAZPR2JZKZoQsoOMqf3Dtc_0J26x8vePzEZL0fBVKIJZaE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T08:30:00+07:00",
+"traffic": "500+",
+"found": "2026-11-25T08:51:54+07:00"
 },
 {
 "id": "b1ca92980320",
@@ -266,6 +333,17 @@
 "cat": "tc",
 "published": "2026-11-25T08:24:04+07:00",
 "found": "2026-11-25T08:36:20+07:00"
+},
+{
+"id": "455b8e62a1c8",
+"title": "Vi phạm hành chính trong lĩnh vực khoáng sản bị phạt tối đa đến 2 tỷ đồng",
+"link": "https://dantri.com.vn/kinh-doanh/vi-pham-hanh-chinh-trong-linh-vuc-khoang-san-bi-phat-toi-da-den-2-ty-dong-20261125082112202.htm",
+"summary": "(Dân trí) - Tổ chức vi phạm hành chính trong lĩnh vực khoáng sản có thể bị phạt tối đa 2 tỷ đồng, đình chỉ hoạt động đến 12 tháng hoặc bị tước quyền sử dụng giấy phép khai thác khoáng sản có thời hạn.",
+"image": "https://cdnphoto.dantri.com.vn/3TINonICNvcaJyqJtLtirfNByuE=/2026/11/25/vi-pham-hanh-chinh-trong-linh-vuc-khoang-san-bi-phat-toi-da-den-2-ty-dong-cropped-1795569612092.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-25T08:23:46+07:00",
+"found": "2026-11-25T08:51:54+07:00"
 },
 {
 "id": "2036b1a8853a",
@@ -721,7 +799,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T07:40:00+07:00",
-"traffic": "500+",
+"traffic": "200+",
 "found": "2026-11-25T08:20:48+07:00"
 },
 {
@@ -733,7 +811,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T07:40:00+07:00",
-"traffic": "100+",
+"traffic": "5000+",
 "found": "2026-11-25T08:20:48+07:00"
 },
 {
@@ -1003,6 +1081,17 @@
 "cat": "xh",
 "published": "2026-11-25T07:04:00+07:00",
 "found": "2026-11-25T07:39:37+07:00"
+},
+{
+"id": "613708154fc0",
+"title": "Corriere dello Sport: Højlund được cho là đã bày tỏ lòng tri ân Man Utd khi ăn mừng bàn thắng, gây xôn xao mạng xã hội",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX01VMFdqMGpwR0JtNy1JQUVJM3RaZmxRdzNEWmxaTWdfYkRuSUNiV3lQYUg0SVdKUXVSQTBTRnRKRWZpczNwVV96YVktYU13aU5Cd0t3OVE1TzlnNWdNUmE4NXJETjlPandHOVpBY2VWZ2gtZVFMMVB3OVVHVThkRDlNYTV5d05vSXp2MEFoZy15QQ?oc=5",
+"summary": "Nguồn: AllFootball",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-25T06:57:06+07:00",
+"found": "2026-11-25T08:51:54+07:00"
 },
 {
 "id": "4efc2335402d",
@@ -1355,17 +1444,6 @@
 "found": "2026-11-25T06:07:52+07:00"
 },
 {
-"id": "232bb6530959",
-"title": "Khách đến xem, khảo giá rồi về mua online, siêu thị điện máy chao đảo mùa cao điểm",
-"link": "https://vietnamnet.vn/khach-den-xem-roi-mua-online-sieu-thi-dien-may-diu-hiu-mua-cao-diem-2578280.html",
-"summary": "Liên tục tung chương trình giảm giá, khuyến mại dịp cuối năm, nhiều siêu thị điện máy vẫn khá vắng khách. Một bộ phận người tiêu dùng đến cửa hàng để xem và trải nghiệm sản phẩm, sau đó tìm giá tốt hơn trên các sàn thương mại điện tử để đặt mua.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/khach-den-xem-khao-gia-roi-ve-mua-online-sieu-thi-dien-may-chao-dao-mua-cao-diem-7198.jpg?width=0&s=VSc34-MhuwlTOOTooDeiiw",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-25T06:00:00+07:00",
-"found": "2026-11-25T06:07:52+07:00"
-},
-{
 "id": "3390cdb50ab6",
 "title": "Hàng không dịp tết 2027: Sân bay Long Thành giảm tải cho Tân Sơn Nhất",
 "link": "https://thanhnien.vn/hang-khong-dip-tet-2027-san-bay-long-thanh-giam-tai-cho-tan-son-nhat-185261124210742166.htm",
@@ -1546,17 +1624,6 @@
 "found": "2026-11-25T05:52:42+07:00"
 },
 {
-"id": "0fbb2e200f3d",
-"title": "Chuyển nhầm 301 triệu, bị ngân hàng trích hơn 261 triệu để thu hồi nợ của bên nhận tiền",
-"link": "https://vietnamnet.vn/chuyen-nham-301-trieu-bi-ngan-hang-trich-hon-261-trieu-de-thu-hoi-no-2573160.html",
-"summary": "Chuyển nhầm hơn 301 triệu đồng vào tài khoản người lạ, anh T. được trả lại hơn 39 triệu đồng. Số tiền còn lại đã bị ngân hàng cấn trừ vào khoản vay của người nhận, khiến anh phải khởi kiện để đòi lại.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/chuyen-nham-301-trieu-bi-ngan-hang-trich-hon-261-trieu-de-thu-hoi-no-cua-ben-nhan-tien-6721.jpg?width=0&s=IzsYh9U2XdwOe5u8rQsoPQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-25T05:45:00+07:00",
-"found": "2026-11-25T05:52:42+07:00"
-},
-{
 "id": "65f2f2b99856",
 "title": "Gây xôn xao khi 'đi học bằng máy bay' hằng tuần, cô gái 24 tuổi nói gì?",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFB5bi0xV05WeGNPNlNpVjNQdXk3UkFPdUpTV2xFYWpzbnh5VnpmNU82eXgyX0NjbzMxTGt5a2hXaE80R3lXOFdya0xYSkZpTzFxS3Q2aURtanNVZGswUFhIaFdvOEsyVHROU09LcnZHekMxb3hzdF9fX1RzOFFmZjRiaGJ6SmVhSkV3UlhWZm41a2VzSzA0bWMxeFFFZDNmZUVySWpTREw3bWdjYWdmcA?oc=5",
@@ -1590,17 +1657,6 @@
 "published": "2026-11-25T05:40:00+07:00",
 "traffic": "100+",
 "found": "2026-11-25T07:03:10+07:00"
-},
-{
-"id": "bb8e43db0cc5",
-"title": "Xăng giảm nhiều kỳ, vì sao cước xe khách vẫn chưa hạ?",
-"link": "https://vietnamnet.vn/xang-giam-nhieu-ky-vi-sao-cuoc-xe-khach-van-chua-ha-2577824.html",
-"summary": "Niềm vui từ việc giá nhiên liệu hạ nhiệt vẫn chưa lan tỏa đúng như kỳ vọng của người tiêu dùng, khi các dịch vụ đi kèm như giá cước vận tải chưa được điều chỉnh tương ứng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/xang-giam-nhieu-ky-vi-sao-cuoc-xe-khach-van-chua-ha-6521.jpg?width=0&s=5BbSOLE5SI0m602QqJha_g",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-25T05:30:00+07:00",
-"found": "2026-11-25T05:37:31+07:00"
 },
 {
 "id": "eee200e9fe56",
@@ -3362,6 +3418,17 @@
 "cat": "bds",
 "published": "2026-11-24T20:26:16+07:00",
 "found": "2026-11-24T20:59:33+07:00"
+},
+{
+"id": "ae1abac9e551",
+"title": "Lâm Đồng vươn lên top 9 cả nước về xử lý nhà, đất dôi dư",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcVdxRWdzYzVpX1JRYkVVNFJmMXpNMTB4dEJRY3JELWJ1Q0VldXd2TF9CQktPQ3k4dlFpS3lZTXdfaG5CeklXNU55d1FiX1ZoU0RMNDlJUUVYSG9Tam83OG5mbUFwUExGVXhLNGR5MUU0bmdKWVRoR2Uwa0xMcTcyNmFxR05wTzVRdXRBMkhSR2IzUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-24T20:26:00+07:00",
+"found": "2026-11-25T08:51:54+07:00"
 },
 {
 "id": "706023980500",
@@ -9940,18 +10007,6 @@
 "cat": "bds",
 "published": "2026-11-24T07:00:00+07:00",
 "found": "2026-11-24T07:18:11+07:00"
-},
-{
-"id": "55aed3227760",
-"title": "giàu",
-"link": "https://cafef.vn/2-tuan-nua-se-co-3-con-giap-gap-thoi-doi-van-tai-loc-phat-dat-cuoc-song-sang-trang-188261123185938486.chn",
-"summary": "2 tuần nữa sẽ có 3 con giáp gặp thời đổi vận, tài lộc phát đạt, cuộc sống sang trang (CafeF)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpqc52xAGx61gLRy1Z9ivd-8Jsuc7M5-YQCP6R-Taze2lTS8F1dpmS01-nKYo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T07:00:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-24T07:49:19+07:00"
 },
 {
 "id": "93b054f3741d",
@@ -28066,61 +28121,6 @@
 "cat": "mxh",
 "published": "2026-11-22T08:40:00+07:00",
 "found": "2026-11-22T09:09:33+07:00"
-},
-{
-"id": "6f56ce562274",
-"title": "Bi kịch gia đình phía sau vụ án ma túy 'khủng' hơn 128 kg",
-"link": "https://kenh14.vn/bi-kich-gia-dinh-phia-sau-vu-an-ma-tuy-khung-hon-128-kg-215261122074454613.chn",
-"summary": "Trong đường dây ma túy quy mô hơn 128 kg, nhiều cặp vợ chồng, chị em ruột, cô – cháu cùng sa chân vào phạm tội, từ nhận hàng ở bãi cỏ, dùng sổ tiết kiệm của con đến biến chính mái ấm gia đình thành nơi cất giấu hàng cấm.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/22/avatar1795308232482-1795308233125590417672.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-22T08:39:00+07:00",
-"found": "2026-11-22T08:54:03+07:00"
-},
-{
-"id": "1afa39cefa36",
-"title": "Giá đền bù 'chung cư ông Thản' gây chú ý; dự án nhà ở xã hội lớn nhất cả nước",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMU1CRHJXTW11UHNSQk9ucE9PcnpzTWg4QnpPZzZRN29BcG5GSlkwNnIyTWluNnRNQlZQUWFwOThWRG5mYy1aWVppSkZJSU1uODhYMGYydzJhS2VjVF81aE94S1J2NUlGU2tjS3FPdUZ4M0tPaWNtQjFQVFlPOUw3Y3pPMnRWUjc5bnN2TTZRQ1RIRlFKQ0ZtNVBzV2dpVDBfSVZLbUZuSWJnY2c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-22T08:38:00+07:00",
-"found": "2026-11-22T08:54:03+07:00"
-},
-{
-"id": "d0d2731e0a0a",
-"title": "Lộ diện DN nhận chuyển nhượng VietinBank Tower; gỡ vướng đóng mã số thuế",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUJMY3hKZEZhZ01GYnNDaEs3Q29MRWhpejNDTndRVUNPVXBpQ2dwenJNU2xBbWNhbDhHVDJYOFZzRlFnWktmdXlPWUZjZjQyV3p6ZFF5QW9VWV8tUV95WTE0SnBKMjVjb3VIMDdVOVktT0psekFrdVZMVnZUZkxCbFdWVVlhQmxOX181MV9aeTcyLXN1Sm1fSjA0OEctTHhvLUpGY0Rjdw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T08:38:00+07:00",
-"found": "2026-11-22T08:54:03+07:00"
-},
-{
-"id": "2d64f7c2fe25",
-"title": "Đón đọc Tạp chí Kinh tế Việt Nam số 47-2026",
-"link": "https://vneconomy.vn/don-doc-tap-chi-kinh-te-viet-nam-so-47-2026.htm",
-"summary": "Mời quý độc giả đón đọc Tạp chí Kinh tế Việt Nam số 47-2026 phát hành ngày 23/11/2025 với nhiều chuyên mục hấp dẫn...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/21/998c63132d374f928beeea2445ab1bf4-137643.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-22T08:36:46+07:00",
-"found": "2026-11-22T08:38:53+07:00"
-},
-{
-"id": "d3261035707e",
-"title": "Ngắm 4 đường chính Thủ Thiêm hơn 8.200 tỉ đồng ở TP.HCM sắp hoàn thành",
-"link": "https://thanhnien.vn/ngam-4-duong-chinh-thu-thiem-hon-8200-ti-dong-o-tphcm-sap-hoan-thanh-185261120152702465.htm",
-"summary": "4 đường chính Thủ Thiêm (TP.HCM) với tổng vốn hơn 8.200 tỉ đồng dần lộ diện khi công nhân tăng tốc thi công những tháng cuối năm 2026.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/edit-edit-4-tuyen-duong-chinh-thu-thiem-toan-canh-17951630226371949239343.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-22T08:36:00+07:00",
-"found": "2026-11-22T08:38:53+07:00"
 }
 ]
 }
