@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T05:51:40+07:00",
-"new": 8,
+"updated": "2026-11-26T06:06:56+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 57
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,130 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "073dff19e58a",
+"title": "Loại quả ruột đen như sô cô la, giá 150 nghìn đồng/kg hút khách",
+"link": "https://vietnamnet.vn/hong-ruot-den-nhu-so-co-la-gia-150-000-dong-kg-van-hut-khach-2578432.html",
+"summary": "Hồng sô cô la đang được nhiều tiểu thương rao bán tại TPHCM với giá 140.000-150.000 đồng/kg. Loại quả có phần thịt màu nâu đen, mềm dẻo và được quảng cáo có hương vị giống sô cô la thu hút sự chú ý của người tiêu dùng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/kg-hut-khach-6719.jpg?width=0&s=T7LI1JdC_jdDDLkJ5nCMUw",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-26T06:00:00+07:00",
+"found": "2026-11-26T06:06:56+07:00"
+},
+{
+"id": "c4c90698f9b9",
+"title": "Cơ hội phát triển TP.HCM thành trung tâm logistics toàn cầu",
+"link": "https://thanhnien.vn/co-hoi-phat-trien-tphcm-thanh-trung-tam-logistics-toan-cau-185261125223521287.htm",
+"summary": "TP.HCM có đủ điều kiện để phát triển hệ sinh thái logistics đồng bộ, trở thành trung tâm logistics toàn cầu và cần thực hiện nhiều giải pháp để biến cơ hội thành hiện thực.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-cang-cat-lai-doc-lap-17956204886111118641857-0-242-1440-2546-crop-17956205206561641883661.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-26T06:00:00+07:00",
+"found": "2026-11-26T06:06:56+07:00"
+},
+{
+"id": "9e3d0bbae7b7",
+"title": "Cảnh báo bẫy tiền thưởng, nhận hoa hồng từ ngân hàng",
+"link": "https://thanhnien.vn/canh-bao-bay-tien-thuong-nhan-hoa-hong-tu-ngan-hang-185261125200239062.htm",
+"summary": "Không chỉ giả danh ngân hàng gửi tin nhắn thông báo trúng thưởng, hoàn tiền, đổi điểm tích lũy, các đối tượng lừa đảo còn sử dụng kỹ thuật chèn tin nhắn giả vào chính tin nhắn SMS của ngân hàng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/h-giac-voi-nhung-cuoc-goi-tin-nhan-tri-an-trung-thuong-hoan-tien-cuoi-namanh-quang-thuan-tao-bang-ai-17956114962281969232618-0-50-576-972-crop-17956115099991746329717.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-26T06:00:00+07:00",
+"found": "2026-11-26T06:06:56+07:00"
+},
+{
+"id": "57d7111c6875",
+"title": "Được xóa nợ, vì sao người nộp thuế vẫn có thể bị hoãn xuất cảnh?",
+"link": "https://thanhnien.vn/duoc-xoa-no-vi-sao-nguoi-nop-thue-van-co-the-bi-hoan-xuat-canh-185261125192855942.htm",
+"summary": "Việc xóa lệ phí môn bài, tiền chậm nộp lệ phí môn bài không có nghĩa biện pháp tạm hoãn xuất cảnh không còn áp dụng đối với người nộp thuế.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-no-thue-17956097237681374195902-29-0-669-1024-crop-17956113565271511270958.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-26T06:00:00+07:00",
+"found": "2026-11-26T06:06:56+07:00"
+},
+{
+"id": "ba2f7a32cc55",
+"title": "Dự án chống ngập 10.000 tỉ chính thức vận hành",
+"link": "https://thanhnien.vn/du-an-chong-ngap-10000-ti-chinh-thuc-van-hanh-185261125180459267.htm",
+"summary": "Không chỉ giữ khô ráo các \"rốn ngập\", đưa vào vận hành dự án chống ngập 10.000 tỉ đồng còn mở ra lời giải dài hạn về quy hoạch thích ứng biến đổi khí hậu cho siêu đô thị TP.HCM.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/chong-ngap-1795604691841641207212-32-0-672-1024-crop-1795611167442975653343.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-26T06:00:00+07:00",
+"found": "2026-11-26T06:06:56+07:00"
+},
+{
+"id": "acd7c4e47480",
+"title": "Màn kịch lừa giang hồ Tuấn 'Thần đèn' của cán bộ kiểm lâm",
+"link": "https://vnexpress.net/man-kich-lua-giang-ho-tuan-than-den-cua-can-bo-kiem-lam-5148835.html",
+"summary": "Biết doanh nghiệp của Tuấn \"Thần đèn\" muốn khai thác 11 mỏ đất, cán bộ kiểm lâm Hoàng Văn Phú bịa chuyện vướng quy hoạch, nhận 660 triệu đồng để \"chạy\" thủ tục.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/5de9b005-dd8fbc0-a76db2308b335-8326-5542-1795617185.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iMrBgg1uzZ6tbQVrwmkVCQ",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-26T06:00:00+07:00",
+"found": "2026-11-26T06:06:56+07:00"
+},
+{
+"id": "3db507bf7515",
+"title": "Vì sao người trẻ lại dành thời gian giúp những người xa lạ?",
+"link": "https://thanhnien.vn/vi-sao-nguoi-tre-lai-danh-thoi-gian-giup-nhung-nguoi-xa-la-185261125163554327.htm",
+"summary": "Giao tiếp không chỉ là cách nói chuyện, ứng xử hay tạo thiện cảm. Từ những câu chuyện đời thường đến sáng kiến cộng đồng, nhiều người trẻ đang cho thấy khả năng lắng nghe, kết nối và hợp tác có thể trở thành sức mạnh tạo nên những thay đổi tích cực cho xã hội.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/nguoi-tre-1795598942220544043850-0-92-573-1009-crop-17956019855641235679753.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-26T06:00:00+07:00",
+"found": "2026-11-26T06:06:56+07:00"
+},
+{
+"id": "3bf604ab065f",
+"title": "Ma trận 'xuân dược': Rao bán công khai",
+"link": "https://thanhnien.vn/ma-tran-xuan-duoc-rao-ban-cong-khai-185261125222606049.htm",
+"summary": "'Xuân dược' không chỉ được bán tràn lan trên không gian mạng mà còn xuất hiện công khai trên nhiều tuyến đường, khu vực quanh các bến xe tại TP.HCM.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/thumb-17956261897972031862358-1-94-1080-1821-crop-179562625925716589182.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T05:50:00+07:00",
+"found": "2026-11-26T06:06:56+07:00"
+},
+{
+"id": "c413997d4f0f",
+"title": "giải bóng đá vô địch thế giới",
+"link": "https://thanhnien.vn/nong-u17-viet-nam-don-tin-vui-100-vao-vong-32-doi-world-cup-neu-185261125233212424.htm",
+"summary": "Nóng: U.17 Việt Nam đón tin vui, 100% vào vòng 32 đội World Cup nếu... (Thanh Niên)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYV4mBF4FuSW4fRgaTMPbio-rVDn9V9DthzwQx1WPEs1ryIMZSOA3EziZHmT0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:50:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-26T06:06:56+07:00"
+},
+{
+"id": "3f3271a517ff",
+"title": "nội bài",
+"link": "https://znews.vn/san-bay-noi-bai-kich-hoat-phuong-an-khan-vi-dieu-tha-gan-duong-ha-canh-post1698992.html",
+"summary": "Sân bay Nội Bài kích hoạt phương án khẩn vì diều thả gần đường hạ cánh (Znews)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGYbCKXHcN_7YAb798P_58Nj2zZymnUPUu27Zo44tZ5JQ_wrc4XozXjwMFhOY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T06:06:56+07:00"
+},
+{
+"id": "4019a7209954",
+"title": "tuổi trẻ",
+"link": "https://nhandan.vn/ha-noi-xac-dinh-nguyen-nhan-vu-no-tren-pho-nguyen-van-tuyet-post1005179.html",
+"summary": "Hà Nội: Xác định nguyên nhân vụ nổ trên phố Nguyễn Văn Tuyết (Báo Nhân Dân điện tử)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvEr8d6_fP9A-TCqFyBexFKEImK5LmIIFYyQKLvxD8TtApr1iak8Y85N-PWOg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T06:06:56+07:00"
+},
+{
 "id": "35cddebbd4c5",
 "title": "Bộ Tài chính đưa ra cách thức ngăn chặn tình trạng lập doanh nghiệp &apos;ma&apos;",
 "link": "https://vietnamnet.vn/bo-tai-chinh-dua-ra-cach-thuc-ngan-chan-tinh-trang-lap-doanh-nghiep-ma-2578310.html",
@@ -233,6 +357,18 @@
 "cat": "xh",
 "published": "2026-11-26T05:43:00+07:00",
 "found": "2026-11-26T05:51:40+07:00"
+},
+{
+"id": "8ffb33b5669b",
+"title": "chi lợn",
+"link": "https://laodong.vn/thi-truong/gia-heo-hoi-hom-nay-2511-di-ngang-dao-dong-tu-51000-55000-dongkg-1806203.ldo",
+"summary": "Giá heo hơi hôm nay 25.11: Đi ngang, dao động từ 51.000 - 55.000 đồng/kg (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlmhWfBg2kL1562145oYpR5DNY_9kkHmRLSjXmkQY3LOB93JA8lxlSIzOj-cU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T06:06:56+07:00"
 },
 {
 "id": "71b5fd5a6b57",
@@ -265,7 +401,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T05:30:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-26T05:51:40+07:00"
 },
 {
@@ -11422,18 +11558,6 @@
 "link": "https://thethao247.vn/441-nhan-dinh-feyenoord-vs-fc-porto-thu-thach-tai-de-kuip-3h00-ngay-25-11-2026-c288-d446610.html",
 "summary": "Nhận định Feyenoord vs FC Porto: Thử thách tại De Kuip, 3h00 ngày 25/11/2026 (Thể Thao 247)",
 "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8UPWHu2YAAbVx7SlddUuOs4ZJ0BdWxpHNl91AOwxwUNmF_iUbPE3C7JA4dCA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T05:30:00+07:00",
-"traffic": "100+",
-"found": "2026-11-25T05:52:42+07:00"
-},
-{
-"id": "a0d20dcf0d4a",
-"title": "chi lợn",
-"link": "https://laodong.vn/thi-truong/gia-heo-hoi-hom-nay-2411-giam-manh-cao-nhat-o-muc-55000-dongkg-1805625.ldo",
-"summary": "Giá heo hơi hôm nay 24.11: Giảm mạnh, cao nhất ở mức 55.000 đồng/kg (Laodong.vn)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUO9sn95tEwKrsul4NjJc5Dk-wVCNGoDQaZhYuJGYm6Tx7ofvztPq1g9En6cc",
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T05:30:00+07:00",
@@ -27973,127 +28097,6 @@
 "cat": "xh",
 "published": "2026-11-23T12:11:00+07:00",
 "found": "2026-11-23T14:02:05+07:00"
-},
-{
-"id": "e018f58891b0",
-"title": "Thủ tướng Lê Minh Hưng trao Huy hiệu Đảng tặng các đảng viên lão thành tại Hải Phòng",
-"link": "https://tuoitre.vn/thu-tuong-le-minh-hung-trao-huy-hieu-dang-tang-cac-dang-vien-lao-thanh-tai-hai-phong-100261123112353345.htm",
-"summary": "Theo Thủ tướng, mỗi tấm Huy hiệu Đảng không chỉ tôn vinh quá khứ, mà còn tiếp thêm sức mạnh cho hiện tại, thắp sáng niềm tin cho tương lai và là lời nhắc nhở sâu sắc thế hệ hôm nay phải sống, làm việc, cống hiến xứng đáng với sự hy sinh, đóng góp của các thế hệ đi trước.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/base64-1795402415874609953853-1795407362583361529887-68-0-956-1421-crop-1795407376498837231140.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T12:10:00+07:00",
-"found": "2026-11-23T14:02:05+07:00"
-},
-{
-"id": "8d67a2cb6eb2",
-"title": "Lời từ biệt lặng lẽ của người cứu hộ xóm chài Cửa Bé",
-"link": "https://tuoitre.vn/loi-tu-biet-lang-le-cua-nguoi-cuu-ho-xom-chai-cua-be-100261123110238185.htm",
-"summary": "Anh sinh ra từ biển, sống, vật lộn với những con sóng để giành giật từng mạng sống của người dân, du khách. Sáng nay, người dân xóm chài Cửa Bé tiễn biệt anh lần cuối trong nhiều tiếng nấc nghẹn.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/4-17954058383761240534627-0-0-1573-2517-crop-1795406416696825852107.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T12:10:00+07:00",
-"found": "2026-11-23T14:02:05+07:00"
-},
-{
-"id": "7da816925c16",
-"title": "Blue-chips phục hồi kéo xanh điểm số, thanh khoản vẫn cực thấp",
-"link": "https://vneconomy.vn/blue-chips-phuc-hoi-keo-xanh-diem-so-thanh-khoan-van-cuc-thap.htm",
-"summary": "Sức mạnh của VIC, VHM cùng một số blue-chips ngân hàng đã giúp VN-Index phục hồi khá tốt trong phiên sáng nay. Nền thanh khoản cực nhỏ ở rổ VN30 xác nhận áp lực bán nhẹ trong nhóm này, nhưng các mã vừa và nhỏ vẫn chưa có được dòng tiền hỗ trợ tương xứng.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/23/40ad10739d634d3492d1d431b505b8ad-137865.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-23T12:09:32+07:00",
-"found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "d811022fb2c2",
-"title": "Doanh nghiệp địa ốc sắp thoát cảnh mòn mỏi chờ định giá đất? - Tạp chí Nhà Quản Trị - TheLEADER",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVUZvMzlhb2JfUnZiVm52VVQ1MWZWSWZ4VGcxNERvZkRsMTNEWS03VWoyTEZ5T1JuSkR0M3N4M0M2V3VxYWo2S3UyOThNU29LTFVHaC1LQTNpZ21lY3FwRFZRZjBYcllNdU03bURQTzBZTDMyNWtRQzU3alN5bFJza3hZYWZ1ZW9zYWhTbnZxLTh4Vmp0bjFN?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T12:08:00+07:00",
-"found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "33e9bebe066d",
-"title": "Người thân, luật sư không tố giác tội phạm: Những trường hợp vẫn bị xử lý hình sự theo luật mới",
-"link": "https://tuoitre.vn/nguoi-than-luat-su-khong-to-giac-toi-pham-nhung-truong-hop-van-bi-xu-ly-hinh-su-theo-luat-moi-100261123085633639.htm",
-"summary": "Bộ luật Hình sự 2026 quy định người thân của người phạm tội và luật sư bào chữa không phải chịu trách nhiệm hình sự về tội không tố giác tội phạm trong một số trường hợp, nhưng có những ngoại lệ liên quan đến các tội xâm phạm an ninh quốc gia và tội phạm đặc biệt nghiêm trọng...",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/mao-danh-luat-su-co-quan-cong-an-lua-dao-1706986559808626910441-1792906513743826657035-0-157-1128-1962-crop-17954089904641365441656.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T12:04:00+07:00",
-"found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "faa3eb8d9d62",
-"title": "Bong bóng AI liệu đã vỡ?",
-"link": "https://vnexpress.net/bong-bong-ai-lieu-da-vo-5147868.html",
-"summary": "Đợt bán tháo cổ phiếu AI gần đây trên thị trường chứng khoán khiến nhiều nhà đầu tư liên tưởng đến bong bóng dotcom năm 2000.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/screenshot20261123101854-17954-8971-6469-1795404073.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=GsT9gEQx99o2xNOaI79Rfw",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-23T12:01:35+07:00",
-"found": "2026-11-23T12:28:35+07:00"
-},
-{
-"id": "c520b32ebddb",
-"title": "Hà Nội miễn phí vé xe buýt, tàu metro trong Ngày Văn hóa Việt Nam",
-"link": "https://tuoitre.vn/ha-noi-mien-phi-ve-xe-buyt-tau-metro-trong-ngay-van-hoa-viet-nam-100261123112653291.htm",
-"summary": "Ngày 24-11, người dân và du khách được miễn phí vé trên toàn bộ 129 tuyến xe buýt có trợ giá và hai tuyến metro đang khai thác tại Hà Nội.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/bus-edit-17954107844071886311740-83-0-1333-2000-crop-1795410837671853937476.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T12:01:00+07:00",
-"found": "2026-11-23T14:02:05+07:00"
-},
-{
-"id": "7ae81dd5d2ae",
-"title": "Vụ Sen Tài Thu: Một bị cáo nhập viện, tòa cử người đến tận nơi xác minh",
-"link": "https://thanhnien.vn/vu-sen-tai-thu-mot-bi-cao-nhap-vien-toa-cu-nguoi-den-tan-noi-xac-minh-185261123110404657.htm",
-"summary": "Một bị cáo trong vụ Sen Tài Thu vắng mặt vì 'nhập viện trong tình trạng không tỉnh táo', hội đồng xét xử cho biết sẽ cử người trực tiếp đến bệnh viện xác minh.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/edit-sen-tai-thu-17954062954461293051469-22-0-1037-1624-crop-17954066160051917526158.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T12:00:00+07:00",
-"found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "5fddd5bfe5db",
-"title": "'Ở đây không có cơm bình dân bác ơi!', có nên nhìn bề ngoài để cư xử?",
-"link": "https://tuoitre.vn/o-day-khong-co-com-binh-dan-bac-oi-co-nen-nhin-be-ngoai-de-cu-xu-10026111700143495.htm",
-"summary": "Đang đi qua một nhà hàng còn sáng đèn, tôi dợm chân để hỏi, chưa kịp nói thì cô nhân viên bàn ngoài lên tiếng: 'Ở đây không có cơm bình dân bác ơi!'.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/19/qdnguoingheovechai-17433836413411015974326-47-0-1228-1890-crop-1795106822091418467632.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-23T12:00:00+07:00",
-"found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "1b64e43bae04",
-"title": "Ngư dân Gia Lai cứu hộ 49 rùa biển, vích, đồi mồi",
-"link": "https://tuoitre.vn/ngu-dan-gia-lai-cuu-ho-49-rua-bien-vich-doi-moi-100261123104545763.htm",
-"summary": "49 rùa biển, đồi mồi, vích vướng lưới, mắc câu, được ngư dân tỉnh Gia Lai phát hiện, cứu thoát và thả về tự nhiên trong năm 2026.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/anh-chup-man-hinh-2026-11-23-luc-103741-1795405093944835306479-97-108-978-1518-crop-17954053535001648089755.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T12:00:00+07:00",
-"found": "2026-11-23T14:02:05+07:00"
-},
-{
-"id": "713823d62765",
-"title": "Thêm 7 nhà đầu tư mới, Trung tâm tài chính TP.HCM dự kiến huy động 7,7 tỉ USD",
-"link": "https://tuoitre.vn/them-7-nha-dau-tu-moi-trung-tam-tai-chinh-tphcm-du-kien-huy-dong-77-ti-usd-100261123112450603.htm",
-"summary": "Trung tâm Tài chính quốc tế Việt Nam tại TP.HCM (VIFC-HCMC) vừa công bố thêm 7 thành viên mới, nâng tổng vốn dự kiến huy động và đầu tư qua hai đợt công bố lên 7,7 tỉ USD.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/vifc100nam-1795407159486494307097-395-355-1706-2452-crop-1795407792838922022900.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-23T11:59:00+07:00",
-"found": "2026-11-23T12:45:16+07:00"
 }
 ]
 }
