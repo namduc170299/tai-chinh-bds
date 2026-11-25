@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T21:51:40+07:00",
-"new": 9,
+"updated": "2026-11-25T22:06:54+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 56
+"count": 57
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "2ffcc5523527",
+"title": "Cưới vợ mới 5 ngày đã dính nghi vấn ngoại tình, nam ca sĩ nay ly hôn",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2tONVA4Sld6YmhJMnQ1bXJ6dUF3SGhYaWIxLTdYckE3RG45MUlSOVB3SlJSM2NmUWNuR2dSTU5QSWFsQWoydDN5OWV4YjA3Qko1aDdqcWxfd2x5eFZZSWF1SFdHWTZNSjJPVFRVd1Njc3J5WnY5RHVWdmNzb0RGcE16T2FDQ3JFX3pMeThWM2NjUW81amdIOEJtTnNzenlSdE4tUFdkS1g1OUc5LVA1UkpJcjk1R1JIN0NHOUg5Zw?oc=5",
+"summary": "Nguồn: Tạp chí Saostar",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-25T22:00:00+07:00",
+"found": "2026-11-25T22:06:54+07:00"
+},
+{
+"id": "ce07ff490c5f",
+"title": "Ngân hàng rao bán khoản nợ hơn 84,9 tỷ đồng của một công ty, không còn tài sản bảo đảm",
+"link": "https://cafef.vn/ngan-hang-rao-ban-khoan-no-hon-849-ty-dong-cua-mot-cong-ty-khong-con-tai-san-bao-dam-188261125214733682.chn",
+"summary": "Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam (Agribank) Chi nhánh Tây Hồ vừa thông báo tìm tổ chức đấu giá để bán khoản nợ của Công ty Cổ phần Febecom.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/agribank-17956180265041237535700-0-0-498-797-crop-1795618029832280112706.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T21:55:00+07:00",
+"found": "2026-11-25T22:06:54+07:00"
+},
+{
 "id": "87ea94d61737",
 "title": "Khối ngoại bất ngờ bán ròng 5.200 tỷ đồng, cổ phiếu nào bị xả nhiều nhất?",
 "link": "https://vneconomy.vn/khoi-ngoai-bat-ngo-ban-rong-5200-ty-dong-co-phieu-nao-bi-xa-nhieu-nhat.htm",
@@ -222,6 +244,18 @@
 "cat": "tc",
 "published": "2026-11-25T21:51:06+07:00",
 "found": "2026-11-25T21:51:40+07:00"
+},
+{
+"id": "e412862bd27a",
+"title": "bảng xếp hạng ngày sinh may mắn năm 2027",
+"link": "https://baolamdong.vn/bang-xep-hang-may-man-nam-2027-theo-ngay-thang-nam-sinh-top-1-nam-ngoai-tut-154-bac-475684.html",
+"summary": "Bảng xếp hạng may mắn năm 2027 theo ngày tháng năm sinh: Top 1 năm ngoái tụt 154 bậc (Báo Lâm Đồng)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYx-4cIxGbCgMWvXZTzOSplgoT71Lu6fFY4YPiSjUMaV2b_jjRkaloTmIBi9M",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T21:50:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-25T22:06:54+07:00"
 },
 {
 "id": "163b0c6cbc85",
@@ -268,6 +302,30 @@
 "found": "2026-11-25T21:51:40+07:00"
 },
 {
+"id": "d2188e54bcfe",
+"title": "u-17 úc đấu với đội tuyển bóng đá u-17 quốc gia mozambique",
+"link": "https://trends.google.com/trending/rss?geo=VN",
+"summary": "",
+"image": "",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T21:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-25T22:06:54+07:00"
+},
+{
+"id": "1409f3f6cdd8",
+"title": "vũ thị trang",
+"link": "https://tuoitre.vn/di-som-hon-2-tieng-de-giu-cho-xem-thuy-linh-danh-chung-ket-dai-hoi-the-thao-toan-quoc-100261125190649074.htm",
+"summary": "Đi sớm hơn 2 tiếng để giữ chỗ xem Thùy Linh đánh chung kết Đại hội Thể thao toàn quốc (Tuổi Trẻ)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR33wp9Ai7PVTvXjGtq7jeNPFd0dAkhHQlpnvme7GsNM_u8ygwR99At9TIwy3c",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T21:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T22:06:54+07:00"
+},
+{
 "id": "0ac2af288e34",
 "title": "Đề nghị truy tố kẻ ném bé 4 tuổi xuống sông từ 3 năm trước ở An Giang",
 "link": "https://kenh14.vn/de-nghi-truy-to-ke-nem-be-4-tuoi-xuong-song-tu-3-nam-truoc-o-an-giang-215261125205636802.chn",
@@ -277,6 +335,17 @@
 "cat": "xh",
 "published": "2026-11-25T21:36:00+07:00",
 "found": "2026-11-25T21:51:40+07:00"
+},
+{
+"id": "f374f2f6e05e",
+"title": "Tổng thống Mỹ đề xuất áp thuế mới, chứng khoán bị bán tháo",
+"link": "https://dantri.com.vn/kinh-doanh/tong-thong-my-de-xuat-ap-thue-moi-chung-khoan-bi-ban-thao-20261125211900668.htm",
+"summary": "(Dân trí) - Kế hoạch áp thuế mới của chính quyền Tổng thống Donald Trump lên nhiều đối tác thương mại đang gây xáo trộn thị trường, tạo áp lực bán tháo lên thị trường tài chính quốc tế",
+"image": "https://cdnphoto.dantri.com.vn/4q550Ei30sY5S2t8aDADKTkXng4=/2026/01/20/eu-co-nhung-la-bai-nao-de-dap-tra-thue-quan-cua-my-vi-greenland-1768882975208.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-25T21:35:40+07:00",
+"found": "2026-11-25T22:06:54+07:00"
 },
 {
 "id": "bb8e43db0cc5",
@@ -688,7 +757,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T20:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-25T20:51:04+07:00"
 },
 {
@@ -27975,72 +28044,6 @@
 "cat": "xh",
 "published": "2026-11-23T09:59:00+07:00",
 "found": "2026-11-23T09:03:14+07:00"
-},
-{
-"id": "dea308bfe93b",
-"title": "Dự kiến học sinh lớp 5, 9, 12 thi chung đề của Sở tối đa 3 môn",
-"link": "https://vnexpress.net/du-kien-thi-kiem-tra-cuoi-ky-de-chung-cua-so-toi-da-3-mon-voi-hoc-sinh-cuoi-cap-lop-5-9-12-5147352.html",
-"summary": "Các Sở được lựa chọn 2-3 môn để kiểm tra cuối kỳ chung với học sinh cuối cấp, khuyến khích có Toán, Văn, Ngoại ngữ, theo dự kiến của Bộ Giáo dục và Đào tạo.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/wm1-wm1-thi-vao-thpt-tran-phu-hoan-8450-1705-1795230788.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fS5ZjbuVPWRzrW0-miublQ",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-23T09:58:56+07:00",
-"found": "2026-11-23T10:43:06+07:00"
-},
-{
-"id": "469cb87f40f3",
-"title": "Tất cả người dân sở hữu nhà ở chú ý quy định mới nhất sắp áp dụng",
-"link": "https://kenh14.vn/tat-ca-nguoi-dan-so-huu-nha-o-chu-y-quy-dinh-moi-nhat-sap-ap-dung-215261123100415402.chn",
-"summary": "Quốc hội đã thông qua Luật sửa đổi, bổ sung một số điều của Luật Nhà ở.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795402897556-1795402899932921406754.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-23T09:57:00+07:00",
-"found": "2026-11-23T10:15:47+07:00"
-},
-{
-"id": "7fc181404de5",
-"title": "Tự ý chặt hạ 17 cây xanh trong trường học, hiệu trưởng bị kỷ luật cảnh cáo",
-"link": "https://thanhnien.vn/tu-y-chat-ha-17-cay-xanh-trong-truong-hoc-hieu-truong-bi-ky-luat-canh-cao-185261123082114885.htm",
-"summary": "Hiệu trưởng Trường Phổ thông dân tộc bán trú Tiểu học - THCS Đăk Sao (xã Đăk Sao, Quảng Ngãi) bị kỷ luật cảnh cáo vì tự ý chặt hạ cây xanh trong khuôn viên trường khi chưa được phê duyệt.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/179539559698712178476465447054081217847646544705408bfc02903d54d49450cd0722fee6a4643-17953992411211680829182-320-0-1920-2560-crop-17953994818351231994640.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T09:56:00+07:00",
-"found": "2026-11-23T10:00:30+07:00"
-},
-{
-"id": "185473547e3e",
-"title": "Hộ kinh doanh, doanh nghiệp đón loạt chính sách thuế mới",
-"link": "https://dantri.com.vn/kinh-doanh/ho-kinh-doanh-doanh-nghiep-don-loat-chinh-sach-thue-moi-20261123082147534.htm",
-"summary": "(Dân trí) - Quốc hội thông qua loạt chính sách mới về thuế, trong đó có miễn thuế thu nhập doanh nghiệp 3 năm cho doanh nghiệp nhỏ và vừa, mở rộng lựa chọn cách tính thuế và áp thuế 0,2% với đất bỏ hoang...",
-"image": "https://cdnphoto.dantri.com.vn/1p5X1YtxqVL_07qydNhiHKQh4Co=/2025/12/06/ho-kinh-doanh-duoi-1-ty-dong-khong-bat-buoc-dung-hoa-don-dien-tu-1764956524759.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-23T09:50:00+07:00",
-"found": "2026-11-23T10:15:47+07:00"
-},
-{
-"id": "edfee2aaa0b5",
-"title": "Goldman Sachs: Đến cuối 2028, giá vàng sẽ tái lập kỷ lục gần 5.600 USD/oz",
-"link": "https://vneconomy.vn/goldman-sachs-den-cuoi-2028-gia-vang-se-tai-lap-ky-luc-gan-5600-usdoz.htm",
-"summary": "Goldman Sachs dự báo thị trường kim loại quý sẽ còn đối mặt với rủi ro giảm giá và biến động mạnh trong ngắn hạn khi Fed tiếp tục tăng lãi suất...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/23/9cd28750aebc493d85d206d5cf0758bc-137763.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-23T09:49:07+07:00",
-"found": "2026-11-23T10:00:30+07:00"
-},
-{
-"id": "d7d577965512",
-"title": "Chủ tịch Lê Quốc Phong: Quy hoạch tổng thể TP.HCM là 'bản đồ phát triển' dẫn dắt quyết sách trong nhiều thập kỷ tới",
-"link": "https://tuoitre.vn/chu-tich-le-quoc-phong-quy-hoach-tong-the-tphcm-la-ban-do-phat-trien-dan-dat-quyet-sach-trong-nhieu-thap-ky-toi-100261123085207739.htm",
-"summary": "Uỷ viên trung Đảng, Chủ tịch UBND TP.HCM Lê Quốc Phong nhấn mạnh Quy hoạch tổng thể TP.HCM thời kỳ 2025 - 2050, tầm nhìn 100 năm, được phê duyệt là văn bản pháp lý có ý nghĩa chiến lược đặc biệt quan trọng, là 'bản đồ phát triển' dẫn dắt mọi quyết sách của TP.HCM trong nhiều…",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/669913445342754041766991ac2e9c18071d7fd0b51ca9aa0d379263-17953978285871288826035-186-755-804-1743-crop-17953986487051480812-31-49-617-988-crop-17954024046931301360686.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T09:49:00+07:00",
-"found": "2026-11-23T10:15:47+07:00"
 }
 ]
 }
