@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T19:45:10+07:00",
-"new": 15,
+"updated": "2026-11-25T20:00:21+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 56
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "df5193f89b5d",
+"title": "ACV phải xác định rõ thời điểm công bố thông tin khai thác sân bay Long Thành",
+"link": "https://cafef.vn/acv-phai-xac-dinh-ro-thoi-diem-cong-bo-thong-tin-khai-thac-san-bay-long-thanh-188261125191450836.chn",
+"summary": "Phó Thủ tướng Thường trực yêu cầu ACV kịp thời thông tin về việc khai thác sân bay Long Thành để các hãng hàng không chủ động bố trí lịch bay.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795608863521-17956088638801050813273.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T19:54:00+07:00",
+"found": "2026-11-25T20:00:21+07:00"
+},
+{
+"id": "212aac77b11e",
+"title": "Nữ hành khách mang 3 khẩu súng ngắn, 17 viên đạn qua cửa khẩu",
+"link": "https://vietnamnet.vn/nu-hanh-khach-mang-3-khau-sung-ngan-17-vien-dan-qua-cua-khau-2578398.html",
+"summary": "Kiểm tra hành lý của nữ hành khách nhập cảnh từ Lào vào Việt Nam qua Cửa khẩu quốc tế Cầu Treo (Hà Tĩnh), lực lượng chức năng phát hiện 3 khẩu súng ngắn cùng 17 viên đạn.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/nu-hanh-khach-mang-3-khau-sung-ngan-17-vien-dan-qua-cua-khau-1432.jpg?width=0&s=BtqX0f-OanW4PScLyQiv5A",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-25T19:52:12+07:00",
+"found": "2026-11-25T10:39:37+07:00"
+},
+{
+"id": "1b938d9c501f",
+"title": "Truy tố Tuấn “thần đèn” và 12 bị can liên quan",
+"link": "https://cafef.vn/truy-to-tuan-than-den-va-12-bi-can-lien-quan-188261125180831045.chn",
+"summary": "Ngày 25-11, Viện Kiểm sát nhân dân tối cao ban hành bản cáo trạng truy tố 13 bị can trong vụ án xảy ra tại Công ty cổ phần Xây dựng dân dụng và công trình giao thông ALMA (Công ty ALMA) và các đơn vị liên quan.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795604594194-1795604594616410122036.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T19:52:00+07:00",
+"found": "2026-11-25T20:00:21+07:00"
+},
+{
+"id": "b640b53e070e",
+"title": "Phát hiện hiện tượng bất thường tại một căn hộ ở phường Hoàng Mai, công an Hà Nội lập tức kiểm tra",
+"link": "https://kenh14.vn/phat-hien-hien-tuong-bat-thuong-tai-mot-can-ho-o-phuong-hoang-mai-cong-an-ha-noi-lap-tuc-kiem-tra-215261125185242962.chn",
+"summary": "Phát hiện nhóm 7 người nước ngoài lừa đảo xuyên quốc gia.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795607465034-1795607465465301215904.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T19:41:00+07:00",
+"found": "2026-11-25T20:00:21+07:00"
+},
+{
 "id": "d668e904eaa5",
 "title": "Chuyên gia quốc tế chỉ ra bệ phóng giúp Việt Nam thu hút dòng vốn dài hạn",
 "link": "https://cafef.vn/chuyen-gia-quoc-te-chi-ra-be-phong-giup-viet-nam-thu-hut-dong-von-dai-han-188261125193900264.chn",
@@ -222,6 +266,17 @@
 "cat": "tc",
 "published": "2026-11-25T19:38:00+07:00",
 "found": "2026-11-25T19:45:10+07:00"
+},
+{
+"id": "1ea98beb70fa",
+"title": "Quang Lê công khai bày tỏ với ngọc nữ bolero 35 tuổi",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYjNhWnpkQTgyMXFfZnlLaXM1YTRZdG15d0lURWlER3NJSU1wcjVXZWx2TUlIWXgzTERGSHpQSXNUUjY0aDBTWFNRNGVnMHZOcmlCYk9sdUUyVHh3YVRCbExVdjZmTllHdmZsMmpmcjVtNXpuRlNBZnM2cTlGd21tZXpORUYxMDVONkxfWUdtSF9ueHVpMDlvR3ZYQWhRek95WnFJQWdINDUtMlE?oc=5",
+"summary": "Nguồn: Tạp chí Saostar",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-25T19:33:26+07:00",
+"found": "2026-11-25T20:00:21+07:00"
 },
 {
 "id": "6fb024fad111",
@@ -268,6 +323,17 @@
 "found": "2026-11-25T19:45:10+07:00"
 },
 {
+"id": "da4a485b66b3",
+"title": "Người dùng Việt ngày càng 'ngại chờ lâu' khi sử dụng dịch vụ",
+"link": "https://vnexpress.net/nguoi-dung-viet-ngay-cang-ngai-cho-lau-khi-su-dung-dich-vu-5148838.html",
+"summary": "Gần 39% người dùng Việt phản ánh phải chờ đợi lâu khi gọi xe, giao dịch ngân hàng hay dùng phần mềm, theo khảo sát trải nghiệm khách hàng.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/a-nh-ma-n-hi-nh-lu-c-179559913-1146-2945-1795599239.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jZAC_XgGjXT5NMWmn6fAhw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-25T19:28:46+07:00",
+"found": "2026-11-25T20:00:21+07:00"
+},
+{
 "id": "712d27873110",
 "title": "Thái Nguyên 'chốt' thời gian phê duyệt các quy hoạch đô thị",
 "link": "https://cafef.vn/thai-nguyen-chot-thoi-gian-phe-duyet-cac-quy-hoach-do-thi-188261125180354086.chn",
@@ -288,6 +354,17 @@
 "cat": "xh",
 "published": "2026-11-25T19:27:00+07:00",
 "found": "2026-11-25T19:45:10+07:00"
+},
+{
+"id": "bf18e2e12fb8",
+"title": "Người phụ nữ lừa vay đáo hạn ngân hàng, chiếm đoạt hơn 5 tỷ đồng",
+"link": "https://dantri.com.vn/phap-luat/nguoi-phu-nu-lua-vay-dao-han-ngan-hang-chiem-doat-hon-5-ty-dong-20261125190011808.htm",
+"summary": "(Dân trí) - Lợi dụng mối quan hệ quen biết, Lê Thị Thu Huyền ở tỉnh Gia Lai đưa thông tin gian dối cần tiền đáo hạn ngân hàng để vay hơn 5 tỷ đồng rồi chiếm đoạt.",
+"image": "https://cdnphoto.dantri.com.vn/5-133WyTP3-mQce2McXPMlJwgiE=/2026/11/25/phap-luat-lua-vay-dao-han-ngan-hang-nguoi-phu-nu-chiem-doat-hon-5-ty-dongcong-an-tinh-gia-lai-1795607492203.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-25T19:22:23+07:00",
+"found": "2026-11-25T20:00:21+07:00"
 },
 {
 "id": "5f600d5ae722",
@@ -421,7 +498,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T19:10:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-25T19:29:58+07:00"
 },
 {
@@ -779,7 +856,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T18:40:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-25T18:57:53+07:00"
 },
 {
@@ -791,7 +868,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T18:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-25T18:57:53+07:00"
 },
 {
@@ -6009,17 +6086,6 @@
 "cat": "tc",
 "published": "2026-11-25T10:24:00+07:00",
 "found": "2026-11-25T11:44:17+07:00"
-},
-{
-"id": "212aac77b11e",
-"title": "Nữ hành khách mang 3 khẩu súng ngắn, 17 viên đạn qua cửa khẩu",
-"link": "https://vietnamnet.vn/nu-hanh-khach-mang-3-khau-sung-ngan-17-vien-dan-qua-cua-khau-2578398.html",
-"summary": "Kiểm tra hành lý của nữ hành khách nhập cảnh từ Lào vào Việt Nam qua Cửa khẩu quốc tế Cầu Treo (Hà Tĩnh), lực lượng chức năng phát hiện 3 khẩu súng ngắn cùng 17 viên đạn.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/nu-hanh-khach-mang-3-khau-sung-ngan-17-vien-dan-qua-cua-khau-1432.jpg?width=0&s=BtqX0f-OanW4PScLyQiv5A",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-25T10:23:16+07:00",
-"found": "2026-11-25T10:39:37+07:00"
 },
 {
 "id": "a0b8f0a26ddf",
@@ -27975,72 +28041,6 @@
 "source": "Báo Mới",
 "cat": "tc",
 "published": "2026-11-23T08:29:00+07:00",
-"found": "2026-11-23T08:48:01+07:00"
-},
-{
-"id": "c9209950dd9f",
-"title": "Áp lực trần nợ công của Mỹ: Nguy cơ biến động thị trường tài chính toàn cầu",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXJNU3k2dGpGcThILUVKN3Zsakp4UUs2RWFWRkJlYjVUMGZ5MW1QYWg5UlZKYXhYWWhwN0phLVAtQmN0LUE2S0pmelNiZ1NNdE1lQ1pWZnBoc19hQ0x5YnhxSElDQ0hCVzBoZ3ljVC1EcGEyc3VYYV9EelpCd2cycGhWNm41alh4bS1ZZl80dHlFNlM3TzFlN0NETUNaZUdCbE55RWI1a1NRYjg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T08:27:20+07:00",
-"found": "2026-11-23T08:31:56+07:00"
-},
-{
-"id": "b20bd6cd0e1f",
-"title": "Nhân Ngày Văn hóa Việt Nam, nghĩ về y học nhân văn, người bệnh được lắng nghe và tôn trọng",
-"link": "https://tuoitre.vn/nhan-ngay-van-hoa-viet-nam-nghi-ve-y-hoc-nhan-van-nguoi-benh-duoc-lang-nghe-va-ton-trong-100261123082036729.htm",
-"summary": "Ngày 24-11 được chọn là Ngày Văn hóa Việt Nam, gắn với dấu mốc Hội nghị Văn hóa toàn quốc lần thứ nhất diễn ra ngày 24-11-1946. Nhân dịp này, ở khía cạnh nghề y, nghĩ về y học nhân văn, chữa bệnh bằng tri thức, chăm sóc bằng trái tim.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/6/25/z7970927800534e190ec8bbf529e31b1737a440c75f905-1782354529398398293548.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T08:27:00+07:00",
-"found": "2026-11-23T09:30:05+07:00"
-},
-{
-"id": "e36dfce80028",
-"title": "Cha bán phần vốn góp 100 tỷ cho con gái, rồi đem tặng vợ và hai con khác",
-"link": "https://vietnamnet.vn/cha-ban-phan-von-gop-100-ty-cho-con-gai-roi-dem-tang-vo-va-hai-con-khac-2577488.html",
-"summary": "Người cha đã chuyển nhượng 100 tỷ đồng vốn góp tại doanh nghiệp cho con gái và nhận đủ tiền. Sau đó, ông lại ký hợp đồng tặng chính phần vốn góp này cho vợ và hai người con khác.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/22/ban-100-ty-dong-von-gop-cho-con-gai-nguoi-cha-lai-dem-tang-vo-va-2-con-khac-1862.jpg?width=0&s=BpbzLVrENSDQZo_3eMeqQg",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-23T08:26:57+07:00",
-"found": "2026-11-23T05:34:48+07:00"
-},
-{
-"id": "736c20b434f9",
-"title": "Giá xăng dầu hôm nay 23/11: Thế giới đi xuống, trong nước ở mức thấp",
-"link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-23-11-the-gioi-di-xuong-trong-nuoc-thap-2577714.html",
-"summary": "Giá xăng dầu hôm nay (23/11) trên thị trường quốc tế có xu hướng đi xuống. Giá xăng dầu trong nước được điều chỉnh giảm từ tuần trước và đang thấp hơn các nước có chung đường biên giới.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/11-the-gioi-di-xuong-trong-nuoc-o-muc-thap-347.jpg?width=0&s=WL25g_-H4yRFAcbJDntDlA",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-23T08:25:47+07:00",
-"found": "2026-11-23T08:31:56+07:00"
-},
-{
-"id": "6d5dda02b0b7",
-"title": "Giá vàng 9999 SJC hôm nay 23/11/2026 bao nhiêu 1 chỉ?",
-"link": "https://cafef.vn/gia-vang-9999-sjc-hom-nay-23-11-2026-bao-nhieu-1-chi-188261123072544248.chn",
-"summary": "Giá vàng hôm nay 23/11/2026, cập nhật mới nhất giá vàng 9999 tại SJC cùng nhiều thương hiệu lớn trên thị trường.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795393504245-17953935046171976500663.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-23T08:25:00+07:00",
-"found": "2026-11-23T08:31:56+07:00"
-},
-{
-"id": "6b6f7ea113df",
-"title": "Toàn cảnh quy hoạch TPHCM tầm nhìn 100 năm",
-"link": "https://kenh14.vn/toan-canh-quy-hoach-tphcm-tam-nhin-100-nam-215261123081623895.chn",
-"summary": "Quy hoạch tổng thể TPHCM thời kỳ 2025 - 2050, tầm nhìn 100 năm chia TPHCM thành 5 cực động lực phát triển, 5 trung tâm vệ tinh và 10 vùng quản trị phát triển dựa trên đặc thù và mật độ dân số.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795396469013-1795396470317841848502.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-23T08:24:00+07:00",
 "found": "2026-11-23T08:48:01+07:00"
 }
 ]
