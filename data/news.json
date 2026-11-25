@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T03:33:06+07:00",
-"new": 0,
+"updated": "2026-11-26T03:48:16+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,42 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "0bb8c5dcaa02",
+"title": "luis suárez",
+"link": "https://www.montevideo.com.uy/Deportes/Luis-Suarez-la-exigencia-de-Inter-Miami-como-se-siente-y--retiro-junto-a-Lionel-Messi--uc982664",
+"summary": "Luis Suárez: la exigencia de Inter Miami, cómo se siente y, ¿retiro junto a Lionel Messi? (Montevideo Portal)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRbMRwlnIudvMS43NRm0XQ2warhSlNy9P7P9iZV6HMBmdTUv9uT1g5xFql93s",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T03:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T03:48:16+07:00"
+},
+{
+"id": "705703efc3de",
+"title": "nguyễn thị ánh viên",
+"link": "https://vnexpress.net/anh-vien-gianh-hc-vang-thu-nam-tai-dai-hoi-the-thao-toan-quoc-5148887.html",
+"summary": "Ánh Viên giành HC vàng thứ năm tại Đại hội Thể thao toàn quốc (VnExpress)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTRrpnyx9phpvJBt4z4gEDMNXrQp2A9N1IMtanCV5kYY2O7blluoXocigdUJE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T03:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T03:48:16+07:00"
+},
+{
+"id": "84552ec8d627",
+"title": "thứ hạng của sk slavia praha gặp villarreal",
+"link": "https://www.bbc.com/sport/football/live/cmdx121dxr1zt",
+"summary": "Slavia Prague break Champions League record for winless run with Villarreal defeat (BBC)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGrc9d9P0C9WbIkaEcQmwQ45Np_ubwBO68FWMQnNOhOsVkGcVqwI1Ak3lHa8Q",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T03:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T03:48:16+07:00"
+},
+{
 "id": "e85b1bc135fd",
 "title": "Việt Nam có thể có thêm khu du lịch biển rộng 960ha tại vùng đất có địa thế đặc biệt “một bên đồi, một bên biển”: Tổng vốn đầu tư đề xuất lên tới 28.000 tỷ đồng",
 "link": "https://kenh14.vn/viet-nam-co-the-co-them-khu-du-lich-bien-rong-960ha-tai-vung-dat-co-dia-the-dac-biet-mot-ben-doi-mot-ben-bien-tong-von-dau-tu-de-xuat-len-toi-28000-ty-dong-215261125225309711.chn",
@@ -247,6 +283,18 @@
 "found": "2026-11-26T03:17:56+07:00"
 },
 {
+"id": "e16616bb3912",
+"title": "bayern vs",
+"link": "https://news.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-lille-vs-bayern-munich-tai-champions-league-1806283.ldo",
+"summary": "Lille vs Bayern Munich match prediction in the Champions League (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUiiM3YJiOPAAAA2m41FQx8mQVWP0lKGA6F6tOyRt4hZ5onLM_UUorewXora4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T03:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T03:48:16+07:00"
+},
+{
 "id": "5f62b5414eff",
 "title": "bayern",
 "link": "https://www.zdfheute.de/sport/fc-bayern-upamecano-stuermer-100.html",
@@ -269,6 +317,30 @@
 "published": "2026-11-26T02:50:00+07:00",
 "traffic": "200+",
 "found": "2026-11-26T03:17:56+07:00"
+},
+{
+"id": "ead63b694876",
+"title": "sporting vs man utd",
+"link": "https://www.manutd.com/en/news/pochettino-makes-his-immediate-focus-clear-before-sporting-away",
+"summary": "Pochettino makes his immediate focus clear (Manchester United)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGqn2GIK1XEkZUIh4SNsggycKh6unLInoSqRwnBtXUGnn7_8vh1Yzg_3DwAds",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T02:50:00+07:00",
+"traffic": "500+",
+"found": "2026-11-26T03:48:16+07:00"
+},
+{
+"id": "e5c78bbaba19",
+"title": "man utd",
+"link": "https://www.bbc.com/sport/football/articles/cqzr5ylmeerlo",
+"summary": "Leny Yoro red card: Mauricio Pochettino leads Manchester United fury at VAR ruling (BBC)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4s6bUOSELdUvw6lFueP1zwhSESzbToy9DpUt7JtmGmBO3aKCwijbLtwZ56xg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T02:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T03:48:16+07:00"
 },
 {
 "id": "cea06e57294f",
@@ -19821,18 +19893,6 @@
 "found": "2026-11-24T05:46:34+07:00"
 },
 {
-"id": "de9fbaa69d41",
-"title": "nguyễn thị ánh viên",
-"link": "https://vnexpress.net/kinh-ngu-17-tuoi-pha-5-ky-luc-dai-hoi-the-thao-toan-quoc-5148238.html",
-"summary": "Kình ngư 17 tuổi phá 5 kỷ lục Đại hội Thể thao toàn quốc (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlVE2efe3zWLfqT46mmyVFwDae5IwLnJRQZeH521PvziBMIq79K84OXCZJLQw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T05:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-24T06:01:45+07:00"
-},
-{
 "id": "8a7d0d6292f6",
 "title": "Lăng kính bạn đọc: Xóa nỗi ám ảnh cháy nổ trong khu dân cư",
 "link": "https://thanhnien.vn/lang-kinh-ban-doc-xoa-noi-am-anh-chay-no-trong-khu-dan-cu-185261123162556898.htm",
@@ -28010,61 +28070,6 @@
 "source": "VietnamNet",
 "cat": "xh",
 "published": "2026-11-23T11:06:26+07:00",
-"found": "2026-11-23T11:13:32+07:00"
-},
-{
-"id": "706441b32017",
-"title": "Sun PhuQuoc Airways phát thông báo nóng, tất cả hành khách cần chú ý",
-"link": "https://kenh14.vn/sun-phuquoc-airways-phat-thong-bao-nong-tat-ca-hanh-khach-can-chu-y-21526112310505353.chn",
-"summary": "Sun PhuQuoc Airways (SPA) vừa phát cảnh báo về một fanpage Facebook giả mạo thương hiệu, sử dụng tên gọi, hình ảnh và nội dung sao chép từ trang chính thức để tiếp cận khách hàng, mời đặt vé và yêu cầu chuyển khoản.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795405798852-1795405802272139618631.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-23T11:06:00+07:00",
-"found": "2026-11-23T11:41:14+07:00"
-},
-{
-"id": "5f0df605add2",
-"title": "Giá vàng trong nước, thế giới đồng loạt tăng trở lại",
-"link": "https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-the-gioi-dong-loat-tang-tro-lai-20261123105937874.htm",
-"summary": "(Dân trí) - Sau tuần giảm tới 6,5 triệu đồng/lượng, giá vàng miếng sáng 23/11 đảo chiều tăng 1,5 triệu đồng. Trên thị trường quốc tế, kim loại quý cũng lấy lại mốc 3.600 USD/ounce sau cú lao dốc gần 9%.",
-"image": "https://cdnphoto.dantri.com.vn/L7-w43pJ8B-P-rO6qYF5RT7DCmA=/2025/08/26/gia-vang-mieng-sjc-giam-ve-duoi-121-trieu-dongluong-edited-1756203418140.jpg?watermark=v1",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-23T11:05:54+07:00",
-"found": "2026-11-23T11:41:14+07:00"
-},
-{
-"id": "cf3cac1029b6",
-"title": "Nợ xấu BIDV tăng hơn 12.500 tỉ đồng, hé lộ áp lực từ các khoản vay mua nhà hết ưu đãi",
-"link": "https://tuoitre.vn/no-xau-bidv-tang-hon-12500-ti-dong-he-lo-ap-luc-tu-cac-khoan-vay-mua-nha-het-uu-dai-100261123101140919.htm",
-"summary": "Sau 9 tháng, nợ xấu của BIDV tăng gần 36%, lên hơn 47.486 tỉ đồng. Trong đó, ngân hàng ghi nhận một phần nợ xấu từ các khoản cho vay mua nhà gia tăng khi những chương trình ưu đãi lãi suất giai đoạn 2023-2025 dần hết hiệu lực.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/bidv-1795402924059822053915-141-0-527-618-crop-17954029387781024369267.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-23T11:04:00+07:00",
-"found": "2026-11-23T11:41:14+07:00"
-},
-{
-"id": "f94dba02de99",
-"title": "Vì sao tòa trả hồ sơ điều tra bổ sung vụ Sen Tài Thu?",
-"link": "https://tuoitre.vn/vi-sao-toa-tra-ho-so-dieu-tra-bo-sung-vu-sen-tai-thu-100261123104925224.htm",
-"summary": "Hội đồng xét xử quyết định trả hồ sơ vụ án Sen Tài Thu để điều tra bổ sung, trong đó tập trung làm rõ số tiền bị chiếm đoạt và danh sách bị hại.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/sen-tai-thi-edit-1795406974911717751630-207-252-892-1348-crop-1795407084997536821476.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T11:03:00+07:00",
-"found": "2026-11-23T11:57:38+07:00"
-},
-{
-"id": "3ea788dca3d6",
-"title": "Tỷ giá trung tâm tăng 9 đồng, USD tại ngân hàng duy trì ở mức cao",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVMzSVZjXzZjNFBianFRVXV6enJvTkJTTld1ejdnV3o1LUtBZHhRQlVEN0t2dkpzSFlzQVoyQ0lHbk56dzRRcDdEZTFnSUVUeWlwWU1vdUhWLUpsSkxrcUh6US1sUnp6OHhIWGlHWnlmbnZjVkZucUFVVy1sancxb1k1ek9ydlZ1QVNoRXpyTWkxUkJoQ3EwYVI2Nlhrdw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T11:00:00+07:00",
 "found": "2026-11-23T11:13:32+07:00"
 }
 ]
