@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T07:03:10+07:00",
-"new": 9,
+"updated": "2026-11-25T07:09:12+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 22
+"count": 49
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "2c75de103a23",
+"title": "Đề xuất mới về xếp hạng ngân hàng",
+"link": "https://cafef.vn/de-xuat-moi-ve-xep-hang-ngan-hang-188261125070525664.chn",
+"summary": "Không chỉ đề xuất nâng ngưỡng tổng tài sản để phân loại ngân hàng quy mô lớn từ 300.000 tỷ đồng lên 500.000 tỷ đồng, Ngân hàng Nhà nước còn đưa các chỉ tiêu thanh khoản theo chuẩn Basel III vào hệ thống xếp hạng, định hướng chuyển từ đánh giá dựa trên quy mô sang chú trọng năng…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795565062562-1795565062902305712904.webp",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T07:05:00+07:00",
+"found": "2026-11-25T07:09:12+07:00"
+},
+{
 "id": "4efc2335402d",
 "title": "Đọc nhanh 25-11: Chứng khoán Mỹ phân hóa, quỹ của tỉ phú Bill Gates bán mạnh một cổ phiếu Việt Nam",
 "link": "https://tuoitre.vn/doc-nhanh-25-11-chung-khoan-my-phan-hoa-quy-cua-ti-phu-bill-gates-ban-manh-mot-co-phieu-viet-nam-100261125061418125.htm",
@@ -233,6 +244,18 @@
 "cat": "xh",
 "published": "2026-11-25T06:52:19+07:00",
 "found": "2026-11-25T07:03:10+07:00"
+},
+{
+"id": "30c4575d6234",
+"title": "sân vận động quốc gia mỹ đình",
+"link": "https://vnexpress.net/gan-50-000-khan-gia-do-ve-concert-muon-sac-viet-nam-5148441.html",
+"summary": "Gần 50.000 khán giả đổ về concert 'Muôn sắc Việt Nam' (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHNOFp6DmNJX1LWjjRDVQTLUq9uHI97nzdioEqMWdojq0xHlcyoHLs82_Dhd8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T06:50:00+07:00",
+"traffic": "5000+",
+"found": "2026-11-25T07:09:12+07:00"
 },
 {
 "id": "5abfca6f30e5",
@@ -277,6 +300,17 @@
 "cat": "tc",
 "published": "2026-11-25T06:38:39+07:00",
 "found": "2026-11-25T07:03:10+07:00"
+},
+{
+"id": "b0e02b4545d7",
+"title": "Báo chí Thái Lan thất vọng khi các đội bóng nước nhà bị Công An Hà Nội bỏ xa",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWNEcndBaUJRNTNVN1BlQU9uVHc2dXF6bnZnd0Z0SFJFcHZscTJpU1NySlNIVUZ2RFMzc0hiZjNkZVp5T25TWkR0aWppcTg2TGhlNTc5Qk01Q3VMY2RQWXBjRTV5V1Z5UHd4c2tkT1pyNXJhanlmYVVfT1JDc2p0RmNKaURJU29wNUNxMG9KSzFkZkZ3cmduU2U0YWViZDg4?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-25T06:37:45+07:00",
+"found": "2026-11-25T07:09:12+07:00"
 },
 {
 "id": "0ab4374603da",
@@ -357,6 +391,18 @@
 "published": "2026-11-25T06:30:00+07:00",
 "traffic": "100+",
 "found": "2026-11-25T07:03:10+07:00"
+},
+{
+"id": "9374bbe4fe07",
+"title": "giá cả",
+"link": "https://laodong.vn/tien-te-dau-tu/gia-vang-giam-truoc-them-cong-bo-du-lieu-lam-phat-my-1805828.ldo",
+"summary": "Giá vàng giảm trước thềm công bố dữ liệu lạm phát Mỹ (Laodong.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJpdyYTT9mMDuCTJEYTPylXN71SLhXDpPuux2UtCB1hzBi9GrKSuJrY-rhyR4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T06:30:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-25T07:09:12+07:00"
 },
 {
 "id": "a8a96adb6483",
@@ -17732,6 +17778,17 @@
 "found": "2026-11-23T11:57:38+07:00"
 },
 {
+"id": "6c2668978fcf",
+"title": "Bố con Toản rời khỏi nhà Hạnh | Căn nhà không mái che | Tập 19",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBRYkxqN3AySWhmLTF1NnZyRDh0OHJUSW1SeW9obzRONUJ1QmhPQ0QwY1p0S0liOUNjWHlHcWtVLXA?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-23T11:10:56+07:00",
+"found": "2026-11-25T07:09:12+07:00"
+},
+{
 "id": "972e1453da26",
 "title": "Những quy định đáng chú ý về sổ đỏ, giá đất trong Luật Đất đai mới",
 "link": "https://dantri.com.vn/bat-dong-san/nhung-quy-dinh-dang-chu-y-ve-so-do-gia-dat-trong-luat-dat-dai-moi-20261123105326799.htm",
@@ -28065,63 +28122,6 @@
 "cat": "xh",
 "published": "2026-11-22T06:27:00+07:00",
 "found": "2026-11-22T06:31:42+07:00"
-},
-{
-"id": "eef5ed9f6ca4",
-"title": "TP.HCM gấp rút bồi thường dự án trọng điểm: Chuẩn bị trước, bớt cập rập về sau",
-"link": "https://thanhnien.vn/tphcm-gap-rut-boi-thuong-du-an-trong-diem-chuan-bi-truoc-bot-cap-rap-ve-sau-185261121173208848.htm",
-"summary": "TP.HCM triển khai đo đạc, kiểm đếm trước tại 78 dự án trọng điểm nhằm tạo dữ liệu hiện trạng, rút ngắn thời gian thực hiện công tác bồi thường, giải phóng mặt bằng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/tnw-a2-1795256885280142166374-99-0-739-1024-crop-1795256920932877270312.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-22T06:21:00+07:00",
-"found": "2026-11-22T06:31:42+07:00"
-},
-{
-"id": "338ec28677c5",
-"title": "Xuất hiện siêu dự án 111.000 tỷ đồng gần sân vận động VinFast - Trống Đồng",
-"link": "https://dantri.com.vn/bat-dong-san/xuat-hien-sieu-du-an-111000-ty-dong-gan-san-van-dong-vinfast-trong-dong-20261122012954320.htm",
-"summary": "(Dân trí) - Hà Nội duyệt dự án khu đô thị 111.000 tỷ đồng; tháp 68 tầng dang dở của VietinBank về tay hệ sinh thái Sun Group là những tin nóng bất động sản tuần qua.",
-"image": "https://cdnphoto.dantri.com.vn/O8bm1yMjcOBtcx1OuXJ9LW8Ux7Q=/2026/11/22/bao-trung-quoc-binh-luan-ve-san-van-dong-lon-nhat-the-gioi-o-viet-nam-edited-1792134604906-1795285690640.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-22T06:20:09+07:00",
-"found": "2026-11-22T06:46:53+07:00"
-},
-{
-"id": "5bc7934164f9",
-"title": "nato",
-"link": "https://tuoitre.vn/toi-hau-thu-cua-ong-trump-voi-ukraine-thoa-thuan-truoc-an-ninh-sau-han-chot-thang-1-2027-100261121082935014.htm",
-"summary": "'Tối hậu thư' của ông Trump với Ukraine: Thỏa thuận trước, an ninh sau, hạn chót tháng 1-2027 (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE31Uxdi8IQKCLiHJxB4fkqkz99xe8aPGvzTM3vfSUHehFO_1iVMoCJj1eXvM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T06:20:00+07:00",
-"traffic": "200+",
-"found": "2026-11-22T06:46:53+07:00"
-},
-{
-"id": "2fd2ac7e0989",
-"title": "vũ khí",
-"link": "https://tuoitre.vn/ong-trump-muon-dat-thoa-thuan-lau-dai-voi-iran-100261121231946515.htm",
-"summary": "Ông Trump muốn đạt thỏa thuận lâu dài với Iran (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQzyl34C__rANLcUzFwBFJiKeH9hKHKon2T_VJz5zXqEP56deENkynuq4yQew",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T06:20:00+07:00",
-"traffic": "100+",
-"found": "2026-11-22T06:46:53+07:00"
-},
-{
-"id": "a523b2441160",
-"title": "Giá trị pháp lý của biên bản họp gia đình",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xKU2ZpdldoSlhLX1AxOENCbFZ5WW1KMWZjMlFYQ0hQVzdTSDRvSURJQ1BvUlBGbC1DbDVMckUxbWJnRng4MC1DUVpVVFBjYTc2ZzlfLUxwbzNkMjFsUjU3a3Z1ZER6VE1MSnVhSHpibnJ3ZGpWX0JVUkNNZVpmVE5tRk9sOEtL?oc=5",
-"summary": "Nguồn: BÁO SÀI GÒN GIẢI PHÓNG",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-22T06:19:42+07:00",
-"found": "2026-11-22T07:02:04+07:00"
 }
 ]
 }
