@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T07:09:12+07:00",
-"new": 5,
+"updated": "2026-11-25T07:24:26+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 49
+"count": 22
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,61 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "9330a25f91e3",
+"title": "Từ 1.7.2027, hai trường hợp chuyển sang đất ở không phải nộp tiền sử dụng đất",
+"link": "https://thanhnien.vn/tu-172027-hai-truong-hop-chuyen-sang-dat-o-khong-phai-nop-tien-su-dung-dat-185261125000805045.htm",
+"summary": "Người sử dụng đất được chuyển sang đất ở mà không phải xin phép, không phải nộp tiền sử dụng đất nếu đáp ứng các điều kiện theo luật Đất đai sửa đổi.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-chuyen-muc-dich-su-dung-dat-17955394607491869285771-99-0-1699-2560-crop-17955395368821843077550.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-25T07:20:00+07:00",
+"found": "2026-11-25T07:24:26+07:00"
+},
+{
+"id": "b2c905967d68",
+"title": "TPHCM xây dựng hệ số K mới, dự kiến áp dụng đầu 2027",
+"link": "https://cafef.vn/tphcm-xay-dung-he-so-k-moi-du-kien-ap-dung-dau-2027-188261125061953864.chn",
+"summary": "Sở Nông nghiệp và Môi trường TPHCM sẽ điều tra, khảo sát, thu thập và phân tích thông tin giá đất thị trường, đánh giá mức độ phù hợp giữa bảng giá đất với giá thị trường, xác định các hệ số điều chỉnh theo biến động thị trường, quy hoạch và các yếu tố ảnh hưởng đến giá đất. Từ…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795562359183-17955623595162129745705.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T07:19:00+07:00",
+"found": "2026-11-25T07:24:26+07:00"
+},
+{
+"id": "217ef7c6de1d",
+"title": "Cận cảnh cầu Hoài Thượng gần 1.200 tỷ đồng đang thành hình trên sông Đuống",
+"link": "https://vietnamnet.vn/cau-hoai-thuong-gan-1-200-ty-dang-thanh-hinh-tren-song-duong-2577534.html",
+"summary": "Hạng mục cầu Hoài Thượng trên tuyến Vành đai 4 đang được đẩy nhanh tiến độ thi công, dự kiến hợp long vào tháng 5/2027.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/can-canh-cau-hoai-thuong-gan-1-7334.jpg?width=0&s=VRcGdiaoJpc1LuQNCzZefw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-25T07:18:00+07:00",
+"found": "2026-11-25T07:24:26+07:00"
+},
+{
+"id": "a19d5b723046",
+"title": "Chi phí xây nhà 2 tầng 120m² hết bao nhiêu?",
+"link": "https://cafef.vn/chi-phi-xay-nha-2-tang-120m-het-bao-nhieu-18826112507044912.chn",
+"summary": "Chi phí xây nhà 2 tầng 120m² hết bao nhiêu tiền là câu hỏi được nhiều gia đình quan tâm khi lên kế hoạch làm nhà.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795565065237-1795565065857811190349.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T07:15:00+07:00",
+"found": "2026-11-25T07:24:26+07:00"
+},
+{
+"id": "02442741b8d8",
+"title": "Thị trường bất động sản 2027: Ai sẽ thắng, ai phải rời cuộc chơi?",
+"link": "https://cafef.vn/thi-truong-bat-dong-san-2027-ai-se-thang-ai-phai-roi-cuoc-choi-188261125070728572.chn",
+"summary": "Năm 2027, thị trường bất động sản được kỳ vọng đón những chuyển biến tích cực từ quá trình hoàn thiện thể chế, đầu tư hạ tầng và sự trở lại của nhu cầu nhà ở. Tuy nhiên, áp lực lãi suất, mặt bằng giá cao, nguồn cung mất cân đối và năng lực tài chính của doanh nghiệp tiếp tục là…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795565203869-1795565204434311645824.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T07:07:00+07:00",
+"found": "2026-11-25T07:24:26+07:00"
+},
+{
 "id": "2c75de103a23",
 "title": "Đề xuất mới về xếp hạng ngân hàng",
 "link": "https://cafef.vn/de-xuat-moi-ve-xep-hang-ngan-hang-188261125070525664.chn",
@@ -222,6 +277,17 @@
 "cat": "tc",
 "published": "2026-11-25T07:05:00+07:00",
 "found": "2026-11-25T07:09:12+07:00"
+},
+{
+"id": "bdf113b965d5",
+"title": "Bí thư Hà Nội yêu cầu nghiên cứu xây khu tái định cư cho người dân sau vụ nổ",
+"link": "https://cafef.vn/bi-thu-ha-noi-yeu-cau-nghien-cuu-xay-khu-tai-dinh-cu-cho-nguoi-dan-sau-vu-no-188261125070539069.chn",
+"summary": "Bí thư Hà Nội yêu cầu các đơn vị rà soát, di dời người dân và nghiên cứu xây dựng khu tái định cư cho các hộ bị ảnh hưởng sau vụ nổ trên phố Nguyễn Văn Tuyết.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795565110384-17955651109331378550145.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T07:05:00+07:00",
+"found": "2026-11-25T07:24:26+07:00"
 },
 {
 "id": "4efc2335402d",
@@ -403,6 +469,18 @@
 "published": "2026-11-25T06:30:00+07:00",
 "traffic": "2000+",
 "found": "2026-11-25T07:09:12+07:00"
+},
+{
+"id": "2b45cb872c4c",
+"title": "thoi tiet ha noi",
+"link": "https://vietnammoi.vn/du-bao-thoi-tiet-ngay-mai-2611-ha-noi-tang-4-do-nhung-van-ret-tp-hcm-nang-nong-oi-buc-da-nang-tiep-tuc-mua-to-20261124144521590.htm",
+"summary": "Dự báo thời tiết ngày mai 26/11 Hà Nội tăng 4 độ nhưng vẫn rét, TP HCM nắng nóng oi bức, Đà Nẵng tiếp tục mưa to (Việt Nam Mới)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFdJ9O-s-wCLRmvLgrWBt33O8hQFg3N6u0Ag5T5ME8-ZCKQuNXrCK-Tn1dQZo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T06:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-25T07:24:26+07:00"
 },
 {
 "id": "a8a96adb6483",
@@ -590,7 +668,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T06:00:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-25T06:16:35+07:00"
 },
 {
@@ -28045,83 +28123,6 @@
 "cat": "xh",
 "published": "2026-11-22T06:43:07+07:00",
 "found": "2026-11-22T07:32:44+07:00"
-},
-{
-"id": "2439f0c208d3",
-"title": "Thủ tướng chỉ đạo đồng bộ giải pháp kích cầu tiêu dùng dịp cuối năm và Tết 2027",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGItTXd6a1N4cEVtX1dPWTE0cm9WQ1JNbS0wMk1jdzNuMzdrendCR2pTQUUtdzFURjFZTWNoTnRuWWVNN1RkY19Bdk9lQk9JbzBtMDhEYTkxalVHT2NSRXVZbnBkd3dDa04yaVhob2lUSkhaMHJlMnM2bmRMbU10Wnd5a1oxNmdyS1FPT0F0NDhMX0ttRkVMRXdZT0dTVDYwT0VzUl9PTmZLM0Z2YmIyY1lB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T06:41:00+07:00",
-"found": "2026-11-22T09:33:27+07:00"
-},
-{
-"id": "4f50a57f56d6",
-"title": "Real ngược dòng trong ngày Mbappe sút hỏng phạt đền",
-"link": "https://vnexpress.net/real-nguoc-dong-trong-ngay-mbappe-sut-hong-phat-den-5147548.html",
-"summary": "Bất chấp Kylian Mbappe bỏ lỡ cơ hội gỡ hòa trên chấm 11m, Real vẫn thắng ngược Celta Vigo 2-1 ở vòng 13 La Liga.",
-"image": "https://vcdn1-thethao.vnecdn.net/2026/11/22/ap263257503790861-1795301893-1417-1795301912.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eQudcRgTo6HTBGYNeNNHRg",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-22T06:33:00+07:00",
-"found": "2026-11-22T10:45:30+07:00"
-},
-{
-"id": "c1f2c1db4b0c",
-"title": "Khối ngoại bán ròng chứng khoán vượt kỷ lục năm 2025",
-"link": "https://vnexpress.net/khoi-ngoai-ban-rong-chung-khoan-vuot-ky-luc-nam-2025-5147536.html",
-"summary": "Chưa đầy 11 tháng, nhà đầu tư nước ngoài đã bán ròng gần 127.000 tỷ đồng trên sàn chứng khoán TP HCM, vượt kỷ lục mới thiết lập hồi năm ngoái.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/wm1-wm1-233a7641-1795278816-5496-1795278828.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qnJOj54ikS03_N9M2NSaYw",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-22T06:30:00+07:00",
-"found": "2026-11-22T06:46:53+07:00"
-},
-{
-"id": "75dccd57b659",
-"title": "Vay mua nhà khi lãi suất giảm",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43WFJFanpvb1o0bklScXpiNjRFZGo1a3JpbEZ0M3FrX3NHNnVnT04zbGNoV1VQLTVydDFEbmxqR182UGZUaVlBYTVSeG91VnMtWE1nSjA2eDhhMjZiVk9QSkJFalRRZkI2YnlhSWNDcw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-22T06:30:00+07:00",
-"found": "2026-11-22T06:46:53+07:00"
-},
-{
-"id": "b9e953f3fbe9",
-"title": "Dịch vụ thuê người đưa đi khám bệnh hút khách",
-"link": "https://vnexpress.net/dich-vu-thue-nguoi-dua-di-kham-benh-hut-khach-5145785.html",
-"summary": "Sống một mình hoặc không thể xin nghỉ làm, nhiều người ở đô thị lớn thuê người qua ứng dụng đưa đi khám, chăm sóc bệnh nhân theo giờ.",
-"image": "https://vcdn1-giadinh.vnecdn.net/2026/11/17/c-quye-n-1794910403-3323-1794910648.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tUed5WiG0_v7ytVo_pPm8g",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-22T06:29:00+07:00",
-"found": "2026-11-22T10:45:30+07:00"
-},
-{
-"id": "752c4ec272ca",
-"title": "Nghỉ hưu năm 2027, đóng BHXH 25 năm, lương hưu mỗi tháng người lao động nhận được là bao nhiêu?",
-"link": "https://kenh14.vn/nghi-huu-nam-2027-dong-bhxh-25-nam-luong-huu-moi-thang-nguoi-lao-dong-nhan-duoc-la-bao-nhieu-215261122063531008.chn",
-"summary": "Theo quy định mới nhất, tỷ lệ hưởng lương hưu năm 2027 đối với người đóng đủ 25 năm BHXH được xác định như thế nào?",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/21/avatar1795303983461-1795303984209199006446.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-22T06:28:00+07:00",
-"found": "2026-11-22T06:46:53+07:00"
-},
-{
-"id": "97288ea04702",
-"title": "Lăng kính bạn đọc: Ngăn chặn chuyện đấu giá đất 'như đùa'",
-"link": "https://thanhnien.vn/lang-kinh-ban-doc-ngan-chan-chuyen-dau-gia-dat-nhu-dua-185261121200636747.htm",
-"summary": "Sự việc trả giá tiền tỉ rồi xin rút vì 'nghe nhầm' tại Ninh Bình thu hút nhiều bình luận của bạn đọc Báo Thanh Niên về các chiêu trò đấu giá đất.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/a1-online-17952649879331192228061-93-0-733-1024-crop-17952650392231962079237.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-22T06:27:00+07:00",
-"found": "2026-11-22T06:31:42+07:00"
 }
 ]
 }
