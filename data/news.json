@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T04:38:03+07:00",
-"new": 4,
+"updated": "2026-11-26T04:53:13+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 57
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,29 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "74d390d83f14",
+"title": "Phường trung tâm TP.HCM nâng cấp gần 3,2 km đường song hành đường sắt",
+"link": "https://thanhnien.vn/phuong-trung-tam-tphcm-nang-cap-gan-32-km-duong-song-hanh-duong-sat-185261125191031353.htm",
+"summary": "Phường Đức Nhuận (TP.HCM) cải tạo, nâng cấp hơn 3,1 km đường song hành đường sắt và một số hẻm nhánh, thời gian thi công dự kiến trong 260 ngày.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-duong-song-hanh-duong-sat-phuong-duc-nhuan-tphcm-sy-dong-1795609439889743925369-116-0-1716-2560-crop-179560968108312232979-1795609707933365111609.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T04:44:00+07:00",
+"found": "2026-11-26T04:53:13+07:00"
+},
+{
+"id": "a9785682ea16",
+"title": "mưa",
+"link": "https://laodong.vn/moi-truong/du-bao-cac-tinh-thanh-mua-to-don-dap-dot-mua-moi-bat-dau-tu-2711-1806175.ldo",
+"summary": "Dự báo các tỉnh thành mưa to dồn dập, đợt mưa mới bắt đầu từ 27.11 (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6KgNOvAwgqwqtFu7gAMYJQ5LfOEoM2WgPZuAp1yV9wbdudcmWJ4wWfON5FJw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T04:30:00+07:00",
+"traffic": "50000+",
+"found": "2026-11-26T04:53:13+07:00"
+},
 {
 "id": "29a7046fdcea",
 "title": "công nghệ hạt nhân",
@@ -20194,18 +20217,6 @@
 "found": "2026-11-24T04:58:06+07:00"
 },
 {
-"id": "f0162b23af59",
-"title": "mưa",
-"link": "https://vnexpress.net/mien-trung-co-the-mua-tren-750-mm-trong-7-ngay-toi-5148111.html",
-"summary": "Miền Trung có thể mưa trên 750 mm trong 7 ngày tới (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKrGaJm40O1LD46eJTyZpwSI07JdZ6UCFyLF5Syw-fkt_A7-iDHRX5hDaUhw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T04:40:00+07:00",
-"traffic": "10000+",
-"found": "2026-11-24T04:58:06+07:00"
-},
-{
 "id": "e7465898788f",
 "title": "bao moi",
 "link": "https://laodong.vn/the-gioi/du-bao-bao-ap-thap-gan-philippines-khong-khi-lanh-o-viet-nam-tuan-toi-1804614.ldo",
@@ -28065,17 +28076,6 @@
 "cat": "tc",
 "published": "2026-11-23T11:13:47+07:00",
 "found": "2026-11-23T11:41:14+07:00"
-},
-{
-"id": "89b3b2aa73bf",
-"title": "Bãi chôn lấp rác ở Ninh Bình cơi nới lần thứ 10, dân khổ sở vì mùi hôi",
-"link": "https://vietnamnet.vn/nha-may-dien-rac-lo-hen-bai-chon-lap-coi-noi-lan-thu-10-2566451.html",
-"summary": "Bãi chôn lấp tại Khu liên hợp xử lý rác thải ở phường Đông A, tỉnh Ninh Bình đã hết diện tích từ cuối năm 2018. Đến tháng 7/2026, khu xử lý đã 10 lần đào đắp, cơi nới để tiếp tục chôn lấp trong khi nhà máy điện rác nằm bên cạnh vẫn chưa vận hành.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/10/nha-may-dien-rac-1-3125.jpg?width=0&s=uJbm5u7_6GwYg_C8LgzQTw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-23T11:12:58+07:00",
-"found": "2026-11-23T11:13:32+07:00"
 }
 ]
 }
