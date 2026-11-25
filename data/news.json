@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T08:20:48+07:00",
-"new": 32,
+"updated": "2026-11-25T08:36:20+07:00",
+"new": 16,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 53
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,83 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "5e4851638e81",
+"title": "Hơn 5.300 cơ sở nhà, đất dôi dư chưa được xử lý",
+"link": "https://cafef.vn/hon-5300-co-so-nha-dat-doi-du-chua-duoc-xu-ly-188261125074431019.chn",
+"summary": "Cả nước còn hơn 5.300 cơ sở nhà, đất dôi dư chưa được xử lý. Bộ Tài chính yêu cầu các bộ, ngành, địa phương đẩy nhanh tiến độ, hoàn thành trong năm nay.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795567439508-1795567439748760608739.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T08:36:00+07:00",
+"found": "2026-11-25T08:36:20+07:00"
+},
+{
+"id": "5e05b18d2243",
+"title": "Dự báo thời tiết 25/11/2026: Miền Bắc rét nhất đợt, Trung Bộ mưa rất lớn",
+"link": "https://vietnamnet.vn/du-bao-thoi-tiet-25-11-2026-mien-bac-ret-sau-trung-bo-mua-lon-2572290.html",
+"summary": "Không khí lạnh tiếp tục được tăng cường khiến miền Bắc rét sâu hơn. Từ Huế đến phía đông Quảng Ngãi có mưa to đến rất to, nguy cơ ngập úng, lũ quét và sạt lở đất. VietNamNet cập nhật những diễn biến mới nhất về thời tiết trên cả nước.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/2026-mien-bac-ret-nhat-dot-trung-bo-mua-rat-lon-18.jpg?width=0&s=7MKq73zBNjwTMUkqwe-Wdw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-25T08:31:39+07:00",
+"found": "2026-11-25T05:22:21+07:00"
+},
+{
+"id": "11b353da974f",
+"title": "Đa dạng nguồn vốn, tạo nền tảng cho tín dụng dài hạn",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUkJlY1pmRTd1QUZpdk5vd01mRU5iLUZDam9DZmNnWXVSYUYzNWFzUVpYLVhUbHJNbFdoRDBra29HZk1DNTdNclg3MGNaa2NLVzQwUTlRckhvVHdtTVNtSTdhQW1aNmdwNjBiT25Yc3RfYzBIVHpDYnFRVi05U3dfY2VSVjZTQ0dHbFRUNw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T08:30:37+07:00",
+"found": "2026-11-25T08:36:20+07:00"
+},
+{
+"id": "b1ca92980320",
+"title": "Trưởng thôn 28 tuổi ở Phú Thọ gây sốt với bài phát biểu ấn tượng",
+"link": "https://vietnamnet.vn/truong-thon-28-tuoi-o-phu-tho-gay-sot-voi-bai-phat-bieu-an-tuong-2578217.html",
+"summary": "Không chỉ gây ấn tượng với phong thái tự tin, anh Bùi Đức Minh (28 tuổi), còn khiến nhiều người bất ngờ khi cùng lúc đảm nhiệm 3 vai trò tại xã Tam Đảo, tỉnh Phú Thọ.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/truong-thon-28-tuoi-o-phu-tho-gay-sot-voi-bai-phat-bieu-an-tuong-7294.gif?width=0&s=IQwf1f0V9Kous3FCd3UAwg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-25T08:27:41+07:00",
+"found": "2026-11-25T05:11:23+07:00"
+},
+{
+"id": "9649e9981f82",
+"title": "Nasdaq quay đầu giảm vì áp lực bán cổ phiếu AI trở lại, giá dầu thô tăng hơn 2%",
+"link": "https://vneconomy.vn/nasdaq-quay-dau-giam-vi-ap-luc-ban-co-phieu-ai-tro-lai-gia-dau-tho-tang-hon-2.htm",
+"summary": "Cổ phiếu Nvidia tiếp tục biến động mạnh khi nhà đầu tư nghiền ngẫm những diễn biến nhanh và bất ngờ trong vụ bê bối của CEO Jensen Huang...",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/69c1db2b84e84a4eb6dd2fa8de63ac6c-138433.webp?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-25T08:24:04+07:00",
+"found": "2026-11-25T08:36:20+07:00"
+},
+{
+"id": "2036b1a8853a",
+"title": "Giá vàng 9999 SJC hôm nay 25/11/2026 bao nhiêu 1 chỉ?",
+"link": "https://cafef.vn/gia-vang-9999-sjc-hom-nay-25-11-2026-bao-nhieu-1-chi-188261125071641092.chn",
+"summary": "Giá vàng hôm nay 25/11/2026, cập nhật mới nhất giá vàng 9999 tại SJC cùng nhiều thương hiệu khác trên thị trường.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795565768512-17955657689051647223114.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-25T08:22:00+07:00",
+"found": "2026-11-25T08:36:20+07:00"
+},
+{
+"id": "30bc5ad553e6",
+"title": "Nhiều doanh nghiệp bảo hiểm phi nhân thọ sớm vượt đích lợi nhuận",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMk9rb1dXUkVvS2kyWlNxOU00Y1phZFBrNUlyZ0J3cm9kMVN3ZFF5dTRybnBNOGdXYkpsYWc5SGU4YnJ6Uk9zMnFMYkFJeldHc2pWYVgwd1pKU2ExMmo3NDd3a1JpTHpMSGFUTXB2RlVSTWdsWGhOQng2S2ZNUEpzMGZvNXdpQVJoZm5vOWczM1BoajdMd1RmU2dhcXZyZw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T08:22:00+07:00",
+"found": "2026-11-25T08:36:20+07:00"
+},
+{
 "id": "36f7b3cf6e99",
 "title": "Công an Quảng Trị siết xử lý 'anh hùng xa lộ' từ đô thị đến nông thôn",
 "link": "https://thanhnien.vn/cong-an-quang-tri-siet-xu-ly-anh-hung-xa-lo-tu-do-thi-den-nong-thon-185261125072758078.htm",
@@ -224,15 +301,71 @@
 "found": "2026-11-25T08:20:48+07:00"
 },
 {
-"id": "b1ca92980320",
-"title": "Trưởng thôn 28 tuổi ở Phú Thọ gây sốt với bài phát biểu ấn tượng",
-"link": "https://vietnamnet.vn/truong-thon-28-tuoi-o-phu-tho-gay-sot-voi-bai-phat-bieu-an-tuong-2578217.html",
-"summary": "Không chỉ gây ấn tượng với phong thái tự tin, anh Bùi Đức Minh (28 tuổi), còn khiến nhiều người bất ngờ khi cùng lúc đảm nhiệm 3 vai trò tại xã Tam Đảo, tỉnh Phú Thọ.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/truong-thon-28-tuoi-o-phu-tho-gay-sot-voi-bai-phat-bieu-an-tuong-7294.gif?width=0&s=IQwf1f0V9Kous3FCd3UAwg",
-"source": "VietnamNet",
+"id": "a7d72bf50e37",
+"title": "Để người lao động được tiếp cận tín dụng chính thức",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcjVxc1l0bWJLYkVtNFU5SENjOGk3VTltMmdFcnJpUGRvNHRqVV8zWGtieGdOblotU0FlWG00RFAzcy1xNC1OZGtRWEh5WDNxTUlkVWp3R3pFLUdEeVloUnVybHN3bDZVMEZJOFZuMVNMekdIeEhCaWc5TmpHWEhocUlhdGlkNFpobC1hTQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T08:20:00+07:00",
+"found": "2026-11-25T08:36:20+07:00"
+},
+{
+"id": "8891fb75be4b",
+"title": "whatsapp web",
+"link": "https://www.rediff.com/news/report/tech-union-ministry-warns-of-whatsapp-web-account-hijacking/20261123.htm",
+"summary": "Your WhatsApp web session can be hijacked, warns govt body (Rediff.com)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIs_7y1CXjxKPnqcktBz5XCy9MGegpXNWHzNF2XbygYpTBbwIG6KPUAPXauA0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T08:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-25T08:36:20+07:00"
+},
+{
+"id": "676db4ce9e88",
+"title": "Giải tỏa áp lực thanh khoản ngắn hạn, sức ép chuẩn an toàn vẫn hiện hữu",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQallkY0pva253QTNvTDlEaGhpYTJleEdjaTlTWTQ2dGk5M1N3WG1hd284SGEwX3IxdkVYTmhPWmVkY3FocjJsUmVhcVRRNTR1NEVQcUM4Y3daa1RNb3BPdjhZcUJUS056aWxteUVkM2d6XzlEbGdkdTBWNjZ0SHIzSEZqamFGMDcyNTk2azZtRUFUVmplb2JDaGJLWk03VC0wSWZrd1Fn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T08:19:00+07:00",
+"found": "2026-11-25T08:36:20+07:00"
+},
+{
+"id": "76e0bf5dc6d4",
+"title": "Nghị quyết 57-NQ/TW khơi mở động lực tăng trưởng mới từ khoa học, công nghệ",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVJJTzhTR0N3NjA2dERaMDVPcmJ1N0MzaEk2S29GWGR5RHluejh3aXJyZWhrQms3UFdTczhIVk9idl94NUVuWi1DWXdWbzlONzc0eUhjdXNfQU4xM3pWVzFiXzdCQTFadFlSUEFYMVFsWE1ZX09CYy1Ub1pVQnd6US1VdzhSYTZCQ2xtOE9oUXJFOFM0RE9ETGpTaXRiVlE1N1lBeVI2Z2NxMXc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T08:19:00+07:00",
+"found": "2026-11-25T08:36:20+07:00"
+},
+{
+"id": "4cebfc9f168d",
+"title": "Ai sẽ là ngân hàng của năm 2026?",
+"link": "https://kenh14.vn/ai-se-la-ngan-hang-cua-nam-2026-215261125081013534.chn",
+"summary": "Từ những thương vụ huy động vốn quốc tế, cuộc đua mở rộng hệ sinh thái đến sự thay đổi trong cách tiếp cận khách hàng, những ứng viên cho danh hiệu “Ngân hàng của năm” tại FChoice Awards 2026 đang thể hiện dấu ấn riêng trên nhiều phương diện.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795568948374-17955689511662079465943.png",
+"source": "Kenh14",
 "cat": "xh",
-"published": "2026-11-25T08:18:26+07:00",
-"found": "2026-11-25T05:11:23+07:00"
+"published": "2026-11-25T08:17:00+07:00",
+"found": "2026-11-25T08:36:20+07:00"
+},
+{
+"id": "85ec20bec7dd",
+"title": "Tất cả người dân thi bằng lái xe chú ý thông báo mới nhất từ Bộ Công an",
+"link": "https://kenh14.vn/tat-ca-nguoi-dan-thi-bang-lai-xe-chu-y-thong-bao-moi-nhat-tu-bo-cong-an-215261125074159721.chn",
+"summary": "Bộ Công an cảnh báo về hành vi gian lận trong thi bằng lái xe.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795567272790-17955672733131391813813.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T08:17:00+07:00",
+"found": "2026-11-25T08:36:20+07:00"
 },
 {
 "id": "f399d3b873f4",
@@ -266,6 +399,17 @@
 "cat": "xh",
 "published": "2026-11-25T08:05:00+07:00",
 "found": "2026-11-25T08:20:48+07:00"
+},
+{
+"id": "210808a74db4",
+"title": "Giáo sư Mỹ vướng kiện tụng với 'sugar baby' sau khi quay về bên vợ",
+"link": "https://vnexpress.net/giao-su-my-vuong-kien-tung-voi-sugar-baby-sau-khi-quay-ve-ben-vo-5148515.html",
+"summary": "Cựu giáo sư Đại học Columbia và người tình cũ đệ đơn kiện lẫn nhau, từ cáo buộc tấn công tình dục, quấy rối đến hủy hoại sự nghiệp, sau khi ông chấm dứt mối quan hệ kéo dài hai năm.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/wouter-dessein-professor-econo-1712-2637-1795544225.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yyuXftFMBn7MDtp3fTg7hQ",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-25T08:03:23+07:00",
+"found": "2026-11-25T08:36:20+07:00"
 },
 {
 "id": "fdd7fa9d8996",
@@ -342,7 +486,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T08:00:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-25T08:20:48+07:00"
 },
 {
@@ -367,6 +511,17 @@
 "cat": "mxh",
 "published": "2026-11-25T08:00:00+07:00",
 "found": "2026-11-25T08:20:48+07:00"
+},
+{
+"id": "d972c837490f",
+"title": "Destino Centro: Thanh toán linh hoạt, thêm lựa chọn an cư tại phía Tây TPHCM",
+"link": "https://dantri.com.vn/bat-dong-san/destino-centro-thanh-toan-linh-hoat-them-lua-chon-an-cu-tai-phia-tay-tphcm-20261124105637719.htm",
+"summary": "(Dân trí) - Với số tiền thanh toán ban đầu từ 450 triệu đồng đến khi nhận nhà, khách hàng có thêm lựa chọn an cư tại Destino Centro - dự án căn hộ 4 hồ bơi ngay cửa ngõ phía Tây TPHCM.",
+"image": "https://cdnphoto.dantri.com.vn/6JSNFm_EOMbwln0_EeO5x4ke5_4=/2026/11/24/hinh-dai-dien-1795492011836.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-25T08:00:00+07:00",
+"found": "2026-11-25T08:36:20+07:00"
 },
 {
 "id": "ad5501ae1dc3",
@@ -566,7 +721,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T07:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-25T08:20:48+07:00"
 },
 {
@@ -649,6 +804,17 @@
 "found": "2026-11-25T08:20:48+07:00"
 },
 {
+"id": "c17d22ca1c1c",
+"title": "TS Hoàng Minh Hiếu: Phạt lao động công ích vừa răn đe, vừa giáo dục",
+"link": "https://vnexpress.net/ts-hoang-minh-hieu-phat-lao-dong-cong-ich-vua-ran-de-vua-giao-duc-5147696.html",
+"summary": "Ủy viên chuyên trách Ủy ban Pháp luật và Tư pháp của Quốc hội Hoàng Minh Hiếu cho rằng lao động công ích thay tiền phạt vừa bảo đảm tính răn đe, vừa tăng tính giáo dục và trách nhiệm xã hội.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/z6597681949128-c4705029a6b75d4-9906-1666-1795566928.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QnetI_Rq8-V7rVHnaWkyuA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-25T07:30:00+07:00",
+"found": "2026-11-25T08:36:20+07:00"
+},
+{
 "id": "c5018421e0e4",
 "title": "Sân bay Chicago ở Mỹ gặp sự cố radar, hơn 370 chuyến bay bị ảnh hưởng",
 "link": "https://tuoitre.vn/san-bay-chicago-o-my-gap-su-co-radar-hon-370-chuyen-bay-bi-anh-huong-100261125071625526.htm",
@@ -669,6 +835,18 @@
 "cat": "xh",
 "published": "2026-11-25T07:20:00+07:00",
 "found": "2026-11-25T07:24:26+07:00"
+},
+{
+"id": "f71817213b37",
+"title": "arsenal f.c. vs borussia dortmund standings",
+"link": "https://baonghean.vn/en/truc-tiep-arsenal-vs-borussia-dortmund-hiep-2-bat-dau-arsenal-dan-1-0-10356538.html",
+"summary": "Arsenal vs Borussia Dortmund Live: Second half begins, Arsenal leads 1-0. (Báo Nghệ An)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTXsJeqA1gHiwWuICqkp-GXQhyd84-khgTfYHjDyPoPPvZL14JyupUFRVfkno",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T07:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-25T08:36:20+07:00"
 },
 {
 "id": "b2c905967d68",
@@ -1531,17 +1709,6 @@
 "found": "2026-11-25T05:37:31+07:00"
 },
 {
-"id": "5e05b18d2243",
-"title": "Dự báo thời tiết 25/11/2026: Miền Bắc rét nhất đợt, Trung Bộ mưa rất lớn",
-"link": "https://vietnamnet.vn/du-bao-thoi-tiet-25-11-2026-mien-bac-ret-sau-trung-bo-mua-lon-2572290.html",
-"summary": "Không khí lạnh tiếp tục được tăng cường khiến miền Bắc rét sâu hơn. Từ Huế đến phía đông Quảng Ngãi có mưa to đến rất to, nguy cơ ngập úng, lũ quét và sạt lở đất. VietNamNet cập nhật những diễn biến mới nhất về thời tiết trên cả nước.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/2026-mien-bac-ret-nhat-dot-trung-bo-mua-rat-lon-18.jpg?width=0&s=7MKq73zBNjwTMUkqwe-Wdw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-25T05:15:00+07:00",
-"found": "2026-11-25T05:22:21+07:00"
-},
-{
 "id": "2510686a5a1f",
 "title": "Sau vụ nổ khí gas ở Hà Nội, Cục Cảnh sát PCCC và CNCH đưa khuyến cáo quan trọng",
 "link": "https://vietnamnet.vn/sau-vu-no-khi-gas-o-ha-noi-cuc-canh-sat-pccc-khuyen-cao-2578258.html",
@@ -1783,6 +1950,17 @@
 "published": "2026-11-25T04:00:00+07:00",
 "traffic": "200+",
 "found": "2026-11-25T04:15:23+07:00"
+},
+{
+"id": "ee74f228ea0b",
+"title": "Truy tìm trống đồng cổ sau 32 năm mất dấu",
+"link": "https://vnexpress.net/truy-tim-trong-dong-co-sau-32-nam-mat-dau-5148197.html",
+"summary": "Trống đồng cổ do ba đứa trẻ phát hiện năm 1994 ở Nho Quan đang được lưu giữ tại bảo tàng tỉnh, song quyền lợi người tìm thấy cổ vật chưa được giải quyết.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/trong-dong-1795432852-3511-1795433188.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uaqX-PeYxnQgurc1uP2Ajg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-25T04:00:00+07:00",
+"found": "2026-11-25T08:36:20+07:00"
 },
 {
 "id": "9f5cd2e00fd3",
@@ -27943,185 +28121,6 @@
 "cat": "xh",
 "published": "2026-11-22T08:36:00+07:00",
 "found": "2026-11-22T08:38:53+07:00"
-},
-{
-"id": "df6eeba024c9",
-"title": "vàng sjc giá vàng",
-"link": "https://laodong.vn/the-gioi/du-bao-thoi-diem-gia-vang-cham-moc-5000-usdounce-bat-chap-da-giam-manh-1804311.ldo",
-"summary": "Dự báo thời điểm giá vàng chạm mốc 5.000 USD/ounce bất chấp đà giảm mạnh (Laodong.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs9M-VMEKpXHzsELM4tBvSTarADgMzNKyXZeAfKEx7DRcqqiBM3LuWOMRnz_s",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T08:30:00+07:00",
-"traffic": "100+",
-"found": "2026-11-22T08:54:03+07:00"
-},
-{
-"id": "18a3d288d1d2",
-"title": "doue",
-"link": "https://www.tufutbolero.com/en/news/desire-doue-stretchered-off-in-tears-psg-fear-cruciate-12a8a3",
-"summary": "Désiré Doué stretchered off in tears: PSG fear cruciate damage (Tu Futbolero)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPGDBiG8AegaS7cOkiy7XREJZlZGacWnoXpn01HQSa3C17MjgBd2-oKAJTs7Y",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T08:30:00+07:00",
-"traffic": "100+",
-"found": "2026-11-22T10:45:30+07:00"
-},
-{
-"id": "a6e8822465ed",
-"title": "Chênh lệch giá mua vào - bán ra là gì? Vì sao người mua vàng cần biết?",
-"link": "https://cafef.vn/chenh-lech-gia-mua-vao-ban-ra-la-gi-vi-sao-nguoi-mua-vang-can-biet-18826112208300506.chn",
-"summary": "Khi xem bảng giá vàng, nhiều người thường chú ý đến con số niêm yết mà quên mất rằng mỗi sản phẩm đều có hai mức giá: mua vào và bán ra.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795310958592-179531095944235682371.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-22T08:29:00+07:00",
-"found": "2026-11-22T08:33:42+07:00"
-},
-{
-"id": "0447de6e3348",
-"title": "Chính sách đối với người có uy tín sau sáp nhập thôn, bản",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblM0NllYWkFmVWxUdFNydXY3OTRXRlBOOVh6TV9DeFB0WmFCNnpBVk9IMkhydmZia3F5YzltR0dXR3lEVVFGR0EtVGRqck40Vm1nX1R5cHV2cllySmo5eFVVZlhjbE04X1FmaVpBV1JMRjJ1ZmRkcDQ0R2hqeVpTeS1tTjRoX0lnWDlkUU90ei0wV0U?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T08:25:00+07:00",
-"found": "2026-11-23T00:13:02+07:00"
-},
-{
-"id": "4af95fa13742",
-"title": "Việt Nam thần tốc chế tạo xe chiến đấu bộ binh",
-"link": "https://thanhnien.vn/viet-nam-than-toc-che-tao-xe-chien-dau-bo-binh-18526112113131462.htm",
-"summary": "Sau hơn 80 năm kể từ khi được thành lập, lần đầu tiên Quân đội nhân dân Việt Nam tự chế tạo được xe thiết giáp mang tên xe chiến đấu bộ binh XCB-01.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/anh-chup-man-hinh-2026-10-20-222719-1795240312866619545029-0-0-1277-2043-crop-1795241612098103812977.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-22T08:22:00+07:00",
-"found": "2026-11-22T08:33:42+07:00"
-},
-{
-"id": "ef81b0980974",
-"title": "Vùng Vịnh tăng trợ cấp chi phí sinh hoạt cho người dân",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUhyeS1aVFl4ek5FSDdVYjhQcDV5YW1LNUVvcUJ6dUkxOFVDQTd3Q1ZLY2M3WEw4SEFPV1IzX3ZUdU1EM3Ywb1VxX01rV3VINzlYUkt5ZmdDWktGbzdPczRiRDcxMm1DNWRZZmp4YWtfdExta1ZiazVPdVJPcnRtYjdNNEh1Z09CRHdVSGpLSzc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T08:21:00+07:00",
-"found": "2026-11-22T12:50:49+07:00"
-},
-{
-"id": "b5b8279dce20",
-"title": "Chính sách công nghiệp đang 'hồi sinh' ở Đông Á và trên toàn thế giới",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMXFNLXUxR05WSk12bkNKbkhTak9GM01IWEMwVDhfTzlFVWx2SWk4T2xRb1dmYjNsTnJlQ1dQNVRySmcwTzZIU1hDMjlwNHY3ZU0zamVDVVVnZWdaRDc1QU5iTkFoMUdQZEtFWUJZWjg1cTBZRWUyOHNXLVFtZ1AtXzlTaHgwT1k0cmF3N0NzcE1PMnBkTHJBVzdZczA0RkgyZkE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T08:21:00+07:00",
-"found": "2026-11-22T18:30:15+07:00"
-},
-{
-"id": "d374d21c801e",
-"title": "TPHCM và Nam Bộ đón 2 đợt mưa giông khi không khí lạnh khuếch tán",
-"link": "https://vietnamnet.vn/tphcm-va-nam-bo-don-2-dot-mua-giong-khi-khong-khi-lanh-khuech-tan-2572297.html",
-"summary": "Trong 10 ngày tới, thời tiết TPHCM và Nam Bộ phổ biến ít mưa, ngày nắng nóng. Hai đợt không khí lạnh khuếch tán có thể gây mưa giông kèm lốc xoáy, gió mạnh; triều cường tại TPHCM vượt báo động 3, nguy cơ gây ngập úng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/22/tphcm-va-nam-bo-don-2-dot-mua-giong-khi-khong-khi-lanh-khuech-tan-546.jpg?width=0&s=BPBtHorIyaa6KYdhgnk5zw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-22T08:20:49+07:00",
-"found": "2026-11-22T08:18:33+07:00"
-},
-{
-"id": "ff2fcee70802",
-"title": "Thanh Hóa quy hoạch xây dựng trung tâm khí hóa lỏng tại Nghi Sơn",
-"link": "https://tuoitre.vn/thanh-hoa-quy-hoach-xay-dung-trung-tam-khi-hoa-long-tai-nghi-son-100261122075130458.htm",
-"summary": "Tỉnh Thanh Hóa đã có quy hoạch xây dựng kho LNG (khí thiên nhiên hóa lỏng) trung tâm tại Khu kinh tế Nghi Sơn. Trong đó, đảo Hòn Mê là nơi được lựa chọn để xây kho cảng, đầu mối cung ứng khí hóa lỏng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/mot-goc-khu-kinh-te-nghi-son-17953081032762028336501-0-0-1151-1842-crop-1795308107124539044808.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-22T08:18:00+07:00",
-"found": "2026-11-22T09:48:59+07:00"
-},
-{
-"id": "dde4e9ffea6a",
-"title": "Chính thức có cơ chế ưu đãi, hỗ trợ đầu tư phát triển du lịch",
-"link": "https://cafef.vn/chinh-thuc-co-co-che-uu-dai-ho-tro-dau-tu-phat-trien-du-lich-188261122080951781.chn",
-"summary": "Sáng 21/11, Quốc hội đã biểu quyết thông qua Nghị quyết số 59/2026/QH16 về một số cơ chế, chính sách đặc thù phát triển du lịch Việt Nam.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795309473580-1795309474203368685110.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-22T08:17:00+07:00",
-"found": "2026-11-22T08:33:42+07:00"
-},
-{
-"id": "786d8133c887",
-"title": "Đấu giá đất không thể trở thành công cụ thổi giá",
-"link": "https://cafef.vn/dau-gia-dat-khong-the-tro-thanh-cong-cu-thoi-gia-188261122082035181.chn",
-"summary": "Nếu không kiểm soát chặt, đấu giá đất từ công cụ khai thác tài nguyên sẽ bị biến thành cỗ máy tạo giá ảo, đẩy chi phí tăng, gây hệ lụy cho thị trường bất động sản.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795310063574-1795310063902707878842.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-22T08:15:00+07:00",
-"found": "2026-11-22T08:33:42+07:00"
-},
-{
-"id": "1d5d4ef365b3",
-"title": "Học Bác từ những việc làm bình dị",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52UGk4Mzhha1ZtY3ZMZjJQcnpTQUFDbVhITERndktjeVdWdE1FeGwtX1RpNmRpM214dTcwbzJQemlJWks2MnVZcHJFZ0IwOHJLTVRPLVRmOTBaVjdQYzNHSUtSSmJLYmc2djVLakNqUXB3WWhk?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T08:15:00+07:00",
-"found": "2026-11-22T22:56:14+07:00"
-},
-{
-"id": "e84b46e5ff21",
-"title": "Giá vàng hôm nay 22/11: Vàng SJC, vàng nhẫn 9999 giảm sâu tới 6 triệu đồng/lượng trong tuần, vàng thế giới mất gần 10%",
-"link": "https://cafef.vn/gia-vang-hom-nay-22-11-vang-sjc-vang-nhan-9999-giam-sau-toi-6-trieu-dong-luong-trong-tuan-vang-the-gioi-mat-gan-10-188261122081406871.chn",
-"summary": "Thị trường vàng trong nước đã trải qua một đợt giảm mạnh, với giá vàng miếng và vàng nhẫn tại nhiều thương hiệu mất từ 3 triệu đến hơn 6 triệu đồng/lượng. Trên thị trường quốc tế, vàng ghi nhận tuần giảm mạnh nhất trong khoảng 8 tháng, lùi sát mốc 3.500 USD/ounce.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795309994216-17953099947731116612450.jpeg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-22T08:13:00+07:00",
-"found": "2026-11-22T08:18:33+07:00"
-},
-{
-"id": "3fd03784a6f4",
-"title": "FED chia sẻ về lộ trình lãi suất dưới",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Wc1FkdUt2LTMxQlpHSGtjY0dmUW41QVpxZURsbExSTDdqbkFtUVNJSFhIUWFEeld0MTZBa0l0aEJHS21wOFA1RDhPZE42ZUNPZ0prcmFsTlRjQzk3Q2xXTXZIU20xeFcwYzJrS0E3ZzFlaDJaUi1FNERR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T08:13:00+07:00",
-"found": "2026-11-22T08:33:42+07:00"
-},
-{
-"id": "798f78efad86",
-"title": "Muốn tuổi 30 bớt áp lực tài chính, hãy học 5 điều này từ sớm",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ1FFblc2M1JuU1djS0hvSnFMNFBUdlRLSk1oWU9XaGdweDlYRnpNcW5DWEJqR2h5QWZaNHRSNC0xSzZDNEw1RVRTZVBsOUc2bTJvM2JYV21BNzFXcnQ5ZFVLTVNYTDk5SXJ3M2JnT1h4c0tLSW1RVXQ3SnFfcl83ckMwOWk0Mm5aWjZuSGQxYnA0d2t4dDl3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T08:11:00+07:00",
-"found": "2026-11-22T08:33:42+07:00"
-},
-{
-"id": "daab1c37df75",
-"title": "viên chức",
-"link": "https://dantri.com.vn/noi-vu/nhom-can-bo-vien-chuc-duoc-de-xuat-huong-tro-cap-mot-lan-36-trieu-dong-20261121162153268.htm",
-"summary": "Nhóm cán bộ, viên chức được đề xuất hưởng trợ cấp một lần 36 triệu đồng (Báo Dân trí)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWf9rOYl1FAYG6ewk3_v5CdQJEgysTph01831eiI9V5_11Q2H9jCgjFjaSRO8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T08:10:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-22T08:33:42+07:00"
 }
 ]
 }
