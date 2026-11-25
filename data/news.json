@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-25T12:14:36+07:00",
-"new": 20,
+"updated": "2026-11-25T12:29:46+07:00",
+"new": 18,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 56
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,94 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "a1df082547ce",
+"title": "Ký ức chợ nổi Cái Bè, một thời nhộn nhịp cả dòng sông",
+"link": "https://thanhnien.vn/ky-uc-cho-noi-cai-be-mot-thoi-nhon-nhip-ca-dong-song-185261124162339725.htm",
+"summary": "Tiếng rao cùng những ghe chở chôm chôm đỏ rực dòng sông hay những cây bẹo treo hàng hóa là hình ảnh quen thuộc ở chợ nổi Cái Bè. Hình ảnh ấy giờ chỉ còn là ký ức đẹp về một thời thương hồ sầm uất 'trên bến dưới thuyền'.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-dji0063-17955118398451731062449-0-256-1440-2560-crop-17955122090522021573722.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-25T12:27:00+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
+"id": "d33125ddfd7e",
+"title": "SeABank bổ nhiệm cựu Chủ tịch HĐQT làm Tổng Giám đốc",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmF3LTdhaTlBdEoxa0p4WUpMY2hmN0V0LS1YeG5CUG1CMnBkMlNOQk9nTHRKRXdjbzA3SEpqT1NGUW81TUhHcm43TEN5T2Y0dGhwUU51YmFFdFh0dmJmdjFmb3lTV0ZzRHR5NnJRUFljbTRSWFF4XzdmY2kxenZnSGNGT05mUGc1eXFWcjJ3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-25T12:25:00+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
+"id": "8e1814e1e210",
+"title": "TP.HCM thu hồi đất khu cao ốc cạnh Dinh Độc Lập",
+"link": "https://thanhnien.vn/tphcm-thu-hoi-dat-khu-cao-oc-canh-dinh-doc-lap-185261125115204017.htm",
+"summary": "TP.HCM thông báo thu hồi khu đất với diện tích hơn 1.200 m² tại số 1 Lê Quý Đôn, phường Xuân Hòa, nơi tọa lạc cao ốc Indochine Park Tower, cạnh Dinh Độc Lập.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-cao-oc-indochine-park-tower-3-sy-dong-1795582100793637253507-209-0-1575-2184-crop-1795582386350476632094-1795582419072954684994.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-25T12:24:00+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
+"id": "effad2f01b38",
+"title": "Người đàn ông có hình xăm rồng tử vong trong công viên",
+"link": "https://vietnamnet.vn/nguoi-dan-ong-co-hinh-xam-rong-tu-vong-trong-cong-vien-2578445.html",
+"summary": "Công an TP Đồng Nai đang xác minh danh tính người đàn ông được phát hiện tử vong trong công viên. Nạn nhân có hình xăm rồng sau lưng và hình xăm bát quái ở mu bàn tay trái.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/nguoi-dan-ong-co-hinh-xam-rong-tu-vong-trong-cong-vien-1997.jpeg?width=0&s=GsZE0E7EQJLrQKiYv2m81w",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-25T12:23:46+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
+"id": "4d796d888906",
+"title": "Công an cảnh báo thủ đoạn kiếm tiền bất thường nhắm vào người lao động dịp cuối năm: Muốn nhận lại tiền phải hoàn thành 5 đơn hàng",
+"link": "https://kenh14.vn/cong-an-canh-bao-thu-doan-kiem-tien-bat-thuong-nham-vao-nguoi-lao-dong-dip-cuoi-nam-muon-nhan-lai-tien-phai-hoan-thanh-5-don-hang-215261125114930965.chn",
+"summary": "Công an TP Đà Nẵng cảnh báo thủ đoạn lừa đảo núp bóng tuyển dụng và hoạt động từ thiện, dụ người tìm việc mua hàng, chuyển tiền nhiều lần để chiếm đoạt tài sản dịp cuối năm.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795582152207-17955821525271248591370.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-25T12:21:00+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
+"id": "85f2bc60b174",
+"title": "TPHCM mời gọi đầu tư 90 dự án PPP, tổng vốn hơn 1,27 triệu tỷ đồng",
+"link": "https://cafef.vn/tphcm-moi-goi-dau-tu-90-du-an-ppp-tong-von-hon-127-trieu-ty-dong-188261125121806375.chn",
+"summary": "TPHCM đang mời gọi đầu tư 90 dự án theo phương thức đối tác công tư (PPP), tổng mức đầu tư hơn 1,27 triệu tỷ đồng. Để thu hút nhà đầu tư, thành phố cam kết đi trước về giải phóng mặt bằng, chia sẻ rủi ro, rút ngắn thủ tục và mở rộng các kênh huy động vốn.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795583813804-1795583815529548332451.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-25T12:17:00+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
+"id": "d06430045dc1",
+"title": "Cháy bãi xe ở TPHCM, khói đen cuồn cuộn bốc cao hàng chục mét",
+"link": "https://vietnamnet.vn/chay-bai-xe-o-tphcm-khoi-den-cuon-cuon-boc-cao-hang-chuc-met-2578442.html",
+"summary": "Đám cháy bùng phát tại bãi xe trên đường Nguyễn Thị Nhuần, phường An Phú Đông (TPHCM), tạo thành cột lửa đỏ rực, khói đen cuồn cuộn bốc cao hàng chục mét.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/chay-bai-xe-o-tphcm-khoi-den-cuon-cuon-boc-cao-hang-chuc-met-1907.jpg?width=0&s=ETFUXC5wYpn2SSICMm4hWw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-25T12:16:58+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
+"id": "21c59aad835e",
+"title": "Cảnh sát bắt đối tượng truy nã đặc biệt nguy hiểm lẩn trốn tại Hà Nội",
+"link": "https://dantri.com.vn/phap-luat/canh-sat-bat-doi-tuong-truy-na-dac-biet-nguy-hiem-lan-tron-tai-ha-noi-20261125105452013.htm",
+"summary": "(Dân trí) - Lực lượng cảnh sát hình sự của Công an tỉnh Quảng Ngãi đã bắt Hồ Đắc Thắng khi đối tượng này lẩn trốn tại thành phố Hà Nội. Đây là đối tượng bị truy nã về tội Lừa đảo chiếm đoạt tài sản.",
+"image": "https://cdnphoto.dantri.com.vn/CgmMljV8FuaMmyHNhLYJ68WLBDA=/2026/11/25/bat-doi-tuong-truy-naquang-ngaicong-an-quang-ngai-cropped-1795578780483.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-25T12:13:26+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
 {
 "id": "b7f7e8fca684",
 "title": "Ngành xây dựng khát thợ: Trả công gấp rưỡi, chủ nhà vẫn phải 'xin' thợ đến làm",
@@ -279,6 +367,17 @@
 "found": "2026-11-25T12:14:36+07:00"
 },
 {
+"id": "b1eaba32c3cb",
+"title": "Cơ hội nào đang mở ra từ những thay đổi của nền kinh tế?",
+"link": "https://dantri.com.vn/kinh-doanh/co-hoi-nao-dang-mo-ra-tu-nhung-thay-doi-cua-nen-kinh-te-20261125091617369.htm",
+"summary": "(Dân trí) - Dòng vốn đầu tư công lan tỏa mạnh mẽ cùng ưu đãi từ các hiệp định thương mại đang tạo lực đẩy để doanh nghiệp chuyển sang chiến lược đầu tư dài hạn.",
+"image": "https://cdnphoto.dantri.com.vn/Aeie67ZTlKGGTkRejptEEpAQ82c=/2026/11/25/thumb-1795582369312.png",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-25T12:01:03+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
 "id": "1e77364144d4",
 "title": "Người dân khu tập thể E4 làm quen cuộc sống mới sau vụ nổ gas",
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFQ3cGkycFJQRUwxNHBvNEgwMVIxLTA5SE4wT2Q5Rzd6bGRiaUxwWUJBLVM0Sjk5QlRtak9PazJTOU84YXRGQjFJS2xaSGROVEUwYlppSUpLUmNuSWZBWjJHYmdBSkZQekJmaTMwTGNlMXpiWXY3MkowN3dKcTN3TjRLYUJucUYycTM1WmhFdzhTRnNGWW1VRUpn?oc=5",
@@ -288,6 +387,29 @@
 "cat": "bds",
 "published": "2026-11-25T12:01:00+07:00",
 "found": "2026-11-25T12:14:36+07:00"
+},
+{
+"id": "9cc743193cff",
+"title": "tàu",
+"link": "https://tuoitre.vn/ukraine-bao-ve-quyet-dinh-tan-cong-tau-nga-xa-tien-tuyen-dong-minh-lo-ngai-10026112422012941.htm",
+"summary": "Ukraine bảo vệ quyết định tấn công tàu Nga xa tiền tuyến, đồng minh lo ngại (Tuổi Trẻ)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9M6R7TKtv9G8fFWT328V-02Irr92lzUvz9K9700Pn6JBuHORR7sLVqoqotKA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-25T12:00:00+07:00",
+"traffic": "500+",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
+"id": "71f4c575d6db",
+"title": "Đường sắt tốc độ cao Bắc - Nam: Hé lộ các mốc tiến độ quan trọng",
+"link": "https://dantri.com.vn/bat-dong-san/duong-sat-toc-do-cao-bac-nam-he-lo-cac-moc-tien-do-quan-trong-20261125115054044.htm",
+"summary": "(Dân trí) - Dự án đường sắt tốc độ cao Bắc - Nam phấn đấu khởi công cuối năm 2028, sau khi hoàn thành các bước khảo sát, lập báo cáo nghiên cứu khả thi và chuẩn bị đầu tư.",
+"image": "https://cdnphoto.dantri.com.vn/Y079GCiXmRkKFWz-c8aVxTuu6cM=/2026/03/03/du-an-duong-sat-cao-toc-bac-nam-thu-tuong-chi-dao-nong-1772534662941.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-25T11:58:57+07:00",
+"found": "2026-11-25T12:29:46+07:00"
 },
 {
 "id": "281589476407",
@@ -599,6 +721,28 @@
 "found": "2026-11-25T11:44:17+07:00"
 },
 {
+"id": "29ca286336fc",
+"title": "Cặp vợ chồng Pháp lừa hai con chơi bịt mắt, bỏ lại trong rừng",
+"link": "https://vnexpress.net/cap-vo-chong-phap-lua-hai-con-choi-bit-mat-bo-lai-trong-rung-5148654.html",
+"summary": "Người mẹ và cha dượng bị cáo buộc đưa hai con trai 3 và 5 tuổi từ Pháp đến Bồ Đào Nha, dụ chơi bịt mắt tìm đồ vật trong rừng rồi lái xe bỏ đi.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/25/2026-two-suspects-mother-marin-8817-3676-1795579654.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9wzq1iyobNMcdVikfoIA9g",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-25T11:27:00+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
+"id": "000b19ca30c7",
+"title": "Hoãn xét xử tài xế Lexus tông liên hoàn 6 xe ở Hà Nội",
+"link": "https://tuoitre.vn/hoan-xet-xu-tai-xe-lexus-tong-lien-hoan-6-xe-o-ha-noi-10026112511194025.htm",
+"summary": "Phiên tòa xét xử tài xế Lexus tông liên hoàn 6 xe ở Hà Nội phải hoãn do nhóm bị hại và người liên quan được tòa triệu tập đều vắng mặt.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/xe-lexus-1795579933208388717485-80-107-470-730-crop-1795579981364653403257.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-25T11:26:00+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
 "id": "0920a5fd4cf6",
 "title": "VCB Merchant Up: Hỗ trợ hộ kinh doanh thanh toán và quản lý bán hàng toàn diện",
 "link": "https://dantri.com.vn/kinh-doanh/vcb-merchant-up-ho-tro-ho-kinh-doanh-thanh-toan-va-quan-ly-ban-hang-toan-dien-20261125111412414.htm",
@@ -687,6 +831,17 @@
 "found": "2026-11-25T11:25:07+07:00"
 },
 {
+"id": "c0d9d152b542",
+"title": "Nữ du khách giấu 3 khẩu súng trong valy nhập cảnh từ Lào",
+"link": "https://vnexpress.net/nu-du-khach-giau-3-khau-sung-trong-valy-nhap-canh-tu-lao-5148645.html",
+"summary": "Sarah Therese, quốc tịch Australia, bị phát hiện giấu 3 khẩu súng ngắn và 17 viên đạn trong valy khi nhập cảnh từ Lào qua cửa khẩu Cầu Treo.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/25/khau-sung-1795578776-5998-1795578865.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2MM7JrUqueVkuNJBUv_lQA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-25T11:15:38+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
 "id": "5a0af0e4a750",
 "title": "Ai được TP HCM hỗ trợ tiền mua bảo hiểm y tế?",
 "link": "https://vnexpress.net/ai-duoc-tp-hcm-ho-tro-tien-mua-bao-hiem-y-te-5148635.html",
@@ -709,6 +864,17 @@
 "found": "2026-11-25T12:14:36+07:00"
 },
 {
+"id": "5f29bf4e7a39",
+"title": "Bị hại không tới phiên xét xử vụ tài xế Lexus tông 6 xe chờ đèn đỏ",
+"link": "https://vnexpress.net/bi-hai-khong-toi-phien-xet-xu-vu-tai-xe-lexus-tong-6-xe-cho-den-do-5148615.html",
+"summary": "Bảy bị hại và nhiều người liên quan \"vắng mặt không lý do\" tại phiên xét xử tài xế Lexus gây tai nạn liên hoàn với 5 ôtô và một xe máy tại khu vực Trung Kính - Mạc Thái Tổ.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/25/image-1795577867-1148-1795577933.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Gxa6hturZxLPenNv1lELLg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-25T11:13:43+07:00",
+"found": "2026-11-25T12:29:46+07:00"
+},
+{
 "id": "7277341cc6e8",
 "title": "tuấn tự do",
 "link": "https://vnexpress.net/them-nan-nhan-tu-vong-trong-vu-no-khi-gas-o-ha-noi-5148493.html",
@@ -719,6 +885,17 @@
 "published": "2026-11-25T11:10:00+07:00",
 "traffic": "2000+",
 "found": "2026-11-25T11:44:17+07:00"
+},
+{
+"id": "ec90cfa481eb",
+"title": "Dùng clip nhạy cảm để cưỡng đoạt tài sản, hai cô gái bị khởi tố",
+"link": "https://tuoitre.vn/dung-clip-nhay-cam-de-cuong-doat-tai-san-hai-co-gai-bi-khoi-to-100261125105200697.htm",
+"summary": "Sau hơn một giờ điều tra, lực lượng Công an Lào Cai đã xác định được hai cô gái dùng đoạn clip nhạy cảm để đe dọa, uy hiếp tinh thần nhằm chiếm đoạt tài sản của một người dân.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/lua-dao-qua-mang-3-edit-resize-2-17955806893771716188136-949-896-2600-3537-crop-17955808166691896326029.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-25T11:10:00+07:00",
+"found": "2026-11-25T12:29:46+07:00"
 },
 {
 "id": "c8314771b512",
@@ -1018,7 +1195,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-25T10:40:00+07:00",
-"traffic": "500+",
+"traffic": "200+",
 "found": "2026-11-25T11:25:07+07:00"
 },
 {
@@ -1262,6 +1439,17 @@
 "cat": "xh",
 "published": "2026-11-25T10:23:16+07:00",
 "found": "2026-11-25T10:39:37+07:00"
+},
+{
+"id": "a0b8f0a26ddf",
+"title": "Mâu thuẫn vì nói lớn tiếng, đánh chết hàng xóm",
+"link": "https://tuoitre.vn/mau-thuan-vi-noi-lon-tieng-danh-chet-hang-xom-100261125093726908.htm",
+"summary": "Sau mâu thuẫn cá nhân, An dùng tay đánh vào mặt, đầu và thúc đầu gối vào bụng anh Thuận. Nạn nhân được đưa đi cấp cứu nhưng đã tử vong trên đường đến bệnh viện.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/04437549945353800760912fe02227904590d7bfa5613f9f9fbc72-17955721461861645560943-0-168-752-1371-crop-1795575566002420757129-181-224-752-1138-crop-1795577283991811177059.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-25T10:22:00+07:00",
+"found": "2026-11-25T12:29:46+07:00"
 },
 {
 "id": "bcfc25c9ad51",
@@ -2393,6 +2581,17 @@
 "cat": "tc",
 "published": "2026-11-25T08:45:00+07:00",
 "found": "2026-11-25T11:25:07+07:00"
+},
+{
+"id": "bac17890ddc1",
+"title": "Cùng dòng vốn toàn cầu kiến tạo giá trị tại Việt Nam",
+"link": "https://dantri.com.vn/kinh-doanh/cung-dong-von-toan-cau-kien-tao-gia-tri-tai-viet-nam-20261125081220271.htm",
+"summary": "(Dân trí) - Nữ tỷ phú Nguyễn Thị Phương Thảo nhấn mạnh tốc độ triển khai dự án bằng công nghệ cùng chính sách thông thoáng giúp Việt Nam sẵn sàng trở thành tâm điểm của dòng vốn quốc tế.",
+"image": "https://cdnphoto.dantri.com.vn/GKaNkNrVxzenI4_DxInobwWF7sE=/2026/11/25/nu-ty-phu-1795582752741.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-25T08:45:00+07:00",
+"found": "2026-11-25T12:29:46+07:00"
 },
 {
 "id": "0a517f035f7d",
@@ -27921,206 +28120,6 @@
 "cat": "xh",
 "published": "2026-11-22T14:27:00+07:00",
 "found": "2026-11-22T15:37:13+07:00"
-},
-{
-"id": "1b743812cce7",
-"title": "Tắm biển bất chấp lệnh cấm, còn đe dọa lực lượng cứu hộ ở Nha Trang",
-"link": "https://thanhnien.vn/tam-bien-bat-chap-lenh-cam-con-de-doa-luc-luong-cuu-ho-o-nha-trang-185261122130556964.htm",
-"summary": "Dù biển Nha Trang đang động mạnh, sóng lớn và có biển cảnh báo cấm tắm, một người đàn ông vẫn xuống biển. Khi được nhắc nhở, người này không chấp hành mà còn chửi bới, đe dọa tấn công lực lượng cứu hộ.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/edit-doi-cuu-ho-giua-song-bien-1795327355593467397-0-27-926-1508-crop-17953273828801509299988.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-22T14:26:00+07:00",
-"found": "2026-11-22T14:51:42+07:00"
-},
-{
-"id": "f4e45341df69",
-"title": "Thúc đẩy thu ngân sách và kiến tạo đô thị",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03TmtrNnJDQUxYQVZsVUp2MmFtU0psNW5JdURKeVRhUlBPb01KU2Q0bVdnQWNGZUV2R3hiMHBHOENGXzlQUm1hOHhVRWgxODRYRUoxcGhZS0dCdnZhT2R3RmpkTjUxREZsRzYxeFFxMndubVkzYzNsdjVucHljZHM?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-22T14:21:00+07:00",
-"found": "2026-11-22T22:56:49+07:00"
-},
-{
-"id": "cf0a7156ee9f",
-"title": "bình phước",
-"link": "https://tuoitre.vn/trung-so-hi-huu-12-to-ve-so-binh-phuoc-vua-trung-dac-biet-vua-trung-giai-tu-hon-24-ti-100261122105514337.htm",
-"summary": "Trúng số 'hy hữu': 12 tờ vé số Bình Phước vừa trúng đặc biệt vừa trúng giải tư, hơn 24 tỉ (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzvjEpebA7tv9_56z-404LWfg3_FqKiP-4y0giaZXTTxfzYOlfxDJlqAt_bo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T14:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-22T16:09:34+07:00"
-},
-{
-"id": "8876d0d9dec1",
-"title": "Sân bay Long Thành dự kiến khai thác thương mại từ ngày 24/12",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ01EbHItSTJfNEctT0FDZHM1VXZWMzhLZ2VxMVhqT0htYmdhNGR1bXZpelhIZ3pYX0FTdVliWVNGT0J3aXd3eFVfMGI1QTRmUzhGV3dZcnBxbmRNWU4zYmVQR1RzeEpFcFpmS2VJQzUwdGNfS0VSRll2bEU5cTJ4bU5yV1NQcTBqaHpqY0VUM1haNmNUMlk4cVRn?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-22T14:19:00+07:00",
-"found": "2026-11-22T17:13:55+07:00"
-},
-{
-"id": "5bd0d9722092",
-"title": "Nhận mưa giải thưởng trong nước, phá vỡ kỷ lục, tựa game bom tấn này vẫn bị TGA ngó lơ, người chơi bức xúc tột độ",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbnRBRm1xbVp4LVlVcFdSaFY4Q2pGbUpOa2JXbkRYRnBZVGpHbEo0UExxd1JDUEgwWUJKM1pOa0pjM085bjBtTTQzaHVkcVBGbjZPaEFxX01TNEQxOW4zT0tHdXVJbHdjVDBSRmpTSE1VbWRucmtqUXE3WjJyZFJfdVVTNDlIb21YeWdMTjJMZ3l4aklDSmVadUl5SWFVSzV2S3VMX3ByZzFTV2RfYTFFd3hlVU9DR2prNGk5aXRpYWZSM2QwTlRFcXE3M0V0QnhDN3hmSFpOZnE4Y0tDejNjR3BBOTc?oc=5",
-"summary": "Nguồn: m.gamek.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-22T14:18:00+07:00",
-"found": "2026-11-22T15:54:23+07:00"
-},
-{
-"id": "e12fe51c57d0",
-"title": "Góc nhìn chuyên gia: Nhịp giảm là cơ hội giải ngân chọn lọc, 3 nhóm cổ phiếu tiềm năng kỳ vọng đón dòng tiền mới",
-"link": "https://cafef.vn/goc-nhin-chuyen-gia-nhip-giam-la-co-hoi-giai-ngan-chon-loc-3-nhom-co-phieu-tiem-nang-ky-vong-don-dong-tien-moi-188261122141751308.chn",
-"summary": "Các chuyên gia cho rằng mặt bằng lãi suất, áp lực bán ròng của khối ngoại và những bất ổn trên thị trường quốc tế đang khiến dòng tiền duy trì trạng thái thận trọng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/images-30-17953317907221180375296-0-43-401-685-crop-17953317963751113412210.jpeg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-22T14:14:00+07:00",
-"found": "2026-11-22T15:22:02+07:00"
-},
-{
-"id": "a1a90e1aa61e",
-"title": "Càng 'bắt đáy' vàng càng lỗ",
-"link": "https://cafef.vn/cang-bat-day-vang-cang-lo-188261122141205671.chn",
-"summary": "Sáng nay (22/11), giá vàng miếng SJC bán ra ở mức 133,5 triệu đồng/lượng. Giá vàng giảm liên tiếp từ đầu tuần đến nay và chênh lệch mua vào - bán ra nới rộng khiến nhà đầu tư càng \"bắt đáy\" càng lỗ.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795331486981-1795331487443622138063.webp",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-22T14:11:00+07:00",
-"found": "2026-11-22T14:19:47+07:00"
-},
-{
-"id": "2b31d7ee104e",
-"title": "Đề xuất phân kỳ đầu tư tuyến tỉnh lộ 429D qua địa bàn 8 xã của Hà Nội",
-"link": "https://cafef.vn/de-xuat-phan-ky-dau-tu-tuyen-tinh-lo-429d-qua-dia-ban-8-xa-cua-ha-noi-188261122130556272.chn",
-"summary": "Sở Xây dựng Hà Nội vừa báo cáo UBND thành phố về tình hình triển khai đầu tư tuyến tỉnh lộ 429D theo quy hoạch, trong đó đề xuất phân kỳ đầu tư một số đoạn tuyến nhằm giảm áp lực cân đối vốn.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795327514926-17953275158571316183964.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-22T14:05:00+07:00",
-"found": "2026-11-22T14:19:47+07:00"
-},
-{
-"id": "5c6f19cfe127",
-"title": "Khủng hoảng nhà ở tại Tây Ban Nha: “Bài toán” an sinh xã hội trước thềm bầu cử",
-"link": "https://cafef.vn/khung-hoang-nha-o-tai-tay-ban-nha-bai-toan-an-sinh-xa-hoi-truoc-them-bau-cu-188261122130446036.chn",
-"summary": "Tại Tây Ban Nha, cuộc khủng hoảng nhà ở không còn đơn thuần là câu chuyện về giá cả hay quan hệ giữa chủ nhà và người thuê. Vấn đề này đã trở thành tâm điểm của những tranh luận về công bằng xã hội, chất lượng cuộc sống và trách nhiệm của chính quyền trong việc bảo đảm các quyền…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/22/avatar1795327423036-17953274235721142466013.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-22T14:04:00+07:00",
-"found": "2026-11-22T14:19:47+07:00"
-},
-{
-"id": "0530d820d964",
-"title": "Nghệ sĩ Trần Hiếu được vinh danh ở tuổi 90",
-"link": "https://vnexpress.net/nghe-si-tran-hieu-duoc-vinh-danh-o-tuoi-90-5147644.html",
-"summary": "Nghệ sĩ Trần Hiếu, 90 tuổi, thuộc danh sách 50 văn nghệ sĩ được vinh danh vì có nhiều đóng góp cho văn học nghệ thuật.",
-"image": "https://i1-giaitri.vnecdn.net/2026/11/22/tran-hieu-1795324862-5480-1795325301.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1EdjDdKhmNYMzWzMW2-bHQ",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-22T14:00:00+07:00",
-"found": "2026-11-23T03:16:24+07:00"
-},
-{
-"id": "5d34eddbc018",
-"title": "HĐND TPHCM sắp bàn việc xây lại chung cư, giá dịch vụ y tế",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWms1cXlNODZ5ZDhkN0JMMzVGS25WTWtBZjl3S1lkckNuN0drTFpkNGQzYVJRQXNxN0c1ZThYbGV0SVFxZjc5dms3NTBoMDBCbktjTmpadDRKcFd3M042OFZjdFpIUTJFZzVUZnJ3QW9yRV9abWYyWTlOVnF2ZXdmN0p2SGRFXzFnZjUzWmI2eGhQaUNE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-22T13:58:26+07:00",
-"found": "2026-11-22T14:04:30+07:00"
-},
-{
-"id": "859bffb07ec3",
-"title": "USD đứt chuỗi 8 phiên tăng, xu hướng tuần tới sẽ ra sao?",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSXZhb3EydzZncjZMZ3kyU3JrWDRKR0VoZ1lqNmR2Qm4wRWpTYmVMandXYTlmdEl6S3dpakY2NUhQdnVEZGxZQWk1cDF4enRjZlZBaVY0cDhJYl92azV0dVl4cnJQVzg0Q3ZTb1BqVEEtaUJPWWtLMnZsdmZlRGJqekp4Y1dma21RUS1JODNocC0?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T13:55:35+07:00",
-"found": "2026-11-22T14:04:30+07:00"
-},
-{
-"id": "335439e3fc73",
-"title": "Chứng khoán KAFI muốn huy động 1.875 tỷ đồng cho vay ký quỹ và tự doanh",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVndLX1lNblRTcVdiTjBKa0ExdC1ydFJTWEUyTVdtSXJUandIb0Fnc0xWSm5vbi1ITnBPWkQxSktHcjhMNmxvNU1waWNhdDdKczFEZy1Bel9zcUdFcUtwb3hvZXo5Q1lwVHZLYXFMRkRmN0NmanBuMkpORFhtQTVNSHQ4TkhiY0FtMlBIck1nMGtiRHp5anJRRHNHZTN6bVVTcWJ3bXVnVQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-22T13:55:00+07:00",
-"found": "2026-11-22T14:04:30+07:00"
-},
-{
-"id": "5b7dd69bd7a4",
-"title": "Ngày hội Văn hóa công nhân: Thử làm tranh Đông Hồ, chơi trò dân gian, mua bánh kẹo cho con",
-"link": "https://tuoitre.vn/ngay-hoi-van-hoa-cong-nhan-thu-lam-tranh-dong-ho-choi-tro-dan-gian-mua-banh-keo-cho-con-100261122110259048.htm",
-"summary": "Khoảng 3.000 công nhân tại Bắc Ninh hào hứng tham gia Ngày hội Văn hóa công nhân năm 2026. Ngoài làm thử tranh Đông Hồ, nghe hát quan họ, chơi trò chơi, mỗi người được nhận voucher 500.000 đồng để mua sắm, từ nồi inox đến sữa, bánh kẹo cho con.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/17953190827521942409236531424957681649112066133396816478fccfe6937b4bd86823118feaa4b-17953191423441190842206-91-40-1640-2519-crop-17953198579741818174139.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-22T13:53:00+07:00",
-"found": "2026-11-22T14:19:47+07:00"
-},
-{
-"id": "bca98d19c932",
-"title": "Cậu bé tai nhỏ và cộng đồng yêu thương",
-"link": "https://tuoitre.vn/cau-be-tai-nho-va-cong-dong-yeu-thuong-100261122120258072.htm",
-"summary": "Cùng con trai Nhật An với đôi tai nhỏ bẩm sinh, vợ chồng chị Trần Lan Hương không chỉ có tình yêu thương vô bờ, mà cần cả thông tin y khoa lẫn kinh nghiệm giúp con tự tin.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/02nhat-an-hoi-be-17953221241912144520008-103-0-1169-1706-crop-1795323190771147945367.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-22T13:51:00+07:00",
-"found": "2026-11-22T15:37:13+07:00"
-},
-{
-"id": "74323da9e2bc",
-"title": "hồng ngọc",
-"link": "https://cafef.vn/tinh-hinh-suc-khoe-hien-tai-cua-nsnd-cong-ly-188261120113805893.chn",
-"summary": "Tình hình sức khỏe hiện tại của NSND Công Lý (CafeF)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSwZDtKmuRRuts44qvZeE8Co36tbr6NPzuPzSATWSu8F88AooFWmPsPRhx5iA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-22T13:50:00+07:00",
-"traffic": "500+",
-"found": "2026-11-22T16:42:24+07:00"
-},
-{
-"id": "60e095fba603",
-"title": "Lật tẩy thủ đoạn giấu thiết bị điện tử để gian lận thi sát hạch lái xe",
-"link": "https://vietnamnet.vn/thu-doan-giau-thiet-bi-dien-tu-de-gian-lan-thi-sat-hach-lai-xe-2577596.html",
-"summary": "Nhằm gian lận trong sát hạch lái xe, B. đã quấn thiết bị điện tử ở dưới nách và chân hòng qua mặt lực lượng chức năng rồi mang vào phòng thi.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/22/lat-tay-thu-doan-giau-thiet-bi-dien-tu-de-gian-lan-thi-sat-hach-lai-xe-1054.png?width=0&s=68PT-AIrYa4QH1fE1hD7eA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-22T13:48:46+07:00",
-"found": "2026-11-22T14:04:30+07:00"
-},
-{
-"id": "75d42f798e12",
-"title": "Dùng băng keo che biển số ô tô, bị phạt đến 26 triệu đồng, trừ 6 điểm bằng lái",
-"link": "https://tuoitre.vn/dung-bang-keo-che-bien-so-o-to-bi-phat-den-26-trieu-dong-tru-6-diem-bang-lai-100261122103933128.htm",
-"summary": "Người chạy xe máy dùng băng keo, vật liệu hoặc thiết bị che, làm thay đổi khả năng nhận diện biển số có thể bị phạt 4-6 triệu đồng; mức phạt đối với ô tô lên đến 26 triệu đồng, kèm trừ 6 điểm giấy phép lái xe.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/22/edit-dan-bien-so-xe-1795318620726688942017-124-0-574-720-crop-1795318625933694148366.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-22T13:44:00+07:00",
-"found": "2026-11-22T14:04:30+07:00"
 }
 ]
 }
