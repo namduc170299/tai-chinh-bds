@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T21:47:49+07:00",
-"new": 11,
+"updated": "2026-11-26T22:03:23+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 49
+"count": 50
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "57bd3e6afdaa",
+"title": "VN-Index giảm sốc, công ty chứng khoán dự báo vùng hỗ trợ 1600 điểm",
+"link": "https://vneconomy.vn/vn-index-giam-soc-cong-ty-chung-khoan-du-bao-vung-ho-tro-1600-diem.htm",
+"summary": "VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 27/11/2026.",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/26/51b34581c2ca4273b35e21c1ba4fbbf1-139026.gif",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-26T22:01:13+07:00",
+"found": "2026-11-26T22:03:23+07:00"
+},
+{
+"id": "fdfe30e30d50",
+"title": "Đồng bộ hơn 70% dữ liệu đất đai trên cả nước",
+"link": "https://cafef.vn/dong-bo-hon-70-du-lieu-dat-dai-tren-ca-nuoc-188261126210440851.chn",
+"summary": "Theo thống kê của Bộ Nông nghiệp và Môi trường, tính đến 23/11, cả nước đã xây dựng và đồng bộ dữ liệu đạt khoảng 71%.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795701554236-1795701554549225536666.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-26T21:59:00+07:00",
+"found": "2026-11-26T22:03:23+07:00"
+},
+{
+"id": "4b69152dc730",
+"title": "Hà Nội sẽ bố trí 184 nghìn tỷ đồng cho 5 tuyến đường sắt đô thị",
+"link": "https://cafef.vn/ha-noi-se-bo-tri-184-nghin-ty-dong-cho-5-tuyen-duong-sat-do-thi-188261126210620238.chn",
+"summary": "Thành phố Hà Nội sẽ ưu tiên nguồn lực cho đầu tư phát triển, trong đó bố trí 184 nghìn tỷ đồng cho 5 tuyến đường sắt đô thị.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795701663371-17957016654191471937414.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-26T21:58:00+07:00",
+"found": "2026-11-26T22:03:23+07:00"
+},
+{
+"id": "ef9a128340fe",
+"title": "Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc chỉ đạo về Tổ hợp Công nghiệp đường sắt",
+"link": "https://cafef.vn/pho-thu-tuong-thuong-truc-chinh-phu-pham-gia-tuc-chi-dao-ve-to-hop-cong-nghiep-duong-sat-18826112621081696.chn",
+"summary": "Văn phòng Chính phủ vừa ban hành Thông báo số 591/TB-VPCP ngày 26/11/2026 kết luận của Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc tại cuộc họp về Tổ hợp Công nghiệp đường sắt.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795701734081-1795701734953469954965.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-26T21:54:00+07:00",
+"found": "2026-11-26T22:03:23+07:00"
+},
+{
 "id": "a36efe21eaef",
 "title": "6 cựu cán bộ, lãnh đạo bị bắt tạm giam vì cấp sổ đỏ trái quy định",
 "link": "https://vietnamnet.vn/6-can-bo-lanh-dao-bi-bat-tam-giam-vi-cap-so-do-trai-quy-dinh-2579087.html",
@@ -222,6 +266,29 @@
 "cat": "xh",
 "published": "2026-11-26T21:43:11+07:00",
 "found": "2026-11-26T21:47:49+07:00"
+},
+{
+"id": "8a7a2a770ae5",
+"title": "vietnam",
+"link": "https://mst.gov.vn/tang-toc-phat-trien-cong-nghe-ha-tang-bao-dam-an-ninh-nang-luong-197261123234523885.htm",
+"summary": "Tăng tốc phát triển công nghệ, hạ tầng bảo đảm an ninh năng lượng (mst.gov.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQD350M6DmpDwfwSeTK8vjqVWoV2UH2sX-J4ZzpsJve1lfpRR5ZCxCpyf6-LtA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T21:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T22:03:23+07:00"
+},
+{
+"id": "366b4d810233",
+"title": "Cấp sai 7 sổ đỏ, 6 cựu cán bộ ở Sơn La bị bắt",
+"link": "https://dantri.com.vn/phap-luat/cap-sai-7-so-do-6-cuu-can-bo-o-son-la-bi-bat-20261126211511211.htm",
+"summary": "(Dân trí) - Do thiếu trách nhiệm trong quá trình thực hiện thủ tục cấp giấy chứng nhận quyền sử dụng đất, 6 cán bộ ở Sơn La bị cáo buộc gây thiệt hại cho Nhà nước hơn 2,5 tỷ đồng.",
+"image": "https://cdnphoto.dantri.com.vn/iq0qf1G6qRESjfNGy2ZfBT6so4o=/2026/11/26/sonla-cropped-1795702359896.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-26T21:39:58+07:00",
+"found": "2026-11-26T22:03:23+07:00"
 },
 {
 "id": "052837c4d360",
@@ -266,6 +333,17 @@
 "cat": "xh",
 "published": "2026-11-26T21:34:00+07:00",
 "found": "2026-11-26T21:47:49+07:00"
+},
+{
+"id": "30e2a12930ef",
+"title": "Lãnh đạo Vinasun, Royal Invest muốn chi tiền tỷ gom cổ phiếu vùng đáy",
+"link": "https://dantri.com.vn/kinh-doanh/lanh-dao-vinasun-royal-invest-muon-chi-tien-ty-gom-co-phieu-vung-day-20261126212053214.htm",
+"summary": "(Dân trí) - Thành viên HĐQT Vinasun đăng ký mua 4 triệu cổ phiếu VNS khi thị giá về vùng thấp nhất kể từ tháng 7/2021. Tại Royal Invest, Chủ tịch HĐQT và Kế toán trưởng cũng đăng ký gom tổng cộng 3 triệu cổ phiếu RYG.",
+"image": "https://cdnphoto.dantri.com.vn/6v6jyHYLtSxeiYYS04cYtQyzTEg=/2026/11/26/giao-dich-tien-tai-ngan-hang-manh-quan-cropped-cropped-1795703397073.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-26T21:33:51+07:00",
+"found": "2026-11-26T22:03:23+07:00"
 },
 {
 "id": "a5fff9a586d7",
@@ -546,7 +624,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T20:30:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-26T20:47:54+07:00"
 },
 {
@@ -748,7 +826,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T20:10:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-26T20:47:54+07:00"
 },
 {
@@ -27981,83 +28059,6 @@
 "source": "Thanh Niên",
 "cat": "xh",
 "published": "2026-11-24T09:48:00+07:00",
-"found": "2026-11-24T09:55:16+07:00"
-},
-{
-"id": "a6ad8e802011",
-"title": "Quảng Trị tìm nhà đầu tư dự án bất động sản hơn 44ha, vốn 866 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUENQVEY3TThrdURfVjF5U2JEeG9WVXVKRVdILTZGZEd3eW5aN3VYOC1MWFlSQ1RyUWRkeGYySFo5Tzl4V21JNThjc3UtbjFOR1dpZ3laUWVLX0pkcTZTb0pyUVowQ0VPSUFQLXZXc0pZQWVCX0M2STdLclJKVmNEUjREeTdxcHpmVEY2TVRvd2tQZC0zNFdGVkYwaVFqZll3dlg4?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T09:47:30+07:00",
-"found": "2026-11-24T11:04:27+07:00"
-},
-{
-"id": "641811601a27",
-"title": "Bất động sản kế cận Cầu Rồng: Giá trị từ tọa độ khó tìm tại Đà Nẵng",
-"link": "https://vietnamnet.vn/bat-dong-san-ke-can-cau-rong-gia-tri-tu-toa-do-kho-tim-tai-da-nang-2577835.html",
-"summary": "Quỹ đất ven sông Hàn ngày càng hạn chế, trong khi sức hút du lịch và dòng vốn đầu tư tiếp tục gia tăng, khiến những bất động sản sở hữu vị trí trung tâm như M Riverside Da Nang thu hút sự quan tâm của thị trường.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/bat-dong-san-ke-can-cau-rong-gia-tri-tu-toa-do-kho-tim-tai-da-nang-1450.png?width=0&s=ypOjQiPp6Vw9MXHdIJIYbA",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-24T09:46:03+07:00",
-"found": "2026-11-24T09:14:55+07:00"
-},
-{
-"id": "5c7ee6cf3866",
-"title": "Hà Nội đã xây dựng cơ sở dữ liệu đất đai cho hơn 4,83 triệu thửa đất",
-"link": "https://cafef.vn/ha-noi-da-xay-dung-co-so-du-lieu-dat-dai-cho-hon-483-trieu-thua-dat-188261124072412617.chn",
-"summary": "Đến nay, thành phố Hà Nội đã xây dựng cơ sở dữ liệu đất đai hơn 4.832.110 thửa đất trong tổng số 4.842.158 thửa đất được xác lập trên bản đồ địa chính.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795479839161-17954798396531945703910.jpeg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-24T09:46:00+07:00",
-"found": "2026-11-24T09:55:16+07:00"
-},
-{
-"id": "d2f461fee4ab",
-"title": "Cuối tuần của những người trẻ khoác áo blouse trắng",
-"link": "https://thanhnien.vn/nhung-nguoi-tre-nganh-y-chon-hanh-dong-de-lan-toa-yeu-thuong-185261123115800134.htm",
-"summary": "Cuối tuần - khoảng thời gian nhiều người dành để nghỉ ngơi, sum họp bên gia đình và bạn bè. Nhưng với một số người trẻ ngành y: giảng viên, bác sĩ và sinh viên Đại học Y Dược TP.HCM, đó lại là lúc những chuyến đi tình nguyện bắt đầu.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/thumbnailtalkshowthanhnienvietnam1920x1080-17954097314771501350164-0-80-1080-1808-crop-17954097785491135840836.png",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-24T09:45:00+07:00",
-"found": "2026-11-23T12:13:06+07:00"
-},
-{
-"id": "b4b0ba6da4cc",
-"title": "Quảng Ngãi khởi công khu đô thị gần 6.700 tỷ đồng tại Măng Đen",
-"link": "https://cafef.vn/quang-ngai-khoi-cong-khu-do-thi-gan-6700-ty-dong-tai-mang-den-188261124093017641.chn",
-"summary": "Khu đô thị số 1 Măng Đen có quy mô 264,4 ha, tổng vốn đầu tư gần 6.700 tỷ đồng, được kỳ vọng phát triển khu vực phía Tây Quảng Ngãi.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795487395441-17954873976811360830443.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-24T09:44:00+07:00",
-"found": "2026-11-24T09:55:16+07:00"
-},
-{
-"id": "4d39b5cde762",
-"title": "Chủ tịch TIG bị bán giải chấp hơn 6 triệu cổ phiếu",
-"link": "https://cafef.vn/chu-tich-tig-bi-ban-giai-chap-hon-6-trieu-co-phieu-188261124094431726.chn",
-"summary": "Ông Nguyễn Phúc Long- Chủ tịch HĐQT của TIG vừa bị bán giải chấp tổng cộng 6,2 triệu cổ phiếu TIG, qua đó giảm tỷ lệ sở hữu xuống còn 16,48% vốn.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795488249509-17954882501952050951871.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-24T09:44:00+07:00",
-"found": "2026-11-24T09:55:16+07:00"
-},
-{
-"id": "d6d04791fb01",
-"title": "OSC - Duxton được chuyển hình thức thuê hơn 2,6ha đất tại dự án OSC Duxton Property Development",
-"link": "https://cafef.vn/osc-duxton-duoc-chuyen-hinh-thuc-thue-hon-26ha-dat-tai-du-an-osc-duxton-property-development-188261124072158185.chn",
-"summary": "OSC - Duxton Việt Nam được chuyển hình thức thuê đất từ trả tiền thuê đất một lần cho cả thời gian thuê sang trả tiền thuê đất hằng năm đối với diện tích 26.394,8 m² tại khu vực thực hiện dự án OSC Duxton Property Development.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795479695441-1795479696011161477680.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-24T09:43:00+07:00",
 "found": "2026-11-24T09:55:16+07:00"
 }
 ]
