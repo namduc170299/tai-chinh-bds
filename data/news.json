@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T13:36:49+07:00",
-"new": 8,
+"updated": "2026-11-26T13:52:11+07:00",
+"new": 14,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,127 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "fa9c7b69bf58",
+"title": "BoK tăng lãi suất lên mức cao nhất trong hai năm để kiềm chế lạm phát",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkpXNGhQbFlpdHhicEs2VEt1T2VPZnlWM0JnTGd4eVBoVGlVckNkdm9NSE90M0ZFOHluOVB1T21ZMV9RM0c0VHlGeWxvaUFWTFdfcUgwUklvTm5TSnlwNm11UXREbXRKSEJNYXFrbktweXJKbVJaTnZsSU8zVGlnRTJtYk03ZU9XSkY5cHo5RzZkN1M0X0pGUjQwdVpvWGFjUjlMaA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T13:46:00+07:00",
+"found": "2026-11-26T13:52:11+07:00"
+},
+{
+"id": "4e2d2eba2832",
+"title": "Nữ sinh lớp 10 ở Hà Nội trở về, hé lộ tin nhắn đòi 40 triệu đồng tiền chuộc",
+"link": "https://vietnamnet.vn/nu-sinh-lop-10-o-ha-noi-tro-ve-he-lo-tin-nhan-doi-tien-chuoc-2578905.html",
+"summary": "Sau gần 2 ngày mất liên lạc, nữ sinh lớp 10 ở Hà Nội đã được lực lượng công an tìm thấy và đưa về nhà an toàn.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/nu-sinh-lop-10-o-ha-noi-tro-ve-he-lo-tin-nhan-doi-40-trieu-dong-tien-chuoc-1438.jpg?width=0&s=tTPR-SqCIJNXTLtmpfy8Gg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-26T13:44:12+07:00",
+"found": "2026-11-26T13:52:11+07:00"
+},
+{
+"id": "9295ae6a8fb1",
+"title": "TP.HCM tạm dừng tuyển dụng công chức",
+"link": "https://thanhnien.vn/tphcm-tam-dung-tuyen-dung-cong-chuc-185261126132731749.htm",
+"summary": "UBND TP.HCM tạm dừng tuyển dụng và điều chuyển cán bộ, công chức để rà soát vị trí việc làm, xây dựng phương án biên chế giai đoạn 2027 - 2031.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-tphcm-dung-tuyen-dung-cong-chuc-sy-dong-17956746952601264726883-0-0-1508-2413-crop-17956747370841111110386-17956747611511773563048.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T13:44:00+07:00",
+"found": "2026-11-26T13:52:11+07:00"
+},
+{
+"id": "5b76d058e5d9",
+"title": "8 thủ đoạn khiến 'tin thật chưa kịp xỏ giày thì tin giả đã đi được nửa vòng trái đất'",
+"link": "https://thanhnien.vn/8-thu-doan-khien-tin-that-chua-kip-xo-giay-thi-tin-gia-da-di-duoc-nua-vong-trai-dat-185261126110541179.htm",
+"summary": "Tại Hội nghị báo cáo viên cấp T.Ư của Đoàn lần thứ 2 năm 2026, đại diện A05, Bộ Công an đã chỉ ra 8 thủ đoạn phát tán tin giả khiến 'tin thật chưa kịp xỏ giày thì tin giả đã đi nửa vòng trái đất\"'",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/anh2-17956657687232095743284-0-0-1250-2000-crop-17956657762001938056680.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-26T13:43:00+07:00",
+"found": "2026-11-26T13:52:11+07:00"
+},
+{
+"id": "65cbd6cf737f",
+"title": "Bảo mẫu đánh, bắn dây thun vào trẻ mầm non ở TPHCM lĩnh 15 tháng tù",
+"link": "https://vietnamnet.vn/bao-mau-ban-day-thun-vao-tre-mam-non-o-tphcm-linh-15-thang-tu-2578898.html",
+"summary": "Bị cáo Triệu Thị Tâm, bảo mẫu có hành vi đánh và dùng dây thun bắn vào người trẻ mầm non ở TPHCM, vừa bị tòa sơ thẩm tuyên phạt 15 tháng tù về tội Hành hạ người khác.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/bao-mau-danh-ban-day-thun-vao-tre-mam-non-o-tphcm-linh-15-thang-tu-1407.jpg?width=0&s=7LWgjdCdECXY_-kv-ZNWhg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-26T13:42:09+07:00",
+"found": "2026-11-26T13:36:49+07:00"
+},
+{
+"id": "51f748487e12",
+"title": "Giá vàng nhẫn trơn, vàng miếng chiều 26/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải đồng loạt tăng",
+"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-26-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-dong-loat-tang-188261126071729871.chn",
+"summary": "Giá bán vàng miếng SJC tại cả 5 thương hiệu được khảo sát đồng loạt tăng 400.000 đồng/lượng so với cuối phiên hôm qua, lên mức 134,5 triệu đồng/lượng. Trong khi đó, giá vàng nhẫn ghi nhận mức tăng tới 500.000 đồng/lượng tại một số nhà vàng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795675332804-1795675333239259366571.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-26T13:42:00+07:00",
+"found": "2026-11-26T13:52:11+07:00"
+},
+{
+"id": "2d1fa45278f7",
+"title": "Từ phố cũ đến Thư Lâm: Những mái nhà mới của người dân phường Hồng Hà",
+"link": "https://cafef.vn/tu-pho-cu-den-thu-lam-nhung-mai-nha-moi-cua-nguoi-dan-phuong-hong-ha-188261126134143615.chn",
+"summary": "Nhường mặt bằng cho dự án cầu Tứ Liên, cầu Trần Hưng Đạo, hàng trăm hộ dân phường Hồng Hà đã nhận đất, được cấp sổ đỏ và khởi công xây nhà tại xã Thư Lâm. Giữa công trường hạ tầng đang hoàn thiện, những cư dân đầu tiên đang dựng nhà mới, chuẩn bị bắt đầu nhịp sống mới.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795675289597-1795675291397183362007.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-26T13:41:00+07:00",
+"found": "2026-11-26T13:52:11+07:00"
+},
+{
+"id": "6064ea899b19",
+"title": "Mất hàng trăm triệu đồng vì muốn 'chắc suất' mua nhà ở xã hội Lý Thường Kiệt",
+"link": "https://vnexpress.net/mat-hang-tram-trieu-dong-vi-muon-chac-suat-mua-nha-o-xa-hoi-ly-thuong-kiet-5148927.html",
+"summary": "Trước sức hút của dự án nhà ở xã hội Lý Thường Kiệt, nhiều người dù đủ điều kiện đăng ký mua vẫn chi thêm hàng trăm triệu đồng để được ưu tiên, rồi sập bẫy.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/screenshot20261125124948-17956-9521-5181-1795675240.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=AjfA3WuuTpgPoX0JWXCS_w",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-26T13:39:12+07:00",
+"found": "2026-11-26T13:52:11+07:00"
+},
+{
+"id": "b3745c5f56ce",
+"title": "Phẫn nộ tài xế ôtô tải chèn ép, húc xe máy văng xuống đường",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0d0MWtwakNMaUJNWVlYZ2dJM052ekZtZ25zeDdyVFBmd2cxZ3RKc2xmd0o2RWg2clFDRUdlb1BIVXJWUzhyX3FmWVV6TkRkSnNZM2pETUd6bEVFb0MwS3F3dXRpbkV0X3ZwTEQwTDFGYzN5S2NhaUxyekhXUDRfZy16MFR1bFFMT1A1SE9ZVEtaTWoxYXdR?oc=5",
+"summary": "Nguồn: Znews",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T13:38:23+07:00",
+"found": "2026-11-26T13:52:11+07:00"
+},
+{
+"id": "7b6a5bb2ca5a",
+"title": "Chợ hoa Tết Đinh Mùi 2027 ở Đà Nẵng được tổ chức ở đâu, có gì mới?",
+"link": "https://thanhnien.vn/cho-hoa-tet-dinh-mui-2027-o-da-nang-duoc-to-chuc-o-dau-co-gi-moi-185261126125352803.htm",
+"summary": "Chợ hoa Tết Đinh Mùi 2027 tại Đà Nẵng sẽ được tổ chức quanh Cung thể thao Tiên Sơn theo nguyên tắc tự chủ tài chính, không sử dụng ngân sách thành phố. Đồng thời, siết chặt quản lý hàng rong, ngăn tình trạng lấn chiếm vỉa hè, bảo đảm trật tự đô thị dịp tết.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/17956723082002144711851935224250629020875924282245097d2a29148acfb31988365e86274f24d-1795672368898935531798-0-0-1600-2560-crop-179567250138664704085.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T13:38:00+07:00",
+"found": "2026-11-26T13:52:11+07:00"
+},
+{
+"id": "7939cca42b0d",
+"title": "Từ 1.7.2027, đất nông nghiệp bỏ hoang 24 tháng bị thu hồi trong trường hợp nào?",
+"link": "https://thanhnien.vn/tu-172027-dat-nong-nghiep-bo-hoang-24-thang-bi-thu-hoi-trong-truong-hop-nao-185261126124005859.htm",
+"summary": "Luật Đất đai sửa đổi bổ sung quy định về đất bỏ hoang, điều kiện thu hồi đất nông nghiệp không sử dụng và nghĩa vụ tài chính đối với các dự án chậm đưa đất vào sử dụng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-dat-bo-hoang-3-1795670641192976886687-49-21-722-1098-crop-1795671043629914723922.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T13:38:00+07:00",
+"found": "2026-11-26T13:52:11+07:00"
+},
+{
 "id": "c51940d226af",
 "title": "Siêu dự án lớn nhất lịch sử 47 tỷ USD của tỷ phú Phạm Nhật Vượng bất ngờ đổi tên",
 "link": "https://cafef.vn/sieu-du-an-lon-nhat-lich-su-47-ty-usd-cua-ty-phu-pham-nhat-vuong-bat-ngo-doi-ten-188261126132835921.chn",
@@ -222,6 +343,17 @@
 "cat": "bds",
 "published": "2026-11-26T13:35:00+07:00",
 "found": "2026-11-26T13:36:49+07:00"
+},
+{
+"id": "66e2d3c79557",
+"title": "Công an làm việc với người phụ nữ đưa tin sai sự thật về việc bắt cóc trẻ em",
+"link": "https://kenh14.vn/cong-an-lam-viec-voi-nguoi-phu-nu-dua-tin-sai-su-that-ve-viec-bat-coc-tre-em-215261126123245148.chn",
+"summary": "Người phụ nữ đăng tải sai sự thật nội dung việc hai người đàn ông có hành vi dụ dỗ, đưa một bé gái đi học tại khu vực Thạch Màng, khiến người dân lo ngại về nguy cơ bắt cóc trẻ em.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795671148927-1795671149833930551810.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T13:33:00+07:00",
+"found": "2026-11-26T13:52:11+07:00"
 },
 {
 "id": "d079b707bf0a",
@@ -243,17 +375,6 @@
 "source": "Thanh Niên",
 "cat": "xh",
 "published": "2026-11-26T13:32:00+07:00",
-"found": "2026-11-26T13:36:49+07:00"
-},
-{
-"id": "65cbd6cf737f",
-"title": "Bảo mẫu đánh, bắn dây thun vào trẻ mầm non ở TPHCM lĩnh 15 tháng tù",
-"link": "https://vietnamnet.vn/bao-mau-ban-day-thun-vao-tre-mam-non-o-tphcm-linh-15-thang-tu-2578898.html",
-"summary": "Bị cáo Triệu Thị Tâm, bảo mẫu có hành vi đánh và dùng dây thun bắn vào người trẻ mầm non ở TPHCM, vừa bị tòa sơ thẩm tuyên phạt 15 tháng tù về tội Hành hạ người khác.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/bao-mau-danh-ban-day-thun-vao-tre-mam-non-o-tphcm-linh-15-thang-tu-1407.jpg?width=0&s=7LWgjdCdECXY_-kv-ZNWhg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-26T13:31:47+07:00",
 "found": "2026-11-26T13:36:49+07:00"
 },
 {
@@ -288,6 +409,40 @@
 "cat": "xh",
 "published": "2026-11-26T13:30:00+07:00",
 "found": "2026-11-26T13:36:49+07:00"
+},
+{
+"id": "e8c5b53bba66",
+"title": "Diễn biến mới nhất tại khu đô thị đa mục tiêu gần 600ha rộng hơn hồ Tây, vốn 111.000 tỷ đồng do Vinhomes của tỷ phú Phạm Nhật Vượng đầu tư, nằm gần sân vận động lớn nhất thế giới",
+"link": "https://kenh14.vn/dien-bien-moi-nhat-tai-khu-do-thi-da-muc-tieu-gan-600ha-rong-hon-ho-tay-von-111000-ty-dong-do-vinhomes-cua-ty-phu-pham-nhat-vuong-dau-tu-nam-gan-san-van-dong-lon-nhat-the-gioi-215261126114439534.chn",
+"summary": "Khu đô thị gần 600ha do Vinhomes đầu tư tại cửa ngõ phía Nam Hà Nội vừa công bố quy hoạch chi tiết 1/500, với định hướng phát triển nhà ở xã hội, tái định cư và hạ tầng đô thị đồng bộ.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795668259188-1795668259379706603646.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T13:29:00+07:00",
+"found": "2026-11-26T13:52:11+07:00"
+},
+{
+"id": "7c7c745e8980",
+"title": "nhạc",
+"link": "https://vnexpress.net/dich-vu-nhac-truc-tuyen-tidal-cam-nhac-ai-5148751.html",
+"summary": "Dịch vụ nhạc trực tuyến Tidal cấm nhạc AI (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8drCG1E_XHumF3keNl8-o0Say-DHAfUK8j_RthRxN2aDZMgoXF-trVIgVdD0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T13:20:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-26T13:52:11+07:00"
+},
+{
+"id": "3ae32d176670",
+"title": "Thuê nhà nghỉ theo dõi gia chủ để đột nhập trộm vàng, ngoại tệ",
+"link": "https://dantri.com.vn/phap-luat/thue-nha-nghi-theo-doi-gia-chu-de-dot-nhap-trom-vang-ngoai-te-20261126122413456.htm",
+"summary": "(Dân trí) - Biết một hộ gia đình tại Đắk Lắk có cất giữ tài sản trong nhà, Hùng đã thuê một phòng tại nhà nghỉ để theo dõi. Khi biết gia chủ vắng nhà, đối tượng đột nhập vào bên trong trộm cắp vàng cùng ngoại tệ.",
+"image": "https://cdnphoto.dantri.com.vn/dQhuCgrvZFQL3NGrbAShsTWuiEA=/2026/11/26/trom-3-edited-1795670405000.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-26T13:18:56+07:00",
+"found": "2026-11-26T13:52:11+07:00"
 },
 {
 "id": "445bedc30b11",
@@ -683,7 +838,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T12:30:00+07:00",
-"traffic": "200+",
+"traffic": "1000+",
 "found": "2026-11-26T12:55:58+07:00"
 },
 {
@@ -695,7 +850,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T12:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-26T12:55:58+07:00"
 },
 {
@@ -1921,7 +2076,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T10:30:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-26T10:53:10+07:00"
 },
 {
@@ -27955,160 +28110,6 @@
 "cat": "xh",
 "published": "2026-11-23T19:39:00+07:00",
 "found": "2026-11-23T19:57:45+07:00"
-},
-{
-"id": "7113a0c0f1a6",
-"title": "Lâm Đồng siết quản lý dân số trong căn hộ chung cư",
-"link": "https://vnexpress.net/lam-dong-siet-quan-ly-dan-so-trong-can-ho-chung-cu-5148162.html",
-"summary": "Tỉnh Lâm Đồng quy định dân số trong căn hộ chung cư thương mại từ 32-45 m² được tính 1 người, diện tích trên 160 m² tính 6 người, nhằm kiểm soát quy mô dân số, tránh quá tải hạ tầng.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/chung-cu-song-ca-ty-1795428151-4652-1795428762.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iy2nfRQs2YBxAs51a-wcqg",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-23T19:38:30+07:00",
-"found": "2026-11-23T20:28:07+07:00"
-},
-{
-"id": "3e55029f0e93",
-"title": "Hà Nội tìm nhà đầu tư khu đô thị gần 50 ha",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX1NWYmY4MHhqcXdob3hKa2dVU1QxbUtyR254LWdxcXAxUlkxaGN1WUhZX3RhdnM1S0V3OVQzeFZsaUh6aXAwbFk5NUo0LXhzN3h6TlpadFVvd2Q2MGxINEJGZFZQV3VYM1hmZ281YVRScnBCSVlnQ3ZhQmpwME5MRQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T19:38:00+07:00",
-"found": "2026-11-23T19:57:45+07:00"
-},
-{
-"id": "10a0b003a46f",
-"title": "Khởi tố tài xế xe tải tông chết một người đang hỗ trợ giải quyết tai nạn giao thông",
-"link": "https://tuoitre.vn/khoi-to-tai-xe-xe-tai-tong-chet-mot-nguoi-dang-ho-tro-giai-quyet-tai-nan-giao-thong-100261123174049447.htm",
-"summary": "Khi đến ngã tư gặp người và chướng ngại vật, tài xế xe tải không làm chủ tốc độ, không giảm tốc độ đến mức an toàn hoặc dừng xe, dẫn đến tông vào một người đàn ông đang hỗ trợ giải quyết tai nạn giao thông, khiến nạn nhân tử vong.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/1123-1795429884027380576792-12-34-216-360-crop-17954376711101461350511.gif",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T19:38:00+07:00",
-"found": "2026-11-23T20:28:07+07:00"
-},
-{
-"id": "8a971a1acdde",
-"title": "Cho vay tiền với lãi suất 1%/ngày, người đàn ông vừa bị phạt tù, vừa bị phạt tiền",
-"link": "https://tuoitre.vn/cho-vay-tien-voi-lai-suat-1-ngay-nguoi-dan-ong-vua-bi-phat-tu-vua-bi-phat-tien-100261123174326844.htm",
-"summary": "Sơn cho vay 300 triệu, lãi suất 1%/ngày, tiền lời đã nhận 458 triệu thì chỉ có 26 triệu hợp pháp, còn 432 triệu là thu lợi bất chính.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/cho-vay-lai-suat-cao-17954303359991731239565-170-0-1420-2000-crop-1795430554710389507793.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T19:37:00+07:00",
-"found": "2026-11-23T20:28:07+07:00"
-},
-{
-"id": "5af6c0254c7c",
-"title": "Một phần khu đất từng quy hoạch dự án Hello Kitty sắp được đấu giá",
-"link": "https://dantri.com.vn/bat-dong-san/mot-phan-khu-dat-tung-quy-hoach-du-an-hello-kitty-sap-duoc-dau-gia-20261123192722066.htm",
-"summary": "(Dân trí) - Khu đất rộng 2.678m2 tại số 153 Yên Phụ, ven Hồ Tây, từng thuộc dự án công viên Sanrio Hello Kitty World Hanoi, đang được Hà Nội chuẩn bị đấu giá với giá khởi điểm khoảng 305,86 tỷ đồng.",
-"image": "https://cdnphoto.dantri.com.vn/2-3ZVtS_dwqY9cznJluNfO0iXBo=/2026/11/23/hello-kitty-1686277883641-16862778839331331076880-cropped-1795436701682.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-23T19:36:21+07:00",
-"found": "2026-11-23T20:12:56+07:00"
-},
-{
-"id": "a79385ef1416",
-"title": "Đẩy nhanh tiến độ các dự án nhà ở xã hội",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aclVSZmhhYUNtamM4azlXVk5qUUl5WUJWSHZ4UEU2dU1XTnFlNEpKVThnQTZPSHlUcXAzUVNCc1A2RW9ZMGtyNkpubEIwRzZFNXliaW1lcmxVeWo0S1A5ZllqMUMtTnpEOU5Cd3hmS0RZX1VCUnlvUkp5TFdwZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T19:35:00+07:00",
-"found": "2026-11-23T19:42:34+07:00"
-},
-{
-"id": "ad4a5dce8f71",
-"title": "Văn hóa doanh nghiệp: Nói ít, làm nhiều, lấy kết quả làm thước đo",
-"link": "https://thanhnien.vn/van-hoa-doanh-nghiep-noi-it-lam-nhieu-lay-ket-qua-lam-thuoc-do-185261123173451208.htm",
-"summary": "Văn hóa doanh nghiệp không nằm ở những khẩu hiệu hay bộ giá trị được công bố, mà phải thể hiện qua hành vi cụ thể, từ việc đúng giờ, lắng nghe nhân viên đến thực hiện cam kết với khách hàng. Quan trọng hơn, những thay đổi ấy phải có kết quả đo lường được.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/tnw-van-hoa-dn2-17954296149331860689910-54-0-1654-2560-crop-17954296546231505836040.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T19:35:00+07:00",
-"found": "2026-11-23T19:42:34+07:00"
-},
-{
-"id": "7ef179eb73d7",
-"title": "Từ khu nghĩa địa, đất bỏ hoang trở thành công viên văn hóa ở TP.HCM",
-"link": "https://thanhnien.vn/tu-khu-nghia-dia-dat-bo-hoang-tro-thanh-cong-vien-van-hoa-o-tphcm-185261123173118223.htm",
-"summary": "Một khu đất bỏ hoang, cây cối rậm rạp, có nhiều phần mộ… ở phường An Phú (TP.HCM) đã được địa phương chỉnh trang, đầu tư, xây dựng trở thành một công viên với nhiều tiện ích, thiết chế văn hóa phục vụ người dân.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/anh-1-ap-17954295854411566501139-0-0-1280-2048-crop-179542963059280442100.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T19:32:00+07:00",
-"found": "2026-11-23T19:42:34+07:00"
-},
-{
-"id": "cca70ec075f8",
-"title": "Dự kiến lãi suất 0%, giãn thanh toán đến cuối năm 2028: Cơ hội sở hữu căn hộ The Aristo",
-"link": "https://cafef.vn/du-kien-lai-suat-0-gian-thanh-toan-den-cuoi-nam-2028-co-hoi-so-huu-can-ho-the-aristo-188261123193603365.chn",
-"summary": "Thay vì phải chuẩn bị một khoản tiền lớn ngay từ đầu, người mua nhà tại Phú Mỹ Hưng The Aristo dự kiến có thể thanh toán 20% giá trị căn hộ để ký hợp đồng mua bán, được hỗ trợ lãi suất 0% cho khoản vay 30% trước khi bàn giao nhà và ân hạn nợ gốc đến quý IV/2028.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/photo1795420836127-1795420836488627407862-17954373664001642127107.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-23T19:30:00+07:00",
-"found": "2026-11-23T19:42:34+07:00"
-},
-{
-"id": "defa06565420",
-"title": "Hoa hậu Bảo Ngọc: 'Tôi luôn ưu tiên đặc sản OCOP làm quà tặng bạn bè quốc tế'",
-"link": "https://tuoitre.vn/hoa-hau-bao-ngoc-toi-luon-uu-tien-dac-san-ocop-lam-qua-tang-ban-be-quoc-te-100261123183345869.htm",
-"summary": "Chia sẻ về thói quen chọn quà tặng khi đi công tác, Hoa hậu Bảo Ngọc cho biết cô thường ưu tiên các sản phẩm OCOP Việt. Cô cũng bày tỏ sự hào hứng khi Festival OCOP Việt Nam 2026 dành không gian cho các sản phẩm OCOP xanh, bền vững.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/copy-of-86a2358-1795433081783299482073-133-0-1383-2000-crop-17954376349721029240401.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-23T19:30:00+07:00",
-"found": "2026-11-23T20:12:56+07:00"
-},
-{
-"id": "71d78971a856",
-"title": "Pepero Pop-up Store 2026 lan tỏa thông điệp yêu thương đến Gen Z",
-"link": "https://tuoitre.vn/pepero-pop-up-store-2026-lan-toa-thong-diep-yeu-thuong-den-gen-z-100261123163633988.htm",
-"summary": "Từ ngày 7-11 đến 20-11, thương hiệu bánh que Pepero trở lại với không gian Pop-up Store đậm chất văn hóa Hàn Quốc tại Lotte Mall West Lake Hà Nội, cùng giới trẻ lan tỏa tinh thần sẻ chia nhân dịp Pepero Day 11-11 với nhiều trải nghiệm thú vị.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/tto-1795426408500496504594-0-0-1600-2560-crop-17954264237011338299852.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-23T19:30:00+07:00",
-"found": "2026-11-23T20:12:56+07:00"
-},
-{
-"id": "195a5c630ea7",
-"title": "Biti's 7 lần liên tiếp vào top ‘100 Nơi Làm Việc Tốt Nhất Việt Nam® 2026’",
-"link": "https://tuoitre.vn/bitis-7-lan-lien-tiep-vao-top-100-noi-lam-viec-tot-nhat-viet-nam-2026-100261123092239231.htm",
-"summary": "Biti’s vào top 100 nơi làm việc tốt nhất Việt Nam®, đồng thời nhận thêm “cú đúp\" giải thưởng về nguồn nhân lực hạnh phúc và thương hiệu nhà tuyển dụng với sinh viên.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/8166-17954137222621618944497-0-0-800-1280-crop-17954137371911938970013.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-23T19:30:00+07:00",
-"found": "2026-11-23T20:12:56+07:00"
-},
-{
-"id": "717dc85b9e97",
-"title": "Đề xuất lùi tiến độ hầm chui Hoàng Quốc Việt",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWlmcnNIOVJUcVhTT1FfVGpZZk9RZjhwUENwZUdSXzZaVjhXR21IaUpWWHlrS3VRUkxkNHZBNWlBYjRCTXR3dHlqMFkzLWRCcktXRkNnVk5RY2tOY3hxX0c1S1VpMWRTLVdndGpsXzlEOFIwN3RZU21KZ2pDMkl4TVpDYw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T19:30:00+07:00",
-"found": "2026-11-24T05:28:26+07:00"
-},
-{
-"id": "8111de17752f",
-"title": "Bất động sản công nghiệp phía Nam: Giá thuê không còn là lợi thế quyết định",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZnFVNEprbVRSU3ZZNXFQeUhEVzlVODRaWXRUUkhWbzBwcVhKckFCRXRZOVlhUDFOY2ZmS1M2WjFaMUJTREoyVDlGbjlCZVB0QS0yOUc5TG5KS1FkUDdxb1U1bnlxLXk0MnU4dldIRXpOTFFHQ0g4SEt6a3p0a2tjVXBWQi1TS1hjTmY3dV80Q0JQdk83bG0tRnNxeEpRZS1LTDFSeXhoaTdLX2M?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T19:29:33+07:00",
-"found": "2026-11-24T11:19:37+07:00"
 }
 ]
 }
