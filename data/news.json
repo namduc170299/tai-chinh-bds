@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T22:18:56+07:00",
-"new": 9,
+"updated": "2026-11-26T22:34:30+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "ad57958ee575",
+"title": "TPHCM đưa việc đi xe buýt, metro vào tiêu chí đánh giá cán bộ",
+"link": "https://vietnamnet.vn/tphcm-dua-viec-di-xe-buyt-metro-vao-tieu-chi-danh-gia-can-bo-2578968.html",
+"summary": "TPHCM đưa tiêu chí sử dụng giao thông công cộng tối thiểu 2 lần/tuần vào đánh giá, xếp loại hằng năm đối với cán bộ, công chức, viên chức, người lao động, làm căn cứ bình xét thi đua, khen thưởng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/tphcm-dua-viec-di-xe-buyt-metro-vao-tieu-chi-danh-gia-can-bo-2271.png?width=0&s=7SsHagXExH1Eksv_A8vRrg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-26T22:29:03+07:00",
+"found": "2026-11-26T16:44:13+07:00"
+},
+{
+"id": "9306ee3f88f2",
+"title": "Chứng khoán 2027: Cuộc chơi mới sau nâng hạng",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkhFYTRQSGV6aFQ4LWs5aURFcm12Mzh2WVlDa2x4OUozVGYwZW10LTJ2RGFiNnhwbmQxYUdxMEpaMzhFTXgzZ3F1ZEdJY29zMnVRTEUxSnA2RUZTa2d4RGNBYlpSaHRORXZsMllBM2ozeVU5T2ZEdUVGSTNZR01FM090cw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T22:22:00+07:00",
+"found": "2026-11-26T22:34:30+07:00"
+},
+{
 "id": "70454f514a23",
 "title": "Cán bộ Đoàn kiêm nhiệm nhiều việc cùng lúc, ảnh hưởng đến triển khai hoạt động",
 "link": "https://thanhnien.vn/can-bo-doan-kiem-nhiem-nhieu-viec-cung-luc-anh-huong-den-trien-khai-hoat-dong-185261126200514278.htm",
@@ -222,6 +244,41 @@
 "cat": "mxh",
 "published": "2026-11-26T22:12:00+07:00",
 "found": "2026-11-26T22:18:56+07:00"
+},
+{
+"id": "92e5e538cf97",
+"title": "Cấp sai 7 sổ đỏ, 6 cán bộ ở Sơn La bị bắt",
+"link": "https://kenh14.vn/cap-sai-7-so-do-6-can-bo-o-son-la-bi-bat-215261126214515865.chn",
+"summary": "Sáu cán bộ, lãnh đạo ở Sơn La bị khởi tố, bắt tạm giam do thiếu trách nhiệm trong quá trình cấp 7 sổ đỏ, gây thiệt hại cho Nhà nước hơn 2,5 tỷ đồng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795704262770-179570426322562729320.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T22:11:00+07:00",
+"found": "2026-11-26T22:34:30+07:00"
+},
+{
+"id": "c55ab8a2ee67",
+"title": "bảng xếp hạng giải bóng đá ngoại hạng anh",
+"link": "https://vnexpress.net/ai-co-the-cuu-man-utd-5146271.html",
+"summary": "Ai có thể cứu Man Utd? (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7qsZdrckq9-uX82NYrMIuxhNET0epeyZBfWJ3cYIQDG7ZtzE7gIk7-6835aQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T22:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T22:34:30+07:00"
+},
+{
+"id": "69648bfa9936",
+"title": "thương tín",
+"link": "https://vnexpress.net/con-trai-thuong-tin-xuc-dong-vi-khan-gia-nho-den-cha-5148924.html",
+"summary": "Con trai Thương Tín: 'Xúc động vì khán giả nhớ đến cha' (VnExpress)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTzYjozk5LErblBuY_nz-Vg17dfT4ueZAbr86RE_WbKS_yrstOXeG079A3gcE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T22:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T22:34:30+07:00"
 },
 {
 "id": "4e7b76a14153",
@@ -343,7 +400,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T21:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-26T22:03:23+07:00"
 },
 {
@@ -611,6 +668,18 @@
 "cat": "tc",
 "published": "2026-11-26T20:50:00+07:00",
 "found": "2026-11-26T21:18:18+07:00"
+},
+{
+"id": "1089999d8a20",
+"title": "bxh u17",
+"link": "https://laodong.vn/bong-da/kich-ban-nao-giup-u17-viet-nam-vao-vong-32-doi-tai-u17-world-cup-2026-1806780.ldo",
+"summary": "Kịch bản nào giúp U17 Việt Nam vào vòng 32 đội tại U17 World Cup 2026? (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTx9vJSrs7ST50ekvn1it62yeAtuxu63AG0Oi0tUxkHHTbeoV96x4DDQ9pCe4A",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T20:50:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-26T22:34:30+07:00"
 },
 {
 "id": "b442491c2046",
@@ -3006,17 +3075,6 @@
 "cat": "bds",
 "published": "2026-11-26T16:42:00+07:00",
 "found": "2026-11-26T16:59:23+07:00"
-},
-{
-"id": "ad57958ee575",
-"title": "TPHCM đưa việc đi xe buýt, metro vào tiêu chí đánh giá cán bộ",
-"link": "https://vietnamnet.vn/tphcm-dua-viec-di-xe-buyt-metro-vao-tieu-chi-danh-gia-can-bo-2578968.html",
-"summary": "TPHCM đưa tiêu chí sử dụng giao thông công cộng tối thiểu 2 lần/tuần vào đánh giá, xếp loại hằng năm đối với cán bộ, công chức, viên chức, người lao động, làm căn cứ bình xét thi đua, khen thưởng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/tphcm-dua-viec-di-xe-buyt-metro-vao-tieu-chi-danh-gia-can-bo-2271.png?width=0&s=7SsHagXExH1Eksv_A8vRrg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-26T16:41:29+07:00",
-"found": "2026-11-26T16:44:13+07:00"
 },
 {
 "id": "aae891b4f53a",
@@ -9657,6 +9715,17 @@
 "cat": "xh",
 "published": "2026-11-26T07:00:00+07:00",
 "found": "2026-11-25T08:20:48+07:00"
+},
+{
+"id": "2ac91d1b4632",
+"title": "Nhóm sinh viên tạo ra gạch thông gió từ bao bì khó tái chế",
+"link": "https://thanhnien.vn/nhom-sinh-vien-tao-ra-gach-thong-gio-tu-bao-bi-kho-tai-che-185261126212710644.htm",
+"summary": "Nhóm sinh viên Trường ĐH Bách khoa, ĐH Quốc gia TP.HCM đã nghiên cứu kết hợp bao bì đa lớp với vỏ trấu để tạo vật liệu composite, ứng dụng làm gạch thông gió, đoạt giải nhì cuộc thi Student Innovation Showcase 2026 ở Singapore.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/3-1795701563109841684888-99-0-1699-2560-crop-17957031439711265389632.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-26T07:00:00+07:00",
+"found": "2026-11-26T22:34:30+07:00"
 },
 {
 "id": "ba1f096b4fca",
@@ -27996,72 +28065,6 @@
 "cat": "bds",
 "published": "2026-11-24T10:10:00+07:00",
 "found": "2026-11-24T10:25:40+07:00"
-},
-{
-"id": "8b21635c0a86",
-"title": "Cổ phiếu Nvidia ghi nhận phiên tăng mạnh thứ 3 trong lịch sử",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamhzdUNaZmhzZ3F2eWhhT0JDYUZPQnVpeW4tekFha3dUMktPWDdZNGFmaEtmdGpZM2xVR0RPYVhKMFFFZ09QSVpObUh3b2xZZDZYenI0WmxnLVpMY3gxaDR4SVJqZ1Ziai15Y19NekltVlVEbTJpSXBuYWlXS0xGVzhEQXVqckJTUDdEVmhiMUVqekRjeXVJZQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T10:08:00+07:00",
-"found": "2026-11-24T10:25:40+07:00"
-},
-{
-"id": "74a8e9d07f44",
-"title": "Nhộn nhịp mùa cổ tức cuối năm",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBndXVOTmx4OWl6RG9zMk5abmt1WXVyUll1ajJreS1hQUIySHp3b3RyZU9XVExCdVRHRmxyU3hxblhpX2k3d1MzMHRCeHJuTUtfRGhWcXcyQTNSZWRGWHBnUWt4a2xvMVE4ZXpvbC1XRQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T10:08:00+07:00",
-"found": "2026-11-24T10:25:40+07:00"
-},
-{
-"id": "fd46165b5040",
-"title": "Hàng nhập khẩu qua sàn thương mại điện tử dưới 1 triệu đồng được miễn thuế",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNjR3M1hUUlMwZmlLUENSMVp6YjNGX1dzUXBDanBUbnJRNTVvZzRvNC14VW9KaXE4ZFBaQmhfQzc4ZDJoZ0I1aDZUWThRczdoT0V6dXlRWmREdTctMzEyNXdvdUxOaFVodzVtRHZXOVhpUFdhMEwwd2c1OXB6SGRZbW53Wjd3dEJieFg1RXE0QmRCYlJLLWZRNlhiaktHTlpQVF9Ec21ZWDJuVTQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T10:08:00+07:00",
-"found": "2026-11-24T10:25:40+07:00"
-},
-{
-"id": "9254be8e60b0",
-"title": "Ngày 24/11: Giá bạc tiếp đà phục hồi",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yc1pDUGVGZHluQkpOc3JyUFlsbHZ3N0pkX3V2eFcwX2xJTzdYRVhSTE92NmNPdUE2UGptWWRyaWNIVFRHcmFveDJ4c2pYU2ZPc3NWWUgtZ2RXZkVsWWV1aVVKUndTWGhtSVJ4WERtU3hpYjhaREdF?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T10:07:00+07:00",
-"found": "2026-11-24T10:25:40+07:00"
-},
-{
-"id": "729eb0ce4154",
-"title": "Ngân hàng và bài toán giảm lãi suất",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03UXRpQ296RHFITjV2V2x4cFlKYXFmQzNWSUY2Qjd0eHVkOGVoRmZSU2o1WVY0VjZNQ3R5Z1NjbU5SRHc1aVpEWjBKV2UtVVpjeWlFZEx5R0dwWkRvcXZtYm1jRFNuLTl5OWJmOVNSY0hyM3lVOUVZ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T10:06:44+07:00",
-"found": "2026-11-24T10:10:25+07:00"
-},
-{
-"id": "60e7e7b15e43",
-"title": "Lộ diện tôm sú 'khủng' tại Festival Tôm Cà Mau",
-"link": "https://thanhnien.vn/lo-dien-tom-su-khung-tai-festival-tom-ca-mau-185261124055208819.htm",
-"summary": "Một con tôm sú 'khủng' nặng gần 4 lạng do doanh nghiệp ở xã Phan Ngọc Hiển (Cà Mau) đưa đến dự thi đã thu hút đông đảo người đến xem tại Festival Tôm Cà Mau 2026.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/tnw-tom-su-nhat-17954757932551692824839-0-131-940-1635-crop-17954758431804571810.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-24T10:04:00+07:00",
-"found": "2026-11-24T10:10:25+07:00"
 }
 ]
 }
