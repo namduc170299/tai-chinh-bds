@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T04:45:23+07:00",
-"new": 0,
+"updated": "2026-11-27T05:00:35+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,41 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "6a50bc6fccd2",
+"title": "Mùa thu hoạch cà phê, nông dân lo đơn, lo kép",
+"link": "https://thanhnien.vn/mua-thu-hoach-ca-phe-nong-dan-lo-don-lo-kep-185261126161548359.htm",
+"summary": "Hàng chục ngàn ha cà phê đang vào mùa thu hoạch, nhưng nhiều nhà vườn ở Gia Lai vẫn chưa tìm đủ người hái, dù giá công khoán lên đến 120.000 - 130.000 đồng/tạ quả tươi.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-2aoborfhw7k6qug3smy131ztumy40cqij8obcqve-1795684217904619349080-143-0-941-1276-crop-17956844991392132458774.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T05:00:00+07:00",
+"found": "2026-11-27T05:00:35+07:00"
+},
+{
+"id": "a7774183991a",
+"title": "lãi suất",
+"link": "https://vnexpress.net/ngan-hang-van-chao-lai-suat-tiet-kiem-toi-9-6-mot-nam-5148499.html",
+"summary": "Ngân hàng vẫn chào lãi suất tiết kiệm tới 9,6% một năm (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXEZVNvG3EHHfx-UKstCobatQsueEX9GtAQvyF78MpNzdlf1fSRZtFes1v5c4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T04:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-27T05:00:35+07:00"
+},
+{
+"id": "8fa6fd625ae6",
+"title": "đinh mùi",
+"link": "https://suckhoedoisong.vn/da-co-muc-chi-qua-tet-nguyen-dan-dinh-mui-cho-doi-tuong-huu-tri-169261124214122054.htm",
+"summary": "Đã có mức chi quà Tết Nguyên đán Đinh Mùi cho đối tượng hưu trí (Báo Sức khỏe & Đời sống)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6GqMcs_LxPY85lX2UahcDwG1hzXdFEVN3ILxtmtlPOEXuaAXlpqcPAXFiqFg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T04:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-27T05:00:35+07:00"
+},
+{
 "id": "1bab6e54079b",
 "title": "chính sách",
 "link": "https://cafef.vn/tat-ca-nguoi-dan-co-tai-khoan-ngan-hang-chu-y-quy-dinh-moi-nhat-co-hieu-luc-tu-1-12-188261126192056417.chn",
@@ -244,7 +279,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T03:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-27T04:03:38+07:00"
 },
 {
@@ -256,7 +291,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T03:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-27T04:03:38+07:00"
 },
 {
@@ -337,7 +372,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T02:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-27T02:59:14+07:00"
 },
 {
@@ -1685,6 +1720,17 @@
 "found": "2026-11-26T20:47:54+07:00"
 },
 {
+"id": "864dfb1581f2",
+"title": "Bí thư TPHCM Trần Lưu Quang: Tính phương án đưa người dân chung cư cũ ra ngoại vi",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdG16cFRCd0lZcHdodklpWURRWG51UnRNN1lUbmFpY1ZoenctOGgtOW9WME9MeGdqbHlDS3VYbUhDdE5xbTMyTnhkd0tKV09neEhvSUFwWWlLb1ZpSUtQQjhTNU8wV2xmSzNJR0w5YTdMWXBfakx3Q3ZPamV0NGw4YTNTRFhxeGpqNXE5dFVhRUFNVV9MQ21ZS0tEMklGX3pMcVB3N29OSWFlTTFqX0lITXNOWQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T20:16:00+07:00",
+"found": "2026-11-27T05:00:35+07:00"
+},
+{
 "id": "2e8bfb09f157",
 "title": "TP HCM mời Singapore phát triển 3 nhóm hạ tầng chiến lược",
 "link": "https://vnexpress.net/tp-hcm-moi-singapore-phat-trien-3-nhom-ha-tang-chien-luoc-5149290.html",
@@ -2121,6 +2167,17 @@
 "cat": "tc",
 "published": "2026-11-26T19:18:37+07:00",
 "found": "2026-11-26T19:41:33+07:00"
+},
+{
+"id": "d83b5e3259da",
+"title": "Nhà ở xã hội có giá thuê tối đa hơn 17 triệu đồng: Người cần nhà tính sao?",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSllTd0lLY2cyRmUxUVBHSUowR01qOUdzbV91THdaYzZLby1vaWNTcUpkYkJDdVBQaURDYU5wVG5rQXlwUTdIcTR5WmVkeTM3a05Sa2VSaEVsekdGLWtKX3ozNXRNbWQtMjluMnIwNzRuXzl0Mm1INkJmelMzY2hsc3lfU3RSTnNWZFZJbm5iTmtzaklYVmkwVVVNaHcwWHo0R1l1YmRoRnQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T19:17:00+07:00",
+"found": "2026-11-27T05:00:35+07:00"
 },
 {
 "id": "bde2bf9b2bbe",
@@ -2621,6 +2678,17 @@
 "cat": "mxh",
 "published": "2026-11-26T18:20:00+07:00",
 "found": "2026-11-26T19:41:33+07:00"
+},
+{
+"id": "5332acc38254",
+"title": "Đại biểu Quốc hội: Thay vì sở hữu nhà, người dân có thể dành tiền thuê nhà ở xã hội đầy đủ tiện nghi",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSkpyakNYT2Q4bkJ4ODEtU0M1b1VhMm42cFZQdDJpWm9xV09iaUtTUDNIa3A5LW83SjdSaERhUTRMQVJnclh6ZVJkT3EzRnh4UnhkRnI2cEVxamtJbkVJNDRjRjV3cXdzdDhwVjY4bXViUjFORVlsVHN5RkEzdjVkRnMzbVNLOTdMd19mOWUzN2hsTFU3TU9xc2RZRVEwdzVpNWFEOHRkQWhRNHY4TXJsZDF6NzdyTWNGNTQtTE5QMDFZOS05eVFEZV9Faw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T18:20:00+07:00",
+"found": "2026-11-27T05:00:35+07:00"
 },
 {
 "id": "ff29327c8ea7",
@@ -3706,6 +3774,17 @@
 "published": "2026-11-26T16:50:00+07:00",
 "traffic": "200+",
 "found": "2026-11-26T17:36:49+07:00"
+},
+{
+"id": "28875aad9555",
+"title": "[Video] Hà Nội dự kiến phát triển 500-600 cơ sở kiểm định khí thải xe máy",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkNMYWU1V0tTd3JCOU9KLUtZSHBEMVFXVkpKNm9fVnJKS2d6WDR5eU1PTGc3OUYzNXIzSFFYOG0zUDA4a3Nmem9WSWdmYVRyX1UwRERNYW1NbnRUaFNYaWJsaEZ1VkFBM1RjNnJOb1BVbVpRWkhrVklDTGVMMlBhNExZWUFfRjNoalA2anFGZTFueVp2dFVGMU5sSjA4THd1dXF1aFRsdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T16:50:00+07:00",
+"found": "2026-11-27T05:00:35+07:00"
 },
 {
 "id": "c19a2222b5b2",
@@ -28008,83 +28087,6 @@
 "cat": "bds",
 "published": "2026-11-24T11:32:00+07:00",
 "found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "c0123ba5ba61",
-"title": "Bạn trẻ rần rần check-in chiếc xích lô 'khổng lồ' của Sơn Tùng M-TP",
-"link": "https://thanhnien.vn/ban-tre-ran-ran-check-in-chiec-xich-lo-khong-lo-cua-son-tung-m-tp-185261124110414038.htm",
-"summary": "Mô hình xích lô khổng lồ được ca sĩ Sơn Tùng M-TP đặt tại bưu điện TP.HCM đã thu hút hàng trăm bạn trẻ và du khách đến check-in, chụp ảnh. Nhiều người bất ngờ về kích cỡ và những điểm nhấn đậm nét văn hóa trên xe.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-dsc05442-17954925424241464656118-0-174-1440-2478-crop-1795492901989568714270.jpg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-24T11:31:00+07:00",
-"found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "cece2a84ea4a",
-"title": "Thêm định chế tài chính dự báo Fed tăng lãi suất tại 3 cuộc họp sắp tới",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbVJLRVFrb205czhKZTA5ck91djlNTjU3WnlxNV9HVUNOelJGS0NxR01HS0NhZWxXX1phby1vYjFadms0dmlXMDlVY1RZdnBDS0ZrRWpYRExOVlRnQUtaUUZWbW1YVHJQM2szeWp1bk9HWVl6bWtvRXBiUGdoMnFzMnlpZjdIM01aSEpia3RBelZ1QmdtWU5leUFfMmU0OXpKMVYyOVhoVQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T11:30:14+07:00",
-"found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "4108ecdb2645",
-"title": "Hà Nội dự kiến làm tuyến đường 6 làn xe kết nối Đại lộ Thăng Long",
-"link": "https://cafef.vn/ha-noi-du-kien-lam-tuyen-duong-6-lan-xe-ket-noi-dai-lo-thang-long-188261124113106005.chn",
-"summary": "Sở Xây dựng Hà Nội vừa trình UBND thành phố xem xét phê duyệt phương án, vị trí tuyến đường Ngọc Liệp dài khoảng 2,1km, rộng 46m với quy mô 6 làn xe nhằm mở thêm hướng kết nối từ Đại lộ Thăng Long đến khu vực xã Kiều Phú.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795494643574-1795494644190848953899.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-24T11:30:00+07:00",
-"found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "230fdbb18002",
-"title": "Mỹ trừng phạt mạng lưới tài chính ngầm giúp Iran né lệnh cấm vận",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkxZR2VET25nQlFITG56SHZTR1ZUTUpQR042clVSdkU5STlIMjNvYnJTbm1yMFo2cVN4ODUyWlQxZFIwUHBLbmtsbk8xbUdXYlJnRkI2dWg5cTlPME5rLUpqVU9tTXEzWGFnQWF1NWx6NkZYODNGZGdhVlZkMHNjUExYYk93NFVLWlB1RHpWM0tDZmRWRmN4M0JsVXhHQQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T11:30:00+07:00",
-"found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "a99ca05d7359",
-"title": "Tổng Bí thư, Chủ tịch nước Tô Lâm chia sẻ với những khó khăn, mất mát của nhân dân Palestine",
-"link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-chia-se-voi-nhung-kho-khan-mat-mat-cua-nhan-dan-palestine-100261124102614947.htm",
-"summary": "Nhân Ngày Quốc tế đoàn kết với nhân dân Palestine, Tổng Bí thư, Chủ tịch nước Tô Lâm đã gửi điện đến các lãnh đạo Liên hợp quốc và Tổng thống Nhà nước Palestine.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/tong-bi-thu-dai-hoi-dong-6-1790119530231636094135-9-0-1609-2560-crop-17954903670091675995699.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T11:29:00+07:00",
-"found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "a85682a7a2bd",
-"title": "Khánh Hòa cảnh báo sắp có mưa lớn cuối tháng 11, có nơi trên 200 mm",
-"link": "https://thanhnien.vn/khanh-hoa-canh-bao-sap-co-mua-lon-cuoi-thang-11-co-noi-tren-200-mm-185261124104622558.htm",
-"summary": "Mưa lớn được dự báo sẽ xảy ra cuối tháng 11 có thể gây ngập úng vùng trũng, sạt lở đất vùng đồi núi, tỉnh Khánh Hòa đã yêu cầu các địa phương, đơn vị chủ động ứng phó, nhất là trên tuyến đèo xung yếu.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-179549108024915699653243335754747601869456210601860edd667ab9253ed1a8a4742fc37ba8e7e-1795491938864432857872-49-0-1649-2560-crop-17954919482952098479175.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-24T11:29:00+07:00",
-"found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "51951df4db00",
-"title": "Nghịch lý \"chờ đủ tiền mới mua\" và bài toán chi phí cơ hội",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTG9qUnVuUmNNMlRXQXFPaTBvRDVGOUExa1J4aUdpQnBwWWxxTDBneVhvMHkxZ0hXbXVTTk5FaUwtbmhVVTMwMzZSaUtOS1kyOElLY3hGM01UM3Q3MTlCS05LMzhDUnJOOXFBb1ViUnNtanVKTGNVQmdKVmt5Q2FGdDZUU3R6UG5lWVhIbWtnMlJSS3c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T11:29:00+07:00",
-"found": "2026-11-24T11:57:44+07:00"
 }
 ]
 }
