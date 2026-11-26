@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T17:36:49+07:00",
-"new": 34,
+"updated": "2026-11-26T17:52:01+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 21
+"count": 52
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "7d0fc85fcc73",
+"title": "Chứng khoán giảm gần 60 điểm sau đề xuất thuế của Mỹ với 14 đối tác",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2ZuM1BoVWpNUjJ1MWZHNVE5b2JvemNaSzd0d0k4OVVXR0JhbkRid3hlVzRRbUY4WmQxM2ZPSVU0ODJpeTBDTXBmcUhGSDVaQmk4UElNWGtlMWE0QURoOUJ2bDk0dFhDa2RmT2lteWFZZk5SWEZyX1YxUUtJWEhjakdDdm1ScGM2MDNCVnpHTVJwNW1UUWNNa3NmLS1QWW1mZlE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T17:46:00+07:00",
+"found": "2026-11-26T17:52:01+07:00"
+},
+{
+"id": "72ec9497926c",
+"title": "Dòng tiền đầu tư năm 2027: Ưu tiên tài sản tạo thu nhập, kỳ vọng vốn ngoại trở lại chứng khoán",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlkxUTZBbE05VVByNDFGSlJZVW4tbmtNQnhPcjNvbkc5MlktZ29kNnNEZDJPWm9pb0pYVlVJMW5oYmFZS1RwMXRzcms3TkpRQW00S1FIcDVKMlV1S2JYcWtXNHFMOFE5Y2dKV0FMVFVWU1YtakdVRHFJQ0VxdGZQXzBmemNYNFBMa003MWR2MFdmNElZWmNpZ3IzVGg5X3JhQl95Skl5Q1dQUXpJanc2bk02RGxrMGZCRnBMUnFXakhTMlU?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T17:42:00+07:00",
+"found": "2026-11-26T17:52:01+07:00"
+},
+{
 "id": "b6743a66d0f4",
 "title": "Việt Nam đã đưa ra những cam kết chưa từng có tiền lệ để đàm phán thuế với Mỹ",
 "link": "https://vietnamnet.vn/bo-cong-thuong-noi-gi-ve-de-xuat-thue-bo-sung-35-cua-my-voi-hang-viet-2579014.html",
@@ -220,8 +242,30 @@
 "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/viet-nam-da-dua-ra-nhung-cam-ket-chua-tung-co-tien-le-de-dam-phan-thue-voi-my-2467.png?width=0&s=WVE-l-wIDbL1oObDMR21Ng",
 "source": "VietnamNet",
 "cat": "tc",
-"published": "2026-11-26T17:36:22+07:00",
+"published": "2026-11-26T17:41:02+07:00",
 "found": "2026-11-26T17:36:49+07:00"
+},
+{
+"id": "0f2252633d17",
+"title": "Chi phí vốn cao khiến doanh nghiệp Việt hụt hơi khi ra “biển lớn”: Đâu là lời giải giai đoạn 2026-2030?",
+"link": "https://cafef.vn/chi-phi-von-cao-khien-doanh-nghiep-viet-hut-hoi-khi-ra-bien-lon-dau-la-loi-giai-giai-doan-2026-2030-188261126153902003.chn",
+"summary": "Trong khi doanh nghiệp quốc tế tiếp cận nguồn vốn với lãi suất chỉ 1-2%, chi phí vốn trong nước cao đang tạo ra bất lợi lớn trên bàn cờ cạnh tranh. Các chuyên gia tài chính và lãnh đạo doanh nghiệp chỉ ra rằng, đa dạng hóa kênh huy động và tận dụng nguồn vốn ngoại là chìa khóa…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795682297804-17956822988641610083672.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-26T17:38:00+07:00",
+"found": "2026-11-26T17:52:01+07:00"
+},
+{
+"id": "9a2a57738d0d",
+"title": "Rút khỏi bất động sản, người Trung Quốc chọn gửi tiết kiệm thay vì chơi chứng khoán",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcW9SbHYzbzE4TzFPM2FoLVB0N3JNT3l6ZVhCNmUtdjVfakkzci1lRDVCM1pLRTJtSGh2TDNuX0t1b3F3V25EOHIxWVR1RnJ6UHBtekNkNWRoSnJETEZnZlpyQUc4U3pzNGpadFVmX3NrS3pyb3haTFluZmtRLS14UUZ4R0VpblBZR1gtNHdkNHFCUmpNOEhaamZwdmJSd2dQZ21ZTEpfcE4yTDlsX1dlUlYxS3lJZw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T17:37:34+07:00",
+"found": "2026-11-26T17:52:01+07:00"
 },
 {
 "id": "dbfce9618152",
@@ -235,6 +279,17 @@
 "found": "2026-11-26T17:36:49+07:00"
 },
 {
+"id": "8804c80b79dd",
+"title": "Ông chú U60 tóc điểm kim tuyến tập livestream bán đầm dạ hội, khách chốt ào ào khiến chủ sạp \"đứng hình\" phải cầu cứu các cháu shipper",
+"link": "https://kenh14.vn/ong-chu-u60-toc-diem-kim-tuyen-tap-livestream-ban-dam-da-hoi-khach-chot-ao-ao-khien-chu-sap-dung-hinh-phai-cau-cuu-cac-chau-shipper-215261126161149535.chn",
+"summary": "Gần 60 tuổi mới tập livestream bán đầm, ông Sĩ từng lúng túng khi 5-6 khách cùng chốt đơn, phải nhờ những người trẻ kiên nhẫn hướng dẫn từng thao tác.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795684256529-17956842577851271861580.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T17:32:00+07:00",
+"found": "2026-11-26T17:52:01+07:00"
+},
+{
 "id": "77ebaa8c8068",
 "title": "Tăng quyền cho hải quan trong chống hàng giả, hàng xâm phạm sở hữu trí tuệ",
 "link": "https://thanhnien.vn/tang-quyen-cho-hai-quan-trong-chong-hang-gia-hang-xam-pham-so-huu-tri-tue-185261126151214497.htm",
@@ -244,6 +299,17 @@
 "cat": "tc",
 "published": "2026-11-26T17:31:00+07:00",
 "found": "2026-11-26T17:36:49+07:00"
+},
+{
+"id": "6f3cf0849b67",
+"title": "Những cuộc đua gay cấn của các ngân hàng năm 2026",
+"link": "https://kenh14.vn/nhung-cuoc-dua-gay-can-cua-cac-ngan-hang-nam-2026-215261126170623234.chn",
+"summary": "Năm 2026, ngành ngân hàng diễn ra song song nhiều cuộc đua gay cấn, từ quy mô vốn, huy động vốn, công nghệ cho đến trải nghiệm của từng nhóm khách hàng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795687456142-17956874564171694099991.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T17:31:00+07:00",
+"found": "2026-11-26T17:52:01+07:00"
 },
 {
 "id": "8937fe1a6653",
@@ -345,6 +411,17 @@
 "found": "2026-11-26T17:36:49+07:00"
 },
 {
+"id": "b08d8282d256",
+"title": "Bộ Công Thương: Việt Nam đưa cam kết chưa có tiền lệ khi đàm phán thương mại với Mỹ",
+"link": "https://vnexpress.net/bo-cong-thuong-viet-nam-dua-cam-ket-chua-co-tien-le-khi-dam-phan-thuong-mai-voi-my-5149271.html",
+"summary": "Việt Nam đã đưa ra những cam kết ở mức cao nhất có thể, có nội dung chưa có tiền lệ, nhằm thúc đẩy đàm phán hiệp định thương mại với Mỹ, theo Thứ trưởng Công Thương.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/26/wm6-wm6-luonghoangthai-1795686417-6630-1795687681.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=E0MQiQRkI7rd__5jfwYUcA",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-26T17:22:51+07:00",
+"found": "2026-11-26T17:52:01+07:00"
+},
+{
 "id": "331bda66beaf",
 "title": "Hà Nội lý giải việc xây mới chợ Kim Liên có 1 tầng hầm, 3 tầng nổi",
 "link": "https://cafef.vn/ha-noi-ly-giai-viec-xay-moi-cho-kim-lien-co-1-tang-ham-3-tang-noi-188261126162241661.chn",
@@ -444,6 +521,17 @@
 "found": "2026-11-26T17:36:49+07:00"
 },
 {
+"id": "d3f6a97c2d1c",
+"title": "Khách Trung Quốc bỏ 6 triệu đồng mua con cừu nướng, gỡ thịt chưa đầy 1 lạng",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXUwVThNbkdQcndGeDFkX2dQWFJNcDhtM1g1WUNLaVgxRXlTajJ3c2hDZ2pDYS03RUdWamtlaFZTMjFOc1B3Qjl6NTZBRU5YMDdpVWlCaU5PdXppSjFodERFNlNNUHFRNEJ0Y1d1LWxSM0g1ZHJkc2dlWlotb214MXc5QVFHUFlxWm43dFJ4d0xiUmZQY0dzMWhRM0tSRWhMUzZkWFNnNkxLZl9iNGFMMS1HUVBRaGJZS3h2ekNpVmlPNHVM?oc=5",
+"summary": "Nguồn: Báo Dân trí",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T17:14:17+07:00",
+"found": "2026-11-26T17:52:01+07:00"
+},
+{
 "id": "796aff63647a",
 "title": "Thành Đoàn TP.HCM tặng 29.000 phần quà Tết cho thanh thiếu nhi, người lao động khó khăn",
 "link": "https://tuoitre.vn/thanh-doan-tphcm-tang-29000-phan-qua-tet-cho-thanh-thieu-nhi-nguoi-lao-dong-kho-khan-100261126152105303.htm",
@@ -475,6 +563,17 @@
 "cat": "xh",
 "published": "2026-11-26T17:10:39+07:00",
 "found": "2026-11-26T17:21:36+07:00"
+},
+{
+"id": "9644d8f2a9be",
+"title": "Thưởng Tết ở Tây Ninh cao nhất 621 triệu đồng",
+"link": "https://vnexpress.net/thuong-tet-o-tay-ninh-cao-nhat-621-trieu-dong-5149299.html",
+"summary": "Mức thưởng Tết Dương lịch 2027 cao nhất tại Tây Ninh dự kiến là 621 triệu đồng, còn Tết Nguyên đán Đinh Mùi là 600 triệu đồng.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/1795686575503b6317bfac59e5be06-1873-5855-1795687759.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6887m5qIQ9uwvVhFOh9-og",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-26T17:10:20+07:00",
+"found": "2026-11-26T17:52:01+07:00"
 },
 {
 "id": "6e2c0805c37f",
@@ -663,6 +762,17 @@
 "cat": "bds",
 "published": "2026-11-26T16:53:00+07:00",
 "found": "2026-11-26T17:21:36+07:00"
+},
+{
+"id": "b0e27f354d19",
+"title": "Game đạo nhái \"Uma Musume\" ngang nhiên xuất hiện trên Google Play quốc tế: Lạm dụng hình ảnh AI, sao chép trắng trợn tạo hình của Tokai Teio và Mejiro McQueen",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHM1S3FJWWtDTHFrZkRuTFg4cG1PcGVtS2FZTHFLckd2dmR3MWR2Q3JiVUZscjdJQ3hlc29uQmQycDNXdm5VV1BodDdGMWdtM0RiOWpDeEl3NHo0c1ZJXzlwZHBTSUN2LVh4NXpVYzUxTGlfRXdSXzNlRnVfQ3RVblc5UDhQTDTSAYYBQVVfeXFMUE00TmZ6enBwTUJqN2JwT18xQzcxQkJnTGVGMGZXUF9MNl9ac1B3VE9abHhoYnRFQjZuWUludy1palNXTFNNTXc5anpwWFBkcW5neWFrYWxZTURFbmZ0QnJXenE1NUhSWEtPb1BoZjNIYWhfdXZTQU15emxKSi1HNWdHenc3akE?oc=5",
+"summary": "Nguồn: Lag.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T16:52:40+07:00",
+"found": "2026-11-26T17:52:01+07:00"
 },
 {
 "id": "a61461a03dc6",
@@ -3604,6 +3714,17 @@
 "cat": "tc",
 "published": "2026-11-26T12:38:00+07:00",
 "found": "2026-11-26T13:11:30+07:00"
+},
+{
+"id": "ec4ecbf51e73",
+"title": "Rộ nghi vấn Lisa nối lại tình xưa với Jungkook",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZHhvb1lKQzU3eFRWUzcwakNOTjFjX254dDBOSlRadkIwWFdBWWgxNTdUNUZtRFYzdnZNcnFFYktkUi1lN0NpTHh3dG8yYjdXVXFQNEtGangyM2I2T05MY3hHY003WnBiQ245XzcyUVA2N2w5MkVNQklxN3M1Ql81cmt1Xzl6WlRIOGIyS0p6QQ?oc=5",
+"summary": "Nguồn: Đời sống Việt Nam",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T12:35:39+07:00",
+"found": "2026-11-26T17:52:01+07:00"
 },
 {
 "id": "c4931c45d1be",
@@ -7503,6 +7624,17 @@
 "cat": "xh",
 "published": "2026-11-26T07:00:00+07:00",
 "found": "2026-11-25T08:20:48+07:00"
+},
+{
+"id": "8162f3dec44d",
+"title": "Xóm nhỏ | Phim Việt lên sóng tháng 10 trên VTV1",
+"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFWl9yV21hWkJWYUl0UFJ2TS12YmxaZjFVcFFfcVpxdDBXdG1NalpENXR3eWxobVlpYUJ1cGJ6QmJrcDVyMVE?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T07:00:00+07:00",
+"found": "2026-11-26T17:52:01+07:00"
 },
 {
 "id": "ba1f096b4fca",
@@ -27917,142 +28049,6 @@
 "cat": "xh",
 "published": "2026-11-24T07:03:00+07:00",
 "found": "2026-11-24T07:17:15+07:00"
-},
-{
-"id": "2894c7aaaa4e",
-"title": "Giá xăng dầu hôm nay 24/11/2026: Dầu thế giới giảm mạnh phiên đầu giờ sáng",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlBTTXVKMTVzZVRfRjFMLUVsQlBsTHZja0tkaC1hLXNodW1rVFpjeFAyS0NzRHhsTHN3OWs4MG5LN21QUThWcFlrT3dQWUFqNG9LT0drQjhWSC1jV2pMUkVuanVOQzc1bjNTckM3TzZZblRMdWZMOXhEdzJUYlZsb2RxeVBmbEEwSjMtTXZJUHlkVTRIVVlYTWtCUlhmN1phaGdSb0ZjZEZXUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T07:03:00+07:00",
-"found": "2026-11-24T12:39:10+07:00"
-},
-{
-"id": "303fb4539576",
-"title": "Chi tiết 5 cực động lực của 'siêu' đô thị TP.HCM",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXkzMUI4SG9FWmRVdmJKY3lKdzhwTi14RlVJWWIwME9SQUg2cjM0dnlKd3FVYWVNZUpsdWhwQk1aQldXU1RtRktzM2tGSTNTenRZc3JxRVlkLUpnWFItVHc5MklydXBxVmhMRWtJb01Ya1RxNlpURWxrYVREQk56bm4xYjFtQQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T07:00:30+07:00",
-"found": "2026-11-24T07:34:10+07:00"
-},
-{
-"id": "6e6ade998ee6",
-"title": "Cuộc rượt đuổi cảm xúc của Việt Nam ở U17 World Cup",
-"link": "https://vnexpress.net/cuoc-ruot-duoi-cam-xuc-cua-viet-nam-o-u17-world-cup-5148272.html",
-"summary": "U17 Việt Nam chứng minh tinh thần không bao giờ bỏ cuộc khi liên tục gỡ hòa sau ba lần bị New Zealand dẫn trước ở U17 World Cup, tối 23/11.",
-"image": "https://vcdn1-thethao.vnecdn.net/2026/11/24/6b-1795456202-1795456519-1795478428.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MqNovYIoG4_dmhy_9dIMdg",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-24T07:00:30+07:00",
-"found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "713f17c2c040",
-"title": "santos đấu với grêmio",
-"link": "https://bongda24h.vn/nhan-dinh-bong-da/du-doan-santos-vs-gremio-hom-nay-344-465340.html",
-"summary": "Nhận định bóng đá Santos vs Gremio VĐQG Brazil 2026 (Bongda24h)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLJ4TZgay1OuSAYOYLCBirFsooM_4ktO_n8AmJHkVjkJH-mT0uDTezpW-q_7Q",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T07:00:00+07:00",
-"traffic": "200+",
-"found": "2026-11-24T07:17:15+07:00"
-},
-{
-"id": "f30ecbe9c381",
-"title": "nay ngày gì",
-"link": "https://tuoitre.vn/lich-cu-the-23-ngay-nghi-dip-le-tet-nam-2027-100261123101621247.htm",
-"summary": "Lịch cụ thể 23 ngày nghỉ dịp lễ, Tết năm 2027 (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSelAwCgJuWYlF423I_DkSX6sMPrv3XkKR5wP6pCjUg5NDCFUeBa5SZnMKMFaM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T07:00:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-24T07:17:15+07:00"
-},
-{
-"id": "e96b6c79a79a",
-"title": "trò chơi",
-"link": "https://tuoitre.vn/gta-6-lieu-co-de-dang-gianh-giai-game-of-the-year-2026-100261123200659904.htm",
-"summary": "GTA 6 liệu có dễ dàng giành giải Game of the Year 2026? (Tuổi Trẻ)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7vPlTLF9sQJBVFRH38ujlw--vKIjcB_ILmbL6xT05W7P40uj7VQhzwO0h2lo",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T07:00:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-24T07:17:15+07:00"
-},
-{
-"id": "b41553d0f048",
-"title": "sun group",
-"link": "https://vnexpress.net/tp-hcm-dat-muc-tieu-vao-nhom-100-thanh-pho-dang-song-tren-the-gioi-5147930.html",
-"summary": "TP HCM đặt mục tiêu vào nhóm 100 thành phố đáng sống trên thế giới (VnExpress)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ57KPqYi126elwf5DNZEEySMdjRidLg5aQqNwqsFgz1-yNl6dcJWyBr4CJtDg",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T07:00:00+07:00",
-"traffic": "100+",
-"found": "2026-11-24T07:17:15+07:00"
-},
-{
-"id": "1832f2d7785f",
-"title": "Căn nhà nằm chênh vênh trên cây gây xôn xao mạng xã hội",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeUloeWFWck13dUl0aVo2Q202V3R2ZkhjZHQ1RzM3QkRtUnVLMFRFS2xpdHk3bHFhYTQ0Zm5mSGpTLU9sSnNiZkZ4WWFjYi1zOXhzQTFvNHUxbkhTN1dwLUxqSU1Mdm4yN2RBSzAzMmJhNG5VVTVmNVZDTzJjTWlGdHFQN2s1eFFRQ0hWYkZNeHpaUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T07:00:00+07:00",
-"found": "2026-11-24T07:18:11+07:00"
-},
-{
-"id": "8df08ff1dff8",
-"title": "Thịt bò giả ngâm hóa chất: Nguy hại sức khỏe khó lường",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5ndGZvak5yY1YtRHNDMkVOeDJGdXBKQ1p0eVBFWkgwZEhRWmZPbjRMS3VwRTF2NWlDM1A3cGZCTEY?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-24T07:00:00+07:00",
-"found": "2026-11-24T16:27:31+07:00"
-},
-{
-"id": "05671faeb7eb",
-"title": "Ô nhiễm do nước rỉ từ bãi rác | Chào buổi sáng",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1qVndqeHN2dWs2N1BISEJWNjJqUnM3WkY1Nk52bnNFOUw3QTEzbzFYaEw1cl9VZHNNQ0ZoUDFMWWs?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-24T07:00:00+07:00",
-"found": "2026-11-25T06:16:35+07:00"
-},
-{
-"id": "648abc26fec5",
-"title": "Ông Đô liên tục tra hỏi Phong về chuyện ở chung với Trâm | Xóm nhỏ | Tập 15",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5FRFJ3QXN0dG55bERBWGNSMWNCSWhpcUU4ZDVTUUVQaEF5OVhTU2dvcS02bTR6dzE5bFpQXzItTlg?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-24T07:00:00+07:00",
-"found": "2026-11-25T08:20:48+07:00"
-},
-{
-"id": "536069289149",
-"title": "“Bão” hàng giả: Người trong cuộc biết hay không biết? | Chuyển động 24h | VTV1 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9Lc0k0TVdWMlNya1pfcUtMdEhfY3hRejFSMUpMQks5MTV0MlZvU3l6ZXJBdEJoUWZWczVHMlJ2LUU?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-24T07:00:00+07:00",
-"found": "2026-11-25T08:20:48+07:00"
 }
 ]
 }
