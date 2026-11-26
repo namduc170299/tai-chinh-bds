@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T05:49:02+07:00",
-"new": 10,
+"updated": "2026-11-27T06:04:13+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 49
+"count": 50
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,83 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "b0fad9a10d7d",
+"title": "Ngân hàng rao bán nợ hơn 213 tỷ liên quan chung cư 52 Lĩnh Nam của Lilama Hà Nội",
+"link": "https://vietnamnet.vn/ngan-hang-rao-ban-khoan-no-hon-213-ty-dong-cua-lilama-ha-noi-2579021.html",
+"summary": "Khoản nợ của Công ty CP Lilama Hà Nội có tổng dư nợ tạm tính hơn 213 tỷ đồng, được Agribank đưa ra đấu giá với giá khởi điểm gần 139,8 tỷ đồng. Tài sản bảo đảm là khu văn phòng và trung tâm thương mại tại dự án chung cư 52 Lĩnh Nam.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/ngan-hang-rao-ban-no-hon-213-ty-lien-quan-chung-cu-linh-nam-cua-lilama-ha-noi-3730.jpg?width=0&s=PUVA-c0MrdFt4HDbje-nbA",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-27T06:00:00+07:00",
+"found": "2026-11-27T06:04:13+07:00"
+},
+{
+"id": "cf552ca0633b",
+"title": "Nhà ở xã hội: Minh bạch thông tin để triệt tiêu lừa đảo",
+"link": "https://thanhnien.vn/nha-o-xa-hoi-minh-bach-thong-tin-de-triet-tieu-lua-dao-185261126232040085.htm",
+"summary": "Nhà ở xã hội được xây dựng để hỗ trợ những người gặp khó khăn về nhà ở nhưng lại trở thành mảnh đất màu mỡ cho kẻ xấu trục lợi. Đau lòng hơn, những người nghèo đang chật vật tìm một mái nhà để an cư lại là người hứng chịu thiệt hại nặng nề khi bị lừa hàng trăm triệu đồng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-tnw-p1-1795709826170174285787-0-0-1600-2560-crop-1795709845899894903440-17957098568861901248384.jpg",
+"source": "Thanh Niên",
+"cat": "bds",
+"published": "2026-11-27T06:00:00+07:00",
+"found": "2026-11-27T06:04:13+07:00"
+},
+{
+"id": "1d6e521e3c07",
+"title": "Giá điện nào cho trung tâm dữ liệu?",
+"link": "https://thanhnien.vn/gia-dien-nao-cho-trung-tam-du-lieu-185261126191352502.htm",
+"summary": "Đề xuất đưa trung tâm dữ liệu vào nhóm áp dụng giá điện sản xuất thay vì giá điện kinh doanh của Bộ Công thương thu hút sự quan tâm lớn của thị trường.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-gia-dien-17956943304502076803229-119-0-759-1024-crop-1795695133572509954733.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-27T06:00:00+07:00",
+"found": "2026-11-27T06:04:13+07:00"
+},
+{
+"id": "6f394b012f9b",
+"title": "Chủ động ứng phó thuế bổ sung của Mỹ",
+"link": "https://thanhnien.vn/chu-dong-ung-pho-thue-bo-sung-cua-my-185261126185921175.htm",
+"summary": "Việc Mỹ đề xuất thuế bổ sung tối đa với hàng hóa nhập khẩu từ Việt Nam có thể lên đến 35% đang là vấn đề được nhiều người quan tâm. Trao đổi với Báo Thanh Niên, nhiều doanh nghiệp và chuyên gia tỏ ra khá bình tĩnh, đồng thời đề xuất các giải pháp nhằm chủ động ứng phó.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-thue-bo-sung-1795694337591558944420-34-0-674-1024-crop-17956943520342054751974.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-27T06:00:00+07:00",
+"found": "2026-11-27T06:04:13+07:00"
+},
+{
+"id": "557139a22c90",
+"title": "Tăng tốc kiếm tiền dịp cuối năm",
+"link": "https://thanhnien.vn/tang-toc-kiem-tien-dip-cuoi-nam-185261126210308602.htm",
+"summary": "Những tháng cuối năm, người lao động trẻ tranh thủ từng ca tăng giờ để cải thiện thu nhập, còn doanh nghiệp nhỏ và vừa tăng tốc sản xuất, kinh doanh, chạy đua hoàn thành những mục tiêu đã đặt ra.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/2-17957015631071662178110-67-0-1067-1600-crop-17957016094711261973409.jpeg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-27T06:00:00+07:00",
+"found": "2026-11-27T06:04:13+07:00"
+},
+{
+"id": "6e8e07f28d1f",
+"title": "Mượn đất họ hàng thế chấp ngân hàng, vợ chồng thua lỗ đẩy người thân vào thế khó",
+"link": "https://vietnamnet.vn/vay-ngan-hang-vo-chong-bac-ninh-khien-ho-hang-mat-2-thua-dat-2579144.html",
+"summary": "Vay ngân hàng 700 triệu đồng nhưng mất khả năng trả nợ, cặp vợ chồng ở Bắc Ninh đồng ý để ngân hàng xử lý tài sản bảo đảm. Tuy nhiên, tài sản thế chấp lại là hai thửa đất thuộc quyền sử dụng của hai hộ gia đình họ hàng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/nut-giao-42-3834.jpg?width=0&s=On9I_Lz2YULrV6HHzIC4mQ",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-27T05:50:00+07:00",
+"found": "2026-11-27T06:04:13+07:00"
+},
+{
+"id": "daf30f9e6428",
+"title": "29 ngân hàng giảm ròng 3.722 nhân sự, riêng Sacombank giảm 4.291 người",
+"link": "https://vietnamnet.vn/nhieu-ngan-hang-lon-giam-nhan-su-sacombank-dan-dau-2578741.html",
+"summary": "Nhiều ngân hàng lớn giảm nhân sự trong 9 tháng đầu năm, trong đó 3 ngân hàng quốc doanh là BIDV, Vietcombank và VietinBank. Sacombank tiếp tục dẫn đầu về số nhân sự bị cắt giảm sau nỗ lực tái cấu trúc của ngân hàng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/nhieu-ngan-hang-lon-giam-nhan-su-sacombank-dan-dau-2738.jpg?width=0&s=YY0u8qCilxJJwSdhzgJK5Q",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-27T05:50:00+07:00",
+"found": "2026-11-27T06:04:13+07:00"
+},
+{
 "id": "75daafc51c94",
 "title": "Giám đốc hợp tác xã tiên phong trồng quế, giúp bà con Huổi Pinh thoát nghèo",
 "link": "https://vietnamnet.vn/giam-doc-hop-tac-xa-tien-phong-trong-que-giup-huoi-pinh-thoat-ngheo-2578807.html",
@@ -257,6 +334,17 @@
 "found": "2026-11-27T05:33:43+07:00"
 },
 {
+"id": "d8d96917f123",
+"title": "Bí thư xã livestream bán sầu riêng",
+"link": "https://vnexpress.net/bi-thu-xa-livestream-ban-sau-rieng-5129301.html",
+"summary": "Từ những phiên livestream thu hút hàng trăm nghìn lượt xem, Bí thư Đảng ủy xã Ea Knuếc Ngô Thị Minh Trinh tìm cách đưa nông sản địa phương đến những thị trường rộng lớn hơn.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/z6940368744518-a34daf9c9098e91-2485-7976-1795732594.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zeX5svL9pkwX8tes0yh8VA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-27T05:30:00+07:00",
+"found": "2026-11-27T06:04:13+07:00"
+},
+{
 "id": "7f20c4ef2dd5",
 "title": "TP.HCM sắp thông xe loạt công trình giao thông lớn, có Vành đai 3, nút giao An Phú",
 "link": "https://thanhnien.vn/tphcm-sap-thong-xe-loat-cong-trinh-giao-thong-lon-co-vanh-dai-3-nut-giao-an-phu-185261126165741066.htm",
@@ -288,7 +376,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T05:20:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-27T05:49:02+07:00"
 },
 {
@@ -369,7 +457,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T05:10:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-27T05:49:02+07:00"
 },
 {
@@ -437,7 +525,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T05:00:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-27T05:15:46+07:00"
 },
 {
@@ -474,6 +562,18 @@
 "published": "2026-11-27T04:40:00+07:00",
 "traffic": "100+",
 "found": "2026-11-27T05:15:46+07:00"
+},
+{
+"id": "96d6b3f6e1f1",
+"title": "luật đất đai",
+"link": "https://vnexpress.net/thi-truong-chung-cu-thay-doi-ra-sao-khi-can-ho-duoc-cho-thue-luu-tru-5148644.html",
+"summary": "Thị trường chung cư thay đổi ra sao khi căn hộ được cho thuê lưu trú? (VnExpress)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcloZMtVFhpQ_M7MHL5SLhpju6N_qM2WdAj-6LQB4fB1oDtk1uiaLOJINirs4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T04:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-27T06:04:13+07:00"
 },
 {
 "id": "8fa6fd625ae6",
@@ -10875,6 +10975,17 @@
 "cat": "mxh",
 "published": "2026-11-26T07:00:00+07:00",
 "found": "2026-11-26T22:34:30+07:00"
+},
+{
+"id": "9f20f80d1eda",
+"title": "Hùng phát hiện bí mật của bố | Căn nhà không mái che | Tập 16",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDUFdWM0NkcjRGOTYtNWtMeENpOHdaQWtzM1g5RUNvMU5VenJkMnRPUkt4VWgyanEtd2plc19wQ2E?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T07:00:00+07:00",
+"found": "2026-11-25T10:17:50+07:00"
 },
 {
 "id": "ba1f096b4fca",
@@ -22138,17 +22249,6 @@
 "found": "2026-11-25T07:39:37+07:00"
 },
 {
-"id": "9f20f80d1eda",
-"title": "Hùng phát hiện bí mật của bố | Căn nhà không mái che | Tập 16",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDUFdWM0NkcjRGOTYtNWtMeENpOHdaQWtzM1g5RUNvMU5VenJkMnRPUkt4VWgyanEtd2plc19wQ2E?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T07:00:00+07:00",
-"found": "2026-11-25T10:17:50+07:00"
-},
-{
 "id": "28f8f0ede896",
 "title": "Toản làm chứng vạch mặt sự gian dối của Nguyệt | Căn nhà không mái che | Tập 17",
 "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAwLVl0MFV2bHhjbEdLYUtybmtSTzdfa2NOSUtzeThEamRwRER4N1ZfSHZBMU5XaEd0SXZQTV9MZ0Q?oc=5",
@@ -27990,106 +28090,6 @@
 "cat": "tc",
 "published": "2026-11-24T12:33:00+07:00",
 "found": "2026-11-24T14:20:22+07:00"
-},
-{
-"id": "809f441310eb",
-"title": "tử vi hôm nay",
-"link": "https://www.24h.com.vn/ban-tre-cuoc-song/tu-vi-12-con-giap-hom-nay-24-11-suu-binh-on-tuat-tien-bac-doi-dao-c64a1813566.html",
-"summary": "Tử vi 12 con giáp hôm nay 24/11: Sửu bình ổn, Tuất tiền bạc dồi dào (Tin tức 24h)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWS2pNaIEgvAjAEaTweNrPjTCmJiftO7nFePsoO2ZhVl_xUBhmuUfvEwfeovU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T12:30:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-24T12:54:43+07:00"
-},
-{
-"id": "6ce9eb34ed6a",
-"title": "39 điểm ngập do triều cường ở TP.HCM trước khi vận hành dự án ngăn triều 10.000 tỉ đồng",
-"link": "https://tuoitre.vn/39-diem-ngap-do-trieu-cuong-o-tphcm-truoc-khi-van-hanh-du-an-ngan-trieu-10000-ti-dong-100261124113120076.htm",
-"summary": "Theo cơ quan chức năng, hiện TP.HCM có 39 điểm ngập do triều cường, như Trần Xuân Soạn, Nguyễn Thị Thập... Nhiều người dân bày tỏ hy vọng sẽ sớm thoát cảnh ngập nước khi dự án ngăn triều 10.000 tỉ vận hành.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/trieu-cuong-edit-17954982001881965260271-0-101-1562-2600-crop-1795498275274678586381.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T12:27:00+07:00",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "7e3b6539d7cf",
-"title": "Sôi nổi tranh tài giải bơi biển tự do ở khu lấn biển Rạch Giá",
-"link": "https://tuoitre.vn/soi-noi-tranh-tai-giai-boi-bien-tu-do-o-khu-lan-bien-rach-gia-100261124114538717.htm",
-"summary": "An Giang khai mạc giải bơi biển và các trò chơi dân gian, góp phần quảng bá hình ảnh du lịch, đất và con người địa phương đến với du khách.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/mai2-17954953944452085827421-38-0-1748-2736-crop-1795495399494581370893.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T12:23:00+07:00",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "f483ea105995",
-"title": "Tổng Bí thư, Chủ tịch nước: Mỗi quyết sách cần tính tác động với con người, di sản, lợi ích lâu dài của Nhân dân",
-"link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-moi-quyet-sach-can-tinh-tac-dong-voi-con-nguoi-di-san-loi-ich-lau-dai-cua-nhan-dan-100261124113742169.htm",
-"summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh thành quả phát triển đất nước phải thể hiện ở chất lượng cuộc sống, nhân cách con người và những quan hệ xã hội tốt đẹp.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/a2-1795493701448869414456-107-0-1707-2560-crop-1795495645369701674959.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T12:22:00+07:00",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "2f613916c5ab",
-"title": "Doanh nghiệp trước \"ma trận\" tư vấn xanh, số: Họ cần được hỗ trợ thực chiến",
-"link": "https://dantri.com.vn/kinh-doanh/doanh-nghiep-truoc-ma-tran-tu-van-xanh-so-ho-can-duoc-ho-tro-thuc-chien-20261123222144928.htm",
-"summary": "(Dân trí) - Thay vì nghe lý thuyết hay nâng cao nhận thức, phần lớn doanh nghiệp vừa và nhỏ Việt Nam đang loay hoay tìm đơn vị tư vấn đo phát thải chuẩn chỉnh và gói vốn xanh thực chất để duy trì đơn hàng.",
-"image": "https://cdnphoto.dantri.com.vn/_nWn6e_-RhmNEFc9mbildP3y4u4=/2026/11/23/green-and-digital-cropped-1795446350074.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-24T12:21:35+07:00",
-"found": "2026-11-24T12:54:43+07:00"
-},
-{
-"id": "f7b5ae3e227f",
-"title": "VIB dự kiến mua lại 9.000 tỷ đồng trái phiếu trong tháng 12",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzZTV25OcEprc1htc1pZZUE1bzVuaUdLSmItR3VxSEwzM3R1eTZqc3hGdjZSSHpXa0k1M3Z4alh4ekQ3MGNJVWEwWng1OTJmMUV1Q3pTS3JvNmF3R3Z1elo2WG1QYk5USXl2bUNhTGVCZkVjRmpGX2VTM0xTLTRTT0Q4R1VhSXZQdkxURUpoWVI2el9kR0xR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T12:18:00+07:00",
-"found": "2026-11-24T12:28:07+07:00"
-},
-{
-"id": "966f493053f0",
-"title": "Nguyên nhân vụ nổ làm 2 người chết, 11 người bị thương ở Hà Nội",
-"link": "https://tuoitre.vn/nguyen-nhan-vu-no-lam-2-nguoi-chet-11-nguoi-bi-thuong-o-ha-noi-100261124100400984.htm",
-"summary": "Theo Công an TP Hà Nội, nguyên nhân ban đầu của vụ nổ nghi do nổ khí gas gây sập đổ một phần nhà 1 tầng phía sau nhà tập thể E4. Cơ quan chức năng đã đưa 11 người bị thương đến bệnh viện, 2 người đã tử vong bàn giao cho lực lượng y tế.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/5-17954892649942027556513-159-0-3939-6048-crop-17954892748161362489459.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T12:18:00+07:00",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "44f949ac9389",
-"title": "Hai thanh niên nghi say xỉn tông đại úy cảnh sát Hà Nội nhập viện",
-"link": "https://vietnamnet.vn/hai-thanh-nien-nghi-say-xin-tong-dai-uy-canh-sat-ha-noi-nhap-vien-2578080.html",
-"summary": "Hai thanh niên nghi say xỉn, không đội mũ bảo hiểm, phóng xe máy tông trúng đại úy cảnh sát cơ động Hà Nội, khiến cán bộ này bị đa chấn thương, phải nhập viện cấp cứu. Hiện sức khỏe của đại úy đã ổn định.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/hai-thanh-nien-nghi-say-xin-tong-dai-uy-canh-sat-ha-noi-nhap-vien-3723.jpg?width=0&s=g6DRHvo0O2RSJVMfeFpp3Q",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T12:15:07+07:00",
-"found": "2026-11-24T11:04:27+07:00"
-},
-{
-"id": "da39229d5209",
-"title": "Sacombank kết hợp giải pháp bảo hiểm và đặc quyền tài chính",
-"link": "https://tuoitre.vn/sacombank-ket-hop-giai-phap-bao-hiem-va-dac-quyen-tai-chinh-100261124112344516.htm",
-"summary": "Không chỉ cung cấp các sản phẩm bảo hiểm, Sacombank kết hợp giải pháp bảo vệ tài chính với những ưu đãi trong giao dịch ngân hàng, hướng đến đáp ứng nhu cầu của khách hàng ở nhiều giai đoạn cuộc sống.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/avatcbctcbcno-text-1795494010120332594895-0-0-1108-1772-crop-1795494086816255201881.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-24T12:15:00+07:00",
-"found": "2026-11-24T13:34:29+07:00"
 }
 ]
 }
