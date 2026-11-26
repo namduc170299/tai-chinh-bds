@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T13:52:11+07:00",
-"new": 14,
+"updated": "2026-11-26T14:07:21+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 23
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,72 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "26b24366bf83",
+"title": "Một cổ phiếu ngân hàng tăng mạnh ngược chiều thị trường, có lúc tăng kịch trần",
+"link": "https://cafef.vn/mot-co-phieu-ngan-hang-tang-manh-nguoc-chieu-thi-truong-co-luc-tang-kich-tran-188261126135028399.chn",
+"summary": "Trước đó, cổ phiếu này cũng tím trần phiên 25/11 với thanh khoản tăng mạnh.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1691392340078-16913923409221502932675-1795675711814637198991-0-0-398-637-crop-1795675726380505802043.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-26T14:00:00+07:00",
+"found": "2026-11-26T14:07:21+07:00"
+},
+{
+"id": "05872272bafb",
+"title": "Shilla Monogram Hanoi Westlake chính thức mở cửa đón khách",
+"link": "https://vietnamnet.vn/shilla-monogram-hanoi-westlake-chinh-thuc-mo-cua-don-khach-2578882.html",
+"summary": "Đi vào hoạt động từ ngày 23/10/2026 tại khu đô thị Starlake (phường Xuân Đỉnh, Hà Nội), Shilla Monogram Hanoi Westlake cung cấp 319 phòng nghỉ, 5 không gian ẩm thực cùng tổ hợp hội nghị và tiện ích nghỉ dưỡng đạt chuẩn vận hành của The Shilla.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/shilla-monogram-hanoi-westlake-chinh-thuc-mo-cua-don-khach-1463.jpg?width=0&s=-VTiaq5z1TiDaeQPSP5NzA",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-26T14:00:00+07:00",
+"found": "2026-11-26T14:07:21+07:00"
+},
+{
+"id": "46116441258e",
+"title": "OECD công bố báo cáo quan trọng về thị trường vốn Việt Nam",
+"link": "https://cafef.vn/oecd-cong-bo-bao-cao-quan-trong-ve-thi-truong-von-viet-nam-188261126135404353.chn",
+"summary": "Tại phiên khai mạc, ông Carmine Di Noia, Giám đốc Vụ Tài chính và Doanh nghiệp của OECD đã trình bày những kết quả đánh giá và khuyến nghị chính của Báo cáo Đánh giá thị trường vốn Việt Nam của OECD năm 2026.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/images-34-1795676029979489607957.jpeg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-26T13:55:00+07:00",
+"found": "2026-11-26T14:07:21+07:00"
+},
+{
+"id": "d207d61fb5a6",
+"title": "Tăng trưởng và lạm phát của Mỹ đều nóng, áp lực tăng lãi suất đối với Fed càng lớn",
+"link": "https://vneconomy.vn/tang-truong-va-lam-phat-cua-my-deu-nong-ap-luc-tang-lai-suat-doi-voi-fed-cang-lon.htm",
+"summary": "Dữ liệu thống kê mới công bố cho thấy cả tăng trưởng kinh tế và lạm phát của Mỹ đều tăng tốc, cho thấy áp lực gia tăng đối với Cục Dự trữ Liên bang Mỹ (Fed) trong vấn đề thắt chặt chính sách tiền tệ để kiềm chế sự leo thang của giá cả...",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/26/d0e453d0fa544ba482c85a44ab105b23-138821.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-26T13:53:57+07:00",
+"found": "2026-11-26T14:07:21+07:00"
+},
+{
+"id": "ff1bc01b33c0",
+"title": "Giá vàng tăng trở lại, chênh lệch mua - bán 5 triệu/lượng",
+"link": "https://thanhnien.vn/gia-vang-tang-tro-lai-chenh-lech-mua-ban-5-trieu-luong-185261126084531133.htm",
+"summary": "Sau khi đi ngang đầu ngày hôm nay 26.11, giá vàng miếng SJC có nhịp tăng 400.000 đồng/lượng. Giá vàng trong nước đang cao hơn giá vàng thế giới quy đổi 20 - 22 triệu đồng/lượng, tùy thương hiệu.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/base64-1795657499267357746420-81-0-842-1217-crop-1795657507327304548375.jpeg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-26T13:52:00+07:00",
+"found": "2026-11-26T14:07:21+07:00"
+},
+{
+"id": "800b4b15f1a0",
+"title": "Gắn tín dụng với chuẩn mực an toàn mới",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tTU9OSTJON0J0T1BiMDlWYlJEYktWWEVYazFhMmtUa18xdHQwWGR3SmZRZVdxMXVGRHF0SGk5cThmTWdMZFo2LWI5LVBtYTdzd2dxRkRXY1V2SUpDTVprb0lGUnRMLUJ1cmVsbExRbkJ2ZFJWZnl5Ylpubw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T13:51:23+07:00",
+"found": "2026-11-26T14:07:21+07:00"
+},
 {
 "id": "fa9c7b69bf58",
 "title": "BoK tăng lãi suất lên mức cao nhất trong hai năm để kiềm chế lạm phát",
@@ -420,6 +486,17 @@
 "cat": "xh",
 "published": "2026-11-26T13:29:00+07:00",
 "found": "2026-11-26T13:52:11+07:00"
+},
+{
+"id": "0a1cedebae94",
+"title": "BoK tăng lãi suất lên cao nhất trong hai năm để kiềm chế lạm phát",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaUs3YURDeEcwNHh1VjdhX2RCY3ZTa3hSVTBDZDNLX0FQVUw1a2hRRUVWX2o2RDlxY0ptanpyN0JfRzFuZDQ0Q0MyWGNDNEJlMUllc1B5UnFnMS1SZjM0ZXJqWEdBdVo0VldQWG1xZVR6WXR4cmtFYW0zTGhuRWF4UlNXQ0NFUU9xQW5lZDNpc2dpdW9NTVBRMzBUdFUzMmM?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T13:28:00+07:00",
+"found": "2026-11-26T14:07:21+07:00"
 },
 {
 "id": "7c7c745e8980",
@@ -838,7 +915,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T12:30:00+07:00",
-"traffic": "1000+",
+"traffic": "500+",
 "found": "2026-11-26T12:55:58+07:00"
 },
 {
@@ -1248,7 +1325,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T11:50:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-26T12:14:16+07:00"
 },
 {
@@ -28031,85 +28108,6 @@
 "published": "2026-11-23T19:50:00+07:00",
 "traffic": "500+",
 "found": "2026-11-23T20:12:56+07:00"
-},
-{
-"id": "86f4d2356b81",
-"title": "Điều kiện để thực hiện dự án nhà ở cho thuê tại Hà Nội",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd1JkV0FfQzVRVUhFVnlseGpHTjdKUUE1V3puSk9SbW9mZEx3YTFlamNNRTBVY0g4WmZqN2wtd3pPNXZqMFV6NVdjTU56THE5cFA4d3d5S3htUXZhaGhuTEw0NHdpR2l3NVAtWlJ6aHJZZzhUS1lSeGZKNWNPX3V5TmNnZ1I0ekdmUkN2bmU1WGM?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T19:48:48+07:00",
-"found": "2026-11-23T19:57:45+07:00"
-},
-{
-"id": "eff3bcfa093c",
-"title": "Hoàn thiện hạ tầng, kết nối giao thông Tam Trinh – Yên Duyên (Hà Nội)",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVUlUY0N1dWhVTDBZVTdqOUczaF9LNEtINVZLYXU0OFJLRi1hUWFfM2hldHRaVjM0OERJbHZDenpSTmhveDB5NzRqb1MzTG5kV0o1ZThVNy1GX0tXZG81cWhxLWo2ZTQ0bmJ2b3hnQ1Z4QUxtVGVqX0gxOGJkaWxJb2RiSThKeV9sR3JyY0p3MmNIN2lDR2hYaVdaTXJ0Zw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T19:46:00+07:00",
-"found": "2026-11-24T04:42:56+07:00"
-},
-{
-"id": "216fb48262e6",
-"title": "Điều gì đang bào mòn sức chống chịu của các ngân hàng?",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVGl0cU5yekh3MjZ4V0NOTzFIUGoyNUE0a3N1a2JfRGFTdXZWaDlzOWdRVW5DaDVwLWNzQlpGRHNKYVB0NEVmdXZCVjRjdHMyUjZKRVVhSmxKaW8xaUVaRUlFUFdjeTFNY2pRZHdEX29tZzA4MXppdTFpMGVHSy1FQU9NYzgxOG9xenpqLTctcw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T19:46:00+07:00",
-"found": "2026-11-24T21:15:06+07:00"
-},
-{
-"id": "bd3418f9b823",
-"title": "Người đàn ông bị phát hiện trộm túi xách của phụ nữ đang ngủ ở Bệnh viện Bạch Mai",
-"link": "https://vietnamnet.vn/bi-phat-hien-khi-trom-tui-xach-cua-phu-nu-dang-ngu-o-benh-vien-bach-mai-2577942.html",
-"summary": "Phát hiện Thành lấy trộm túi xách của người phụ nữ đang ngủ tại hành lang Bệnh viện Bạch Mai (Hà Nội), lực lượng bảo vệ đã báo Công an để phối hợp bắt giữ.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/nguoi-dan-ong-bi-phat-hien-trom-tui-xach-cua-phu-nu-dang-ngu-o-benh-vien-bach-mai-2416.png?width=0&s=NWNvACttI11Dv5hYWYgZqw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-23T19:45:51+07:00",
-"found": "2026-11-23T19:57:45+07:00"
-},
-{
-"id": "75d26fa7189f",
-"title": "u17 wc",
-"link": "https://dantri.com.vn/the-thao/xem-truc-tiep-tran-u17-viet-nam-gap-u17-new-zealand-o-dau-20261123132208292.htm",
-"summary": "Xem trực tiếp trận U17 Việt Nam gặp U17 New Zealand ở đâu? (Báo Dân trí)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzW1lbi4Uz0x3Lj2pRZ58tdx0IN-SAjEoqzlpkto-WeeinI1wvNButRW7oQE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T19:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-23T19:57:45+07:00"
-},
-{
-"id": "cc3cedc6f87b",
-"title": "tro choi",
-"link": "https://dantri.com.vn/cong-nghe/hieu-pc-canh-bao-rui-ro-tu-cac-tro-choi-di-chua-nha-tu-online-20261123004218660.htm",
-"summary": "Hiếu PC cảnh báo rủi ro từ các trò chơi “Đi chùa”, “Nhà tù” online (Báo Dân trí)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3nBlSOq7d3mdfIWiYoCfoakCieMKKRFX_GyJncfWOYbYjDALfn6HC2L1cN34",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T19:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-23T19:57:45+07:00"
-},
-{
-"id": "ab4c6fa1ffee",
-"title": "Đồng Tháp điều chỉnh quy hoạch giao thông, hình thành trục động lực kết nối Cao Lãnh - Gò Công",
-"link": "https://tuoitre.vn/dong-thap-dieu-chinh-quy-hoach-giao-thong-hinh-thanh-truc-dong-luc-ket-noi-cao-lanh-go-cong-100261123184007419.htm",
-"summary": "Ngoài tuyến đường dọc sông Tiền và một số tuyến đường tỉnh khác, sắp tới tỉnh Đồng Tháp sẽ có thêm một trục đường nối từ Cao Lãnh đến vùng Gò Công.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/tinh-17954332865122049346576-0-0-1010-1616-crop-17954334563781597417703.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T19:39:00+07:00",
-"found": "2026-11-23T19:57:45+07:00"
 }
 ]
 }
