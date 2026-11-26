@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T11:23:34+07:00",
-"new": 16,
+"updated": "2026-11-26T11:43:55+07:00",
+"new": 22,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 55
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,171 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "8cf76cbffee7",
+"title": "Bị phạt nồng độ cồn, người đàn ông ở TPHCM xúc phạm CSGT trên mạng",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3hETWhhbWdwd2ZWdzluMHpNeTNmMFl3TlRxRmptZnNtWEszNXBqZ214a0Z3dVRDYWVhSkVWQ3hOdk1uN2UxV2cwVWFGN1RYQkJQMkpJNHNqR1dSZTI5aWFTOUpBNksteGFuOE55Y3FnLWN2dzRFYVhZS3dxT1dqd24yc2o3dHZqRU0xZENHNTJJaTV0U1hlLW05Q1hkUi1TQ3dIY25rbTh2X0V4MEtqblhOUWtzd0ZkeEFV?oc=5",
+"summary": "Nguồn: Báo Dân trí",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T11:40:37+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "a5033f19ac5e",
+"title": "Nước chảy cuồn cuộn trên đường ở đảo Lý Sơn sau mưa lớn",
+"link": "https://vietnamnet.vn/nuoc-chay-cuon-cuon-tren-duong-o-dao-ly-son-sau-mua-lon-2578796.html",
+"summary": "Mưa lớn kéo dài khiến một số tuyến đường và khu dân cư thấp trũng tại đặc khu Lý Sơn (Quảng Ngãi) bị ngập, nhiều nơi nước chảy xiết. Chính quyền địa phương khuyến cáo người dân hạn chế đi qua khu vực nguy hiểm.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/nuoc-chay-cuon-cuon-tren-duong-o-dao-ly-son-sau-mua-lon-1158.gif?width=0&s=uCTCA6jA_7slYFV3blmhUg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-26T11:36:51+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "4955bc849fca",
+"title": "Chiêu lừa 'suất nội bộ' nhà ở xã hội tái diễn ở nhiều địa phương",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnF0OUhaR3RyenRtZW5xbnFteHQ2ekNibzZjU2R3ZEhTT042T2F4NXFOZTlSdkdsSG9hUXVKeU5KU2xhZ21kZUs0X2F6TlljNlhINjRIMDRrS3ktaWVVMDhwdTdoZGtVN1JrYVNJZVVoSU8tX1c3eXJicm1YdVhkUXVDRmJUUjdoTEdrMDVzbXd6VTBNb3lVZEhjcw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T11:35:00+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "880c06bb3a2f",
+"title": "Thanh khoản ngân hàng cải thiện, dự báo chi phí vốn vẫn chưa thể sớm hạ nhiệt",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOFRhMjZvYzJMcHhuNWZyM1B2UTQ0T1ZDY3poeVgybGdONC1IR2JTZG9sWEVuVWw1YXktUHU5RkNqVGk2U2ExR3F1cEEwVk1QbmEybnVhSG01Zjh2YVhjdUV1bnN2blRwV0xNYWhERTdhRlJkYXVZc1YyS1Z2RUxHRnp4Z0JYRHZIeW9lTjlqcEtQOGo1eTZ4aWFOM1pnQnUxQndtUTdPVzBIRUZ6OGc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T11:34:00+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "2a017d70f133",
+"title": "Gỡ nút thắt vốn cho doanh nghiệp",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzbWdxV3dsTXVnQ2E1TEhsNHoyX0pCSDRUejR2TDRFRnJySXJDQzhDako5TUdNdWJDUUktbTByWnNSR2RibDBqU1ltZFYxMmRNMGs1UTBvc055c1pMa05HRmFxV3libUdnUjlfQms2QjJCYVk?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T11:34:00+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "a7222ff5bf8d",
+"title": "USD vẫn lao dốc dù kỳ vọng Fed tăng lãi suất dâng cao, vì sao?",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2RHYmd4WDRyaWtodzdvRjBXNU1Bc1ZWc0F6UkszOFAxS2FIMFFGTy1qLW5yajNWa2JJYWJhRExHa2VuMHg4SUs3WTVmRWdmckowTGdSTGhET0xPNlY3bDl1U1p4UERZRTJuMG9RM05CVkJtWURoeVlVbEFsZENTRGJVQThnWUdXMjRMMTJSTXpMdmJQVzc0cw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T11:30:25+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "01c985b48fa4",
+"title": "Dân mạng \"sấy khô\" chiêu trò livestream lừa dối của pháp sư Trung Quốc",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOblVFTGRwZ1RqZW81ZGlFVVp6d09zTGpVMDYxNEY5ckVQZEpSSnpFc3ZsVDVNM2toa1VkQlFNVDE5M2w1dE5EZW4yenRBQ0ptTXRHaUJtMHl2ektUUUIzYUZvX1R6SVJZdUR0ZE81Q0ZZSHA5MGp5Tkx6bG1lV3R6WUg4b3R1cHRIYlFJNGZnRTRDZVF4WEpRdGhYczdtN0phMEhGaUhQMk9TZFprMFE?oc=5",
+"summary": "Nguồn: Kenh14.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T11:30:00+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "cc8f19f1ca26",
+"title": "Đà Nẵng lại đối mặt đợt mưa lớn, dự báo có nơi trên 450 mm",
+"link": "https://thanhnien.vn/da-nang-lai-doi-mat-dot-mua-lon-du-bao-co-noi-tren-450-mm-185261126103802934.htm",
+"summary": "Theo dự báo, sau khi mưa có xu hướng giảm trong ngày 26 - 27.11, thành phố Đà Nẵng sẽ đón đợt mưa lớn từ chiều tối 27 - 30.11, tổng lượng mưa phổ biến 150 - 350 mm, có nơi vượt 450 mm, tiềm ẩn nguy cơ lũ quét, sạt lở đất và ngập úng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/1-17956642208751847630719-0-0-549-878-crop-17956643777781179429512.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T11:28:00+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "9468aba8ded9",
+"title": "Sáng 26/11: Giá bạc thế giới tiếp đà suy giảm",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYXdwQlQ2Ykx3dEg4VTk3SE5venNQRnQ2M3Q2RFpOaEI5X1duNjlqbUg5UkE0cnJxZ043V0RfSTltc0t2MENGWmQ5UHA0WXhGRmkwd2V6Y0l2WU1Vb2lRRkpZb0Z2M25hODBsQnNKaFZSUmxFdGtxRDdkZFNlR01CdmJfOA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T11:27:00+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "7c29a15ea54e",
+"title": "Thứ trưởng Nguyễn Đức Chi: Khả năng thu hút vốn quốc tế không chỉ phụ thuộc vào quy mô thị trường",
+"link": "https://vneconomy.vn/thu-truong-nguyen-duc-chi-kha-nang-thu-hut-von-quoc-te-khong-chi-phu-thuoc-vao-quy-mo-thi-truong.htm",
+"summary": "Khả năng thu hút dòng vốn quốc tế không chỉ phụ thuộc vào cơ hội đầu tư quy mô thị trường mà còn được quyết định bởi độ minh bạch, trách nhiệm giải trình và mức độ bảo vệ quyền lợi của các nhà đầu tư. Đây chính là những yếu tố để dòng vốn quốc tế không chỉ tìm đến mà còn sẵn…",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/26/ea4227b514634f78abd8c58595de50f6-138789.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-26T11:25:24+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "9e4147aada7c",
+"title": "Tài chính PNJ trong tình trạng khẩn cấp: Ngân hàng nào là chủ nợ lớn nhất?",
+"link": "https://cafef.vn/tai-chinh-pnj-trong-tinh-trang-khan-cap-ngan-hang-nao-la-chu-no-lon-nhat-18826112611260398.chn",
+"summary": "Theo lãnh đạo PNJ, các đối tác tín dụng vẫn đang hỗ trợ doanh nghiệp đáo hạn các khoản vay. PNJ cũng đang tiếp tục đàm phán để được tăng hạn mức tín dụng, song việc thu xếp nguồn vốn phải đi đôi với cải thiện hiệu quả hoạt động kinh doanh, thay vì chỉ trông chờ vào vốn vay.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/ac918e366858abd214a9b675b07d97d6-1790738539248458571018-0-53-675-1133-crop-17907385457361894019571-17956670969291382908915.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-26T11:25:00+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "4b88c12c8f11",
+"title": "Tăng bộ đệm tài chính, Afiex lên kế hoạch huy động 350 tỷ đồng - Tạp chí Nhà Quản Trị - TheLEADER",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWhWRDJ0eGt6NUEwOWpLTG5vYng2aENnWnp3aU92Y204dlF5ZEU2WGdpcjJKRzZFT2RLekE4RERtSVJabzJjNzVRRXZMcng2VzZyN3RrWEc3blhqVEwtbF9ka2UtdVF3YUJMSW1QdFltLVpna0xrUzQ1RkpJLWVvTXU3NVI3QU5WUG5jYXBXcm1DTl9hcGNhQXB3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T11:24:00+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "5d2ad5257f69",
+"title": "Lương Thế Thành gặp khó với các vai diễn mới",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZWoxWUsyeEs5X29tQmJ4ZXZNLWpaUXJSYXRFQnVBdTF0RU0wdkJEU0wtWjlKSmk4a21EUFFKNkU5Nm1VSG8xZG90VUc2Q1U1RW5WdDJvV1daai14Q3RXSEgtMXJma2otNV9kN0k4NU9JY0JhQ2htbEFld240SnNYMGY4T3dnb0l2RUtpNl9rRFplclJlUkk4YVNWWUhLbVBJQkE?oc=5",
+"summary": "Nguồn: Tạp chí Saostar",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T11:23:50+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "9c1e2d87c7b6",
+"title": "Giá hàng A giảm, lợi nhuận mỗi ha sầu riêng còn 369 triệu đồng",
+"link": "https://dantri.com.vn/kinh-doanh/gia-hang-a-giam-loi-nhuan-moi-ha-sau-rieng-con-369-trieu-dong-20261126104947035.htm",
+"summary": "(Dân trí) - Diện tích và sản lượng sầu riêng tăng nhanh nhưng giá hàng loại A liên tục đi xuống khiến lợi nhuận mỗi ha trồng sầu riêng giảm theo.",
+"image": "https://cdnphoto.dantri.com.vn/cq9Ega6QWb9RDNd_L51UCqIgqt4=/2026/11/25/anh-1-1908-1795600992097.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-26T11:23:33+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "79c24e9db735",
+"title": "Đất sử dụng sai mục đích đã đăng ký biến động, người dân có những quyền gì?",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEszenFqc1EtaExmaXUzVUhoZXNSVzVNZ0lTa1Nva05MSkdVbGNMNEhRMEc3YW54ZURJWFU4NnFSeXZ2QlhvOW9GNTcxekJBSWo3LTBRM09ILXNfNDVqV1BTUHNQMXZQVnF3SWt1M2xSSGtpOVRtMW0wWXlHZ3pXeFZQVmRSRlFjTXdmbXlZOWtGV0VHaFVFY3R2NE44QTBoNV9QLTJnOGJKdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T11:23:00+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
 "id": "9fe531efb246",
 "title": "Ngày hội kết nối và tiêu thụ sản phẩm Hà Tĩnh đạt doanh thu gần 2 tỷ đồng",
 "link": "https://vietnamnet.vn/ngay-hoi-ket-noi-va-tieu-thu-san-pham-ha-tinh-dat-doanh-thu-gan-2-ty-dong-2578836.html",
@@ -222,6 +387,18 @@
 "cat": "tc",
 "published": "2026-11-26T11:21:38+07:00",
 "found": "2026-11-26T11:23:34+07:00"
+},
+{
+"id": "be793f1a33a1",
+"title": "sân bay long thành",
+"link": "https://dantri.com.vn/thoi-su/tinh-the-hien-tai-cua-san-bay-long-thanh-20261125235932860.htm",
+"summary": "Tình thế hiện tại của sân bay Long Thành (Báo Dân trí)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqIzak16uOmbr6YWHPX5zNb4rSigCm4UKPNbgHF6flYU-QyEaiOF7LEgHmxoM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T11:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-26T11:43:55+07:00"
 },
 {
 "id": "9e151d795af2",
@@ -244,6 +421,17 @@
 "cat": "tc",
 "published": "2026-11-26T11:19:00+07:00",
 "found": "2026-11-26T11:23:34+07:00"
+},
+{
+"id": "16720592a51e",
+"title": "Tăng tốc khu tái định cư Hợp Thành",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45QjZ4MDY0VE9iMlVUT0JNLU0xelpjTXdMQXhJNVNleDBMQW94UmZLVFNzWFBSd3d4ODc4VURtTWkxNWZ4REJHY3RpRWVHYUVqTWhTQ3hxOTcyVGo4bTZiUXRCekx6dmRiUnVVUkNiZGUwVnBOUUE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T11:18:05+07:00",
+"found": "2026-11-26T11:43:55+07:00"
 },
 {
 "id": "71111461f746",
@@ -321,6 +509,17 @@
 "cat": "xh",
 "published": "2026-11-26T11:07:00+07:00",
 "found": "2026-11-26T11:23:34+07:00"
+},
+{
+"id": "c6e4efeb67d4",
+"title": "Nhà ở riêng lẻ dưới 7 tầng ở TPHCM được miễn phép xây dựng từ 30/11",
+"link": "https://dantri.com.vn/bat-dong-san/nha-o-rieng-le-duoi-7-tang-o-tphcm-duoc-mien-phep-xay-dung-tu-3011-20261126105711621.htm",
+"summary": "(Dân trí) - Từ ngày 30/11, nhà ở riêng lẻ dưới 7 tầng, tổng diện tích sàn dưới 500m2 ở TPHCM, thuộc khu vực đáp ứng điều kiện quy hoạch sẽ được miễn giấy phép xây dựng và được xây tối đa một tầng hầm.",
+"image": "https://cdnphoto.dantri.com.vn/C8-mswNdnaccDpawA3rn6tiER0Q=/2026/11/26/bds-4-1723884335694-1795665331728.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-26T11:05:11+07:00",
+"found": "2026-11-26T11:43:55+07:00"
 },
 {
 "id": "eff98273f494",
@@ -420,6 +619,17 @@
 "cat": "tc",
 "published": "2026-11-26T10:59:00+07:00",
 "found": "2026-11-26T11:08:24+07:00"
+},
+{
+"id": "a05891e9c760",
+"title": "Cà phê rớt giá còn 15.000 đồng một kg",
+"link": "https://vnexpress.net/ca-phe-rot-gia-con-15-000-dong-mot-kg-5148632.html",
+"summary": "Được mùa nhưng giá cà phê giảm sâu khiến nông dân tại các vùng trồng mất 25-30% doanh thu, khi giá thu mua cà phê tươi xuống còn 15.000 đồng một kg.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/wm1-wm1-ca-phe-1795590900-2133-1795591549.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oP6AT6Gj3_cjgjei7ktonw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-26T10:56:07+07:00",
+"found": "2026-11-26T11:43:55+07:00"
 },
 {
 "id": "508bc5857b92",
@@ -574,6 +784,17 @@
 "cat": "xh",
 "published": "2026-11-26T10:33:00+07:00",
 "found": "2026-11-26T10:53:10+07:00"
+},
+{
+"id": "468d25ac9013",
+"title": "Giá vàng thế giới tăng trở lại",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GTVhrRTN0LURacm9iSW03ajlpWmkxVUJjRnBEM29YNElrb1lFOXVLSlBoNktaMFpYUENLcjR1NmNZLXpyYTNNSFdWNTFfd1ltSjJvUjJnRE8ydTJSY01XLUszWGVsYmZPSmZ6N2FYUHA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T10:32:07+07:00",
+"found": "2026-11-26T11:43:55+07:00"
 },
 {
 "id": "dc6a4181ac45",
@@ -797,6 +1018,17 @@
 "cat": "bds",
 "published": "2026-11-26T10:19:27+07:00",
 "found": "2026-11-26T10:37:55+07:00"
+},
+{
+"id": "6014d89d742e",
+"title": "Xuyên không thành cô giáo tiểu học, Iroha's Love Runs Across Eras gây sốt nhờ \"bùng binh\" tình yêu 7 người",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZi04OEd4elA1T09GSDUxQXAtV1dLNXNRY3FUX2pUZzJSWFBldlRYUHFLNTdRUEpCcGkyN0VZeUtDSkxMNlMxVEpDUnN5Qk44S1U0bU1mdV95eDZqcVEzcUNvSGZ4Uk5YMUNmdXlBeUtrVkNKd1k1TW82eXZUeDd2VEx3?oc=5",
+"summary": "Nguồn: VOH",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T10:19:27+07:00",
+"found": "2026-11-26T11:43:55+07:00"
 },
 {
 "id": "ef66ccd66971",
@@ -2520,17 +2752,6 @@
 "found": "2026-11-26T09:31:26+07:00"
 },
 {
-"id": "587d48761988",
-"title": "Thủ đoạn giăng bẫy người mua nhà ở xã hội, chiếm đoạt 150 tỷ đồng tại TPHCM",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcFpXTk4zSVVOdXZVSmFWVmpqMVZTX1JaMkd6TGFlRGY4Ul83QmZGWk92b2FoOEVzbEQ1QzRveno0cWtWd2hGRW1fM1ZhcjFDM0JQZmRaOTNqMWIycjF1cUJsU0FGd3pLbUJpYmVhakYxZHBTbXhxLXJJUEI1aDliX3dkd0hUWWZIcG9xOS11MVVTWU1STDJKT2ZlS3FxOVUtRlVrM21XOWJPaEk?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-26T07:52:47+07:00",
-"found": "2026-11-26T08:40:26+07:00"
-},
-{
 "id": "11fb648ac130",
 "title": "Mỹ đề xuất áp thuế bổ sung 35% với Việt Nam, vẫn còn cơ hội giảm thuế",
 "link": "https://thanhnien.vn/my-de-xuat-ap-thue-bo-sung-35-voi-viet-nam-van-con-co-hoi-giam-thue-185261126071324171.htm",
@@ -3090,6 +3311,17 @@
 "found": "2026-11-25T17:29:38+07:00"
 },
 {
+"id": "756ff30a1bc1",
+"title": "Trâm tỏ ra không vui khi thấy bà Phẩm quan tâm tới bố | Xóm nhỏ | Tập 17",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1SaG10ZEtlVmNKRHdwVHk0Q3ZkNThkSVpQNWx3R3BKMTdGR2pRTkN2bS1qTXJPd0gxdTlJdkdvTno?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T07:00:00+07:00",
+"found": "2026-11-25T14:20:47+07:00"
+},
+{
 "id": "ba1f096b4fca",
 "title": "Xe bồn biến đoạn đường vành đai thành biển lửa, 31 người chết",
 "link": "https://vnexpress.net/xe-bon-bien-doan-duong-vanh-dai-thanh-bien-lua-31-nguoi-chet-5148949.html",
@@ -3391,6 +3623,17 @@
 "cat": "xh",
 "published": "2026-11-26T06:04:00+07:00",
 "found": "2026-11-26T07:12:16+07:00"
+},
+{
+"id": "587d48761988",
+"title": "Thủ đoạn giăng bẫy người mua nhà ở xã hội, chiếm đoạt 150 tỷ đồng tại TPHCM",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcFpXTk4zSVVOdXZVSmFWVmpqMVZTX1JaMkd6TGFlRGY4Ul83QmZGWk92b2FoOEVzbEQ1QzRveno0cWtWd2hGRW1fM1ZhcjFDM0JQZmRaOTNqMWIycjF1cUJsU0FGd3pLbUJpYmVhakYxZHBTbXhxLXJJUEI1aDliX3dkd0hUWWZIcG9xOS11MVVTWU1STDJKT2ZlS3FxOVUtRlVrM21XOWJPaEk?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T06:03:00+07:00",
+"found": "2026-11-26T08:40:26+07:00"
 },
 {
 "id": "0d05dee8729d",
@@ -9897,6 +10140,17 @@
 "found": "2026-11-25T14:20:47+07:00"
 },
 {
+"id": "c09d672e1d4e",
+"title": "Bắt 37 đối tượng lừa đảo mua nhà ở xã hội ở TPHCM, chiếm đoạt 150 tỷ đồng",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjlrcF93NGY3M2JQV3M0N0oxVnB1b3kzTlJvbldxZEJNREkyblJhN3dsenZKcU5aRldfcDJwR3ZFX2xxb0NieVBYX24weXE4ZmZPUXlqaGotWnNrcmhPS2hVcHplSFE4WFRpQ01VLVBMNlZLRzlTSEQzMmttZU92ZDVXTjRCd2ZPeDEwY3hsWXdpamd0cHlVM3BnM3AwQUJmNldQYzMtZHc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-25T13:47:00+07:00",
+"found": "2026-11-26T11:43:55+07:00"
+},
+{
 "id": "2ba4a6361b18",
 "title": "Cấp bách ngăn thiếu điện - Kỳ 1: Chỉ 5% dự án vận hành, lo nhiều nguồn điện lớn 'lỡ hẹn'",
 "link": "https://tuoitre.vn/cap-bach-ngan-thieu-dien-ky-1-chi-5-du-an-van-hanh-lo-nhieu-nguon-dien-lon-lo-hen-100261125093332606.htm",
@@ -14398,17 +14652,6 @@
 "cat": "xh",
 "published": "2026-11-25T07:00:00+07:00",
 "found": "2026-11-25T08:20:48+07:00"
-},
-{
-"id": "756ff30a1bc1",
-"title": "Trâm tỏ ra không vui khi thấy bà Phẩm quan tâm tới bố | Xóm nhỏ | Tập 17",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1SaG10ZEtlVmNKRHdwVHk0Q3ZkNThkSVpQNWx3R3BKMTdGR2pRTkN2bS1qTXJPd0gxdTlJdkdvTno?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T07:00:00+07:00",
-"found": "2026-11-25T14:20:47+07:00"
 },
 {
 "id": "93b054f3741d",
@@ -27862,249 +28105,6 @@
 "cat": "tc",
 "published": "2026-11-23T17:39:00+07:00",
 "found": "2026-11-24T00:43:24+07:00"
-},
-{
-"id": "2a263ef25566",
-"title": "Thêm 7 thành viên tham gia Trung tâm Tài chính Quốc tế Việt Nam tại TP.HCM",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlBVZ2hIUm9UT1ZJU0pZc2lmdEM0TjVib1NxOUltT2FfT3BIbTg2eHl3d01Dd3FRb3VtLWRWb2pfaE0xUk82WkNUZm90QjBNSkpZTDlvNG1qY29idHhlaUhsWG9PUW4xTG9CZUtjMW9vdmJFMVBpZFNseThqQnlSbUN1aHNVcEszR3k3XzV1NmdUbjJzcWNndVd5Z1p4eTVwNGNrdUN0UzQ3dzA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:38:00+07:00",
-"found": "2026-11-24T02:51:58+07:00"
-},
-{
-"id": "e454f90f2cd6",
-"title": "Công ty hàng không 6.000 tỷ của FLC liên tục thay tên, đổi trụ sở",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdFZmcDV0aGs0UjcwWUlITkRiNi14YXBtNlBvYXhjckRfYi1zZ1Zxc19iY3dYNU1ndmVZa252cWZQYkVZcXhkQVpvc2hMeWpiNlRZZ0ktRW9YMXRUSUxIbHBHSEN2enNqZnBGTGduMnp2dE5PelBlbGoySjNubUVEcHprZUh3Y3pYc2tyT1VqU2xjT1ZwaWxqY3ZOWGU2UQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:37:00+07:00",
-"found": "2026-11-23T17:43:01+07:00"
-},
-{
-"id": "bd2b8b47a8d4",
-"title": "TP.HCM chuẩn bị cơ chế phát triển đô thị khoa học, công nghệ",
-"link": "https://tuoitre.vn/tphcm-chuan-bi-co-che-phat-trien-do-thi-khoa-hoc-cong-nghe-100261123161533524.htm",
-"summary": "Chiều 23-11, Ban Nghiên cứu phát triển TP.HCM (Thành ủy TP.HCM) tổ chức tọa đàm phát triển mô hình đô thị khoa học, công nghệ và đổi mới sáng tạo trên địa bàn TP.HCM.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/ong-vo-van-minh-pb-02-17954245651321019521632-1795430721574141011657-134-686-1203-2396-crop-17954307519691702068093.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-23T17:37:00+07:00",
-"found": "2026-11-23T18:09:08+07:00"
-},
-{
-"id": "1e1cb9e94dc5",
-"title": "Đồng Nai duyệt dự án hơn 9.000 tỉ đồng kết nối cầu Cát Lái với cao tốc Bến Lức - Long Thành",
-"link": "https://tuoitre.vn/dong-nai-duyet-du-an-hon-9000-ti-dong-ket-noi-cau-cat-lai-voi-cao-toc-ben-luc-long-thanh-100261123164430228.htm",
-"summary": "Đồng Nai vừa phê duyệt dự án thành phần hơn 9.000 tỉ đồng đầu tư xây dựng đường kết nối từ cầu Cát Lái đến cao tốc Bến Lức - Long Thành.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/cau-cat-lai-1-1769696141483381020288-0-0-1432-2291-crop-1795426933558888615818.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T17:36:00+07:00",
-"found": "2026-11-23T18:41:51+07:00"
-},
-{
-"id": "cea8c86b957c",
-"title": "Đề xuất 'khoán' chỉ tiêu điện mặt trời mái nhà cho địa phương",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnJMbXNVZkU4d25qQXNsYUJfczlsbFBhV01WUXdubE5ZTzZxX2E1Ykcyc0EzWG1DY2pfS2JKWDBUcGpid0wwWG1CaW5WOWVDZVEzcVJRd29nbVlWLWdDQjJVc1F2TFY2UXJEaHBFcEZNNC1RM1ByUTA2REM5bHBMN3I0YlFqNzhMZzNnVDFzVXZQb2lSYlNz?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:36:00+07:00",
-"found": "2026-11-24T03:07:58+07:00"
-},
-{
-"id": "1116f5236187",
-"title": "T&T Group làm khu đô thị 50 ha tại Lạng Sơn, dự kiến có hơn 3.300 căn nhà",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDl4czZUbWppdmZLZmR2UHo0Yy10dFpaV3RaTHIwdF8tamkwZW5HUEpMeG9rS1h0U0dzVjFVdDBXb0ZEWmpHTlhfZkRwSWpwUUx2TFlISEdYYU5ERUY1SGtFSEtRakNRdGJKU2l3cnZKMzZnMzctZjhqSlF0cmNXRW85dTA5NE5NcFB2a2FNZEtUS01POWdqUk5Rd0VHNU5DOWJjZkJmRWw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T17:35:00+07:00",
-"found": "2026-11-23T17:43:01+07:00"
-},
-{
-"id": "f7a1da17880a",
-"title": "Hàng giá rẻ Trung Quốc ồ ạt vào thị trường Anh",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSzFwbTBiQXAyUTRxaU05ZlI3ZEJEQUhuZU01c21BWHpha0k5QWZXdHpqemhseEs4TXhSb1JjY0tCTUdxNms3VjZyRy1sSjhMV1U2cVYydzRhOS10ckF3cjBDODFTb0NJYV83b2w2Uk1FTm1NUnpFTVM3dFJLSERuQWJYUk9UQQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:35:00+07:00",
-"found": "2026-11-23T17:43:01+07:00"
-},
-{
-"id": "6e7ff151036a",
-"title": "Tổng thu du lịch TP.HCM 'về đích', chính thức vượt mục tiêu năm",
-"link": "https://tuoitre.vn/tong-thu-du-lich-tphcm-ve-dich-chinh-thuc-vuot-muc-tieu-nam-100261123161005748.htm",
-"summary": "Tổng thu du lịch TP.HCM trong 11 tháng năm 2026 đạt 330.416 tỉ đồng, tăng gần 30% so với cùng kỳ và vượt 416 tỉ đồng so với chỉ tiêu cả năm.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/qdi7734-17954242754311854128865-106-510-1237-2320-crop-1795430353945783243050-17-27-1131-1810-crop-1795430364584830066610.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-23T17:35:00+07:00",
-"found": "2026-11-23T18:09:08+07:00"
-},
-{
-"id": "8abb7a74102b",
-"title": "Mellow Six: Một năm định hình bản sắc qua nghệ thuật, mỹ vị và kết giao",
-"link": "https://dantri.com.vn/bat-dong-san/mellow-six-mot-nam-dinh-hinh-ban-sac-qua-nghe-thuat-my-vi-va-ket-giao-20261123172226072.htm",
-"summary": "(Dân trí) - Qua một năm định hình bản sắc Social Art Bar, Mellow Six tiếp tục mở rộng câu chuyện về nghệ thuật sống với một hành trình được kể qua hai điểm hẹn của mỹ vị và nghệ thuật.",
-"image": "https://cdnphoto.dantri.com.vn/t-xoTlTGOin0pDtIORz_qVnC-sE=/2026/11/23/1-tac-pham-cua-hoa-si-nguyen-tu-nghiem-va-tran-luu-hau-tai-khong-gian-mellow-six-1795428855590.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-23T17:31:57+07:00",
-"found": "2026-11-23T17:53:57+07:00"
-},
-{
-"id": "f4b2838ad510",
-"title": "Giá xăng giảm mạnh, Hà Nội yêu cầu giảm giá cước vận tải",
-"link": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-manh-ha-noi-yeu-cau-giam-gia-cuoc-van-tai-20261123171033713.htm",
-"summary": "(Dân trí) - Sở Xây dựng Hà Nội yêu cầu các doanh nghiệp vận tải rà soát chi phí, điều chỉnh giảm giá cước tương ứng với mức giảm của giá nhiên liệu, bảo đảm quyền lợi hành khách.",
-"image": "https://cdnphoto.dantri.com.vn/IucFpZg71tbybR5suCh4TWW9NB4=/2026/03/20/lit-bo-xay-dung-ra-ngay-chi-dao-1773976967666.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-23T17:31:14+07:00",
-"found": "2026-11-23T18:09:08+07:00"
-},
-{
-"id": "1470c4c45afa",
-"title": "Luật Tài nguyên, môi trường biển và hải đảo sửa đổi có điểm gì mới?",
-"link": "https://tuoitre.vn/luat-tai-nguyen-moi-truong-bien-va-hai-dao-sua-doi-co-diem-gi-moi-100261123164659728.htm",
-"summary": "Một trong những điểm mới nổi bật của Luật Tài nguyên, môi trường biển và hải đảo sửa đổi là quy định về quản lý, sử dụng không gian biển.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/dao-nam-du-17954267247491518932258-115-65-1650-2521-crop-17954270332901143662309.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T17:31:00+07:00",
-"found": "2026-11-23T18:41:51+07:00"
-},
-{
-"id": "b7576fb27a76",
-"title": "USD tiếp tục suy yếu khi khả năng Fed tăng lãi suất 50 điểm bị loại trừ",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzJ3RmV3S2RkN0ItZjJWWlA0S0c5V29ZNjZLWHhiTFJQZDhSb1ktcTNsZkxiMzg5Yl9wdGVJOVBQZ2hybjhWMndWZ0tLTWtnTG5vb05mWlJMZ19NdlN3M3pQLVlMRTJ2VVgtcmpPUFFuXzNodng2Yjh0UklFY0dMY2VPQUtKMFpzWkZBanB2T0tETDNzX3dqcFJESXRHNEJvREw5UzIwbw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:30:44+07:00",
-"found": "2026-11-23T17:43:01+07:00"
-},
-{
-"id": "81ff46252d0d",
-"title": "7 trực thăng cùng UAV luyện bay chuẩn bị triển lãm quốc phòng",
-"link": "https://vnexpress.net/7-truc-thang-cung-uav-luyen-bay-chuan-bi-trien-lam-quoc-phong-5148093.html",
-"summary": "Đội hình trực thăng kéo cờ cùng máy bay không người lái (UAV) bay qua Gia Lâm, chuẩn bị cho lễ khai mạc Triển lãm Quốc phòng quốc tế 2026.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/23/keoco-1795421274-4886-1795421281.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=rA2LdX5EzUl5KwJr1HO__w&t=image",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-23T17:30:08+07:00",
-"found": "2026-11-24T06:30:01+07:00"
-},
-{
-"id": "c90d5bc0c644",
-"title": "xspy",
-"link": "https://vtcnews.vn/xspy-23-11-ket-qua-xo-so-phu-yen-hom-nay-23-11-2026-ar1053067.html",
-"summary": "XSPY 23/11 - Kết quả xổ số Phú Yên hôm nay 23/11/2026 (VTC News)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc3ohUxzWQW6CzWcORTROqeBuRkzSuD1Rnz9-UaLeV7md0tazCJLWN8gf_R6c",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T17:30:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-23T18:09:08+07:00"
-},
-{
-"id": "a6b3fbdf4f53",
-"title": "Pu Nhi phát huy nội lực xây dựng đời sống mới",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMy1kTGFMSFEyX1JTRXhQOVNnU0FNMGNxeUQ4WVlVZjY1SGRXcmFQc3J2cm1Udk9JWWhWUDd4QkpfOThZRE1YaFJBLTlaLTdyemJwanpsbXMzTWZqd2wtQlp6dUdGbUF6TDloTlpYNnZweFNRMElES2d1ektuUGhzYnctcTE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:29:00+07:00",
-"found": "2026-11-24T04:27:23+07:00"
-},
-{
-"id": "478911b72848",
-"title": "Huế siết kiểm soát hình ảnh tuyên truyền do AI tạo ra",
-"link": "https://tuoitre.vn/hue-siet-kiem-soat-hinh-anh-tuyen-truyen-do-ai-tao-ra-100261123162835084.htm",
-"summary": "Sở Văn hóa, Thể thao và Du lịch TP Huế yêu cầu các cơ quan, đơn vị kiểm tra kỹ hình ảnh do AI tạo ra trước khi sử dụng, sau khi xuất hiện pano tuyên truyền có hình ảnh di tích bị sai lệch so với thực tế.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/edit-quang-cao-ai-1795425813851299149229-0-52-1169-1922-crop-1795425909257908676714.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T17:27:00+07:00",
-"found": "2026-11-23T17:43:01+07:00"
-},
-{
-"id": "ce4d1a9f65db",
-"title": "Áp thuế đất bỏ hoang: Hết thời 'ôm đất' chờ tăng giá?",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNEVLTUFCS3FXaUQtQlAtdmdlYTlBVHlVZVA5YXRhUHlUQjNOSEZ3RWZFSnktX1h5bGgyRk44S1BSSEJYNEoxQTBUcVlnZ2F5V3RZS2s5QXczUTJWWENwNUs1d3ctQWlpQUtXN1ZNMkF6SDFxWlRDWXgzalRnUEdWMlc3SThqeWpmMUE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T17:26:00+07:00",
-"found": "2026-11-23T17:43:01+07:00"
-},
-{
-"id": "862d5148d803",
-"title": "AI giúp nhân viên làm nhanh hơn, vì sao doanh nghiệp vẫn vận hành ì ạch?",
-"link": "https://tuoitre.vn/ai-giup-nhan-vien-lam-nhanh-hon-vi-sao-doanh-nghiep-van-van-hanh-i-ach-100261123155446385.htm",
-"summary": "Hơn 81% doanh nghiệp thừa nhận AI giúp tiết kiệm thời gian cho nhân sự, nhưng thực tế chỉ 6,3% ghi nhận hiệu quả tài chính rõ rệt.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/nhan-vien-cong-nghe-ai-dthien-17954239760241537496803-177-0-1777-2560-crop-1795424036293116039374.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-23T17:26:00+07:00",
-"found": "2026-11-23T18:09:08+07:00"
-},
-{
-"id": "0053d6ed1b8d",
-"title": "Đừng để 'giờ cao su' trở thành văn hóa doanh nghiệp Việt",
-"link": "https://thanhnien.vn/dung-de-gio-cao-su-tro-thanh-van-hoa-doanh-nghiep-viet-185261123164117446.htm",
-"summary": "Một người đến họp muộn 30 phút, 20 đồng nghiệp phải chờ đợi, đồng nghĩa 10 giờ công bị lãng phí. Nhưng đằng sau chuyện đúng giờ hay trễ giờ không đơn thuần là câu chuyện ý thức cá nhân, mà còn phản ánh văn hóa, tính kỷ luật và mức độ chuyên nghiệp của doanh nghiệp.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/tnw-ba-tu-thi-loan-17954261756331478694789-0-0-1600-2560-crop-17954266357111163312435.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-23T17:25:00+07:00",
-"found": "2026-11-23T17:26:38+07:00"
-},
-{
-"id": "93663b2859b8",
-"title": "Trung ương Đoàn tôn vinh 100 nhà sáng tạo nội dung số trẻ",
-"link": "https://thanhnien.vn/trung-uong-doan-ton-vinh-100-nha-sang-tao-noi-dung-so-tre-185261123162233282.htm",
-"summary": "100 thanh niên được chọn từ 421 hồ sơ, không chỉ căn cứ vào số người theo dõi mà chú trọng chất lượng nội dung, giá trị giáo dục và đóng góp cho cộng đồng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/anh1-17954255877891375052499-0-0-1201-1922-crop-17954255933951321710472.jpg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-23T17:25:00+07:00",
-"found": "2026-11-23T17:26:38+07:00"
-},
-{
-"id": "076b51cfacf1",
-"title": "Sắp diễn ra hội thảo giáo dục 2026: Nhận diện vướng mắc, thực thi hiệu quả chính sách giáo dục",
-"link": "https://tuoitre.vn/sap-dien-ra-hoi-thao-giao-duc-2026-nhan-dien-vuong-mac-thuc-thi-hieu-qua-chinh-sach-giao-duc-100261123160712986.htm",
-"summary": "Ngày 27-11, Ủy ban Văn hóa và Xã hội sẽ phối hợp với các cơ quan liên quan tổ chức hội thảo giáo dục 2026 với chủ đề cơ chế, chính sách và nguồn lực thực hiện đột phá phát triển giáo dục và đào tạo.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/anhgd11-1795424282659720971224-0-85-808-1378-crop-17954243612061762374867.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T17:25:00+07:00",
-"found": "2026-11-23T17:43:01+07:00"
-},
-{
-"id": "bc2debfc61a5",
-"title": "Trái phiếu chính phủ trong cấu trúc huy động vốn dài hạn",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlNyVTJZTE5mVm1GZ0FBaXlUVzFITkxMRTVwZ3lqVE9pSGFZNXRqTHZqb3Y1ckhmZ1k0T2RHZS1aOEExNkZCcnkzWldxcnFIVk1nM3pvTFZaajF6M2ZUYTFqU0xjQWRFb1pVUDRfVW50bTAtYWRMX1BUYU1JaW12NllrMVdfcWx4OEMwZDdUdHhIaEE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:25:00+07:00",
-"found": "2026-11-23T18:57:28+07:00"
 }
 ]
 }
