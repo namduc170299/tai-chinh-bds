@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T06:19:25+07:00",
-"new": 8,
+"updated": "2026-11-27T06:33:24+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "af890ea5fead",
+"title": "Ma trận 'xuân dược': Mối nguy từ hàng trôi nổi",
+"link": "https://thanhnien.vn/ma-tran-xuan-duoc-moi-nguy-tu-hang-troi-noi-185261126205811439.htm",
+"summary": "Đằng sau những lời quảng cáo \"kích dục tức thì\" và các sản phẩm tăng cường sinh lý không rõ nguồn gốc là hàng loạt nguy cơ ngộ độc, đột quỵ, hoại tử dương vật và tổn thương vĩnh viễn.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/a1-17957011550171153770532-106-0-906-1280-crop-1795701483082787735734.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T06:20:00+07:00",
+"found": "2026-11-27T06:33:24+07:00"
+},
+{
 "id": "57ccea3bc03d",
 "title": "Chôn ngầm dưới đáy biển sâu tới 3m, tuyến cáp quang dài 2.500km liên Đông Nam Á vừa được khởi công tại Hồ Tràm",
 "link": "https://kenh14.vn/chon-ngam-duoi-day-bien-sau-toi-3m-tuyen-cap-quang-dai-2500km-lien-dong-nam-a-vua-duoc-khoi-cong-tai-ho-tram-215261126232801049.chn",
@@ -310,6 +321,17 @@
 "cat": "tc",
 "published": "2026-11-27T06:00:00+07:00",
 "found": "2026-11-27T06:19:25+07:00"
+},
+{
+"id": "6408c0d52c44",
+"title": "Làm rõ số phận 519 căn nhà không sổ tại CT6 Kiến Hưng của ông Lê Thanh Thản",
+"link": "https://dantri.com.vn/phap-luat/lam-ro-so-phan-519-can-nha-khong-so-tai-ct6-kien-hung-cua-ong-le-thanh-than-20261126221803002.htm",
+"summary": "(Dân trí) - HĐXX cho biết, dù biết rõ dự án CT6 Kiến Hưng sai quy hoạch, không đủ điều kiện cấp sổ hồng, ông Lê Thanh Thản vẫn cố ý che giấu sai phạm để khách hàng tin tưởng ký hợp đồng, thanh toán tiền mua nhà.",
+"image": "https://cdnphoto.dantri.com.vn/1kbhxkyiTwNZkaXLVNe0XO6fovQ=/2026/11/26/lethanhthanavar-1795706058137.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-27T05:57:00+07:00",
+"found": "2026-11-27T06:33:24+07:00"
 },
 {
 "id": "6e8e07f28d1f",
@@ -525,7 +547,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T05:10:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-27T05:33:43+07:00"
 },
 {
@@ -549,7 +571,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T05:10:00+07:00",
-"traffic": "2000+",
+"traffic": "1000+",
 "found": "2026-11-27T05:49:02+07:00"
 },
 {
@@ -28072,28 +28094,6 @@
 "cat": "xh",
 "published": "2026-11-24T12:47:00+07:00",
 "found": "2026-11-24T12:54:43+07:00"
-},
-{
-"id": "071a29671402",
-"title": "Biên phòng Quảng Ngãi tạm giữ 1.100 lít dầu DO không rõ nguồn gốc",
-"link": "https://thanhnien.vn/bien-phong-quang-ngai-tam-giu-1100-lit-dau-do-khong-ro-nguon-goc-185261124113042874.htm",
-"summary": "Kiểm tra kho chứa của một người dân tại khu vực Dung Quất (Quảng Ngãi), lực lượng biên phòng phát hiện 37 can nhựa chứa khoảng 1.100 lít dung dịch nghi là dầu DO không rõ nguồn gốc.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/img5722-1795493805251689042935-0-15-1125-1815-crop-17954940782471899335259.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-24T12:45:00+07:00",
-"found": "2026-11-24T12:54:43+07:00"
-},
-{
-"id": "3b79ce55b756",
-"title": "TP.HCM quảng bá du lịch trên CNN, Discovery..., mở rộng hình ảnh điểm đến",
-"link": "https://tuoitre.vn/tphcm-quang-ba-du-lich-tren-cnn-discovery-mo-rong-hinh-anh-diem-den-100261124114803956.htm",
-"summary": "Từ ngày 20-11 đến 20-12, hình ảnh du lịch TP.HCM xuất hiện trên CNN, Discovery và Asian Food Network tại khu vực châu Á - Thái Bình Dương, giới thiệu hành trình từ trung tâm đô thị, làng nghề đến các vùng biển và Côn Đảo.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/qdi7858-1795494372371880647671-67-0-1667-2560-crop-17954954185201080206723.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-24T12:44:00+07:00",
-"found": "2026-11-24T13:34:29+07:00"
 }
 ]
 }
