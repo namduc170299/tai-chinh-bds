@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T22:49:11+07:00",
-"new": 7,
+"updated": "2026-11-26T23:04:42+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 21
+"count": 22
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,28 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "0aafe00826b6",
+"title": "NÓNG: 1.000 người dân đầu tiên được tận mắt chứng kiến siêu dự án ngăn triều 10.000 tỷ đồng tại TP HCM",
+"link": "https://kenh14.vn/nong-1000-nguoi-dan-dau-tien-duoc-tan-mat-chung-kien-sieu-du-an-ngan-trieu-10000-ty-dong-tai-tp-hcm-215261126220355628.chn",
+"summary": "Ngay ngày mai, đại công trình giải quyết ngập do triều sẽ đón 1.000 người dân đến thăm quan.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795705076522-1795705076943234405101.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T22:52:00+07:00",
+"found": "2026-11-26T23:04:42+07:00"
+},
+{
+"id": "bbd77024fdc9",
+"title": "Phẫn nộ tài xế ô tô 35B-019.15 tông CSGT rồi bỏ chạy trên lối vào cao tốc",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWdKemhUNTItVjRkbDJoNnlfYUVFckR3RGlFbmtsdkVrSTY2cjF0MlpiWVdjdVpCVnkzRDNZTVd4U2E0bklsNzVMOEM3WW1sMTdxSEl0eVpjdFllcVBuT0E4QXdXT1lBaEE4MFZHY0hIcmNfRW52T0pWcVZ2dHl0VXU4SEZwT0pnZlpIc3BQZkd1UjlZMl9wclRlZEh6WFBSVTJGLWc5akpuZ00?oc=5",
+"summary": "Nguồn: VTC News",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T22:45:00+07:00",
+"found": "2026-11-26T23:04:42+07:00"
+},
 {
 "id": "6fce2d19640b",
 "title": "Tiêu dùng cuối năm tại TPHCM tăng tốc",
@@ -334,6 +356,17 @@
 "cat": "tc",
 "published": "2026-11-26T22:03:00+07:00",
 "found": "2026-11-26T22:18:56+07:00"
+},
+{
+"id": "41dd0027ebd5",
+"title": "Thủ tướng: Petrovietnam phải xác định tầm nhìn chiến lược dài hạn, khát vọng vươn tầm toàn cầu",
+"link": "https://tuoitre.vn/thu-tuong-petrovietnam-phai-xac-dinh-tam-nhin-chien-luoc-dai-han-khat-vong-vuon-tam-toan-cau-1002611262108014.htm",
+"summary": "Thủ tướng Lê Minh Hưng nhấn mạnh khi dự Chương trình kỷ niệm 65 năm Ngày truyền thống ngành dầu khí Việt Nam (27-11-1961 - 27-11-2026) do Tập đoàn Công nghiệp - Năng lượng Quốc gia Việt Nam (Petrovietnam) tổ chức tối 26-11.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/thu-tuong-1795705675810160726300-0-367-940-1870-crop-17957057116822028835848.png",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-26T22:02:00+07:00",
+"found": "2026-11-26T23:04:42+07:00"
 },
 {
 "id": "57bd3e6afdaa",
@@ -792,7 +825,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T20:40:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-26T22:49:11+07:00"
 },
 {
@@ -849,7 +882,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T20:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-26T20:47:54+07:00"
 },
 {
@@ -28031,41 +28064,6 @@
 "cat": "bds",
 "published": "2026-11-24T10:23:00+07:00",
 "found": "2026-11-24T10:25:40+07:00"
-},
-{
-"id": "f276c7117cae",
-"title": "Sức mạnh cộng hưởng giúp Việt Nam xóa lõm sóng thần tốc như thế nào?",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWS1DMXdJdk04M3ZRY0JhdnQxajRfQW5wcGRTemVUeHVaMFpNV0hPRGhCeXNaZC1KbllWVlJaY294N0ZEbGoyWmhTbHVqaUdiR1RwaFltZHN3dHFYaGhCZldiWlV0U3VBWVVaM01IRXZ6aWJZaG5qSUE5UXpaMEdfY0dWaUpvazduR1F6T3p1SnU5T3Nlb1Jld0JVcGNwZmpiM2c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T10:23:00+07:00",
-"found": "2026-11-24T10:34:03+07:00"
-},
-{
-"id": "7a3b1df26c2c",
-"title": "biệt thự",
-"link": "https://kenh14.vn/65-tuoi-toi-hoi-han-vi-doc-gan-2-ty-xay-biet-thu-3-tang-o-que-den-khi-nghi-huu-moi-hieu-dau-la-tai-san-dang-gia-nhat-215261123093628525.chn",
-"summary": "65 tuổi, tôi hối hận vì dốc gần 2 tỷ xây biệt thự 3 tầng ở quê: Đến khi nghỉ hưu mới hiểu đâu là tài sản đáng giá nhất (Kenh14.vn)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCA1op591oyuqUqkXrQhb7XROyBAXDGsMGQOyvnjPuvIf05Y_uB5DEq_LxDEY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T10:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "b0d1bf0802d9",
-"title": "thủ môn",
-"link": "https://tuoitre.vn/3-ban-thang-dep-va-qua-cam-cua-u17-viet-nam-vao-luoi-u17-new-zealand-100261124005833064.htm",
-"summary": "3 bàn thắng đẹp và quả cảm của U17 Việt Nam vào lưới U17 New Zealand (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgq25YLgLBKcspfhVrs9Ta4Lm1SHpKsXGwVQtMpIv6kZFY3K7FzSE9kV8AzEs",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T10:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-24T10:49:14+07:00"
 }
 ]
 }
