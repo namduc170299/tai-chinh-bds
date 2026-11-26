@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T08:55:37+07:00",
-"new": 8,
+"updated": "2026-11-26T09:10:47+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 56
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,83 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "ec34773783f3",
+"title": "Gốc như ‘túi tiền’, hoa rực rỡ: Cây sứ có ý nghĩa gì trong phong thủy?",
+"link": "https://vietnamnet.vn/goc-nhu-tui-tien-hoa-ruc-ro-cay-su-co-y-nghia-gi-trong-phong-thuy-2578633.html",
+"summary": "Không cần chăm bón cầu kỳ, không cần tưới nước thường xuyên, chỉ cần nắng và một chút kiên nhẫn, cây sứ sẽ nở hoa gần như quanh năm, mang lại sắc màu và sinh khí cho bất cứ không gian sống nào.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/goc-nhu-tui-tien-hoa-ruc-ro-cay-su-co-y-nghia-gi-trong-phong-thuy-445.png?width=0&s=cj5m6xesQQxAc_1zUAet-w",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-26T09:06:49+07:00",
+"found": "2026-11-26T09:10:47+07:00"
+},
+{
+"id": "78b84715d179",
+"title": "Đường sắt tiếp nhận lô đầu máy mới, tăng cường sức kéo phục vụ vận tải Tết",
+"link": "https://cafef.vn/duong-sat-tiep-nhan-lo-dau-may-moi-tang-cuong-suc-keo-phuc-vu-van-tai-tet-188261126084720816.chn",
+"summary": "Tập đoàn Đường sắt quốc gia Việt Nam (VNR) vừa tiếp nhận lô đầu máy diesel thế hệ mới D19E, bổ sung năng lực phục vụ trong dịp Tết Nguyên đán 2027.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795657337873-17956573383571656958991.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-26T09:05:00+07:00",
+"found": "2026-11-26T09:10:47+07:00"
+},
+{
+"id": "76358991963f",
+"title": "Góp sức tăng tốc kinh tế khu vực Nam Trung Bộ - Tây Nguyên",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmZtN0c3S3VveVV6VkhacE5FS0xRRTRtcDdsSEpMb0NDMWxhNDlFTkVaaU1GTHJheU5CYWprLVlqZlR4eGlUNGp1MmVXOFRvOGRpM0J1VTg0bkdkTVJYNmdEUlBGV0VtUHFkNF82QkwzaU9WZXgwdXZSSmJQbU1NTXNKMzcwZy1qLTVhZF91cGRWWlE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T09:00:18+07:00",
+"found": "2026-11-26T09:10:47+07:00"
+},
+{
+"id": "1ddeae4347d9",
+"title": "Thủ đoạn nhóm siêu lừa ‘bao đậu’ hồ sơ nhà xã hội, làm giả cả danh sách của Sở Xây dựng",
+"link": "https://vietnamnet.vn/tphcm-lua-dao-bao-dau-ho-so-nha-o-xa-hoi-chiem-doat-150-ty-2578603.html",
+"summary": "Mời chào mua nhà ở xã hội với suất nội bộ, suất ngoại giao… cam kết bao đậu hồ sơ, nhóm của Đinh Lê Hồng Quế (ở TPHCM) còn làm giả giấy tờ để lừa hơn 600 người, chiếm đoạt 150 tỷ đồng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/thu-doan-nhom-sieu-lua-bao-dau-ho-so-nha-xa-hoi-lam-gia-ca-danh-sach-cua-so-xay-dung-6732.png?width=0&s=fddPJbiXKmnyMqVtyelfcg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-26T08:59:27+07:00",
+"found": "2026-11-26T05:08:26+07:00"
+},
+{
+"id": "6720f87fb61e",
+"title": "Giá USD hôm nay 26.11.2026: Ngân hàng tăng 300 đồng chưa đầy 3 tuần",
+"link": "https://thanhnien.vn/gia-usd-hom-nay-26112026-ngan-hang-tang-300-dong-chua-day-3-tuan-18526112608442267.htm",
+"summary": "Giá USD tại các ngân hàng có xu hướng đi lên sau khi giảm xuống mức thấp nhất cách đây 3 tuần. Chênh lệch giữa giá mua và bán USD ở mức cao, từ 380 - 410 đồng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/edit-10-17914233464152096677506-27-0-1627-2560-crop-17956573683952142924518.jpeg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-26T08:59:00+07:00",
+"found": "2026-11-26T09:10:47+07:00"
+},
+{
+"id": "5ea15ca55a3f",
+"title": "Giá vàng hôm nay 26.11.2027: Dậm chân tại chỗ nhưng người mua sẽ lỗ ngay 6 triệu",
+"link": "https://thanhnien.vn/gia-vang-hom-nay-26112027-dam-chan-tai-cho-nhung-nguoi-mua-se-lo-ngay-6-trieu-185261126081456973.htm",
+"summary": "Giá vàng trong nước không thay đổi nhưng chênh lệch giá mua - bán vẫn ở mức kỷ lục khiến người mua lỗ ngay 6 triệu đồng một lượng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-vang-moi-cua-nt-167676591617461604106-17956570387791796397994-233-0-1483-2000-crop-1795657047138223748758.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-26T08:58:00+07:00",
+"found": "2026-11-26T09:10:47+07:00"
+},
+{
+"id": "802d3b868e68",
+"title": "Bộ Công Thương thông tin về mức thuế bổ sung Mỹ đề xuất áp với hàng Việt Nam",
+"link": "https://vietnamnet.vn/bo-cong-thuong-thong-tin-ve-muc-thue-bo-sung-my-de-xuat-ap-voi-hang-viet-nam-2578749.html",
+"summary": "Theo kết luận sơ bộ, USTR đề xuất mức thuế bổ sung tối đa có thể áp dụng đối với hàng hóa nhập khẩu từ Việt Nam là 35%. Mức thuế này có thể giảm còn 20% nếu hai nước đạt được Hiệp định thương mại đối ứng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/bo-cong-thuong-thong-tin-ve-muc-thue-bo-sung-my-de-xuat-ap-voi-hang-viet-nam-252.png?width=0&s=IOX5yG0mucEAQRUny5mifw",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-26T08:57:35+07:00",
+"found": "2026-11-26T07:58:43+07:00"
+},
+{
 "id": "618a6d50bf6f",
 "title": "Giá vàng hôm nay 26/11 đảo chiều tăng mạnh, bật hơn 150 USD/ounce từ đáy",
 "link": "https://vietnamnet.vn/gia-vang-hom-nay-26-11-dao-chieu-tang-manh-bat-hon-150-usd-ounce-tu-day-2578641.html",
@@ -220,8 +297,30 @@
 "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/ounce-tu-day-61.png?width=0&s=ZSayUqfhyRNdVlLI1zfW0g",
 "source": "VietnamNet",
 "cat": "tc",
-"published": "2026-11-26T08:50:13+07:00",
+"published": "2026-11-26T08:56:11+07:00",
 "found": "2026-11-26T05:08:26+07:00"
+},
+{
+"id": "931bdfea2f59",
+"title": "Trả lương cao vẫn 'đỏ mắt' tìm thợ xây ở TP.HCM",
+"link": "https://cafef.vn/tra-luong-cao-van-do-mat-tim-tho-xay-o-tphcm-188261126085121196.chn",
+"summary": "Thợ xây thu nhập tới 20 triệu đồng/tháng nhưng các nhà thầu vẫn trầy trật tìm người và vấn đề tăng lương chưa phải là lời giải gốc rễ cho bài toán nhân lực.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795657536621-17956575371571002974397.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-26T08:56:00+07:00",
+"found": "2026-11-26T09:10:47+07:00"
+},
+{
+"id": "d2309521f63d",
+"title": "Sân bay Long Thành nguy cơ ‘lỡ hẹn’, Phó Thủ tướng chỉ đạo khẩn trương gỡ vướng mắc",
+"link": "https://cafef.vn/san-bay-long-thanh-nguy-co-lo-hen-pho-thu-tuong-chi-dao-khan-truong-go-vuong-mac-188261126085620072.chn",
+"summary": "Dự án sân bay Long Thành giai đoạn 1 khó hoàn thành trong năm 2026 như kế hoạch. Phó Thủ tướng Thường trực Phạm Gia Túc yêu cầu khẩn trương tháo gỡ vướng mắc, làm rõ trách nhiệm và rà soát toàn bộ tiến độ, báo cáo Chính phủ trong thời hạn một tuần.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795657880986-17956578829661841827098.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-26T08:51:00+07:00",
+"found": "2026-11-26T09:10:47+07:00"
 },
 {
 "id": "5e4aaa272355",
@@ -354,6 +453,17 @@
 "cat": "tc",
 "published": "2026-11-26T08:33:00+07:00",
 "found": "2026-11-26T08:40:26+07:00"
+},
+{
+"id": "c158e8c0f3a0",
+"title": "Cách khử mùi ẩm mốc phòng tắm tận gốc theo chuyên gia nhà cửa",
+"link": "https://dantri.com.vn/bat-dong-san/cach-khu-mui-am-moc-phong-tam-tan-goc-theo-chuyen-gia-nha-cua-20261125161713219.htm",
+"summary": "(Dân trí) - Độ ẩm đọng lại sau mỗi lần tắm là thủ phạm gây mùi khó chịu. Vài mẹo đơn giản dưới đây sẽ giúp không gian vệ sinh nhà bạn luôn khô ráo, thơm tho suốt cả tuần.",
+"image": "https://cdnphoto.dantri.com.vn/aB7A0_Jb8FF8KqbqHKVhp14BpCI=/2026/11/25/bathroomsnap-cleaning-cropped-1795598037307.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-26T08:32:00+07:00",
+"found": "2026-11-26T09:10:47+07:00"
 },
 {
 "id": "98a2163524f1",
@@ -744,17 +854,6 @@
 "found": "2026-11-26T07:58:43+07:00"
 },
 {
-"id": "802d3b868e68",
-"title": "Bộ Công Thương thông tin về mức thuế bổ sung Mỹ đề xuất áp với hàng Việt Nam",
-"link": "https://vietnamnet.vn/bo-cong-thuong-thong-tin-ve-muc-thue-bo-sung-my-de-xuat-ap-voi-hang-viet-nam-2578749.html",
-"summary": "Theo kết luận sơ bộ, USTR đề xuất mức thuế bổ sung tối đa có thể áp dụng đối với hàng hóa nhập khẩu từ Việt Nam là 35%. Mức thuế này có thể giảm còn 20% nếu hai nước đạt được Hiệp định thương mại đối ứng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/bo-cong-thuong-thong-tin-ve-muc-thue-bo-sung-my-de-xuat-ap-voi-hang-viet-nam-252.png?width=0&s=IOX5yG0mucEAQRUny5mifw",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-26T07:49:20+07:00",
-"found": "2026-11-26T07:58:43+07:00"
-},
-{
 "id": "a1a57b9ccafc",
 "title": "Giá xăng dầu hôm nay 26/11: Thế giới tăng, trong nước chiều nay điều chỉnh",
 "link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-26-11-the-gioi-tang-trong-nuoc-dieu-chinh-2578750.html",
@@ -764,17 +863,6 @@
 "cat": "tc",
 "published": "2026-11-26T07:48:30+07:00",
 "found": "2026-11-26T07:58:43+07:00"
-},
-{
-"id": "1ddeae4347d9",
-"title": "Thủ đoạn nhóm siêu lừa ‘bao đậu’ hồ sơ nhà xã hội, làm giả cả danh sách của Sở Xây dựng",
-"link": "https://vietnamnet.vn/tphcm-lua-dao-bao-dau-ho-so-nha-o-xa-hoi-chiem-doat-150-ty-2578603.html",
-"summary": "Mời chào mua nhà ở xã hội với suất nội bộ, suất ngoại giao… cam kết bao đậu hồ sơ, nhóm của Đinh Lê Hồng Quế (ở TPHCM) còn làm giả giấy tờ để lừa hơn 600 người, chiếm đoạt 150 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/thu-doan-nhom-sieu-lua-bao-dau-ho-so-nha-xa-hoi-lam-gia-ca-danh-sach-cua-so-xay-dung-6732.png?width=0&s=fddPJbiXKmnyMqVtyelfcg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-26T07:45:36+07:00",
-"found": "2026-11-26T05:08:26+07:00"
 },
 {
 "id": "3b96c447dd29",
@@ -2564,6 +2652,17 @@
 "found": "2026-11-26T01:57:01+07:00"
 },
 {
+"id": "2c322c7acdc7",
+"title": "Tăng trưởng kinh tế Mỹ vượt kỳ vọng, Fed đối mặt áp lực lãi suất",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUEJmNjB5MGMzZ2NGdnJaTXp1bzlhVWZ5cTk5bFRkODlocHllalNrNDhSOC1EV242RHF1R0U0UjhmZHd2VGZjUjZicEVtY1lxWXZjcVdMcWZiYVZwMjMtS1ZmbXk5TUtuY0lrbmcwdW9nSjJkSE9jTGI3c18wOTF1SEZjS3EzT2NhQ3lPUTE0TWpaZE5hQVVIaEJjS1Y?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T00:32:00+07:00",
+"found": "2026-11-26T09:10:47+07:00"
+},
+{
 "id": "6306ca63ca17",
 "title": "barcelona – villarreal",
 "link": "https://www.latimes.com/espanol/deportes/articulo/2026-11-23/barcelona-marca-3-goles-en-10-minutos-y-vence-al-villarreal",
@@ -3806,6 +3905,17 @@
 "cat": "bds",
 "published": "2026-11-25T20:00:00+07:00",
 "found": "2026-11-25T21:06:14+07:00"
+},
+{
+"id": "b877cbdff000",
+"title": "Hạnh sững sờ khi thấy Toản đi cùng người phụ nữ khác | Căn nhà không mái che | Tập 21",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6NHU4bGpqQVpJX2VTYXFCT3VlVHNrNVhlOW5CbFRDNnJhbVQwS2RMY2dhYnNZMUxHSUF2clhSYXA?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-25T20:00:00+07:00",
+"found": "2026-11-26T00:39:11+07:00"
 },
 {
 "id": "1cd4c0e45810",
@@ -9414,17 +9524,6 @@
 "cat": "xh",
 "published": "2026-11-25T11:15:00+07:00",
 "found": "2026-11-25T12:14:36+07:00"
-},
-{
-"id": "b877cbdff000",
-"title": "Hạnh sững sờ khi thấy Toản đi cùng người phụ nữ khác | Căn nhà không mái che | Tập 21",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6NHU4bGpqQVpJX2VTYXFCT3VlVHNrNVhlOW5CbFRDNnJhbVQwS2RMY2dhYnNZMUxHSUF2clhSYXA?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T11:14:52+07:00",
-"found": "2026-11-26T00:39:11+07:00"
 },
 {
 "id": "05d5544feac5",
@@ -28007,105 +28106,6 @@
 "source": "Dân Trí",
 "cat": "tc",
 "published": "2026-11-23T14:41:51+07:00",
-"found": "2026-11-23T15:41:10+07:00"
-},
-{
-"id": "8cd21286aac1",
-"title": "Giá vàng hôm nay (chiều 23-11): Bật tăng mạnh trở lại",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2twTE9YZGYtcnMyMDJzWjZTVFBZYTI0ZXZoVFN0Q0xDR0lmWkUwVGRDVEpWcjhNM1Z3cVloTnczY09DX1F0Smw2dkFzdU1wZW40dnhTVnVXMXBNTGg1YjF5TWxXbmVyMlFCazc0MW5lTG5OTWlIQXhRcmJIU1ZvTlRlakUxbU91SFRZ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T14:40:00+07:00",
-"found": "2026-11-24T03:07:58+07:00"
-},
-{
-"id": "93c04ea80cb2",
-"title": "Vì sao người lao động tìm đến tín dụng đen?",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYV9CNzdIODZYcTZtM2tmaFpOY2E2dl8tM1Bsa1R1RTlVNzdBcEhkbVlHT2FnRlppZ2F1X09vX1dpdGFZLWNIckdjOGRTbDJVWlBGTnhUc2xPdHpfUW5VOGdIemlCX1VSc1VLYWtoVUJUYUJuRFEwclBHM0RSenRTaA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T14:40:00+07:00",
-"found": "2026-11-23T16:11:54+07:00"
-},
-{
-"id": "04ec914e2d41",
-"title": "[VIDEO] TPHCM mở mùa mua sắm Tết với hơn 5.000 điểm bán",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVExGdDZDejRQTFRmUTZmc1Q1eUlKcXk2RHpVLXM3RW4zVGRkMVYxMm0zMDY0alFUczNLZFZwaGFPNW9HSnk5eFBwMTJkd3JFMk1MOXZnX05VN2d4QVpaSVpfWElDUzZzWDdKa2IxTFlURUhnYmV6UEdTUmRkZlgtSzl3NXVYaEFTa21US2dzNA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T14:40:00+07:00",
-"found": "2026-11-24T03:23:28+07:00"
-},
-{
-"id": "331499e7ebe0",
-"title": "Heo hơi tăng giá gần 30% sau khi chạm đáy 3 năm",
-"link": "https://vnexpress.net/heo-hoi-tang-gia-gan-30-sau-khi-cham-day-3-nam-5148039.html",
-"summary": "Sau khi chạm đáy 3 năm, khoảng 43.000 đồng một kg hồi tháng 10, giá heo hơi tăng trở lại 49.000-56.000 đồng, nhưng người nuôi vẫn khó có lãi.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/wm1-wm1-screen-shot-at-pm-17954178-8801-4148-1795418244.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XZ89YmzYSxv7EM22Q2DxEA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-23T14:37:46+07:00",
-"found": "2026-11-23T15:41:10+07:00"
-},
-{
-"id": "6af08482840d",
-"title": "Trưởng ban Tổ chức Trung ương: Tránh phân nhiệm vụ cho cấp xã nhưng không ra việc",
-"link": "https://thanhnien.vn/truong-ban-to-chuc-trung-uong-tranh-phan-nhiem-vu-cho-cap-xa-nhung-khong-ra-viec-185261123133602714.htm",
-"summary": "Tiếp xúc cử tri tại Cần Thơ, Trưởng ban Tổ chức Trung ương Nguyễn Duy Ngọc mong muốn thành phố làm hiệu quả hơn công tác phân cấp, phân nhiệm vụ và xác định vị trí việc làm đúng chuẩn.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/tnw-anh-1-1795415239572692273228-83-0-1333-2000-crop-17954152482701407840763-1795415267498179485615.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T14:37:00+07:00",
-"found": "2026-11-23T14:48:29+07:00"
-},
-{
-"id": "711fb200a4c7",
-"title": "Hai nhà máy điện gió Hướng Linh dừng hoạt động: Quảng Trị chốt thời hạn tháo gỡ",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDdwYnRoSGlDTnlKQU9xUGJLNTMxYnFtMkJnY1RWbkprMWM4ZWFiZlp3NVJqd2VUbVhNQ2M3aEZ3VmpuQ1NpQ2UxYTZDUVpvQV9rYnRBVU5vSS1aZVo5VjI3RHdScW1ycDRRUjRhR0RYMVBJNmNNVXpSUG9qYmhhZFJ0amFfdm9rNGM5Zko0NGdiMHc4NFlSZ0trRFpWcjRtTkIzeFRrT204dTFoaERIMA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T14:35:00+07:00",
-"found": "2026-11-23T14:48:29+07:00"
-},
-{
-"id": "6a649528a708",
-"title": "Hai tài sản ở trung tâm TPHCM liên quan bà Trương Mỹ Lan hạ giá",
-"link": "https://dantri.com.vn/phap-luat/hai-tai-san-o-trung-tam-tphcm-lien-quan-ba-truong-my-lan-ha-gia-20261123130906457.htm",
-"summary": "(Dân trí) - Hai tài sản tại số 7 Hàm Nghi, khu vực trung tâm TPHCM, liên quan bà Trương Mỹ Lan được cơ quan thi hành án thông báo đấu giá lại với mức giá khởi điểm giảm so với lần trước.",
-"image": "https://cdnphoto.dantri.com.vn/cr1TJJMb8TmKpcTgCe8APlu-qyk=/2024/09/24/1-truong-my-lan-crop-1727166671153.jpeg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-23T14:34:56+07:00",
-"found": "2026-11-23T15:41:10+07:00"
-},
-{
-"id": "0db0ebcf6b2c",
-"title": "Chấm dứt xung đột lợi ích khi cho thuê lưu trú ngắn hạn trong chung cư",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWhTd2ZScDdtZ0toZFJqOTJQZ1hiUEZKZ1Q3blN5YjBscmxOTmNHQWR3cWpIQkN4WmNtVUZUeTMxY0ZIQURZQ3FCbG1IVkJnNHpUMXpwdlZJZ2RKZm41S1VLenZ3LXpoLWI1QnEzdWgxdmx4Qncyek9uOURjMFI0RFZCN0ZqOF84NndzeVVqZmo2WU1MeW1HeFpwVjdreW5PZzlrWmR3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T14:34:18+07:00",
-"found": "2026-11-23T14:48:29+07:00"
-},
-{
-"id": "0d6d9b1fb6c8",
-"title": "LPBank bổ nhiệm bà Vũ Nam Hương giữ chức Quyền Tổng Giám đốc",
-"link": "https://dantri.com.vn/kinh-doanh/lpbank-bo-nhiem-ba-vu-nam-huong-giu-chuc-quyen-tong-giam-doc-20261123143028014.htm",
-"summary": "(Dân trí) - LPBank công bố quyết định bổ nhiệm bà Vũ Nam Hương giữ chức Quyền Tổng Giám đốc từ ngày 23/11 nhằm kiện toàn đội ngũ lãnh đạo cấp cao, tiếp nối nền tảng tăng trưởng tích cực và chuẩn bị cho giai đoạn phát triển chiến lược 2026-2030.",
-"image": "https://cdnphoto.dantri.com.vn/xYNqPxfEoTD4qnVcijsX9YtRDkE=/2026/11/23/anh-1-lpbank-bo-nhiem-quyen-tong-giam-doc-1795418794331.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-23T14:33:48+07:00",
 "found": "2026-11-23T15:41:10+07:00"
 }
 ]
