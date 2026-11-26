@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T16:13:52+07:00",
-"new": 30,
+"updated": "2026-11-26T16:29:02+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 21
+"count": 50
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,72 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "80c0eff5e860",
+"title": "Blog chứng khoán “Vạ” đúng lúc",
+"link": "https://vneconomy.vn/blog-chung-khoan-va-dung-luc.htm",
+"summary": "Đợt bán tháo mạnh không quá khó đoán khi thông tin thuế quan đã loang ra từ đêm qua. Mặc dù đã có “kinh nghiệm” từ đợt thuế đối ứng tháng 4 năm ngoái, nhưng thị trường cầm chắc vẫn phản ứng tiêu cực.",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/26/bae1cd0d95c943f0b32bf7d3a4713495-138979.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-26T16:27:45+07:00",
+"found": "2026-11-26T16:29:02+07:00"
+},
+{
+"id": "0fcec2cbd4cb",
+"title": "Ngân hàng thanh lý loạt nhà, xe dính nợ xấu",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVWNucXRyMmNhZURhd2ttRTR4RFAySl9zb0FPZzE0SzkzeG5vVzV2R2tiS201bnJKX0Rpc2hLWjlNSkg1dXZDRFdCUVdRd1gtcGh3RzN6MFdTeUNmcTcxaEhiUXEySlVZcV9MVmt3RGRQWHNkT0EzWEZqODNoUzByVw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T16:25:00+07:00",
+"found": "2026-11-26T16:29:02+07:00"
+},
+{
+"id": "8d7916892012",
+"title": "TP.HCM hỗ trợ vé tàu, xe, máy bay về quê đón tết 2027: Đăng ký thế nào?",
+"link": "https://thanhnien.vn/tphcm-ho-tro-ve-tau-xe-may-bay-ve-que-don-tet-2027-dang-ky-the-nao-185261126160708285.htm",
+"summary": "TP.HCM dự kiến hỗ trợ 7.500 vé tàu, xe, máy bay cho người lao động về quê đón tết 2027. Ai đủ điều kiện và đăng ký thế nào?",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tang-ve-tet-1795683674195669997066-121-0-1721-2560-crop-17956839512181822019420.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T16:22:00+07:00",
+"found": "2026-11-26T16:29:02+07:00"
+},
+{
+"id": "168d0abbc5c3",
+"title": "Era City đón đầu không gian phát triển mới của Buôn Ma Thuột",
+"link": "https://vietnamnet.vn/era-city-don-dau-khong-gian-phat-trien-moi-cua-buon-ma-thuot-2578922.html",
+"summary": "Quy hoạch Buôn Ma Thuột đến năm 2050 mở ra không gian phát triển đô thị mới tại Đắk Lắk. Trong đó, khu vực phường Tân An có dự án nhà phố thương mại Era City.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/era-city-don-dau-khong-gian-phat-trien-moi-cua-buon-ma-thuot-1696.jpg?width=0&s=pQrfAZIadysRhbzMp2XOoQ",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-26T16:18:18+07:00",
+"found": "2026-11-26T16:13:52+07:00"
+},
+{
+"id": "746a6c25f55a",
+"title": "Novaland huy động hơn 4.000 công nhân ra công trường Aqua City",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeEFEb1dnMzNuemdiMmNEOFY0WEtZTXNFZDNHNkxPMWNNOXFhaDFSdWwycjFZR0tmSng3S2g5UHlxSE5YclJ1V1dWRGc5TXZaUklEMjRjbmN3MTV3MnpSa3JLWXBMUmxONGRNVWdxbHlZZkVDdXpYbjNnbi1ZMlVvZ19QdHlPN0V5b2J5cDJTbm9oQ1RQbzFNUFdUSQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T16:16:00+07:00",
+"found": "2026-11-26T16:29:02+07:00"
+},
+{
+"id": "7d7b0b71fe0a",
+"title": "Giá xăng dầu giảm lần thứ năm liên tiếp, E10 về sát 19.000 đồng/lít",
+"link": "https://kenh14.vn/gia-xang-dau-giam-lan-thu-nam-lien-tiep-e10-ve-sat-19000-dong-lit-21526112616135181.chn",
+"summary": "Trong kỳ điều hành chiều 26/11, giá xăng dầu cùng giảm lần thứ năm liên tiếp, riêng với giá xăng, đây là lần giảm thứ sáu liên tiếp từ đầu tháng 11 đến nay.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795684420298-1795684420675181146820.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T16:11:00+07:00",
+"found": "2026-11-26T16:29:02+07:00"
+},
+{
 "id": "cb48531b206a",
 "title": "Giá xăng dầu đồng loạt giảm, dầu diesel hạ tới hơn 1.300 đồng/lít",
 "link": "https://vietnamnet.vn/gia-xang-dau-dong-loat-giam-dau-diesel-ha-toi-hon-1-300-dong-lit-2578888.html",
@@ -233,6 +299,17 @@
 "cat": "bds",
 "published": "2026-11-26T16:08:00+07:00",
 "found": "2026-11-26T16:13:52+07:00"
+},
+{
+"id": "584ed06679f9",
+"title": "Thứ trưởng Công Thương nêu 2 hướng làm việc với Mỹ về đề xuất thuế tối đa 35%",
+"link": "https://dantri.com.vn/kinh-doanh/thu-truong-cong-thuong-neu-2-huong-lam-viec-voi-my-ve-de-xuat-thue-toi-da-35-20261126155446041.htm",
+"summary": "(Dân trí) - Thứ trưởng Bộ Công Thương cho biết Việt Nam sẽ tiếp tục cung cấp thông tin, phối hợp điều tra và đàm phán với Mỹ sau khi nước này đề xuất áp thuế bổ sung tối đa 35% với hàng Việt Nam.",
+"image": "https://cdnphoto.dantri.com.vn/SzhCdvdR0NtBBKHSlvOyjtOoBZU=/2026/11/22/cang-nam-dinh-vuthanh-dong-90-1790600189324-1795311407025.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-26T16:07:57+07:00",
+"found": "2026-11-26T16:29:02+07:00"
 },
 {
 "id": "5bd9c7f132e1",
@@ -279,17 +356,6 @@
 "found": "2026-11-26T16:13:52+07:00"
 },
 {
-"id": "168d0abbc5c3",
-"title": "Era City đón đầu không gian phát triển mới của Buôn Ma Thuột",
-"link": "https://vietnamnet.vn/era-city-don-dau-khong-gian-phat-trien-moi-cua-buon-ma-thuot-2578922.html",
-"summary": "Quy hoạch Buôn Ma Thuột đến năm 2050 mở ra không gian phát triển đô thị mới tại Đắk Lắk. Trong đó, khu vực phường Tân An có dự án nhà phố thương mại Era City.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/era-city-don-dau-khong-gian-phat-trien-moi-cua-buon-ma-thuot-1696.jpg?width=0&s=pQrfAZIadysRhbzMp2XOoQ",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-26T16:00:00+07:00",
-"found": "2026-11-26T16:13:52+07:00"
-},
-{
 "id": "25acc7892ad4",
 "title": "Shopee tạo đà bứt phá cho nhà bán Việt từ livestream và video ngắn",
 "link": "https://vietnamnet.vn/shopee-tao-da-but-pha-cho-nha-ban-viet-tu-livestream-va-video-ngan-2578962.html",
@@ -332,6 +398,18 @@
 "cat": "xh",
 "published": "2026-11-26T16:00:00+07:00",
 "found": "2026-11-26T16:13:52+07:00"
+},
+{
+"id": "b44596459dd8",
+"title": "vinhomes",
+"link": "https://dantri.com.vn/bat-dong-san/sieu-do-thi-the-thao-hon-9100ha-cua-vinhomes-tiep-tuc-doi-ten-20261126115317071.htm",
+"summary": "Siêu đô thị thể thao hơn 9.100ha của Vinhomes tiếp tục đổi tên (Báo Dân trí)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDmMCf1o9swIvXqlojES_3QiBfN7RzwxwA09L1mv_Ee0Rroeqbk74MmNmRY2w",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T16:00:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-26T16:29:02+07:00"
 },
 {
 "id": "4a26425ace22",
@@ -598,6 +676,17 @@
 "found": "2026-11-26T16:13:52+07:00"
 },
 {
+"id": "79c1282cc2c0",
+"title": "Dân mạng \"sấy khô\" chiêu trò livestream lừa dối của pháp sư Trung Quốc",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0E2cHg5YTlYYmcxV3ZWb2JhNmxlYUJmR1JkWW9xNGtBLXRGVmRJMk9Zclk3MFJLVDByMmhDSjdzY2pVR0J5LTlUTEFuUm9HY3JRcG5DeDlpZUNGclVfTW84bGpsRWNtTlFBWk5nZHZkVFoxREZpaVdwVmprSnRYZXVBbGkxT2Mxb2t0QlgwNkhkYWRFemVRTVJENUtSM2JpSTljQzlRWjZoTnBD?oc=5",
+"summary": "Nguồn: CafeF",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T15:33:00+07:00",
+"found": "2026-11-26T16:29:02+07:00"
+},
+{
 "id": "d0a88af907a7",
 "title": "Chứng khoán giảm gần 58 điểm",
 "link": "https://vnexpress.net/chung-khoan-giam-gan-58-diem-5149245.html",
@@ -685,6 +774,17 @@
 "published": "2026-11-26T15:30:00+07:00",
 "traffic": "1000+",
 "found": "2026-11-26T15:50:00+07:00"
+},
+{
+"id": "eaee22fcbca6",
+"title": "Bức tranh vẽ chân dung bé gái bị vùi trong đống phế liệu, dòng chữ phía sau lộ câu chuyện bất ngờ kéo dài 11 năm",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXhidlk1d3o3eHFJUEpPbFNjZGtOSFdsYklEeko4VEg3Z2hPTlVTU19uUkpuYTRpXzRmdkc4MWpjWUlFMEhPWTU1SkxYUlhvcEZ2UVhacGdPYnpMMlk4RFowRHB1T2ZocUZCRi1zVW5yRE00cF9ZSHAwcW12eEp4WG1VQXd2MTlLdWdQSWJNSzBHbDUxUENhRXg2YUVxSVdDVkZfN1Nwd0ZIdkJz?oc=5",
+"summary": "Nguồn: 2SAO",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T15:30:00+07:00",
+"found": "2026-11-26T16:29:02+07:00"
 },
 {
 "id": "cf2f5951c6a5",
@@ -1689,7 +1789,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T14:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-26T15:04:20+07:00"
 },
 {
@@ -3184,17 +3284,6 @@
 "source": "Báo Mới",
 "cat": "tc",
 "published": "2026-11-26T11:30:25+07:00",
-"found": "2026-11-26T11:43:55+07:00"
-},
-{
-"id": "01c985b48fa4",
-"title": "Dân mạng \"sấy khô\" chiêu trò livestream lừa dối của pháp sư Trung Quốc",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOblVFTGRwZ1RqZW81ZGlFVVp6d09zTGpVMDYxNEY5ckVQZEpSSnpFc3ZsVDVNM2toa1VkQlFNVDE5M2w1dE5EZW4yenRBQ0ptTXRHaUJtMHl2ektUUUIzYUZvX1R6SVJZdUR0ZE81Q0ZZSHA5MGp5Tkx6bG1lV3R6WUg4b3R1cHRIYlFJNGZnRTRDZVF4WEpRdGhYczdtN0phMEhGaUhQMk9TZFprMFE?oc=5",
-"summary": "Nguồn: Kenh14.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T11:30:00+07:00",
 "found": "2026-11-26T11:43:55+07:00"
 },
 {
@@ -27991,94 +28080,6 @@
 "cat": "tc",
 "published": "2026-11-24T00:04:00+07:00",
 "found": "2026-11-24T00:12:29+07:00"
-},
-{
-"id": "805cfe9efbae",
-"title": "Chuyên gia chỉ tên 3 nhóm cổ phiếu tiềm năng cho chu kỳ tăng trưởng mới",
-"link": "https://cafef.vn/chuyen-gia-chi-ten-3-nhom-co-phieu-tiem-nang-cho-chu-ky-tang-truong-moi-188261123124304278.chn",
-"summary": "Theo Tổng Giám đốc FIDT, đây là giai đoạn lựa chọn doanh nghiệp với tầm nhìn dài hạn, trong đó cơ hội tập trung vào hạ tầng, cảng biển – logistics và những doanh nghiệp có bước đột phá về đổi mới sáng tạo.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1772124118970-1772124119355876411293-1795412465960760941215-0-35-336-573-crop-17954124713381579067291.webp",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-24T00:03:00+07:00",
-"found": "2026-11-24T00:12:29+07:00"
-},
-{
-"id": "41e92dcbeec0",
-"title": "Hàng loạt chuỗi pizza tại Mỹ chật vật",
-"link": "https://vnexpress.net/hang-loat-chuoi-pizza-tai-my-chat-vat-5148115.html",
-"summary": "Nhiều chuỗi pizza lớn như Pizza Hut hay Domino’s Pizza chịu sức ép khi khách hàng giảm chi, có nhiều lựa chọn và quan tâm sức khỏe hơn.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/screenshot-1795424489-1629-1795424616.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=P8ODBMYOJGbjfNNI2jKLMg",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-24T00:03:00+07:00",
-"found": "2026-11-24T00:27:58+07:00"
-},
-{
-"id": "fe37bc5f9b7e",
-"title": "Công ty do ông Phạm Nhật Minh Hoàng điều hành \"chơi lớn\" tại Indonesia",
-"link": "https://cafef.vn/cong-ty-do-ong-pham-nhat-minh-hoang-dieu-hanh-choi-lon-tai-indonesia-188261123232510173.chn",
-"summary": "Sau hai năm hoạt động, Green SM tiếp tục đẩy mạnh các chương trình hỗ trợ khách hàng, mở rộng khả năng tiếp cận dịch vụ và từng bước đưa taxi thuần điện trở thành lựa chọn di chuyển phổ biến tại Indonesia.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/download-4-17954510549761143757410-7-0-1207-1920-crop-17954510583351503771613.jpeg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-24T00:02:00+07:00",
-"found": "2026-11-24T00:12:29+07:00"
-},
-{
-"id": "ab50498a9e11",
-"title": "Chứng khoán Việt Nam sau 3 thập kỷ: Kênh dẫn vốn hàng triệu tỷ đồng cho nền kinh tế",
-"link": "https://cafef.vn/chung-khoan-viet-nam-sau-3-thap-ky-kenh-dan-von-hang-trieu-ty-dong-cho-nen-kinh-te-188261123221347065.chn",
-"summary": "Thị trường chứng khoán Việt Nam đang đứng trước cơ hội chuyển mình từ một kênh đầu tư ngày càng sôi động thành một trụ cột quan trọng của hệ thống tài chính quốc gia.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795446735548-1795446736084654332499.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-24T00:01:00+07:00",
-"found": "2026-11-24T00:12:29+07:00"
-},
-{
-"id": "7b6e379517a6",
-"title": "Ngân hàng SCB có chủ tịch mới",
-"link": "https://vnexpress.net/ngan-hang-scb-co-chu-tich-moi-5148245.html",
-"summary": "Sau 4 năm làm Tổng giám đốc SCB, ông Phạm Quang Tiến được bổ nhiệm giữ chức Chủ tịch Hội đồng quản trị ngân hàng, thay ông Phạm Đình Điền.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/phamquangtienscb-1795445644-8047-1795445815.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6SdDfwOmSrfADNlzfUtdYA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-24T00:00:30+07:00",
-"found": "2026-11-23T22:56:53+07:00"
-},
-{
-"id": "00a201b465a5",
-"title": "17 km đường trên cao đầu tiên ở TP HCM sắp hoàn thành",
-"link": "https://vnexpress.net/17-km-duong-tren-cao-dau-tien-o-tp-hcm-sap-hoan-thanh-5148208.html",
-"summary": "Hơn 17 km Vành đai 3 trên cao dự kiến hoàn thành thi công cuối tháng 11, kết nối Tân Vạn với cao tốc TP HCM - Long Thành - Dầu Giây, mở thêm hướng tới sân bay Long Thành.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/6-1795437503-8621-1795437598.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Zdap818xjYFBrr1rCX1rAQ",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-24T00:00:00+07:00",
-"found": "2026-11-24T00:12:29+07:00"
-},
-{
-"id": "665678b4ab73",
-"title": "Tòa bác đơn kiện Bệnh viện Phụ sản Hà Nội của sản phụ mất hai con",
-"link": "https://vnexpress.net/toa-bac-don-kien-benh-vien-phu-san-ha-noi-cua-san-phu-mat-hai-con-5147837.html",
-"summary": "Viện dẫn kết luận của hội đồng chuyên môn, TAND khu vực 2 xác định Bệnh viện Phụ sản Hà Nội không có vi phạm trong quá trình chăm sóc, điều trị nên bác yêu cầu khởi kiện của sản phụ.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/1-jpeg-1795425183-3462-1795428039.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pL_W0S_bRiR7ZDlPfGUH9g",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-24T00:00:00+07:00",
-"found": "2026-11-24T00:43:24+07:00"
-},
-{
-"id": "db91e550753c",
-"title": "Người dân thích thú ngắm Nhà thờ Đức Bà với dàn đèn LED mới",
-"link": "https://vnexpress.net/nguoi-dan-thich-thu-ngam-nha-tho-duc-ba-voi-dan-den-led-moi-5148248.html",
-"summary": "Nhà thờ Đức Bà được thắp sáng thử với hệ thống đèn LED dài khoảng 1.000 km, mang dải màu sắc mới thay cho tông vàng chủ đạo năm ngoái, tối 23/11.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/23/20261123232151-1795450934-5274-1795451235.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tvzhVzVkddinZA_-NpNQsA",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-24T00:00:00+07:00",
-"found": "2026-11-24T06:30:01+07:00"
 }
 ]
 }
