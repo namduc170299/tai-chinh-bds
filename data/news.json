@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T23:54:26+07:00",
-"new": 3,
+"updated": "2026-11-27T00:09:38+07:00",
+"new": 13,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 22
+"count": 49
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,128 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "51fb9b832e07",
+"title": "CTCK dự báo bất ngờ về lợi nhuận Hoà Phát năm 2027",
+"link": "https://cafef.vn/ctck-du-bao-bat-ngo-ve-loi-nhuan-hoa-phat-nam-2027-188261126212607123.chn",
+"summary": "Sang năm 2027, doanh thu thuần được kỳ vọng tăng thêm 9% lên 242.689 tỷ đồng, trong khi lợi nhuận sau thuế thuộc về cổ đông công ty mẹ đạt 34.985 tỷ đồng, tăng 17%.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/thep-xd-hp-1-1795702948872227784450-251-0-1531-2048-crop-17957029576331721418818.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T00:05:00+07:00",
+"found": "2026-11-27T00:09:38+07:00"
+},
+{
+"id": "67ddfa5d13d7",
+"title": "Phó Chủ tịch UBCKNN: Chứng khoán Việt Nam sắp đón thay đổi quan trọng vào đầu năm 2027",
+"link": "https://cafef.vn/pho-chu-tich-ubcknn-chung-khoan-viet-nam-sap-don-thay-doi-quan-trong-vao-dau-nam-2027-188261126162152687.chn",
+"summary": "Cơ quan quản lý đang tiếp tục xây dựng các nghị định, thông tư hướng dẫn để triển khai luật và tạo điều kiện thuận lợi hơn cho việc thu hút dòng vốn trong nước, quốc tế.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/554699bcc37c4959a3708e0485cbf782-128989-17956848620641600081302-0-0-750-1200-crop-17956848679211701849877.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T00:05:00+07:00",
+"found": "2026-11-27T00:09:38+07:00"
+},
+{
+"id": "014dc128df74",
+"title": "Mỹ nhân tennis từng nghỉ thi đấu để nâng ngực, giờ gây sốt với bikini",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWFBelJtc19WM2s3U3ZmaHRtQTRNLWJiNkg5SzE5SFBaT09XMVgyUGR3TDFhNGh6azBQbXZBQzdteWt0akliM1IyQ3JvaTRhS2VxbXhaZnFtTlpPVGJIYmpXdEloLW5HUDBzNEFQcGxvWGpRTkNfQy02dnEtNHMyYTBBR1dxSWhHUHV2ZXIzbEZ1Z1FjVzB5bFFCYy1BR1dqOU1McjFWY0RGM0VRSmtUWmxlNlpEV1E4REE?oc=5",
+"summary": "Nguồn: Tin tức 24h",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-27T00:05:00+07:00",
+"found": "2026-11-27T00:09:38+07:00"
+},
+{
+"id": "101cab987701",
+"title": "Giám đốc Phân tích VPBankS: Định giá chứng khoán đang bị nén rất sâu, một cú hích có thể kích hoạt sóng tăng mới",
+"link": "https://cafef.vn/giam-doc-phan-tich-vpbanks-dinh-gia-chung-khoan-dang-bi-nen-rat-sau-mot-cu-hich-co-the-kich-hoat-song-tang-moi-188261126174014482.chn",
+"summary": "Một trong những yếu tố được đặc biệt chú ý là khả năng đảo chiều của mặt bằng lãi suất, vốn có ảnh hưởng đáng kể đến diễn biến thị trường chứng khoán trong những năm gần đây.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/anh-man-hinh-2026-11-26-luc-213513-17957037641531936876331-0-0-735-1176-crop-17957037809821748661907.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T00:04:00+07:00",
+"found": "2026-11-27T00:09:38+07:00"
+},
+{
+"id": "f8be0a100053",
+"title": "Đại dự án nhà máy thép gần 80.000 tỷ đồng công suất 20 triệu tấn/năm khi hoàn thành của Vingroup tại Hà Tĩnh có thêm công trình dài gần 30 km, vốn hơn 2.244 tỷ đồng",
+"link": "https://cafef.vn/dai-du-an-nha-may-thep-gan-80000-ty-dong-cong-suat-20-trieu-tan-nam-khi-hoan-thanh-cua-vingroup-tai-ha-tinh-co-them-cong-trinh-dai-gan-30-km-von-hon-2244-ty-dong-188261126223957008.chn",
+"summary": "Ban Quản lý Khu kinh tế tỉnh Hà Tĩnh vừa chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư thực hiện dự án xây dựng công trình lấy nước và tuyến ống cấp nước phục vụ Nhà máy thép VinMetal tại Khu công nghiệp Vinhomes Vũng Áng, với công suất thiết kế 520.000 m³/ngày…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/anh-man-hinh-2026-11-26-luc-222920-1795707392648687552266-2-0-856-1366-crop-1795707486248975832032.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T00:03:00+07:00",
+"found": "2026-11-27T00:09:38+07:00"
+},
+{
+"id": "38bb936278ad",
+"title": "Phá dỡ sân vận động gần 50.000 chỗ ngồi, nhường chỗ xây trung tâm thương mại rộng 390.000 m2, vốn đầu tư hơn 16.800 tỷ đồng",
+"link": "https://cafef.vn/pha-do-san-van-dong-gan-50000-cho-ngoi-nhuong-cho-xay-trung-tam-thuong-mai-rong-390000-m2-von-dau-tu-hon-16800-ty-dong-188261126143910266.chn",
+"summary": "Sau khi sân vận động 48.446 chỗ ngồi bị phá dỡ, khu đất rộng 31,6 ha tại bang Minnesota được chuyển đổi thành Mall of America – một trong những trung tâm mua sắm nổi tiếng nhất nước Mỹ.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/thumb-metropolitan16top-17956786168781622430753-1795678619634875403114-34-21-428-652-crop-17956786346551474823228-21-64-360-606-crop-17956786565981506515831.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T00:02:00+07:00",
+"found": "2026-11-27T00:09:38+07:00"
+},
+{
+"id": "8d78112fbefc",
+"title": "VN-Index giảm sâu hơn 6% từ đầu tháng, bộ đôi cổ phiếu này vẫn tăng giá bằng lần",
+"link": "https://cafef.vn/vn-index-giam-sau-hon-6-tu-dau-thang-bo-doi-co-phieu-nay-van-tang-gia-bang-lan-18826112621532482.chn",
+"summary": "Bất chấp thị trường chứng khoán diễn biến kém tích cực, hai cổ phiếu trên sàn HNX và UPCoM vẫn ghi nhận mức tăng lần lượt gần 150% và 111% chỉ sau chưa đầy một tháng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1668589808971-1668589809156522524330-1795704719573997210228-0-19-315-523-crop-1795704730124397390129.webp",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T00:02:00+07:00",
+"found": "2026-11-27T00:09:38+07:00"
+},
+{
+"id": "9e1d8d721053",
+"title": "Hiện tượng đáng chú ý tại FPT, VCB và BID sau phiên VN-Index giảm sâu gần 60 điểm",
+"link": "https://cafef.vn/hien-tuong-dang-chu-y-tai-fpt-vcb-va-bid-sau-phien-vn-index-giam-sau-gan-60-diem-188261126155203138.chn",
+"summary": "Phiên 26/11, có tới 6 cổ phiếu trong rổ VN30 thiết lập đáy mới của năm 2026, trong đó nhiều mã đã trở về vùng giá thấp nhất trong hơn 3 năm.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/668d4aba4e85f64cdc4caa52151c1270-17956829280991497280856-0-130-731-1300-crop-1795682932473161600122.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T00:01:00+07:00",
+"found": "2026-11-27T00:09:38+07:00"
+},
+{
+"id": "1de60d43312d",
+"title": "Có nên mở thẻ tín dụng để lấy lượt vào phòng chờ sân bay?",
+"link": "https://vnexpress.net/co-nen-mo-the-tin-dung-de-lay-luot-vao-phong-cho-san-bay-5147047.html",
+"summary": "Thẻ tín dụng có thể mang lại đặc quyền phòng chờ, nhưng phí thường niên và điều kiện chi tiêu có thể khiến lợi ích này không còn hấp dẫn.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/anh211179447577083201794475864-5804-6705-1795155603.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=htPJkS12EsFmgJRh6DR-hw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-27T00:00:00+07:00",
+"found": "2026-11-27T00:09:38+07:00"
+},
+{
+"id": "e13e78abbf85",
+"title": "Nữ phóng viên người Úc gây xôn xao với cơ bắp cánh tay lộ rõ",
+"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qUjdkV2h6QnY4aWpSRU9xQkVXbERPVlZlN2hwaEc0blVMdURpVWp0RXVkeTJHcGJvVWtwb0JHX1R0Qll6N21zOWdDOHlZSGgxN3ZZ?oc=5",
+"summary": "Nguồn: شبكة تواصل الإخبارية",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T23:56:31+07:00",
+"found": "2026-11-27T00:09:38+07:00"
+},
+{
+"id": "8c4634bb38bf",
+"title": "brighton đấu với đại học craiova",
+"link": "https://bongdaplus.vn/europa-conference-league/nhan-dinh-bong-da-brighton-vs-universitatea-craiova-00h45-ngay-27-11-diem-tua-san-nha-5299352611.html",
+"summary": "Nhận định bóng đá Brighton vs Universitatea Craiova, 00h45 ngày 27/11: Điểm tựa sân nhà (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIiX3kCehQQI3u7da-l89adrjP4mojH3B0tMXsHQQBGjHaur9AWldr4pxZMr0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T23:50:00+07:00",
+"traffic": "500+",
+"found": "2026-11-27T00:09:38+07:00"
+},
+{
 "id": "042d8a1358be",
 "title": "Khởi tố Hà Thị Thập SN 1978 để điều tra về số tiền 756.000.000 đồng",
 "link": "https://cafef.vn/khoi-to-ha-thi-thap-sn-1978-de-dieu-tra-ve-so-tien-756000000-dong-188261126094031244.chn",
@@ -222,6 +344,17 @@
 "cat": "tc",
 "published": "2026-11-26T23:40:00+07:00",
 "found": "2026-11-26T23:54:26+07:00"
+},
+{
+"id": "4679ae3f9cf2",
+"title": "Du khách Tây say rượu cần mẫn đi gấp quần áo đang phơi của cả phố, cư dân không biết nên phản ứng thế nào",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY3RMZXdBRkVNc05FODdFZ2RNbUJnVjRrQlprYm0tS0cyS292WmprMkFDRGkzUWtMX2R3TE45c0pFQTVwV3Q1R0lhSkdFVVZRNFE5elYyXzFfNktqR1hYVURrWWZnUUYwZGk5OElTNjl4WkRYM1lZelRzdXpENWJUYlo4SjZDMlpILW0tZ1J2S3lEOFQwNTF6dzBlcy1xYXhBaUlLbE9DUm1nLXZZS2pjQ2FRTVpjN3VVcFRHLWxfMDlVZFpZTy1aNzFyWGNqOGpaUDBlb1JmVlNueGs?oc=5",
+"summary": "Nguồn: SOHA",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T23:32:00+07:00",
+"found": "2026-11-27T00:09:38+07:00"
 },
 {
 "id": "4f78d52835e1",
@@ -344,6 +477,18 @@
 "cat": "tc",
 "published": "2026-11-26T22:40:45+07:00",
 "found": "2026-11-26T22:49:11+07:00"
+},
+{
+"id": "3d6c2df90ebf",
+"title": "uefa europa conference",
+"link": "https://www.reutersconnect.com/item/112th-session-of-the-bundestag-budget-week/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBDU0RGQ1g",
+"summary": "Licensable picture: 112th Session Of The Bundestag - Budget Week (Reuters Connect)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4yC1tEMUB7M9iPOjb-sQPFjnHFMLdmBknd-9hfpnS8G4LevudjnIYKEMacek",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T22:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-27T00:09:38+07:00"
 },
 {
 "id": "708336d1b60f",
@@ -27923,149 +28068,6 @@
 "cat": "tc",
 "published": "2026-11-24T10:48:49+07:00",
 "found": "2026-11-24T11:19:37+07:00"
-},
-{
-"id": "94b584fa4492",
-"title": "Giá vàng nhẫn trơn, vàng miếng sáng 24/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
-"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-24-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261123231959617.chn",
-"summary": "Giá vàng trong nước mở đầu phiên sáng 24/11 đi ngang sau phiên tăng mạnh, với vàng miếng SJC giữ mức 135 triệu đồng/lượng và vàng nhẫn cao nhất 134,8 triệu đồng/lượng. Trong khi đó, giá vàng thế giới phục hồi mạnh sau khi lao dốc hơn 9% trong tuần trước, giữa lúc nhà đầu tư chờ…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/vang-2-17103148844192056261607-17954507232601418898725-0-0-1247-1996-crop-1795450726509575114184.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-24T10:48:00+07:00",
-"found": "2026-11-24T05:28:26+07:00"
-},
-{
-"id": "e82106c1f932",
-"title": "NHTW Hàn Quốc sẽ tăng lãi suất vào ngày 26/11 tới",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObzhqVGptNEFZOTByOXRPbmlaVE05NDF2M196MlFnY1ktQ3R2ZWJoMGF1LVNPTHo2ZFNZMmJ3MEMxNTdLMG5CQmF2TUlPMk1YS2c3VmxBOHladkVnWXR2WXB6NmZXSE13ZHh3dGI5V3pucUdKRWkxWXE4cU1XSnlSWWhrSXlmNkNoYVE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T10:45:59+07:00",
-"found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "b09ac979696a",
-"title": "[Infographic] - Từ 15/12/2026: 14 vị trí công tác lĩnh vực nội vụ phải định kỳ chuyển đổi",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYjRSeVUzWlZRamQ2Mi1RdkV4U0kxZzhCMm9pV1hYbzVldXNCWE56VFlLN09IcE9OUlpGYmh0Nk9SclBWNU1OamY2UWtUb1JaMUJ4Sk9iT3dERXFJbDk1dnp1bUx1QmtSNHFRYWxsMmR6cklWTlhQRkM3enUxbDJNdDMtUVhjOG1iRnQyc3o2YldUNnN3cDlfX2ZqbHVteS1CQV9SVDNicDNNTTU2aE1BUVFvdGpRSV94?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T10:45:00+07:00",
-"found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "3e8f2c402df1",
-"title": "Vụ nổ lớn ở Hà Nội: Đã có 3 người chết",
-"link": "https://kenh14.vn/vu-no-lon-o-ha-noi-da-co-3-nguoi-chet-215261124105050265.chn",
-"summary": "Tính đến 10h40 ngày 24/11, vụ nổ tại nhà dân trên phố Nguyễn Văn Tuyết (Hà Nội) sáng cùng ngày khiến ít nhất 3 người tử vong và nhiều người bị thương nặng. Các bệnh viện đã kích hoạt báo động đỏ, huy động nhân lực khẩn cấp để cấp cứu, điều trị các nạn nhân.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795492224271-17954922245841320079810.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T10:43:00+07:00",
-"found": "2026-11-24T14:05:11+07:00"
-},
-{
-"id": "c7fbf71808b5",
-"title": "Cảnh sát chạy đua cứu nam thanh niên đuối nước trên sông Hương",
-"link": "https://vietnamnet.vn/canh-sat-chay-dua-cuu-nam-thanh-nien-duoi-nuoc-tren-song-huong-2578070.html",
-"summary": "Nam thanh niên đuối nước giữa sông Hương, đoạn qua cầu Dã Viên, được lực lượng cảnh sát Huế kịp thời cứu sống và đưa đến bệnh viện cấp cứu.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/canh-sat-chay-dua-cuu-nam-thanh-nien-duoi-nuoc-tren-song-huong-3593.jpg?width=0&s=PZ5LY7yoyg5rZXlJ9z2aPQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T10:42:37+07:00",
-"found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "56f55b939e39",
-"title": "TPHCM: Bứt tốc giải ngân, tháo gỡ vướng mắc từng dự án",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVWpVOXlMamdLMjBXNWZmVWFsNkJiek1OVkVfczV6ZTRTMWowUWNqdVVWU0cwQ3d5MHNFMkJfME1mZzJDVHBkLS1KWDMzeE85RHFIaDNESWZVMTd6ZDVqSVJYVmRrbkdrdk5mb0FrbklLeHV1aFVYZzhQLVhzNG85VWRQcS1HVTBrc2l1TkVn?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T10:40:00+07:00",
-"found": "2026-11-24T12:39:10+07:00"
-},
-{
-"id": "681f6307b509",
-"title": "Đổi mới xếp hạng ngân hàng theo hướng toàn diện hơn",
-"link": "https://cafef.vn/doi-moi-xep-hang-ngan-hang-theo-huong-toan-dien-hon-188261124103903329.chn",
-"summary": "Việc Ngân hàng Nhà nước đề xuất điều chỉnh tiêu chí xếp hạng tổ chức tín dụng không chỉ nhằm phù hợp với sự gia tăng quy mô của hệ thống ngân hàng, mà còn hướng tới đánh giá thực chất hơn khả năng thanh khoản, chất lượng nguồn vốn và năng lực chống chịu rủi ro. Đây cũng là thay…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795491520415-1795491520700517979898.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-24T10:38:00+07:00",
-"found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "17dc58218447",
-"title": "Tổng Bí thư, Chủ tịch nước Tô Lâm dự lễ kỷ niệm 80 năm Hội nghị Văn hóa toàn quốc lần thứ nhất",
-"link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-du-le-ky-niem-80-nam-hoi-nghi-van-hoa-toan-quoc-lan-thu-nhat-100261124101503432.htm",
-"summary": "Sáng 24-11, Tổng Bí thư, Chủ tịch nước Tô Lâm và nhiều lãnh đạo, nguyên lãnh đạo Đảng, Nhà nước đã dự lễ kỷ niệm 80 năm Hội nghị Văn hóa toàn quốc lần thứ nhất.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/17954920085868958653304272413018958653304272413015c65d7d1f7efb45543adcffc8d6a929b-17954921346302044018123-94-0-1694-2560-crop-17954921615371593815842.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T10:38:00+07:00",
-"found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "0ebd87e6a7f6",
-"title": "Dãy nhà đổ nát sau vụ nổ ở khu tập thể Hà Nội",
-"link": "https://vnexpress.net/day-nha-do-nat-sau-vu-no-o-khu-tap-the-ha-noi-5148321.html",
-"summary": "Dãy 10 căn nhà hư hỏng, cửa cuốn bung khỏi khung, mái tôn đổ sập, mảnh vỡ văng khắp mặt đường, nhiều xe máy đổ rạp sau vụ nổ quán cháo lòng.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/m1-1795490305.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=90N-uLPMQS8YadUtWpx6NA",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-24T10:36:27+07:00",
-"found": "2026-11-24T11:19:37+07:00"
-},
-{
-"id": "f7914cbc9bf5",
-"title": "Bờ Bắc kênh Đôi 'khoác áo mới' sau hơn 1 năm thi công",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakh6by1WMkZ3enJ4b1U2VHJDOHpwSkdQbUZqTFdCZ3NTN0Jud3E4VXREOUNXQ1pUWGw4V0k1S2xaUzNLM09tSWp4d3lCZ3JteUQwbXlYVFFWYWlKSzZTTHRPNWZlVE5GWGJSWXNTdnAyQ1psZzdqU2F3dEp5ZGZDNlUzYjNuZXBvdW5QWA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T10:36:00+07:00",
-"found": "2026-11-24T12:39:10+07:00"
-},
-{
-"id": "b48157dde5ce",
-"title": "Cưỡng chế 17 công trình vi phạm đất đai tại xã Tây Phương",
-"link": "https://cafef.vn/cuong-che-17-cong-trinh-vi-pham-dat-dai-tai-xa-tay-phuong-188261124072829969.chn",
-"summary": "Ngày 23-11, UBND xã Tây Phương, thành phố Hà Nội tổ chức cưỡng chế, buộc thực hiện biện pháp khắc phục hậu quả đối với 17 trường hợp vi phạm đất đai. Hai tổ công tác được thành lập, phân chia thực hiện nhiệm vụ theo địa bàn, bảo đảm các quyết định cưỡng chế được triển khai đúng…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795480092318-17954800944871148213244.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-24T10:36:00+07:00",
-"found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "5319456df0f1",
-"title": "Bitcoin giảm 21% trong tháng 11, các quỹ ETF tại Mỹ bị rút ròng kỷ lục 3,5 tỷ USD",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTk12a0YwTzU2bnYtMVBYaWNEcUdwX0ROZkpNT0dKRTZZSGt5LUxmQkFmdmZRVjFBamhBaENTeEtqLTI5T29ncEhCMmhSZ3o0N3lVSnR6WWtaMk9NNjFHUzFXaEx1U3YxVW56SVR5eGctWTdRNThwWmVEZzJCT1o0VnVJMk5lZzNJN050dGI0TmtKUWFrdFhRd1NhQ2xpcWtsTXFOYlVpVmNZYjE5dDNpMHh3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T10:36:00+07:00",
-"found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "ec0dac1c22be",
-"title": "Bộ Y tế thông tin về biến thể mới của COVID-19 đang gia tăng ở Mỹ, Canada...",
-"link": "https://tuoitre.vn/bo-y-te-thong-tin-ve-bien-the-moi-cua-covid-19-dang-gia-tang-o-my-canada-100261124101057932.htm",
-"summary": "Ngày 24-11, Cục Phòng bệnh (Bộ Y tế) thông tin về tình hình COVID-19 và khuyến cáo các biện pháp phòng bệnh trong bối cảnh biến thể SARS-CoV-2 mới PJ.2.1 đang được Tổ chức Y tế thế giới (WHO) theo dõi.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/covid-19-my-edit-17954914690751492381568-67-0-1600-2455-crop-17954915714822130956623.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T10:34:00+07:00",
-"found": "2026-11-24T11:42:33+07:00"
 }
 ]
 }
