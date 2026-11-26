@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T06:04:13+07:00",
-"new": 9,
+"updated": "2026-11-27T06:19:25+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 50
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,28 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "57ccea3bc03d",
+"title": "Chôn ngầm dưới đáy biển sâu tới 3m, tuyến cáp quang dài 2.500km liên Đông Nam Á vừa được khởi công tại Hồ Tràm",
+"link": "https://kenh14.vn/chon-ngam-duoi-day-bien-sau-toi-3m-tuyen-cap-quang-dai-2500km-lien-dong-nam-a-vua-duoc-khoi-cong-tai-ho-tram-215261126232801049.chn",
+"summary": "Sáng 26/11, tại xã Hồ Tràm (TP.HCM), liên danh VTS do Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel) và Singtel đã tổ chức Lễ khởi công tuyến cáp quang biển kết nối Việt Nam - Thái Lan - Singapore.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795710460380-17957104606771190309377.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T06:07:00+07:00",
+"found": "2026-11-27T06:19:25+07:00"
+},
+{
+"id": "6bf4f4aa3156",
+"title": "EU muốn tăng đầu tư vào hạ tầng, năng lượng tái tạo tại Việt Nam",
+"link": "https://dantri.com.vn/kinh-doanh/eu-muon-tang-dau-tu-vao-ha-tang-nang-luong-tai-tao-tai-viet-nam-20261126222302019.htm",
+"summary": "(Dân trí) - Cao ủy EU Maroš Šefčovič cho biết EU và Việt Nam đã bàn về tháo gỡ rào cản thương mại, mở rộng đầu tư của châu Âu vào Việt Nam, nhất là trong lĩnh vực hạ tầng, giao thông và năng lượng tái tạo.",
+"image": "https://cdnphoto.dantri.com.vn/5qpzTJ65Ehn8_Aeu8qTn9AVtuAs=/2026/11/26/17956794239994167067428200124364416706742820012436423f284677d9ec44d307e575cdc85c9cf-edited-1795706170343.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-27T06:05:00+07:00",
+"found": "2026-11-27T06:19:25+07:00"
+},
 {
 "id": "b0fad9a10d7d",
 "title": "Ngân hàng rao bán nợ hơn 213 tỷ liên quan chung cư 52 Lĩnh Nam của Lilama Hà Nội",
@@ -268,6 +290,28 @@
 "found": "2026-11-27T06:04:13+07:00"
 },
 {
+"id": "722f5c202c7e",
+"title": "Quy hoạch siêu đô thị TPHCM 100 năm: Dòng vốn sẽ chảy vào đâu?",
+"link": "https://dantri.com.vn/kinh-doanh/quy-hoach-sieu-do-thi-tphcm-100-nam-dong-von-se-chay-vao-dau-20261126225253553.htm",
+"summary": "(Dân trí) - Việc quan trọng nhất sau khi TPHCM công bố quy hoạch là chuyển từ bản đồ phát triển sang danh mục cơ hội đầu tư có thể thực hiện; đất đủ điều kiện giao hay cho thuê chưa, quy hoạch chi tiết thế nào...",
+"image": "https://cdnphoto.dantri.com.vn/mfkHPTryMaPm_QvK7CtRI0gpk6E=/2026/11/26/tphcm-nam-anh-1795707798769.jpg?watermark=v1",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-27T06:00:00+07:00",
+"found": "2026-11-27T06:19:25+07:00"
+},
+{
+"id": "3ba5b404ae89",
+"title": "Trứng cá muối, Champagne và bác sĩ 24/7: Công thức kinh doanh của nhà dưỡng lão dành cho giới siêu giàu",
+"link": "https://dantri.com.vn/kinh-doanh/trung-ca-muoi-champagne-va-bac-si-247-cong-thuc-kinh-doanh-cua-nha-duong-lao-danh-cho-gioi-sieu-giau-20261126221847059.htm",
+"summary": "(Dân trí) - Trứng cá muối, Champagne, bác sĩ lão khoa ngay trong tòa nhà và gần một nhân viên cho mỗi cư dân: nhà ở dành cho người cao tuổi ở Mỹ đang vươn lên chuẩn năm sao, nhờ một thế hệ về hưu giàu có hơn bao giờ hết.",
+"image": "https://cdnphoto.dantri.com.vn/DPZQSv8fxpwLfCol-ffl6iXIx7E=/2026/11/26/06dininggroupa066pswork-1795705972893.jpeg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-27T06:00:00+07:00",
+"found": "2026-11-27T06:19:25+07:00"
+},
+{
 "id": "6e8e07f28d1f",
 "title": "Mượn đất họ hàng thế chấp ngân hàng, vợ chồng thua lỗ đẩy người thân vào thế khó",
 "link": "https://vietnamnet.vn/vay-ngan-hang-vo-chong-bac-ninh-khien-ho-hang-mat-2-thua-dat-2579144.html",
@@ -290,6 +334,30 @@
 "found": "2026-11-27T06:04:13+07:00"
 },
 {
+"id": "25b817e59de2",
+"title": "đô thị lớn",
+"link": "https://vnexpress.net/vinhomes-doi-ten-khu-do-thi-lon-nhat-viet-nam-5149167.html",
+"summary": "Vinhomes đổi tên khu đô thị lớn nhất Việt Nam (VnExpress)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgOYvKGYWqm7P3UQqdpsBwGCMmrMciBxbYkj405NGv3o6KELHddjAsx2GQDRA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T05:50:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-27T06:19:25+07:00"
+},
+{
+"id": "899829c91527",
+"title": "câu lạc bộ bóng đá arsenal",
+"link": "https://www.24h.com.vn/bong-da/sieu-may-tinh-du-doan-arsenal-sang-cua-vo-dich-cup-c1-mu-co-037-co-hoi-clip-tin-nong-c48a1814355.html",
+"summary": "Siêu máy tính dự đoán Arsenal sáng cửa vô địch Cúp C1, MU có 0,37% cơ hội (Clip tin nóng) (Tin tức 24h)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyyzWGHlDoEo6nc2PhMLTqhuqnob_KpKu9Ue-eI6FuyUdp3M6-tq1TJgwgMHY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T05:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-27T06:19:25+07:00"
+},
+{
 "id": "75daafc51c94",
 "title": "Giám đốc hợp tác xã tiên phong trồng quế, giúp bà con Huổi Pinh thoát nghèo",
 "link": "https://vietnamnet.vn/giam-doc-hop-tac-xa-tien-phong-trong-que-giup-huoi-pinh-thoat-ngheo-2578807.html",
@@ -299,6 +367,18 @@
 "cat": "tc",
 "published": "2026-11-27T05:45:00+07:00",
 "found": "2026-11-27T05:49:02+07:00"
+},
+{
+"id": "477146925472",
+"title": "bảng xếp hạng các đội đứng thứ 3 u17",
+"link": "https://www.24h.com.vn/bong-da/truc-tiep-bang-xep-hang-doi-hang-ba-vong-bang-u17-viet-nam-hoi-hop-cho-ve-di-tiep-c48a1814348.html",
+"summary": "Bảng xếp hạng đội hạng ba vòng bảng U17 World Cup: U17 Việt Nam đứng thứ mấy? (Tin tức 24h)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGFsl_TjNUvxCVK99pKcDQgOgIvPn0SDGnzetMRi2gqYvfyVjiBU8iULutJs8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T05:40:00+07:00",
+"traffic": "10000+",
+"found": "2026-11-27T06:19:25+07:00"
 },
 {
 "id": "e1841a15f7ea",
@@ -364,7 +444,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T05:20:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-27T05:49:02+07:00"
 },
 {
@@ -390,6 +470,18 @@
 "published": "2026-11-27T05:20:00+07:00",
 "traffic": "200+",
 "found": "2026-11-27T05:49:02+07:00"
+},
+{
+"id": "8d17243ea12c",
+"title": "câu lạc bộ bóng đá ninh bình",
+"link": "https://tuoitre.vn/video/doi-ve-tang-them-ve-cho-khan-gia-sau-su-co-tai-san-van-dong-vinh-204729.htm",
+"summary": "Đổi vé, tặng thêm vé cho khán giả sau sự cố tại sân vận động Vinh (Báo Tuổi Trẻ)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZ1QNkQbmlsEJ-iETnFXt-BxU9IvFGCf1ELUSqmnR6BceukvCZ9EUJbXvhVR0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T05:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-27T06:19:25+07:00"
 },
 {
 "id": "de072c365077",
@@ -445,7 +537,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T05:10:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-27T05:49:02+07:00"
 },
 {
@@ -457,7 +549,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T05:10:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-27T05:49:02+07:00"
 },
 {
@@ -28002,94 +28094,6 @@
 "cat": "tc",
 "published": "2026-11-24T12:44:00+07:00",
 "found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "830b13a2c99a",
-"title": "Dinh Độc Lập đông nghịt khách ngày mở cửa miễn phí",
-"link": "https://vnexpress.net/dinh-doc-lap-dong-nghit-khach-ngay-mo-cua-mien-phi-5148333.html",
-"summary": "Đông nghịt người đổ về Dinh Độc Lập từ sáng 24/11, nhân Ngày Văn hóa Việt Nam, khiến di tích phải tạm ngưng đón khách từ 10h đến 13h để đảm bảo an ninh và chất lượng phục vụ.",
-"image": "https://i1-dulich.vnecdn.net/2026/11/24/233a2219-1795496795.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=taA-SjMdckJJ88Sf1QYDaw",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-24T12:43:11+07:00",
-"found": "2026-11-25T00:13:33+07:00"
-},
-{
-"id": "4636afb47fea",
-"title": "Bắt giữ người đàn ông Đài Loan vận chuyển 2kg ma túy qua biên giới ở Tây Ninh",
-"link": "https://dantri.com.vn/phap-luat/bat-giu-nguoi-dan-ong-dai-loan-van-chuyen-2kg-ma-tuy-qua-bien-gioi-o-tay-ninh-20261124121604799.htm",
-"summary": "(Dân trí) - Lực lượng biên phòng Tây Ninh bắt quả tang người đàn ông quốc tịch Đài Loan (Trung Quốc) vận chuyển 2kg Ketamine từ Campuchia vào Việt Nam.",
-"image": "https://cdnphoto.dantri.com.vn/_7eq0Jrs8LQJeN9YsthS8Gy5tgA=/2026/11/24/1-1795497083479.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-24T12:41:17+07:00",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "9a3052295109",
-"title": "Khách Tây dành trọn kỳ nghỉ, chi ngàn đô săn sale Black Friday tại TP.HCM",
-"link": "https://tuoitre.vn/khach-tay-danh-tron-ky-nghi-chi-ngan-do-san-sale-black-friday-tai-tphcm-100261124113305844.htm",
-"summary": "Chloe (Singapore) trở lại TP.HCM lần thứ hai với lịch trình chỉ xoay quanh mua sắm, trong khi Martin (Pháp) dự chi 1.500 USD (gần 40 triệu đồng) cho 4 ngày mua sắm tại thành phố trong dịp Black Friday.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/0b31376e-1c7b-4db0-b822-31986b09399b-1795493199185970104437-180-0-1085-1448-crop-1795493357223853022750-301-133-882-1062-crop-17954991957881957948963.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-24T12:40:00+07:00",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "666d82d9eeb5",
-"title": "Gửi tiết kiệm 500 triệu đồng, lãi suất cao nhất ở ngân hàng bao nhiêu?",
-"link": "https://dantri.com.vn/kinh-doanh/gui-tiet-kiem-500-trieu-dong-lai-suat-cao-nhat-o-ngan-hang-bao-nhieu-20261124114431139.htm",
-"summary": "(Dân trí) - Mặt bằng lãi suất đang giảm tiếp. Riêng một số ngân hàng cộng ưu đãi theo chương trình hàng tháng, lãi suất gửi tiết kiệm thông thường có thể xấp xỉ 9%/năm.",
-"image": "https://cdnphoto.dantri.com.vn/Yi7-GXxJiEELKeeCGo1DOElQBPA=/2026/08/31/tien-1788183461803.png?watermark=v1,v2",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-24T12:39:01+07:00",
-"found": "2026-11-24T12:54:43+07:00"
-},
-{
-"id": "cd9724dd82de",
-"title": "Sau vụ nổ khí gas làm 2 người chết, người dân bắt đầu di dời ra khỏi khu nhà tập thể",
-"link": "https://tuoitre.vn/sau-vu-no-khi-gas-lam-2-nguoi-chet-nguoi-dan-bat-dau-di-doi-ra-khoi-khu-nha-tap-the-100261124122100845.htm",
-"summary": "Ghi nhận của Tuổi Trẻ, khoảng 10h40 ngày 24-11, nhiều hộ dân sinh sống tại 2 tòa tập thể cũ nhận được thông báo. Lúc 11h, lực lượng công an, tổ dân phố có mặt tại khu nhà để kêu gọi người dân di dời.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/nguoi-dan-no-khi-edit-1795499015224300744738-131-164-1606-2526-crop-1795499089751267800720.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T12:38:00+07:00",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "56a122485935",
-"title": "Việt Nam sắp có tàu hơi nước chạy trên cung đường sắt xuyên núi, vượt biển đẹp bậc nhất miền Trung: Có 2 đầu máy từ thập niên 1960, toa cà phê và quầy bar riêng",
-"link": "https://kenh14.vn/viet-nam-sap-co-tau-hoi-nuoc-chay-tren-cung-duong-sat-xuyen-nui-vuot-bien-dep-bac-nhat-mien-trung-co-2-dau-may-tu-thap-nien-1960-toa-ca-phe-va-quay-bar-rieng-215261124094636543.chn",
-"summary": "Một đoàn tàu du lịch sử dụng đầu máy hơi nước cổ điển dự kiến đưa vào khai thác trên tuyến đường sắt Huế - Đà Nẵng trong tháng 12/2026. Đoàn tàu sử dụng 2 đầu máy Mikado được chế tạo từ những năm 1960, có toa quan sát ngoài trời, quán cà phê và quầy bar riêng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795488338620-1795488339112218595656.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T12:35:00+07:00",
-"found": "2026-11-24T12:54:43+07:00"
-},
-{
-"id": "2516baacacca",
-"title": "TPHCM quyết tâm hồi sinh kênh rạch: Bài 2: Người dân đồng thuận nhường đất, rạch Văn Thánh bắt đầu hồi sinh",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2ljc25Odk55NkJFYzdEeXRDSmwwUXh6Y2kyeXRhM0kwd3UwRnFUQ0F3U1hveDB6b1FYNDF1RWlWbXRHZ1NnZGU3N2h4Q3I0WGhwLUZTUnNSUVl5Ym5zSmdsVTdCMllqWjZwcWZfRWMwYTFwN3hfREtKa21fNDZURTRuSkhpLTFtN1JHWVV6anhvOTRKNF8wYkF0LTlrRVU1T19Lem5rX29VclJsSHBrVmtuaVNMbWM5NW84OFA2dW9RZ2MyMEhUTklQTkFQMWQ4MVF3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T12:34:44+07:00",
-"found": "2026-11-24T15:32:53+07:00"
-},
-{
-"id": "78104097c3df",
-"title": "Khi CEO ‘quá lớn để sụp đổ': Cái giá của quản trị doanh nghiệp tại các đế chế nghìn tỷ USD",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkpuNjdITkdlYXJhMEV4UW90MTNQYWxDalh1ZzVZM0JIbEwtZXBqSXk2TktRdU1tV01LRXFwTkNVRWJSYjhwT1g5YmlYTkNMbjh4eWRXNGpYVkJ4dV9BUFZMMzNCR2I5VzZFWUVwbzJXd0ZWTDJ4RFptWlpmMTc5T0hiUnBMRUJuc1FxMXU0LTJsOFhNcFgydDQxVjF2NkM3VXlYamFhNm5oN296WFJLN2lFemx2TnJPVXQxcA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T12:33:00+07:00",
-"found": "2026-11-24T14:20:22+07:00"
 }
 ]
 }
