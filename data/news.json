@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T06:47:02+07:00",
-"new": 15,
+"updated": "2026-11-26T07:02:11+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 23
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "1ddeae4347d9",
+"title": "Thủ đoạn nhóm siêu lừa ‘bao đậu’ hồ sơ nhà xã hội, làm giả cả danh sách của Sở Xây dựng",
+"link": "https://vietnamnet.vn/tphcm-lua-dao-bao-dau-ho-so-nha-o-xa-hoi-chiem-doat-150-ty-2578603.html",
+"summary": "Mời chào mua nhà ở xã hội với suất nội bộ, suất ngoại giao… cam kết bao đậu hồ sơ, nhóm của Đinh Lê Hồng Quế (ở TPHCM) còn làm giả giấy tờ để lừa hơn 600 người, chiếm đoạt 150 tỷ đồng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/thu-doan-nhom-sieu-lua-bao-dau-ho-so-nha-xa-hoi-lam-gia-ca-danh-sach-cua-so-xay-dung-6732.png?width=0&s=fddPJbiXKmnyMqVtyelfcg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-26T06:46:10+07:00",
+"found": "2026-11-26T05:08:26+07:00"
+},
+{
 "id": "298b4237c4e7",
 "title": "Từ 1.7.2027, đất vườn, đất ao đã cấp sổ đỏ lâu dài, được giữ nguyên thời hạn?",
 "link": "https://thanhnien.vn/tu-172027-dat-vuon-dat-ao-da-cap-so-do-lau-dai-duoc-giu-nguyen-thoi-han-185261125233007494.htm",
@@ -222,6 +233,30 @@
 "cat": "xh",
 "published": "2026-11-26T06:41:00+07:00",
 "found": "2026-11-26T06:47:02+07:00"
+},
+{
+"id": "f217f2a3e86c",
+"title": "tiền",
+"link": "https://vnexpress.net/ngan-hang-van-chao-lai-suat-tiet-kiem-toi-9-6-mot-nam-5148499.html",
+"summary": "Ngân hàng vẫn chào lãi suất tiết kiệm tới 9,6% một năm (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXEZVNvG3EHHfx-UKstCobatQsueEX9GtAQvyF78MpNzdlf1fSRZtFes1v5c4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T06:40:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-26T07:02:11+07:00"
+},
+{
+"id": "f61141e75f98",
+"title": "shakhtar đấu với fenerbahçe",
+"link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-shakhtar-donetsk-vs-fenerbahce-03h00-ngay-26-11-chia-diem-5298882611.html",
+"summary": "Nhận định bóng đá Shakhtar Donetsk vs Fenerbahce, 03h00 ngày 26/11: Chia điểm! (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXWtU7tSNLFbOxbvgIDv2pwrzaObeOGbwT1cQFurtIho9kdlxZ4e9D10mQ5Nc",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T06:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T07:02:11+07:00"
 },
 {
 "id": "69d812d21c3c",
@@ -244,6 +279,17 @@
 "cat": "bds",
 "published": "2026-11-26T06:37:00+07:00",
 "found": "2026-11-26T06:47:02+07:00"
+},
+{
+"id": "e5e9ea32a420",
+"title": "Giá dầu vọt lên gần 95 USD/thùng sau biến cố tại cơ sở lọc dầu Saudi Arabia",
+"link": "https://dantri.com.vn/kinh-doanh/gia-dau-vot-len-gan-95-usdthung-sau-bien-co-tai-co-so-loc-dau-saudi-arabia-20261126060711430.htm",
+"summary": "(Dân trí) - Thị trường năng lượng vừa đảo chiều tăng mạnh, đưa giá dầu chạm mốc 95 USD/thùng sau thông tin cơ sở lọc dầu lớn nhất của Saudi Arabia bị nhắm tới, xóa tan dự báo dư cung trước đó.",
+"image": "https://cdnphoto.dantri.com.vn/XelR1f91K5oEq4IwlPrpGKjS8LA=/2026/04/06/oil-scaled-cropped-1775462418696.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-26T06:36:51+07:00",
+"found": "2026-11-26T07:02:11+07:00"
 },
 {
 "id": "fcaa7b9abc5b",
@@ -301,6 +347,18 @@
 "found": "2026-11-26T06:47:02+07:00"
 },
 {
+"id": "d5d970c75a87",
+"title": "nhiệt độ hôm nay",
+"link": "https://laodong.vn/moi-truong/du-bao-6-tinh-thanh-mua-to-tu-chieu-toi-2711-co-noi-tren-600mm-1806442.ldo",
+"summary": "Dự báo 6 tỉnh thành mưa to từ chiều tối 27.11, có nơi trên 600mm (Laodong.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxzXFFNIk8Bt6MSnyZ1DXxzfabfAu-lojpnjadzUYGoP6fR3zkWZOx4NU9Nug",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T06:20:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-26T07:02:11+07:00"
+},
+{
 "id": "1af0d8471c6a",
 "title": "Trớ trêu chuyển nhầm 300 triệu vào tài khoản người đang vay nợ, ngân hàng tự động trừ luôn 261 triệu đồng, không đồng ý trả lại",
 "link": "https://kenh14.vn/tro-treu-chuyen-nham-300-trieu-vao-tai-khoan-nguoi-dang-vay-no-ngan-hang-tu-dong-tru-luon-261-trieu-dong-khong-dong-y-tra-lai-215261126062210332.chn",
@@ -355,6 +413,17 @@
 "cat": "bds",
 "published": "2026-11-26T06:03:00+07:00",
 "found": "2026-11-26T06:31:53+07:00"
+},
+{
+"id": "2575672eb4d5",
+"title": "Vạch trần thủ đoạn lừa đảo mua nhà ở xã hội, chiếm đoạt 150 tỷ đồng tại TPHCM",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ3Q5T2RfLWhqbXdpY19DMmRwaF9Va21fbHRXN1Y1VkN5SDhyMkotMktTcndmdjN6MUdfOXI0SjZDMGRtVGpNWTBtV3hQaUE4U2oxNVE0TUptM0VjRkl1SE5ubVN6dXd3cGdVcnIwSkQ3WUJUZzFhSzd6cEU2dWVmRm93M3VoRWpsZlY5UTRHWTRndlFfUlowR2tLbmp5UERwTDc4TnlBSDJxcGJkVVE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T06:03:00+07:00",
+"found": "2026-11-26T07:02:11+07:00"
 },
 {
 "id": "073dff19e58a",
@@ -479,6 +548,17 @@
 "found": "2026-11-26T06:31:53+07:00"
 },
 {
+"id": "11a44d1766e1",
+"title": "Bí thư 'gõ cửa' hơn 1.000 hộ, dạy dân dùng công nghệ",
+"link": "https://vnexpress.net/bi-thu-go-cua-hon-1-000-ho-day-dan-dung-cong-nghe-5148853.html",
+"summary": "Mỗi ngày, anh Đoàn Phương Nam, 30 tuổi, Bí thư Chi bộ thôn Bằng Lăng, chạy xe vượt đường rừng đến từng nhà dạy bà con dùng công nghệ.",
+"image": "https://i1-giadinh.vnecdn.net/2026/11/25/bi-thu-tho-n2-1795601649-5164-1795602220.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-XyCp_Xy38DUmC8w9VOFRg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-26T06:00:00+07:00",
+"found": "2026-11-26T07:02:11+07:00"
+},
+{
 "id": "3bf604ab065f",
 "title": "Ma trận 'xuân dược': Rao bán công khai",
 "link": "https://thanhnien.vn/ma-tran-xuan-duoc-rao-ban-cong-khai-185261125222606049.htm",
@@ -558,6 +638,18 @@
 "published": "2026-11-26T05:40:00+07:00",
 "traffic": "200+",
 "found": "2026-11-26T06:06:56+07:00"
+},
+{
+"id": "9d177309ad7a",
+"title": "the thao",
+"link": "https://vnexpress.net/thuy-linh-vo-doi-o-giai-cau-long-dai-hoi-the-thao-toan-quoc-5148933.html",
+"summary": "Thùy Linh vô đối ở giải cầu lông Đại hội Thể thao toàn quốc (VnExpress)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjhNyU0h3icPbLLkhENG_L6Ts6yRf0tNRGvneQIMYdq1DdAR7gmB4ykjYj4IM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T05:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T07:02:11+07:00"
 },
 {
 "id": "71b5fd5a6b57",
@@ -768,17 +860,6 @@
 "source": "VietnamNet",
 "cat": "xh",
 "published": "2026-11-26T05:04:00+07:00",
-"found": "2026-11-26T05:08:26+07:00"
-},
-{
-"id": "1ddeae4347d9",
-"title": "Thủ đoạn nhóm siêu lừa ‘bao đậu’ hồ sơ nhà xã hội, làm giả cả danh sách của Sở Xây dựng",
-"link": "https://vietnamnet.vn/tphcm-lua-dao-bao-dau-ho-so-nha-o-xa-hoi-chiem-doat-150-ty-2578603.html",
-"summary": "Mời chào mua nhà ở xã hội với suất nội bộ, suất ngoại giao… cam kết bao đậu hồ sơ, nhóm của Đinh Lê Hồng Quế (ở TPHCM) còn làm giả giấy tờ để lừa hơn 600 người, chiếm đoạt 150 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/thu-doan-nhom-sieu-lua-bao-dau-ho-so-nha-xa-hoi-lam-gia-ca-danh-sach-cua-so-xay-dung-6732.png?width=0&s=fddPJbiXKmnyMqVtyelfcg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-26T05:03:00+07:00",
 "found": "2026-11-26T05:08:26+07:00"
 },
 {
@@ -11436,18 +11517,6 @@
 "found": "2026-11-25T07:24:26+07:00"
 },
 {
-"id": "15234a68bdf9",
-"title": "the thao",
-"link": "https://tuoitre.vn/bang-xep-hang-huy-chuong-dai-hoi-the-thao-toan-quoc-ngay-24-11-quan-doi-vao-top-3-100261124221243221.htm",
-"summary": "Bảng xếp hạng huy chương Đại hội Thể thao toàn quốc ngày 24-11: Quân Đội vào top 3 (Tuổi Trẻ)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVy_F-7a-ojwesPnz4VKdFQiWhDuTbvRHztua5fxwgbu-AC1R53iv_mon8bzA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T06:30:00+07:00",
-"traffic": "100+",
-"found": "2026-11-25T07:54:49+07:00"
-},
-{
 "id": "a8a96adb6483",
 "title": "Ma trận 'xuân dược': Từ chợ online đến quầy thuốc tây",
 "link": "https://thanhnien.vn/ma-tran-xuan-duoc-tu-cho-online-den-quay-thuoc-tay-185261124182212611.htm",
@@ -12175,18 +12244,6 @@
 "cat": "xh",
 "published": "2026-11-25T04:00:00+07:00",
 "found": "2026-11-25T08:36:20+07:00"
-},
-{
-"id": "9f5cd2e00fd3",
-"title": "tiền",
-"link": "https://tuoitre.vn/bat-42-nguoi-trong-duong-day-rua-tien-danh-bac-gan-1300-tai-khoan-ngan-hang-nhan-hon-9000-ti-dong-100261123215058965.htm",
-"summary": "Bắt 42 người trong đường dây rửa tiền đánh bạc, gần 1.300 tài khoản ngân hàng nhận hơn 9.000 tỉ đồng (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7u2O4ICj04tJmTKZknjCtH1fVVbNdOLSP-ATiFZIhcJoh4kUkcLq9swqP0s",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T03:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-25T04:15:23+07:00"
 },
 {
 "id": "96bfea740cc3",
@@ -28041,61 +28098,6 @@
 "cat": "xh",
 "published": "2026-11-23T12:36:00+07:00",
 "found": "2026-11-23T13:00:26+07:00"
-},
-{
-"id": "699722be007e",
-"title": "Công ty ông Trần Bá Dương trả lãi trái phiếu 12,5% một năm",
-"link": "https://vnexpress.net/cong-ty-ong-tran-ba-duong-tra-lai-trai-phieu-12-5-mot-nam-5147939.html",
-"summary": "Tập đoàn Trường Hải (Thaco) mới phát hành lô trái phiếu 3.000 tỷ đồng với lãi suất tăng mạnh so với cách đây hai tháng, lên 12,5% một năm.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/cg2a1548-1795406585-8544-1795406595.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wQSabLYyK3_OqgYxKdWWIg",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-23T12:35:52+07:00",
-"found": "2026-11-23T13:15:37+07:00"
-},
-{
-"id": "87d0a9a56cf9",
-"title": "Căn hộ chung cư được cho thuê lưu trú ngắn hạn",
-"link": "https://cafef.vn/can-ho-chung-cu-duoc-cho-thue-luu-tru-ngan-han-188261123114332974.chn",
-"summary": "Luật Nhà ở sửa đổi cho phép sử dụng chung cư để cho thuê lưu trú, tạo hành lang pháp lý với hoạt động lưu trú ngắn hạn tại dự án căn hộ.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795408944474-17954089452581759804903.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-23T12:35:00+07:00",
-"found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "0598b41bd1d4",
-"title": "TP.HCM thu hồi giá trị đất tăng thêm từ TOD như thế nào? - Tạp chí Nhà Quản Trị - TheLEADER",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHhuRllERlZoUmptdHpGV0ZnUHlaVVQwUXU2Zmg2MDdYcDZBZHdvaDg3SklzMTcwVE1IbE9zdnFYLXl0SDRSZ3lITk41MnVpaDY4UE84RmNLSFFxbFZpdXlyaTNRLTJzSHZCVE1mRUw3b05KbExPdm1XbndzXzVEVGFSNnI3QmVQSThjZnZiWWhiZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T12:34:00+07:00",
-"found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "1996b0623e93",
-"title": "Gần 6.700 tỷ đồng đầu tư xây dựng khu đô thị ở Măng Đen",
-"link": "https://vietnamnet.vn/gan-6-700-ty-dong-dau-tu-xay-dung-khu-do-thi-o-mang-den-2577775.html",
-"summary": "Một khu đô thị quy mô hơn 264 ha, tổng vốn đầu tư gần 6.700 tỷ đồng sẽ được triển khai tại xã Măng Đen, tỉnh Quảng Ngãi.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/gan-6-828.png?width=0&s=dj96kCc64HcnkoSNEpfp2w",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-23T12:32:54+07:00",
-"found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "1053f98b50cf",
-"title": "TP HCM đặt mục tiêu vào nhóm 100 thành phố đáng sống trên thế giới",
-"link": "https://vnexpress.net/tp-hcm-dat-muc-tieu-vao-nhom-100-thanh-pho-dang-song-tren-the-gioi-5147930.html",
-"summary": "Trong quy hoạch mới, TP HCM hướng tới mục tiêu năm 2030 vào nhóm 100 thành phố đáng sống, có hệ sinh thái đổi mới sáng tạo hàng đầu thế giới, theo Chủ tịch UBND thành phố.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/233a0142-1795412239-6921-1795412254.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BDAmgdaXJmhCDZVZe3C2BQ",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-23T12:32:50+07:00",
-"found": "2026-11-23T13:30:46+07:00"
 }
 ]
 }
