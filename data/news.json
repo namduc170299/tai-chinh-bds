@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T07:02:11+07:00",
-"new": 7,
+"updated": "2026-11-26T07:12:16+07:00",
+"new": 10,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 56
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,51 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "7625b19453a1",
+"title": "Bắt 37 đối tượng lừa đảo mua nhà ở xã hội ở TPHCM, chiếm đoạt 150 tỷ đồng",
+"link": "https://vietnamnet.vn/bat-37-doi-tuong-lua-dao-mua-nha-o-xa-hoi-o-tphcm-2578450.html",
+"summary": "Công an TPHCM vừa bắt 37 đối tượng trong đường dây làm giả con dấu chủ đầu tư và Sở Xây dựng, rao bán &quot;suất ngoại giao&quot; dự án nhà ở xã hội Lý Thường Kiệt để lừa đảo chiếm đoạt hơn 150 tỷ đồng của hơn 600 bị hại.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/bat-37-doi-tuong-lua-dao-mua-nha-o-xa-hoi-o-tphcm-chiem-doat-150-ty-dong-2113.png?width=0&s=W5OJHA_F6giM-3hUkYCoWA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-26T07:11:24+07:00",
+"found": "2026-11-25T12:54:56+07:00"
+},
+{
+"id": "ef389e768589",
+"title": "Tận thấy dự án nhà ở xã hội vị trí đắc địa bị bán 'trộm' 600 suất",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWGJqMW5FaVZSc0V2MFlmVFNZMVFUcndKcFpIX0pWLTRPeEVKdXhNdlZPQXNTeXVqQlZ4cmJuWElPZk9Rd3U5c1BRRWtTUFFiM2pyMVVfMXd2eDNsTXRyODU1a2ZDTFlpRjBsSC10bHAwcV90cmI3UXNLVThXUFNSUFpkVFpSNVl0OWRtRWlhNmRIc3MxOV9tLWd0TEw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T07:08:00+07:00",
+"found": "2026-11-26T07:12:16+07:00"
+},
+{
+"id": "18d93807b83c",
+"title": "Nhà máy tại Việt Nam của đại gia điện mặt trời Trung Quốc JinkoSolar: Doanh thu gần 18.000 tỷ nhưng lỗ 750 tỷ đồng trong 9 tháng",
+"link": "https://kenh14.vn/nha-may-tai-viet-nam-cua-dai-gia-dien-mat-troi-trung-quoc-jinkosolar-doanh-thu-gan-18000-ty-nhung-lo-750-ty-dong-trong-9-thang-215261125232753778.chn",
+"summary": "Tập đoàn Jinko Solar đến từ Trung Quốc là một tên tuổi hàng đầu thế giới trong sản xuất quang năng, từng chọn tỉnh Quảng Ninh để đặt 3 nhà máy với tổng đầu tư hơn 2,5 tỷ USD.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795623600730-179562360115821817367.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T06:53:00+07:00",
+"found": "2026-11-26T07:12:16+07:00"
+},
+{
+"id": "266f48110367",
+"title": "club brugge vs liverpool f.c. standings",
+"link": "https://www.skysports.com/football/news/13616517/club-brugge-0-3-liverpool-alexander-isak-and-florian-wirtz-on-target-in-dominant-champions-league-win",
+"summary": "Club Brugge 0-3 Liverpool: Alexander Isak and Florian Wirtz on target in dominant Champions League win (Sky Sports)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVNFryGvCbki0clUGgF7nLQwXJKjIc2Lh28ZQyNbPW0j_kWU1yKTYKkiJ3aBw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T06:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T07:12:16+07:00"
+},
+{
 "id": "1ddeae4347d9",
 "title": "Thủ đoạn nhóm siêu lừa ‘bao đậu’ hồ sơ nhà xã hội, làm giả cả danh sách của Sở Xây dựng",
 "link": "https://vietnamnet.vn/tphcm-lua-dao-bao-dau-ho-so-nha-o-xa-hoi-chiem-doat-150-ty-2578603.html",
@@ -222,6 +267,28 @@
 "cat": "xh",
 "published": "2026-11-26T06:46:10+07:00",
 "found": "2026-11-26T05:08:26+07:00"
+},
+{
+"id": "3174bc089177",
+"title": "Toàn cảnh đường vành đai Hà Nội: Tuyến đã khép kín, tuyến còn dang dở",
+"link": "https://dantri.com.vn/bat-dong-san/toan-canh-duong-vanh-dai-ha-noi-tuyen-da-khep-kin-tuyen-con-dang-do-20261126014020516.htm",
+"summary": "(Dân trí) - Bên cạnh Vành đai 1 và 2 đã cơ bản hình thành, Hà Nội đang đẩy nhanh tiến độ Vành đai 3, 4, 5 cùng hai tuyến hỗ trợ 2,5 và 3,5 nhằm mở rộng không gian phát triển cho Thủ đô.",
+"image": "https://cdnphoto.dantri.com.vn/Tt2hNZgyjg3AEsCLvdmMB5jcUWs=/2026/11/26/toan-canh-duong-vanh-dai-ha-noi-tuyen-da-khep-kin-tuyen-con-dang-do-cropped-1795631915791.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-26T06:44:35+07:00",
+"found": "2026-11-26T07:12:16+07:00"
+},
+{
+"id": "48e025ff9674",
+"title": "CĐV MU đòi gạch tên Lammens",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wT29Ka0VBYTJSMTFnMFpxZ19iVFhmT2UxelYwZS15X3U1X3dCNnhRVGIxaTVBeWFXby1mWVNkRkxhdHdfSE1obmRwTldKRkY0ZTlKaFdSdk15ZFpGcFBFN3g3ZnI3MFIzUnNmMUhB?oc=5",
+"summary": "Nguồn: Znews",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T06:41:21+07:00",
+"found": "2026-11-26T07:12:16+07:00"
 },
 {
 "id": "298b4237c4e7",
@@ -314,6 +381,17 @@
 "found": "2026-11-26T06:47:02+07:00"
 },
 {
+"id": "92ee1323c3f5",
+"title": "Tranh cãi M.U bị từ chối 1 bàn thắng hợp lệ trước Sporting",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWpVTHFUUnpwQklYaVZkbUVBbVctVmwxUFQ0NUVzeElMSkdUQVVIMU1DR3Bqc2pTZHVpOVgtRU95TmJ5anl1cEFPaHhuT1BzWFQ1cFg1cE1VQ3ZTUS1oQTNJVnNGSjh4WG5FSW5CVTdDUDlBSmRWbFN1OUMyWURUUjVibXFrVDRORVE?oc=5",
+"summary": "Nguồn: Ghiền Bóng Đá",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T06:32:39+07:00",
+"found": "2026-11-26T07:12:16+07:00"
+},
+{
 "id": "6c2d14c04a53",
 "title": "Hàng chục tỉ USD làm metro, đường sắt cao tốc, vốn dài hạn ở đâu?",
 "link": "https://thanhnien.vn/hang-chuc-ti-usd-lam-metro-duong-sat-cao-toc-von-dai-han-o-dau-185261125213601286.htm",
@@ -402,6 +480,17 @@
 "cat": "bds",
 "published": "2026-11-26T06:09:00+07:00",
 "found": "2026-11-26T06:16:44+07:00"
+},
+{
+"id": "f8c68a4db35c",
+"title": "Tin tức sáng 26-11: Quốc Cường Gia Lai muốn mở room cho nhà đầu tư nước ngoài",
+"link": "https://tuoitre.vn/tin-tuc-sang-26-11-quoc-cuong-gia-lai-muon-mo-room-cho-nha-dau-tu-nuoc-ngoai-100261125220348338.htm",
+"summary": "Tin tức đáng chú ý: Quốc Cường Gia Lai muốn mở room cho nhà đầu tư nước ngoài; 11 tháng du lịch TP.HCM đã đạt chỉ tiêu về tổng thu năm; Nhiều kỹ thuật mới trong ghép tế bào gốc điều trị ung thư máu và tan máu bẩm sinh...",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/7/31/quoc-cuong-gia-lai-1785485944235934753015.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-26T06:04:00+07:00",
+"found": "2026-11-26T07:12:16+07:00"
 },
 {
 "id": "0d05dee8729d",
@@ -559,6 +648,17 @@
 "found": "2026-11-26T07:02:11+07:00"
 },
 {
+"id": "d6a8d14bce35",
+"title": "Ngân hàng vẫn chào lãi suất tiết kiệm tới 9,6% một năm",
+"link": "https://vnexpress.net/ngan-hang-van-chao-lai-suat-tiet-kiem-toi-9-6-mot-nam-5148499.html",
+"summary": "Lãi suất niêm yết hạ nhiệt, song mức ưu đãi tại nhiều nhà băng vẫn trên 9% một năm, áp dụng kèm điều kiện hạn chế rút trước hạn.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/wm1-wm1-dsc-2529-1795605050-4552-1795605196.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ypAI5Om2oEsKWkMp_z6mTw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-26T06:00:00+07:00",
+"found": "2026-11-26T07:12:16+07:00"
+},
+{
 "id": "3bf604ab065f",
 "title": "Ma trận 'xuân dược': Rao bán công khai",
 "link": "https://thanhnien.vn/ma-tran-xuan-duoc-rao-ban-cong-khai-185261125222606049.htm",
@@ -590,7 +690,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T05:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-26T06:06:56+07:00"
 },
 {
@@ -839,6 +939,17 @@
 "published": "2026-11-26T05:10:00+07:00",
 "traffic": "100+",
 "found": "2026-11-26T05:51:40+07:00"
+},
+{
+"id": "cd98364b1fe4",
+"title": "Thời tiết hôm nay 26-11: Bắc Bộ rét, Huế đến Quảng Ngãi còn mưa to, Nam Bộ nắng gắt",
+"link": "https://tuoitre.vn/thoi-tiet-hom-nay-26-11-bac-bo-ret-hue-den-quang-ngai-con-mua-to-nam-bo-nang-gat-100261125201339233.htm",
+"summary": "Hôm nay 26-11, thời tiết ở các tỉnh miền Trung còn mưa to, Bắc Bộ rét đến rét đậm, Nam Bộ nắng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/ret-ha-noi-17060877199102097192893-95-0-1345-2000-crop-1795612319787807621888.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-26T05:10:00+07:00",
+"found": "2026-11-26T07:12:16+07:00"
 },
 {
 "id": "886a943d5be4",
@@ -7133,17 +7244,6 @@
 "found": "2026-11-25T13:10:06+07:00"
 },
 {
-"id": "7625b19453a1",
-"title": "Bắt 37 đối tượng lừa đảo mua nhà ở xã hội ở TPHCM, chiếm đoạt 150 tỷ đồng",
-"link": "https://vietnamnet.vn/bat-37-doi-tuong-lua-dao-mua-nha-o-xa-hoi-o-tphcm-2578450.html",
-"summary": "Công an TPHCM vừa bắt 37 đối tượng trong đường dây làm giả con dấu chủ đầu tư và Sở Xây dựng, rao bán &quot;suất ngoại giao&quot; dự án nhà ở xã hội Lý Thường Kiệt để lừa đảo chiếm đoạt hơn 150 tỷ đồng của hơn 600 bị hại.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/bat-37-doi-tuong-lua-dao-mua-nha-o-xa-hoi-o-tphcm-chiem-doat-150-ty-dong-2113.png?width=0&s=W5OJHA_F6giM-3hUkYCoWA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-25T12:51:11+07:00",
-"found": "2026-11-25T12:54:56+07:00"
-},
-{
 "id": "70024c5a1eb4",
 "title": "Khoan lấy mẫu đất xác minh nơi nghi chôn liệt sĩ hy sinh Tết Mậu Thân ở Huế",
 "link": "https://tuoitre.vn/khoan-lay-mau-dat-xac-minh-noi-nghi-chon-liet-si-hy-sinh-tet-mau-than-o-hue-10026112512272064.htm",
@@ -11290,6 +11390,17 @@
 "found": "2026-11-20T03:47:43+07:00"
 },
 {
+"id": "337b09aa0091",
+"title": "Tuấn quyết định hỏi Oanh về thái độ bất thường | Cầu vồng ở phía chân trời | Tập 11 | VTV3 và VTVgo",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9oZGRwMlE1YndybWZYLVRHVEE3X1dGYzc5ejBQa3VYWHp1TUgzbTlrd0NKYlVRQUhrSU1ueFQteHQ?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-25T07:00:00+07:00",
+"found": "2026-11-26T07:12:16+07:00"
+},
+{
 "id": "613708154fc0",
 "title": "Corriere dello Sport: Højlund được cho là đã bày tỏ lòng tri ân Man Utd khi ăn mừng bàn thắng, gây xôn xao mạng xã hội",
 "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX01VMFdqMGpwR0JtNy1JQUVJM3RaZmxRdzNEWmxaTWdfYkRuSUNiV3lQYUg0SVdKUXVSQTBTRnRKRWZpczNwVV96YVktYU13aU5Cd0t3OVE1TzlnNWdNUmE4NXJETjlPandHOVpBY2VWZ2gtZVFMMVB3OVVHVThkRDlNYTV5d05vSXp2MEFoZy15QQ?oc=5",
@@ -13854,6 +13965,17 @@
 "cat": "tc",
 "published": "2026-11-24T20:00:00+07:00",
 "found": "2026-11-24T20:44:00+07:00"
+},
+{
+"id": "6f90c067bd49",
+"title": "Hùng lo chú Toản đã có người phụ nữ khác | Căn nhà không mái che | Tập 20",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5GVl9DNk5kbXlVLXZ2TnlJVXByYW9nNzBoRlZvcGlYWjU2TFV1Vk5rOEtsVFd2Q2Q0X2hCT1haV0k?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-24T20:00:00+07:00",
+"found": "2026-11-25T10:17:50+07:00"
 },
 {
 "id": "65945525d3b6",
@@ -16824,17 +16946,6 @@
 "cat": "tc",
 "published": "2026-11-24T12:56:00+07:00",
 "found": "2026-11-24T13:09:54+07:00"
-},
-{
-"id": "6f90c067bd49",
-"title": "Hùng lo chú Toản đã có người phụ nữ khác | Căn nhà không mái che | Tập 20",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5GVl9DNk5kbXlVLXZ2TnlJVXByYW9nNzBoRlZvcGlYWjU2TFV1Vk5rOEtsVFd2Q2Q0X2hCT1haV0k?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-24T12:55:26+07:00",
-"found": "2026-11-25T10:17:50+07:00"
 },
 {
 "id": "63f5cceb18fb",
@@ -27986,117 +28097,6 @@
 "source": "Báo Mới",
 "cat": "tc",
 "published": "2026-11-23T12:51:00+07:00",
-"found": "2026-11-23T13:00:26+07:00"
-},
-{
-"id": "3e200e69cbd9",
-"title": "Sắc đỏ bao phủ thị trường hàng hóa thế giới, giá bạc và cà phê lao dốc mạnh",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFVkanUzOFRpQVNtT3FuejFvZTlQeS1PV20yVVVwckI2YlptbXBIOTg1V1g4OGFxTU1fdnU1QzZnaW9nMmt2ZzZST2dWdml0TTVvQUVDSDM4VXkxMWhXVGJlck00SkdjTU55OUt2QTNDeXdROWNuY0dDQnk1SHByYldmWW9nTHJvZUt0dS1YWklpRzQ5OUduYlNaRWdNaWZBSi1wTFZXMVdRcWc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T12:50:00+07:00",
-"found": "2026-11-23T13:00:26+07:00"
-},
-{
-"id": "2329661910c6",
-"title": "Công an vào cuộc vụ nhóm người cầm hung khí đuổi chém tại cây xăng ở TP.HCM",
-"link": "https://thanhnien.vn/cong-an-vao-cuoc-vu-nhom-nguoi-cam-hung-khi-duoi-chem-tai-cay-xang-o-tphcm-18526112312352965.htm",
-"summary": "Vụ việc một nhóm người cầm hung khí đuổi chém tại cây xăng ở TP.HCM đang khiến dư luận hoang mang. Công an đã vào cuộc để truy tìm thủ phạm và đảm bảo an ninh cho người dân.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/base64-17954120005621984303005-31-0-1281-2000-crop-17954120112061180650131.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-23T12:49:00+07:00",
-"found": "2026-11-23T13:00:26+07:00"
-},
-{
-"id": "d2940eb59be2",
-"title": "Sun Group khởi công khu đô thị gần 6.700 tỷ đồng ở Măng Đen",
-"link": "https://vnexpress.net/sun-group-khoi-cong-khu-do-thi-gan-6-700-ty-dong-o-mang-den-5147947.html",
-"summary": "Khu đô thị số 264 ha, vốn đầu tư gần 6.700 tỷ đồng, có khu nghỉ dưỡng, chăm sóc sức khỏe, thể thao, giải trí và nhà ở sinh thái được SunGroup khởi công, sáng 23/11.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/phoi-canh-du-an-mang-den-17954-9077-5629-1795407885.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oQs2mGFEdZKeEOxUvu9OkQ",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-23T12:48:19+07:00",
-"found": "2026-11-23T13:15:37+07:00"
-},
-{
-"id": "93afe8aaa80a",
-"title": "16 chủ tịch xã ở Hà Tĩnh được điều động làm nhiệm vụ mới",
-"link": "https://vietnamnet.vn/16-chu-tich-xa-o-ha-tinh-duoc-dieu-dong-lam-nhiem-vu-moi-2577749.html",
-"summary": "Ban Thường vụ Tỉnh ủy Hà Tĩnh vừa công bố các quyết định điều động, bổ nhiệm, chỉ định và giới thiệu ứng cử đối với 20 cán bộ, trong đó có 16 chủ tịch xã.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/16-chu-tich-xa-o-ha-tinh-duoc-dieu-dong-lam-nhiem-vu-moi-744.jpg?width=0&s=QNuTJWscfAYAfOnS_IOLyw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-23T12:46:04+07:00",
-"found": "2026-11-23T11:41:14+07:00"
-},
-{
-"id": "8e43a1777c39",
-"title": "Phân bổ 5.630MW điện mặt trời mái nhà: Địa phương nào nhiều nhất?",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHBLN09EaFZmRmlUUnVHQU8xdVc1SzlBQ1RXR1pyaU90T3diLWNWQWhSRU41bTB1U0s1ZkM4MmtwNV96Z3JVM3RsaFF4bUJTcllDTUNIcW1JTTVhSXE1cUNOUzM3Ql9pLXRvVDdYSmNuN0Ftam1FRFFGanVsZEVvbEdyOFo5bVRKV3JhTjlDdGZXMkw0SFdPVXNSaWo?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T12:41:00+07:00",
-"found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "5ec0a6f5c5c0",
-"title": "[VIDEO] Ngân hàng Nhà nước mua đô la định kỳ, bơm 25.500 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNzBScEI1N0NKM3ZmaF9UMWVmcmxTNk5SWXhLWVlqbGhkUFlxejFUYkx0SnA3Tnp4RGJMYURhcEhFMi1zVmNaNFpJZWkwU3Jicjc2aFRJMF9jR0Yyd3F3ZHBqVXIyUkdON2ZmbmFNM29Mc3V2NkJrMk1JZjFhWXZnbTlFNFpOX09WTG5SeHVwTzMzYThDakNyT1ZR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T12:40:00+07:00",
-"found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "28b4587c876e",
-"title": "ngân hàng thương mại cổ phần đầu tư và phát triển việt nam",
-"link": "https://cafef.vn/ong-lon-ngan-hang-chuan-bi-chia-co-tuc-ty-le-gan-18-18826112309483776.chn",
-"summary": "\"Ông lớn\" ngân hàng chuẩn bị chia cổ tức tỷ lệ gần 18% (CafeF)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe4v4E7lvD4i5bf0x0k7sxj4l0WMUnYJRZMhugh_RTNkt5wVP6H8w4K_BTLDY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T12:40:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-23T13:00:26+07:00"
-},
-{
-"id": "de67cf445584",
-"title": "Mainoo bức xúc khẳng định trọng tài tước trận đấu của MU",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVFVdkVjU1pQRGkzOXhsUmxXVDQ0TDBfQ1BIREFkcGNFV3pteXlndjJiTzFJYnhUdmktVktrSTFjeDRBYm9IVmhSZDhXZEtFWW5IZU02OFdnMXVaZDRwSzY1bDUxWE5JNlY2a3J0Y1U3NXM4Q0hhNk83cG1KeFhkQ2pQcTY1VG1wMS1sRE96LXFsMjhmYVE?oc=5",
-"summary": "Nguồn: bongda.com.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-23T12:39:22+07:00",
-"found": "2026-11-23T13:15:37+07:00"
-},
-{
-"id": "c791ea3e0fe4",
-"title": "Độc lạ màn cosplay nhân vật game, chờ diễu hành tối 24.11 ở phố đi bộ",
-"link": "https://thanhnien.vn/doc-la-man-cosplay-nhan-vat-game-cho-dieu-hanh-toi-2411-o-pho-di-bo-18526112312402131.htm",
-"summary": "Trình diễn cosplay tại phố đi bộ Nguyễn Huệ, P.Sài Gòn, TP.HCM thu hút đông đảo bạn trẻ tham gia. Nhiều màn hóa thân được đầu tư trang phục, phụ kiện độc đáo.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/tnw-anh-11-1795410300042920749578-67-0-1667-2560-crop-1795411581233565721585.png",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-23T12:37:00+07:00",
-"found": "2026-11-23T12:45:16+07:00"
-},
-{
-"id": "3ef211683cc1",
-"title": "Rời bản làng xuống đại công trường: Hai tháng phụ xây bằng cả năm làm nương rẫy",
-"link": "https://kenh14.vn/roi-ban-lang-xuong-dai-cong-truong-hai-thang-phu-xay-bang-ca-nam-lam-nuong-ray-215261123115023486.chn",
-"summary": "Nhiều lao động vùng cao đang tìm thấy cơ hội đổi đời tại các đại công trường Hà Nội, nơi thu nhập có thể bằng cả năm làm nương chỉ sau 1-2 tháng làm việc.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795409307077-17954093100501628695366.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-23T12:36:00+07:00",
 "found": "2026-11-23T13:00:26+07:00"
 }
 ]
