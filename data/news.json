@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T21:33:29+07:00",
-"new": 7,
+"updated": "2026-11-26T21:47:49+07:00",
+"new": 11,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 22
+"count": 49
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,72 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "a36efe21eaef",
+"title": "6 cựu cán bộ, lãnh đạo bị bắt tạm giam vì cấp sổ đỏ trái quy định",
+"link": "https://vietnamnet.vn/6-can-bo-lanh-dao-bi-bat-tam-giam-vi-cap-so-do-trai-quy-dinh-2579087.html",
+"summary": "6 cán bộ, lãnh đạo nguyên là công chức địa chính, lãnh đạo xã, giám đốc và phó giám đốc văn phòng đăng ký đất đai ở Sơn La bị khởi tố, bắt tạm giam.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/6-can-bo-lanh-dao-bi-bat-tam-giam-vi-cap-so-do-trai-quy-dinh-3245.jpg?width=0&s=KieSN6am3_iBtT0XRPNGfw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-26T21:43:11+07:00",
+"found": "2026-11-26T21:47:49+07:00"
+},
+{
+"id": "052837c4d360",
+"title": "Giá vàng mất hơn 1/3 giá trị, chuyên gia cảnh báo chưa vội bắt đáy",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSHIzX1NpZXdzQkd3UjJlZmFuYS1TS0d4LWhuOVVKcjBGTGpZYmJNU2V3blZDY3pYa01seDZaaFloZkU2Vi1yUEJpM3dqMEJpYkNVUFJvOEZZdE9KUTFSZWlldzg3cHJBeVJsY0lBdFRXT2pnWUU3aElIbnptQUs0cFpteXhkUFV5QnktSXRKYlBpdVBmd3dqd2QzMG1kN1k?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T21:38:00+07:00",
+"found": "2026-11-26T21:47:49+07:00"
+},
+{
+"id": "e5ca62c885a0",
+"title": "Điểm tin kinh tế thế giới nổi bật ngày 26/11/2026",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY0JhSHhHdDNDVENMSS1KSDVNRC1lT2tranFKWUlzZGFZNzktdG5GOEFTOUF5Y0ZFNU83Y3FnUnlnSzFVRU9oRjN6SldSQjFsdVlHczYxSUFaQ3pFUENHS0FraHFJYmx1NUpKdjYzVnBhSjBzZE54dmFOOXR0QzdnVmZzT0VES3E4amc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T21:38:00+07:00",
+"found": "2026-11-26T21:47:49+07:00"
+},
+{
+"id": "dc107ad69fe0",
+"title": "Chính thức: Viettel cung cấp Internet vệ tinh Starlink tại Việt Nam, mức giá ra sao?",
+"link": "https://kenh14.vn/chinh-thuc-viettel-cung-cap-internet-ve-tinh-starlink-tai-viet-nam-muc-gia-ra-sao-215261126195845813.chn",
+"summary": "Khách hàng có thể đăng ký sử dụng dịch vụ với thiết bị chính hãng có giá ưu đãi trong thời gian đầu từ 9,3 triệu đồng, gói cước từ 1,59 triệu đồng/tháng...",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795697900284-17956979006292048950779.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T21:36:00+07:00",
+"found": "2026-11-26T21:47:49+07:00"
+},
+{
+"id": "977a570ca158",
+"title": "Khởi tố chủ cửa hàng kinh doanh hơn 200 đôi giày giả mạo nhãn hiệu NIKE",
+"link": "https://kenh14.vn/khoi-to-chu-cua-hang-kinh-doanh-hon-200-doi-giay-gia-mao-nhan-hieu-nike-215261126213846596.chn",
+"summary": "Công an tỉnh Khánh Hòa khởi tố chủ hộ kinh doanh VYSNEAKERS NHA TRANG về tội “Xâm phạm quyền sở hữu công nghiệp” liên quan đến việc kinh doanh hơn 200 đôi giày giả mạo nhãn hiệu NIKE.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795702819087-1795702819555770442020.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T21:34:00+07:00",
+"found": "2026-11-26T21:47:49+07:00"
+},
+{
+"id": "a5fff9a586d7",
+"title": "Mỹ nhân showbiz hết thời giờ ăn mặc hở hang đi hát quán bar mưu sinh, danh tính gây xôn xao",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzVaS0xES1dxNXVrdlkzbHlkNDE5OVY5VlJGM0JCVE81Nkw1em5vX2JwZTB5TlF3Mlllc09ieDdaY1Y5UG5USUMzbkRpNUZaXzVYZkRYckNhT0dwQTVSWHd1Y0szbmxkQVlvdmRaeTZYZHJWbVR3LXFmSGNlNlJjcDVQbkhQVE5KbUNHX05OSkJ3Y2ZLdHhQOTgzSDBlQTdTbHZEaGhTRUlmZ0FhdnBsNjQwZmZOZmM?oc=5",
+"summary": "Nguồn: Tạp chí Saostar",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-26T21:30:00+07:00",
+"found": "2026-11-26T21:47:49+07:00"
+},
+{
 "id": "5ccc9c9edb72",
 "title": "Bắt 6 cựu cán bộ cấp 7 sổ đỏ trái quy định ở Sơn La",
 "link": "https://thanhnien.vn/bat-6-cuu-can-bo-cap-7-so-do-trai-quy-dinh-o-son-la-185261126210439803.htm",
@@ -222,6 +288,30 @@
 "cat": "xh",
 "published": "2026-11-26T21:22:00+07:00",
 "found": "2026-11-26T21:33:29+07:00"
+},
+{
+"id": "45c65a25dc61",
+"title": "u-17 maroc đấu với u-17 tây ban nha",
+"link": "https://bongdaplus.vn/u17-world-cup/nhan-dinh-bong-da-u17-trung-quoc-vs-u17-fiji-22h00-ngay-26-11-chien-thang-cho-u17-trung-quoc-5299922611.html",
+"summary": "Nhận định bóng đá U17 Trung Quốc vs U17 Fiji, 22h00 ngày 26/11: Chiến thắng cho U17 Trung Quốc (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR0hG1PYo4nmdEL1PnTRaFzajQ85BFGH4Hxv--4fqPEs5IZ6Jpzn_sP9mtgcA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T21:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T21:47:49+07:00"
+},
+{
+"id": "88e6485e01db",
+"title": "mbappe",
+"link": "https://www.24h.com.vn/bong-da/dua-pha-luoi-cup-c1-nghet-tho-3-ngoi-sao-dong-hang-mbappe-so-tai-suarez-c48a1814207.html",
+"summary": "Đua phá lưới Cúp C1 nghẹt thở: 3 ngôi sao đồng hạng, Mbappe so tài Suarez (Tin tức 24h)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw1lNySbj3i6YTH3f_vtcwK0cWLb4Rt6A9C0TgY8nLOpKy8oxYmrNzdGkW2Sk",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T21:20:00+07:00",
+"traffic": "500+",
+"found": "2026-11-26T21:47:49+07:00"
 },
 {
 "id": "75c15bb8ce6e",
@@ -244,6 +334,17 @@
 "cat": "xh",
 "published": "2026-11-26T21:11:00+07:00",
 "found": "2026-11-26T21:18:18+07:00"
+},
+{
+"id": "b9f2f8a9f1e1",
+"title": "Thương mại điện tử mùa Tết: áo dài, hoa cảnh bán chạy",
+"link": "https://dantri.com.vn/kinh-doanh/thuong-mai-dien-tu-mua-tet-ao-dai-hoa-canh-ban-chay-20261126204052281.htm",
+"summary": "(Dân trí) - Mùa Tết 2026, áo dài ghi nhận hàng triệu đơn hàng trực tuyến. Bước vào Tết 2027, nhiều mặt hàng phục vụ năm mới đã sớm xuất hiện tín hiệu được người tiêu dùng quan tâm.",
+"image": "https://cdnphoto.dantri.com.vn/XrKqHHyu9staayS2_tRdfCYt5fg=/2026/11/26/img1857-1795699686839.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-26T21:10:43+07:00",
+"found": "2026-11-26T21:47:49+07:00"
 },
 {
 "id": "fb4987e8235a",
@@ -376,7 +477,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T20:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-26T21:03:06+07:00"
 },
 {
@@ -558,7 +659,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T20:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-26T20:47:54+07:00"
 },
 {
@@ -2662,6 +2763,17 @@
 "found": "2026-11-26T17:36:49+07:00"
 },
 {
+"id": "3304472f7bfa",
+"title": "Người dân ở trung tâm Hải Phòng có thể mất 4 triệu đồng phí trông ôtô mỗi tháng",
+"link": "https://vnexpress.net/nguoi-dan-o-trung-tam-hai-phong-co-the-mat-4-trieu-dong-phi-trong-oto-moi-thang-5149036.html",
+"summary": "Theo biểu giá do Sở Xây dựng đang lấy ý kiến, phí đỗ xe mỗi tháng có thể lên tới 4,05 triệu đồng ở dải trung tâm và thấp nhất 450.000 đồng tại các xã.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/1795660137914e982a4fc1d88c2e9b-9658-7983-1795660909.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HqstSRO6c5kf-y9lBYb1JQ",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-26T16:46:52+07:00",
+"found": "2026-11-26T21:47:49+07:00"
+},
+{
 "id": "b8ef3c34ac6d",
 "title": "[Infographic] Tỷ giá tính chéo để xác định trị giá tính thuế từ 26/11-2/12",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlNXaVJLRnJuQmZ4bzM2ZXNyUlAwZmFab2QxWjVWNkNXazh2UDJETHdSM2pGWTQ1VjBaUlBRTm1fcWdSTHR4OFVTMkVxMC1FNlotbjZNLVpFVUpUQkdONF9sbmxBYl9JZGptNzdCVnhPTnU0Tjl0TEp0ZUlBc3dXRnQwRWpEQXlSRGNYUFBkZjV1Um9jSkhkWjBLU2JxV20yYjlUWE8zeVQ?oc=5",
@@ -3744,6 +3856,17 @@
 "cat": "bds",
 "published": "2026-11-26T15:14:20+07:00",
 "found": "2026-11-26T16:13:52+07:00"
+},
+{
+"id": "efaa3570de09",
+"title": "Vay 1,5 tỷ mua nhà: Bài toán cân đối dòng tiền giúp người trẻ sớm an cư",
+"link": "https://dantri.com.vn/bat-dong-san/vay-15-ty-mua-nha-bai-toan-can-doi-dong-tien-giup-nguoi-tre-som-an-cu-20261126121857838.htm",
+"summary": "(Dân trí) - Hưởng lãi cố định 6,5%/năm trong 2 năm đầu, khoản vay mua nhà 1,5 tỷ đồng của một người trẻ tại TPHCM sắp chuyển sang lãi thả nổi. Nếu lãi suất ở mức 12-14%/năm, số tiền phải trả mỗi tháng có thể lên gần 20 triệu đồng.",
+"image": "https://cdnphoto.dantri.com.vn/25Jl-5-FmZqdxE7Qpis0_zYBwZ0=/2026/11/26/img6332-1795669919577.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-26T15:14:20+07:00",
+"found": "2026-11-26T21:47:49+07:00"
 },
 {
 "id": "dd9bbfaf2151",
@@ -27936,128 +28059,6 @@
 "cat": "bds",
 "published": "2026-11-24T09:43:00+07:00",
 "found": "2026-11-24T09:55:16+07:00"
-},
-{
-"id": "530b88cc915c",
-"title": "Cổ phiếu trên HNX tạm ngừng giao dịch 2 ngày trước khi chuyển sang HOSE từ 28/12",
-"link": "https://cafef.vn/co-phieu-tren-hnx-tam-ngung-giao-dich-2-ngay-truoc-khi-chuyen-sang-hose-tu-28-12-18826112409431626.chn",
-"summary": "Từ ngày 28/12, toàn bộ cổ phiếu niêm yết trên Sở Giao dịch Chứng khoán Hà Nội (HNX) được chuyển sang giao dịch tập trung tại Sở Giao dịch Chứng khoán TP.HCM (HOSE).",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795488158990-1795488159667432068262.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-24T09:43:00+07:00",
-"found": "2026-11-24T09:55:16+07:00"
-},
-{
-"id": "e76dad2a8b70",
-"title": "Họp chợ đúng mùa, đúng chỗ, thuận lòng người",
-"link": "https://tuoitre.vn/hop-cho-dung-mua-dung-cho-thuan-long-nguoi-100261124093139678.htm",
-"summary": "Người Việt vẫn có thói quen đi chợ những ngày cuối năm. Không hẳn vì thiếu thứ gì, mà vì muốn hòa vào cái không khí rộn ràng ấy: hàng nọ tựa vào hàng kia, người mua kẻ bán gọi nhau í ới, ai về cũng mang theo một chút gì cho năm mới.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/2aoboremgbnbn4tnl2fr2exu2wimhhwjnrgaztom-1795486881693456478092-293-0-1893-2560-crop-17954868871761171040850.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-24T09:42:00+07:00",
-"found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "689023d67258",
-"title": "Hiện trường vụ nổ khiến hai người chết ở Hà Nội",
-"link": "https://vnexpress.net/hien-truong-vu-no-khien-hai-nguoi-chet-o-ha-noi-5148317.html",
-"summary": "Vụ nổ trên phố Nguyễn Văn Tuyết, phường Đống Đa, khiến mảnh vỡ văng khắp đoạn đường hơn 20 m, cảnh sát cùng người dân đang đưa các nạn nhân ngoài, sáng 24/11.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/Pi7GIFCMP1-1795487871-7730-1795487920.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=n7537yXezu8qPdK31go-vw&t=image",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-24T09:41:54+07:00",
-"found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "b4875a8cd7fe",
-"title": "Căn hộ lấy cảm hứng từ sắc vàng cam của hổ phách",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSUZ3eUlWeGxOdElJQ1VhcUMyZkcxNnpNZmd0SFJiZWdQanhhRzR4WkpUZFIzd0w3SVI0OTdCOVB4RVpMbU9sVkNyNm1lU2lDd21WUG1rMjdiM21WMVl0QTFRWFhhLVd5cUtJd19mSXByVUNHcDJpM0R1cVQtWUYyeXIxUEtwWHcx?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T09:40:00+07:00",
-"found": "2026-11-24T10:10:25+07:00"
-},
-{
-"id": "240ada2cb8b6",
-"title": "los angeles fc",
-"link": "https://bongdaplus.vn/bong-da-the-gioi/nhan-dinh-bong-da-st-louis-city-vs-los-angeles-fc-08h00-ngay-24-11-chu-nha-chiem-uu-the-5296722611.html",
-"summary": "Nhận định bóng đá St. Louis City vs Los Angeles FC, 08h00 ngày 24/11: Chủ nhà chiếm ưu thế (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNFkPhyy8V_RqMTUsruRi2EmiIw2LZCcqftKQ0GnjKl6ZUI1HKix9_WxhqX18",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T09:40:00+07:00",
-"traffic": "100+",
-"found": "2026-11-24T10:10:25+07:00"
-},
-{
-"id": "06d7804ab0e7",
-"title": "Nhân viên Nvidia reo hò chào đón CEO Jensen Huang trở lại",
-"link": "https://tuoitre.vn/nhan-vien-nvidia-reo-ho-chao-don-ceo-jensen-huang-tro-lai-100261124092204581.htm",
-"summary": "Nhân viên Nvidia đứng khắp 3 tầng văn phòng, hô tên ông Jensen Huang và chào đón vị CEO tái xuất sau khi được phục chức.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/evan-nvidiaceojensenhuangisbackuxyfca-ezgifcom-optimize-3-1795486740911529745607-580-0-1080-800-crop-17954867553311415082102.gif",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-24T09:39:00+07:00",
-"found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "5822982b1ec5",
-"title": "Bắt TikToker 'Thị Nở' livestream khiêu dâm",
-"link": "https://thanhnien.vn/bat-tiktoker-thi-no-livestream-khieu-dam-185261124085130767.htm",
-"summary": "Mỗi giờ livestream khiêu dâm, TikToker 'Thị Nở' thu từ 250.000 - 500.000 đồng, có thời điểm TikToker này thu nhập tới 300 triệu đồng/tháng từ hoạt động này.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/1795480416106550621113070273150g2654084171055566863f99c573c2d90bb4320c2ca1656783bd4-1795484941754260707800-0-0-1200-1920-crop-1795485025206788108262.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-24T09:38:00+07:00",
-"found": "2026-11-24T09:40:07+07:00"
-},
-{
-"id": "00790c630b9e",
-"title": "Chứng khoán Mỹ tăng bùng nổ sau khi ông Jensen Huang trở lại ghế CEO ở Nvidia, giá dầu tụt gần 4% vì dấu hiệu cung tăng",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVFE2d2FaeDlyNzBRd1VDd1JjSFdkNHVQWXBpaXhrRlE2RGNYY2VOZlJ6Vjl4NnhrbTBjdHdqMS1Md25iRDBpMlpBeUN4bjI5UHA0b1R2MG4zTGlXQS1kMXQzS3dUMG1fUE1BY21sZFlvT2RpLUtTMHBGVFlWSHhwbGxOaERLYnJQMGlGaFctLVNraUVrN2dUaUhwRVRJT3dEUDF3YlJuRGg2QzAyZ1BIcEpvekVDT1g2NE5FM0xvN3hHeFZ0SXBIMG5EMktRNzY3Ynh3LVRjaUstdU9ubDdqdTROTmQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T09:36:06+07:00",
-"found": "2026-11-24T09:55:16+07:00"
-},
-{
-"id": "3996770ff388",
-"title": "Giá vàng hôm nay 24/11: Bật tăng dữ dội hơn 100 USD/ounce",
-"link": "https://vietnamnet.vn/gia-vang-hom-nay-24-11-bat-tang-du-doi-hon-100-usd-ounce-2577974.html",
-"summary": "Giá vàng thế giới tiếp tục tăng mạnh trong phiên giao dịch đêm 23/11, rạng sáng 24/11. Chỉ sau một ngày, giá vàng tăng gần 120 USD/ounce, tương đương 3,38%, có thời điểm vọt lên 3.690 USD/ounce.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/ounce-266.jpg?width=0&s=H6AjbSLna9UTnXX-svccOA",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-24T09:36:02+07:00",
-"found": "2026-11-24T00:58:55+07:00"
-},
-{
-"id": "d4d5d60ce155",
-"title": "Chưa đầy 1 ngày nữa, khu du lịch 6.000 tỷ đồng của vợ chồng bà Nguyễn Phương Hằng chính thức kết thúc chương trình ưu đãi đặc biệt",
-"link": "https://kenh14.vn/chua-day-1-ngay-nua-khu-du-lich-6000-ty-dong-cua-vo-chong-ba-nguyen-phuong-hang-chinh-thuc-ket-thuc-chuong-trinh-uu-dai-dac-biet-215261124094338453.chn",
-"summary": "Khu du lịch Đại Nam vừa có chương trình ưu đãi và các hoạt động đáng chú ý kéo dài liên tục 5 ngày.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795488168929-1795488169405643505623.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T09:36:00+07:00",
-"found": "2026-11-24T09:55:16+07:00"
-},
-{
-"id": "2e8f22cb9ffb",
-"title": "Nổ lớn ở Hà Nội, một ngôi nhà đổ sập, có ghi nhận thương vong",
-"link": "https://thanhnien.vn/no-lon-o-ha-noi-mot-ngoi-nha-do-sap-co-ghi-nhan-thuong-vong-185261124092041256.htm",
-"summary": "Khoảng 8 giờ sáng nay 24.11, một vụ nổ lớn xảy ra tại phố Nguyễn Văn Tuyết, P. Đống Đa (Hà Nội) khiến một ngôi nhà đổ sập, nhiều công trình xung quanh hư hại. Cảnh sát xác định có thương vong.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-179548589094328250724034965468722825072403496546872c4a1c816bf012ece53c95f245ee2bddb-1795486753577718969003-232-0-832-960-crop-17954867756831758022952.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-24T09:35:00+07:00",
-"found": "2026-11-24T09:40:07+07:00"
 }
 ]
 }
