@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T11:59:05+07:00",
-"new": 13,
+"updated": "2026-11-26T12:14:16+07:00",
+"new": 15,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 55
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,105 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "0da325e8b160",
+"title": "Giá vàng nhẫn PNJ thấp hơn lên đến 2 triệu đồng/lượng",
+"link": "https://thanhnien.vn/gia-vang-nhan-pnj-thap-hon-len-den-2-trieu-dong-luong-185261126120319011.htm",
+"summary": "Cùng chất lượng vàng 4 số 9 nhưng giá nhẫn tại các công ty kinh doanh chênh lệch khá cao, riêng PNJ thấp hơn các công ty khác từ 500.000 đến 2,3 triệu đồng mỗi lượng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-pnj-17956692361171568537365-139-0-939-1280-crop-1795669276446302679303.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-26T12:11:00+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
+"id": "485f1a087a2f",
+"title": "Cuối năm 2026, hộ kinh doanh cần chú ý thời gian kê khai thuế đúng quy định",
+"link": "https://thanhnien.vn/cuoi-nam-2026-ho-kinh-doanh-can-chu-y-thoi-gian-ke-khai-thue-dung-quy-dinh-185261126092149483.htm",
+"summary": "Chỉ còn hơn 1 tháng là hết năm 2026, hộ kinh doanh cần chú ý một số mốc thời gian quan trọng trong kê khai thuế.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-ho-kinh-doanh-ngoc-duong-17721865585221512949681-17956672317691103802377-202-0-1802-2560-crop-1795667238339706536673.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-26T12:11:00+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
+"id": "d0d7d07314d9",
+"title": "Công an tập huấn kỹ năng lái xe máy an toàn ở Đồng Nai",
+"link": "https://thanhnien.vn/cong-an-tap-huan-ky-nang-lai-xe-may-an-toan-o-dong-nai-185261126105326188.htm",
+"summary": "Buổi tập huấn góp phần nâng cao ý thức chấp hành pháp luật và kỹ năng lái xe an toàn của người dân, hướng tới kéo giảm tai nạn giao thông trên địa bàn dân cư.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tap-huan-lai-xe-1-17956655543271149870627-63-0-1663-2560-crop-1795665644739386944914.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T12:11:00+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
+"id": "01ef184ef905",
+"title": "Nâng tầm quản trị công ty, tạo nền tảng phát triển thị trường vốn",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0U5N2xEQ1QzNUJzUjVralFCczhtdzJ3alRNQ2RQbWxXblFhYVhPenl0NmV5VVphd0xZNGg3OThoRjFRM0NnLTZGVnNaNlgwZVFMTEo0b0JNd1h3Yk5Sb2pfNWloU3N0Y2lzX0VWMk1GNUczbDduV0NKQzMtMXFWcTlVMF8zSlpESmNwWE1tRkpGYktuTHdxT1lVOUE0UQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T12:08:00+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
+"id": "ea18edd5ad8d",
+"title": "Lãi suất ngân hàng hôm nay 26/11/2026: Giảm nhẹ ở các kỳ hạn ngắn",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdWVSZlNqRHJQd3lkUDl2NUZidThzX1R1WjhyUURLaUFGQUxxMFNMWVhUNU5KRzJKMm9wX1Bwd0ZpMENyUWlpN3dhVllQdWtNRGs2akxENlRZNjhVdnVLMk0ySkJpdXM0bGNCWnpxZnlXbGMtVXhwQW5aN1Y3NTRuaWZlS2huSXc3MzZxRTRHc01NVHNBa1J1U3hydWxEdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T12:07:00+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
+"id": "77a071bfdcd9",
+"title": "Thị trường lao dốc sau tin thuế quan mới, cầu bắt đáy hoạt động mạnh",
+"link": "https://vneconomy.vn/thi-truong-lao-doc-sau-tin-thue-quan-moi-cau-bat-day-hoat-dong-manh.htm",
+"summary": "Thông tin mới liên quan đến quá trình điều tra tình trạng dư thừa công suất và sản lượng của Cơ quan Đại diện Thương mại Hoa Kỳ công bố đêm qua đã ảnh hưởng đáng kể đến tâm lý nhà đầu tư trong nước. Áp lực bán tăng vọt khiến cổ phiếu giảm diện rộng, nhưng cũng kích hoạt lượng…",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/26/ca721eccc5db4937afb47c1593c9d781-138870.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-26T12:02:00+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
+"id": "360d070cc07b",
+"title": "Trực thăng kéo cờ, UAV xuất hiện trong buổi tập luyện Triển lãm Quốc phòng 2026",
+"link": "https://thanhnien.vn/truc-thang-keo-co-uav-xuat-hien-trong-buoi-tap-luyen-trien-lam-quoc-phong-2026-185261126113631883.htm",
+"summary": "Sáng 26.11, tại sân bay Gia Lâm (Hà Nội), thượng tướng Nguyễn Trường Thắng, Thứ trưởng Bộ Quốc phòng, Trưởng ban chỉ đạo Triển lãm Quốc phòng quốc tế Việt Nam lần thứ 3, kiểm tra công tác chuẩn bị tổ chức triển lãm.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-duyet-trien-lam-quoc-phong-26112026-24-17956669274161378038029-106-0-1706-2560-crop-17956677440411237750834.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T12:01:00+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
+"id": "931b0d316baf",
+"title": "CHÍNH THỨC từ hôm nay (26/11), FChoice Awards 2026 mở bình chọn: 5 giải thưởng, hàng loạt cuộc đua chờ cộng đồng gọi tên",
+"link": "https://kenh14.vn/chinh-thuc-tu-hom-nay-26-11-fchoice-awards-2026-mo-binh-chon-5-giai-thuong-hang-loat-cuoc-dua-cho-cong-dong-goi-ten-21526112610362747.chn",
+"summary": "Sau giai đoạn tiếp nhận đề cử, FChoice Awards 2026 chính thức mở cổng bình chọn nhóm Cộng đồng bình chọn từ 0h ngày 26/11. Năm nay, độc giả có thể tham gia lựa chọn các đề cử ở 5 hạng mục thuộc lĩnh vực tài chính, ngân hàng và giải trí thông qua nền tảng bình chọn độc quyền…",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795663764647-17956637650441437827245.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T12:01:00+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
+"id": "d2b5598743e9",
+"title": "Vì sao ông Trump áp thêm thuế nhập khẩu, bất chấp lạm phát?",
+"link": "https://vnexpress.net/vi-sao-ong-trump-ap-them-thue-nhap-khau-bat-chap-lam-phat-5149098.html",
+"summary": "Thuế nhập khẩu là công cụ hữu hiệu giúp Tổng thống Mỹ thể hiện quyền lực kinh tế khi đảng Cộng hòa không còn kiểm soát Quốc hội.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/26/ap26313825334342-1795665496-6418-1795665589.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Fhj0YUd2hrCMexq5sprrAQ",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-26T11:58:21+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
 "id": "337c1864852f",
 "title": "Hà Nội dự kiến có 500 - 600 cơ sở kiểm định khí thải xe máy",
 "link": "https://thanhnien.vn/ha-noi-du-kien-co-500-600-co-so-kiem-dinh-khi-thai-xe-may-185261126105602261.htm",
@@ -233,6 +332,51 @@
 "cat": "tc",
 "published": "2026-11-26T11:54:13+07:00",
 "found": "2026-11-26T11:59:05+07:00"
+},
+{
+"id": "34cf0b2a2918",
+"title": "Long Châu cùng ngành y tế nâng cao nhận thức cộng đồng về tiêm chủng, tiên phong sáng kiến số minh bạch thông tin vắc xin",
+"link": "https://kenh14.vn/long-chau-cung-nganh-y-te-nang-cao-nhan-thuc-cong-dong-ve-tiem-chung-tien-phong-sang-kien-so-minh-bach-thong-tin-vac-xin-215261126115646596.chn",
+"summary": "Nối dài hành trình kết nối chuyên môn bảo vệ sức khỏe cộng đồng, ngay sau Hội nghị Y học dự phòng toàn quốc 2026, Long Châu tham dự và kết nối với các chuyên gia đầu ngành tại Hội nghị Khoa học năm 2026 Viện Pasteur TP.HCM.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/photo1795661386744-17956613883251161740237-17956690095311701804703.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T11:53:00+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
+"id": "87f460c2be5e",
+"title": "Ông Đặng Lê Nguyên Vũ từng tuyên bố: Trung Nguyên phải trở thành tập đoàn số một toàn cầu, có hệ sinh thái cà phê khác biệt và duy nhất",
+"link": "https://kenh14.vn/ong-dang-le-nguyen-vu-tung-tuyen-bo-trung-nguyen-phai-tro-thanh-tap-doan-so-mot-toan-cau-co-he-sinh-thai-ca-phe-khac-biet-va-duy-nhat-215261126114544784.chn",
+"summary": "8 năm sau lời tuyên bố của ông Đặng Lê Nguyên Vũ, Tập đoàn Trung Nguyên đã đánh chiếm tại nhiều thị trường trọng điểm như Mỹ, Trung Quốc.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795668323497-1795668324154244011427.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T11:52:00+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
+"id": "6f3335b81ab5",
+"title": "Những năng lực mới đang được tạo dựng trên đất Việt và đi ra thế giới",
+"link": "https://kenh14.vn/nhung-nang-luc-moi-dang-duoc-tao-dung-tren-dat-viet-va-di-ra-the-gioi-215261126105816395.chn",
+"summary": "Ngày 26/11/2026, CafeF chính thức công bố danh sách ứng viên FChoice Awards 2026 với chủ đề “Tăng trưởng vượt bậc – Ghi dấu toàn cầu”, đồng thời mở cổng bình chọn dành cho cộng đồng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/fchoice-2026-thumbnail-1600x1000-1a333c10-800c-4580-b7b9-387cb2018885-179566535298331820928.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T11:52:00+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
+"id": "f82db5697a83",
+"title": "nhập cư bất hợp pháp",
+"link": "https://vnexpress.net/nguoi-trung-so-1-trieu-usd-bi-ice-bat-sau-khi-di-nhan-giai-5149018.html",
+"summary": "Người trúng số 1 triệu USD bị ICE bắt sau khi đi nhận giải (VnExpress)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgzZPdkklq_-O5zFqL4fCZAVBFdLqVc4YcTI6__B46aheJz5AiXk02c23fnK4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T11:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-26T12:14:16+07:00"
 },
 {
 "id": "618a6d50bf6f",
@@ -323,6 +467,17 @@
 "found": "2026-11-26T11:43:55+07:00"
 },
 {
+"id": "10053d8c488f",
+"title": "Bị phạt nồng độ cồn, người đàn ông ở TPHCM xúc phạm CSGT trên mạng",
+"link": "https://dantri.com.vn/phap-luat/bi-phat-nong-do-con-nguoi-dan-ong-o-tphcm-xuc-pham-csgt-tren-mang-20261126110754205.htm",
+"summary": "(Dân trí) - Sau khi bị CSGT xử phạt vi phạm nồng độ cồn, một người đàn ông ở xã Hòa Hiệp (TPHCM) đã đăng bài viết có nội dung xúc phạm lực lượng chức năng lên Facebook.",
+"image": "https://cdnphoto.dantri.com.vn/5hC3iMqe08U62x_ptZRv2W-cBQw=/2026/11/26/92602605011474211743451364838967722927978444n-edited-1795665852596.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-26T11:40:37+07:00",
+"found": "2026-11-26T12:14:16+07:00"
+},
+{
 "id": "a5b02d484409",
 "title": "huawei mate x8",
 "link": "https://genk.vn/huawei-mate-x8-ra-mat-mong-42-mm-nep-gap-gan-nhu-bien-mat-gia-tu-50-trieu-dong-165261125180109469.chn",
@@ -388,6 +543,17 @@
 "cat": "tc",
 "published": "2026-11-26T11:34:00+07:00",
 "found": "2026-11-26T11:43:55+07:00"
+},
+{
+"id": "27209f5df750",
+"title": "Nửa đêm đột nhập ký túc xá trường cao đẳng, ép nhiều nam sinh chuyển tiền",
+"link": "https://dantri.com.vn/phap-luat/nua-dem-dot-nhap-ky-tuc-xa-truong-cao-dang-ep-nhieu-nam-sinh-chuyen-tien-20261126112209178.htm",
+"summary": "(Dân trí) - Nhóm 4 đối tượng ở Lào Cai đột nhập vào ký túc xá nam của Trường Cao đẳng nghề Yên Bái rồi đe dọa, hành hung, bắt các nam sinh chuyển tiền cho chúng.",
+"image": "https://cdnphoto.dantri.com.vn/mfeN-BVCoKjkCebQdYxcrDOrvuA=/2026/11/26/pham-toi-edited-1795666798592.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-26T11:32:44+07:00",
+"found": "2026-11-26T12:14:16+07:00"
 },
 {
 "id": "a7222ff5bf8d",
@@ -27940,172 +28106,6 @@
 "published": "2026-11-23T18:00:00+07:00",
 "traffic": "500+",
 "found": "2026-11-23T18:24:17+07:00"
-},
-{
-"id": "e4222e047c7e",
-"title": "lịch u17 wc",
-"link": "https://dantri.com.vn/the-thao/xem-truc-tiep-tran-u17-viet-nam-gap-u17-new-zealand-o-dau-20261123132208292.htm",
-"summary": "Xem trực tiếp trận U17 Việt Nam gặp U17 New Zealand ở đâu? (Báo Dân trí)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzW1lbi4Uz0x3Lj2pRZ58tdx0IN-SAjEoqzlpkto-WeeinI1wvNButRW7oQE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-23T18:00:00+07:00",
-"traffic": "500+",
-"found": "2026-11-23T18:24:17+07:00"
-},
-{
-"id": "ffbfad148e0a",
-"title": "VN-Index hồi phục, khối ngoại tiếp tục bán ròng",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3FLUlVwMTJ1c0x3VTU0eXhlVFFvdmNGZ2pSeFRZc2lWNDRrSEVUMXBVSGE3Sjg0aG5hMkhUcUFaM1JxbE1MSk1IYXJpTF9iRmlXR19YRXpIamd5dkM0Z2t2N3JHcFNncGdJWGxyU0xKX0haS0otS0ZkWFpiX3pVNTNfNVB3QQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:59:00+07:00",
-"found": "2026-11-23T20:12:56+07:00"
-},
-{
-"id": "08db2951ab3a",
-"title": "HAGL muốn phát hành lô trái phiếu 400 tỷ đồng, TPBank bảo lãnh thanh toán",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHNBcmVSMUJVcU5oRHZYaDBmM05vY0F2cklscmU0dUNCVWVIaHBpVkdET3p5MmhCd0xxS0NUd2xuNEVkdm1NeWpiN091YnlucGtIcFJLLS1RNW0yZWpPa3BqUWVKNnlOSWhIOHN0MmZZMVBBcHRfRjNqUmdOakVwVk9xTUJ3Ymx2UV9MOXFRS0ZYbGNPTVVaa1ZuQXVvYU9sLWdUMGs5ZVI?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:58:00+07:00",
-"found": "2026-11-23T18:09:08+07:00"
-},
-{
-"id": "6eeba6a31119",
-"title": "Cử tri Đắk Lắk đề xuất mở rộng quốc lộ 26",
-"link": "https://tuoitre.vn/cu-tri-dak-lak-de-xuat-mo-rong-quoc-lo-26-100261123144727718.htm",
-"summary": "Tại buổi tiếp xúc cử tri, người dân tỉnh Đắk Lắk kiến nghị sớm mở rộng quốc lộ 26 ở tỉnh này để thuận tiện lưu thông.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/cu-tri-dak-lak-than-phien-o-nhiem-bai-rac-de-xuat-mo-rong-quoc-lo-26-le-trung-2026-11-23-4-17954195486731609524271-76-0-988-1460-crop-1795432103408674730696.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T17:58:00+07:00",
-"found": "2026-11-23T19:42:34+07:00"
-},
-{
-"id": "6fccce5dda8d",
-"title": "TP. Hồ Chí Minh: Đề xuất nhiều giải pháp phát triển mô hình Khu đô thị khoa học, công nghệ và đổi mới sáng tạo",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTWlwNUlvY2ZBS2Q1cnpmVzJ4YzhKQkJQOWFUM0tMYXdJR0FpT1lET2NqWmNaNENwblA5QzZrUHpwUU1xUmwyeGtubHJNSHVhcHBZNmxrcWFVbVRyNElrb0tqSE1HcnZtZUV1eWRrTS1za1Ezb0RBd0RzamNPal8zeEcyeUF4X1pzR3dwa3VYWlBkWmM2Tm5WeXZwVU5BM1M1RWl5Uk56WnRHUkhwTHdhTnE4R2VqeDRnZDI1UFZUekdlZTZsSElCS1NHOUhvdnRIRkxqWFg2WQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-23T17:58:00+07:00",
-"found": "2026-11-24T03:57:01+07:00"
-},
-{
-"id": "560a7961758e",
-"title": "Bàn giải pháp cho tương lai hạt gạo xanh Việt Nam",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWxUdV8yT1JRcFZCc3VTdWMxVWVjSDlfOVZub3h5Qk9NdGtwQV9nUHNRNXBBSWJSLXBpZkxVeDY1ZHBNbkFQd1dYSDRYNVhSdzhURFdyM3Q4ZklOVWI1RXFMT1czNWVsU3Z1X1ZuandmY2dUaEJRTnNPMk81aHRZTzNzYnJ6alZ4ZXc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:56:26+07:00",
-"found": "2026-11-24T06:46:52+07:00"
-},
-{
-"id": "47ed3f2dc017",
-"title": "Giám đốc công ty lâm nghiệp ở Đồng Nai bị bắn đã tử vong",
-"link": "https://tuoitre.vn/giam-doc-cong-ty-lam-nghiep-o-dong-nai-bi-ban-da-tu-vong-100261123174152896.htm",
-"summary": "Sau gần 1 tuần điều trị tại Bệnh viện Chợ Rẫy, dù được các y bác sĩ tích cực điều trị nhưng Giám đốc Công ty Lâm nghiệp La Ngà, người bị bắn vào đầu tại phòng làm việc ngày 17-11, đã tử vong.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/18/tin-thoi-su-new-17945517143101453544084-119-226-1024-1674-crop-17949775753872064478384.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T17:56:00+07:00",
-"found": "2026-11-23T19:12:38+07:00"
-},
-{
-"id": "65538c28707a",
-"title": "Giá vàng phục hồi từ mức thấp nhất trong 14 tháng",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRzh6NnltLVZGZW8xY1ZwWTZIZElNRzQ3WFY0dGUyY1RBTGRLd0NkeEhRTU0wR2Q3RndJUFJaOE02RGd2MzNuWjlWNmJnMGNndWh4RmExdlBNVk9VTW9iMmZUcWx4R2xvTmEyYkxWTWhXa1JydkJVWTlLYnlMMlk0bXBMeC1rSVFjeGc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:55:00+07:00",
-"found": "2026-11-23T18:09:08+07:00"
-},
-{
-"id": "ee7be0a79eb2",
-"title": "57 trường đại học, cao đẳng ở TP.HCM có tỉ lệ sinh viên tham gia BHYT dưới 100%",
-"link": "https://tuoitre.vn/57-truong-dai-hoc-cao-dang-o-tphcm-co-ti-le-sinh-vien-tham-gia-bhyt-duoi-100-100261123155325396.htm",
-"summary": "BHXH TP.HCM vừa công bố 57 trường, đơn vị thuộc khối đại học, cao đẳng tại TP.HCM có tỉ lệ sinh viên tham gia BHYT chưa đạt 100% tính đến ngày 15-11-2026.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/4738129134875925776945646072547273059009696n-1795424831936399474216-61-0-1341-2048-crop-17954249638422132554621.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-23T17:51:00+07:00",
-"found": "2026-11-23T19:12:38+07:00"
-},
-{
-"id": "dc0cc22aa689",
-"title": "Tổng giám đốc Công ty Thanh Niên chiếm đoạt gần 500 tỷ đồng của PVcombank",
-"link": "https://vietnamnet.vn/tong-giam-doc-cong-ty-thanh-nien-chiem-doat-500-ty-cua-pvcombank-2577900.html",
-"summary": "Làm ăn thua lỗ nhưng Tổng giám đốc Công ty Thanh Niên vẫn chỉ đạo nhân viên nâng khống vốn điều lệ và cổ phần để thế chấp, vay và chiếm đoạt gần 500 tỷ đồng từ PVcombank.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/tong-giam-doc-cong-ty-thanh-nien-chiem-doat-gan-500-ty-dong-cua-pvcombank-2125.jpg?width=0&s=1iU4MmLWoRCM9eNwjOiUuA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-23T17:49:53+07:00",
-"found": "2026-11-23T17:53:57+07:00"
-},
-{
-"id": "b7f184beee74",
-"title": "Người từng nhận 1.000 tỷ của bà Trương Mỹ Lan lĩnh án chung thân vì lừa đảo",
-"link": "https://dantri.com.vn/phap-luat/nguoi-tung-nhan-1000-ty-cua-ba-truong-my-lan-linh-an-chung-than-vi-lua-dao-20261123171846606.htm",
-"summary": "(Dân trí) - Bị cáo Nguyễn Văn Liêm (cựu Chủ tịch HĐQT Công ty Thanh Niên) bị TAND TPHCM tuyên phạt tù chung thân vì lừa đảo chiếm đoạt 498 tỷ đồng của PVcombank. Bị cáo từng liên quan vụ án Trương Mỹ Lan.",
-"image": "https://cdnphoto.dantri.com.vn/YyzdaVP459uzQ8vI_A7o80mmfhc=/2026/11/23/17954274519901866895581427001022g6625312003087252903a4564dc7a430e501c7af5d722a13e1d5-edited-1795428549415.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-23T17:49:03+07:00",
-"found": "2026-11-23T18:09:08+07:00"
-},
-{
-"id": "ce46a9ec394d",
-"title": "Chuẩn bị hồ sơ tài chính tốt, doanh nghiệp nhỏ tăng cơ hội tiếp cận vốn vay",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR3plTXBYa05GaWRISDFrSTR3dXhZc01TdWdJN1ZiaFVZaTdUclVCdEJqSjk3ODBoaXg4SllwNGJBRmJDckZPTnptTlVyYUZqblljQ0tJUWMxaW4xZGNBOV9fRG00RDhfRjRPSXRRa2V4UHA4UVR4S1pibWNDbWdSTDVZYjlqUFdwWGxYSFBSdlhUY0pNZFRrT1B6RS1XUzZKVHdabnhQTlV3XzA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:48:38+07:00",
-"found": "2026-11-23T19:57:45+07:00"
-},
-{
-"id": "4feb67f1590d",
-"title": "Khối ngoại mua ròng gần 180 tỷ đồng POW, ngừng bán FPT",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN0VQSnZDcVp6aERiQll3OFlvNDY4SWtLOFRhX2Q2Y3FaUzJpTnJscTk5YUwxN0lPLWgtbGM1MFpIQjg1RWlDWksxRW96ZWFkbjNQb25kNFRvQ1AwMjAzc3ZEUkZmWWkzaGQxbWFUd0F5VUFhWjBBMkc4VUFIRTBOR2NFaW1ZNjVsVnlDZTdIMA?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-23T17:47:00+07:00",
-"found": "2026-11-23T17:53:57+07:00"
-},
-{
-"id": "08d6f5120003",
-"title": "Xóa nợ lệ phí môn bài: Khẩn trương rà soát người được hưởng",
-"link": "https://dantri.com.vn/kinh-doanh/xoa-no-le-phi-mon-bai-khan-truong-ra-soat-nguoi-duoc-huong-20261123173833639.htm",
-"summary": "(Dân trí) - Sau khi Quốc hội thông qua chính sách đặc thù xử lý nợ lệ phí môn bài và tiền chậm nộp, ngành thuế yêu cầu khẩn trương rà soát, phân loại người nộp thuế thuộc diện được hưởng.",
-"image": "https://cdnphoto.dantri.com.vn/l21SqaSslH0dWqY_QUHH6ME5F-Y=/2026/11/23/179542506328620773287154790700112798318651773685306738d97e502179a207968a79f683a8566-1795430198535.jpeg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-23T17:46:02+07:00",
-"found": "2026-11-23T18:24:17+07:00"
-},
-{
-"id": "92493a6d87a7",
-"title": "CEO nêu tình hình tài chính 'hết sức khẩn cấp', cổ phiếu PNJ nằm sàn",
-"link": "https://cafef.vn/ceo-neu-tinh-hinh-tai-chinh-het-suc-khan-cap-co-phieu-pnj-nam-san-18826112317422559.chn",
-"summary": "VN-Index thu hẹp đáng kể đà giảm trong phiên 23/11 nhưng chưa thể lấy lại mốc 1.700 điểm. Trong khi FPT hồi phục mạnh sau chuỗi phiên đi xuống, cổ phiếu PNJ tiếp tục chịu áp lực bán lớn, giảm sàn.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/23/avatar1795430519330-17954305198121447664835.webp",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-23T17:46:00+07:00",
-"found": "2026-11-23T17:53:57+07:00"
 }
 ]
 }
