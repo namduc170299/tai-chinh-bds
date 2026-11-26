@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T18:07:15+07:00",
-"new": 5,
+"updated": "2026-11-26T18:21:00+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 50
+"count": 22
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "ff29327c8ea7",
+"title": "Khởi tố chủ cửa hàng bán giày giả nhãn hiệu Nike ở Khánh Hòa",
+"link": "https://thanhnien.vn/khoi-to-chu-cua-hang-ban-giay-gia-nhan-hieu-nike-o-khanh-hoa-185261126162600528.htm",
+"summary": "Phát hiện cửa hàng ở Nha Trang có hơn 200 đôi giày giả nhãn hiệu Nike, Công an tỉnh Khánh Hòa đã khởi tố chủ cơ sở về hành vi xâm phạm quyền sở hữu công nghiệp.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/screenshot-2026-11-21-224559-17956845741432051343910-0-30-677-1113-crop-1795685268341755956512.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T18:18:00+07:00",
+"found": "2026-11-26T18:21:00+07:00"
+},
+{
+"id": "29aa1401407c",
+"title": "Cán bộ, công chức TP.HCM thi đua đi metro, xe buýt có thể được tặng bằng khen",
+"link": "https://thanhnien.vn/can-bo-cong-chuc-tphcm-thi-dua-di-metro-xe-buyt-co-the-duoc-tang-bang-khen-185261126174532303.htm",
+"summary": "Cán bộ, công chức, viên chức TP.HCM được khuyến khích đi xe buýt, metro ít nhất 2 lần/tuần; kết quả sẽ gắn với đánh giá, xếp loại và bình xét thi đua, khen thưởng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-can-bo-thi-dua-di-metro-1795689233548562743567-0-64-1560-2560-crop-179568940417337856682.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T18:10:00+07:00",
+"found": "2026-11-26T18:21:00+07:00"
+},
+{
+"id": "6bb8f67c259e",
+"title": "Thưởng Tết Dương lịch, Tết Nguyên đán ở Tây Ninh mức cao nhất hơn 600 triệu đồng/người và thấp nhất 100.000 đồng/người",
+"link": "https://kenh14.vn/thuong-tet-duong-lich-tet-nguyen-dan-o-tay-ninh-muc-cao-nhat-hon-600-trieu-dong-nguoi-va-thap-nhat-100000-dong-nguoi-215261126174449857.chn",
+"summary": "Theo báo cáo từ hơn 900 doanh nghiệp tại Tây Ninh, Mức tiền thưởng cao nhất dịp Tết Dương lịch và Tết Nguyên đán Đinh Mùi năm 2027 được ghi nhận đều hơn 600 triệu đồng/người.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795689884697-17956898849941619377501.jpeg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T18:09:00+07:00",
+"found": "2026-11-26T18:21:00+07:00"
+},
+{
+"id": "b6743a66d0f4",
+"title": "Việt Nam đã đưa ra những cam kết chưa từng có tiền lệ để đàm phán thuế với Mỹ",
+"link": "https://vietnamnet.vn/bo-cong-thuong-noi-gi-ve-de-xuat-thue-bo-sung-35-cua-my-voi-hang-viet-2579014.html",
+"summary": "Trước đề xuất áp thuế bổ sung lên tới 35% với hàng Việt Nam, Bộ Công Thương cho biết Việt Nam đã đưa ra những cam kết ở mức cao nhất có thể, chưa từng có tiền lệ, nhằm sớm hoàn tất đàm phán Hiệp định thương mại đối ứng với Mỹ.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/viet-nam-da-dua-ra-nhung-cam-ket-chua-tung-co-tien-le-de-dam-phan-thue-voi-my-2467.png?width=0&s=WVE-l-wIDbL1oObDMR21Ng",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-26T18:06:51+07:00",
+"found": "2026-11-26T17:36:49+07:00"
+},
+{
 "id": "5bea47875fb0",
 "title": "Ông Lê Thanh Thản bồi thường cho 519 người mua nhà ở CT6 Kiến Hưng thế nào?",
 "link": "https://kenh14.vn/ong-le-thanh-than-boi-thuong-cho-519-nguoi-mua-nha-o-ct6-kien-hung-the-nao-21526112617093188.chn",
@@ -255,17 +299,6 @@
 "cat": "tc",
 "published": "2026-11-26T17:42:00+07:00",
 "found": "2026-11-26T17:52:01+07:00"
-},
-{
-"id": "b6743a66d0f4",
-"title": "Việt Nam đã đưa ra những cam kết chưa từng có tiền lệ để đàm phán thuế với Mỹ",
-"link": "https://vietnamnet.vn/bo-cong-thuong-noi-gi-ve-de-xuat-thue-bo-sung-35-cua-my-voi-hang-viet-2579014.html",
-"summary": "Trước đề xuất áp thuế bổ sung lên tới 35% với hàng Việt Nam, Bộ Công Thương cho biết Việt Nam đã đưa ra những cam kết ở mức cao nhất có thể, chưa từng có tiền lệ, nhằm sớm hoàn tất đàm phán Hiệp định thương mại đối ứng với Mỹ.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/viet-nam-da-dua-ra-nhung-cam-ket-chua-tung-co-tien-le-de-dam-phan-thue-voi-my-2467.png?width=0&s=WVE-l-wIDbL1oObDMR21Ng",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-26T17:41:02+07:00",
-"found": "2026-11-26T17:36:49+07:00"
 },
 {
 "id": "0f2252633d17",
@@ -1071,7 +1104,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T16:40:00+07:00",
-"traffic": "500+",
+"traffic": "200+",
 "found": "2026-11-26T16:59:23+07:00"
 },
 {
@@ -28014,40 +28047,6 @@
 "source": "Tuổi Trẻ",
 "cat": "tc",
 "published": "2026-11-24T07:10:00+07:00",
-"found": "2026-11-24T07:34:10+07:00"
-},
-{
-"id": "a7810415751d",
-"title": "siêu đô thị",
-"link": "https://vnexpress.net/tp-hcm-dat-muc-tieu-vao-nhom-100-thanh-pho-dang-song-tren-the-gioi-5147930.html",
-"summary": "TP HCM đặt mục tiêu vào nhóm 100 thành phố đáng sống trên thế giới (VnExpress)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ57KPqYi126elwf5DNZEEySMdjRidLg5aQqNwqsFgz1-yNl6dcJWyBr4CJtDg",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T07:10:00+07:00",
-"traffic": "500+",
-"found": "2026-11-24T07:34:10+07:00"
-},
-{
-"id": "dd3179e957f5",
-"title": "Nhà ống 5 tầng 50m² có nên lắp thang máy?",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kZ0pqOU02MGVHRlNlc0gtV09jd2hCX3BUY1dXUkZoeHFfVTlucmxMN0R4YVFTLWNKVGotTFV6T1pjVU9zMUtCcFZzV05WWk9aMUoxNnFwZDlySFZLSVZBVE81SWRpaTBScVpRbzZ1UWlqTlVYNmlsSDZlOWpDUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T07:09:00+07:00",
-"found": "2026-11-24T07:18:11+07:00"
-},
-{
-"id": "b9398cf47eee",
-"title": "Việt Nam vừa đón một tin vui từ Trung Quốc",
-"link": "https://kenh14.vn/viet-nam-vua-don-mot-tin-vui-tu-trung-quoc-215261123232419636.chn",
-"summary": "Việt Nam vừa sở hữu một mỏ vàng gần 2 tỷ USD sau 10 tháng đầu năm 2026.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795451014377-17954510150562071668403.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T07:09:00+07:00",
 "found": "2026-11-24T07:34:10+07:00"
 }
 ]
