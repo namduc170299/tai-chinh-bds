@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T02:43:44+07:00",
-"new": 1,
+"updated": "2026-11-27T02:59:14+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 48
+"count": 22
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,64 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "df44e5b2cccc",
+"title": "juventus đấu với omonia",
+"link": "https://bongdaplus.vn/europa-league/nhan-dinh-bong-da-juventus-vs-omonia-nicosia-03h00-ngay-27-11-lao-ba-tiep-tuc-thang-dam-5298902611.html",
+"summary": "Nhận định bóng đá Juventus vs Omonia Nicosia, 03h00 ngày 27/11: Lão bà tiếp tục thắng đậm (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDDZMebNvHQkLgdaRHMkhcZiDnuo8gzwBkZTYmARJ1jlNxO4UViW0MmCuOwaM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T02:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-27T02:59:14+07:00"
+},
+{
+"id": "89a64fd471c4",
+"title": "Căn nhà giữa rừng với bốn mặt tường kính trong suốt",
+"link": "https://vnexpress.net/can-nha-giua-rung-voi-bon-mat-tuong-kinh-trong-suot-5149209.html",
+"summary": "Thiết kế căn nhà hướng đến trải nghiệm sống giữa thiên nhiên, nơi cảnh quan và ánh sáng thay đổi diện mạo không gian nội thất theo từng thời điểm trong ngày.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/1-1795676123.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zqzin_vEnCvJtXJ_7C1qRw",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-27T02:37:03+07:00",
+"found": "2026-11-27T02:59:14+07:00"
+},
+{
+"id": "af6151f41dca",
+"title": "crystal palace đấu với real sociedad",
+"link": "https://bongdaplus.vn/europa-league/nhan-dinh-bong-da-crystal-palace-vs-sociedad-03h00-ngay-27-11-cu-hich-cho-crystal-palace-5298442611.html",
+"summary": "Nhận định bóng đá Crystal Palace vs Sociedad, 03h00 ngày 27/11: Cú hích cho Crystal Palace (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmUrEHCclTqeASCpIrkI_ro61QT5CklwFGucPIbMG7vT_rvO5LxUufRtc_3V0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T02:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-27T02:59:14+07:00"
+},
+{
+"id": "b6843e11c20a",
+"title": "sunderland đấu với jagiellonia białystok",
+"link": "https://bongdaplus.vn/europa-league/nhan-dinh-bong-da-sunderland-vs-jagiellonia-bialystok-03h00-ngay-27-11-meo-den-vuot-kho-5299182611.html",
+"summary": "Nhận định bóng đá Sunderland vs Jagiellonia Bialystok, 03h00 ngày 27/11: Mèo đen vượt khó (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnOm5OzVRVW6nzBnVlVQkgCO9e8QRUy2GI8hn2Uc1oYT_b8eGrSuAP90Be8GI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T02:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-27T02:59:14+07:00"
+},
+{
+"id": "37d55e19a6a3",
+"title": "Thủ tướng đề nghị tăng kết nối giữa CPTPP, ASEAN và EU",
+"link": "https://vnexpress.net/thu-tuong-de-nghi-tang-ket-noi-giua-cptpp-asean-va-eu-5149379.html",
+"summary": "Thủ tướng Lê Minh Hưng đề nghị tăng cường hợp tác giữa CPTPP, ASEAN và EU, nhất là về chuỗi cung ứng, thương mại, đầu tư, chuyển đổi số và chuyển đổi xanh.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/26/wm31-wm31-base641795690819872549027-2394-5712-1795706747.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cuPMJMNun9slMgLTxpAHOw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-27T02:16:01+07:00",
+"found": "2026-11-27T02:59:14+07:00"
+},
+{
 "id": "24417ed2fc67",
 "title": "benfica",
 "link": "https://www.sporttv.pt/noticias/889916/os-11-iniciais-do-viktoria-plzen-x-benfica",
@@ -221,7 +279,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T01:40:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-27T02:03:48+07:00"
 },
 {
@@ -28020,62 +28078,6 @@
 "cat": "xh",
 "published": "2026-11-24T11:12:29+07:00",
 "found": "2026-11-24T11:19:37+07:00"
-},
-{
-"id": "ca2ce49017e7",
-"title": "Hơn 78% dân số đã khám sức khỏe, TP.HCM tăng tốc 5 tuần cuối năm",
-"link": "https://tuoitre.vn/hon-78-dan-so-da-kham-suc-khoe-tphcm-tang-toc-5-tuan-cuoi-nam-100261124102051524.htm",
-"summary": "Tính đến ngày 24-11, TP.HCM đã khám sức khoẻ cho hơn 10 triệu người, đạt 78,42% dân số, trong đó nhóm sinh viên chiếm tỉ lệ thấp nhất. Như vậy, với dân số hơn 14 triệu người, còn khoảng 4 triệu người cần được khám trong 5 tuần cuối năm.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/it-dsc01810-1795490395941187415167-13-0-1613-2560-crop-1795490401093777881693-97-155-1250-2000-crop-179549398913135155256-0-121-1077-1844-crop-1795494015689551052841.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T11:12:00+07:00",
-"found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "5be88f3ba499",
-"title": "Nhận 2.000 USD, người Đài Loan mang 2 kg ketamine vượt biên vào Việt Nam",
-"link": "https://thanhnien.vn/nhan-2000-usd-nguoi-dai-loan-mang-2-kg-ketamine-vuot-bien-vao-viet-nam-185261124102004706.htm",
-"summary": "Nhận 2.000 USD tiền công, một người đàn ông Đài Loan mang ba lô chứa 2 kg ketamine từ Campuchia về Việt Nam và bị bắt quả tang.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/anh-1-doi-tuong-bi-bat-giu-tai-don-bp-phuoc-chi-1795490175219985794805-259-331-1020-1549-crop-1795490253501163444933.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-24T11:10:00+07:00",
-"found": "2026-11-24T11:19:37+07:00"
-},
-{
-"id": "c2161fa3dd83",
-"title": "doomsday",
-"link": "https://whatsondisneyplus.com/disney-adds-new-movie-ticketing-feature-for-avengers-doomsday/",
-"summary": "Disney+ Adds New Movie Ticketing Feature For ‘Avengers: Doomsday’ (What's On Disney Plus)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnSCFXPQr2HbQ1D-KzoLwsoSatC_-4KhxdvYLvPnvzfT3aMqX1bVWOzphy36Q",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T11:10:00+07:00",
-"traffic": "500+",
-"found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "76cbf0d86fa7",
-"title": "Gần 10.000 chuyến bay Mỹ bị hủy, tác giả Stephen King gây sốt vì thuyết người ngoài hành tinh",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb2JBTHJmM2piTm9MMDZoUXNmUnNKYTY0NTl1ckZweXZaZjhpV1hPb3ZSR0dMWk1VWVlaek44bExHcFgxVTJvUi1IZW43c1dmRFVuTUZrd091Uzl4azEwekEtWFo4VjMxZ1g4eE03N1RvSWhTZTZfZXRmVkZZdzBHTnZaenZMYjRCejRja2FuVGYzWDNNMmdTOHRQMlk4bXJkN3pnRkNzSVQwcUJJdEhpZlNSZjZuMEhvckxkYmc2Qy1nTjJsZFRpcFNR?oc=5",
-"summary": "Nguồn: GenK.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-24T11:09:00+07:00",
-"found": "2026-11-25T14:20:47+07:00"
-},
-{
-"id": "2ae6b642ff0f",
-"title": "Thông xe kỹ thuật cầu Nhật Lệ 3 tại tỉnh Quảng Trị",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdWJtVUludGlVWDl5MVlIeGRhM0xkbGZQbERBRnQ2LTNBZ19rRl9sYndLNWVYWGdmUUdhSTFOM1lCT29UYno2dHlzOWpZemJoVDJ0NlJ1c3pxTWpGYmJlVUdBakEzS1RjTF9YYUxQSHdvempYVzJYR2xkemNnbWFHV2dEYUJNLUFMYkZV?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T11:08:00+07:00",
-"found": "2026-11-24T19:53:50+07:00"
 }
 ]
 }
