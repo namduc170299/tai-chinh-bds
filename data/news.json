@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T02:59:14+07:00",
-"new": 5,
+"updated": "2026-11-27T03:14:43+07:00",
+"new": 1,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 22
+"count": 21
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,17 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "8d6e39843d51",
+"title": "Nữ phóng viên người Úc gây xôn xao với cơ bắp cánh tay lộ rõ",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0ctaW5TRmxhQzVVOEF1eWFoWmJMTm83blAyTm9meEM2bUtYMlJKdUQtc0JuY2t6TlloZzhXekVEWEg0WnhLOVhHSDVwUUtmajg0cGt2clc2NW1pSWwxUUhhRVRwakdGb0cyMDg0amdNbGhlR3hoYzFSeUwzbjE1a0lVMVRPc3V0WENJ?oc=5",
+"summary": "Nguồn: Vietnam.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-27T03:05:46+07:00",
+"found": "2026-11-27T03:14:43+07:00"
+},
 {
 "id": "df44e5b2cccc",
 "title": "juventus đấu với omonia",
@@ -338,7 +349,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T00:20:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-27T00:59:14+07:00"
 },
 {
@@ -485,17 +496,6 @@
 "cat": "xh",
 "published": "2026-11-27T00:00:00+07:00",
 "found": "2026-11-27T00:59:14+07:00"
-},
-{
-"id": "e13e78abbf85",
-"title": "Nữ phóng viên người Úc gây xôn xao với cơ bắp cánh tay lộ rõ",
-"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qUjdkV2h6QnY4aWpSRU9xQkVXbERPVlZlN2hwaEc0blVMdURpVWp0RXVkeTJHcGJvVWtwb0JHX1R0Qll6N21zOWdDOHlZSGgxN3ZZ?oc=5",
-"summary": "Nguồn: شبكة تواصل الإخبارية",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T23:56:31+07:00",
-"found": "2026-11-27T00:09:38+07:00"
 },
 {
 "id": "8c4634bb38bf",
