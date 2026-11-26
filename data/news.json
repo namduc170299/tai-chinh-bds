@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T21:03:06+07:00",
-"new": 10,
+"updated": "2026-11-26T21:18:18+07:00",
+"new": 15,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 22
+"count": 49
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "affb8e84253a",
+"title": "Năm 2027, Hà Nội đánh giá cán bộ theo sản phẩm, kết quả phục vụ nhân dân",
+"link": "https://thanhnien.vn/nam-2027-ha-noi-danh-gia-can-bo-theo-san-pham-ket-qua-phuc-vu-nhan-dan-185261126195412728.htm",
+"summary": "Bí thư Thành ủy Hà Nội Trần Đức Thắng cho biết, năm 2027 sẽ đánh giá cán bộ theo OKR, KPI phải dựa trên sản phẩm và kết quả phục vụ nhân dân, từ đó làm căn cứ cho quy hoạch, bổ nhiệm, luân chuyển, sàng lọc cán bộ.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tu14-1795693634512-17956936347721086834621-17956976061571409687929-69-0-1097-1644-crop-17956976132931901293522.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T21:11:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
+},
+{
+"id": "b1c66f453e09",
+"title": "Khai trừ 3 đảng viên, kỷ luật nhiều tổ chức đảng liên quan cuốn 'Chuyện với Thanh'",
+"link": "https://thanhnien.vn/khai-tru-3-dang-vien-ky-luat-nhieu-to-chuc-dang-lien-quan-cuon-chuyen-voi-thanh-18526112620073672.htm",
+"summary": "Ủy ban Kiểm tra T.Ư đã quyết định khai trừ 3 đảng viên, cách tất cả chức vụ trong Đảng đối với đảng viên; cảnh cáo, khiển trách nhiều tổ chức đảng và đảng viên liên quan cuốn sách 'Chuyện với Thanh - Lời kể mới về ánh sáng'.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/21/img0184-1768560752543310649758-0-0-960-1536-crop-17896254212161520092726-1794397764211168522042-1795227458485429346613.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T21:06:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
+},
+{
+"id": "cbc85a33035d",
+"title": "TPHCM phát triển bãi đỗ xe ngầm hiện đại tại một số công viên",
+"link": "https://cafef.vn/tphcm-phat-trien-bai-do-xe-ngam-hien-dai-tai-mot-so-cong-vien-188261126200412894.chn",
+"summary": "Trao đổi với cử tri về phát triển bãi đỗ xe công cộng, Bí thư Thành ủy TPHCM Trần Lưu Quang thông tin, tới đây, thành phố phát triển các bãi đỗ xe ngầm hiện đại tại một số công viên, như Công viên Lê Văn Tám, Công viên Tao Đàn, Công viên 23-9…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795698203385-1795698204375989533812.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-26T21:03:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
+},
+{
+"id": "d017d54906a6",
+"title": "Chuyên gia VPBankS: Kỳ vọng lãi suất cho vay hạ nhiệt từ nửa cuối năm 2027",
+"link": "https://tuoitre.vn/chuyen-gia-vpbanks-ky-vong-lai-suat-cho-vay-ha-nhiet-tu-nua-cuoi-nam-2027-100261126202938362.htm",
+"summary": "Giám đốc chiến lược thị trường VPBankS Trần Hoàng Sơn dự báo chi phí vốn của nền kinh tế sẽ có dư địa giảm trong năm 2027 nếu giá dầu thế giới tiếp tục hạ nhiệt.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/hoi-thao-6-1795698792995254396030-0-0-1201-1922-crop-1795698796296259736009.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-26T21:02:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
+},
+{
 "id": "889c5e8b72f7",
 "title": "Tiêu hủy ma túy tang vật trong vụ án Bùi Đình Khánh",
 "link": "https://thanhnien.vn/tieu-huy-ma-tuy-tang-vat-trong-vu-an-bui-dinh-khanh-185261126171507052.htm",
@@ -246,6 +290,28 @@
 "found": "2026-11-26T21:03:06+07:00"
 },
 {
+"id": "93f4446f1593",
+"title": "Sáng kiến của Việt Nam về Hội nghị cấp cao CLMV: Lần đầu doanh nghiệp được mời dự",
+"link": "https://tuoitre.vn/sang-kien-cua-viet-nam-ve-hoi-nghi-cap-cao-clmv-lan-dau-doanh-nghiep-duoc-moi-du-100261126193845975.htm",
+"summary": "Theo sáng kiến của Việt Nam, các doanh nghiệp và đối tác phát triển sẽ được mời tham dự Hội nghị cấp cao CLMV-12 vào ngày 28-11 tới.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/hop-bao-clmv4-179569677086664205610-0-256-1339-2398-crop-1795700533569340972731.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-26T20:55:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
+},
+{
+"id": "b68bd531ca3f",
+"title": "Cao ủy EU về Thương mại và An ninh kinh tế: Việt Nam đóng vai trò quan trọng để EU đa dạng hóa chuỗi cung ứng",
+"link": "https://tuoitre.vn/cao-uy-eu-ve-thuong-mai-va-an-ninh-kinh-te-viet-nam-dong-vai-tro-quan-trong-de-eu-da-dang-hoa-chuoi-cung-ung-100261126181507266.htm",
+"summary": "Cao ủy EU về Thương mại và An ninh kinh tế Maroš Šefčovič bày tỏ mong muốn có cơ hội đầu tư vào Việt Nam trong những lĩnh vực trọng yếu để đạt mục tiêu đa dạng hóa chuỗi cung ứng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/eu-17956914913301192048988-0-153-1288-2214-crop-17956915167841359697994.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-26T20:50:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
+},
+{
 "id": "b442491c2046",
 "title": "Bị trách mắng vì ăn nhậu, con rể ra tay tàn độc với mẹ vợ",
 "link": "https://kenh14.vn/bi-trach-mang-vi-an-nhau-con-re-ra-tay-tan-doc-voi-me-vo-215261126180445234.chn",
@@ -265,7 +331,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T20:40:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-26T21:03:06+07:00"
 },
 {
@@ -368,7 +434,7 @@
 "image": "",
 "source": "Google News",
 "cat": "xh",
-"published": "2026-11-26T20:28:35+07:00",
+"published": "2026-11-26T20:28:02+07:00",
 "found": "2026-11-26T20:47:54+07:00"
 },
 {
@@ -414,6 +480,17 @@
 "cat": "tc",
 "published": "2026-11-26T20:23:00+07:00",
 "found": "2026-11-26T20:47:54+07:00"
+},
+{
+"id": "ef5313545d18",
+"title": "Hồn cốt miền Bắc hội tụ giữa lòng TP.HCM",
+"link": "https://tuoitre.vn/hon-cot-mien-bac-hoi-tu-giua-long-tphcm-100261126195602296.htm",
+"summary": "Sắc men gốm Bát Tràng, dải lụa Vạn Phúc, chén trà Tân Cương và đặc sản núi rừng Tây Bắc cùng hội tụ tại Festival OCOP Việt Nam 2026, mang theo câu chuyện về nghề truyền thống và giá trị bản địa.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/anh-man-hinh-2026-11-26-luc-192852-1795696200693786660110-0-281-1255-2289-crop-17956962246881217964694.png",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-26T20:23:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
 },
 {
 "id": "534b3e7eed19",
@@ -544,6 +621,17 @@
 "found": "2026-11-26T21:03:06+07:00"
 },
 {
+"id": "c0a9da1773b1",
+"title": "Viettel bán dịch vụ Internet vệ tinh Starlink tại Việt Nam, giá từ 1,59 triệu đồng",
+"link": "https://tuoitre.vn/viettel-ban-dich-vu-internet-ve-tinh-starlink-tai-viet-nam-gia-tu-159-trieu-dong-100261126190017188.htm",
+"summary": "Người dùng cá nhân và doanh nghiệp tại Việt Nam có thể đăng ký sử dụng dịch vụ Internet vệ tinh quỹ đạo thấp Starlink thông qua nhà mạng Viettel với chi phí trọn gói tháng đầu tiên từ 10,89 triệu đồng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/viettel-starlink-internet-ve-tinh-17956943793521453807217-164-138-1118-1664-crop-17956978809651916674480.png",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-26T20:08:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
+},
+{
 "id": "8b6abaf901c2",
 "title": "Chung cư được phép cho thuê lưu trú: Chủ nhà cần lưu ý gì?",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX2htc01lRXNVMVp1MGUtTjNoeElsWmtlTnRrSnc0aFZNNWtrVFdrR0tqZnUyWFlPMjlReDFtSDBmM0lFWDFXSHEyZzVFN3hTUHRnTURHUFp2eVBTX0NTWWZLWTdCaVI2cXcxSWpYSVFqaTFIdXJhWklTM1NJdjBuZjNobUFqcXNaYmZTWXhTMmJjVWM?oc=5",
@@ -622,6 +710,17 @@
 "found": "2026-11-26T20:11:54+07:00"
 },
 {
+"id": "39ab09b52665",
+"title": "Thủ tướng yêu cầu chủ động ứng phó mưa lũ tại Nam Trung Bộ - Tây Nguyên",
+"link": "https://tuoitre.vn/thu-tuong-yeu-cau-chu-dong-ung-pho-mua-lu-tai-nam-trung-bo-tay-nguyen-100261126194129429.htm",
+"summary": "Thủ tướng yêu cầu các bộ, ngành, địa phương chủ động ứng phó mưa lũ, lũ quét, sạt lở đất, sẵn sàng hỗ trợ sơ tán dân và cứu hộ cứu nạn tại khu vực Nam Trung Bộ - Tây Nguyên.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/mualu-1795692938633433600807-17956958687521068271093-82-53-396-556-crop-1795698018471324270377.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-26T19:51:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
+},
+{
 "id": "36e4456fddbd",
 "title": "my tv",
 "link": "https://tech.yahoo.com/audio/articles/added-tv-music-assistant-instead-233015831.html",
@@ -632,6 +731,17 @@
 "published": "2026-11-26T19:50:00+07:00",
 "traffic": "200+",
 "found": "2026-11-26T20:11:54+07:00"
+},
+{
+"id": "bac1734f79b8",
+"title": "TP.HCM giới thiệu Luật Phát triển đô thị, mở rộng cửa đón đối tác quốc tế",
+"link": "https://tuoitre.vn/tphcm-gioi-thieu-luat-phat-trien-do-thi-mo-rong-cua-don-doi-tac-quoc-te-100261126175321777.htm",
+"summary": "UBND TP.HCM tổ chức Hội nghị giới thiệu Luật Phát triển đô thị: Định hướng phát triển TP.HCM, dành cho Lãnh sự đoàn, các tổ chức quốc tế và đối tác nước ngoài của thành phố.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/img4146-17956878245801634597931-212-248-1657-2560-crop-1795699550034950621078.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-26T19:50:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
 },
 {
 "id": "78e2543c9f79",
@@ -645,6 +755,17 @@
 "found": "2026-11-26T20:11:54+07:00"
 },
 {
+"id": "fd4789d588c0",
+"title": "Cử tri Đắk Lắk: Cao tốc Bắc - Nam xong nhiều tháng, nhưng chưa bồi thường, hỗ trợ dứt điểm cho dân",
+"link": "https://tuoitre.vn/cu-tri-dak-lak-cao-toc-bac-nam-xong-nhieu-thang-nhung-chua-boi-thuong-ho-tro-dut-diem-cho-dan-100261126182415554.htm",
+"summary": "Cử tri khu vực phía Đông Đắk Lắk kiến nghị khắc phục sạt lở đất sản xuất, bồi thường thiệt hại, đền bù do thi công cao tốc Bắc - Nam; tháo gỡ khó khăn sau sáp nhập điểm trường...",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/20261126-cu-tri-tuy-an-bac-1795694744574266744471-50-0-1414-2182-crop-1795695583053329396020.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-26T19:48:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
+},
+{
 "id": "e516363954fa",
 "title": "Công an TP.HCM quyết liệt xử lý cơ sở sang chiết gas lậu, có thể khởi tố hình sự",
 "link": "https://thanhnien.vn/cong-an-tphcm-quyet-liet-xu-ly-co-so-sang-chiet-gas-lau-co-the-khoi-to-hinh-su-185261126190345225.htm",
@@ -654,6 +775,17 @@
 "cat": "xh",
 "published": "2026-11-26T19:46:00+07:00",
 "found": "2026-11-26T19:56:43+07:00"
+},
+{
+"id": "3e52ebfd5c08",
+"title": "Hà Nội thống nhất chủ trương phát hành trái phiếu để huy động vốn xây metro",
+"link": "https://tuoitre.vn/ha-noi-thong-nhat-chu-truong-phat-hanh-trai-phieu-de-huy-dong-von-xay-metro-100261126185418604.htm",
+"summary": "Hà Nội thống nhất chủ trương phát hành trái phiếu để đầu tư xây dựng các tuyến metro trong năm 2027, đồng thời phấn đấu tăng trưởng GRDP đạt 11,1%, theo chỉ tiêu Trung ương giao.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/rgtb-17956938699021511924409-421-580-1136-1725-crop-1795694096280759391191-32-143-624-1090-crop-17956974615722053291181-0-0-586-938-crop-17956974692812037901130.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-26T19:44:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
 },
 {
 "id": "e7b020f407db",
@@ -735,6 +867,17 @@
 "found": "2026-11-26T19:56:43+07:00"
 },
 {
+"id": "01c15a437cd8",
+"title": "Tổng Bí thư, Chủ tịch nước Tô Lâm dự kiến phát biểu chỉ đạo tại Hội nghị người Việt Nam ở nước ngoài",
+"link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-du-kien-phat-bieu-chi-dao-tai-hoi-nghi-nguoi-viet-nam-o-nuoc-ngoai-100261126182449939.htm",
+"summary": "Hội nghị người Việt Nam ở nước ngoài toàn thế giới lần thứ 5 sẽ quy tụ hàng trăm đại biểu kiều bào tiêu biểu trên toàn thế giới, cùng hiến kế để 'đồng kiến tạo' tương lai cho đất nước.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/5532834016178553263553d9afee95e1f1ba0d7d7e0adcfc7f2d24-1795688487913765282116-311-490-1366-2179-crop-17956950751671811490-100-67-1055-1595-crop-1795696332806988367685.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-26T19:27:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
+},
+{
 "id": "f98dc25ce8ea",
 "title": "Đề nghị kỷ luật hai nguyên lãnh đạo ở Sơn La, Hải Dương",
 "link": "https://vnexpress.net/de-nghi-ky-luat-hai-nguyen-lanh-dao-o-son-la-hai-duong-5149351.html",
@@ -744,6 +887,28 @@
 "cat": "xh",
 "published": "2026-11-26T19:26:48+07:00",
 "found": "2026-11-26T19:41:33+07:00"
+},
+{
+"id": "ec662258b3b5",
+"title": "Đà Nẵng áp dụng quy trình vận hành liên hồ chứa mới trên sông Vu Gia - Thu Bồn",
+"link": "https://tuoitre.vn/da-nang-ap-dung-quy-trinh-van-hanh-lien-ho-chua-moi-tren-song-vu-gia-thu-bon-10026112618003434.htm",
+"summary": "Đà Nẵng tổ chức thực hiện quy trình vận hành liên hồ chứa trên lưu vực sông Vu Gia - Thu Bồn mới, thay thế quy trình cũ được áp dụng suốt 7 năm qua.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/9/12/9-12-dan-quang-nam-thich-ung-de-giam-thieu-rui-ro-anh-21-176467711361119388502-17892199447011129448855-541-621-1753-2560-crop-17892200863161023752994.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-26T19:26:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
+},
+{
+"id": "a3951a80ad70",
+"title": "Xem lực lượng Cảnh vệ diễn tập tác chiến bảo vệ yếu nhân trước tình huống khủng bố",
+"link": "https://tuoitre.vn/xem-luc-luong-canh-ve-dien-tap-tac-chien-bao-ve-yeu-nhan-truoc-tinh-huong-khung-bo-100261126180309023.htm",
+"summary": "Lực lượng Cảnh vệ phối hợp Công an và Bộ Tư lệnh TP.HCM diễn tập phương án tác chiến bảo đảm an ninh, an toàn đối tượng cảnh vệ với nhiều tình huống giả định như xử lý vật nghi chứa chất nổ, xử lý thiết bị bay không người lái, tấn công đối tượng khủng bố…",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/c4293t01-17956925930641118785329-13-45-680-1113-crop-17956933929201170486289.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-26T19:25:00+07:00",
+"found": "2026-11-26T21:18:18+07:00"
 },
 {
 "id": "60fff4fdf5b7",
@@ -27892,172 +28057,6 @@
 "cat": "xh",
 "published": "2026-11-24T09:26:00+07:00",
 "found": "2026-11-24T09:40:07+07:00"
-},
-{
-"id": "98eb5199aa77",
-"title": "VN-Index hồi phục sau tuần mất hơn 46 điểm, khối ngoại tiếp tục bán ròng",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDBRemJoanVTajFwYjNKSHFXdF9VU2c5ZzZybVBLTlZ3THhyTVdSdy1Jb21BN1JTb01sQmduaGdZbVRVbXlWN040aTFsVW5LMG1aeGNvS2QxakxJT3o3ZUpUcWd4enBYMk5tYjdmNHp6SFE4c291aWstRlpPY0ItZkJ6dFdpcEZUb2FYQ2s2aEd2Rm5SMVlYUXRrOERVUVJSYTBTbjlUVQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T09:26:00+07:00",
-"found": "2026-11-24T12:54:43+07:00"
-},
-{
-"id": "81100ee4535e",
-"title": "Miền Trung hứng mưa lớn dồn dập, nguy cơ lũ lụt nghiêm trọng hơn",
-"link": "https://vietnamnet.vn/mien-trung-hung-mua-lon-don-dap-nguy-co-lu-lut-nghiem-trong-hon-2572294.html",
-"summary": "Từ 24-30/11, Trung Bộ có khả năng xuất hiện hai đợt mưa lớn liên tiếp, trong đó lượng mưa tại Huế và Đà Nẵng có nơi vượt 500mm. Mưa lớn làm gia tăng nguy cơ lũ trên các sông, ngập lụt diện rộng, lũ quét và sạt lở đất.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/23/mien-trung-hung-mua-lon-don-dap-nguy-co-lu-lut-nghiem-trong-hon-2012.jpg?width=0&s=YPs38RScziH1LpAPGyNAOQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-24T09:25:00+07:00",
-"found": "2026-11-23T17:11:27+07:00"
-},
-{
-"id": "e092f1526bdd",
-"title": "Hiện trường vụ nổ lớn trên phố ẩm thực Nguyễn Văn Tuyết ở Hà Nội, nghi có thương vong",
-"link": "https://kenh14.vn/hien-truong-vu-no-lon-tren-pho-am-thuc-nguyen-van-tuyet-o-ha-noi-nghi-co-thuong-vong-215261124092825325.chn",
-"summary": "Sáng 24/11, một vụ nổ lớn xảy ra trên phố Nguyễn Văn Tuyết (Hà Nội), khiến nhiều đồ đạc, tài sản bị hất văng, hư hỏng. Lực lượng chức năng đang phong tỏa hiện trường để cứu nạn, cứu hộ và điều tra nguyên nhân.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795487230018-17954872303891726321077.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T09:22:00+07:00",
-"found": "2026-11-24T09:40:07+07:00"
-},
-{
-"id": "31974608680d",
-"title": "Để tô phở, đĩa cơm giảm giá không chỉ chờ đợi ở người bán hàng",
-"link": "https://tuoitre.vn/de-to-pho-dia-com-giam-gia-khong-chi-cho-doi-o-nguoi-ban-hang-100261123201437704.htm",
-"summary": "Dù giá xăng dầu đóng vai trò lớn nhưng để tô phở, đĩa cơm... giảm giá không chỉ phụ thuộc vào nhiên liệu, mà đòi hỏi cần sự chung tay các bên để điều chỉnh giá nguyên liệu, mặt bằng...",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/2aoboreelbbrjxuqmba7k9dftrnadmhyklc813da-17954387783901422038933-297-222-1758-2560-crop-17954393487131856718785.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-24T09:21:00+07:00",
-"found": "2026-11-24T10:10:25+07:00"
-},
-{
-"id": "c93ab069f939",
-"title": "Gia đình HĐQT Tập đoàn KN Holdings cam kết góp 150 tỷ cho Quỹ Nhân đạo Việt Nam",
-"link": "https://vietnamnet.vn/gia-dinh-hdqt-tap-doan-kn-holdings-cam-ket-gop-150-ty-cho-quy-nhan-dao-viet-nam-2578053.html",
-"summary": "Ngày 23/11, tại Hà Nội, ông Lê Văn Kiểm, Chủ tịch HĐQT KN Holdings, đại diện gia đình cam kết đóng góp 150 tỷ đồng trong 5 năm cho Quỹ Nhân đạo Việt Nam, nhân kỷ niệm 80 năm thành lập Hội Chữ thập đỏ Việt Nam.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/gia-dinh-hdqt-tap-doan-kn-holdings-cam-ket-gop-150-ty-cho-quy-nhan-dao-viet-nam-2682.png?width=0&s=-8iTgzSER7r0s0jtV4qrXA",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-24T09:20:00+07:00",
-"found": "2026-11-24T09:30:09+07:00"
-},
-{
-"id": "e5ade26c4fa6",
-"title": "24 tháng 11",
-"link": "https://laodong.vn/ban-doc/ket-qua-xo-so-hom-nay-2311-tphcm-dong-thap-ca-mau-1805368.ldo",
-"summary": "Kết quả xổ số hôm nay 23.11: TPHCM, Đồng Tháp, Cà Mau (Laodong.vn)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzONkuD2XOleAoLgjLZTmVjSX7p4UdJLwOZmaNCl_xz-Oz3r9h0FCPRrVDWSk",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T09:20:00+07:00",
-"traffic": "200000+",
-"found": "2026-11-24T10:49:14+07:00"
-},
-{
-"id": "996957ac3234",
-"title": "TP.HCM khám sức khỏe chạm mốc 10 triệu người, nhóm sinh viên thấp nhất",
-"link": "https://thanhnien.vn/tphcm-kham-suc-khoe-cham-moc-10-trieu-nguoi-nhom-sinh-vien-thap-nhat-185261124090611468.htm",
-"summary": "TP.HCM đã khám sức khỏe hơn 10 triệu người, đạt 78,42% dân số; sinh viên thấp nhất, mới đạt 45,1%. Thành phố yêu cầu tăng tốc khám trong năm 2026.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/base64-1795485939673503257071-148-0-1359-1938-crop-17954860539751311009236.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-24T09:18:00+07:00",
-"found": "2026-11-24T09:30:09+07:00"
-},
-{
-"id": "22b6f0b91816",
-"title": "Bắt giữ TikToker \"Thị Nở\" livestream khiêu dâm, thu tới 300 triệu đồng mỗi tháng",
-"link": "https://kenh14.vn/bat-giu-tiktoker-thi-no-livestream-khieu-dam-thu-toi-300-trieu-dong-moi-thang-215261124084321325.chn",
-"summary": "Theo lời khai của Ngô Thị Bích Thảo, thu nhập từ hoạt động livestream khiêu dâm, thủ dâm có thời điểm dao động từ 100 đến 300 triệu đồng mỗi tháng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795484572917-17954845731742079883045.jpeg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T09:18:00+07:00",
-"found": "2026-11-24T09:30:09+07:00"
-},
-{
-"id": "efcb464534bb",
-"title": "Doanh nghiệp bất động sản “gánh” 3.300 tỷ đồng trái phiếu bị phạt vì chậm công bố thông tin",
-"link": "https://cafef.vn/doanh-nghiep-bat-dong-san-ganh-3300-ty-dong-trai-phieu-bi-phat-vi-cham-cong-bo-thong-tin-188261124071826513.chn",
-"summary": "Hưng Thịnh Phát – doanh nghiệp bất động sản tại TP.HCM vừa bị Thanh tra Chứng khoán Nhà nước xử phạt 85 triệu đồng do chậm công bố hàng loạt báo cáo tài chính, tình hình sử dụng vốn và các thông tin liên quan đến trái phiếu.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795479481790-17954794824081760867350.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-24T09:17:00+07:00",
-"found": "2026-11-24T09:30:09+07:00"
-},
-{
-"id": "2af9fba6a54d",
-"title": "Bắt TikToker 'Thị Nở' vì livestream vi phạm pháp luật thu hàng trăm triệu mỗi tháng",
-"link": "https://tuoitre.vn/bat-tiktoker-thi-no-vi-livestream-vi-pham-phap-luat-thu-hang-tram-trieu-moi-thang-100261124085219519.htm",
-"summary": "Ngày 24-11, Cục Cảnh sát điều tra tội phạm về ma túy (Bộ Công an) cho biết đã bắt giữ Ngô Thị Bích Thảo (19 tuổi, trú tại Hưng Yên), biệt danh Thảo \"Baby\", chủ tài khoản TikTok \"Thị Nở\" với hơn 300.000 lượt theo dõi, để điều tra về các hành vi vi phạm pháp luật.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/anh-man-hinh-2026-11-24-luc-084325-17954846551531296512382-0-64-808-1357-crop-17954847396801062665880.png",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T09:17:00+07:00",
-"found": "2026-11-24T09:55:16+07:00"
-},
-{
-"id": "4c5e0e256ccd",
-"title": "Tháo gỡ vướng mắc về đất đai và cải cách tiền lương",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTZJREhRNlZDeW53N3BOZzd1MTVwaUItcG5KajRRMjdPMlI4OFVSUEtqTzZxeUtRbGVBTnI4U3VyRGkwZHE4TERnSVkyZGFsN0p2WjZxbld2TmMyVWNyQmstcVhVcl91ZUpZMGJWMzNhVWtoMkxCTkFqbzJoTURBeWFlMEswano5WTJFdg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T09:16:21+07:00",
-"found": "2026-11-24T09:30:09+07:00"
-},
-{
-"id": "a20cd9920da8",
-"title": "Việt Nam sắp có tàu hơi nước chạy trên cung đường sắt xuyên núi, vượt biển đẹp bậc nhất miền Trung: Có 2 đầu máy từ thập niên 1960, toa cà phê và quầy bar riêng",
-"link": "https://cafef.vn/viet-nam-sap-co-tau-hoi-nuoc-chay-tren-cung-duong-sat-xuyen-nui-vuot-bien-dep-bac-nhat-mien-trung-co-2-dau-may-tu-thap-nien-1960-toa-ca-phe-va-quay-bar-rieng-188261124085357726.chn",
-"summary": "Một đoàn tàu du lịch sử dụng đầu máy hơi nước cổ điển dự kiến đưa vào khai thác trên tuyến đường sắt Huế - Đà Nẵng trong tháng 12/2026. Đoàn tàu sử dụng 2 đầu máy Mikado được chế tạo từ những năm 1960, có toa quan sát ngoài trời, quán cà phê và quầy bar riêng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/2603-cung-duong-di-san1-17954849257381467852217-0-0-900-1440-crop-1795484929821592023180.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-24T09:15:00+07:00",
-"found": "2026-11-24T09:30:09+07:00"
-},
-{
-"id": "513bf90ae1a5",
-"title": "Nhà ống 5 tầng 50m² có nên lắp thang máy?",
-"link": "https://cafef.vn/nha-ong-5-tang-50m-co-nen-lap-thang-may-188261124071622312.chn",
-"summary": "Với nhà ống diện tích 50m², việc lắp thang máy giúp di chuyển thuận tiện hơn nhưng cũng đặt ra bài toán về không gian và chi phí.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795479324635-17954793257291505520176.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-24T09:15:00+07:00",
-"found": "2026-11-24T09:30:09+07:00"
-},
-{
-"id": "b4f80c06a4c5",
-"title": "Tổng thống Trump can thiệp đưa cựu CEO Jensen Huang trở lại Nvidia",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT0RDT3JTODVzUUZkRWpSYjRCWTROYkNrVy1DSmJuQnppTmc0enRtWnBpX3A4cWljZlpQZ1kwdms2ZkhsNlRJNTdndlFtNllKTVIxREpjM183UzE1Q3E5UC1oQ0NQeXAwSVp0cllPQ2w3eHZqb3FRYlFQYmM0NHUxS3JhbGUzcTkyQnlsZ01sbjV1T0UxWmg2RnBLOEJNUGo3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T09:15:00+07:00",
-"found": "2026-11-24T09:30:09+07:00"
-},
-{
-"id": "e9504ead9693",
-"title": "Những tổn thương thật từ bàn phím",
-"link": "https://thanhnien.vn/nhung-ton-thuong-that-tu-ban-phim-18526112319084793.htm",
-"summary": "Người trẻ hôm nay có thể kết nối với cả thế giới, tự do bày tỏ quan điểm và tham gia vào những cuộc thảo luận xã hội. Thế nhưng khi ranh giới giữa tranh luận và công kích ngày càng dễ bị xóa nhòa, không ít người lại biến bàn phím thành công cụ gây tổn thương.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-anh-4-17954354613791753479715-17954354844931211148482-73-0-1323-2000-crop-1795486326181702015233.jpeg",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-24T09:12:00+07:00",
-"found": "2026-11-24T09:14:55+07:00"
 }
 ]
 }
