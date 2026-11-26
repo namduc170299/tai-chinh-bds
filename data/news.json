@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T18:36:32+07:00",
-"new": 11,
+"updated": "2026-11-26T18:52:04+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 51
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,39 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "affbf509f4c6",
+"title": "Gần 300 chiến sĩ diễn tập chống khủng bố, bảo vệ yếu nhân ở TP.HCM",
+"link": "https://thanhnien.vn/gan-300-chien-si-dien-tap-chong-khung-bo-bao-ve-yeu-nhan-o-tphcm-185261126173920795.htm",
+"summary": "Chiều 26.11, Bộ Tư lệnh Cảnh vệ phối hợp các đơn vị diễn tập chống khủng bố, bảo vệ yếu nhân tại TP.HCM, với sự tham gia của gần 300 cán bộ, chiến sĩ và nhiều phương tiện chuyên dụng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-2aoborfjlxzweeflryebqv6aegkcnyc4zdjsmode62-1795690646110224648706-715-692-1857-2520-crop-179569177256212444340.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T18:51:00+07:00",
+"found": "2026-11-26T18:52:04+07:00"
+},
+{
+"id": "0308962b22ee",
+"title": "Cả xóm ở Tây Ninh bất ngờ trúng số tiền tỷ: 16 tờ độc đắc, hàng chục giải phụ, chủ đại lý lái ô tô chở tiền mặt đến tận nhà đổi thưởng",
+"link": "https://kenh14.vn/ca-xom-o-tay-ninh-bat-ngo-trung-so-tien-ty-16-to-doc-dac-hang-chuc-giai-phu-chu-dai-ly-lai-o-to-cho-tien-mat-den-tan-nha-doi-thuong-215261126174407125.chn",
+"summary": "Chỉ trong một buổi chiều, hàng chục gia đình ở Tây Ninh vỡ òa khi cùng trúng số tiền tỷ, trong đó có xóm nhận tới 16 tờ vé số giải đặc biệt và 64 tờ giải phụ đặc biệt.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795689802558-1795689802952956307941.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T18:36:00+07:00",
+"found": "2026-11-26T18:52:04+07:00"
+},
+{
+"id": "a531ba972af0",
+"title": "Bán đấu giá nhà đất giữa khu phố sầm uất của bà Trương Mỹ Lan",
+"link": "https://kenh14.vn/ban-dau-gia-nha-dat-giua-khu-pho-sam-uat-cua-ba-truong-my-lan-215261126163523912.chn",
+"summary": "Khu đất rộng hơn 2.417m² cùng công trình văn phòng, nhà kho tại số 51-53A An Dương Vương, TPHCM được đưa ra đấu giá trực tuyến với giá khởi điểm hơn 725 tỷ đồng. Đây là tài sản được Thi hành án dân sự TPHCM tổ chức bán đấu giá để thi hành án liên quan vụ án Trương Mỹ Lan.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795685706576-17956857075081905622912.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T18:36:00+07:00",
+"found": "2026-11-26T18:52:04+07:00"
+},
 {
 "id": "43a90abefcfb",
 "title": "Thượng tướng Lê Tấn Tới khảo sát nhiệm vụ quân sự, quốc phòng trên đảo Hòn Khoai",
@@ -299,7 +332,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T18:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-26T18:36:32+07:00"
 },
 {
@@ -1308,7 +1341,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T16:30:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-26T16:59:23+07:00"
 },
 {
@@ -28016,39 +28049,6 @@
 "source": "Dân Trí",
 "cat": "tc",
 "published": "2026-11-24T07:23:08+07:00",
-"found": "2026-11-24T07:49:19+07:00"
-},
-{
-"id": "2ca17bb4e2aa",
-"title": "Người đàn ông tử vong khi cứu người ở biển Nha Trang: Vợ đau xót tiễn chồng đúng dịp kỷ niệm ngày cưới",
-"link": "https://kenh14.vn/nguoi-dan-ong-tu-vong-khi-cuu-nguoi-o-bien-nha-trang-vo-dau-xot-tien-chong-dung-dip-ky-niem-ngay-cuoi-215261123235512858.chn",
-"summary": "Các con của anh Sáng đã lên kế hoạch để gây bất ngờ cho ba trong ngày đặc biệt. Thế nhưng, những dự định đã mãi mãi dang dở.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795452892477-1795452892739471390434.jpeg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T07:23:00+07:00",
-"found": "2026-11-24T07:49:19+07:00"
-},
-{
-"id": "edbede4671fa",
-"title": "Giá vàng hôm nay 24/11: Bật tăng mạnh, lấy lại mốc 3.600 USD/ounce",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT3JTYTBTaHBKZWhIRnpPVndpWk9jNDUyU0lweXhtek81WUp0WjhvMFdmSlJmd2ZsSDJXQUpuVzlTMHE5NlkyVjMydFR6Y3NtNlVxdHNlMUF2aVdHTGptWlFpbV85bnFfM2c2Z1RhTFI2QUl0bFlJR2RnQWFvRWdaUTFNTWI5Vk9mWC1xeHlySUQxTmVBZ3pkdFFybV95Zw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T07:21:59+07:00",
-"found": "2026-11-24T07:49:19+07:00"
-},
-{
-"id": "0fee3dd31f0e",
-"title": "Tài \"Đen\" mang súng CZ, mã tấu đi tấn công sới bạc, giành địa bàn bảo kê",
-"link": "https://dantri.com.vn/phap-luat/tai-den-mang-sung-cz-ma-tau-di-tan-cong-soi-bac-gianh-dia-ban-bao-ke-20261123235258294.htm",
-"summary": "(Dân trí) - Để tranh giành hoạt động bảo kê, tổ chức đánh bạc, Phạm Anh Tài, tức Tài \"Đen\", cùng đàn em chuẩn bị súng CZ, mã tấu, chai xăng và quần áo ngụy trang để tấn công đối thủ tại một sới bạc.",
-"image": "https://cdnphoto.dantri.com.vn/ta4VJrKiF_u26Xfi8uQvj64idtE=/2026/11/23/tai-den-edited-edited-1795452725736.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-24T07:21:24+07:00",
 "found": "2026-11-24T07:49:19+07:00"
 }
 ]
