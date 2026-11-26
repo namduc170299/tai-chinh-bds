@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T17:52:01+07:00",
-"new": 12,
+"updated": "2026-11-26T18:07:15+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 52
+"count": 50
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,28 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "5bea47875fb0",
+"title": "Ông Lê Thanh Thản bồi thường cho 519 người mua nhà ở CT6 Kiến Hưng thế nào?",
+"link": "https://kenh14.vn/ong-le-thanh-than-boi-thuong-cho-519-nguoi-mua-nha-o-ct6-kien-hung-the-nao-21526112617093188.chn",
+"summary": "Tòa buộc ông Lê Thanh Thản bồi thường cho 79 chủ căn hộ thuộc diện di dời với mức giá thấp nhất 1,2 tỷ đồng/căn, cao nhất 17,5 tỷ đồng/căn; 440 căn hộ không thuộc diện di dời chủ đầu tư phải hoàn thiện nghĩa vụ tài chính để người dân làm thủ tục cấp \"sổ đỏ\".",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795687727442-1795687727661473657734.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-26T17:52:00+07:00",
+"found": "2026-11-26T18:07:15+07:00"
+},
+{
+"id": "79a3bf6e6712",
+"title": "OECD khuyến nghị 5 trọng tâm phát triển thị trường vốn Việt Nam",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUG9DWEpfWVBTQ3l1MGpsdTZrTXA4ZHc3UHZNUTlfUjlPS0l4cVBDamtFMHh3Ymw0ZXQ0UFRqOWJoeEhBSE44cElueTVYaGdybWU2dFNNZGdRWlcyR3M5TTNTWGYtcWxqQkNGNnF6Wlo5UTNiUTgtVXEweVhkNFNaSmNCZUt2VlUyQU81Z3ljSkVOdzhDWl9aQ2dqU3A?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T17:50:00+07:00",
+"found": "2026-11-26T18:07:15+07:00"
+},
 {
 "id": "7d0fc85fcc73",
 "title": "Chứng khoán giảm gần 60 điểm sau đề xuất thuế của Mỹ với 14 đối tác",
@@ -268,6 +290,17 @@
 "found": "2026-11-26T17:52:01+07:00"
 },
 {
+"id": "0d1a8de9b96d",
+"title": "Các tỷ phú Việt mất gần 3 tỷ USD sau phiên chứng khoán giảm 58 điểm",
+"link": "https://vnexpress.net/cac-ty-phu-viet-mat-gan-3-ty-usd-sau-phien-chung-khoan-giam-58-diem-5149293.html",
+"summary": "Chốt phiên giao dịch ngày 26/11, tài sản của các tỷ phú Việt Nam đã giảm 2,98 tỷ USD, trong đó riêng ông Phạm Nhật Vương mất 2,2 tỷ USD.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/26/ty-phu-1795685545-6772-1795685553.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vkYmNSN4YeKRg1gliKUVIw",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-26T17:36:03+07:00",
+"found": "2026-11-26T18:07:15+07:00"
+},
+{
 "id": "dbfce9618152",
 "title": "Việt Nam lên tiếng về đề xuất thuế nhập khẩu mới của Mỹ",
 "link": "https://thanhnien.vn/viet-nam-len-tieng-ve-de-xuat-thue-nhap-khau-moi-cua-my-185261126172103697.htm",
@@ -277,6 +310,17 @@
 "cat": "xh",
 "published": "2026-11-26T17:36:00+07:00",
 "found": "2026-11-26T17:36:49+07:00"
+},
+{
+"id": "b8ba0499150d",
+"title": "Côn Đảo sẽ có sân bay quốc tế đón Boeing 787, Airbus A350",
+"link": "https://dantri.com.vn/kinh-doanh/con-dao-se-co-san-bay-quoc-te-don-boeing-787-airbus-a350-20261126170109411.htm",
+"summary": "(Dân trí) - Côn Đảo được định hướng phát triển thành cảng hàng không quốc tế, công suất dự kiến đạt 2 triệu hành khách/năm vào năm 2030 và 5 triệu khách vào năm 2050.",
+"image": "https://cdnphoto.dantri.com.vn/TdaDnPEiAIdxpN22wuQ_ueMmCS4=/2026/11/26/img6100-1-1795686750119.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-26T17:33:29+07:00",
+"found": "2026-11-26T18:07:15+07:00"
 },
 {
 "id": "8804c80b79dd",
@@ -387,6 +431,17 @@
 "cat": "xh",
 "published": "2026-11-26T17:25:00+07:00",
 "found": "2026-11-26T17:36:49+07:00"
+},
+{
+"id": "12851570309b",
+"title": "VN-Index giảm hơn 57 điểm, gần 600 cổ phiếu 'đỏ lửa'",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHl5VjBjZjVnVkhQQjFUWW1zUlpnT1hsbFIzZmdJcHlQaXRTOGlIMU1YSGpZQVJiZGpXVjlZRDBEeG8tVzk4ZWUxZ0NnLTQxeEVTNkRBR2x0dlhmX0toNVdLTExVSWFiUkRRTUF5WjJlSTY5S2I4Q2xiTl9kci1TYVk0SW1BVUxXQlE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T17:24:35+07:00",
+"found": "2026-11-26T18:07:15+07:00"
 },
 {
 "id": "81da566fde1d",
@@ -661,7 +716,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-26T17:00:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-26T17:21:36+07:00"
 },
 {
@@ -27994,61 +28049,6 @@
 "cat": "xh",
 "published": "2026-11-24T07:09:00+07:00",
 "found": "2026-11-24T07:34:10+07:00"
-},
-{
-"id": "e95a383e54e1",
-"title": "Công an TP.HCM bắt giữ nhóm thiếu niên đuổi chém người tại cây xăng",
-"link": "https://thanhnien.vn/cong-an-tphcm-bat-giu-nhom-thieu-nien-duoi-chem-nguoi-tai-cay-xang-185261124020446104.htm",
-"summary": "Liên quan vụ nhóm người cầm hung khí đuổi chém tại cây xăng trên đường Dương Quảng Hàm (TP.HCM) gây xôn xao dư luận, Công an TP.HCM đã truy xét, bắt giữ 6 đối tượng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/23/base64-17954603698361544032820-51-0-651-960-crop-17954605037951932217443.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-24T07:06:00+07:00",
-"found": "2026-11-24T07:17:15+07:00"
-},
-{
-"id": "4d233f4f5f9a",
-"title": "Nhà không có phòng thờ riêng cần lưu ý 4 điều này - Chuyên trang Tiêu Dùng - Tạp chí Gia Đình Việt Nam",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGNwbFd6NVIxWDRkdkdIMnczbzZrVEFDNjc5MXJKZGIwZkN4N0VzVjVOWkJBR3lCejQwY19XeHVqTUxmOElCMnRIMlJuaXQ2UTFBN1R2Vkg4SnV5NmhsTmJIU1F0SXJLLXR3NWxuYmFWakROUmtwUW1rc2ZDY042WkhvNWVibkwtS0E?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T07:06:00+07:00",
-"found": "2026-11-24T07:18:11+07:00"
-},
-{
-"id": "621a5f964b36",
-"title": "Gia Lai chạy đua '40 ngày đêm' lo chỗ ở cho người dân vùng thiên tai",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmxsbExoN2xTanNHQzBSX3Y2aEV5MXNyRFNoT1o2a0ZpRWtYNTUwTHNvMjktcnlvQm5kblhOczllWlZiQTQwcWU3aW1JdTB1VFNwSk1kRzBYWmI0a1g2SE5PdGY3a3FZaUNUc0NwQTBaeVY5Q25hRzZJbFZ6SWp6d2VEYVFyNldDVHlXbHE3dHZwTV9qcFhRcjNiLUFCNm9U?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T07:06:00+07:00",
-"found": "2026-11-24T07:18:11+07:00"
-},
-{
-"id": "55715ecd0fe5",
-"title": "Ngày buồn của PNJ",
-"link": "https://kenh14.vn/ngay-buon-cua-pnj-215261123234522231.chn",
-"summary": "Từng được biết đến với vị thế dẫn đầu ngành trang sức, PNJ giờ đây đang phải đối diện hàng loạt thách thức, từ áp lực thanh khoản, kết quả kinh doanh sa sút đến những xáo trộn trong bộ máy lãnh đạo.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795451706433-1795451706837325424849.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T07:04:00+07:00",
-"found": "2026-11-24T07:17:15+07:00"
-},
-{
-"id": "ab414675cf7d",
-"title": "Liên doanh địa ốc của diễn viên Chi Bảo giảm vốn 99,9%, còn 100 triệu đồng: Novaland muốn bán sạch phần vốn còn lại",
-"link": "https://kenh14.vn/lien-doanh-dia-oc-cua-dien-vien-chi-bao-giam-von-999-con-100-trieu-dong-novaland-muon-ban-sach-phan-von-con-lai-215261124000838128.chn",
-"summary": "Sau gần 4 năm bắt tay trong lĩnh vực bất động sản, liên doanh giữa diễn viên Chi Bảo và Novaland đang có diễn biến mới.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/23/avatar1795453660893-17954536613511627795363.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T07:03:00+07:00",
-"found": "2026-11-24T07:17:15+07:00"
 }
 ]
 }
