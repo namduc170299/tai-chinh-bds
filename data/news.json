@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T21:18:18+07:00",
-"new": 15,
+"updated": "2026-11-26T21:33:29+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 49
+"count": 22
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "5ccc9c9edb72",
+"title": "Bắt 6 cựu cán bộ cấp 7 sổ đỏ trái quy định ở Sơn La",
+"link": "https://thanhnien.vn/bat-6-cuu-can-bo-cap-7-so-do-trai-quy-dinh-o-son-la-185261126210439803.htm",
+"summary": "Công an tỉnh Sơn La xác định 6 cựu cán bộ, lãnh đạo xã Lóng Luông cũ (nay thuộc xã Vân Hồ, Sơn La) và của Chi nhánh Văn phòng đăng ký đất đai huyện Vân Hồ cũ đã cấp 7 sổ đỏ trái quy định.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/17957006459898042260834845660481g908739084431255239098214ad3cb4a25ae3ff9ffe832c3f02c-1795701673214645912746-0-0-794-1270-crop-1795701831365731308516.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-26T21:22:00+07:00",
+"found": "2026-11-26T21:33:29+07:00"
+},
+{
+"id": "75c15bb8ce6e",
+"title": "Thủ tướng chỉ đạo 7 tỉnh, thành ứng phó với mưa lớn, ngập lụt, lũ quét, sạt lở",
+"link": "https://vietnamnet.vn/7-tinh-thanh-ung-pho-voi-mua-lon-ngap-lut-lu-quet-sat-lo-2579060.html",
+"summary": "Phó Thủ tướng Chính phủ Hồ Quốc Dũng ký Công điện số 76/CĐ-TTg ngày 26/11/2026 về việc chủ động ứng phó với mưa lớn, lũ, ngập lụt, lũ quét, sạt lở đất tại khu vực Nam Trung Bộ - Tây Nguyên.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/thu-tuong-chi-dao-7-tinh-thanh-ung-pho-voi-mua-lon-ngap-lut-lu-quet-sat-lo-3114.jpg?width=0&s=Cr2UEZzhiXSWho-lsF-a3g",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-26T21:19:20+07:00",
+"found": "2026-11-26T21:33:29+07:00"
+},
+{
 "id": "affb8e84253a",
 "title": "Năm 2027, Hà Nội đánh giá cán bộ theo sản phẩm, kết quả phục vụ nhân dân",
 "link": "https://thanhnien.vn/nam-2027-ha-noi-danh-gia-can-bo-theo-san-pham-ket-qua-phuc-vu-nhan-dan-185261126195412728.htm",
@@ -222,6 +244,17 @@
 "cat": "xh",
 "published": "2026-11-26T21:11:00+07:00",
 "found": "2026-11-26T21:18:18+07:00"
+},
+{
+"id": "fb4987e8235a",
+"title": "Xử phạt người loan tin \"người lạ dụ dỗ, bắt cóc học sinh\" ở Phú Thọ",
+"link": "https://dantri.com.vn/phap-luat/xu-phat-nguoi-loan-tin-nguoi-la-du-do-bat-coc-hoc-sinh-o-phu-tho-20261126210041048.htm",
+"summary": "(Dân trí) - Người phụ nữ ở Phú Thọ bị xử phạt 12,5 triệu đồng vì đăng thông tin trên Facebook không đúng sự thật về việc có hai người lạ đến cổng trường tiểu học dụ dỗ, bắt cóc học sinh.",
+"image": "https://cdnphoto.dantri.com.vn/5uVbui-4uGkD6LHGtZGn8XozJB4=/2026/11/26/cong-an-xa-tam-duong-cropped-1795701229920.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-26T21:08:02+07:00",
+"found": "2026-11-26T21:33:29+07:00"
 },
 {
 "id": "b1c66f453e09",
@@ -529,6 +562,28 @@
 "found": "2026-11-26T20:47:54+07:00"
 },
 {
+"id": "98fef2993d15",
+"title": "'Gieo mầm tri thức' mang niềm vui đến học sinh vùng biên Lạng Sơn",
+"link": "https://tuoitre.vn/gieo-mam-tri-thuc-mang-niem-vui-den-hoc-sinh-vung-bien-lang-son-100261126193234706.htm",
+"summary": "Ngày 26-11, tại hội trường Nhà văn hóa UBND xã Châu Sơn (Lạng Sơn), Báo Tuổi Trẻ phối hợp với Tỉnh đoàn Lạng Sơn tổ chức trao học bổng \"Gieo mầm tri thức\". Đây cũng là hoạt động thuộc chương trình \"Vì ngày mai phát triển\" lần thứ 643 của Báo Tuổi Trẻ.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/chau-son-lang-son3-17956956519411216012221-103-162-1563-2497-crop-1795696260654302831304.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-26T20:20:00+07:00",
+"found": "2026-11-26T21:33:29+07:00"
+},
+{
+"id": "3761d9bc62aa",
+"title": "8 cách giúp cơ thể tự điều hòa khi căng thẳng và lo âu",
+"link": "https://tuoitre.vn/8-cach-giup-co-the-tu-dieu-hoa-khi-cang-thang-va-lo-au-100261126121935578.htm",
+"summary": "Những người thường xuyên cảm thấy lo âu có thể áp dụng một số cách đơn giản để tự điều hòa cơ thể và giảm căng thẳng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/8-cach-don-gian-giup-co-the-tu-dieu-hoa-khi-cang-thang-va-lo-au-17956701075111768804184.png",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-26T20:20:00+07:00",
+"found": "2026-11-26T21:33:29+07:00"
+},
+{
 "id": "c89e12af22d8",
 "title": "Khởi tố nữ tài xế gây tai nạn khiến một người tử vong ở Quảng Ninh",
 "link": "https://dantri.com.vn/phap-luat/khoi-to-nu-tai-xe-gay-tai-nan-khien-mot-nguoi-tu-vong-o-quang-ninh-20261126200033884.htm",
@@ -571,6 +626,17 @@
 "cat": "bds",
 "published": "2026-11-26T20:11:00+07:00",
 "found": "2026-11-26T20:47:54+07:00"
+},
+{
+"id": "4d5a47f9b393",
+"title": "Những bước chân nhỏ vượt đường rừng đến lớp",
+"link": "https://tuoitre.vn/nhung-buoc-chan-nho-vuot-duong-rung-den-lop-100261126100124679.htm",
+"summary": "Vượt hàng cây số đường rừng nhỏ hẹp, gập ghềnh để tới trường hay hoàn cảnh còn thiếu thốn, những em nhỏ ở điểm trường Khe Bủng, Trường phổ thông dân tộc bán trú Tiểu học Kiên Mộc, (Lạng Sơn) vẫn giữ niềm vui đến lớp.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/gieo-mam-tri-thuc-kien-moc-lang-son2-1795661512630662127835.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-26T20:11:00+07:00",
+"found": "2026-11-26T21:33:29+07:00"
 },
 {
 "id": "79a11bc07e4b",
@@ -619,6 +685,18 @@
 "published": "2026-11-26T20:10:00+07:00",
 "traffic": "200+",
 "found": "2026-11-26T21:03:06+07:00"
+},
+{
+"id": "161b374cd8e2",
+"title": "live",
+"link": "https://www.vietnam.vn/en/bi-thu-hoi-nha-xay-tren-dat-nong-nghiep-khong-con-noi-o-co-duoc-tai-dinh-cu",
+"summary": "House built on agricultural land confiscated, leaving no place to live: Will resettlement be possible? (Vietnam.vn)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_GOWqIjs7xcXBelVd547Jz0QDsCkkiQ1yPj8Zx-fnZTJBknCXnd1QR-uJMHo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-26T20:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-26T21:33:29+07:00"
 },
 {
 "id": "c0a9da1773b1",
@@ -27979,83 +28057,6 @@
 "source": "Thanh Niên",
 "cat": "xh",
 "published": "2026-11-24T09:35:00+07:00",
-"found": "2026-11-24T09:40:07+07:00"
-},
-{
-"id": "361ddbd3d00f",
-"title": "Xe thiết giáp chiến đấu hạng nặng, Việt Nam chế tạo hoàn toàn mới",
-"link": "https://thanhnien.vn/xe-thiet-giap-chien-dau-hang-nang-viet-nam-che-tao-hoan-toan-moi-185261122212243002.htm",
-"summary": "Xe thiết giáp chở quân chiến đấu hạng nặng XTC-03 do Việt Nam chế tạo, được xem là bước chuyển khác biệt.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/22/attezinsk4aqc1h20dk8sz2frmdfd65-dbaqeelufkb9e-1795357054065589242646-4-0-644-1024-crop-17953583169281552679051.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-24T09:35:00+07:00",
-"found": "2026-11-24T09:40:07+07:00"
-},
-{
-"id": "3eee04a385cc",
-"title": "Chủ tịch Quốc hội ký ban hành 3 Nghị quyết của Quốc hội",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORF9Wam51YzZrVVZLdk1YbDBzd0VUM1R6QkNQWENiaWx4WTBiaTZkOG0yN2xDWXhtLXEtbkt6MlRwY3ZBM2pZd0RqVHBlUm9zZE9zWE1jdWw4WEJ4aHlEb2gwQnJyLTlfMERoMUY5Z3ZXQ3AyU3NwUlVram5KM1B0bjNrdWpoN2dMTG1UcFJyTTZvQQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T09:34:00+07:00",
-"found": "2026-11-24T11:42:33+07:00"
-},
-{
-"id": "e496b96701ae",
-"title": "Trong bóng tối vẫn có ánh sáng của đam mê",
-"link": "https://thanhnien.vn/trong-bong-toi-van-co-anh-sang-cua-dam-me-185261123191751572.htm",
-"summary": "Mới đây, giới trẻ TP.HCM rủ nhau đi xem một vở kịch đặc biệt do chính những bạn trẻ khiếm thị thực hiện. Đằng sau vở kịch là những nỗ lực không ngừng nghỉ của những người dù trong bóng tối vẫn luôn tìm thấy ánh sáng của niềm đam mê.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/anh-6-17954360518962020347345-420-0-1700-2048-crop-17954864055881529365036.gif",
-"source": "Thanh Niên",
-"cat": "mxh",
-"published": "2026-11-24T09:30:00+07:00",
-"found": "2026-11-24T09:30:09+07:00"
-},
-{
-"id": "612b58ce9085",
-"title": "Điểm tin xây dựng - bất động sản ngày 24/11: Hà Nội duyệt quy hoạch đại lộ cảnh quan Tả Hồng dài 35km",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOXZnZW95Z0I0SDRIVWJnbjhiNktXamstdk5wRWlWT0FtSld1R1E2LWg5MWFGSHBfVVliYms4SzRxSUp0dHMyMWxJeGN3YU5oanJjWFBZVlY4a05mRWZEZ2prbjR0dU1mdG5vTDgzZGhWQ2MyTk9oVGdiSmRrYVZBc1pFS3ZEQU9uZjR1VmFGaDNlTXRRYlFfQTZRNmZNcVJVWXZUNDNrWmFHdVNOWHFZZkNfYmRORDJHcXhOdFA4U0hNTzdkUWdCcjZidw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T09:30:00+07:00",
-"found": "2026-11-24T09:55:16+07:00"
-},
-{
-"id": "d5b72deaa701",
-"title": "Hé lộ toàn bộ chiến dịch giải cứu Jensen Huang: Ông Trump đắc ý nhận công",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc2lERTFIekdySVhHN3RHNGVKWF9zYnNib29CYTA0cFFIay1GM0pWQUdPQ0Foa25aR1NVX3BDb2JkM0pfeEhnSGh1SnczY1Njb3NlQ0JwVHFwel82MWc4cnpqMDlnbUdLdVU0LXlLdTdLSHQzOFA4R3pNT2xGZVlMb2tPUXVOWmlkV3YxeTB4RzF6aERwQnVZaHhvVkhoLU1QdW8xZUdDOTc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T09:29:18+07:00",
-"found": "2026-11-24T09:40:07+07:00"
-},
-{
-"id": "01683242bf55",
-"title": "Giá vàng thế giới vượt 3.600 USD/oz, chuyên gia vẫn thận trọng",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2ZnZGs5UFgxX0dsWEJQSkFHeXBJaGZpN0VkcVJSVHNwQ2JBS0dsWVRmMEdmc1V0MVVPM201TW85bmtWbU9TUmVEakxkTGRKSGkyV1g0VTJJLVJPOVhRMmZGbVNKY1NTYjV2SjczdHEzSGMtVHFTeTUtbElKcVdEaDJ2Q2RIN0xQSHI3Ymt5Tlo3a3JvZ1dqVV9R?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T09:27:49+07:00",
-"found": "2026-11-24T09:40:07+07:00"
-},
-{
-"id": "39d1fdeb41fc",
-"title": "Thành phố giàu nhất miền Bắc sắp có đại lộ dài hơn 35km, rộng tới 73,5m chạy dọc sông Hồng, quy mô tối đa 10 làn xe cùng 8 nút giao khác mức",
-"link": "https://kenh14.vn/thanh-pho-giau-nhat-mien-bac-sap-co-dai-lo-dai-hon-35km-rong-toi-735m-chay-doc-song-hong-quy-mo-toi-da-10-lan-xe-cung-8-nut-giao-khac-muc-215261124080549824.chn",
-"summary": "Trục đại lộ cảnh quan Tả Hồng dài hơn 35km, đi qua 8 phường, xã của Hà Nội, có quy mô 6 làn xe cơ giới trên tuyến chính, kết hợp 2-4 làn đường gom hoặc hỗn hợp. Mặt cắt ngang lớn nhất của tuyến đạt 73,5m.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795482314613-1795482315160500152760.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T09:26:00+07:00",
 "found": "2026-11-24T09:40:07+07:00"
 }
 ]
