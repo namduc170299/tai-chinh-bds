@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T20:57:08+07:00",
-"new": 16,
+"updated": "2026-11-27T21:12:41+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "0482031c1896",
+"title": "Giá vàng hôm nay 27/11: Thế giới lùi sâu, SJC tăng lên 134,5 triệu đồng",
+"link": "https://vietnamnet.vn/gia-vang-hom-nay-27-11-the-gioi-lui-sau-sjc-tang-len-134-5-trieu-dong-2579078.html",
+"summary": "Giá vàng thế giới giảm nhẹ trong bối cảnh kỳ vọng Cục Dự trữ Liên bang Mỹ (Fed) tiếp tục tăng lãi suất gia tăng. Trong nước, giá vàng miếng SJC chốt phiên ở mức 129,5-134,5 triệu đồng/lượng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/11-the-gioi-lui-sau-sjc-tang-len-1345-trieu-dong-3832.jpg?width=0&s=AZhoVYyJIUH3L4g_Atb55Q",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-27T21:10:53+07:00",
+"found": "2026-11-27T05:15:46+07:00"
+},
+{
 "id": "e77647e64e7e",
 "title": "Người phụ nữ bán rau ở Phú Thọ tự ý bỏ đi làm xa, không có chuyện bị chuốc thuốc mê, bắt cóc",
 "link": "https://vietnamnet.vn/nguoi-phu-nu-ban-rau-o-phu-tho-tu-y-bo-di-lam-xa-khong-phai-bi-bat-coc-2579512.html",
@@ -220,8 +231,53 @@
 "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/nguoi-phu-nu-ban-rau-o-phu-tho-tu-y-bo-di-lam-xa-khong-co-chuyen-bi-chuoc-thuoc-me-bat-coc-2907.png?width=0&s=vSHqkAIn4xza_U3PYNb6-Q",
 "source": "VietnamNet",
 "cat": "xh",
-"published": "2026-11-27T20:49:53+07:00",
+"published": "2026-11-27T21:07:49+07:00",
 "found": "2026-11-27T20:57:08+07:00"
+},
+{
+"id": "03d1b14b4cf0",
+"title": "Khởi tố 3 đối tượng quan hệ tình dục với bé gái 15 tuổi",
+"link": "https://vietnamnet.vn/thai-nguyen-khoi-to-doi-tuong-quan-he-tinh-duc-voi-be-gai-15-tuoi-2579506.html",
+"summary": "Công an tỉnh Thái Nguyên khởi tố, bắt tạm giam 3 thanh niên về hành vi nhiều giao cấu với bé gái 15 tuổi.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/khoi-to-3-doi-tuong-quan-he-tinh-duc-voi-be-gai-15-tuoi-2790.jpg?width=0&s=tGT4wRdoY1wgiFUWsmXtqw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-27T21:03:50+07:00",
+"found": "2026-11-27T20:10:49+07:00"
+},
+{
+"id": "b1937bd1f2c6",
+"title": "Khởi tố, tạm giam Master Anh Đức: người từng gây xôn xao với khóa học làm giàu giá 1,5 tỷ đồng",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmR6UjZGM2lGWkYtb013bDRoeWlRWVJpcFIzT2FERGhqNnltR1V3akdtNFV1U2RoZVZTVnBDSExvcExBX1dWWUhPOFV2YjB4T2taTEdTSnJpNWRqcUhWcjg0Y2N2WmJOTkpKWVdLRFhPbUJuSXY3dXNQaHZQTWJfV3ctbm1kaG5DM091Unpwc3VyU1ZPdm5INHRPRThuRjdJZlA3SGpQNUJTNWt5QUUtb041T25qczRIb0czd3kyRm9QaWtOSlJ1REJWZw?oc=5",
+"summary": "Nguồn: CafeF",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-27T21:02:00+07:00",
+"found": "2026-11-27T21:12:41+07:00"
+},
+{
+"id": "720dddd15982",
+"title": "Đồng Nai rà soát, bổ sung hạ tầng dân sinh kết nối cao tốc Dầu Giây - Tân Phú",
+"link": "https://cafef.vn/dong-nai-ra-soat-bo-sung-ha-tang-dan-sinh-ket-noi-cao-toc-dau-giay-tan-phu-188261127202040547.chn",
+"summary": "Ngày 27/11, bà Nguyễn Thị Cát Tiên, Thành ủy viên, Phó Chủ tịch UBND TP Đồng Nai chủ trì buổi làm việc với các đơn vị liên quan nhằm rà soát tiến độ giải phóng mặt bằng và tháo gỡ những khó khăn, vướng mắc trong quá trình triển khai Dự án Đường cao tốc Dầu Giây - Tân Phú.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795785471129-17957854715041040276859.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T20:59:00+07:00",
+"found": "2026-11-27T21:12:41+07:00"
+},
+{
+"id": "7f78f3eca2a1",
+"title": "trần đình long",
+"link": "https://cafef.vn/con-trai-sn-1996-cua-ty-phu-tran-dinh-long-nhan-nhiem-vu-moi-tai-mot-cong-ty-dac-biet-cua-hoa-phat-188261127153639004.chn",
+"summary": "Con trai SN 1996 của tỷ phú Trần Đình Long nhận nhiệm vụ mới tại một công ty đặc biệt của Hòa Phát (CafeF)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeqyokKSnCBTym7sDHnYlu_uGKRj_oHMmYO8TNlQsYL5m9WqEvvurLFMJO3eg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T20:50:00+07:00",
+"traffic": "500+",
+"found": "2026-11-27T21:12:41+07:00"
 },
 {
 "id": "8a5cf340ff5a",
@@ -258,15 +314,15 @@
 "found": "2026-11-27T20:57:08+07:00"
 },
 {
-"id": "03d1b14b4cf0",
-"title": "Khởi tố 3 đối tượng quan hệ tình dục với bé gái 15 tuổi",
-"link": "https://vietnamnet.vn/thai-nguyen-khoi-to-doi-tuong-quan-he-tinh-duc-voi-be-gai-15-tuoi-2579506.html",
-"summary": "Công an tỉnh Thái Nguyên khởi tố, bắt tạm giam 3 thanh niên về hành vi nhiều giao cấu với bé gái 15 tuổi.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/khoi-to-3-doi-tuong-quan-he-tinh-duc-voi-be-gai-15-tuoi-2790.jpg?width=0&s=tGT4wRdoY1wgiFUWsmXtqw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-27T20:35:38+07:00",
-"found": "2026-11-27T20:10:49+07:00"
+"id": "79aeb7d5d40c",
+"title": "Việt Nam có thể đạt GDP bình quân đầu người lên tới 30.000 USD vào 2045",
+"link": "https://vnexpress.net/viet-nam-co-the-dat-gdp-binh-quan-dau-nguoi-len-toi-30-000-usd-vao-2045-5149684.html",
+"summary": "GDP bình quân đầu người của Việt Nam có thể đạt 25.000-30.000 USD vào năm 2045 nếu cải cách mạnh mẽ, theo chuyên gia.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/27/ts-ng-nhu-quynh-1795786252-1627-1795786309.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WnXkfXGYpS8qM5EiTn_ZqQ",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-27T20:33:30+07:00",
+"found": "2026-11-27T21:12:41+07:00"
 },
 {
 "id": "cf4beb9a7166",
@@ -735,6 +791,17 @@
 "cat": "xh",
 "published": "2026-11-27T19:27:00+07:00",
 "found": "2026-11-27T19:40:27+07:00"
+},
+{
+"id": "2dc5ca9d93b2",
+"title": "Thủ tướng Lê Minh Hưng đón Thủ tướng Lào Saleumxay Kommasith",
+"link": "https://tuoitre.vn/thu-tuong-le-minh-hung-don-thu-tuong-lao-saleumxay-kommasith-10026112716000517.htm",
+"summary": "Thủ tướng Lào Saleumxay Kommasith và Phu nhân đến Việt Nam chiều tối 27-11.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/le-don-thu-tuong-lao-2-17957807860332039627823-257-0-5067-7696-crop-17957808373631303441560.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T19:25:00+07:00",
+"found": "2026-11-27T21:12:41+07:00"
 },
 {
 "id": "c3b268be1aef",
@@ -3009,6 +3076,17 @@
 "found": "2026-11-27T17:35:20+07:00"
 },
 {
+"id": "0d0bcbc8edf8",
+"title": "HOT nhất MXH Trung Quốc lúc này: Nữ diễn viên bị quấy rối ngay giữa phim trường, quá phẫn nộ thái độ của đạo diễn",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcWVxUmVTbE1aT3ZBR3NDbVJNbF9tX21wSXNpVVg0dWFsN2dIZzRsTnpsYUpzNDRzcEpmeVpETktSWERYMUFKcTMwTlplV1pwYnNVMG1idFVIdERJSlJHS0JFQ1lrRzlzdEhpQmloUGZZV0FmbE1qOFNFTGZCemk2QzhHQ2pVeGRmbzMwY0l5MC00Nk9LekhZcktrUjVoWms4R3NfaXdJU0hFeXFIb2ZIRURlLXdLdGRWLThRa0NGZWV4Z3J4VWl4dy1nN2pGd0J2VzlzXzRiTzlMQkl1MDkyd3FjdWk5eGhT?oc=5",
+"summary": "Nguồn: aFamily",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-27T16:00:00+07:00",
+"found": "2026-11-27T21:12:41+07:00"
+},
+{
 "id": "e6afb4eafdc1",
 "title": "Tập trung rà soát các kết luận thanh tra chưa hoàn thành",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU3N1WU5PTmctdlI1MmljOHlERExocG12SVhJc2dsUUlEa1cyVzRzTzJVd3dtc1c4ZWVYbzRFaTlsWS0tLWM0UDBXWTNRbXNxWmt2NVI4dVJkT3Z2eS1mNjJIWnpSazFJdmpFbjJCTF9IMnhSeVdyS2JCTkg4c08wc2dQeU5acWl1QlAwTl96ZlhqcU0?oc=5",
@@ -3890,17 +3968,6 @@
 "found": "2026-11-27T14:41:20+07:00"
 },
 {
-"id": "0482031c1896",
-"title": "Giá vàng hôm nay 27/11: Thế giới lùi sâu, SJC tăng lên 134,5 triệu đồng",
-"link": "https://vietnamnet.vn/gia-vang-hom-nay-27-11-the-gioi-lui-sau-sjc-tang-len-134-5-trieu-dong-2579078.html",
-"summary": "Giá vàng thế giới giảm nhẹ trong bối cảnh kỳ vọng Cục Dự trữ Liên bang Mỹ (Fed) tiếp tục tăng lãi suất gia tăng. Trong nước, giá vàng miếng SJC chốt phiên ở mức 129,5-134,5 triệu đồng/lượng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/11-the-gioi-lui-sau-sjc-tang-len-1345-trieu-dong-3832.jpg?width=0&s=AZhoVYyJIUH3L4g_Atb55Q",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-27T14:33:16+07:00",
-"found": "2026-11-27T05:15:46+07:00"
-},
-{
 "id": "1d160a79ea43",
 "title": "Giá vàng nhẫn trơn, vàng miếng chiều 27/11 tại Bảo Tín Minh Châu, SJC, PNJ, DOJI và Bảo Tín Mạnh Hải bật tăng mạnh",
 "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-27-11-tai-bao-tin-minh-chau-sjc-pnj-doji-va-bao-tin-manh-hai-bat-tang-manh-188261127074924289.chn",
@@ -4293,17 +4360,6 @@
 "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/2-sun-glory-residence-17957614-2472-6044-1795761589.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=L3oLkELI6g59Be02Acz1JA",
 "source": "VnExpress",
 "cat": "bds",
-"published": "2026-11-27T14:00:00+07:00",
-"found": "2026-11-27T14:41:20+07:00"
-},
-{
-"id": "4b6dd27c4cc0",
-"title": "HOT nhất MXH Trung Quốc lúc này: Nữ diễn viên bị quấy rối ngay giữa phim trường, quá phẫn nộ thái độ của đạo diễn",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTFIySkkzUlBhTjdEMklJVWVwWEYwdGt6a3FuOVkwSUdaRzlqWXVPaklXbjRIRXo3cUdzem9nUFFOQ2RyTl80ck1hTjRDX1ozU0x4eFAxNXZ1T3l5dGhoekFNcmFGc1pyaElYdVVka05HczFfVnhFUHdLMGxKTkJGN09NZGUyR0hoU2h0aWZ5dGFWN0p4ZjZzNjJjelAtSTB0VkxDUUpHN1NYdUYxeUZjZWZTWWptd3lzREluNWFvd2FFVm1LMnZ4NzN1R2V3NGVqTFEyb0FwdTlfeHV4Mmw5MENIQWxkYTQ?oc=5",
-"summary": "Nguồn: Kenh14.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
 "published": "2026-11-27T14:00:00+07:00",
 "found": "2026-11-27T14:41:20+07:00"
 },
@@ -27966,61 +28022,6 @@
 "cat": "xh",
 "published": "2026-11-25T12:17:00+07:00",
 "found": "2026-11-25T13:35:16+07:00"
-},
-{
-"id": "d06430045dc1",
-"title": "Cháy bãi xe ở TPHCM, khói đen cuồn cuộn bốc cao hàng chục mét",
-"link": "https://vietnamnet.vn/chay-bai-xe-o-tphcm-khoi-den-cuon-cuon-boc-cao-hang-chuc-met-2578442.html",
-"summary": "Đám cháy bùng phát tại bãi xe trên đường Nguyễn Thị Nhuần, phường An Phú Đông (TPHCM), tạo thành cột lửa đỏ rực, khói đen cuồn cuộn bốc cao hàng chục mét.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/chay-bai-xe-o-tphcm-khoi-den-cuon-cuon-boc-cao-hang-chuc-met-1907.jpg?width=0&s=ETFUXC5wYpn2SSICMm4hWw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-25T12:16:58+07:00",
-"found": "2026-11-25T12:29:46+07:00"
-},
-{
-"id": "b05fe0adbdf4",
-"title": "Một con hổ nặng 140kg chết tại trang trại hổ nuôi nhốt ở Thanh Hóa",
-"link": "https://tuoitre.vn/mot-con-ho-nang-140kg-chet-tai-trang-trai-ho-nuoi-nhot-o-thanh-hoa-100261125115815216.htm",
-"summary": "Trong lúc chờ các đơn vị đủ điều kiện tiếp nhận chuyển giao, thêm một con hổ trưởng thành có trọng lượng 140kg chết tại trang trại nuôi nhốt trái phép tại Thanh Hóa.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/17955815335895238668866967000858523866886696700085812ed0daa52a6a2f4efc8242633a95393-17955822449871580053550-0-0-600-960-crop-17955825047601657705670.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T12:16:00+07:00",
-"found": "2026-11-25T13:35:16+07:00"
-},
-{
-"id": "32da0b64aa8a",
-"title": "Lao động đi Hàn làm nông 8 tháng để dành hơn 300 triệu đồng",
-"link": "https://vnexpress.net/lao-dong-di-han-lam-nong-8-thang-de-danh-hon-300-trieu-dong-5148666.html",
-"summary": "Thu nhập người Việt làm nông, ngư nghiệp thời vụ đạt 45-60 triệu đồng gồm tăng ca, tổng tích lũy sau trừ chi phí 100- 320 triệu với hợp đồng 3-8 tháng, theo Bộ Nội vụ.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/Screenshot20261125at111324-179-9055-6656-1795580471.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=kNad7OEaSBGgbGTk7JW7Ow",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-25T12:14:29+07:00",
-"found": "2026-11-25T12:54:56+07:00"
-},
-{
-"id": "21c59aad835e",
-"title": "Cảnh sát bắt đối tượng truy nã đặc biệt nguy hiểm lẩn trốn tại Hà Nội",
-"link": "https://dantri.com.vn/phap-luat/canh-sat-bat-doi-tuong-truy-na-dac-biet-nguy-hiem-lan-tron-tai-ha-noi-20261125105452013.htm",
-"summary": "(Dân trí) - Lực lượng cảnh sát hình sự của Công an tỉnh Quảng Ngãi đã bắt Hồ Đắc Thắng khi đối tượng này lẩn trốn tại thành phố Hà Nội. Đây là đối tượng bị truy nã về tội Lừa đảo chiếm đoạt tài sản.",
-"image": "https://cdnphoto.dantri.com.vn/CgmMljV8FuaMmyHNhLYJ68WLBDA=/2026/11/25/bat-doi-tuong-truy-naquang-ngaicong-an-quang-ngai-cropped-1795578780483.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-25T12:13:26+07:00",
-"found": "2026-11-25T12:29:46+07:00"
-},
-{
-"id": "4b216b9a457b",
-"title": "YouTuber trộm trang sức trị giá hơn 41 tỷ đồng, bị bắt vì hình xăm trên tay",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2prUTBuekxJQnFXQ0Q0RFRMUmFIV2pjNUtYQVFQZWtxMDVod2hvclNQUnlXY2JwUVJvZ3BZa1lDWXJiQ3N2Ylp5WmRLbHowYlVzLXNidGtuQzVYUnktcFJtUHVfcS1lOUlYcWJoby1aeThDYWJCejAwdi16VkdHaTBZT0FyMXlXVFIwNFRSUjhacDE0aWpyNHZ6TGxSLTJo?oc=5",
-"summary": "Nguồn: tin.skydoor.net",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T12:13:01+07:00",
-"found": "2026-11-25T19:29:58+07:00"
 }
 ]
 }
