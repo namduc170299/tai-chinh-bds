@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T19:40:27+07:00",
-"new": 26,
+"updated": "2026-11-27T19:55:38+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 44
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,61 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "32569d5b4a22",
+"title": "Gia Lai yêu cầu rà soát các điểm sạt lở trên quốc lộ 19C và 1D",
+"link": "https://thanhnien.vn/gia-lai-yeu-cau-ra-soat-cac-diem-sat-lo-tren-quoc-lo-19c-va-1d-185261127185242293.htm",
+"summary": "Trước nguy cơ mưa lớn tiếp diễn, UBND tỉnh Gia Lai yêu cầu khẩn trương kiểm tra, khắc phục các điểm sạt lở, hư hỏng trên quốc lộ 19C và 1D, bảo đảm an toàn giao thông.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/tnw-tnw-diem-sat-lo-1-17957801684841744987934-0-0-1600-2560-crop-179578026849779140189-1795780278674542334673.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T19:55:00+07:00",
+"found": "2026-11-27T19:55:38+07:00"
+},
+{
+"id": "4db42a982038",
+"title": "Bộ đội biên phòng dọn bùn đất, ‘cứu’ tỏi sau mưa lớn ở Lý Sơn",
+"link": "https://thanhnien.vn/bo-doi-bien-phong-don-bun-dat-cuu-toi-sau-mua-lon-o-ly-son-185261127185026719.htm",
+"summary": "Bộ đội biên phòng tỉnh Quảng Ngãi huy động lực lượng hỗ trợ người dân Lý Sơn khắc phục hậu quả sau mưa lũ, san gạt bùn đất, cứu nhiều vạt tỏi...",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/img5911-1795779299085247575759-250-0-1500-2000-crop-17957799116201788708489.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T19:50:00+07:00",
+"found": "2026-11-27T19:55:38+07:00"
+},
+{
+"id": "683772b2928c",
+"title": "Môi giới mua bán thận ở Huế, đôi tình nhân lãnh án",
+"link": "https://thanhnien.vn/moi-gioi-mua-ban-than-o-hue-doi-tinh-nhan-lanh-an-185261127172712424.htm",
+"summary": "TAND khu vực 1 thành phố Huế đưa ra xét xử đôi tình nhân môi giới mua bán thận với thỏa thuận 1,35 tỉ đồng. Cả hai nhận 450 triệu đồng trước khi bị phát hiện.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/base64-17957755762941682748601-31-115-1050-1745-crop-1795775605507475005012.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T19:48:00+07:00",
+"found": "2026-11-27T19:55:38+07:00"
+},
+{
+"id": "69df2d9bb50b",
+"title": "Phát hiện 9 hài cốt liệt sĩ trong giao thông hào ở Quảng Trị",
+"link": "https://thanhnien.vn/phat-hien-9-hai-cot-liet-si-trong-giao-thong-hao-o-quang-tri-185261127175014555.htm",
+"summary": "Bộ Chỉ huy quân sự tỉnh Quảng Trị vừa quy tập thêm 9 hài cốt liệt sĩ trong một hầm cá nhân và giao thông hào ở thôn Cổ Thành (xã Triệu Phong).",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/17957754705398759581779179585303g5937991833615262688180f64bc9e94ea2d984f81197659c268-17957762315011926466192-106-0-1706-2560-crop-17957765485491826004460.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T19:47:00+07:00",
+"found": "2026-11-27T19:55:38+07:00"
+},
+{
+"id": "f984c48cba17",
+"title": "Học sinh 14 tuổi bị sóng cuốn mất tích khi tắm biển Mỹ Khê",
+"link": "https://thanhnien.vn/hoc-sinh-14-tuoi-bi-song-cuon-mat-tich-khi-tam-bien-my-khe-185261127192316126.htm",
+"summary": "Một học sinh 14 tuổi ở xã An Phú (Quảng Ngãi) bị sóng biển cuốn mất tích khi cùng nhóm bạn tắm biển Mỹ Khê. Lực lượng chức năng đang tổ chức tìm kiếm nạn nhân.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/img5915-17957816733911289349231-250-0-1500-2000-crop-17957827362301111146928.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T19:46:00+07:00",
+"found": "2026-11-27T19:55:38+07:00"
+},
+{
 "id": "a3906bc70cee",
 "title": "Con trai ông Đặng Lê Nguyên Vũ tung chiến lược mới sau 1 tháng ngồi ghế Phó Tổng TNI King Coffee",
 "link": "https://kenh14.vn/con-trai-ong-dang-le-nguyen-vu-tung-chien-luoc-moi-sau-1-thang-ngoi-ghe-pho-tong-tni-king-coffee-215261127193731782.chn",
@@ -222,6 +277,18 @@
 "cat": "xh",
 "published": "2026-11-27T19:30:00+07:00",
 "found": "2026-11-27T19:40:27+07:00"
+},
+{
+"id": "ca5d07d35991",
+"title": "u-17 honduras đấu với u-17 nhật",
+"link": "https://bongdaplus.vn/u17-world-cup/nhan-dinh-bong-da-u17-costa-rica-vs-u17-brazil-21h00-ngay-27-11-tiep-tuc-chim-sau-5300282611.html",
+"summary": "Nhận định bóng đá U17 Costa Rica vs U17 Brazil, 21h00 ngày 27/11: Tiếp tục chìm sâu (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQO0OFsJNTIX9XXippX1uxe3Lu-uy-JWae_YfSxfdPSDn290byFo7jJidKbDE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T19:30:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-27T19:55:38+07:00"
 },
 {
 "id": "c4a14dc5827a",
@@ -257,6 +324,17 @@
 "found": "2026-11-27T19:40:27+07:00"
 },
 {
+"id": "46ec1d291d35",
+"title": "Bất ngờ đấu giá 4 lô đất Thủ Thiêm: Một lô đấu giá thành công hơn 1.771 tỷ đồng",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSU9tM3hWY3p2NnlfQUFlMHFiNURNbWtkWnBDYjAyUS1jVEZaS3A0WHNIUlZHZXh2eTZ6YnJ1RjZyZEE5emxQSjMzekx5cmo5TDBEcEFPLVI3MlVnNHJLdHVPeUE2M1RxMEhiVzhsZkd4enM3OHMxVHNHN29tcjhZWUNxbnFLbGpmQm0xWDhUdEdsMjhDbTRldklVMlo1LXExazI2ME5jaEZxT3dlWFNaUA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-27T19:28:00+07:00",
+"found": "2026-11-27T19:55:38+07:00"
+},
+{
 "id": "39d850d8e9f5",
 "title": "Trao giải cuộc thi viết \" Vượt lên số phận\" lần thứ IX",
 "link": "https://kenh14.vn/trao-giai-cuoc-thi-viet-vuot-len-so-phan-lan-thu-ix-215261127193511747.chn",
@@ -276,7 +354,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T19:20:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-27T19:40:27+07:00"
 },
 {
@@ -411,6 +489,18 @@
 "cat": "tc",
 "published": "2026-11-27T19:00:00+07:00",
 "found": "2026-11-27T19:16:33+07:00"
+},
+{
+"id": "b823c7cb16ea",
+"title": "marc marquez",
+"link": "https://www.motogp.com/en/news/2026/11/27/marc-marquez-announces-retirement-from-motogp/1268528",
+"summary": "Marc Marquez announces retirement from MotoGP (motogp.com)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSR3yPWRil4ItZYktroaZKmaEg_I2phPdOre-NiaFg5ZFLx1wDpXJGO_9hPmII",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T19:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-27T19:55:38+07:00"
 },
 {
 "id": "a7bf359dd67a",
@@ -676,6 +766,17 @@
 "cat": "xh",
 "published": "2026-11-27T18:26:00+07:00",
 "found": "2026-11-27T18:30:59+07:00"
+},
+{
+"id": "454face5f3a2",
+"title": "Hai ngày khám mắt miễn phí cho người nghèo ở đảo ngọc Phú Quốc",
+"link": "https://tuoitre.vn/hai-ngay-kham-mat-mien-phi-cho-nguoi-ngheo-o-dao-ngoc-phu-quoc-100261127174152806.htm",
+"summary": "Trong hai ngày 28 và 29-11, người có công, gia đình chính sách, hộ nghèo, cận nghèo và người cao tuổi tại Phú Quốc sẽ được khám mắt, tư vấn điều trị và cấp phát thuốc miễn phí.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/dinh-van-noi-trao-qua-edit-17957822816851051426382-0-170-1348-2327-crop-1795782356238978747697.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-27T18:26:00+07:00",
+"found": "2026-11-27T19:55:38+07:00"
 },
 {
 "id": "af8ef9dc5e48",
@@ -27916,105 +28017,6 @@
 "source": "CafeF",
 "cat": "bds",
 "published": "2026-11-25T11:39:00+07:00",
-"found": "2026-11-25T11:44:17+07:00"
-},
-{
-"id": "5490dfe757ba",
-"title": "Doanh nghiệp Việt mở rộng cơ hội tiếp cận thị trường Trung Quốc qua nền tảng số",
-"link": "https://vietnamnet.vn/doanh-nghiep-viet-mo-rong-co-hoi-tiep-can-thi-truong-trung-quoc-qua-nen-tang-so-2578418.html",
-"summary": "Để tiếp cận thị trường Trung Quốc, doanh nghiệp Việt được khuyến nghị sớm hiện diện trên nền tảng xã hội Trung Quốc, tìm hiểu phản hồi khách hàng trước khi mở rộng đầu tư.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/doanh-nghiep-viet-mo-rong-co-hoi-tiep-can-thi-truong-trung-quoc-qua-nen-tang-so-1672.png?width=0&s=mDZH9auPow1IUJEwCOyEsA",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-25T11:37:14+07:00",
-"found": "2026-11-25T11:44:17+07:00"
-},
-{
-"id": "12ecfd6b0c9a",
-"title": "Sáng 25/11: Giá bạc thế giới đảo chiều suy giảm",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdDh5dGZoR3J4S1JCemQ4RUNjZGo4dmdtMklOTmp1QVpyQ040MFRKcTg5ck5QbXVXMEZlYkFoRDlJTmNvd1J4cVh4QWs5MGtwWktXTmtoR01hWmY4OXBId29Nd0p3Y3pIVTc4WktILWtmUy1UaUdQTEFFWWgzUS11LWM4OGtPUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T11:37:00+07:00",
-"found": "2026-11-25T11:44:17+07:00"
-},
-{
-"id": "25ee363eb64f",
-"title": "Giá đất Thủ Thiêm Eco Smart City có thể bị rà soát lại - Tạp chí Nhà Quản Trị - TheLEADER",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXlkNERxdjBndWhIaUR6VDd0NDVXbVdSWGEzRldwQTNWSUU3UWdROTk4aXRNcDVxcmpEcjlodHlqWUl0d04zWmtCVHFIeTVabURpT0YyUThqQ3lCb21JcUhKSU1QRWNCUmdSS0VCOGctdUhfWkZxXzRDX3I0Ums5Z1dsTTZmUENfbk9fam15OWc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T11:35:00+07:00",
-"found": "2026-11-25T12:14:36+07:00"
-},
-{
-"id": "608e908db7e5",
-"title": "Dự báo NIM ngân hàng tiếp tục dao động về quanh mức 3,0% vào cuối năm",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUnVHTjBjUGxxdU0xblQ1MnBjajFaWk1fWE1UTVEwS1BqbE5RU1I0MDlLUHd3dDhTYVFJQnpSb2doZzc2RjBMZHBpY19aaU9VeUhhTzZ4T2drLURGeDBIeURSc2Q5TDdfUnlZUkE3QVdpOFhXMWVVWmM3bzI1cFVuWHd6RDN0MkJwWUZTQWVQYjRTRGZKWUlXQ3IteVgtbUxSd2s4?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T11:34:00+07:00",
-"found": "2026-11-25T11:44:17+07:00"
-},
-{
-"id": "bcbde48aac20",
-"title": "Đại sứ OCOP TP.HCM: Xúc động chuyện người giữ nghề, dựng nghiệp",
-"link": "https://tuoitre.vn/dai-su-ocop-tphcm-xuc-dong-chuyen-nguoi-giu-nghe-dung-nghiep-100261125105049163.htm",
-"summary": "Sáng 25-11, vòng chung kết cuộc thi Đại sứ OCOP TP.HCM năm 2026 đã diễn ra với sự tranh tài của 16 thí sinh được lựa chọn từ vòng sơ khảo.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/2aoborf1z6webtdlbmk7di5swmvldpvngz3gis5w-17955830538782067253136-228-274-1614-2492-crop-17955830738721652154469.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-25T11:34:00+07:00",
-"found": "2026-11-25T13:10:06+07:00"
-},
-{
-"id": "af4c8c5e605f",
-"title": "Hiệu quả từ mô hình quản lý vốn ủy thác ở Cam Ranh",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR1h3ZF8xcVpVMmJ0VGt2T09mNXJSaC1mN2ZNT0g2S1VOY0diUm5xRXZYdXhPeWFqcDlkOWtGX3JMWFVZaFJkb0EzeTZ3SFFDeW1vLU1aNFdESGgwNzFpVFA5RlVRSENDb0hodXN6OTJpbVQ2TmZqSFRMRHRkYnZJbXVhdVo2cU1IMkxN?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T11:33:00+07:00",
-"found": "2026-11-25T11:44:17+07:00"
-},
-{
-"id": "23187fb2d73a",
-"title": "Gia Lai đầu tư nhà máy xử lý xà bần, chất thải rắn 780 tấn/ngày tại phía Tây",
-"link": "https://tuoitre.vn/gia-lai-dau-tu-nha-may-xu-ly-xa-ban-chat-thai-ran-780-tan-ngay-tai-phia-tay-100261125105450053.htm",
-"summary": "Hai nhà máy xử lý xà bần, chất thải rắn vừa khởi công tại khu vực phía Tây Gia Lai có tổng vốn đầu tư gần 200 tỉ đồng, công suất 780 tấn/ngày.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/khoi-cong-du-an-nha-may-rac-thai-gia-lai-1-17955794556601241047448-12-42-916-1489-crop-179558013898813945386-15-10-904-1432-crop-17955825006101967186760.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-25T11:32:00+07:00",
-"found": "2026-11-25T13:10:06+07:00"
-},
-{
-"id": "cd36e1bd0f1f",
-"title": "TPHCM: Đấu giá 4 lô 'đất vàng' ở Thủ Thiêm với giá khởi điểm hơn 16.665 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUm1PNDgxR3A5MGJ4YmFrUFV5RkVIT2l2UDVHVTM2Rmh1LU9MYVdxcFZhcDNLSGhNWnZ3WUFhRURIMVNsX2d4VDJ2WW1JVk5obXFxdURzVHZ3MDJ3a2dNVGlBbEFSWXEzWlM4NEpocXlXR28yR1R4V2FWZllSSmQ2YmI1SGhKbkxkZmo1engzcUNqaUxYZDl2Qi1nNWFzVXVhcXpLU0dIYlp0dTRKZmc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T11:32:00+07:00",
-"found": "2026-11-25T13:50:28+07:00"
-},
-{
-"id": "59baa0b2ccee",
-"title": "Một loạt ngân hàng đối mặt áp lực nợ xấu gia tăng",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeF9DSXFQT1BNTVBNaXJEQ3NyNmJScU5YckF5TEJlTkdhZHNHbXVOT1J1QXNaWDlDRXoxcEtyWVFTN0dQY25xN0swN3hSS0kzbU14VUxmajkydGFJMlU1Xzk4ekpuNnk5LXp5OFVMYm9jZjVFNVBmNXpSVGtpblJQMFBWaVlPSDdPZWc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T11:31:00+07:00",
 "found": "2026-11-25T11:44:17+07:00"
 }
 ]
