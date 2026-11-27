@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T12:24:28+07:00",
-"new": 6,
+"updated": "2026-11-27T12:39:41+07:00",
+"new": 14,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 23
+"count": 47
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "543009dda7e9",
+"title": "'Ông lớn' xây dựng cũng toát mồ hôi tìm thợ lành nghề",
+"link": "https://cafef.vn/ong-lon-xay-dung-cung-toat-mo-hoi-tim-tho-lanh-nghe-188261127120303503.chn",
+"summary": "Dù có nhiều dự án lớn, các doanh nghiệp xây dựng hàng đầu vẫn thiếu thợ lành nghề, trong khi chi phí nhân công leo thang và năng suất lao động chưa đáp ứng yêu cầu.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795755757908-1795755758405834144517.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T12:32:00+07:00",
+"found": "2026-11-27T12:39:41+07:00"
+},
+{
+"id": "6ffc257c9a51",
+"title": "Chuyện ở căn bếp 5 sao: Nơi món ăn ủ chua chiều lòng các cô bò TH",
+"link": "https://kenh14.vn/chuyen-o-can-bep-5-sao-noi-mon-an-u-chua-chieu-long-cac-co-bo-th-215261127122635986.chn",
+"summary": "Căn bếp 5 sao của gần 80.000 bò sữa TH true MILK luôn tỏa ra mùi thơm đặc trưng nhờ món thức ăn ủ chua - chìa khóa kích thích vị giác các cô bò sữa.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/1417441b7-060c-4438-bcca-99746e45d2b2-1795747928177192552629-1795757602959-1795757604136585790399-0-0-1250-2000-crop-17957576208061493860129.jpeg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T12:27:00+07:00",
+"found": "2026-11-27T12:39:41+07:00"
+},
+{
+"id": "cf9089f1fac9",
+"title": "FPT đề xuất thử nghiệm taxi bay tốc độ lên tới 100 km/h, mỗi chuyến chở được 2 hành khách tại TP trực thuộc Trung ương thứ 8 của Việt Nam",
+"link": "https://kenh14.vn/fpt-muon-dua-taxi-bay-toc-do-100km-h-ve-quang-ninh-du-kien-thu-nghiem-tu-giua-nam-2027-215261127114019776.chn",
+"summary": "FPT và đối tác Nhật Bản SkyDrive đề xuất thử nghiệm phương tiện bay điện eVTOL, nghiên cứu khả năng phát triển dịch vụ taxi bay tại Quảng Ninh.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795754781099-17957547817381615259678.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T12:26:00+07:00",
+"found": "2026-11-27T12:39:41+07:00"
+},
+{
+"id": "8a04172a6212",
+"title": "Thủ tướng: Thuế Mỹ áp dụng với hàng hóa Việt Nam sẽ thấp hơn nhiều mức dự kiến",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGtDVE04M3BZYTN1MkhaX3dZSnV0Q2kxTlRYMi1UREdELWRjbXpaMlRkY01GenFkMGZ0TGZrcGpfZWJYWDhFZzZBMmc3X1hRSVRnNTNJaEFNMTlRZFJaN1BQbFByaHY4RVItbDVzdmk4aEc4aDN3VkZVLTdkZ01CZ3pvazcwYTRQWWNJb3dnMzdFcHJ4TjFFWERsUkc4ZEtzN3d2UkVlbVFJMWRES0Rz?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T12:24:00+07:00",
+"found": "2026-11-27T12:39:41+07:00"
+},
+{
 "id": "76570b5dc8e1",
 "title": "Thủ tướng: Việt Nam và Mỹ đã cơ bản kết thúc đàm phán thuế đối ứng",
 "link": "https://vietnamnet.vn/thu-tuong-viet-nam-va-my-da-co-ban-ket-thuc-dam-phan-thue-doi-ung-2579326.html",
@@ -235,6 +279,52 @@
 "found": "2026-11-26T15:04:20+07:00"
 },
 {
+"id": "8cfe81c64b8b",
+"title": "Techcombank thông báo thay đổi nhân sự cấp cao",
+"link": "https://cafef.vn/techcombank-thong-bao-thay-doi-nhan-su-cap-cao-188261126144405778.chn",
+"summary": "Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank) vừa thông báo về việc điều chuyển nhân sự cấp cao.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/tcb0146-2-17956785290491186160001-1795756796777-17957567977151565985368-268-0-1518-2000-crop-1795756813541888792897.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T12:20:00+07:00",
+"found": "2026-11-27T12:39:41+07:00"
+},
+{
+"id": "db83a6fb99e0",
+"title": "đông nam á",
+"link": "https://vnexpress.net/nvidia-yeu-cau-doi-tac-dung-chuyen-chip-den-bon-nuoc-dong-nam-a-5149453.html",
+"summary": "Nvidia 'yêu cầu đối tác dừng chuyển chip đến bốn nước Đông Nam Á' (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAiA6fMWZKTQQWxArQg5Aa0FT9rJkhq8PoqraxYnALmgx6jxFo9XVPTB0bRaI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T12:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-27T12:39:41+07:00"
+},
+{
+"id": "e670a4e5320b",
+"title": "thợ xây",
+"link": "https://www.24h.com.vn/kinh-doanh/nganh-xay-dung-khat-tho-tra-cong-gap-ruoi-chu-nha-van-phai-xin-tho-den-lam-c161a1814063.html",
+"summary": "Ngành xây dựng khát thợ: Chủ thầu chật vật giữ chân người lao động (Tin tức 24h)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMxox31ghEcTzcIuQSJ47SLGBtBM-hOBv_VrHtJ40TMUUeJjwPckt_yHlxcpM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T12:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-27T12:39:41+07:00"
+},
+{
+"id": "fe8608750f39",
+"title": "Ông Đặng Lê Nguyên Vũ bán cá phê đá, bánh mì nóng giòn tại siêu công trình lớn nhất Đông Nam Á của ông Phạm Nhật Vượng",
+"link": "https://kenh14.vn/ong-dang-le-nguyen-vu-ban-ca-phe-da-banh-mi-nong-gion-tai-sieu-cong-trinh-lon-nhat-dong-nam-a-cua-ong-pham-nhat-vuong-215261127122601798.chn",
+"summary": "Các loại bánh mì và cà phê được bán tại quầy hàng của ông Đặng Lê Nguyên Vũ không quá 40.000 đồng/món",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795757089718-1795757090204331563135.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T12:18:00+07:00",
+"found": "2026-11-27T12:39:41+07:00"
+},
+{
 "id": "00e5edbb4215",
 "title": "Chứng khoán Kafi chính thức chào bán 125 triệu cổ phiếu ra công chúng, dự kiến huy động 1.875 tỷ đồng",
 "link": "https://vneconomy.vn/chung-khoan-kafi-chinh-thuc-chao-ban-125-trieu-co-phieu-ra-cong-chung-du-kien-huy-dong-1875-ty-dong.htm",
@@ -244,6 +334,29 @@
 "cat": "tc",
 "published": "2026-11-27T12:15:22+07:00",
 "found": "2026-11-27T12:24:28+07:00"
+},
+{
+"id": "37412b2add40",
+"title": "Bác sĩ quay lén hơn 800 đồng nghiệp trong toilet bệnh viện",
+"link": "https://vnexpress.net/bac-si-quay-len-hon-800-dong-nghiep-trong-toilet-benh-vien-5149586.html",
+"summary": "Bác sĩ thực tập Ryan Cho, 29 tuổi, bị tạm giam tại Melbourne sau khi nhận tội bí mật quay video 874 người trong nhà vệ sinh của ba bệnh viện.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/2bb60ef3-a749c67c69-f62b0e4d53-2125-3504-1795755693.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=mb3IR2kcBZkeakMC70GR-Q",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-27T12:11:14+07:00",
+"found": "2026-11-27T12:39:41+07:00"
+},
+{
+"id": "c00b8493c718",
+"title": "hoài linh",
+"link": "https://www.saostar.vn/dien-anh/kho-cuu-duoc-hoai-linh-202611270027470433.html",
+"summary": "Khó cứu được Hoài Linh (Tạp chí Saostar)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI0f0tpojG8MIZ1Z2lYiU2smZOLQR4kYIaxN2rsEHzJeao5EjGLmVsNJnlTZY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T12:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-27T12:39:41+07:00"
 },
 {
 "id": "e83161224bc2",
@@ -988,6 +1101,17 @@
 "published": "2026-11-27T11:00:00+07:00",
 "traffic": "200+",
 "found": "2026-11-27T11:18:28+07:00"
+},
+{
+"id": "9579cad5efa3",
+"title": "Công binh Việt Nam tiếp tục củng cố năng lực và niềm tin tại Abyei",
+"link": "https://tuoitre.vn/cong-binh-viet-nam-tiep-tuc-cung-co-nang-luc-va-niem-tin-tai-abyei-100261126215345764.htm",
+"summary": "Chỉ sau hơn một tháng tiếp nhận và triển khai nhiệm vụ tại Abyei (UNISFA), Đội công binh số 5 Việt Nam đã ghi dấu ấn bằng những kết quả thiết thực, được lãnh đạo phái bộ An ninh lâm thời Liên hợp quốc đánh giá cao.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/dcb5-5-1795704500581155736352-0-0-565-904-crop-1795704696425323426499.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-27T11:00:00+07:00",
+"found": "2026-11-27T12:39:41+07:00"
 },
 {
 "id": "6e8ce7dd91aa",
@@ -2518,6 +2642,17 @@
 "found": "2026-11-27T09:29:45+07:00"
 },
 {
+"id": "925017e5581e",
+"title": "Hôm nay đấu giá trực tuyến 4 lô đất 'vàng' ở Thủ Thiêm",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTmJJX2poenl4cTVxT1NkempZWkl0blBFTFE0dlFfT3cxdFROMHpXaEFaWlJZMnI1LUkzWGJ6N3NIWTdRbTdleHUzZmdPcUxsV181My0tamdCWFc0Ym5oVjZ4aUlnOGRsNHVWeUVWMWltQV9Rd3RBZjRGWEtIT0tSRk8tMGVtXzF0OXpxTEp3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-27T09:08:00+07:00",
+"found": "2026-11-27T12:39:41+07:00"
+},
+{
 "id": "7f8a6f66d601",
 "title": "Phản ứng của các nước châu Á sau đề xuất thuế quan dư thừa công suất của Mỹ",
 "link": "https://vneconomy.vn/phan-ung-cua-cac-nuoc-chau-a-sau-de-xuat-thue-quan-du-thua-cong-suat-cua-my.htm",
@@ -2605,6 +2740,17 @@
 "cat": "mxh",
 "published": "2026-11-27T09:00:00+07:00",
 "found": "2026-11-27T10:36:16+07:00"
+},
+{
+"id": "a45257d10fe1",
+"title": "Một doanh nghiệp ngành than chốt thưởng cổ phiếu tỷ lệ gần 170%, chia cổ tức tiền mặt hơn 254%",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUw0Zks3b3k0UmhGWUtLZHNYME9xZ0Y5Y2N0ZzRlWFBWWllIaXdNWUZjMnpFN2QzNE1QS0ZmcXVfSGdzbGNPNFlmNzJuWU40MkJlVnpaQ2NMNWNnUk5lQ0FqclhCYVhUWjJ4OU1Nc1J6QzE3aGxQMjk1eWZYS3d2bENfZ2tKMWJXbzlsWHpuWVRMMTJaNk9rNXFYVlRhQVc0TGNqUDJRUXF0Y0ZPTHJCcmRHSUtxY3lHUi1kMm1HUEdPdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T09:00:00+07:00",
+"found": "2026-11-27T12:39:41+07:00"
 },
 {
 "id": "42c4043938a4",
@@ -3085,6 +3231,17 @@
 "cat": "xh",
 "published": "2026-11-27T08:10:00+07:00",
 "found": "2026-11-27T09:29:45+07:00"
+},
+{
+"id": "7c4e672fd8f1",
+"title": "Nâng chuẩn quản trị, mở dư địa gia tăng giá trị doanh nghiệp nhà nước",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRk9uQlotb29HWHhXdG9tNVpEdEREcjA1UjhsNmI0bmRXX0pWeGdDNnFoR1dKTzJ2YlNWSzd5X2UxWVVzNjlqd3FrS0VUYjZ4dlVFb2FQdGMzaGg1U1JOQzRmd1JJcXFNV19Db0RwdTNDa2ZGYUdBcXNXMjN1Y3QzRUJwUVUtY3BUam5tOUhILU9fSHdNSGpkVWJQUUVOYXBMV1U0?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T08:07:00+07:00",
+"found": "2026-11-27T12:39:41+07:00"
 },
 {
 "id": "8fac97a22330",
@@ -27920,164 +28077,6 @@
 "cat": "mxh",
 "published": "2026-11-25T00:00:00+07:00",
 "found": "2026-11-25T10:54:47+07:00"
-},
-{
-"id": "1804ce37f8b4",
-"title": "7.000 VĐV tranh tài giải đua ghe ngo lớn nhất trên sông Maspero",
-"link": "https://vnexpress.net/7-000-vdv-tranh-tai-giai-dua-ghe-ngo-lon-nhat-tren-song-maspero-5148497.html",
-"summary": "Với 84 đội ghe và hơn 7.000 VĐV tham gia, giải đấu năm nay lập kỷ lục về số đội góp mặt, diễn ra trong hai ngày 23-24/11.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/Lark20261124230205-1795536140-3041-1795536318.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=n8AAuTX1hOZh8McVken1UQ&t=image",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-25T00:00:00+07:00",
-"found": "2026-11-25T10:54:47+07:00"
-},
-{
-"id": "3ffb81b3195d",
-"title": "Cổ phiếu Nvidia lao dốc khi ông Jensen Huang trở lại 'ghế nóng'",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGtFVllJOXJjSGlKdktTQ1JmbXpQdXJ1TjBLTVZDNElSbmtvZXk2Yl9CZU5CLVdtdGh5cTZBTk5NbXZHRUVLUDFaV1JEaGp4RUl3TWRya2xSTFlWS1FHaE1QNk5XNnc2VEd2RTJwZmE4T1ZLV0VpMW56NEswM1V3YklHaUVtQ0U1LUdTcEdsQkFtSlJDOHlCaHhB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T23:52:00+07:00",
-"found": "2026-11-25T01:01:48+07:00"
-},
-{
-"id": "3d38c5ce4a12",
-"title": "galatasaray đấu với aston villa",
-"link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-galatasaray-vs-aston-villa-00h45-ngay-25-11-trang-tay-ra-ve-5297572611.html",
-"summary": "Nhận định bóng đá Galatasaray vs Aston Villa, 00h45 ngày 25/11: Trắng tay ra về (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSMF_Qn8NbI_em3ziiwqxwT4QqMLiQjcICm6BcVB7gx6mMFm-URZSKRkh_2-0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T23:50:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-25T00:13:33+07:00"
-},
-{
-"id": "0afabd27ff8a",
-"title": "109 hộ dân bị ảnh hưởng bởi vụ sập nhà tại 168 Nguyễn Văn Tuyết được bố trí tạm cư tại phường Việt Hưng",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNVNQQUY0YmpjdFNKMy1ZaWhhZFBkT0ExMVl3dHdoOTFjU2FpaEJMbmxGR3QyZS1GYlVkNUZfNlB2R2ZITU83TS1YTjhtV3hTZGlPZC0yQWp4MzN0R21pUnhlY0hXWGVuOUZ0U0VkZk9CWnQ2aUkwZ3hDSkN4cmZSZUNpLTN1NEFnUnpqYVZKNU1XMzVXZ0ZKQmhCNmxjQnZnLXd2NnJtZVBzTHJMbkJmeWZpX25hY2FPeXdDaFJ6YUFPdktoYnU4czJaYUpoMW00Ymc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T23:28:34+07:00",
-"found": "2026-11-25T10:54:47+07:00"
-},
-{
-"id": "0b32ecb3357b",
-"title": "shabab al-ahli đấu với al qadisiya",
-"link": "https://www.magzter.com/stories/newspaper/Gulf-Today/EXCITING-CLASH-ON-THE-CARDS-AS-SHABAB-AL-AHLI-TAKE-ON-AL-QADSIAH-AT-ACL-TWO",
-"summary": "Exciting clash on the cards as Shabab Al Ahli take on Al Qadsiah at ACL Two (Magzter)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsp8UJnpyBLufP_qNf2taJJ53x7WtTXj1qES-3L6jxfQpkHgE1G_KQCzFWY6w",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T23:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-24T23:27:54+07:00"
-},
-{
-"id": "fedfb045237b",
-"title": "jk phạm vũ nguyệt nga",
-"link": "https://vtv.vn/the-thao/gia-danh-bac-si-chuyen-gia-tham-my-de-lua-khach-4-doi-tuong-bi-khoi-to-100261124121016319.htm",
-"summary": "Giả danh bác sĩ, chuyên gia thẩm mỹ để lừa khách, 4 đối tượng bị khởi tố (VTV.vn)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RUVa7hsGefu8uMIeGDt8bNFnEf_OdAgJE4r0IoAka402k_QzOBW17lZkNqU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T22:50:00+07:00",
-"traffic": "100+",
-"found": "2026-11-24T23:12:27+07:00"
-},
-{
-"id": "4b463a196512",
-"title": "Bếp ăn đặc biệt tiếp sức đội ghe ngo bên sông Maspéro",
-"link": "https://tuoitre.vn/bep-an-dac-biet-tiep-suc-doi-ghe-ngo-ben-song-maspero-100261124193634511.htm",
-"summary": "Hơn một tháng qua, bếp ăn của bà con phum sóc đỏ lửa, chuẩn bị những bữa cơm nóng tiếp sức đội ghe ngo chùa Khleang trong mùa giải đua trên sông Maspéro.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/img3516-17955236069671050669031-0-17-1283-2070-crop-1795523618532428914636.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T22:50:00+07:00",
-"found": "2026-11-24T23:43:15+07:00"
-},
-{
-"id": "4b0e4207faab",
-"title": "Najnowsze wiadomości: CAS postanawia „przywrócić” tytuł mistrza Pucharu Narodów Afryki 2025 Senegalowi.",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYS00eTV0T2UybDNrNWZtLUtXM2pjSlJkNGNpRGJSVGlDdUNXOEhtSmRjRUtNeEJkTkRRYnc5aEZwZTNjMzd4V2JENzAtOWUyMGFwZ1JyMEJJRGFHZjVLNTl2UG93Mk1kMEV5SWtnajNibWVqdVZwY3ZNYlJlbk5od2Y5cm5Bbms5SW9PaDl3RnZfUjlzQXp6WWJkOW9UZFFB?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-24T22:44:31+07:00",
-"found": "2026-11-25T16:16:24+07:00"
-},
-{
-"id": "9f71eea09fd1",
-"title": "bóng đá vô địch các câu lạc bộ châu âu",
-"link": "https://vnexpress.net/pochettino-do-loi-cho-trong-tai-khi-thua-liverpool-0-4-5147791.html",
-"summary": "Pochettino đổ lỗi cho trọng tài khi thua Liverpool 0-4 (VnExpress)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRnbZyvYQzxbTLFDC98oj4-_nujRvNnQSWyUH7vzc12nK3InWkP6FxS1QVCy4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T22:40:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-24T05:13:17+07:00"
-},
-{
-"id": "407c663315f4",
-"title": "Chủ quán bar ở Chiang Mai bị bắt vì 'chặt chém' du khách nước ngoài",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlZCazhaWThkQThDbTgyMTFyM1A1NHg0YkZpNVJEUm9mNkZORi1QUWIxZktKcnlLMWZ5LUlGOXlTeW1tMm9jR2w5Zy1BNEwyM0dyeC1jTnJIdUVvbDY0cV9IamZGUW94TTVXNGlhUzdESWVRSUVlQjdoY2hSRDkyZl95WWtKVFdMY242R0FqWVhjQQ?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-24T22:36:26+07:00",
-"found": "2026-11-24T22:41:32+07:00"
-},
-{
-"id": "a6623151b8d5",
-"title": "Hải Phòng bác tin bắt cóc trẻ em, hé lộ lý do người dân vây giữ 5 người",
-"link": "https://tuoitre.vn/hai-phong-bac-tin-bat-coc-tre-em-he-lo-ly-do-nguoi-dan-vay-giu-5-nguoi-10026112422135282.htm",
-"summary": "Thấy trẻ mặc không đủ ấm, nhóm 5 người gọi các em lại gần ô tô để cho tiền, khiến người dân nghi bắt cóc và vây giữ.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/950-17955349079071154205398-193-0-1037-1350-crop-1795534953296985572750.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T22:36:00+07:00",
-"found": "2026-11-24T22:56:59+07:00"
-},
-{
-"id": "2db8bbabb85d",
-"title": "Công an Hải Phòng bác thông tin bắt cóc trẻ em tại xã Vĩnh Thuận",
-"link": "https://kenh14.vn/cong-an-hai-phong-bac-thong-tin-bat-coc-tre-em-tai-xa-vinh-thuan-215261124221534115.chn",
-"summary": "Công an TP Hải Phòng khẳng định không xảy ra vụ \"bắt cóc trẻ em\" tại xã Vĩnh Thuận (Hải Phòng) như thông tin lan truyền trên mạng xã hội chiều 24/11.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795533272652-1795533273319551478395.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T22:35:00+07:00",
-"found": "2026-11-24T22:56:59+07:00"
-},
-{
-"id": "f0cec7e1d328",
-"title": "CPTPP bàn nâng cấp hiệp định, mở rộng thành viên tại Hà Nội",
-"link": "https://vnexpress.net/cptpp-ban-nang-cap-hiep-dinh-mo-rong-thanh-vien-tai-ha-noi-5148494.html",
-"summary": "Quan chức cấp cao 12 thành viên CPTPP thảo luận việc nâng cấp hiệp định, mở rộng thành viên và tăng hợp tác với EU, ASEAN trong chuỗi hội nghị do Việt Nam chủ trì.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/24/wm6-wm6-17955233400126254858831438-2491-7476-1795533223.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GqgUGZc9RV3c4K3EshbRyg",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-24T22:31:32+07:00",
-"found": "2026-11-24T22:41:32+07:00"
-},
-{
-"id": "ce17f6842388",
-"title": "Tháp Tam Thắng Vũng Tàu nhộn nhịp người xem bắn pháo hoa Ngày Văn hóa Việt Nam",
-"link": "https://thanhnien.vn/thap-tam-thang-vung-tau-nhon-nhip-nguoi-xem-ban-phao-hoa-ngay-van-hoa-viet-nam-185261124214705776.htm",
-"summary": "Dù 21 giờ mới diễn ra chương trình bắn pháo hoa chào mừng Ngày Văn hóa Việt Nam nhưng từ chiều 24.11, nhiều người đã có mặt tại khu vực tháp Tam Thắng (Bãi Sau, Vũng Tàu) để chọn vị trí đẹp.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/edit-tnw-179553136151982134963177238794728213496317723879472743de77c6651f436947460f3745e1846-17955314340881918361446-132-1018-936-2305-crop-1795531459370102132145.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-24T22:30:00+07:00",
-"found": "2026-11-24T22:41:32+07:00"
 }
 ]
 }
