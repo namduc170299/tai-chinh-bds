@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T06:48:34+07:00",
+"updated": "2026-11-27T07:03:47+07:00",
 "new": 6,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 50
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,62 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "4bbfadf2806f",
+"title": "Lãi suất huy động hạ nhiệt, vì sao người vay mua nhà vẫn chịu lãi cao?",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORXRDOXpWVlZNYy1JRW96Q1R0T2FuSGs3ZmNhZGstalVYaEFvMWVUcmlSUWF6U0dYQXktX1NIUG52N2lJMHltQ2ZocWhDVlJxZ2lCVl9nN0VGSHJpTmc5ZEFTNENNaEN2MXFzV3U1SGk2ZXZuWXlDQ000VFRRWmJBUkwxdVhBd2lMMEFacFFkZ09XdWNSaDhRQy0tUk5wenFvVmpn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T07:00:30+07:00",
+"found": "2026-11-27T07:03:47+07:00"
+},
+{
+"id": "accc201e4beb",
+"title": "Diện mạo sân bay Gia Bình sau hơn 1 năm khởi công",
+"link": "https://thanhnien.vn/dien-mao-san-bay-gia-binh-sau-hon-1-nam-khoi-cong-185261126210942209.htm",
+"summary": "Sau hơn 1 năm khởi công, các hạng mục trọng điểm của Cảng hàng không quốc tế Gia Bình (Bắc Ninh) gồm đường cất hạ cánh số 2, nhà khách VIP, đài kiểm soát không lưu và trạm dẫn đường DVOR/DME đã đồng loạt thành hình, bước vào giai đoạn hoàn thiện kết cấu và lắp đặt thiết bị kỹ…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/tnw-4-1795701162732945217977-58-0-1658-2560-crop-17957019577321341246254.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T06:59:00+07:00",
+"found": "2026-11-27T07:03:47+07:00"
+},
+{
+"id": "15ec25e82abb",
+"title": "Ngay trong tháng này, những trường hợp sau sẽ được hỗ trợ lên đến 10 triệu đồng/tháng",
+"link": "https://kenh14.vn/ngay-trong-thang-nay-nhung-truong-hop-sau-se-duoc-ho-tro-len-den-10-trieu-dong-thang-215261127065835549.chn",
+"summary": "Đó là những ai?",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795737455174-17957374557071843404048.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T06:51:00+07:00",
+"found": "2026-11-27T07:03:47+07:00"
+},
+{
+"id": "682b6bd2625e",
+"title": "giá cà phê",
+"link": "https://vnexpress.net/ca-phe-rot-gia-con-15-000-dong-mot-kg-5148632.html",
+"summary": "Cà phê rớt giá còn 15.000 đồng một kg (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbWwpVds8cYNliS8iL7BMnsUdFEPVvBk9fBKIu69f975nGP-MTiowB33U6cx4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T06:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-27T07:03:47+07:00"
+},
+{
+"id": "9d2386ba15eb",
+"title": "Bắt tạm giam cô gái trẻ SN 2006 để điều tra về số tiền 577.295.000 đồng",
+"link": "https://kenh14.vn/bat-tam-giam-co-gai-tre-sn-2006-de-dieu-tra-ve-so-tien-577295000-dong-215261126233725578.chn",
+"summary": "Nữ bị can bị cáo buộc có hành vi lừa đảo chiếm đoạt tài sản bằng thủ đoạn đưa ra các thông tin gian dối để vay tiền.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795711033428-17957110349561081975822.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T06:39:00+07:00",
+"found": "2026-11-27T07:03:47+07:00"
+},
+{
 "id": "92a0181893d5",
 "title": "lionel messi",
 "link": "https://www.24h.com.vn/bong-da/messi-dong-y-du-tran-dau-toan-huyen-thoai-cho-chung-doi-voi-ronaldo-c48a1814394.html",
@@ -258,6 +314,17 @@
 "cat": "xh",
 "published": "2026-11-27T06:26:00+07:00",
 "found": "2026-11-27T06:48:34+07:00"
+},
+{
+"id": "00e1d00c3882",
+"title": "Tuấn \"Thần Đèn\" đưa con trai, cháu ruột vào vòng lao lý",
+"link": "https://dantri.com.vn/phap-luat/tuan-than-den-dua-con-trai-chau-ruot-vao-vong-lao-ly-20261127000027445.htm",
+"summary": "(Dân trí) - Góp vốn thâu tóm doanh nghiệp khai thác khoáng sản, Tuấn \"Thần Đèn\" đưa cháu ruột lên làm giám đốc, giao con trai điều hành hoạt động tại mỏ đất và trực tiếp quyết định chủ trương khai thác.",
+"image": "https://cdnphoto.dantri.com.vn/yzlRxmr0bCGoXYy7FV3jXE1ESIs=/2026/10/04/tuan-than-den-1791102439220.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-27T06:20:37+07:00",
+"found": "2026-11-27T07:03:47+07:00"
 },
 {
 "id": "af890ea5fead",
@@ -28031,72 +28098,6 @@
 "cat": "xh",
 "published": "2026-11-24T13:01:00+07:00",
 "found": "2026-11-24T13:09:54+07:00"
-},
-{
-"id": "c604306d28c5",
-"title": "Tân chủ tịch SCB là ai?",
-"link": "https://cafef.vn/tan-chu-tich-scb-la-ai-188261124110144278.chn",
-"summary": "Trước khi được bổ nhiệm làm Chủ tịch HĐQT SCB, ông Phạm Quang Tiến từng giữ chức Giám đốc BIDV chi nhánh Ba Tháng Hai và có hơn 4 năm tham gia bộ máy quản trị, điều hành SCB kể từ khi ngân hàng được đưa vào diện kiểm soát đặc biệt.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/scb-quyet-dinh-hdqt20261123161222-179549274175083717729-0-51-1087-1790-crop-17954927470811951677550.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-24T12:59:00+07:00",
-"found": "2026-11-24T13:09:54+07:00"
-},
-{
-"id": "f6d063fb5c4e",
-"title": "Gia đình HĐQT Tập đoàn KN Holdings cam kết ủng hộ 150 tỉ đồng cho Quỹ Nhân đạo Việt Nam",
-"link": "https://thanhnien.vn/gia-dinh-hdqt-tap-doan-kn-holdings-cam-ket-ung-ho-150-ti-dong-cho-quy-nhan-dao-viet-nam-185261123220700379.htm",
-"summary": "Ngày 23.11.2026, tại Hà Nội, trong khuôn khổ Lễ kỷ niệm 80 năm Ngày thành lập Hội Chữ thập đỏ Việt Nam (23.11.1946 - 23.11.2026), Anh hùng Lao động Lê Văn Kiểm - Chủ tịch Hội đồng Quản trị Tập đoàn KN Holdings, đã đại diện gia đình cam kết đóng góp 150 tỉ đồng trong 5 năm cho…",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/g-bi-thu-chu-tich-nuoc-to-lam-va-chu-tich-trung-uong-hoi-chu-thap-do-viet-nam-do-thi-thu-thao-trao-17954951146301836086873-114-0-1714-2560-crop-1795495300998110636841.png",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-24T12:56:00+07:00",
-"found": "2026-11-24T13:09:54+07:00"
-},
-{
-"id": "63f5cceb18fb",
-"title": "Giá vàng phục hồi khi nhà đầu tư quốc tế đua 'bắt đáy'",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHRNSjRFU0JZUk1WNHJjNk41eExJX21MdTkwcHdQU3lGUnFGTkxhRGhvSloyVm51UlRYZmZBVjJNeDBXUmdlamFqSEVRYkdhN21iR3czTGprU0U5MGxVaGs2M3pTTWZjOWkzQk8yeXF0YkRzV1daWVdFaW1qWm9VSkd1aWJweUxoRld4dFln?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T12:55:07+07:00",
-"found": "2026-11-24T13:09:54+07:00"
-},
-{
-"id": "99907bd436c5",
-"title": "Tập đoàn Trung Quốc số 1 thế giới, sản xuất hơn 3,3 tỷ linh kiện mỗi năm bắt tay với VinFast, mở nhà máy ngay tại Hải Phòng",
-"link": "https://kenh14.vn/tap-doan-trung-quoc-so-1-the-gioi-san-xuat-hon-33-ty-linh-kien-moi-nam-bat-tay-voi-vinfast-mo-nha-may-ngay-tai-hai-phong-21526112409511707.chn",
-"summary": "Hongfa, tập đoàn Trung Quốc dẫn đầu thế giới về rơ-le điện từ, vừa đưa dây chuyền sản xuất linh kiện ô tô vào hoạt động tại Hải Phòng. Liên doanh với VinFast được thành lập chưa đầy 5 tháng, trong khi doanh thu 9 tháng đầu năm 2026 của tập đoàn mẹ đã vượt cả năm trước.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795488658905-17954886592151608357439.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T12:55:00+07:00",
-"found": "2026-11-24T13:09:54+07:00"
-},
-{
-"id": "aba09c76a569",
-"title": "Biến động nhân sự tại PNJ: Năm Giám đốc cấp cao, 3 thành viên HĐQT từ nhiệm",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWElRQ3N0d3lWdV9MUmEwVGNCTktpa0RxQnMxSTdQMDVsRnZHQU96eFFtU1E2cEFhRFo0N0RPNERfQ29nR0ZTa0w2b2J6cGd0bURfRkViZU14OTB2WFY4MW9zaG8wTEs4RlRhd0pHOGtta183bkN1bmlhLWRNdWItcVl2VGVtRUlnbk5JTnRRX2RrRGNhMC1Pb2JWNktyZ0xPd2JsSmQ5Mk5qUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T12:54:43+07:00",
-"found": "2026-11-24T13:09:54+07:00"
-},
-{
-"id": "5e15495c913d",
-"title": "6 người nhập viện nghi ngộ độc sau khi ăn bánh mì ở Đắk Lắk",
-"link": "https://thanhnien.vn/6-nguoi-nhap-vien-nghi-ngo-doc-sau-khi-an-banh-mi-o-dak-lak-185261124115609731.htm",
-"summary": "Bệnh viện đa khoa Thiện Hạnh (Đắk Lắk) cho biết đang điều trị cho 6 trường hợp ở xã Ea Kly vào viện với chẩn đoán viêm ruột cấp, nghi ngộ độc thực phẩm sau khi ăn bánh mì tại địa phương.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/edit-1795485535744828227356845155877382822735684515587735afe4128f485fbcb4dcf76602bb521bc-1795496039665728706178-0-110-1441-2416-crop-17954961626911908728874.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-24T12:53:00+07:00",
-"found": "2026-11-24T12:54:43+07:00"
 }
 ]
 }
