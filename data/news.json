@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T21:28:12+07:00",
-"new": 22,
+"updated": "2026-11-27T21:43:34+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 44
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "75b04889a58f",
+"title": "Nhiều công trường rào chắn, gia tăng áp lực giao thông Hà Nội",
+"link": "https://cafef.vn/nhieu-cong-truong-rao-chan-gia-tang-ap-luc-giao-thong-ha-noi-18826112719383888.chn",
+"summary": "Rào chắn thi công kéo dài, mặt đường bị thu hẹp trong khi lưu lượng phương tiện lớn khiến áp lực giao thông gia tăng, nhất là vào giờ cao điểm.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795782825944-1795782828283705237344.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T21:38:00+07:00",
+"found": "2026-11-27T21:43:34+07:00"
+},
+{
+"id": "d8ff79abde74",
+"title": "‘Master Anh Đức’ bán khóa học làm giàu gần 1,5 tỷ đồng vừa bị khởi tố là ai?",
+"link": "https://vietnamnet.vn/master-anh-duc-ban-khoa-hoc-lam-giau-gan-1-5-ty-dong-vua-bi-khoi-to-la-ai-2579518.html",
+"summary": "Nguyễn Anh Đức, còn được biết đến với tên gọi “Master Anh Đức”, từng gây chú ý trên mạng xã hội khi quảng bá khóa học làm giàu có mức học phí gần 1,5 tỷ đồng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/master-anh-duc-ban-khoa-hoc-lam-giau-gan-15-ty-dong-vua-bi-khoi-to-la-ai-3082.jpg?width=0&s=vCAbHbPFf-jAdmGyxj_2Sg",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-27T21:37:53+07:00",
+"found": "2026-11-27T21:43:34+07:00"
+},
+{
 "id": "dc4f5a774d79",
 "title": "Phẫn nộ tài xế ô tô 35B-019.15 tông CSGT rồi bỏ chạy trên lối vào cao tốc",
 "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeUJ4dTByUnVMaDdJNEtpWVczNVY1SmtwV3dlUUpqWUE2aDZROTY5YjJyVnlQVGVPc2RQb3Iwa0RKUGR4R1dTQ3VjOEpPYUVmeDRWaXozU1BGYldqQ1RUTk5OWDM5NHRvYU1rcXgzenAwbks1VHFKQ3E2dWxOWjhQV0lQdS1oTVRuQ1hkT3k5QVNMR016ZDhVVG5yeHJxVS1vT0tFOWMxYw?oc=5",
@@ -224,6 +246,17 @@
 "found": "2026-11-27T14:10:57+07:00"
 },
 {
+"id": "707ccb270d66",
+"title": "Nguyên Khang: 'Không chỉ dẫn chuyện, tôi còn được chứng kiến lịch sử'",
+"link": "https://kenh14.vn/nguyen-khang-khong-chi-dan-chuyen-toi-con-duoc-chung-kien-lich-su-215261127210710336.chn",
+"summary": "Chương trình nghệ thuật đặc biệt Muôn sắc Việt Nam: Văn hóa soi đường - Non sông hòa nhịp là sự kiện trọng tâm của Ngày Văn hóa Việt Nam 24/11.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/photo1795784566692-17957845671327066475-17957884577201476179717.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T21:23:00+07:00",
+"found": "2026-11-27T21:43:34+07:00"
+},
+{
 "id": "eb17fecec974",
 "title": "Master Anh Đức bị khởi tố",
 "link": "https://vietnamnet.vn/master-anh-duc-bi-khoi-to-2579517.html",
@@ -233,6 +266,40 @@
 "cat": "xh",
 "published": "2026-11-27T21:20:02+07:00",
 "found": "2026-11-27T21:28:12+07:00"
+},
+{
+"id": "dbbefc08ccdc",
+"title": "al qadisiya đấu với al feiha",
+"link": "https://www.football.com/ng/news/158760",
+"summary": "Al Qadsiah vs Al-Fayha Preview and Betting Tips (Football.com)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdqJjFF8ir_mHRU6qqKgOkzRe0ORKt97blOj_sGcIuIijm4ilJ0IuNXWHW190",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T21:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-27T21:43:34+07:00"
+},
+{
+"id": "4e478fcdf91e",
+"title": "Tạm giữ người đàn ông đe dọa cảnh sát giao thông, yêu cầu đưa 180 triệu đồng",
+"link": "https://tuoitre.vn/tam-giu-nguoi-dan-ong-de-doa-canh-sat-giao-thong-yeu-cau-dua-180-trieu-dong-100261127210307086.htm",
+"summary": "Công an tạm giữ người đàn ông 54 tuổi ở Hà Nội để điều tra hành vi cưỡng đoạt tài sản, sau khi người này đe dọa tố giác cán bộ cảnh sát giao thông và yêu cầu đưa 180 triệu đồng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/tai-xuong-17957875681801299433968-172-0-763-945-crop-179578763712920539343.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T21:19:00+07:00",
+"found": "2026-11-27T21:43:34+07:00"
+},
+{
+"id": "98a3ad7bf04d",
+"title": "Bắt Nguyễn Anh Đức, giám đốc ‘dạy làm giàu’ vì trốn thuế hơn 1,2 tỉ đồng",
+"link": "https://tuoitre.vn/bat-nguyen-anh-duc-giam-doc-day-lam-giau-vi-tron-thue-hon-12-ti-dong-100261127211058023.htm",
+"summary": "Nguyễn Anh Đức (còn gọi là Master Anh Đức), chuyên 'dạy làm giàu', bị Công an TP Hải Phòng khởi tố, bắt tạm giam để điều tra hành vi trốn thuế liên quan việc thu tiền dạy học, bán sách.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/day-lam-giau-3-1795788117288596433219-38-351-704-1417-crop-17957893030811528343011.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T21:18:00+07:00",
+"found": "2026-11-27T21:43:34+07:00"
 },
 {
 "id": "7b49e63cec50",
@@ -835,6 +902,17 @@
 "cat": "tc",
 "published": "2026-11-27T20:00:00+07:00",
 "found": "2026-11-27T21:28:12+07:00"
+},
+{
+"id": "82537e6acf6d",
+"title": "Chàng trai Gia Rai lan tỏa nét đẹp văn hóa Tây Nguyên",
+"link": "https://tuoitre.vn/chang-trai-gia-rai-lan-toa-net-dep-van-hoa-tay-nguyen-100261127153252113.htm",
+"summary": "Từ những video quay cảnh dọn vườn, đi rẫy, nấu món ăn quen thuộc của người Gia Rai, anh Kpă Sa dần thu hút hàng chục nghìn người theo dõi trên TikTok bằng những thước phim bình dị, gần gũi về cuộc sống ở Tây Nguyên.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/179576542842721550000472281962168050419840886424728f4204f72e6d9ff90c30c49306ebe6ab-1795765785781144785536-361-0-1321-1536-crop-17957664806312030350153.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-27T20:00:00+07:00",
+"found": "2026-11-27T21:43:34+07:00"
 },
 {
 "id": "87b628f50713",
@@ -27944,83 +28022,6 @@
 "source": "Kenh14",
 "cat": "xh",
 "published": "2026-11-25T12:43:00+07:00",
-"found": "2026-11-25T12:54:56+07:00"
-},
-{
-"id": "95734180dcdb",
-"title": "Khởi tố 37 người lừa bán \"suất ngoại giao\" nhà ở xã hội ở TPHCM",
-"link": "https://dantri.com.vn/phap-luat/khoi-to-37-nguoi-lua-ban-suat-ngoai-giao-nha-o-xa-hoi-o-tphcm-20261125123303164.htm",
-"summary": "(Dân trí) - Các đối tượng làm giả con dấu của Công ty Cổ phần Đức Mạnh và Sở Xây dựng TPHCM, làm giả các văn bản và chào mời người mua nhà ở xã hội Lý Thường Kiệt rồi lừa đảo, chiếm đoạt 150 tỷ đồng.",
-"image": "https://cdnphoto.dantri.com.vn/EVpYnJKtPCCUByca3hrtKigLWqU=/2026/11/25/1795584271083879058279016452984987905827901645298491a837baae54226a6bd842efb0cdb2bd3-cropped-1795584676145.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-25T12:40:25+07:00",
-"found": "2026-11-25T13:25:18+07:00"
-},
-{
-"id": "6d39a6c1617a",
-"title": "CII huy động thành công hơn 5.200 tỷ đồng từ trái phiếu chuyển đổi",
-"link": "https://cafef.vn/cii-huy-dong-thanh-cong-hon-5200-ty-dong-tu-trai-phieu-chuyen-doi-18826112512263903.chn",
-"summary": "CII vừa chào bán thành công gần 52,2 triệu trái phiếu chuyển đổi mã CII426001 với giá 100.000 đồng/trái phiếu. Sau khi trừ đi chi phí, doanh nghiệp thu ròng gần 5.216,3 tỷ đồng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795584138401-17955841399071402054455.jpeg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T12:40:00+07:00",
-"found": "2026-11-25T12:54:56+07:00"
-},
-{
-"id": "d02d929e6737",
-"title": "Công an TP.HCM khởi tố 37 người vụ lừa bán nhà ở xã hội Lý Thường Kiệt",
-"link": "https://thanhnien.vn/cong-an-tphcm-khoi-to-37-nguoi-vu-lua-ban-nha-o-xa-hoi-ly-thuong-kiet-185261125122412194.htm",
-"summary": "Công an TP.HCM cho biết bằng thủ đoạn làm giả con dấu của chủ đầu tư và Sở Xây dựng TP.HCM để rao bán 'suất ngoại giao', đường dây do Đinh Lê Hồng Quế cầm đầu đã chiếm đoạt hơn 150 tỉ đồng của hơn 600 bị hại.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/nha-o-xh-1795583922632466602525-0-0-1600-2560-crop-17955839694231086454025.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T12:40:00+07:00",
-"found": "2026-11-25T12:54:56+07:00"
-},
-{
-"id": "8d6c64ac6b98",
-"title": "Khách sạn Du lịch Sông Nhuệ không còn sở hữu từ 1% vốn SeABank",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGZOcmthWnBiU01HY2E4M0JtZmV5a0FOQzJsdXFIYXhrZDFuaFQ0LWJ0UUNLSmhNbnAtTC04MWpaSU4xemNtZmtmSlk1TjhHRjhmbXpKMy1TTjRJWV9PeGVYMS1PUEZxakFuS0UxYzVyU0ZFc2l1SEswSEZrZmk2LTZBVVpicTV0STRUSlJuelhCNlhRY3hFdWFB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T12:37:00+07:00",
-"found": "2026-11-25T13:10:06+07:00"
-},
-{
-"id": "75608543c1d6",
-"title": "31 người bị bắt trong vụ 'giăng bẫy' mua nhà ở xã hội Lý Thường Kiệt",
-"link": "https://vnexpress.net/31-nguoi-bi-bat-trong-vu-giang-bay-mua-nha-o-xa-hoi-ly-thuong-kiet-5148699.html",
-"summary": "Đinh Lê Hồng Quế cùng đồng phạm bị cáo buộc giả danh chủ đầu tư dự án nhà ở xã hội Lý Thường Kiệt, rao bán hơn 600 suất mua căn hộ, chiếm đoạt trên 150 tỷ đồng.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/tuphaiqua1lehoanghiep2huynhtie-2222-7055-1795584774.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o5CJhTtfsmtr4iT3JSh7gw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-25T12:36:12+07:00",
-"found": "2026-11-25T13:10:06+07:00"
-},
-{
-"id": "cdef9c3d2372",
-"title": "31 người bị bắt vụ 'giăng bẫy' mua suất nhà ở xã hội Lý Thường Kiệt",
-"link": "https://vnexpress.net/31-nguoi-bi-bat-vu-giang-bay-mua-suat-nha-o-xa-hoi-ly-thuong-kiet-5148699.html",
-"summary": "Đinh Lê Hồng Quế cùng đồng phạm bi5 cáo buộc giả danh chủ đầu tư dự án nhà ở xã hội Lý Thường Kiệt, rao bán hơn 600 suất mua căn hộ, chiếm đoạt trên 150 tỷ đồng.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/tuphaiqua1lehoanghiep2huynhtie-2222-7055-1795584774.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o5CJhTtfsmtr4iT3JSh7gw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-25T12:36:12+07:00",
-"found": "2026-11-25T13:25:18+07:00"
-},
-{
-"id": "b70441cf6ce8",
-"title": "Căn hộ được kinh doanh Airbnb: Nhà đầu tư không nên kỳ vọng lợi nhuận tăng đột biến",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEhnLWhPdm9GcjZWZGNwZkxDZV96YkdOa1VJMWRiV1ZSYWtfZS1HemRsTTBSdGZ6OWY0dEJoU25XWV84SnlNZk5EbUhNTXFzOU1kVkt5U28ydjZhWmR4Zm1vcWQ2WWlDMFJ5UTdyNGRtXzAyT296V3VZRE11MHpUY29WT2dsaUFlUEQ0NkY4RjA0YmNWYUFQdkx2YWFHeHFpT3ZpZXRXMHJWc3VsQmt0M19ZVUxZUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T12:36:00+07:00",
 "found": "2026-11-25T12:54:56+07:00"
 }
 ]
