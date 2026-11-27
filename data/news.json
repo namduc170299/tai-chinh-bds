@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T19:55:38+07:00",
-"new": 9,
+"updated": "2026-11-27T20:10:49+07:00",
+"new": 13,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,94 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "57e9ed10792c",
+"title": "Đảo Lý Sơn hứng trận ngập lịch sử, nhà dân ngập sâu tới 1,5m",
+"link": "https://vietnamnet.vn/dao-ly-son-hung-tran-ngap-lich-su-nha-dan-ngap-sau-toi-1-5m-2579483.html",
+"summary": "Mưa lớn, hồ chứa trên miệng núi lửa Thới Lới tràn nước xuống khu dân cư khiến khoảng 70 hộ dân ở Lý Sơn bị ngập, thiệt hại ước tính 18 tỷ đồng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/dao-ly-son-hung-tran-ngap-lich-su-nha-dan-ngap-sau-toi-15m-2796.jpg?width=0&s=rTY4VYWr2rQx9kDLL_WN2Q",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-27T20:06:55+07:00",
+"found": "2026-11-27T20:10:49+07:00"
+},
+{
+"id": "b449b68587a5",
+"title": "Sạt lở cuốn trôi chuồng trại, nhà vệ sinh của người dân ở Quảng Ngãi",
+"link": "https://thanhnien.vn/sat-lo-cuon-troi-chuong-trai-nha-ve-sinh-cua-nguoi-dan-o-quang-ngai-185261127175058274.htm",
+"summary": "Mưa lớn gây sạt lở tại tổ dân phố Phú Nhơn, phường Trương Quang Trọng (Quảng Ngãi), cuốn trôi chuồng trại, nhà vệ sinh, tường rào của người dân.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/179577459272913195944051111043101319594405111104310256c92ce1a828839fa01d179e170a49f-17957761974001042740924-107-0-1707-2560-crop-1795776445472802642540.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T20:06:00+07:00",
+"found": "2026-11-27T20:10:49+07:00"
+},
+{
+"id": "03d1b14b4cf0",
+"title": "Khởi tố 3 đối tượng quan hệ tình dục với bé gái 15 tuổi",
+"link": "https://vietnamnet.vn/thai-nguyen-khoi-to-doi-tuong-quan-he-tinh-duc-voi-be-gai-15-tuoi-2579506.html",
+"summary": "Công an tỉnh Thái Nguyên khởi tố, bắt tạm giam 3 thanh niên về hành vi nhiều giao cấu với bé gái 15 tuổi.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/khoi-to-3-doi-tuong-quan-he-tinh-duc-voi-be-gai-15-tuoi-2790.jpg?width=0&s=tGT4wRdoY1wgiFUWsmXtqw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-27T20:05:33+07:00",
+"found": "2026-11-27T20:10:49+07:00"
+},
+{
+"id": "8524989deffb",
+"title": "Quỹ hỗ trợ bệnh nhân nghèo do ông Đinh Văn Nơi phát động giúp người dân Phú Quốc",
+"link": "https://thanhnien.vn/quy-ho-tro-benh-nhan-ngheo-do-ong-dinh-van-noi-phat-dong-giup-nguoi-dan-phu-quoc-185261127181321654.htm",
+"summary": "Quỹ hỗ trợ bệnh nhân nghèo do ông Đinh Văn Nơi phát động vừa tiếp nhận 200 suất phẫu thuật Phaco và 10.000 suất khám mắt, cấp phát thuốc miễn phí tại đặc khu Phú Quốc.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/dtv3-17957769938441246495307-159-40-1724-2544-crop-17957779294421437821597.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T20:05:00+07:00",
+"found": "2026-11-27T20:10:49+07:00"
+},
+{
+"id": "2d8ccfb2170e",
+"title": "21 nền kinh tế châu Á - Thái Bình Dương sẽ tụ hội tại Quy Nhơn",
+"link": "https://thanhnien.vn/21-nen-kinh-te-chau-a-thai-binh-duong-se-tu-hoi-tai-quy-nhon-185261127183427383.htm",
+"summary": "Trong tháng 12, Gia Lai tổ chức chuỗi sự kiện bế mạc Năm Du lịch quốc gia 2026, đón đại diện 21 nền kinh tế APEC hội tụ tại Quy Nhơn.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/z8463992682045b63a978c16d5ad70c9b48ad9d98a4f39-1795779165828721355548-22-0-1622-2560-crop-1795779216932250087029.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T20:02:00+07:00",
+"found": "2026-11-27T20:10:49+07:00"
+},
+{
+"id": "f129a8f09573",
+"title": "Chỉ còn 1 ngày tới St. Petersburg Symphony Night do Techcombank và Masterise Group đồng độc quyền tài trợ",
+"link": "https://cafef.vn/chi-con-1-ngay-toi-st-petersburg-symphony-night-do-techcombank-va-masterise-group-dong-doc-quyen-tai-tro-188261127193746634.chn",
+"summary": "Hơn 110 nghệ sĩ của Dàn nhạc Giao hưởng Học thuật thuộc Philharmonia St. Petersburg đã có mặt tại Hà Nội trong tối 26/11 để chuẩn bị cho hòa nhạc St. Petersburg Symphony Night diễn ra trong hai đêm 28 và 29/11 tại Nhà hát Hồ Gươm.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/photo1795777594443-17957775946811510478793-179578306991199979321.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T20:00:00+07:00",
+"found": "2026-11-27T20:10:49+07:00"
+},
+{
+"id": "87b628f50713",
+"title": "Lô đất ở Thủ Thiêm trúng đấu giá hơn 350 triệu đồng/m2",
+"link": "https://cafef.vn/lo-dat-o-thu-thiem-trung-dau-gia-hon-350-trieu-dong-m2-188261127190236999.chn",
+"summary": "Lô đất 1.K3.3.HH có giá khởi điểm hơn 1.744 tỷ đồng, tương đương khoảng 348 triệu đồng/m2. Kết quả, lô 1.K3.3.HH được đấu giá trúng cao hơn giá khởi điểm 27 tỷ đồng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795780927068-1795780928364252673052.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T19:59:00+07:00",
+"found": "2026-11-27T20:10:49+07:00"
+},
+{
+"id": "8a5cf340ff5a",
+"title": "Tan sở, giới trẻ TPHCM đội mưa săn hàng giảm giá Black Friday",
+"link": "https://vietnamnet.vn/gioi-tre-tphcm-doi-mua-san-hang-giam-gia-black-friday-2579445.html",
+"summary": "Các cửa hàng thời trang và trung tâm thương mại tại TPHCM đồng loạt tung chương trình giảm giá 30-70% dịp Black Friday 27/11, thu hút đông đảo khách trẻ. Tuy nhiên, sức mua có sự phân hóa giữa các tuyến phố và điểm bán.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/tan-so-gioi-tre-tphcm-doi-mua-san-hang-giam-gia-black-friday-2763.jpg?width=0&s=W-YgIwqweGApsOdzj55o7g",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-27T19:59:00+07:00",
+"found": "2026-11-27T20:10:49+07:00"
+},
+{
 "id": "32569d5b4a22",
 "title": "Gia Lai yêu cầu rà soát các điểm sạt lở trên quốc lộ 19C và 1D",
 "link": "https://thanhnien.vn/gia-lai-yeu-cau-ra-soat-cac-diem-sat-lo-tren-quoc-lo-19c-va-1d-185261127185242293.htm",
@@ -222,6 +310,17 @@
 "cat": "xh",
 "published": "2026-11-27T19:55:00+07:00",
 "found": "2026-11-27T19:55:38+07:00"
+},
+{
+"id": "6859118e83b7",
+"title": "'Không chuyển gánh nặng chi phí sang người học khi tự chủ đại học'",
+"link": "https://vnexpress.net/khong-chuyen-ganh-nang-chi-phi-sang-nguoi-hoc-khi-tu-chu-dai-hoc-5149747.html",
+"summary": "Chủ tịch Quốc hội Trần Thanh Mẫn yêu cầu thực hiện tự chủ đại học theo hướng thực chất, hiệu quả, song Nhà nước không được giảm trách nhiệm đầu tư hay chuyển gánh nặng chi phí sang người học.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/202611271713003112-g3194982797-4612-3351-1795775154.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nKhFnacuGaZZl7K9f8Y2Lg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-27T19:50:10+07:00",
+"found": "2026-11-27T20:10:49+07:00"
 },
 {
 "id": "4db42a982038",
@@ -266,6 +365,28 @@
 "cat": "xh",
 "published": "2026-11-27T19:46:00+07:00",
 "found": "2026-11-27T19:55:38+07:00"
+},
+{
+"id": "9b7a47f6f05d",
+"title": "Vợ chồng hờ môi giới mua bán thận với giá 1,35 tỷ đồng",
+"link": "https://dantri.com.vn/phap-luat/vo-chong-ho-moi-gioi-mua-ban-than-voi-gia-135-ty-dong-20261127190836912.htm",
+"summary": "(Dân trí) - Từng đi hiến thận nên biết nhu cầu của bệnh nhân, Lưu Thị Hậu bàn với chồng hờ tìm mối để môi giới mua bán bộ phận cơ thể người hòng kiếm lời.",
+"image": "https://cdnphoto.dantri.com.vn/4y8rEVMuklW_NzNwGI0XMhjOsMI=/2026/11/27/hai-vo-chong-ho-moi-gioi-ban-than-edited-1795780564768.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-27T19:40:14+07:00",
+"found": "2026-11-27T20:10:49+07:00"
+},
+{
+"id": "d0be5fb56c6f",
+"title": "Công an Hải Phòng tìm người liên quan vụ án cho vay lãi nặng",
+"link": "https://dantri.com.vn/phap-luat/cong-an-hai-phong-tim-nguoi-lien-quan-vu-an-cho-vay-lai-nang-20261127192452526.htm",
+"summary": "(Dân trí) - Công an TP Hải Phòng đề nghị những người liên quan đến hoạt động cho vay lãi nặng của bị can Lê Đức Trọng liên hệ cơ quan điều tra để cung cấp thông tin.",
+"image": "https://cdnphoto.dantri.com.vn/CeNgUVYN9Tok7EYadpbx-YlhAPs=/2026/11/27/bi-can-trong-cropped-1795782043216.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-27T19:37:32+07:00",
+"found": "2026-11-27T20:10:49+07:00"
 },
 {
 "id": "a3906bc70cee",
@@ -368,6 +489,17 @@
 "published": "2026-11-27T19:20:00+07:00",
 "traffic": "100+",
 "found": "2026-11-27T19:40:27+07:00"
+},
+{
+"id": "f9fe5e418296",
+"title": "Chốt phương án biên chế giai đoạn 2027-2031 trong tháng 12",
+"link": "https://vnexpress.net/chot-phuong-an-bien-che-giai-doan-2027-2031-trong-thang-12-5149768.html",
+"summary": "Phương án biên chế và hệ thống vị trí việc làm giai đoạn 2027-2031 sẽ được báo cáo Bộ Chính trị xin chủ trương vào đầu tháng 12, làm cơ sở tuyển dụng, bố trí cán bộ và cải cách tiền lương.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/congchucdanang-1795779319-5370-1795779441.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JZfXAMiABJqX9RxL0Tskdg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-27T19:15:31+07:00",
+"found": "2026-11-27T20:10:49+07:00"
 },
 {
 "id": "fd9ab33e1f31",
@@ -1041,7 +1173,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T18:00:00+07:00",
-"traffic": "500+",
+"traffic": "100+",
 "found": "2026-11-27T18:20:55+07:00"
 },
 {
@@ -1275,7 +1407,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T17:40:00+07:00",
-"traffic": "10000+",
+"traffic": "20000+",
 "found": "2026-11-27T18:05:42+07:00"
 },
 {
@@ -1931,6 +2063,17 @@
 "cat": "xh",
 "published": "2026-11-27T16:47:00+07:00",
 "found": "2026-11-27T17:23:44+07:00"
+},
+{
+"id": "472a78c3fd98",
+"title": "29 ngân hàng giảm ròng 3.722 nhân sự, có 1 nhà băng giảm 4.291 người",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjMybVg0U21Nem43ZWJGd3ZJSUZjU3V1ZjNmSVpxY0ZrY2YtdFR1LUp5RlI0MTE4OWNsT29GUDl3enE2RW4zanI2cFRxV1hPNVJxQmJuVUdTYmVtMGtNXzRhOEpYaXZjRzhGR3BHc25qTko4OXN6enBXSWFIN09ZekFzNV9PekRGTC0xZTlXR01sT3VDLUFkSUtyVWUxWjJnd0E?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T16:46:58+07:00",
+"found": "2026-11-27T20:10:49+07:00"
 },
 {
 "id": "64dfed73ec9b",
@@ -27875,149 +28018,6 @@
 "cat": "xh",
 "published": "2026-11-25T11:48:00+07:00",
 "found": "2026-11-25T11:59:26+07:00"
-},
-{
-"id": "cc55888ab6ab",
-"title": "Thiếu hụt nhân lực ngành xây dựng: Bài toán của nhà thầu",
-"link": "https://vietnamnet.vn/thieu-hut-nhan-luc-nganh-xay-dung-bai-toan-cua-nha-thau-2578431.html",
-"summary": "Thiếu hụt nhân lực ngành xây dựng ngày càng nghiêm trọng khi đầu tư hạ tầng, đô thị và bất động sản tăng tốc, trong khi nguồn lao động có tay nghề chưa đáp ứng nhu cầu của các nhà thầu.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/thieu-hut-nhan-luc-nganh-xay-dung-bai-toan-cua-nha-thau-1688.jpg?width=0&s=po3uYNa8sqfzE18jyRbMtg",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-25T11:45:00+07:00",
-"found": "2026-11-25T11:59:26+07:00"
-},
-{
-"id": "6686c848e97a",
-"title": "Lợi nhuận quý III TPBank tăng 55% còn phí thanh toán 9 tháng giảm 47%",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXJGVUNONDloTDNfVDhJMFRmX0I0ZFBBeDVqWk45emxZY09jUDJQTVlJcWZXV0F3QVZrSGwzellPNE9DblB4X1l2UUpmdmMyWXBGdFZaQy1lUy0zSFRLRC1sdXhxaDB1ZGlTNnJLVGpYY2UwT0tHZTNHZWxDcEV2Rzd2b05lNWxZWWtUMWMtVmtYQ0pKTlNoQjB2Wk5zR0hPc3c?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T11:45:00+07:00",
-"found": "2026-11-25T11:59:26+07:00"
-},
-{
-"id": "b3a43d095f1b",
-"title": "Khu vực người dân nườm nượp đi mua đất ở Nghệ An giờ ra sao?",
-"link": "https://dantri.com.vn/bat-dong-san/khu-vuc-nguoi-dan-nuom-nuop-di-mua-dat-o-nghe-an-gio-ra-sao-20261123233521766.htm",
-"summary": "(Dân trí) - Gần một năm sau đợt tăng giá, đất quanh khu quy hoạch trung tâm hành chính tỉnh Nghệ An thưa người hỏi mua. Tại Nghi Phong cũ, có lô hạ giá rao xuống 15-20 triệu đồng/m2 vẫn khó bán.",
-"image": "https://cdnphoto.dantri.com.vn/Q-P0jL5OtzPM6PPbLKzKZjVI5Qs=/2026/11/23/dattrungtamhanhchinh-nghean-nguyenphe-3-edited-1795451407609.jpg?watermark=v1",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-25T11:43:43+07:00",
-"found": "2026-11-25T12:14:36+07:00"
-},
-{
-"id": "4c2351a2f50d",
-"title": "Tỷ giá trung tâm tiếp tục lập đỉnh mới",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yZG1fQWR4VVBKVGVGaUlPOFUwNTQ0STAwbm9ReTlMaS1lN3B6TjdIWWxpVlBXQUE3N2Mzc3NmUW9IVHVRWnV1c0xkYU5rUmswcTlPaWJVdFR1cXlWc3ZRRVYzWExZMHhLTHNvY09UWWZOaENBNUlwVjBybw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T11:41:36+07:00",
-"found": "2026-11-25T12:14:36+07:00"
-},
-{
-"id": "56d65925820c",
-"title": "Đề xuất nghiên cứu đường dây siêu cao áp hơn 1.000km kéo điện ra Bắc",
-"link": "https://dantri.com.vn/kinh-doanh/de-xuat-nghien-cuu-duong-day-sieu-cao-ap-hon-1000km-keo-dien-ra-bac-20261125110350225.htm",
-"summary": "(Dân trí) - Bộ Công Thương đề xuất sớm nghiên cứu tuyến truyền tải điện một chiều siêu cao áp công suất 6.000-8.000MW, kết nối duyên hải Nam Trung Bộ với Đồng bằng sông Hồng.",
-"image": "https://cdnphoto.dantri.com.vn/62HFipt3wqIKOXCu-Fnu8Xo7i1s=/2026/11/25/de-xuat-nghien-cuu-duong-day-sieu-cao-ap-hon-1-edited-1795579136889.jpg?watermark=v1",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-25T11:41:16+07:00",
-"found": "2026-11-25T12:14:36+07:00"
-},
-{
-"id": "1d7476336a0e",
-"title": "Giá đồng lao dốc gần 5% sau phiên phục hồi mạnh",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3E3SXd2S2tFdHRhUDN6SDZkYm1jVFdFQVdkUGt4ODYtZHA0VnNoRmwwS1pYMG92OXlSMXV5OEdybWhiMk1XdXROWllzV2VneGRSQ1F5aWowVzM1TVJBYTlfdU10NzZMcTI0SXJNc25ZQzV1bFI1eWVFTmNhQ1J1eHNqV0JlZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T11:41:00+07:00",
-"found": "2026-11-25T11:44:17+07:00"
-},
-{
-"id": "21e64df3859b",
-"title": "JINS Việt Nam mừng sinh nhật một tuổi, tung loạt ưu đãi tri ân khách hàng",
-"link": "https://vietnamnet.vn/jins-viet-nam-mung-sinh-nhat-mot-tuoi-tung-loat-uu-dai-tri-an-khach-hang-2578419.html",
-"summary": "Kỷ niệm một năm gia nhập thị trường, JINS Việt Nam triển khai chương trình tri ân khách hàng với cơ hội du lịch Nhật Bản và nhận nhiều quà tặng công nghệ từ thương hiệu mắt kính Nhật Bản.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/jins-viet-nam-mung-sinh-nhat-mot-tuoi-tung-loat-uu-dai-tri-an-khach-hang-1693.jpg?width=0&s=y-goPBBgW8epDhjoNSpasQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-25T11:40:00+07:00",
-"found": "2026-11-25T11:44:17+07:00"
-},
-{
-"id": "e07d8173f3e3",
-"title": "Cháy lớn bãi xe ở phường An Phú Đông, nhiều tài sản bị thiêu rụi",
-"link": "https://tuoitre.vn/chay-lon-bai-xe-o-phuong-an-phu-dong-nhieu-tai-san-bi-thieu-rui-10026112511355904.htm",
-"summary": "Khoảng 10h40 ngày 25-11, đám cháy bất ngờ bùng phát tại một bãi xe trên đường Nguyễn Thị Nhuần, phường An Phú Đông, TP.HCM, khiến nhiều tài sản bên trong bị thiêu rụi.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/chay-edit-17955825944521050719470-1165-0-2765-2560-crop-1795582667428318840385.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T11:40:00+07:00",
-"found": "2026-11-25T12:39:45+07:00"
-},
-{
-"id": "a0f6c3511328",
-"title": "Nhà xã hội ở Dương Nội, Hà Nội có giá từ 32 triệu một m2",
-"link": "https://vnexpress.net/nha-xa-hoi-o-duong-noi-ha-noi-co-gia-tu-32-trieu-mot-m2-5148656.html",
-"summary": "Dự án nhà ở cho công an nằm ở đường Lê Trọng Tấn có giá bán từ 32 triệu đồng mỗi m2, tương đương từ 2 tỷ đồng một căn.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/25/434jpg-1795581276-9274-1795581371.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=D78Yq9NIQSiRrd2xZXPQ7w",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-25T11:39:37+07:00",
-"found": "2026-11-25T11:59:26+07:00"
-},
-{
-"id": "08822d9ad63a",
-"title": "BYD bị mắng vì phạt xe chiếm chỗ sạc",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtcGdscTlEU2Z1NGUzMlEtZFAta2JlSWJ4aHkwRmU5NFlObUdOU296aFhncFplNGdyM21iNkd5ZHZkN2tNOVdoV2FMLUxaNmlIMWJONE9hZ29NMmNVdEZtUXMxcmpzT2M1OUtTWjM4VWs2NnhKZE91VVZLdw?oc=5",
-"summary": "Nguồn: VnExpress",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T11:39:20+07:00",
-"found": "2026-11-25T14:20:47+07:00"
-},
-{
-"id": "8be68fcd4933",
-"title": "BYD bị khách hàng mắng vì phạt tiền xe điện đỗ chiếm chỗ sạc",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjhMX2FVWjVmM0lIdzFiTWMzTDdISlh1VVFPLWFDejJLN01Ec19UQWRkVUN0WHpSdVNidDdWY3NNVk5BTl9Za0hBeUEwXzlXQ1c0a2p0dFBNU3VFZEpZaG5LYk1IWVBOc3phSEw1YTlhWHlHZnF4RDBoeGFPODhucmU0S2Utd0llWlJvRDRIakRqWmVtSTFNbUJNaw?oc=5",
-"summary": "Nguồn: VnExpress",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T11:39:20+07:00",
-"found": "2026-11-27T09:29:45+07:00"
-},
-{
-"id": "be5b1fabb1c0",
-"title": "TP Hồ Chí Minh: Nút giao 4 tầng Mỹ Thủy tăng tốc về đích",
-"link": "https://cafef.vn/tp-ho-chi-minh-nut-giao-4-tang-my-thuy-tang-toc-ve-dich-188261125105833245.chn",
-"summary": "Nút giao 4 tầng Mỹ Thủy với hạng mục cầu vượt thép lớn nhất TP Hồ Chí Minh đang tăng tốc để hoàn thành tiến độ vào quý 1/2027, sau nhiều năm triển khai.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795579032207-17955790339402072629291-51-108-748-1224-crop-1795579067528506543109.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T11:39:00+07:00",
-"found": "2026-11-25T11:44:17+07:00"
-},
-{
-"id": "4e54ffa3b6ce",
-"title": "HGI của bầu Đức được phép phát hành cổ phiếu thấp hơn 85% giá thị trường để trả nợ",
-"link": "https://cafef.vn/hgi-cua-bau-duc-duoc-phep-phat-hanh-co-phieu-thap-hon-85-gia-thi-truong-de-tra-no-188261125093952176.chn",
-"summary": "Với giá chào bán 10.000 đồng/cổ phiếu, thấp hơn khoảng 85% so với thị giá hiện tại, CTCP Đầu tư Quốc tế Hoàng Anh Gia Lai (HGI) của Chủ tịch Đoàn Nguyên Đức (bầu Đức) dự kiến phát hành 12,7 triệu cổ phiếu cho cổ đông hiện hữu, qua đó huy động tối đa 127 tỷ đồng để cơ cấu các…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795574367112-1795574367454806481834.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T11:39:00+07:00",
-"found": "2026-11-25T11:44:17+07:00"
 }
 ]
 }
