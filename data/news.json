@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T07:03:47+07:00",
-"new": 6,
+"updated": "2026-11-27T07:18:57+07:00",
+"new": 12,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 23
+"count": 49
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "19a0074e1e72",
+"title": "Giá xăng dầu hôm nay 27/11: Dầu thế giới tăng, giá trong nước tiếp tục giảm",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0oxQVk4emVaeUpQSENudG1ReDg0clpUVnl2YllDYmE5eFdLWVkwV1l1QklhRmVzR3g0ZjQ1U2R5cTNmb0hSTENkN2xlZ1ZyWElnY3g0ZExnb3NDQVJ5d1FJMW4zLWlvTGh5d0t5WTZEVVlCSGZLcHRtRjhVaXgxZjlmN2gzTkpaZi1WSDBhdnNrbWZnUFNuVDFrY2lRSVM4MEtiVkdLOVpidw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T07:14:00+07:00",
+"found": "2026-11-27T07:18:57+07:00"
+},
+{
+"id": "634c8e937334",
+"title": "Kiểm tra ngôi chùa sau phản ánh của người dân, cảnh sát phát hiện bí mật gây ngỡ ngàng",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1E1N1BFOEhoUWo5WS1Wam1TY3NmTGRyQUNvRFRXRHhONlo2Uk5aQ3lISU9FWWRDM29TOVVQQloxT3Rjb0lCYzhaODc0YXdWNnprVDZ4NkRUWGVzTXNQSXlQRmVxTzN5RWJrVGhGSE1ONnFyN3dtdHpmVXhyMm5rTjdXcEt6YnZIU1R1QmRkbFB0Ul9TQVVJS1Y0d1BPaW9YUXMxWk1FelAySGxVc1RoMUcwU0tiUE9PY0o4ME16bkhHWWc?oc=5",
+"summary": "Nguồn: Tạp chí Saostar",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-27T07:05:11+07:00",
+"found": "2026-11-27T07:18:57+07:00"
+},
+{
 "id": "4bbfadf2806f",
 "title": "Lãi suất huy động hạ nhiệt, vì sao người vay mua nhà vẫn chịu lãi cao?",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORXRDOXpWVlZNYy1JRW96Q1R0T2FuSGs3ZmNhZGstalVYaEFvMWVUcmlSUWF6U0dYQXktX1NIUG52N2lJMHltQ2ZocWhDVlJxZ2lCVl9nN0VGSHJpTmc5ZEFTNENNaEN2MXFzV3U1SGk2ZXZuWXlDQ000VFRRWmJBUkwxdVhBd2lMMEFacFFkZ09XdWNSaDhRQy0tUk5wenFvVmpn?oc=5",
@@ -222,6 +244,29 @@
 "cat": "tc",
 "published": "2026-11-27T07:00:30+07:00",
 "found": "2026-11-27T07:03:47+07:00"
+},
+{
+"id": "3cd095105681",
+"title": "[GALLERY] Cận cảnh “bến xe cóc” trên đất chưa bàn giao ở Hà Nội",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmNDNlZvaFE2TXN4TUlZY1ZMdkdFb3dTWTVycTdBNlVSX2ZFWDBpenJBelVyeE1uVURNQkxlaVRXOUlrSDR1X0xNSGcwUHZjbzIxNGc4ajd4cy0wbW9paXZuY01LUU1RWGFCR1l3NG9XdW5Uay1lWmw0MDhnOHpRMVJ1X2R0Vk5mMEZodkh1Q2F3c3UyTHotR2hOdXZOeDNJUlE?oc=5",
+"summary": "Nguồn: Báo Tri thức và Cuộc sống",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-27T07:00:00+07:00",
+"found": "2026-11-27T07:18:57+07:00"
+},
+{
+"id": "3a4a8e434388",
+"title": "nhac",
+"link": "https://vnexpress.net/dich-vu-nhac-truc-tuyen-tidal-cam-nhac-ai-5148751.html",
+"summary": "Dịch vụ nhạc trực tuyến Tidal cấm nhạc AI (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8drCG1E_XHumF3keNl8-o0Say-DHAfUK8j_RthRxN2aDZMgoXF-trVIgVdD0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T07:00:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-27T07:18:57+07:00"
 },
 {
 "id": "accc201e4beb",
@@ -246,6 +291,29 @@
 "found": "2026-11-27T07:03:47+07:00"
 },
 {
+"id": "ef02bbae6e5e",
+"title": "giá cà phê hôm nay",
+"link": "https://vnexpress.net/ca-phe-rot-gia-con-15-000-dong-mot-kg-5148632.html",
+"summary": "Cà phê rớt giá còn 15.000 đồng một kg (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbWwpVds8cYNliS8iL7BMnsUdFEPVvBk9fBKIu69f975nGP-MTiowB33U6cx4",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T06:50:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-27T07:18:57+07:00"
+},
+{
+"id": "afc79dfce532",
+"title": "Giá vàng thế giới giảm hơn một phần ba từ vùng đỉnh",
+"link": "https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-giam-hon-mot-phan-ba-tu-vung-dinh-20261126235039002.htm",
+"summary": "(Dân trí) - Giá vàng miếng SJC tăng lên 134,5 triệu đồng/lượng, trong khi vàng thế giới tiếp tục giảm, mất hơn 1/3 giá trị so với đỉnh lịch sử hồi tháng 1.",
+"image": "https://cdnphoto.dantri.com.vn/L37iFjd5d44DhYEv19PptmkgYiw=/2024/02/27/gia-vang-hai-long-22-edited-1709027017356.jpeg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-27T06:47:31+07:00",
+"found": "2026-11-27T07:18:57+07:00"
+},
+{
 "id": "682b6bd2625e",
 "title": "giá cà phê",
 "link": "https://vnexpress.net/ca-phe-rot-gia-con-15-000-dong-mot-kg-5148632.html",
@@ -256,6 +324,18 @@
 "published": "2026-11-27T06:40:00+07:00",
 "traffic": "200+",
 "found": "2026-11-27T07:03:47+07:00"
+},
+{
+"id": "35f7e66cd498",
+"title": "câu lạc bộ bóng đá công an hà nội",
+"link": "https://tuoitre.vn/man-trinh-dien-de-doi-cua-doan-van-hau-100261125164127779.htm",
+"summary": "Màn trình diễn để đời của Đoàn Văn Hậu (Báo Tuổi Trẻ)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSotCyGo_wvz3U10cacplx5w6b3Y9Je1k521a67Y3m-CwLo2lm0OA9a514jhU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T06:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-27T07:18:57+07:00"
 },
 {
 "id": "9d2386ba15eb",
@@ -539,6 +619,18 @@
 "published": "2026-11-27T05:40:00+07:00",
 "traffic": "10000+",
 "found": "2026-11-27T06:19:25+07:00"
+},
+{
+"id": "617b0fab8f04",
+"title": "rain",
+"link": "https://www.cnn.com/2026/11/24/us/live-news/thanksgiving-travel",
+"summary": "Live updates: Thanksgiving storm leaves roads flooded and more than 900,000 without power in eastern US (CNN)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI4qRh1dNdu5KiImTSy8Kr79DRGbvtGacyqBZPmdhYvHmm64ACfBozYvW40y0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T05:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-27T07:18:57+07:00"
 },
 {
 "id": "e1841a15f7ea",
@@ -1312,6 +1404,17 @@
 "found": "2026-11-27T00:09:38+07:00"
 },
 {
+"id": "837fa21bbf29",
+"title": "Hoa Kỳ đề xuất thuế 35%: Việt Nam tiếp tục đối thoại, bảo vệ lợi ích thương mại",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2pNaXNwSmNRWlZUMFBFUUNpZXExRFEzUlBSdmxld1JPN2k4N01BTmo3YWRHY2FkeU1wYmRTSW82RUMwWUo1NHNNSWtJZkRnNGEwcnhuUWRIMHlJYVNCYlFiNWlmRXBTS3JjY0ttaktPejVaMHJxVVN2ZGtrcXlZdmoyaFl2RnhaeFRKNjVkZFBIVk5KelBsc044NW5mYl9DSzRXRzNzeGRyRmJ5UkE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T23:31:00+07:00",
+"found": "2026-11-27T07:18:57+07:00"
+},
+{
 "id": "4f78d52835e1",
 "title": "Hà Nội sẽ bố trí 184 nghìn tỷ đồng cho 5 tuyến đường sắt đô thị",
 "link": "https://kenh14.vn/ha-noi-se-bo-tri-184-nghin-ty-dong-cho-5-tuyen-duong-sat-do-thi-215261126220631465.chn",
@@ -1423,6 +1526,17 @@
 "found": "2026-11-26T23:04:42+07:00"
 },
 {
+"id": "0e823c188eff",
+"title": "Áp lực 'bủa vây' giá vàng thế giới",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1ZW5yRzI5Y3h1bnNSb1R3TjhjS1VBaWNJaWd4eEc3ZDFXbWN3MTBSNjFxYUtWZGNuODR3RmRwb1FMaGZFVHNOR25nTndGc0tYSEVJc29kd2lXOHN5OF94NGRpNndkcXdZUjRsc3M2b0pYOG8?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T22:50:24+07:00",
+"found": "2026-11-27T07:18:57+07:00"
+},
+{
 "id": "bbd77024fdc9",
 "title": "Phẫn nộ tài xế ô tô 35B-019.15 tông CSGT rồi bỏ chạy trên lối vào cao tốc",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWdKemhUNTItVjRkbDJoNnlfYUVFckR3RGlFbmtsdkVrSTY2cjF0MlpiWVdjdVpCVnkzRDNZTVd4U2E0bklsNzVMOEM3WW1sMTdxSEl0eVpjdFllcVBuT0E4QXdXT1lBaEE4MFZHY0hIcmNfRW52T0pWcVZ2dHl0VXU4SEZwT0pnZlpIc3BQZkd1UjlZMl9wclRlZEh6WFBSVTJGLWc5akpuZ00?oc=5",
@@ -1455,6 +1569,17 @@
 "published": "2026-11-26T22:40:00+07:00",
 "traffic": "500+",
 "found": "2026-11-27T00:09:38+07:00"
+},
+{
+"id": "33810a216277",
+"title": "Kinh tế Mỹ cuối năm 2026: Lạm phát dai dẳng gây sức ép lên Fed",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU1ZNRS1aNE85ZzZoU0ZRcUNIaWN0ZjFHZE5RejIyYUgyc19CTUtoWk9mZzN5SUhEeDdIQ3FXMFRyZmJaMnJraUlOM2tsQUVINXk1TklINWM3aDF6WHF3S3dPb2ZhRjU4aG51S3dHVDZudGtYaS10VzJZYkl1TE5tWTRfR19ISnNkT1d4V2ZUM3BaOHFBS1Z3MjdB?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T22:40:00+07:00",
+"found": "2026-11-27T07:18:57+07:00"
 },
 {
 "id": "708336d1b60f",
@@ -4589,6 +4714,17 @@
 "published": "2026-11-26T16:40:00+07:00",
 "traffic": "100000+",
 "found": "2026-11-26T17:21:36+07:00"
+},
+{
+"id": "64feed392cdc",
+"title": "Khơi thông dòng vốn cho cuộc chuyển mình của nông nghiệp công nghệ cao",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMl9vX0x3OU5fLW9GOUk3Y2FQc2wxNjdlTDRlSTBnVlNyS0l3Z1k0M01vang4bmN5RkxQU1FMaWNEanpYLXFBWHZYVVR2YWhCZzJIRDVvZVFXUHcxVDVlTXBxb2I0UlV4NWFfSWZyWXp0aXl0YnJWMEw4MnNZNFNEbEF4eWJCM1Uzdk5Fc085QnFQWE1oUnBqNnl5b1lRVWhqZm93enRn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-26T16:39:58+07:00",
+"found": "2026-11-27T07:18:57+07:00"
 },
 {
 "id": "043578f959a5",
@@ -10358,18 +10494,6 @@
 "source": "Kenh14",
 "cat": "xh",
 "published": "2026-11-26T08:13:00+07:00",
-"found": "2026-11-26T08:25:16+07:00"
-},
-{
-"id": "59d6e059968d",
-"title": "nhac",
-"link": "https://vnexpress.net/dich-vu-nhac-truc-tuyen-tidal-cam-nhac-ai-5148751.html",
-"summary": "Dịch vụ nhạc trực tuyến Tidal cấm nhạc AI (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8drCG1E_XHumF3keNl8-o0Say-DHAfUK8j_RthRxN2aDZMgoXF-trVIgVdD0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T08:10:00+07:00",
-"traffic": "500+",
 "found": "2026-11-26T08:25:16+07:00"
 },
 {
@@ -27975,129 +28099,6 @@
 "cat": "xh",
 "published": "2026-11-24T13:22:00+07:00",
 "found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "d661c1a1eabe",
-"title": "Hà Nội triển khai khảo sát, đo lường chỉ số hạnh phúc của người dân năm 2026",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSVFOdXByVmk3U0ZBcDFLN1VRcEJXVWtBanpDUWg1MDNMalplRGR2elQyeDVBT3lsOWhMMEJ2VldXRzUxOVRkSHItMDZNdngyc2QzOXg2anZrVWJpc3hkMk1wZWg5ZW5CT2wwT0JiQWNUQXNnZUpPNk1XOXlDakZEV0FqQXhoMVI2b253UmdRdmZ2QzhtLXpBcE1LdXBQYVFkS3hpV0RRYzJpTHRh?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-24T13:16:00+07:00",
-"found": "2026-11-24T15:32:53+07:00"
-},
-{
-"id": "1953af289849",
-"title": "Đà Nẵng làm việc với NVIDIA, đón nhiều tập đoàn lớn về ô tô, công nghệ về mở nhà máy",
-"link": "https://tuoitre.vn/da-nang-lam-viec-voi-nvidia-don-nhieu-tap-doan-lon-ve-o-to-cong-nghe-ve-mo-nha-may-100261124122728889.htm",
-"summary": "Chỉ trong thời gian ngắn, Đà Nẵng liên tiếp thu hút các tập đoàn trong và ngoài nước đầu tư xây dựng nhà máy với quy mô hàng ngàn tỉ đồng. Thành phố cũng đang tiếp xúc với NVIDIA.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/uacvn-18-1795497559050533148610-0-0-1600-2560-crop-17954977718281107848217-251-375-1250-1974-crop-1795501069573615369700.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-24T13:14:00+07:00",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "4c74cf586dbd",
-"title": "cô dâu",
-"link": "https://trends.google.com/trending/rss?geo=VN",
-"summary": "",
-"image": "",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T13:10:00+07:00",
-"traffic": "500+",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "f123a63e0bf7",
-"title": "bắn pháo hoa 24 11",
-"link": "https://laodong.vn/van-hoa-giai-tri/phuong-my-chi-toi-xuc-dong-khi-hat-ca-khuc-chu-de-o-concert-muon-sac-viet-nam-1805464.ldo",
-"summary": "Phương Mỹ Chi: Tôi xúc động khi hát ca khúc chủ đề ở concert Muôn sắc Việt Nam (Laodong.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9weiU7SEa0W7EyzE7fsi1Irjbxbl468HfV0wAqjn0uGinv7-G-uKwtElFUdI",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T13:10:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "ad932a0896df",
-"title": "Long Thành tính tăng chuyến dịp Tết, khách tránh nhầm sân bay khi đặt vé",
-"link": "https://dantri.com.vn/kinh-doanh/long-thanh-tinh-tang-chuyen-dip-tet-khach-tranh-nham-san-bay-khi-dat-ve-20261124122012315.htm",
-"summary": "(Dân trí) - Từ ngày 24/12, sân bay Long Thành dự kiến khai thác thương mại, với sản lượng có thể tăng lên 30-40 chuyến/ngày dịp Tết Nguyên đán 2027.",
-"image": "https://cdnphoto.dantri.com.vn/bvExOaBiXB0ndYFFe5RT5UGmeQw=/2026/11/24/khach-bay-anh-long-hai-cropped-1795497476038.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-24T13:07:33+07:00",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "5309ab6e0fb2",
-"title": "Khơi dậy mạnh mẽ lòng tự hào, khát vọng cống hiến để văn hóa thấm sâu vào từng nếp nghĩ, việc làm",
-"link": "https://tuoitre.vn/khoi-day-manh-me-long-tu-hao-khat-vong-cong-hien-de-van-hoa-tham-sau-vao-tung-nep-nghi-viec-lam-100261124121556461.htm",
-"summary": "Trưởng Ban Tuyên giáo Trung ương Trịnh Văn Quyết nhấn mạnh, nhìn lại 80 năm, chúng ta tự hào khẳng định bản sắc dân tộc được bồi đắp qua các cuộc kháng chiến trường kỳ và qua sự nghiệp bảo vệ Tổ quốc, công cuộc Đổi mới và hội nhập.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/ong-trinh-van-quyet-17954961104231313145212-99-373-1382-2425-crop-17954961499611095157743.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-24T13:07:00+07:00",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "fa23e111d87f",
-"title": "Xe tải tông ôtô 4 chỗ biến dạng, một người chết",
-"link": "https://vnexpress.net/xe-tai-tong-oto-4-cho-bien-dang-mot-nguoi-chet-5148372.html",
-"summary": "Xe tải va chạm với ôtô 4 chỗ tại giao lộ ở Khu đô thị Nam Tuy Hòa, phường Phú Yên, khiến một người tử vong, hai người bị thương nặng, sáng 24/11.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/a-nh-ma-n-hi-nh-lu-c-179549942-8155-5585-1795499506.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=SuPJQmDuSTUwbhC7Dx5VKQ",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-24T13:06:54+07:00",
-"found": "2026-11-24T13:25:06+07:00"
-},
-{
-"id": "0a6413cd8d43",
-"title": "Cảnh giác bẫy kép lừa đảo trên không gian mạng",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV0d3V3hwNm5SNDc3bWRJUWQxaTVDaGhLb3ExcEtNdmZ2Vi04ZjlDVDhJVHZEZEhPRHFUQWxQR2dkNHF4c180OUlJMTMyeVlfRUNFWTdfSENXS2dfdXg0TVdzSnQtSkwzM2Z5M2xKVVRLX3RueEN2QWRETEJhSUR6UjRIVXpXUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-24T13:04:02+07:00",
-"found": "2026-11-24T13:09:54+07:00"
-},
-{
-"id": "49ba8f352be7",
-"title": "Chứng khoán Nhất Việt chuẩn bị tăng vốn vượt 2.900 tỷ đồng",
-"link": "https://cafef.vn/chung-khoan-nhat-viet-chuan-bi-tang-von-vuot-2900-ty-dong-188261124130242247.chn",
-"summary": "Chứng khoán Nhất Việt chốt thời gian chào bán 139,9 triệu cổ phiếu cho cổ đông hiện hữu để tăng vốn vượt 2.900 tỷ đồng.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795500138178-17955001399051275974188.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-24T13:02:00+07:00",
-"found": "2026-11-24T13:09:54+07:00"
-},
-{
-"id": "0c6c2dce44bf",
-"title": "Bộ Y tế hướng dẫn giảm trừ thuế thu nhập cá nhân với chi phí khám chữa bệnh",
-"link": "https://tuoitre.vn/bo-y-te-huong-dan-giam-tru-thue-thu-nhap-ca-nhan-voi-chi-phi-kham-chua-benh-100261124114320742.htm",
-"summary": "Một người dân cho biết vợ phải phẫu thuật, không có bảo hiểm y tế (BHYT) chi trả, tổng chi phí khám, chữa bệnh khoảng 100 triệu đồng và được thanh toán thành nhiều đợt. Người này muốn biết khoản tiền trên có được tính giảm trừ khi quyết toán thuế thu nhập cá nhân hay không.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/vien-phi-bhyt9-read-only-17579888506471602398731-105-0-1705-2560-crop-17954952874221775335771.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-24T13:02:00+07:00",
-"found": "2026-11-24T13:34:29+07:00"
-},
-{
-"id": "6fd4d3193cc9",
-"title": "TP.HCM lần đầu đón ngày Văn hóa Việt Nam với pháo hoa trên sông Sài Gòn",
-"link": "https://thanhnien.vn/tphcm-lan-dau-don-ngay-van-hoa-viet-nam-voi-phao-hoa-tren-song-sai-gon-185261124124346147.htm",
-"summary": "Những giàn pháo tại đầu hầm sông Sài Gòn được lắp đặt, đấu nối, chờ màn trình diễn tối 24.11 chào mừng ngày Văn hóa Việt Nam đầu tiên.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-1795488528797328246374090152656132824637409015265619d15c696780452859a320b11a231b1d5-17954985739371706045059-136-0-1736-2560-crop-17954991230231497593066.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-24T13:01:00+07:00",
-"found": "2026-11-24T13:09:54+07:00"
 }
 ]
 }
