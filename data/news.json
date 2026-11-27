@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T03:23:08+07:00",
-"new": 5,
+"updated": "2026-11-28T03:38:18+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,29 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "dc4f5a774d79",
+"title": "Phẫn nộ tài xế ô tô 35B-019.15 tông CSGT rồi bỏ chạy trên lối vào cao tốc",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeUJ4dTByUnVMaDdJNEtpWVczNVY1SmtwV3dlUUpqWUE2aDZROTY5YjJyVnlQVGVPc2RQb3Iwa0RKUGR4R1dTQ3VjOEpPYUVmeDRWaXozU1BGYldqQ1RUTk5OWDM5NHRvYU1rcXgzenAwbks1VHFKQ3E2dWxOWjhQV0lQdS1oTVRuQ1hkT3k5QVNMR016ZDhVVG5yeHJxVS1vT0tFOWMxYw?oc=5",
+"summary": "Nguồn: SOHA",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-28T03:26:23+07:00",
+"found": "2026-11-27T14:10:57+07:00"
+},
+{
+"id": "42fb8ab19210",
+"title": "venezia đấu với bologna",
+"link": "https://bongdaplus.vn/serie-a/nhan-dinh-bong-da-venezia-vs-bologna-02h45-ngay-28-11-khach-tiep-da-thang-hoa-5300292611.html",
+"summary": "Nhận định bóng đá Venezia vs Bologna, 02h45 ngày 28/11: Khách tiếp đà thăng hoa (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj62SvtvZZ3Ph8l0JFonTPJ-dUs94SbcYMWFcj1gHmyFnlSIjZQZo7kYUG1MY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T03:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-28T03:38:18+07:00"
+},
+{
 "id": "a87e2507187f",
 "title": "xe",
 "link": "https://cafef.vn/honda-tang-doanh-so-xe-may-dien-481-selex-motors-tang-nhanh-gap-13-lan-dat-bike-cu-3-xe-may-ban-ra-o-viet-nam-co-1-xe-may-dien-188261126214920611.chn",
@@ -245,7 +268,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T02:10:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-28T02:28:02+07:00"
 },
 {
@@ -713,17 +736,6 @@
 "cat": "tc",
 "published": "2026-11-27T21:26:33+07:00",
 "found": "2026-11-27T22:00:04+07:00"
-},
-{
-"id": "dc4f5a774d79",
-"title": "Phẫn nộ tài xế ô tô 35B-019.15 tông CSGT rồi bỏ chạy trên lối vào cao tốc",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeUJ4dTByUnVMaDdJNEtpWVczNVY1SmtwV3dlUUpqWUE2aDZROTY5YjJyVnlQVGVPc2RQb3Iwa0RKUGR4R1dTQ3VjOEpPYUVmeDRWaXozU1BGYldqQ1RUTk5OWDM5NHRvYU1rcXgzenAwbks1VHFKQ3E2dWxOWjhQV0lQdS1oTVRuQ1hkT3k5QVNMR016ZDhVVG5yeHJxVS1vT0tFOWMxYw?oc=5",
-"summary": "Nguồn: SOHA",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-27T21:26:22+07:00",
-"found": "2026-11-27T14:10:57+07:00"
 },
 {
 "id": "707ccb270d66",
@@ -3789,6 +3801,17 @@
 "found": "2026-11-27T17:23:44+07:00"
 },
 {
+"id": "53cc170115fb",
+"title": "Đổi mới cách phân bổ nguồn lực, mở dư địa tăng trưởng",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdFVpRnNMQU16LWNPTHZqUENsZEN6ZDIyWFllV25BSnR1Y3ZyeDhMc0hpeVR3cXc4VWp3Ukx1Rm91RU12TzlOYU9pQ2FxRkl4bURlYUx1Vzl4UkdvVVIwSzVwYjdFOVViVmJfZnJ3aUkxMWlrdHgwQXFLcTIwLUFYeVJweU1oOEFaLVhYUmNn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T16:04:00+07:00",
+"found": "2026-11-28T03:38:18+07:00"
+},
+{
 "id": "f35f5dec06a3",
 "title": "Thành ủy TP.HCM chỉ đạo dồn lực hoàn thành 3 mục tiêu lớn",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcU9DRmREdEZhYXBuVUY4bmtpekpvdzZOYWFUQ3NEaWk5aWs1SGRQYVVqY01yejdHbjQ1bEwtUklHSjRxUEtObFB0RHo3QjNFYzZ6OEE2RU1BSWtTaTZnaE1yRGlJUGRQZnZpd3BwNVI1MVI4SE56dnJieHNpb0IwX2ZRX29xZjFNME42ODdRVTZZQTVi?oc=5",
@@ -4998,6 +5021,17 @@
 "cat": "xh",
 "published": "2026-11-27T14:26:00+07:00",
 "found": "2026-11-27T14:41:20+07:00"
+},
+{
+"id": "e7fcbccb318c",
+"title": "Bắc Ninh mở rộng tín dụng ưu đãi, tạo sinh kế cho đồng bào dân tộc thiểu số",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hfQ0RBMzRBdk1YUzd1YW93OWNLeFpGNlVzVjFPZmtzWFN0em1QcmlJdWdKdVdTRXZTTGNlb0JzaG80MFowV1lBcHM3T003V3BYS29mWUxpOS10MExwUVIySkMtU1RPSHAyMy1WWFhZNEZlbGZQZE83b1J5MW5fYnllbzhnc0NYbFFzRldOb2J5UW9JMEpVNjJoblROR3dOVFNfbkdZSmJoNEU?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T14:25:00+07:00",
+"found": "2026-11-28T03:38:18+07:00"
 },
 {
 "id": "5844b1bc7165",
@@ -27988,39 +28022,6 @@
 "cat": "bds",
 "published": "2026-11-25T14:06:00+07:00",
 "found": "2026-11-25T14:20:47+07:00"
-},
-{
-"id": "63067dbcbd94",
-"title": "Resort 4 sao ven biển Lâm Đồng bỏ hoang nhiều năm",
-"link": "https://thanhnien.vn/resort-4-sao-ven-bien-lam-dong-bo-hoang-nhieu-nam-185261124172748074.htm",
-"summary": "Từng là khu nghỉ dưỡng quy mô 150 phòng, đạt tiêu chuẩn 4 sao, Sài Gòn - Suối Nhum resort (xã Tân Thành, Lâm Đồng) nay bị bỏ hoang, cỏ cây phủ kín, gây lãng phí nguồn lực ven biển.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-img3565-1795515110066433239413-107-0-1707-2560-crop-1795515967051444633431.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T14:02:00+07:00",
-"found": "2026-11-25T14:05:38+07:00"
-},
-{
-"id": "0b626be2df0a",
-"title": "Tìm kiếm “Ngân hàng ứng dụng AI toàn diện” năm 2026: Từ những thay đổi thầm lặng đến lợi thế cạnh tranh khác biệt",
-"link": "https://cafef.vn/tim-kiem-ngan-hang-ung-dung-ai-toan-dien-nam-2026-tu-nhung-thay-doi-tham-lang-den-loi-the-canh-tranh-khac-biet-188261125140259944.chn",
-"summary": "Từng cạnh tranh bằng mạng lưới điểm giao dịch, sau đó là các nền tảng ngân hàng số, các nhà băng Việt Nam đang bước vào một cuộc đua mới với trí tuệ nhân tạo (AI). Trong cuộc đua này, TPBank, Techcombank và LPBank đang mang đến những câu chuyện đáng chú ý.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795590066813-1795590068152920418389.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-25T14:01:00+07:00",
-"found": "2026-11-25T14:20:47+07:00"
-},
-{
-"id": "7eb7d37bd0a9",
-"title": "Các hãng bán lẻ Mỹ dùng AI để tính ưu đãi Black Friday",
-"link": "https://vnexpress.net/cac-hang-ban-le-my-dung-ai-de-tinh-uu-dai-black-friday-5148597.html",
-"summary": "Người tiêu dùng có thể sẽ được giảm giá ít hơn vào Black Friday năm nay, khi AI ngày càng được doanh nghiệp dùng để hỗ trợ định giá.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/screenshot-1795579498-7592-1795579513.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=fUHcM6T8-X6rdzHHEwqS2g",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-25T14:00:20+07:00",
-"found": "2026-11-25T15:06:26+07:00"
 }
 ]
 }
