@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T18:30:59+07:00",
-"new": 7,
+"updated": "2026-11-27T18:46:10+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 44
+"count": 43
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "6cf635ec4fb3",
+"title": "Đầu tháng 12, báo cáo Bộ Chính trị phương án biên chế giai đoạn 2027 - 2031",
+"link": "https://thanhnien.vn/dau-thang-12-bao-cao-bo-chinh-tri-phuong-an-bien-che-giai-doan-2027-2031-185261127175846377.htm",
+"summary": "Phó thủ tướng Phạm Thị Thanh Trà yêu cầu các bộ, ngành khẩn trương hoàn thiện dữ liệu vị trí việc làm, phương án biên chế giai đoạn 2027 - 2031 để kịp báo cáo Bộ Chính trị cho chủ trương vào đầu tháng 12.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/edit-cong-chuc4-1795778299849824418928-103-0-1703-2560-crop-1795778312897470397409.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T18:45:00+07:00",
+"found": "2026-11-27T18:46:10+07:00"
+},
+{
+"id": "863b7254d2fd",
+"title": "Hà Nội: Thiết kế và vận hành quốc tế định hình sức cạnh tranh của bất động sản cao cấp",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUUMtUE5OWXg1RFdrdFFtd3VYXzF5UkwtTDl3VlhFR0J1T2doUVl3WTFaVDhaNV9LNmMwVUZmWDlEQl9adldURDJHbmItRkxmam9nWWI0YXVIdUV1WmEzdmJuYzNWdk0tSjRYMUI4bEVWVDJkN085QW50MVNPSl91ZDlPdEktX1BVMVRuUkMtdUdDeno2QXhWYUN2ZjZIbGgtUHljc3NEQV9Tblg5M2loN2ZmWE00T2JUbFE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-27T18:28:00+07:00",
+"found": "2026-11-27T18:46:10+07:00"
+},
+{
 "id": "3cbd9c65c0ec",
 "title": "TP.HCM dự kiến sắp xếp, tổ chức lại Sở Du lịch, Sở An toàn thực phẩm",
 "link": "https://thanhnien.vn/tphcm-du-kien-sap-xep-to-chuc-lai-so-du-lich-so-an-toan-thuc-pham-185261127181842295.htm",
@@ -244,6 +266,17 @@
 "cat": "tc",
 "published": "2026-11-27T18:22:00+07:00",
 "found": "2026-11-27T18:30:59+07:00"
+},
+{
+"id": "8ed9178ff7a7",
+"title": "Cựu cảnh sát trưởng Italy tử vong giữa nghi vấn bao che mafia",
+"link": "https://vnexpress.net/cuu-canh-sat-truong-italy-tu-vong-giua-nghi-van-bao-che-mafia-5149697.html",
+"summary": "Gianni De Gennaro, người từng đứng đầu cảnh sát quốc gia Italy, có vai trò quan trọng trong cuộc chiến chống mafia, vừa chết do nghi tự sát tại nhà riêng ở Tuscany, vài ngày sau khi bị điều tra.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/telemmglpict000512715328-trans-5062-6183-1795774625.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=cJ97NXyjVxZZf2dqmaGxDg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-27T18:11:19+07:00",
+"found": "2026-11-27T18:46:10+07:00"
 },
 {
 "id": "56c389811ce3",
@@ -323,6 +356,28 @@
 "found": "2026-11-27T18:20:55+07:00"
 },
 {
+"id": "1b143fb4f20f",
+"title": "Chen chân săn hàng giảm giá dịp Black Friday ở TPHCM",
+"link": "https://dantri.com.vn/dt360/chen-chan-san-hang-giam-gia-dip-black-friday-o-tphcm-20261127154758824.htm",
+"summary": "(Dân trí) - Hàng loạt cửa hàng, trung tâm thương mại tại TPHCM tung ưu đãi dịp Black Friday vào 27/11, thu hút người dân tranh thủ mua sắm cuối năm.",
+"image": "https://cdnphoto.dantri.com.vn/csCOnFH_dwIOrieK5XL2Fk8tYLI=/2026/11/27/1795768634180200241305293404780471576229854277915227e8dd7fcff77832d83dd09a6102384a1-1795769203820.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-27T18:01:00+07:00",
+"found": "2026-11-27T18:46:10+07:00"
+},
+{
+"id": "f3fe7ff9d8fc",
+"title": "Doanh nghiệp trước áp lực đáo hạn trái phiếu: Bài toán dòng tiền cuối năm",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOF9LQ2NydjFYSFpfVTFXVlhrV1pubU9BTlluMEp6REF6YVJSWDZoVTZfMFQ0d1hqTDFHYzJEZlFxZE9XZjlIVDU4QjhFbm9mSzVLVzdsdmJRdFhQU2xiTC1td0FCMm9WSXUzRm5xQlhHblJZS0FHLUF2QUZVZmdVV3JLV2UtLTNXMW1Oc25IWjlQM0FWQ0thTE5Rbm0teWtfdi1jNGMwYmg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T18:01:00+07:00",
+"found": "2026-11-27T18:46:10+07:00"
+},
+{
 "id": "b093bcc6a988",
 "title": "Aeon Việt Nam vươn lên Top 8 Nơi làm việc tốt nhất 2026",
 "link": "https://vietnamnet.vn/aeon-viet-nam-vuon-len-top-8-noi-lam-viec-tot-nhat-2026-2579463.html",
@@ -342,7 +397,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T18:00:00+07:00",
-"traffic": "1000+",
+"traffic": "200+",
 "found": "2026-11-27T18:20:55+07:00"
 },
 {
@@ -368,6 +423,28 @@
 "published": "2026-11-27T18:00:00+07:00",
 "traffic": "100+",
 "found": "2026-11-27T18:30:59+07:00"
+},
+{
+"id": "6b2daa22acd4",
+"title": "Vàng, dầu thô và kim loại thế giới đồng loạt tăng vọt cuối tuần",
+"link": "https://dantri.com.vn/kinh-doanh/vang-dau-tho-va-kim-loai-the-gioi-dong-loat-tang-vot-cuoi-tuan-20261127163115528.htm",
+"summary": "(Dân trí) - Đồng USD hạ nhiệt và lo ngại gián đoạn nguồn cung đẩy giá vàng, dầu thô, đồng và kẽm tăng mạnh trong phiên cuối tuần. Giá vàng giao ngay tăng hơn 3%, dầu Brent tiến sát 100 USD/thùng.",
+"image": "https://cdnphoto.dantri.com.vn/Rk749R27XXxfQa1pkKSqWawPIas=/2026/11/27/precious-metals-oil-and-market-signals-gold-cropped-1795771097917.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-27T18:00:00+07:00",
+"found": "2026-11-27T18:46:10+07:00"
+},
+{
+"id": "7d736b82ea98",
+"title": "Bị cáo Nguyễn Thành Nam bị đề nghị 5-6 năm tù",
+"link": "https://vnexpress.net/bi-cao-nguyen-thanh-nam-bi-de-nghi-5-6-nam-tu-5149592.html",
+"summary": "TAND Hà Nội mở phiên sơ thẩm xét xử bị cáo Nguyễn Thành Nam, tác giả \"Chuyện với Thanh - Lời kể mới về ánh sáng\" và 4 bị cáo có liên quan.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/phien-toa-nguyen-thanh-nam-179-3879-3399-1795776872.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Oj2jdYKdHWPl1oFVOb8XOw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-27T17:54:32+07:00",
+"found": "2026-11-27T18:46:10+07:00"
 },
 {
 "id": "d99a124ff1a0",
@@ -400,7 +477,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T17:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-27T18:05:42+07:00"
 },
 {
@@ -457,8 +534,19 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T17:40:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-27T18:05:42+07:00"
+},
+{
+"id": "696528a3296f",
+"title": "Lô đất 3-9 ở Thủ Thiêm trúng đấu giá gần 1.772 tỷ đồng",
+"link": "https://vnexpress.net/lo-dat-3-9-o-thu-thiem-trung-dau-gia-gan-1-772-ty-dong-5149752.html",
+"summary": "Lô đất 3-9 ở Thủ Thiêm chiều nay trúng đấu giá gần 1.772 tỷ đồng, cao hơn khởi điểm 27 tỷ đồng.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/1-1795775621-5236-1795775797.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=kAHNmcEx1XeyMNK8CGdN5Q&t=image",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-27T17:37:46+07:00",
+"found": "2026-11-27T18:46:10+07:00"
 },
 {
 "id": "9d6e37e58d48",
@@ -535,7 +623,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T17:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-27T17:50:31+07:00"
 },
 {
@@ -669,7 +757,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T17:20:00+07:00",
-"traffic": "2000+",
+"traffic": "1000+",
 "found": "2026-11-27T17:35:20+07:00"
 },
 {
@@ -1232,7 +1320,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T16:30:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-27T16:53:17+07:00"
 },
 {
@@ -27931,94 +28019,6 @@
 "cat": "xh",
 "published": "2026-11-25T10:36:00+07:00",
 "found": "2026-11-25T11:44:17+07:00"
-},
-{
-"id": "c76dfe903cea",
-"title": "Nguyễn Văn Bình SN 1993 chuyển khoản 20.000.000 đồng vào tài khoản Vietcombank của Nguyễn Hoàng Nam SN 1999: Công an rà soát, xác minh giao dịch",
-"link": "https://kenh14.vn/nguyen-van-binh-sn-1993-chuyen-khoan-20000000-dong-vao-tai-khoan-vietcombank-cua-nguyen-hoang-nam-sn-1999-cong-an-ra-soat-xac-minh-giao-dich-21526112510332113.chn",
-"summary": "Từ một cuộc điện thoại nhờ hỗ trợ, Công an xã Cư Jút, tỉnh Lâm Đồng đã nhanh chóng xác minh, kết nối các bên, giúp một người dân ở tỉnh Nghệ An nhận lại 20 triệu đồng do chuyển khoản nhầm.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795577572375-17955775734871943923543.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-25T10:34:00+07:00",
-"found": "2026-11-25T10:54:47+07:00"
-},
-{
-"id": "65cb3e1ccee7",
-"title": "Đà Nẵng: Giá thứ cấp đất nền, căn hộ, nhà phố và biệt thự giảm 2-5%",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmpwcTFoaDZQZHF5anpYMzVoWDk1M0lUZHZDbWpWOFRrejdKaDIxYy1mblBPdHY2Nk1oQ1B3eGRfRHZ5UjBBS19DR1ZCc3NCREU3dEswaHh5TURfdU9sUktGRUhCb05zVjdfSDk4TGxpS2ozeUQzSVVtbHhkR3NKWDhkOFhCZXNGTWlDa0RPcUlxZU1Ldy00Sm03cGc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T10:33:00+07:00",
-"found": "2026-11-25T10:39:37+07:00"
-},
-{
-"id": "a957b0f9c6ec",
-"title": "Thông báo lấy ý kiến cộng đồng dân cư Điều chỉnh Quy hoạch chi tiết tỷ lệ 1/500 Dự án mở rộng phía Tây khu dân cư Đất Lành, phường Nam Nha Trang, tỉnh Khánh Hòa",
-"link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRjEyVTFWMjlPcFZRRXcxNm1xWFVvZkg2dGZuUHRFMTF5OVFyQmNhTGJQYldteXctbTdXS1VYLWJmSDZwZ1hvWE9GdlJOZFMtSmY5cVNtbTNMWVB3endyNDNDOHJHc2RjWHR5UXhqSHZkVHRjck5aZEVKdXlkVVowYUExalJ3X3FOLURoVkJKV1l0ZjhhaDVFV2x5OWZJV2g5RkxwV3RERVlLbEIzNTltYWEyOTFfSnB3SjJMWEdCWjdVc2d5eWZOd24tLVNPTGRtZ0c4eS1hbDloTkQ2eUlZeGx1bWVZVXp4RGlDYUxGVnFxdGFfem5vRnU2dUkxdGhCSjhJNVhOb1lCV1VJeEZ6Q2w1SFFna0dRMGc0?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T10:32:00+07:00",
-"found": "2026-11-25T10:39:37+07:00"
-},
-{
-"id": "5a5d1aa4d779",
-"title": "Tỷ giá USD hôm nay 25/11: Tỷ giá trung tâm lên 25.679 đồng, DXY hồi nhẹ trước khi công bố dữ liệu PCE Mỹ",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNWlQSmdQYTBXTC1VS2NwdDJhWDVvVzc3VDVEMnp2WDNLdkoyMkVwbU5pX2Vfd0hwUk4tQmlRbktVRUdhY19Md2pUZXZHOFFNTkZJWkxSOF9LcVVmckVOR2VXN3drd3c1MnJYOThYcG90QldYVHp1dmI0cVJ2MHVEZnNUWFFuMG9FS3F1dTk0Vk40bkswdHlCb0ZOVUV5dmptMDJJUW1PaUxtVVVIOTJNc3BfTkl0Ry1oek5OYlN5V3NkbWFITGZ5Vk1kTkJ4VmM0?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T10:32:00+07:00",
-"found": "2026-11-25T10:39:37+07:00"
-},
-{
-"id": "253f88dfeddd",
-"title": "Lần đầu tiên, Việt Nam đưa công nghệ hiện đại vào tuyến đường sắt dài 363 km, siêu dự án gần 290.000 tỷ đồng có gì đặc biệt?",
-"link": "https://cafef.vn/lan-dau-tien-viet-nam-dua-cong-nghe-hien-dai-vao-tuyen-duong-sat-dai-363-km-sieu-du-an-gan-290000-ty-dong-co-gi-dac-biet-188261125101739457.chn",
-"summary": "Tuyến đường sắt Lào Cai – Hà Nội – Hải Phòng đánh dấu bước chuyển đáng chú ý của ngành đường sắt khi lần đầu ứng dụng công nghệ điện khí hóa trên mạng lưới quốc gia, thay thế dần phương thức vận hành truyền thống.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/3b301ee63cedb3b3eafc-1765953258293725194138-1781617930761343644219-1795576531269566425223-8-0-464-730-crop-1795576536508725069439.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T10:31:00+07:00",
-"found": "2026-11-25T10:39:37+07:00"
-},
-{
-"id": "cda62ae52482",
-"title": "FLC đổi tên công ty thuê mua tàu bay, mở rộng sang năng lượng - Tạp chí Nhà Quản Trị - TheLEADER",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUXVaOVpmSzVHZHJac2hra3ZiV2tnbDZoQmZUS0tEbUEwcl92Ry1HTW82N3lsaTRFNTRMZnQ4ZXVHZ1dFbENUTDB3cVRyWTYzOVdvOWQzV3BkRjNTOTFzcjJGNFZqWDZKYU9KWkpvTmJGQmIzVDN0RFZZTVpzNWVQdV9yWkJxSUdjT21DV0JPT2hYYlozUDhVTw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T10:31:00+07:00",
-"found": "2026-11-25T17:01:54+07:00"
-},
-{
-"id": "39bc60f3697d",
-"title": "'Chủ' meme coin Ansem nói bị hack ví tiền số 2 triệu USD",
-"link": "https://vnexpress.net/chu-meme-coin-ansem-noi-bi-hack-vi-tien-so-2-trieu-usd-5148604.html",
-"summary": "Ví tiền số của Ansem, người đứng sau meme coin cùng tên, đã bán 2,1 triệu USD, nói do bị hack, nhưng giới phân tích nghi ngờ nguyên nhân khác.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/skynews-cybercrime-hacker-hack-9303-5755-1795574536.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ArY3wSqclNI9Pe7XkZOMDA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-25T10:30:27+07:00",
-"found": "2026-11-25T11:25:07+07:00"
-},
-{
-"id": "b56bfa73b4d4",
-"title": "Siêu sân bay lớn nhất miền Bắc, vốn 8 tỷ USD rộng hơn 1.880 ha, cách Hà Nội 40 km đón chuyến bay đặc biệt",
-"link": "https://cafef.vn/sieu-san-bay-lon-nhat-mien-bac-von-8-ty-usd-rong-hon-1880-ha-cach-ha-noi-40-km-don-chuyen-bay-dac-biet-188261125102009838.chn",
-"summary": "Chuyến bay kỹ thuật đầu tiên kiểm tra hiệu chuẩn hệ thống DVOR/DME tại Cảng hàng không quốc tế Gia Bình được triển khai ngày 24/11.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/ab07973a4515f64baf04-1744592370870688021583-17955766776182040658474-0-62-435-758-crop-17955767672671003912409.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T10:30:00+07:00",
-"found": "2026-11-25T10:39:37+07:00"
 }
 ]
 }
