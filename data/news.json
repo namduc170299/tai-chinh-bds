@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T06:18:13+07:00",
-"new": 6,
+"updated": "2026-11-28T06:33:46+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 42
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -211,6 +211,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "eb0dfddb5412",
+"title": "Ma trận 'xuân dược': Siết chặt quản lý, xóa sổ chợ đen",
+"link": "https://thanhnien.vn/ma-tran-xuan-duoc-siet-chat-quan-ly-xoa-so-cho-den-185261127212730116.htm",
+"summary": "TP.HCM xử phạt các điểm bán thuốc kích dục trôi nổi, tăng cường hậu kiểm nhà thuốc, ngăn chặn thuốc kê đơn bán không toa.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/tnw-photo-1795789576323-17957895774551599446844-17957895892031816473349-16-0-816-1280-crop-17957896182491639685670.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T06:30:00+07:00",
+"found": "2026-11-28T06:33:46+07:00"
+},
+{
 "id": "2a8c821a73b3",
 "title": "Vây bắt thành công Nguyễn Việt Anh SN 2006 ngay khi về Việt Nam",
 "link": "https://kenh14.vn/vay-bat-thanh-cong-nguyen-viet-anh-sn-2006-ngay-khi-ve-viet-nam-215261127223000219.chn",
@@ -218,8 +229,67 @@
 "image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795793358687-17957933590181777687685.png",
 "source": "Kenh14",
 "cat": "xh",
-"published": "2026-11-28T06:18:13+07:00",
+"published": "2026-11-28T06:24:00+07:00",
 "found": "2026-11-27T23:44:14+07:00"
+},
+{
+"id": "3525ec24a7b5",
+"title": "Quy hoạch TPHCM tầm nhìn 100 năm: Không đánh đổi di sản lấy lợi ích trước mắt",
+"link": "https://vietnamnet.vn/quy-hoach-tphcm-tam-nhin-100-nam-khong-danh-doi-di-san-lay-loi-ich-truoc-mat-2577131.html",
+"summary": "Theo Viện trưởng Viện Khoa học xã hội vùng Nam BộQuy hoạch TPHCM tầm nhìn 100 năm không chỉ đặt ra yêu cầu bảo tồn công trình kiến trúc, di tích mà còn phải giữ gìn ký ức đô thị, sinh kế và sự gắn kết cộng đồng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/quy-hoach-tphcm-tam-nhin-100-nam-khong-danh-doi-di-san-lay-loi-ich-truoc-mat-1.jpg?width=0&s=My0P5a1wCg_GaUTxB8-dNg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T06:17:59+07:00",
+"found": "2026-11-28T05:22:00+07:00"
+},
+{
+"id": "90393f3d62c2",
+"title": "xổ số",
+"link": "https://laodong.vn/ban-doc/nhieu-nguoi-dan-mot-xom-o-tay-ninh-trung-16-to-ve-so-giai-dac-biet-1807113.ldo",
+"summary": "Nhiều người dân một xóm ở Tây Ninh trúng 16 tờ vé số giải đặc biệt (Laodong.vn)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe7gzAc4SmE3-1vkf9aW4r0oKtkC9uZaN8D9j0sZP_rCbU74GqsheHcvNWgMo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T06:10:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-28T06:33:46+07:00"
+},
+{
+"id": "d5e5f0c4eee7",
+"title": "lịch thi đấu ngoại hạng anh",
+"link": "https://www.24h.com.vn/bong-da/du-doan-vong-12-ngoai-hang-anh-arsenal-gieo-sau-man-city-mu-pochettino-cho-3-diem-dau-tay-c48a1814449.html",
+"summary": "Dự đoán vòng 12 Ngoại hạng Anh: Arsenal gieo sầu Man City, MU - Pochettino chờ 3 điểm đầu tay (Tin tức 24h)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGIsUL5V1rPiKJUgp5pPHpgAV7VoGFnbKGjlLpjl2ver_9AKgnfBPoZiTnkM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T06:10:00+07:00",
+"traffic": "500+",
+"found": "2026-11-28T06:33:46+07:00"
+},
+{
+"id": "df7c56dd302e",
+"title": "phú thọ",
+"link": "https://vietnamnet.vn/nguoi-phu-nu-ban-rau-o-phu-tho-tu-y-bo-di-lam-xa-khong-phai-bi-bat-coc-2579512.html",
+"summary": "Người phụ nữ bán rau ở Phú Thọ tự ý bỏ đi làm xa, không có chuyện bị chuốc thuốc mê, bắt cóc (Báo VietNamNet)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPFDPDHixg12UTYHQAfK3z52VN7jCSABpnW1pTXxl_izw0pEoP5KodlcKjwC8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T06:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-28T06:33:46+07:00"
+},
+{
+"id": "e3a1840670a0",
+"title": "hoài linh",
+"link": "https://danviet.vn/nghe-si-uu-tu-hoai-linh-nen-duyen-voi-my-nhan-bolero-kem-22-tuoi-d1478199.html",
+"summary": "Nghệ sĩ Ưu tú Hoài Linh \"nên duyên\" với \"mỹ nhân Bolero” kém 22 tuổi (Báo Dân Việt)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ96joRRNXqxaP9uzUyPWarR_HhN9A70RQtVmz-RAblmxdB0aSp_zwJ7BnhJFM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T06:10:00+07:00",
+"traffic": "500+",
+"found": "2026-11-28T06:33:46+07:00"
 },
 {
 "id": "01a50dc208de",
@@ -357,6 +427,28 @@
 "found": "2026-11-28T06:18:13+07:00"
 },
 {
+"id": "52211d7ebd35",
+"title": "Cải tạo chung cư cũ, chủ căn hộ được bồi thường thế nào từ giữa 2027",
+"link": "https://vnexpress.net/cai-tao-chung-cu-cu-chu-can-ho-duoc-boi-thuong-the-nao-tu-giua-2027-5149304.html",
+"summary": "Từ 1/7/2027, chủ căn hộ chung cư xây trước năm 1994 không được tự góp tiền cải tạo, mà nhận bồi thường bằng nhà, đất hoặc tiền theo hệ số K.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/wm1-wm1-c91r8794jpg-1795784253-8240-1795784286.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cDei-kwf78QhaEgZ40bvvw",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-28T06:00:00+07:00",
+"found": "2026-11-28T06:33:46+07:00"
+},
+{
+"id": "43d91f62e4bb",
+"title": "Tranh cãi quanh cái chết của phạm nhân bị trói suốt 48 ngày",
+"link": "https://vnexpress.net/tranh-cai-quanh-cai-chet-cua-pham-nhan-bi-troi-suot-48-ngay-5149769.html",
+"summary": "Nam phạm nhân tử vong vì bệnh tim sau 48 ngày bị cố định tay chân trên giường, hai quản giáo bị kết án tù vì ngược đãi nhưng kháng cáo, cho rằng chỉ làm đúng quy định.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/Chineseprison1024x576-17957793-7301-4152-1795779657.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pNLzlJTjFkGpST_tK0X_aw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-28T06:00:00+07:00",
+"found": "2026-11-28T06:33:46+07:00"
+},
+{
 "id": "63218f47f51c",
 "title": "TP.HCM dự kiến tăng mức phạt dừng, đỗ xe sai quy định",
 "link": "https://thanhnien.vn/tphcm-du-kien-tang-muc-phat-dung-do-xe-sai-quy-dinh-185261127193850132.htm",
@@ -387,7 +479,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T05:50:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-28T06:09:25+07:00"
 },
 {
@@ -491,17 +583,6 @@
 "published": "2026-11-28T05:10:00+07:00",
 "traffic": "2000+",
 "found": "2026-11-28T05:37:50+07:00"
-},
-{
-"id": "3525ec24a7b5",
-"title": "Quy hoạch TPHCM tầm nhìn 100 năm: Không đánh đổi di sản lấy lợi ích trước mắt",
-"link": "https://vietnamnet.vn/quy-hoach-tphcm-tam-nhin-100-nam-khong-danh-doi-di-san-lay-loi-ich-truoc-mat-2577131.html",
-"summary": "Theo Viện trưởng Viện Khoa học xã hội vùng Nam BộQuy hoạch TPHCM tầm nhìn 100 năm không chỉ đặt ra yêu cầu bảo tồn công trình kiến trúc, di tích mà còn phải giữ gìn ký ức đô thị, sinh kế và sự gắn kết cộng đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/quy-hoach-tphcm-tam-nhin-100-nam-khong-danh-doi-di-san-lay-loi-ich-truoc-mat-1.jpg?width=0&s=My0P5a1wCg_GaUTxB8-dNg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-28T05:09:00+07:00",
-"found": "2026-11-28T05:22:00+07:00"
 },
 {
 "id": "896b217d7a57",
@@ -7044,18 +7125,6 @@
 "source": "VnExpress",
 "cat": "xh",
 "published": "2026-11-27T12:11:14+07:00",
-"found": "2026-11-27T12:39:41+07:00"
-},
-{
-"id": "c00b8493c718",
-"title": "hoài linh",
-"link": "https://www.saostar.vn/dien-anh/kho-cuu-duoc-hoai-linh-202611270027470433.html",
-"summary": "Khó cứu được Hoài Linh (Tạp chí Saostar)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI0f0tpojG8MIZ1Z2lYiU2smZOLQR4kYIaxN2rsEHzJeao5EjGLmVsNJnlTZY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-27T12:10:00+07:00",
-"traffic": "200+",
 "found": "2026-11-27T12:39:41+07:00"
 },
 {
@@ -27966,72 +28035,6 @@
 "source": "CafeF",
 "cat": "tc",
 "published": "2026-11-25T15:45:00+07:00",
-"found": "2026-11-25T15:52:04+07:00"
-},
-{
-"id": "a171fdc5da23",
-"title": "TS. Nguyễn Thị Phương Thảo trải lòng về hành trình 20 năm làm \"cầu nối niềm tin\", mong muốn nhà đầu tư nắm bắt cơ hội vàng của thị trường vốn Việt Nam",
-"link": "https://cafef.vn/ts-nguyen-thi-phuong-thao-trai-long-ve-hanh-trinh-20-nam-lam-cau-noi-niem-tin-mong-muon-nha-dau-tu-nam-bat-co-hoi-vang-cua-thi-truong-von-viet-nam-188261125154535106.chn",
-"summary": "Theo nữ tỷ phú Nguyễn Thị Phương Thảo, dư địa của Việt Nam vẫn còn vô cùng rộng lớn ở mọi lĩnh vực, từ hạ tầng, công nghệ, giáo dục, y tế, văn hóa cho đến phát triển con người và phát triển thị trường. Bà hoàn toàn tự tin rằng các chính sách của Việt Nam hiện nay đang là những…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795596302108-17955963031481475512802.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-25T15:45:00+07:00",
-"found": "2026-11-25T15:52:04+07:00"
-},
-{
-"id": "fceb7dd00b48",
-"title": "Khối ngoại giao dịch thoả thuận đột biến một cổ phiếu 4.800 tỷ đồng phiên 25/11",
-"link": "https://cafef.vn/khoi-ngoai-giao-dich-thoa-thuan-dot-bien-mot-co-phieu-4800-ty-dong-phien-25-11-188261125151859485.chn",
-"summary": "Giao dịch của khối ngoại là điểm trừ của thị trường phiên 25/11 khi áp lực bán ròng gia tăng mạnh.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/photo1621239105144-16212391052931788775925-1659-17955946941971889500921.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-25T15:45:00+07:00",
-"found": "2026-11-25T17:29:38+07:00"
-},
-{
-"id": "8444c37f869e",
-"title": "Tổng Bí thư, Chủ tịch nước: Đối tác phải chuyển giao công nghệ đường sắt tốc độ cao",
-"link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-doi-tac-phai-chuyen-giao-cong-nghe-duong-sat-toc-do-cao-5148719.html",
-"summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm cho rằng Việt Nam chỉ chấp nhận đối tác đáp ứng tiêu chuẩn kỹ thuật và chuyển giao công nghệ đường sắt tốc độ cao Bắc Nam.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/tbt-ctn-to-la-m-1795594219-6465-1795595889.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=b2tkxb7QCEJxyEzxyeaWwg",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-25T15:40:58+07:00",
-"found": "2026-11-25T16:46:44+07:00"
-},
-{
-"id": "3dd4bccd8dcb",
-"title": "Người phụ nữ lừa bạn hơn 5 tỷ đồng tiền đáo hạn ngân hàng",
-"link": "https://vnexpress.net/nguoi-phu-nu-lua-ban-hon-5-ty-dong-tien-dao-han-ngan-hang-5148792.html",
-"summary": "Lê Thị Thu Huyền, 39 tuổi, bị cáo buộc nhiều lần vay tiền bạn với lý do đáo hạn ngân hàng, sau đó chiếm đoạt hơn 5,2 tỷ đồng để trả nợ cá nhân.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/1795579935633-1795595936-7886-1795596021.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hZklrlvQnXBd-9UkwxFkrg",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-25T15:40:21+07:00",
-"found": "2026-11-25T16:31:33+07:00"
-},
-{
-"id": "4b71fc377c97",
-"title": "TH tiên phong trung hòa carbon theo chuẩn ISO 14068 ‘khó và nghiêm ngặt hàng đầu thế giới’",
-"link": "https://thanhnien.vn/th-tien-phong-trung-hoa-carbon-theo-chuan-iso-14068-kho-va-nghiem-ngat-hang-dau-the-gioi-185261125100645191.htm",
-"summary": "ISO 14068-1:2023 là một trong những tiêu chuẩn ISO khó và nghiêm ngặt nhất thế giới hiện nay. TH là khách hàng đầu tiên của Control Union trên toàn cầu xác minh trung hòa carbon theo tiêu chuẩn này.Ông Wouter Melis van Ravenhorst, Giám đốc điều hành Control Union tại Việt Nam…",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/img7-1795595501473387981934-0-0-1200-1920-crop-1795595504837585495507.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-25T15:39:00+07:00",
-"found": "2026-11-25T15:52:04+07:00"
-},
-{
-"id": "3d5babc0ac6b",
-"title": "Tín dụng đón nguồn cung nhà ở xã hội mới",
-"link": "https://cafef.vn/tin-dung-don-nguon-cung-nha-o-xa-hoi-moi-18826112514313184.chn",
-"summary": "Khoảng 18.000 căn nhà ở xã hội tại TP. Hồ Chí Minh dự kiến hoàn thành các điều kiện về tiến độ xây dựng để được xem xét đưa ra thị trường trong năm nay. Cùng với việc đẩy mạnh cho vay, các ngân hàng đang chuẩn bị nguồn vốn đáp ứng nhu cầu mua nhà của người dân.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795591857377-17955918577481251528920.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T15:38:00+07:00",
 "found": "2026-11-25T15:52:04+07:00"
 }
 ]
