@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T03:13:34+07:00",
-"new": 1,
+"updated": "2026-11-28T03:23:08+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 42
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,18 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "a87e2507187f",
+"title": "xe",
+"link": "https://cafef.vn/honda-tang-doanh-so-xe-may-dien-481-selex-motors-tang-nhanh-gap-13-lan-dat-bike-cu-3-xe-may-ban-ra-o-viet-nam-co-1-xe-may-dien-188261126214920611.chn",
+"summary": "Cứ 3 xe máy bán ra ở Việt Nam có 1 xe máy điện (CafeF)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR919CIxVarNMY10hgtDcI5VJl9vQ1QdND97jfE6dVo2RUXHPSbX6dJzq1Qf5M",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T03:00:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-28T03:23:08+07:00"
+},
+{
 "id": "e417ab5286f7",
 "title": "werder bremen đấu với gladbach",
 "link": "https://bongdaplus.vn/bundesliga/nhan-dinh-bong-da-bremen-vs-m-gladbach-02h30-ngay-28-11-chu-nha-nam-loi-the-5299452611.html",
@@ -245,7 +257,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T02:00:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-28T02:28:02+07:00"
 },
 {
@@ -4459,6 +4471,17 @@
 "found": "2026-11-27T15:34:17+07:00"
 },
 {
+"id": "523e383572f0",
+"title": "Tín dụng chính sách ở Cao Bằng: Thiết thực, hiệu quả",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS1pKX2lfRmRFdHZKRlVoTHdSbjJuZXB2a1hwLVFrV2lZR3N1MmlGSUYyTkYydVduaUdFYmdxUks1QUttcTMzRGl2dWNzQ2lxbndDMzFERWJLbWxyU2JfakRJb21JRlRqU3Jqc1dkaFZUOVhfa1lyaWxqN0tRbTJ3S2JCa0xXWlBoOG5v?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T15:14:00+07:00",
+"found": "2026-11-28T03:23:08+07:00"
+},
+{
 "id": "80397d9824c8",
 "title": "Người dân Lâm Đồng hiến đất mở đường, chung sức xây dựng nông thôn mới",
 "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOVoydTlJZGl3SWo5RTNTSjV6Zy1na1lLdEQ0RnNER0QyVGhHci1VNjJPdkl3a0paNlFWRXgwc3NnTkdQUGl2VjlPUFZnWEI0dThUcmhpbVVwR1ZxUEt2cHVfdUEzTGtsU0hEMmJMOEpBSWVGV25vQzZrS252MkVWMmJfQXdSeWp4UVYyOG04MmduM201YjBfbGhNWVRWRmdaZzhYTw?oc=5",
@@ -5693,6 +5716,17 @@
 "found": "2026-11-27T13:35:55+07:00"
 },
 {
+"id": "fdfcb29387be",
+"title": "Hà Nội dự kiến huy động hơn 121.000 tỷ đồng trái phiếu đầu tư 5 tuyến metro",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVk9GY3NQc1ZpRENYYWptVzRibG1BeHpUZGtRbGhqVTR0SUd4N1U1U1lZaExHRHB5N2Mxb2VldXFQMjhsUjdwNDlDVF9hR3lmYW8xcGhPVlpoN29fVkpCNC1qZWp0NWxVX2NFaXRnUWRSZXFjTzRfazNHcUJXa2lxTjE2dlBYVUZqNTY4MlIza21mVjdBS0d0Nmk0WkluYzFZMEVMdG0xQW5Mci15?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T13:14:00+07:00",
+"found": "2026-11-28T03:23:08+07:00"
+},
+{
 "id": "054f008c7446",
 "title": "Chứng khoán phải thành kênh huy động vốn trung, dài hạn chủ yếu của nền kinh tế",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVmsxcnJyejBUVkpRRDh5OFJ0MkJJQ29aZlczRDVHemlaX0Q1S2ZvZ3l1RFRBY1JlX1Y2cDV2S3ZuUHZZb2g5bGdNSmp2TkZqSEJuVGVfVHVncWRWZXBRMlJWMkltejNmcjU5NFNmckhjWnpCQTFWNHBRUmhJR3FUNHNhU1VwZHM3aldPc09senQxM1FLZTJQcE1JU2M5NlJwZjBmX0g1SDdjalpob1kwSg?oc=5",
@@ -6712,6 +6746,17 @@
 "found": "2026-11-27T11:53:54+07:00"
 },
 {
+"id": "588304901a57",
+"title": "Thủ tướng: Thuế áp dụng sẽ thấp hơn nhiều so với mức tối đa dự kiến Mỹ công bố",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHdtYUFkUHdhdVVlT0x3S3VKZm9yU240YlFJZnA4ZnI5UC1OaW1SdzBCUGFiWVA3NGl6dWtYQVVfLUZ5U1I4ZzNQZ1hobVRPY1ZsOEZ5OVhac184SURrSXkzWkFuM0xSdWlWNVJ2WjJBeUpsenNkNzhpYzRuUVpYS2x0T2hXbXRYb0h1WmZ6YTZTZTdmZ29WY19ZdW1hZHFZZDZnWGpUNjVoME00SUM4?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T11:34:00+07:00",
+"found": "2026-11-28T03:23:08+07:00"
+},
+{
 "id": "20e7b4702e25",
 "title": "Chủ tịch Tổ chức Quốc tế các Ủy ban Chứng khoán chúc mừng Việt Nam",
 "link": "https://cafef.vn/chu-tich-to-chuc-quoc-te-cac-uy-ban-chung-khoan-chuc-mung-viet-nam-188261127112850904.chn",
@@ -6743,6 +6788,17 @@
 "cat": "xh",
 "published": "2026-11-27T11:32:00+07:00",
 "found": "2026-11-27T11:53:54+07:00"
+},
+{
+"id": "bc054dc1f290",
+"title": "Sáng 27/11: Giá bạc trong nước và thế giới đồng loạt phục hồi",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjZDRXdxZmRQVnkxclFaNzJqaDYwMmZ5Z1ExTmtPdkhPXzdqeC1hS3F5VC1JOHFhU09SMmZhWmszMFZOTGp3XzBYSm9LcnJwaUgtVURmUF94YmhyVEZ6LVVyZEFBc0YxYUpxSW9EazZaaGh6VE5VUzJXWEZXazBFWm9UdTY1ODk1ZGxEeHowaFZ6OHRFZHBDdQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T11:32:00+07:00",
+"found": "2026-11-28T03:23:08+07:00"
 },
 {
 "id": "fa5c38868b3b",
@@ -10845,18 +10901,6 @@
 "link": "https://bongdaplus.vn/europa-conference-league/nhan-dinh-bong-da-borac-banja-luka-vs-atalanta-03h00-ngay-27-11-atalanta-vuot-kho-5299192611.html",
 "summary": "Nhận định bóng đá Borac Banja Luka vs Atalanta, 03h00 ngày 27/11: Tin vào Atalanta (Tạp chí Bóng đá)",
 "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4sgzYimzOJ_IHs-lHeVAhujZYI2iG1nZsbbRxT-ZEBGUcw0RbhjacTNNxt-M",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-27T03:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-27T04:03:38+07:00"
-},
-{
-"id": "4754e34e0e68",
-"title": "xe",
-"link": "https://vnexpress.net/xe-bon-lat-thieu-rui-loat-phuong-tien-31-nguoi-chet-5148949.html",
-"summary": "Xe bồn lật thiêu rụi loạt phương tiện, 31 người chết (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrci4v-xz5TAmjtub4YHoUoJhGGH2TrxUmABwc5w7Yh9LFOruqdS2yJKcmk4Y",
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T03:40:00+07:00",
@@ -27977,51 +28021,6 @@
 "cat": "tc",
 "published": "2026-11-25T14:00:20+07:00",
 "found": "2026-11-25T15:06:26+07:00"
-},
-{
-"id": "c3ea344e382e",
-"title": "AAV Group điều chỉnh phương án sử dụng 366 tỷ đồng vốn huy động, dồn tiền vào các dự án bất động sản",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3h1RkV2bTVjVk56U1gxZVl6NTQ2TjlDNHJSMjF6cFRmX3BScDhHREhOVzRxa2t2TXFxakJzcXREOTFRRGM1ZHdfSFVpQ3RFUHZhdl83aWxnX1BrZFRqVWI0ckdGa0lfdXVmOEpFSnd0VW9WQWk1aXNPUVAtVXNhTVU4NmhyRDlRUTYyNU00Um9obkZiWkFHUzg4MFE3SEdjd2xHaFB4amtoTWtpV2ZTQXo3NHNkanhCeFFzM0JpYXVHWjhWZEFIZGszZ1A?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T14:00:00+07:00",
-"found": "2026-11-25T14:05:38+07:00"
-},
-{
-"id": "f7979ffde2ab",
-"title": "melbourne victory đấu với thể công",
-"link": "https://vietnamnet.vn/truc-tiep-bong-da-melbourne-vs-the-cong-viettel-14h45-ngay-25-11-2578347.html",
-"summary": "Trực tiếp bóng đá Melbourne vs Thể Công Viettel: Đi tìm chiến thắng đầu tiên (Báo VietNamNet)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShs4bucJO9s16MrDCkTjg-eUtqExxHwtvJDiV5owWMWQD8gkTw61Q2sS-t_Wc",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T14:00:00+07:00",
-"traffic": "10000+",
-"found": "2026-11-25T15:06:26+07:00"
-},
-{
-"id": "4c3e964f607a",
-"title": "FWD đưa bảo hiểm đến gần cuộc sống hơn",
-"link": "https://tuoitre.vn/fwd-dua-bao-hiem-den-gan-cuoc-song-hon-100261123195529699.htm",
-"summary": "Thay vì chỉ nhìn bảo hiểm như giải pháp ứng phó với rủi ro trong tương lai, FWD Việt Nam chọn bắt đầu từ hiện tại, giúp khách hàng hiểu rõ, dễ tiếp cận và chủ động hơn với kế hoạch bảo vệ bản thân. Chị Trần Thị Xuân Thơ, Giám đốc Cấp cao Tiếp thị, Thương hiệu và Truyền thông FWD…",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/1610-1795440956910479665497.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-25T14:00:00+07:00",
-"found": "2026-11-25T15:21:37+07:00"
-},
-{
-"id": "2649c0a0f66d",
-"title": "Chứng khoán Bảo Minh tất toán một lô trái phiếu trước hạn",
-"link": "https://cafef.vn/chung-khoan-bao-minh-tat-toan-mot-lo-trai-phieu-truoc-han-188261125135110738.chn",
-"summary": "Chứng khoán Bảo Minh đã tiến hành mua lại toàn bộ lô trái phiếu mã BMS12501, qua đó tất toán xong lô này chỉ sau 1 năm phát hành.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795589464923-1795589465296501869206.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-25T13:59:00+07:00",
-"found": "2026-11-25T14:05:38+07:00"
 }
 ]
 }
