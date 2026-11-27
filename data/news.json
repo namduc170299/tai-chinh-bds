@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T18:46:10+07:00",
-"new": 8,
+"updated": "2026-11-27T19:01:21+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 43
+"count": 44
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "69192e972967",
+"title": "Bắc Ninh siết tiến độ giải ngân vốn đầu tư công chặng nước rút cuối năm 2026",
+"link": "https://cafef.vn/bac-ninh-siet-tien-do-giai-ngan-von-dau-tu-cong-chang-nuoc-rut-cuoi-nam-2026-188261127162752924.chn",
+"summary": "Chủ tịch UBND thành phố Bắc Ninh yêu cầu các đơn vị khẩn trương giải ngân vốn đầu tư công, không để chậm trễ do nguyên nhân chủ quan trong năm 2026.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795771621667-1795771625395607305173.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T18:57:00+07:00",
+"found": "2026-11-27T19:01:21+07:00"
+},
+{
 "id": "6cf635ec4fb3",
 "title": "Đầu tháng 12, báo cáo Bộ Chính trị phương án biên chế giai đoạn 2027 - 2031",
 "link": "https://thanhnien.vn/dau-thang-12-bao-cao-bo-chinh-tri-phuong-an-bien-che-giai-doan-2027-2031-185261127175846377.htm",
@@ -222,6 +233,39 @@
 "cat": "xh",
 "published": "2026-11-27T18:45:00+07:00",
 "found": "2026-11-27T18:46:10+07:00"
+},
+{
+"id": "93b7d2ac184d",
+"title": "Bất động sản thương mại hưởng lợi từ sự hình thành các cực TOD mới",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXlwUjBBUWFXUGRWWEo4X2dYblhCWUlHWXhXSlpMN1o4aW9vTXctOHBGM1p4RHZPZmdZYWl1Uy1scWp5U05WRFhCRENEX0l4VVpDYkR6UHM4aVByajRnY0gyWmxzdXJCQXBDSUtfM1RXN0FCelNOZVFSWmc1ci1RaXl6eVpDWXpuR3JTUklPa2d3alc2bkFzZy1UUmI1Z1NR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-27T18:44:00+07:00",
+"found": "2026-11-27T19:01:21+07:00"
+},
+{
+"id": "5072cb96da1b",
+"title": "Hổ 140 kg chết ở Thanh Hóa được xử lý ra sao?",
+"link": "https://kenh14.vn/ho-140-kg-chet-o-thanh-hoa-duoc-xu-ly-ra-sao-215261127165649522.chn",
+"summary": "Sau khi hoàn tất các thủ tục xác lập quyền sở hữu toàn dân, xác con hổ nặng 140 kg chết tại trang trại nuôi hổ ở Thanh Hóa sẽ được bàn giao cho Bảo tàng Thiên nhiên Việt Nam phục vụ nghiên cứu.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795773276861-1795773278277322024179.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T18:43:00+07:00",
+"found": "2026-11-27T19:01:21+07:00"
+},
+{
+"id": "c637f179aed6",
+"title": "Phái sinh carbon: Dư địa mới cho thị trường tài chính Việt Nam",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVF2MFN0YW5IT3NQVFRkZmZpckY5eTFUenByTDJ2NDhJVmp3cF91c1FjdklBVUhNTjUyYVdsei1tYUxuWFZwUDU0dHc3cVVaUmhRMkowX0VUSFFtUm5ybi1hMzdXdU5WeUpiRTZaMGE4R0VKVUxUblJzVmV2UWs1cmMxVmgwQmZRQ29lLTVfeUpWdjAzRGlGWEhn?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T18:36:00+07:00",
+"found": "2026-11-27T19:01:21+07:00"
 },
 {
 "id": "863b7254d2fd",
@@ -27975,50 +28019,6 @@
 "published": "2026-11-25T10:40:00+07:00",
 "traffic": "500+",
 "found": "2026-11-25T11:25:07+07:00"
-},
-{
-"id": "21d7e265ad15",
-"title": "Vista Nam An Khánh vận hành bãi đỗ xe tích hợp trạm sạc",
-"link": "https://dantri.com.vn/bat-dong-san/vista-nam-an-khanh-van-hanh-bai-do-xe-tich-hop-tram-sac-20261125103121925.htm",
-"summary": "(Dân trí) - Với mục tiêu phát triển dịch vụ, tiện ích chất lượng 5 sao cho cư dân, SJ Group tiếp tục hoàn thiện các hạng mục tại Vista Nam An Khánh, từ bãi đỗ xe kết hợp trạm sạc xe điện đến quán cà phê, sân pickleball và các không gian vận động, thư giãn.",
-"image": "https://cdnphoto.dantri.com.vn/3TzhBATsTnJ0cjVz4qVyz82YcDM=/2026/11/25/1795231357539620875651609352474g5808009048072062493e4f9e360ecacf218bf193284e15ed3ba-cropped-1795577252173.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-25T10:39:00+07:00",
-"found": "2026-11-25T11:09:57+07:00"
-},
-{
-"id": "28929f097320",
-"title": "Bãi bỏ nhiều quy định về xếp lương, ngạch công chức, thôn, tổ dân phố",
-"link": "https://thanhnien.vn/bai-bo-nhieu-quy-dinh-ve-xep-luong-ngach-cong-chuc-thon-to-dan-pho-18526112510213799.htm",
-"summary": "Bộ Nội vụ bãi bỏ 33 văn bản quy phạm pháp luật, trong đó có các quy định về cơ cấu ngạch công chức, tiêu chuẩn và xếp lương công chức hành chính, văn thư; tổ chức và hoạt động của thôn, tổ dân phố.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/edit-cong-chuc-17955767095421597364982-0-0-1280-2048-crop-17955767174291809018865.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T10:37:00+07:00",
-"found": "2026-11-25T10:39:37+07:00"
-},
-{
-"id": "5acef3dccb13",
-"title": "TP.HCM sắp khai trương khu công nghiệp đường sắt hiện đại đầu tiên của cả nước",
-"link": "https://thanhnien.vn/tphcm-sap-khai-truong-khu-cong-nghiep-duong-sat-hien-dai-dau-tien-cua-ca-nuoc-185261125103410113.htm",
-"summary": "Lãnh đạo Ban Quản lý Đường sắt đô thị TP.HCM (MAUR) vừa có buổi thị sát công trường tuyến metro số 2 (Bến Thành - Tham Lương) và khảo sát thực tế Tổ hợp Khu công nghiệp đường sắt, cơ khí đa dụng quy mô 320 ha tại phường Bình Cơ.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/thaco1203-17650866811811526098093-17955776028961041086384-0-0-400-640-crop-1795577611255585438874.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-25T10:36:00+07:00",
-"found": "2026-11-25T10:39:37+07:00"
-},
-{
-"id": "d1e0558c8892",
-"title": "Phát hiện người phụ nữ quốc tịch nước ngoài vận chuyển 3 khẩu súng cùng 17 viên đạn",
-"link": "https://tuoitre.vn/phat-hien-nguoi-phu-nu-quoc-tich-nuoc-ngoai-van-chuyen-3-khau-sung-cung-17-vien-dan-100261125102508992.htm",
-"summary": "Quá trình kiểm soát tại Cửa khẩu quốc tế Cầu Treo, lực lượng chức năng phát hiện trong hành lý của một người phụ nữ mang quốc tịch Úc có 3 khẩu súng ngắn và 17 viên đạn.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/0354366061762852625023b4f1b375f4f900cfa4bed6320a905f-1795576690174216751387-0-201-1440-2505-crop-1795576830008980117748-133-329-1177-2000-crop-17955780853351484031165.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T10:36:00+07:00",
-"found": "2026-11-25T11:44:17+07:00"
 }
 ]
 }
