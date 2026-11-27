@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T12:09:06+07:00",
-"new": 20,
+"updated": "2026-11-27T12:24:28+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 47
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "76570b5dc8e1",
+"title": "Thủ tướng: Việt Nam và Mỹ đã cơ bản kết thúc đàm phán thuế đối ứng",
+"link": "https://vietnamnet.vn/thu-tuong-viet-nam-va-my-da-co-ban-ket-thuc-dam-phan-thue-doi-ung-2579326.html",
+"summary": "Thủ tướng Lê Minh Hưng cho biết Việt Nam và Mỹ đã cơ bản kết thúc đàm phán hiệp định thương mại đối ứng, đang hoàn tất các vấn đề kỹ thuật để ký kết. Mức thuế áp dụng sẽ thấp hơn nhiều so với mức tối đa Mỹ vừa công bố.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/thu-tuong-viet-nam-va-my-da-co-ban-ket-thuc-dam-phan-thue-doi-ung-1122.png?width=0&s=swyIga1EhTw1NWE7gChXwg",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-27T12:20:06+07:00",
+"found": "2026-11-27T12:24:28+07:00"
+},
+{
+"id": "1f8ce9d86908",
+"title": "Ông Alexandre Charles Emmanuel Macaire thôi nhiệm vị trí Phó Tổng Giám đốc Techcombank",
+"link": "https://cafef.vn/ong-alexandre-charles-emmanuel-macaire-thoi-nhiem-vi-tri-pho-tong-giam-doc-techcombank-188261126144405778.chn",
+"summary": "Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank) vừa thông báo về việc điều chuyển nhân sự cấp cao.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/tcb0146-2-17956785290491186160001-1795678810354-1795678810811818587046-237-0-1487-2000-crop-1795678964255232632011.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T12:20:00+07:00",
+"found": "2026-11-26T15:04:20+07:00"
+},
+{
+"id": "00e5edbb4215",
+"title": "Chứng khoán Kafi chính thức chào bán 125 triệu cổ phiếu ra công chúng, dự kiến huy động 1.875 tỷ đồng",
+"link": "https://vneconomy.vn/chung-khoan-kafi-chinh-thuc-chao-ban-125-trieu-co-phieu-ra-cong-chung-du-kien-huy-dong-1875-ty-dong.htm",
+"summary": "Công ty Cổ phần Chứng khoán Kafi (UPCoM: KAI) chính thức triển khai đợt chào bán 125 triệu cổ phiếu ra công chúng với giá 15.000 đồng/cổ phiếu, dự kiến huy động 1.875 tỷ đồng.",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/27/f4f28d3ba1774dc5805b674b10bd8dc4-139151.jpg?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-27T12:15:22+07:00",
+"found": "2026-11-27T12:24:28+07:00"
+},
+{
+"id": "e83161224bc2",
+"title": "Con trai và cháu ruột cùng dính lao lý với Tuấn \"thần đèn",
+"link": "https://kenh14.vn/con-trai-va-chau-ruot-cung-dinh-lao-ly-voi-tuan-than-den-215261127121602009.chn",
+"summary": "Tuấn \"thần đèn\" đưa con trai và cháu ruột vào những vị trí chủ chốt, quản lý, điều hành hoạt động khai thác, tiêu thụ khoáng sản, cả 3 đều bị truy tố 3 tội danh.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795756529243-1795756529586475115436.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T12:08:00+07:00",
+"found": "2026-11-27T12:24:28+07:00"
+},
+{
 "id": "c25576fffd17",
 "title": "Lâm Đồng diễn tập thực chiến an ninh mạng",
 "link": "https://thanhnien.vn/lam-dong-dien-tap-thuc-chien-an-ninh-mang-185261127113956021.htm",
@@ -233,6 +277,17 @@
 "cat": "bds",
 "published": "2026-11-27T12:05:00+07:00",
 "found": "2026-11-27T12:09:06+07:00"
+},
+{
+"id": "13e8f9b2c574",
+"title": "Doanh nghiệp Việt Nam không thiếu đơn hàng nhưng cần có gì để Go Global?",
+"link": "https://dantri.com.vn/kinh-doanh/doanh-nghiep-viet-nam-khong-thieu-don-hang-nhung-can-co-gi-de-go-global-20261127000941073.htm",
+"summary": "(Dân trí) - Chuyên gia nêu doanh nghiệp Việt Nam không thiếu đơn hàng nhưng lại thiếu những bên đủ chuẩn để nhận đơn. Doanh nghiệp cần chuyển đổi tư duy \"bán cái mình có\" sang \"giải quyết bài toán\" để Go Global.",
+"image": "https://cdnphoto.dantri.com.vn/lrcPMtz6NL3rA6lbalQYpSjMf4s=/2026/11/27/thumb-1-1795712794513.png",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-27T12:03:18+07:00",
+"found": "2026-11-27T12:24:28+07:00"
 },
 {
 "id": "0c48f7e291b6",
@@ -288,6 +343,17 @@
 "cat": "tc",
 "published": "2026-11-27T12:01:34+07:00",
 "found": "2026-11-27T12:09:06+07:00"
+},
+{
+"id": "b9c181c2e737",
+"title": "Thủ tướng: Chứng khoán phải là kênh huy động vốn trung, dài hạn",
+"link": "https://vnexpress.net/thu-tuong-chung-khoan-phai-la-kenh-huy-dong-von-trung-dai-han-5149538.html",
+"summary": "Thủ tướng Lê Minh Hưng yêu cầu phát triển chứng khoán trở thành kênh huy động vốn trung, dài hạn chủ yếu của nền kinh tế, từng bước giảm sự phụ thuộc vào tín dụng ngân hàng.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/27/ttlmh-1795755164-8036-1795755687.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=gh1ZIKS1kRA_n_PPibvOpA",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-27T12:01:27+07:00",
+"found": "2026-11-27T12:24:28+07:00"
 },
 {
 "id": "d739708298e6",
@@ -588,6 +654,17 @@
 "published": "2026-11-27T11:30:00+07:00",
 "traffic": "100+",
 "found": "2026-11-27T11:53:54+07:00"
+},
+{
+"id": "bfc8bf112111",
+"title": "Techcombank thay đổi nhân sự cấp cao",
+"link": "https://vneconomy.vn/techcombank-thay-doi-nhan-su-cap-cao.htm",
+"summary": "Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank) vừa thông báo về việc điều chuyển nhân sự cấp cao. Theo đó, ông Alexandre Charles Emmanuel Macaire - Giám đốc Tài chính Tập đoàn kiêm Phó tổng giám đốc, sẽ thôi đảm nhiệm vị trí Phó Tổng giám đốc để nhận nhiệm vụ mới.",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/26/733f7a15655b40e1985042b26b335ffc-138927.jpg?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-27T11:30:00+07:00",
+"found": "2026-11-26T15:04:20+07:00"
 },
 {
 "id": "26b3a41f2d2a",
@@ -2262,6 +2339,17 @@
 "cat": "xh",
 "published": "2026-11-27T09:30:11+07:00",
 "found": "2026-11-27T09:45:03+07:00"
+},
+{
+"id": "90a5b264f483",
+"title": "Đề xuất đầu tư tập trung vào 3-5 đại học tinh hoa",
+"link": "https://vnexpress.net/de-xuat-dau-tu-tap-trung-vao-3-5-dai-hoc-tinh-hoa-5149435.html",
+"summary": "Việt Nam cần tập trung nguồn lực cho 3-5 đại học tinh hoa để tạo môi trường nghiên cứu, thu hút nhân tài và phát triển đội ngũ chuyên gia làm chủ công nghệ chiến lược.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/1795752188247b49e9c3fe48e0e431-8335-8771-1795755672.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UigyurKSajqx1TNDz8cfDA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-27T09:30:11+07:00",
+"found": "2026-11-27T12:24:28+07:00"
 },
 {
 "id": "cf582d7a726f",
@@ -7878,17 +7966,6 @@
 "found": "2026-11-26T17:21:36+07:00"
 },
 {
-"id": "1f8ce9d86908",
-"title": "Ông Alexandre Charles Emmanuel Macaire thôi nhiệm vị trí Phó Tổng Giám đốc Techcombank",
-"link": "https://cafef.vn/ong-alexandre-charles-emmanuel-macaire-thoi-nhiem-vi-tri-pho-tong-giam-doc-techcombank-188261126144405778.chn",
-"summary": "Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank) vừa thông báo về việc điều chuyển nhân sự cấp cao.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/tcb0146-2-17956785290491186160001-1795678810354-1795678810811818587046-237-0-1487-2000-crop-1795678964255232632011.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-26T17:08:00+07:00",
-"found": "2026-11-26T15:04:20+07:00"
-},
-{
 "id": "2b742ed8e4df",
 "title": "Bức xúc vì bị lập biên bản nồng độ cồn, người đàn ông đăng bài xúc phạm CSGT trên Facebook",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0tvbEtoUFZrTFFqSXlPMmF5NkxyY0FsaFJXZ0RENHZuazdzZWNjM1huN3lDU3p6bk91ejV4NkhYRXNWb2hPalZmS054RnNvRkwxN2RhNU9RSkdGZUNPRFFSR1hQd0pMa1pzbzFaeHJGUmZQc1F5WVpsa1RKNzhyOEdSc0JUSUxqLUozbjBYNThvZVhzbTYzUW5aazBmMmJ3NVc4bVpROW93V01ITWZHeHRBejkwdnRLeDNCejVHVkpEd2gxYXJESk93?oc=5",
@@ -9867,17 +9944,6 @@
 "source": "Báo Mới",
 "cat": "tc",
 "published": "2026-11-26T14:36:00+07:00",
-"found": "2026-11-26T15:04:20+07:00"
-},
-{
-"id": "bfc8bf112111",
-"title": "Techcombank thay đổi nhân sự cấp cao",
-"link": "https://vneconomy.vn/techcombank-thay-doi-nhan-su-cap-cao.htm",
-"summary": "Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank) vừa thông báo về việc điều chuyển nhân sự cấp cao. Theo đó, ông Alexandre Charles Emmanuel Macaire - Giám đốc Tài chính Tập đoàn kiêm Phó tổng giám đốc, sẽ thôi đảm nhiệm vị trí Phó Tổng giám đốc để nhận nhiệm vụ mới.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/26/733f7a15655b40e1985042b26b335ffc-138927.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-26T14:35:13+07:00",
 "found": "2026-11-26T15:04:20+07:00"
 },
 {
@@ -28012,75 +28078,6 @@
 "cat": "xh",
 "published": "2026-11-24T22:30:00+07:00",
 "found": "2026-11-24T22:41:32+07:00"
-},
-{
-"id": "06828c3a9df2",
-"title": "james marsden",
-"link": "https://sharpmagazine.com/2026/11/23/james-marsden-interview-2026-avengers/",
-"summary": "James Marsden Makes His Return to Marvel (Sharp Magazine)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUqjJfMzA5eszashAGQ_bxgCjx2IVZa2Ribf9JBZRmjoirDpOXh-nLGQsjptU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T22:30:00+07:00",
-"traffic": "100+",
-"found": "2026-11-24T22:56:59+07:00"
-},
-{
-"id": "a67d9d735303",
-"title": "Công ty 6.000 tỷ đồng do FLC sáng lập để thuê mua máy bay bất ngờ đổi tên, mở rộng sang lĩnh vực năng lượng",
-"link": "https://kenh14.vn/cong-ty-6000-ty-dong-do-flc-sang-lap-de-thue-mua-may-bay-bat-ngo-doi-ten-mo-rong-sang-linh-vuc-nang-luong-215261124221656573.chn",
-"summary": "Từng được định hướng đầu tư và cho thuê tàu bay phục vụ kế hoạch mở rộng đội bay của Bamboo Airways, doanh nghiệp vốn điều lệ 6.000 tỷ đồng vừa đổi tên, chuyển trụ sở và bổ sung hàng loạt ngành nghề liên quan đến năng lượng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795533368162-17955333684921520361804.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-24T22:25:00+07:00",
-"found": "2026-11-24T22:41:32+07:00"
-},
-{
-"id": "e9989c60f629",
-"title": "Thêm một nạn nhân tử vong trong vụ nổ khí gas ở Hà Nội",
-"link": "https://vnexpress.net/them-mot-nan-nhan-tu-vong-trong-vu-no-khi-gas-o-ha-noi-5148493.html",
-"summary": "Nữ bệnh nhân 24 tuổi, bị đa chấn thương trong vụ nổ khí gas trên phố Nguyễn Văn Tuyết, đã tử vong dù được các bác sĩ nỗ lực cứu chữa.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/nan-nhan-1795533765-8319-1795533802.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=s81zn16PIUqiErFD3hD8Nw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-24T22:24:33+07:00",
-"found": "2026-11-24T22:56:59+07:00"
-},
-{
-"id": "e1389f32daa4",
-"title": "Thêm nạn nhân tử vong trong vụ nổ khí gas ở Hà Nội",
-"link": "https://vnexpress.net/them-nan-nhan-tu-vong-trong-vu-no-khi-gas-o-ha-noi-5148493.html",
-"summary": "Nữ bệnh nhân 24 tuổi, bị đa chấn thương trong vụ nổ khí gas trên phố Nguyễn Văn Tuyết, tử vong tối 24/11, nâng tổng số người tử nạn lên 7.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/nan-nhan-1795533765-8319-1795533802.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=s81zn16PIUqiErFD3hD8Nw",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-24T22:24:33+07:00",
-"found": "2026-11-24T23:12:27+07:00"
-},
-{
-"id": "1ae485609f00",
-"title": "love in disguise",
-"link": "https://www.soompi.com/article/1890031wpp/love-in-disguise-sees-slight-ratings-boost-ahead-of-finale",
-"summary": "\"Love In Disguise\" Sees Slight Ratings Boost Ahead Of Finale (Soompi)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQZmx2fBl2hmWaBRrDjQxH-JwDEErtt4dPBwE7lz7NvBnECKVsSEKsp3ktN8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T22:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-24T22:41:32+07:00"
-},
-{
-"id": "f6190a44744d",
-"title": "thứ hạng của đội tuyển bóng đá u-17 quốc gia nhật bản gặp đội tuyển bóng đá u-17 quốc gia serbia",
-"link": "https://laodong.vn/ldt/an-choi/lich-thi-dau-u17-world-cup-2026-hom-nay-2411-1805556.ldo",
-"summary": "Lịch thi đấu U17 World Cup 2026 hôm nay 24.11 (Laodong.vn)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4IC13zpmdXInoSQTbGPbUjJ1ENNtk8dpYm9jvZd5F2-Ack1MIakLMntRo7wY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T22:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-24T23:12:27+07:00"
 }
 ]
 }
