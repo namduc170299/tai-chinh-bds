@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T14:41:20+07:00",
-"new": 21,
+"updated": "2026-11-27T15:18:48+07:00",
+"new": 35,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 46
+"count": 47
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,238 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "4a10b03f73a7",
+"title": "Ngành ngân hàng xuất hiện nhiều gương mặt lãnh đạo mới là nữ",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDRfaWhvRTlla21ubWlRNlFTajhodi1mWlhNaGY1YTU1eG42Ykg5Z2ZKWDlSTmw2YmFHVnFMX3VnTlF0ZjM3dTZyMjh4VzB5NW9ZRHlFUFdLQ3oybU5iMjF4Q3ZzU2lWa2NmN1NEN2ZuX3V0R29pVUUxU0lkbGpyQVdFbWI2Rkt0Z0txQ2hTaEVvTG5Sa1AzSw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T15:12:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "3638e6e14d42",
+"title": "[Ảnh] Hà Nội: Duyệt phương án xử lý 3 tòa chung cư sai phạm của Mường Thanh",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEVPeDYwQTJ0NG02Sng0a1o0SEpZeC1SVmxaaGg3LUVfT1lkdm9iZzIxa01ncnJtdDdHREtMOEI0cVZ0UHQwYU1TUEdtRTljNEdpOW5reThMYlZjNVA4dzQzd3laQTFmLWhCRE1lMmtSdi1wNnR2Q0l6QVhTNmgyaXdudUp0cW40RGVJcjBBb3VjYlhZbVpfMlNCZnJ0Nmo4Q09hT0phUzA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-27T15:11:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "868b6ec3bdaf",
+"title": "Vàng thế giới phục hồi mạnh, vàng miếng SJC tăng 1,5 triệu đồng trong vài giờ",
+"link": "https://tuoitre.vn/vang-the-gioi-phuc-hoi-manh-vang-mieng-sjc-tang-15-trieu-dong-trong-vai-gio-100261127144507483.htm",
+"summary": "Chiều 27-11, giá vàng thế giới tăng gần 91 USD/ounce trong 24 giờ, tiến sát mốc 3.660 USD/ounce. Trong nước, giá bán vàng miếng SJC trở lại mức 136 triệu đồng/lượng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/1791939436984214536239946960201821453623994696020182881532204e806b11d535dd331817dbc-1795764865735561463043-180-395-1339-2250-crop-1795767100375874336197.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-27T15:10:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "b7cc5f54aba2",
+"title": "Thủ tướng Lê Minh Hưng: Ba định hướng lớn phát triển thị trường chứng khoán",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0xXQ1JPY1FaTy1QWVRKRnFwS2NLeVVlLWRxbEVsU05WYzMyT2FZTnFpLTVSY243cV9QeU03bFFzVHQyb2paVDdrTWFFelhycXNuZ0s3N05fbnZJS0VkaTUxR3pVS0RZOFVVdzd4TkZnTEppa0FrVVlzTXRQeWptSzdhWW1VV0JXZ193RWg0eXdoN3V6NWwzNjc1QVBoaW85SzlyeTVycVRvTEE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T15:08:47+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "e5688e14cb74",
+"title": "Hợp đồng mua bán thận 1,35 tỷ đồng, đôi vợ chồng hờ lĩnh án tù",
+"link": "https://kenh14.vn/hop-dong-mua-ban-than-135-ty-dong-doi-vo-chong-ho-linh-an-tu-215261127144039139.chn",
+"summary": "Hai bị cáo bị xét xử tại Huế vì môi giới mua bán thận, thỏa thuận chi phí 1,35 tỷ đồng và đã nhận 450 triệu đồng từ người chồng có vợ cần ghép thận.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795765218029-1795765218936530428222.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T15:08:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "61e01b07c96d",
+"title": "Techcombank thay đổi nhân sự cấp cao",
+"link": "https://tuoitre.vn/techcombank-thay-doi-nhan-su-cap-cao-100261126172018633.htm",
+"summary": "Techcombank vừa thông báo về việc điều chuyển nhân sự cấp cao. Theo đó, ông Alexandre Charles Emmanuel Macaire - Giám đốc Tài chính Tập đoàn kiêm Phó tổng giám đốc sẽ thôi đảm nhiệm vị trí Phó Tổng Giám đốc để nhận nhiệm vụ mới.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/anh-man-hinh-2026-11-26-luc-17-09-09-17956877614011389589143-0-129-942-1636-crop-17956877659791530988178.png",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-27T15:00:00+07:00",
+"found": "2026-11-26T19:26:22+07:00"
+},
+{
+"id": "d2ffbbda70a9",
+"title": "Việt Nam và Singapore nâng số khu công nghiệp VSIP lên 31 khu sau 30 năm",
+"link": "https://tuoitre.vn/viet-nam-va-singapore-nang-so-khu-cong-nghiep-vsip-len-31-khu-sau-30-nam-100261127140809659.htm",
+"summary": "Kể từ Khu công nghiệp Việt Nam - Singapore (VSIP) đầu tiên được khởi động từ năm 1996 tại TP.HCM (Bình Dương cũ), sau 30 năm hợp tác, nhiều dự án khu công nghiệp được nhân rộng ra cả nước.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/01dai-dien-hai-ben-lien-doanh-vsip-chu-tri-hop-bao-1795767122921455834777-473-447-1440-1994-crop-17957671891131349028855.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-27T15:00:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "0d8b935ef526",
+"title": "câu lạc bộ bóng đá macarthur đấu với melbourne city",
+"link": "https://trends.google.com/trending/rss?geo=VN",
+"summary": "",
+"image": "",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T15:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "579c08fffed3",
+"title": "Dự án 176 tỷ đồng ở Hưng Yên thi công thiếu an toàn",
+"link": "https://cafef.vn/du-an-176-ty-dong-o-hung-yen-thi-cong-thieu-an-toan-188261127133801021.chn",
+"summary": "Dù được bố trí hàng trăm triệu đồng cho công tác bảo đảm an toàn giao thông trong quá trình thi công, nhiều vị trí thi công tuyến đường hơn 5 km ở Hưng Yên vẫn thiếu rào chắn, biển cảnh báo, tiềm ẩn nguy cơ mất an toàn cho người đi đường.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795762724789-1795762725235634327898.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T14:59:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "79b74a571513",
+"title": "Nơi được ví như “viên ngọc” giữa đại ngàn Tây Nguyên đón đại dự án gần 6.700 tỷ từ Sun Group",
+"link": "https://kenh14.vn/noi-duoc-vi-nhu-vien-ngoc-giua-dai-ngan-tay-nguyen-don-dai-du-an-gan-6700-ty-tu-sun-group-215261127144353873.chn",
+"summary": "Dự án được quy hoạch theo định hướng “Rừng trong thị trấn, thị trấn trong rừng”.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795765396144-17957653980271123601914.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T14:56:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "3d66050a348c",
+"title": "Vừa huy động 5.218 tỷ đồng trái phiếu với lãi suất lên tới 14,5%/năm, CII bất ngờ đổi phương án phân bổ vốn",
+"link": "https://cafef.vn/vua-huy-dong-5218-ty-dong-trai-phieu-voi-lai-suat-len-toi-145-nam-cii-bat-ngo-doi-phuong-an-phan-bo-von-188261127144413015.chn",
+"summary": "Sau khi huy động thành công gần 5.218 tỷ đồng từ 3.160 nhà đầu tư, CII bất ngờ điều chỉnh kế hoạch phân bổ vốn. Theo đó, doanh nghiệp giảm số tiền đầu tư cho cao tốc TP.HCM - Trung Lương - Mỹ Thuận, đồng thời chuyển hơn 1.200 tỷ đồng sang hợp tác và góp vốn tại các đơn vị liên…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795765422954-17957654345351059907780.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T14:54:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "64764b9c4d77",
+"title": "Hạ giá hơn 1.500 tỷ đồng, sân Chi Lăng 8 lần đấu giá vẫn chưa có người mua",
+"link": "https://dantri.com.vn/bat-dong-san/ha-gia-hon-1500-ty-dong-san-chi-lang-8-lan-dau-gia-van-chua-co-nguoi-mua-20261127113335969.htm",
+"summary": "(Dân trí) - Đã giảm tới 1.516 tỷ đồng so với mức khởi điểm hồi tháng 4 nhưng khu đất hơn 55.000 m2 tại Sân vận động Chi Lăng (Đà Nẵng) vẫn không có người đăng ký mua trong phiên đấu giá ngày 27/11.",
+"image": "https://cdnphoto.dantri.com.vn/nw0mhFrsMS_j5kWzNp1QYyiB80M=/2026/09/12/san-chi-langhoai-so5-edited-1789193053628.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-27T14:50:39+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "9fd598b490f3",
+"title": "Thủ tướng nêu 3 định hướng phát triển thị trường chứng khoán",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlA3V18wcWI4WkdwU1puRk91WHlWSTVjckR4eE1OV2RFbG5IMEx2S1ZZX0dyMDg5dUZxSjdjT2QzM21vSWRSdlBOWkFTOW5PTDFLWXF3QVF5V0V2dDZNUS1JcV9oOHV1WU5DaFhwRGloNWl4dXh0LVRfMnVBbXIxNTBZWDdhYWdvVU84S3Q3TjNaYU5Gc0lubg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T14:45:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "0759f0f1f54b",
+"title": "Hà Nội: Camera AI phát hiện hơn 2.500 trường hợp chạy quá tốc độ",
+"link": "https://vietnamnet.vn/ha-noi-camera-ai-phat-hien-hon-2-500-truong-hop-chay-qua-toc-do-2579380.html",
+"summary": "Theo Phòng CSGT Công an TP Hà Nội, chỉ trong 25 ngày, hệ thống camera AI đã phát hiện 2.555 trường hợp vi phạm tốc độ, trong đó 104 trường hợp chạy quá tốc độ trên 20km/h đến 35km/h",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/1795752471686-6054255956240477176-g1921037834243786837-3b7ce088ecbd180fba1b1b0822727c4c-1551.jpg?width=0&s=uJj5LOWi2wvPbuz5zG6KgA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-27T14:44:36+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "e76562815210",
+"title": "Thủ tướng đặt mục tiêu vốn hóa thị trường cổ phiếu đạt 120% GDP vào năm 2030",
+"link": "https://cafef.vn/thu-tuong-dat-muc-tieu-von-hoa-thi-truong-co-phieu-dat-120-gdp-vao-nam-2030-18826112714430223.chn",
+"summary": "Tại Lễ kỷ niệm 30 năm Ngày truyền thống ngành Chứng khoán Việt Nam, Thủ tướng Lê Minh Hưng đã đặt mục tiêu đến năm 2030, vốn hóa thị trường cổ phiếu đạt 120% GDP, dư nợ thị trường trái phiếu tối thiểu 58% GDP, đồng thời huy động khoảng 5,4 triệu tỷ đồng vốn trung và dài hạn…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795765321980-1795765322909105688712.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T14:43:02+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "e186f4dd13f5",
+"title": "Khởi công nhà máy sản xuất, lắp ráp ô tô 400 triệu USD tại Đà Nẵng",
+"link": "https://thanhnien.vn/khoi-cong-nha-may-san-xuat-lap-rap-o-to-400-trieu-usd-tai-da-nang-185261127134902996.htm",
+"summary": "Nhà máy sản xuất, lắp ráp ô tô NewCity tại Đà Nẵng có tổng vốn đầu tư 400 triệu USD, công suất thiết kế 150.000 xe/năm đã khởi công hôm nay, dự kiến xuất xưởng chiếc xe đầu tiên vào quý 4 năm 2028.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/13994-1795761607411262369227-139-0-1044-1448-crop-17957620318581792424667.png",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-27T14:43:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "484e0d6a006e",
+"title": "Lập ban chỉ đạo dự án xây dựng trung tâm hành chính Cần Thơ",
+"link": "https://tuoitre.vn/lap-ban-chi-dao-du-an-xay-dung-trung-tam-hanh-chinh-can-tho-100261127133944841.htm",
+"summary": "Ban chỉ đạo dự án xây dựng trung tâm hành chính theo phương thức PPP, loại hợp đồng BT do Bí thư Thành ủy Cần Thơ Đỗ Thanh Bình làm Trưởng ban.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/trunng-tam-van-hoa-tay-do-1795765521468428739181-72-413-1383-2510-crop-1795765583298841857191-0-132-993-1721-crop-17957660317191407746871.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T14:43:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "abae326c644b",
+"title": "VinEnergo khởi công nhà máy điện mặt trời 126 MWp tại Philippines",
+"link": "https://thanhnien.vn/vinenergo-khoi-cong-nha-may-dien-mat-troi-126-mwp-tai-philippines-185261127142903107.htm",
+"summary": "VinEnergo vừa chính thức khởi công dự án nhà máy điện mặt trời công suất 126 MWp tại thành phố Sagay, tỉnh Negros Occidental, Philippines. Đây là dự án đầu tiên được triển khai trong khuôn khổ hợp tác giữa VinEnergo và Bộ Năng lượng Philippines về phát triển các giải pháp năng…",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/photo-01-2-1795764378132289969406-57-0-1257-1920-crop-17957645338531000852034.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-27T14:42:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "7c2a5823c0dd",
+"title": "Thứ trưởng Bộ Y tế: Phát triển mô hình chăm sóc sức khỏe, dưỡng sinh, phục hồi chức năng bằng y học cổ truyền",
+"link": "https://tuoitre.vn/thu-truong-bo-y-te-phat-trien-mo-hinh-cham-soc-suc-khoe-duong-sinh-phuc-hoi-chuc-nang-bang-y-hoc-co-truyen-100261127132829408.htm",
+"summary": "Thứ trưởng Bộ Y tế Vũ Mạnh Hà nhấn mạnh cần phát huy thế mạnh của y học cổ truyền trong điều trị bệnh mạn tính, phục hồi chức năng và chăm sóc người cao tuổi.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/edit-c057f5de-c1a7-4f67-88c0-560ee3e801c4-1795759128913189909393-445-1316-961-2142-crop-17957654011951999013726.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T14:41:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "84cc9c1b3de9",
+"title": "Chính phủ ban hành cơ chế, chính sách phát triển thành phố Đồng Nai",
+"link": "https://cafef.vn/chinh-phu-ban-hanh-co-che-chinh-sach-phat-trien-thanh-pho-dong-nai-188261127133657363.chn",
+"summary": "Thay mặt Chính phủ, Phó Thủ tướng Thường trực Phạm Gia Túc ký Nghị định số 422/2026/NĐ-CP ngày 26/11/2026 quy định cơ chế, chính sách phát triển thành phố Đồng Nai.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795761357446-17957613577301995037444.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T14:39:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "b928e424c721",
+"title": "Quốc hội Argentina cấm ngân hàng trung ương in tiền cho Chính phủ chi tiêu",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOejlwSG0zNFdnRWFpUVJwcDM2WEx0SjlKOWhXZUFndWhFWUxsc0J4eldmbmVKT1V1eHNwaDh6ZUZYYWFVdTJTWDNaMzZ3TlFrWklBeXdnRDhZWXlIRUhBSjJMZmt1dUN4XzlBWXpGM05tT0MxVmlaUWk4NkRENFlWZHJJZkJBcDRXb2RrVW9YdW4yb1VwcVp4OE1fRlJTZTEyRGh6V0ZNWVJKSlE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T14:38:40+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
 "id": "6125e473271e",
 "title": "Lộ diện đối tượng tóc tím trong vụ hỗn chiến trước quán karaoke",
 "link": "https://vietnamnet.vn/lo-dien-doi-tuong-toc-tim-trong-vu-hon-chien-truoc-quan-karaoke-2579351.html",
@@ -244,6 +476,17 @@
 "cat": "tc",
 "published": "2026-11-27T14:35:06+07:00",
 "found": "2026-11-27T12:24:28+07:00"
+},
+{
+"id": "24d82a09e16f",
+"title": "Ra quyết định khởi tố nữ tài xế Trần Thu Hà SN 1989",
+"link": "https://kenh14.vn/ra-quyet-dinh-khoi-to-nu-tai-xe-tran-thu-ha-sn-1989-215261127144227735.chn",
+"summary": "Trần Thu Hà SN 1989 bị khởi tố về tội “Vi phạm quy định về tham gia giao thông đường bộ”.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795765289230-1795765289790840639229.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T14:35:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
 },
 {
 "id": "db2e6f1ac134",
@@ -422,6 +665,17 @@
 "found": "2026-11-27T14:26:08+07:00"
 },
 {
+"id": "b43110fec933",
+"title": "Đợt mưa từ tối 27 đến 29-11 dự báo rất lớn, Quảng Ngãi khẩn cấp ứng phó",
+"link": "https://tuoitre.vn/dot-mua-tu-toi-27-den-29-11-du-bao-rat-lon-quang-ngai-khan-cap-ung-pho-100261127125631619.htm",
+"summary": "Dự báo mưa lớn từ tối 27 đến 29-11 được dự báo có nơi trên 500mm, lũ hạ lưu sông Vệ và sông Trà Bồng có khả năng vượt báo động 3.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/dot-mua-lon-moi-co-noi-tren-500mm-quang-ngai-khan-cap-ung-pho-3-17957585898792121414599-581-1040-1532-2560-crop-1795758789076995388612.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T14:24:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
 "id": "922036244e60",
 "title": "Đại gia quê gốc Thanh Hóa từng thi công vòm thép lớn nhất hành tinh, góp mặt làm công trình World Cup…vừa có bước đi mới: Bắt tay ngân hàng quốc tế, nghiên cứu khoản tài trợ 50 triệu USD để mở rộng nhà máy xanh",
 "link": "https://cafef.vn/dai-gia-que-goc-thanh-hoa-tung-thi-cong-vom-thep-lon-nhat-hanh-tinh-gop-mat-lam-cong-trinh-world-cupvua-co-buoc-di-moi-bat-tay-ngan-hang-quoc-te-nghien-cuu-khoan-tai-tro-50-trieu-usd-de-mo-rong-nha-may-xanh-188261127141646876.chn",
@@ -431,6 +685,17 @@
 "cat": "bds",
 "published": "2026-11-27T14:23:00+07:00",
 "found": "2026-11-27T14:41:20+07:00"
+},
+{
+"id": "a4f52b3329ad",
+"title": "Cánh tay phải của Tuấn \"Thần Đèn\" bị kiểm lâm lừa hơn nửa tỷ đồng",
+"link": "https://dantri.com.vn/phap-luat/canh-tay-phai-cua-tuan-than-den-bi-kiem-lam-lua-hon-nua-ty-dong-20261127140730349.htm",
+"summary": "(Dân trí) - Tin lời kiểm lâm viên có thể giúp đưa 11 khu vực mỏ ra khỏi quy hoạch lâm nghiệp quốc gia, Tuấn \"HD\", đối tác làm ăn của Tuấn \"Thần Đèn\", đã nhiều lần đưa tiền, tổng cộng 660 triệu đồng.",
+"image": "https://cdnphoto.dantri.com.vn/6SCFA_VTYVs4ntVO_TeyrcYdkxU=/2026/11/27/mo-tuong-son-1795763137411.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-27T14:21:33+07:00",
+"found": "2026-11-27T15:18:48+07:00"
 },
 {
 "id": "90894ebf3293",
@@ -477,6 +742,17 @@
 "found": "2026-11-27T14:41:20+07:00"
 },
 {
+"id": "64d463dbf553",
+"title": "Chợp mắt cùng Robusta: 'Cuộc đua' 20 phút của caffeine trong cơ thể",
+"link": "https://tuoitre.vn/chop-mat-cung-robusta-cuoc-dua-20-phut-cua-caffeine-trong-co-the-100261127090733948.htm",
+"summary": "Nghe có vẻ vô lý khi nhiều người uống một ngụm cà phê Robusta ngay trước giờ nghỉ trưa rồi lập tức gục xuống bàn để chợp mắt. Nhưng khoảng thời gian 20 phút trước khi caffeine kịp chạm tới não bộ lại tạo ra \"cú hích\" tỉnh táo hiệu quả hơn cả giấc ngủ trưa dài.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/ngu-trua-17957652805891477867336-257-73-812-961-crop-17957653117901744865516.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-27T14:16:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
 "id": "710135074b0a",
 "title": "Sau ánh đèn tiệc cưới, chuyện ít biết về nghề phục vụ",
 "link": "https://thanhnien.vn/sau-anh-den-tiec-cuoi-chuyen-it-biet-ve-nghe-phuc-vu-185261127094609738.htm",
@@ -486,6 +762,17 @@
 "cat": "mxh",
 "published": "2026-11-27T14:15:00+07:00",
 "found": "2026-11-27T14:26:08+07:00"
+},
+{
+"id": "60698a22a293",
+"title": "Phú Yên có gì để trở thành Công viên địa chất toàn cầu UNESCO?",
+"link": "https://tuoitre.vn/phu-yen-co-gi-de-tro-thanh-cong-vien-dia-chat-toan-cau-unesco-100261127132939826.htm",
+"summary": "Với lịch sử địa chất hơn 1,8 tỉ năm, hệ sinh thái đa dạng và di sản văn hóa phong phú, Phú Yên (nay là Đắk Lắk) có nhiều lợi thế hướng tới danh hiệu Công viên địa chất toàn cầu UNESCO. Tuy nhiên, địa phương phải chứng minh công viên hoạt động hiệu quả, gắn với lợi ích cộng đồng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/1-3547-1795759693262130283899-0-0-800-1280-crop-1795760482683791501003.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T14:15:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
 },
 {
 "id": "c076d845b076",
@@ -543,6 +830,17 @@
 "found": "2026-11-27T14:10:57+07:00"
 },
 {
+"id": "573e1a938026",
+"title": "Vibrant HCMC: Để phiên chợ thành cái hẹn mỗi năm",
+"link": "https://tuoitre.vn/vibrant-hcmc-de-phien-cho-thanh-cai-hen-moi-nam-100261127133331316.htm",
+"summary": "Mở được một phiên chợ đông vui cuối năm chưa phải việc khó nhất. Điều đáng nghĩ hơn là làm sao để Vibrant HCMC hiệu quả thật sự, tiền ưu đãi đến được với người bán nhỏ và phiên chợ được người dân mong chờ qua từng năm.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/du-khach-17957616565602058187290-54-0-877-1316-crop-1795761805092793066261.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-27T14:08:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
 "id": "da71a62860ee",
 "title": "Bất động sản ở trung tâm TPHCM của bà Trương Mỹ Lan giảm giá hơn 34%",
 "link": "https://dantri.com.vn/bat-dong-san/bat-dong-san-o-trung-tam-tphcm-cua-ba-truong-my-lan-giam-gia-hon-34-20261127134212214.htm",
@@ -563,6 +861,17 @@
 "cat": "tc",
 "published": "2026-11-27T14:05:07+07:00",
 "found": "2026-11-27T14:10:57+07:00"
+},
+{
+"id": "57a893fcf827",
+"title": "Cây kiểng lá có lỗ tự nhiên giành giải vàng tại hội thi ở Cần Thơ",
+"link": "https://tuoitre.vn/cay-kieng-la-co-lo-tu-nhien-gianh-giai-vang-tai-hoi-thi-o-can-tho-100261127123525358.htm",
+"summary": "Những chiếc lá có lỗ tự nhiên giúp cây Monstera esqueleto nổi bật giữa hàng trăm tác phẩm dự thi, qua đó giành giải vàng ở thể loại kiểng lá tại Cần Thơ.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/179575628193049428959407900200734942895940790020073f50fb774f30d0a1c4e44b3fb8af650fc-17957566447402075591062-69-0-869-1280-crop-17957573309841918398716.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T14:05:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
 },
 {
 "id": "7f2185466a61",
@@ -642,6 +951,17 @@
 "found": "2026-11-27T14:41:20+07:00"
 },
 {
+"id": "34397db9ea89",
+"title": "Chứng khoán Kafi chào bán 125 triệu cổ phiếu, dự kiến huy động 1.875 tỉ đồng",
+"link": "https://tuoitre.vn/chung-khoan-kafi-chao-ban-125-trieu-co-phieu-du-kien-huy-dong-1875-ti-dong-100261127121837043.htm",
+"summary": "Công ty CP Chứng khoán Kafi (KAI) chính thức triển khai đợt chào bán 125 triệu cổ phiếu ra công chúng với giá 15.000 đồng/cổ phiếu, dự kiến huy động 1.875 tỉ đồng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/hinh-1-2-2-2-1795756313074536202696-0-212-1437-2511-crop-1795756492796907475338.png",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-27T14:00:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
 "id": "03fbf0acddab",
 "title": "Cao điểm đợt mưa trái mùa, Nam bộ có nơi trên 100mm",
 "link": "https://thanhnien.vn/cao-diem-dot-mua-trai-mua-nam-bo-co-noi-tren-100mm-185261127134706542.htm",
@@ -651,6 +971,17 @@
 "cat": "tc",
 "published": "2026-11-27T13:58:00+07:00",
 "found": "2026-11-27T14:10:57+07:00"
+},
+{
+"id": "e40b4469fc5f",
+"title": "Đề xuất phục dựng lại hòn Phụ Tử, làm mô hình tại cổng chào trung tâm xã để phát triển du lịch",
+"link": "https://tuoitre.vn/de-xuat-phuc-dung-lai-hon-phu-tu-lam-mo-hinh-tai-cong-chao-trung-tam-xa-de-phat-trien-du-lich-100261127130829798.htm",
+"summary": "UBND xã Kiên Lương đã đề xuất cấp thẩm quyền phục dựng lại hòn Phụ gãy đổ trước đó để khôi phục lại cảnh quan tự nhiên, đón khách du lịch.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/kl5-17957596010721728377739-0-400-2250-4000-crop-179575960561044139894.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T13:58:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
 },
 {
 "id": "73a49ba010aa",
@@ -719,6 +1050,17 @@
 "found": "2026-11-27T14:26:08+07:00"
 },
 {
+"id": "a9818f216873",
+"title": "Ấm áp mô hình 'Tổ phản ứng nhanh nghĩa tình' ở TP.HCM",
+"link": "https://tuoitre.vn/am-ap-mo-hinh-to-phan-ung-nhanh-nghia-tinh-o-tphcm-10026112712255987.htm",
+"summary": "Mô hình \"Tổ phản ứng nhanh nghĩa tình\" triển khai tại nhiều phường, xã ở TP.HCM, kịp thời đến nhà hỗ trợ người dân thực hiện các thủ tục liên thông như đăng ký khai tử, xóa đăng ký thường trú.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/edit-edit-edit-to-phan-ung-nhanh-nghia-tinh-123-17957544498301115340486-168-25-1705-2484-crop-1795754555023877429406.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T13:44:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
 "id": "414fc7714e05",
 "title": "Một chỉ báo định giá vượt 10%, VPBankS nhìn thấy tín hiệu gì ở thị trường chứng khoán?",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFpySDFkX2pBUS1QNnNyb1I5a0hWR2R5d2daalVPMWVTOHhBb1hEQ01MZ1BZVjY1eHdieGotOEkwZEdmWXVScGc4cmRlZ21Jb0QyMDl3RFIxUzdGeVpUdjM2aVVXX3hYTjJTaHVsT1I3TDVxS2wyU0l6Yzg2anNmdGpjYVA2MFdTbEhOVTBBektfME1zT2xrUVIxb3pveldBNFRQSk5TaW1DNl9ERXJ1RThHenAwM1k?oc=5",
@@ -764,6 +1106,17 @@
 "found": "2026-11-27T14:10:57+07:00"
 },
 {
+"id": "d2b5d6912d52",
+"title": "TP.HCM nâng cấp 4 trạm trung chuyển rác, quyết tâm cải thiện môi trường",
+"link": "https://tuoitre.vn/tphcm-nang-cap-4-tram-trung-chuyen-rac-quyet-tam-cai-thien-moi-truong-100261127112551478.htm",
+"summary": "Sáng 27-11, TP.HCM khởi công nâng cấp 4 trạm trung chuyển rác với vốn đầu tư hơn 1.800 tỉ đồng, thời gian thi công nhanh chóng trong 1 năm để đưa vào sử dụng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/dao-tri-2-1795752772546188051216-0-89-1169-1959-crop-1795753414467840677853.png",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T13:40:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
 "id": "947c88573cb5",
 "title": "Sẽ không có thay đổi đáng kể đối với triển vọng xuất khẩu sang Mỹ nếu mức thuế là 20%",
 "link": "https://vneconomy.vn/se-khong-co-thay-doi-dang-ke-doi-voi-trien-vong-xuat-khau-sang-my-neu-muc-thue-la-20.htm",
@@ -806,6 +1159,17 @@
 "cat": "mxh",
 "published": "2026-11-27T13:37:00+07:00",
 "found": "2026-11-27T14:26:08+07:00"
+},
+{
+"id": "518a1a1c4f65",
+"title": "Nỗi lo từ những bình gas trong quán ăn tầng 1 nhà tập thể cũ",
+"link": "https://tuoitre.vn/noi-lo-tu-nhung-binh-gas-trong-quan-an-tang-1-nha-tap-the-cu-100261127113120125.htm",
+"summary": "Sau vụ nổ khiến 7 người tử vong trên phố Nguyễn Văn Tuyết (Hà Nội), nguy cơ cháy, nổ từ các quán ăn sử dụng gas dưới chân những khu tập thể cũ trở thành hồi chuông cảnh báo về an toàn phòng cháy chữa cháy.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/gas1-17957531673361629990695-160-90-1690-2538-crop-17957535317931782410909.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T13:35:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
 },
 {
 "id": "28b76ea1e1f0",
@@ -905,6 +1269,17 @@
 "cat": "xh",
 "published": "2026-11-27T13:27:15+07:00",
 "found": "2026-11-27T13:35:55+07:00"
+},
+{
+"id": "3b55a77c0802",
+"title": "Bàn giao con hổ 140kg chết tại trang trại ở Thanh Hóa cho Bảo tàng Thiên nhiên Việt Nam",
+"link": "https://tuoitre.vn/ban-giao-con-ho-140kg-chet-tai-trang-trai-o-thanh-hoa-cho-bao-tang-thien-nhien-viet-nam-100261127123010739.htm",
+"summary": "Chi cục Kiểm lâm tỉnh Thanh Hóa cho biết đang tiến hành các thủ tục để bàn giao xác con hổ nặng 140kg (chết tại trang trại của một gia đình) cho Bảo tàng Thiên nhiên Việt Nam phục vụ công tác nghiên cứu.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/img7372-1795657204297508186689-232-150-1627-2382-crop-1795757142749205857902.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-27T13:27:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
 },
 {
 "id": "eaf9d30426e9",
@@ -2790,6 +3165,17 @@
 "found": "2026-11-27T11:18:28+07:00"
 },
 {
+"id": "5fb152e7b008",
+"title": "Tỷ giá trung tâm tăng, USD quốc tế neo gần mức cao nhất trong 22 tháng",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNam1JRF8td09BczFXRVdYQzRYNFljWWlCaDNFTnptN1F5QmVSNnJvYmZVV1h2X0xmYmRXOXMwYjFEbHZZMjNyNFRYLVBIQmlGUnRKU0c5T0ZHVFpjS2ZoNHZ1ajJVRm9jaVpDMjQ3Y19tX1gwdUctZGNkS0k0b1c4SFBpTTlObjlCMHB6eFpsY0d2M3R6WWlUdlYtWVNkaTNYUHZvZw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T10:35:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
+},
+{
 "id": "01353ac57662",
 "title": "Người dân ở các chung cư cũ: Hướng tới cuộc sống mới",
 "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd01Wc3JpZXJhcVVmeFpUcFhiR2wyR3ZObWFyUGc5TU4xU3RmU1hyTi1IMF9CTS1FcUducDloWmhuSnN2WkdoSkVVT1ZwblJjNWQwQzY4RE5lRktpcWVwOGVJaGdMeEhhVG5nYi16TXdDUmpMVWZET00yOFR3bjJRVkpyYWw4TGNCN3hXUA?oc=5",
@@ -3930,6 +4316,17 @@
 "published": "2026-11-27T09:10:00+07:00",
 "traffic": "200+",
 "found": "2026-11-27T09:29:45+07:00"
+},
+{
+"id": "bae6873d2abf",
+"title": "Tỷ phú Nguyễn Thị Phương Thảo chúc mừng 30 năm TTCK theo cách rất riêng: Tổ chức Hội nghị Dòng vốn quốc tế và khát vọng Việt Nam",
+"link": "https://cafef.vn/ty-phu-nguyen-thi-phuong-thao-chuc-mung-30-nam-ttck-theo-cach-rat-rieng-to-chuc-hoi-nghi-dong-von-quoc-te-va-khat-vong-viet-nam-188261127090835527.chn",
+"summary": "30 năm thị trường chứng khoán Việt Nam cũng là hành trình của những doanh nghiệp tìm kiếm nguồn lực để lớn lên, của những dòng vốn vượt qua biên giới và của những bước ngoặt đôi khi được tạo nên từ sự phối hợp giữa các thành phần của nền kinh tế. Trong dịp đặc biệt này, AHLĐ.TS.…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/thumb-17957452287201208790460-0-0-1007-1612-crop-1795745232619200294790.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T09:10:00+07:00",
+"found": "2026-11-27T15:18:48+07:00"
 },
 {
 "id": "925017e5581e",
@@ -8960,17 +9357,6 @@
 "published": "2026-11-26T17:40:00+07:00",
 "traffic": "100+",
 "found": "2026-11-26T18:36:32+07:00"
-},
-{
-"id": "61e01b07c96d",
-"title": "Techcombank thay đổi nhân sự cấp cao",
-"link": "https://tuoitre.vn/techcombank-thay-doi-nhan-su-cap-cao-100261126172018633.htm",
-"summary": "Techcombank vừa thông báo về việc điều chuyển nhân sự cấp cao. Theo đó, ông Alexandre Charles Emmanuel Macaire - Giám đốc Tài chính Tập đoàn kiêm Phó tổng giám đốc sẽ thôi đảm nhiệm vị trí Phó Tổng Giám đốc để nhận nhiệm vụ mới.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/anh-man-hinh-2026-11-26-luc-17-09-09-17956877614011389589143-0-129-942-1636-crop-17956877659791530988178.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-26T17:40:00+07:00",
-"found": "2026-11-26T19:26:22+07:00"
 },
 {
 "id": "0f2252633d17",
@@ -27638,396 +28024,6 @@
 "cat": "xh",
 "published": "2026-11-25T07:30:00+07:00",
 "found": "2026-11-25T08:36:20+07:00"
-},
-{
-"id": "c5018421e0e4",
-"title": "Sân bay Chicago ở Mỹ gặp sự cố radar, hơn 370 chuyến bay bị ảnh hưởng",
-"link": "https://tuoitre.vn/san-bay-chicago-o-my-gap-su-co-radar-hon-370-chuyen-bay-bi-anh-huong-100261125071625526.htm",
-"summary": "Theo trang theo dõi chuyến bay FlightAware, khoảng 13% số chuyến bay, tương đương 373 chuyến, tại Sân bay quốc tế Chicago O'Hare đã bị trì hoãn.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/anh-man-hinh-2026-11-25-luc-071153-17955655977482119835165-47-0-1172-1800-crop-17955656236391580966316.png",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-25T07:27:00+07:00",
-"found": "2026-11-25T07:54:49+07:00"
-},
-{
-"id": "70423d64cfdd",
-"title": "Giá vàng hôm nay 25/11: Quay đầu giảm mạnh",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DZFg1RDY0SGZCTkl2OFpheUFvMkp4S1ROeG9kT2ZHZHltM195UEl6cGN1ODZuZ1pocEplYkRGTTBhZmZqM2VpR2lEQ01IVURGZkpoTm9FYW1Fd0xGOUNBQ1FYMGJBVzM1ZUwtRzNTTnV4YUgxcERfQ1djVUtXQnM?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T07:24:49+07:00",
-"found": "2026-11-26T08:40:26+07:00"
-},
-{
-"id": "ba97875e3bed",
-"title": "Công an Hải Phòng thông tin vụ nhóm người bị dân vây bắt vì nghi 'bắt cóc trẻ em'",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2JFQ2daU2Yyc0dmU2dNT0tpclFfU0tJOTZVOExsUFI0OC1QdUZFMVVWeGY2bXF4a3NPNXlOeTlUQ2hpVDV0aHRfT1ZfcXJ6Z2FjZU93alNUZnRWNzlrMlluMmlFaGpEUDlicEhwZkRsNXFNUTFyUGFweDRMZmQzZUZxblZRem9yRWVFbl93NmQxSWhFZE9nelBxaXZuTVUzaXo0MjU4Q2pDNG9wQ0tsSzU2Z3RHd241U2VmVHBB?oc=5",
-"summary": "Nguồn: aFamily",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T07:24:10+07:00",
-"found": "2026-11-25T16:46:44+07:00"
-},
-{
-"id": "9330a25f91e3",
-"title": "Từ 1.7.2027, hai trường hợp chuyển sang đất ở không phải nộp tiền sử dụng đất",
-"link": "https://thanhnien.vn/tu-172027-hai-truong-hop-chuyen-sang-dat-o-khong-phai-nop-tien-su-dung-dat-185261125000805045.htm",
-"summary": "Người sử dụng đất được chuyển sang đất ở mà không phải xin phép, không phải nộp tiền sử dụng đất nếu đáp ứng các điều kiện theo luật Đất đai sửa đổi.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/tnw-chuyen-muc-dich-su-dung-dat-17955394607491869285771-99-0-1699-2560-crop-17955395368821843077550.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T07:20:00+07:00",
-"found": "2026-11-25T07:24:26+07:00"
-},
-{
-"id": "f71817213b37",
-"title": "arsenal f.c. vs borussia dortmund standings",
-"link": "https://baonghean.vn/en/truc-tiep-arsenal-vs-borussia-dortmund-hiep-2-bat-dau-arsenal-dan-1-0-10356538.html",
-"summary": "Arsenal vs Borussia Dortmund Live: Second half begins, Arsenal leads 1-0. (Báo Nghệ An)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTXsJeqA1gHiwWuICqkp-GXQhyd84-khgTfYHjDyPoPPvZL14JyupUFRVfkno",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T07:20:00+07:00",
-"traffic": "200+",
-"found": "2026-11-25T08:36:20+07:00"
-},
-{
-"id": "b2c905967d68",
-"title": "TPHCM xây dựng hệ số K mới, dự kiến áp dụng đầu 2027",
-"link": "https://cafef.vn/tphcm-xay-dung-he-so-k-moi-du-kien-ap-dung-dau-2027-188261125061953864.chn",
-"summary": "Sở Nông nghiệp và Môi trường TPHCM sẽ điều tra, khảo sát, thu thập và phân tích thông tin giá đất thị trường, đánh giá mức độ phù hợp giữa bảng giá đất với giá thị trường, xác định các hệ số điều chỉnh theo biến động thị trường, quy hoạch và các yếu tố ảnh hưởng đến giá đất. Từ…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795562359183-17955623595162129745705.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T07:19:00+07:00",
-"found": "2026-11-25T07:24:26+07:00"
-},
-{
-"id": "217ef7c6de1d",
-"title": "Cận cảnh cầu Hoài Thượng gần 1.200 tỷ đồng đang thành hình trên sông Đuống",
-"link": "https://vietnamnet.vn/cau-hoai-thuong-gan-1-200-ty-dang-thanh-hinh-tren-song-duong-2577534.html",
-"summary": "Hạng mục cầu Hoài Thượng trên tuyến Vành đai 4 đang được đẩy nhanh tiến độ thi công, dự kiến hợp long vào tháng 5/2027.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/can-canh-cau-hoai-thuong-gan-1-7334.jpg?width=0&s=VRcGdiaoJpc1LuQNCzZefw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-25T07:18:00+07:00",
-"found": "2026-11-25T07:24:26+07:00"
-},
-{
-"id": "12701ab828fa",
-"title": "Kỳ vọng lớn từ những quyết sách mới",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PVDNDblN4cTZKSFhRN2lWaXE3R0VaVzBGdXV2LWJVTDhXWElHTWVFYTJZczdJY1FibDczeDB4SHRkc2ttMVZ5dk1aQkRadnZDaVlpTF9KY1NOclc0eTRNbHBCb1U5bVpxczZtWDNaUlNZd2pfa2Rj?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T07:18:00+07:00",
-"found": "2026-11-25T07:39:37+07:00"
-},
-{
-"id": "a19d5b723046",
-"title": "Chi phí xây nhà 2 tầng 120m² hết bao nhiêu?",
-"link": "https://cafef.vn/chi-phi-xay-nha-2-tang-120m-het-bao-nhieu-18826112507044912.chn",
-"summary": "Chi phí xây nhà 2 tầng 120m² hết bao nhiêu tiền là câu hỏi được nhiều gia đình quan tâm khi lên kế hoạch làm nhà.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795565065237-1795565065857811190349.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T07:15:00+07:00",
-"found": "2026-11-25T07:24:26+07:00"
-},
-{
-"id": "5e60dddf950e",
-"title": "man city vs ssc napoli standings",
-"link": "https://www.bbc.com/sport/football/live/c3j4rne5ny5et",
-"summary": "Man City 2-2 Napoli: Ayyoub Bouaddi and Rayan Cherki score for hosts (BBC)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSVkl_Uy_FJ5TTCY8BJTG8qrLb5UW36dCtjyW3Lm8HqUXFk94Ct_s9bt3gkNQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T07:10:00+07:00",
-"traffic": "100+",
-"found": "2026-11-25T07:39:37+07:00"
-},
-{
-"id": "a41db7c53bd6",
-"title": "giáo sư",
-"link": "https://cafef.vn/pho-giao-su-noi-tieng-viet-nam-vua-co-them-240-ty-dong-chi-trong-mot-ngay-188261123151750853.chn",
-"summary": "Phó giáo sư nổi tiếng Việt Nam vừa có thêm 240 tỷ đồng chỉ trong một ngày (CafeF)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtcPOoyXSlonIbTvgtBCQfq4pLZR-CvrTuheSxgsM9HoqZyyDVXNQlMcLX2N0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T07:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-25T07:39:37+07:00"
-},
-{
-"id": "1e42a3282b0e",
-"title": "Một tiểu phẩm về chăm sóc cha mẹ già gây \"bão mạng\" vì chạm đến nỗi bức xúc của phụ nữ: Cứ con gái thì phải chăm cha mẹ, hy sinh bản thân?",
-"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOS0lFU3M2V1V2cVFOTVNuZkNkRVNPU3M0dGlPZTM5WWZlTnFtTFdEblNIU2hRa1V3MjE0Sk01eVJUenFzN2M2ekZxdjh2MExFeXE5QXJvRlJlNEJJSkcyMkRKOXZ1elZ1YzhHTWc2SlZkTk5iYWN3bTIyVTBKZTJsbTlqdGFJZVRrRHRFQlJMNmxvcDYtY3B3alNYR3BXS0ZPZVMzUHR5QTU5dGxtLUIzb2dKQTdmbURDWVNzd1VPX3ZhdnB5MlBsUW5uVTgyTGp1blRXN3pLdlVCa0VDb2s4M0ZUWW9EM3VLTERHV2FZRXpYTHROUXNWQko1ajdwRGwwQUw3bw?oc=5",
-"summary": "Nguồn: Kenh14.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T07:09:00+07:00",
-"found": "2026-11-25T08:20:48+07:00"
-},
-{
-"id": "344a2fdbbc45",
-"title": "Giá vàng hôm nay 25-11: Vàng thế giới đảo chiều giảm sâu, bạc mất hơn 5%",
-"link": "https://tuoitre.vn/gia-vang-hom-nay-25-11-vang-the-gioi-dao-chieu-giam-sau-bac-mat-hon-5-100261125070231117.htm",
-"summary": "Sau hai phiên tăng liên tiếp, giá vàng thế giới giảm gần 100 USD/ounce, về sát mốc 3.550 USD/ounce. Giá bạc cũng mất hơn 5%, có thời điểm lùi về 40,79 USD/ounce.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/17919395014262145362399469602018214536239946960201848f1f97c29c3f9529f5bae472fc933af-17955644002961138026564-31-0-1631-2560-crop-17955648181281959335186.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-25T07:08:00+07:00",
-"found": "2026-11-25T07:54:49+07:00"
-},
-{
-"id": "02442741b8d8",
-"title": "Thị trường bất động sản 2027: Ai sẽ thắng, ai phải rời cuộc chơi?",
-"link": "https://cafef.vn/thi-truong-bat-dong-san-2027-ai-se-thang-ai-phai-roi-cuoc-choi-188261125070728572.chn",
-"summary": "Năm 2027, thị trường bất động sản được kỳ vọng đón những chuyển biến tích cực từ quá trình hoàn thiện thể chế, đầu tư hạ tầng và sự trở lại của nhu cầu nhà ở. Tuy nhiên, áp lực lãi suất, mặt bằng giá cao, nguồn cung mất cân đối và năng lực tài chính của doanh nghiệp tiếp tục là…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795565203869-1795565204434311645824.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T07:07:00+07:00",
-"found": "2026-11-25T07:24:26+07:00"
-},
-{
-"id": "cf84883177bf",
-"title": "Vé máy bay Tết: Chậm tay, thêm cả triệu đồng",
-"link": "https://tuoitre.vn/ve-may-bay-tet-cham-tay-them-ca-trieu-dong-100261125003411963.htm",
-"summary": "Vé Tết 2027 chưa hết nhưng vé rẻ đang cạn nhanh trên những chuyến từ TP.HCM về miền Trung, miền Bắc. Chậm mua vài tuần, nhiều gia đình phải trả thêm cả chục triệu đồng hoặc đổi sân bay, đổi ngày để được về quê.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/241126hanhkhachdimaybayquangdinh-17955372188851753066171-67-0-1667-2560-crop-17955410877511898003976.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-25T07:07:00+07:00",
-"found": "2026-11-25T07:54:49+07:00"
-},
-{
-"id": "c5c198fa560b",
-"title": "TPHCM xây dựng hệ số K mới, dự kiến áp dụng đầu 2027",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmJUN2VaUXlKTjQzLWFvVnFtN0VvN2ltanBFRGptUy0xNlV5c3lManlWNDdyRWJDWl9MUlVxMTByaWtMdmFCdTYzdWQxQlpzQ1RvVDg5d2l2V2JROFRQYmR5YXhIeWRnRjRWU0o3dmNaeE9rN1ZxZEVibGhSU3dwdTFzczZSZzRHZ0VXYg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T07:06:00+07:00",
-"found": "2026-11-25T07:39:37+07:00"
-},
-{
-"id": "2c75de103a23",
-"title": "Đề xuất mới về xếp hạng ngân hàng",
-"link": "https://cafef.vn/de-xuat-moi-ve-xep-hang-ngan-hang-188261125070525664.chn",
-"summary": "Không chỉ đề xuất nâng ngưỡng tổng tài sản để phân loại ngân hàng quy mô lớn từ 300.000 tỷ đồng lên 500.000 tỷ đồng, Ngân hàng Nhà nước còn đưa các chỉ tiêu thanh khoản theo chuẩn Basel III vào hệ thống xếp hạng, định hướng chuyển từ đánh giá dựa trên quy mô sang chú trọng năng…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795565062562-1795565062902305712904.webp",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-25T07:05:00+07:00",
-"found": "2026-11-25T07:09:12+07:00"
-},
-{
-"id": "bdf113b965d5",
-"title": "Bí thư Hà Nội yêu cầu nghiên cứu xây khu tái định cư cho người dân sau vụ nổ",
-"link": "https://cafef.vn/bi-thu-ha-noi-yeu-cau-nghien-cuu-xay-khu-tai-dinh-cu-cho-nguoi-dan-sau-vu-no-188261125070539069.chn",
-"summary": "Bí thư Hà Nội yêu cầu các đơn vị rà soát, di dời người dân và nghiên cứu xây dựng khu tái định cư cho các hộ bị ảnh hưởng sau vụ nổ trên phố Nguyễn Văn Tuyết.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795565110384-17955651109331378550145.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T07:05:00+07:00",
-"found": "2026-11-25T07:24:26+07:00"
-},
-{
-"id": "9b049b4ef173",
-"title": "Nhà bỗng nhiên có mùi gas: Làm sao để xử lý an toàn và tránh cháy nổ?",
-"link": "https://tuoitre.vn/nha-bong-nhien-co-mui-gas-lam-sao-de-xu-ly-an-toan-va-tranh-chay-no-10026112418544537.htm",
-"summary": "Khí gas rò rỉ tích tụ trong không gian kín chỉ cần kết hợp với một tia lửa điện nhỏ từ công tắc, quạt máy hay bật lửa đều có nguy cơ dẫn đến những thảm kịch.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/gas-1795519549798703752172-277-416-913-1434-crop-1795520476433767980599.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T07:04:00+07:00",
-"found": "2026-11-25T07:39:37+07:00"
-},
-{
-"id": "28f8f0ede896",
-"title": "Toản làm chứng vạch mặt sự gian dối của Nguyệt | Căn nhà không mái che | Tập 17",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAwLVl0MFV2bHhjbEdLYUtybmtSTzdfa2NOSUtzeThEamRwRER4N1ZfSHZBMU5XaEd0SXZQTV9MZ0Q?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T07:00:00+07:00",
-"found": "2026-11-25T10:54:47+07:00"
-},
-{
-"id": "ea3cb370d957",
-"title": "Phong nói lời chia tay, Duyên vẫn cố níu kéo | Xóm nhỏ | Tập 20",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1WUVo4Nzc1NG81eDRLbm1fNDdYdEFNMVRlS0RQbFJtZ2d4allrYnA0SWt3MFZUaWVseXpUdXlBQ0k?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T07:00:00+07:00",
-"found": "2026-11-25T05:37:31+07:00"
-},
-{
-"id": "7ab269b9a008",
-"title": "Cùng diễn viên Lưu Ly khám phá hậu trường phim \"Xóm nhỏ\"",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5JS3A1YWhwZmNadWFGZkJfbzlVSWxMTmVVTEh0U01heGpXaG5KUTY2MmMzb0tuTERDWUFTRnIzbk8?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T07:00:00+07:00",
-"found": "2026-11-22T10:30:20+07:00"
-},
-{
-"id": "f5770e39ae4b",
-"title": "Đình chỉ giáo viên kỷ luật học sinh bằng kim tiêm",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9xUTZUYjVVbm5QY1pUT3NPX1owSWJjLVNEOWFaZEZMdGtZSmdRTHhIeUoyUElzeXp3NHFoLUROUlM?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T07:00:00+07:00",
-"found": "2026-11-24T09:40:07+07:00"
-},
-{
-"id": "80eafd9942db",
-"title": "Xem lại bộ phim \"Bí thư Tỉnh ủy\" trên VTV2 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9iNkhiT0w1X3E0VjlWYkEzMHFvcjhHcGcxRHJ3b0lUSEtEaHhkZlphYU9la0g0NEJmbzVOTEdXOEQ?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T07:00:00+07:00",
-"found": "2026-11-20T03:47:43+07:00"
-},
-{
-"id": "337b09aa0091",
-"title": "Tuấn quyết định hỏi Oanh về thái độ bất thường | Cầu vồng ở phía chân trời | Tập 11 | VTV3 và VTVgo",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9oZGRwMlE1YndybWZYLVRHVEE3X1dGYzc5ejBQa3VYWHp1TUgzbTlrd0NKYlVRQUhrSU1ueFQteHQ?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T07:00:00+07:00",
-"found": "2026-11-26T07:12:16+07:00"
-},
-{
-"id": "613708154fc0",
-"title": "Corriere dello Sport: Højlund được cho là đã bày tỏ lòng tri ân Man Utd khi ăn mừng bàn thắng, gây xôn xao mạng xã hội",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX01VMFdqMGpwR0JtNy1JQUVJM3RaZmxRdzNEWmxaTWdfYkRuSUNiV3lQYUg0SVdKUXVSQTBTRnRKRWZpczNwVV96YVktYU13aU5Cd0t3OVE1TzlnNWdNUmE4NXJETjlPandHOVpBY2VWZ2gtZVFMMVB3OVVHVThkRDlNYTV5d05vSXp2MEFoZy15QQ?oc=5",
-"summary": "Nguồn: AllFootball",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T06:57:06+07:00",
-"found": "2026-11-25T08:51:54+07:00"
-},
-{
-"id": "c18d660d5371",
-"title": "Tiến sĩ giành Quả Cầu Vàng sau 10 năm tìm chất chữa bệnh từ gừng, nghệ",
-"link": "https://vnexpress.net/tien-si-gianh-qua-cau-vang-sau-10-nam-tim-chat-chua-benh-tu-gung-nghe-5148442.html",
-"summary": "Hơn 10 năm tìm cách \"giải mã\" cây cỏ bản địa, TS Thọ đã phân tách được hàng trăm hợp chất điều trị bệnh dạ dày, đái tháo đường, ung thư từ các loại gừng dại, củ nghệ.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/chandung-le-huu-tho-1795522461-5264-1795523679.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=n9aSJ4JfXs0UiaZQ4-9T3A",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-25T06:56:47+07:00",
-"found": "2026-11-25T10:54:47+07:00"
-},
-{
-"id": "4efc2335402d",
-"title": "Đọc nhanh 25-11: Chứng khoán Mỹ phân hóa, quỹ của tỉ phú Bill Gates bán mạnh một cổ phiếu Việt Nam",
-"link": "https://tuoitre.vn/doc-nhanh-25-11-chung-khoan-my-phan-hoa-quy-cua-ti-phu-bill-gates-ban-manh-mot-co-phieu-viet-nam-100261125061418125.htm",
-"summary": "Chứng khoán Mỹ diễn biến trái chiều. Giá dầu bật tăng trở lại. Trong nước, doanh nghiệp của Bầu Đức sắp phát hành cổ phiếu thấp hơn thị giá 85%, quỹ liên quan tỉ phú Bill Gates bán mạnh mã TNG.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/bill-gates-0840-1795561257667581692455-0-0-960-1536-crop-17955618658662111101378.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-25T06:56:00+07:00",
-"found": "2026-11-25T07:03:10+07:00"
-},
-{
-"id": "30c4575d6234",
-"title": "sân vận động quốc gia mỹ đình",
-"link": "https://vnexpress.net/gan-50-000-khan-gia-do-ve-concert-muon-sac-viet-nam-5148441.html",
-"summary": "Gần 50.000 khán giả đổ về concert 'Muôn sắc Việt Nam' (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHNOFp6DmNJX1LWjjRDVQTLUq9uHI97nzdioEqMWdojq0xHlcyoHLs82_Dhd8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T06:50:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-25T07:09:12+07:00"
-},
-{
-"id": "f65679de555b",
-"title": "CEO Nvidia Jensen Huang xin lỗi nhân viên, tiết lộ đang trị liệu tâm lý",
-"link": "https://dantri.com.vn/kinh-doanh/ceo-nvidia-jensen-huang-xin-loi-nhan-vien-tiet-lo-dang-tri-lieu-tam-ly-20261125064019041.htm",
-"summary": "(Dân trí) - Một ngày sau khi được hội đồng quản trị phục chức giám đốc điều hành (CEO), ông Jensen Huang xin lỗi nhân viên Nvidia, thừa nhận vi phạm quy tắc ứng xử và cho biết đang trị liệu tâm lý hàng ngày.",
-"image": "https://cdnphoto.dantri.com.vn/H-Ao44TMK-oYPbhlcetwC9fldgo=/2026/11/25/jensen-huang-1795563363959.webp",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-25T06:47:47+07:00",
-"found": "2026-11-25T07:39:37+07:00"
-},
-{
-"id": "5abfca6f30e5",
-"title": "Vì sao khí gas dễ phát nổ và phá hủy công trình?",
-"link": "https://thanhnien.vn/vi-sao-khi-gas-de-phat-no-va-pha-huy-cong-trinh-185261124225816125.htm",
-"summary": "Trước diễn biến phức tạp của các vụ cháy, nổ liên quan đến khí gas gây thiệt hại nghiêm trọng về người và tài sản, Công an TP.HCM vừa phát đi khuyến cáo khẩn cấp về cơ chế gây nổ khí gas, nguyên nhân rò rỉ, cách phòng tránh.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/24/base64-1795535596694262564277-0-0-1126-1802-crop-1795535631998960289003.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T06:47:00+07:00",
-"found": "2026-11-25T07:03:10+07:00"
-},
-{
-"id": "b9dc9025d478",
-"title": "Công an Hải Phòng bác tin đồn bắt cóc trẻ em ở xã Vĩnh Thuận",
-"link": "https://dantri.com.vn/phap-luat/cong-an-hai-phong-bac-tin-don-bat-coc-tre-em-o-xa-vinh-thuan-20261124225733919.htm",
-"summary": "(Dân trí) - Nhóm 5 người gọi trẻ em đến gần ô tô để cho tiền khiến các em hoảng sợ bỏ chạy, dẫn đến việc nghi vấn bắt cóc lan truyền trên mạng xã hội.",
-"image": "https://cdnphoto.dantri.com.vn/xasx3paSa0kv_tZ5Vvxu4XnthRI=/2026/11/24/thong-tin-tren-mang-xa-hoi-1795535717103.png",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-25T06:41:56+07:00",
-"found": "2026-11-25T07:03:10+07:00"
-},
-{
-"id": "a7adaf66f657",
-"title": "Chủ tịch tỉnh Tuyên Quang chỉ đạo xử lý nghiêm gian lận thi cử, không có vùng cấm",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWXRPSl9TWnZaRnROVTRBc0tVR1VFMGF3RGE2Z0drRE9Yd1ltRXlISVpWbUp1VTMwdVdnOE81TG9kdUZaNC0xVUoyNTFDbXVEQlFzMklBTFl3emswNW9UaW8zWlpYTkV4Z0dOVUVSaFdhTDBoUEdWaE43OU1UWkgxczVIWWg1ZkdaTU8tTllzZ2ZuVTducl83ZlhhLVNDRnlycEh0WXhB?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T06:41:51+07:00",
-"found": "2026-11-26T07:43:13+07:00"
-},
-{
-"id": "7d3087bd15ae",
-"title": "josé mourinho",
-"link": "https://baonghean.vn/en/truc-tiep-real-madrid-vs-psv-eindhoven-real-madrid-noi-rong-cach-biet-4-1-10356542.html",
-"summary": "Live coverage of Real Madrid vs PSV Eindhoven: Real Madrid extend their lead to 4-1. (Báo Nghệ An)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUFOWaLRh_2GTuu7COR_F7NVRVxSxhg_Ds1MQ0Pp5aGuO5LHkZhgoGXQcnHm0",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T06:40:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-25T07:54:49+07:00"
-},
-{
-"id": "38520f0eaff2",
-"title": "Hà Nội sắp bán nhà ở xã hội giá gần 15 triệu đồng/m²",
-"link": "https://kenh14.vn/ha-noi-sap-ban-nha-o-xa-hoi-gia-gan-15-trieu-dong-m-215261125063124283.chn",
-"summary": "Sở Xây dựng Hà Nội công bố kế hoạch tiếp nhận hồ sơ đăng ký mua nhà ở xã hội tại tòa N04, N05 thuộc Dự án Khu nhà ở Ecohome 3 với giá gần 15 triệu đồng/m².",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/24/avatar1795563028749-17955630294111837556141.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-25T06:39:00+07:00",
-"found": "2026-11-25T07:03:10+07:00"
 }
 ]
 }
