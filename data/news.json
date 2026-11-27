@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T22:30:26+07:00",
-"new": 3,
+"updated": "2026-11-27T22:41:13+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,17 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "e731318c246a",
+"title": "Khởi tố, tạm giam Master Anh Đức: người từng gây xôn xao với khóa học làm giàu giá 1,5 tỷ đồng",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ0tEY3BZTzR0WkFtYmVFQ3hYVjl1b3JMV09UTEZRR0FPWktjUXVpdGZoNC1nTFRhbjlIRXNKR18xUGl6QmI2NlhNSlg0MlhRa0pWSHliaGZsbDBKTGVTN0hQejFqMFhqeTg1S3dZb0N4UVVHZkdyZGpqQTdpdC1VRm91eXpqR1gxVU1FdVRUWjZKV1VkQzFtemVqYnd6eVRROHNXSW1MSmtWOFByanVMVDE0VDlxa2tQRG56RGlQZUVUREY1NXNvdXZmaGhSQQ?oc=5",
+"summary": "Nguồn: aFamily",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-27T22:31:00+07:00",
+"found": "2026-11-27T22:41:13+07:00"
+},
 {
 "id": "9dbee8a50db0",
 "title": "Tắm biển giữa lúc sóng lớn, học sinh 14 tuổi bị cuốn mất tích",
@@ -512,6 +523,17 @@
 "found": "2026-11-27T22:00:04+07:00"
 },
 {
+"id": "2c19ba87de84",
+"title": "Giám đốc dạy khởi nghiệp 'Master' Anh Đức bị bắt",
+"link": "https://vnexpress.net/giam-doc-day-khoi-nghiep-master-anh-duc-bi-bat-5149796.html",
+"summary": "Nguyễn Anh Đức, nổi tiếng trên mạng với các khóa học khởi nghiệp và video về học viên thành công, bị cáo buộc giấu doanh thu hơn 7,6 tỷ đồng để trốn thuế.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/934718347-n-jpeg-1795790767-9929-1795790793.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hl9RSHGlKtNMtau_mNNnIA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-27T21:10:50+07:00",
+"found": "2026-11-27T22:41:13+07:00"
+},
+{
 "id": "e77647e64e7e",
 "title": "Người phụ nữ bán rau ở Phú Thọ tự ý bỏ đi làm xa, không có chuyện bị chuốc thuốc mê, bắt cóc",
 "link": "https://vietnamnet.vn/nguoi-phu-nu-ban-rau-o-phu-tho-tu-y-bo-di-lam-xa-khong-phai-bi-bat-coc-2579512.html",
@@ -554,17 +576,6 @@
 "cat": "xh",
 "published": "2026-11-27T21:03:50+07:00",
 "found": "2026-11-27T20:10:49+07:00"
-},
-{
-"id": "b1937bd1f2c6",
-"title": "Khởi tố, tạm giam Master Anh Đức: người từng gây xôn xao với khóa học làm giàu giá 1,5 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmR6UjZGM2lGWkYtb013bDRoeWlRWVJpcFIzT2FERGhqNnltR1V3akdtNFV1U2RoZVZTVnBDSExvcExBX1dWWUhPOFV2YjB4T2taTEdTSnJpNWRqcUhWcjg0Y2N2WmJOTkpKWVdLRFhPbUJuSXY3dXNQaHZQTWJfV3ctbm1kaG5DM091Unpwc3VyU1ZPdm5INHRPRThuRjdJZlA3SGpQNUJTNWt5QUUtb041T25qczRIb0czd3kyRm9QaWtOSlJ1REJWZw?oc=5",
-"summary": "Nguồn: CafeF",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-27T21:02:00+07:00",
-"found": "2026-11-27T21:12:41+07:00"
 },
 {
 "id": "d265d89c6773",
@@ -28010,18 +28021,6 @@
 "source": "Thanh Niên",
 "cat": "tc",
 "published": "2026-11-25T13:11:00+07:00",
-"found": "2026-11-25T13:25:18+07:00"
-},
-{
-"id": "c79a2fab79ff",
-"title": "sử dụng đất",
-"link": "https://tuoitre.vn/ap-thue-02-dat-bo-hoang-tu-1-7-2027-nhung-nhom-su-dung-dat-nao-se-chiu-thue-100261122075357986.htm",
-"summary": "Áp thuế 0,2% đất bỏ hoang từ 1-7-2027: Những nhóm sử dụng đất nào sẽ chịu thuế? (Tuổi Trẻ)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpM4dA3XHKCETfgzB6MmKB-B8r2eRTXzv5GqrsfF0Efs-jYjXbAZF8VVEekZA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T13:10:00+07:00",
-"traffic": "200+",
 "found": "2026-11-25T13:25:18+07:00"
 }
 ]
