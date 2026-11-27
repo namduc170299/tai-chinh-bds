@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T18:05:42+07:00",
-"new": 12,
+"updated": "2026-11-27T18:20:55+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "56c389811ce3",
+"title": "Dấu ấn BIDV trên hành trình 30 năm của ngành chứng khoán Việt Nam",
+"link": "https://vneconomy.vn/dau-an-bidv-tren-hanh-trinh-30-nam-cua-nganh-chung-khoan-viet-nam.htm",
+"summary": "Ngày 27/11/2026, tại Lễ kỷ niệm 30 năm ngày truyền thống ngành chứng khoán Việt Nam, Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) được Ủy ban Chứng khoán Nhà nước (UBCKNN) trao tặng Giấy khen ghi nhận đã có nhiều thành tích, đóng góp cho sự phát triển của thị trường chứng…",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/27/52cac8e17c8744f5a17857730f5239c8-139350.jpg?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-27T18:08:35+07:00",
+"found": "2026-11-27T18:20:55+07:00"
+},
+{
 "id": "e716ff7f3d41",
 "title": "Value500 và Value10: Hành trình 3 năm ghi nhận doanh nghiệp “lớn và tốt”",
 "link": "https://vietnamnet.vn/value500-va-value10-hanh-trinh-3-nam-ghi-nhan-doanh-nghiep-lon-va-tot-2579398.html",
@@ -246,6 +257,17 @@
 "found": "2026-11-27T18:05:42+07:00"
 },
 {
+"id": "6ac88140d0d1",
+"title": "Tạm giữ đối tượng tống tiền 180 triệu đồng CSGT ở Hà Nội",
+"link": "https://dantri.com.vn/phap-luat/tam-giu-doi-tuong-tong-tien-180-trieu-dong-csgt-o-ha-noi-20261127174428735.htm",
+"summary": "(Dân trí) - N. nhiều lần đến chốt kiểm soát, dọa tố giác tổ công tác CSGT nhận hối lộ, yêu cầu cán bộ đưa 180 triệu đồng để rút đơn. Người đàn ông bị bắt quả tang khi nhận 80 triệu đồng.",
+"image": "https://cdnphoto.dantri.com.vn/40FlOydXQ1sv0IzbPYrYF2SI0mk=/2026/11/27/img20261127173930-1795776177448.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-27T18:02:52+07:00",
+"found": "2026-11-27T18:20:55+07:00"
+},
+{
 "id": "b093bcc6a988",
 "title": "Aeon Việt Nam vươn lên Top 8 Nơi làm việc tốt nhất 2026",
 "link": "https://vietnamnet.vn/aeon-viet-nam-vuon-len-top-8-noi-lam-viec-tot-nhat-2026-2579463.html",
@@ -255,6 +277,41 @@
 "cat": "tc",
 "published": "2026-11-27T18:00:00+07:00",
 "found": "2026-11-27T18:05:42+07:00"
+},
+{
+"id": "8cb683bc1ec7",
+"title": "nguyễn thành nam",
+"link": "https://www.24h.com.vn/tin-tuc-trong-ngay/vu-sach-chuyen-voi-thanh-bi-cao-nguyen-thanh-nam-bi-de-nghi-5-6-nam-tu-c46a1814614.html",
+"summary": "Vụ sách 'Chuyện với Thanh': Bị cáo Nguyễn Thành Nam bị đề nghị 5 - 6 năm tù (Tin tức 24h)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1rW5KKljQpDA_aERKz4XUQRLmTUyX9erb40OH51a3HiOzEmpgNS0e5fMPodU",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T18:00:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-27T18:20:55+07:00"
+},
+{
+"id": "a6b1a98c3aa4",
+"title": "thủ khoa bách khoa",
+"link": "https://vnexpress.net/thu-khoa-bach-khoa-tp-hcm-dat-gpa-4-0-990-toeic-5149369.html",
+"summary": "Nữ sinh Bách khoa tốt nghiệp điểm tuyệt đối 4.0, TOEIC 990 (VnExpress)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT43opNz8zLm8SBdb63wKxi9gMJ0LNj2pHldKlUJPcS3XjsSn0JTW-HDqa1PNo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T18:00:00+07:00",
+"traffic": "500+",
+"found": "2026-11-27T18:20:55+07:00"
+},
+{
+"id": "d99a124ff1a0",
+"title": "Thị trường chứng khoán Việt Nam được giám sát bằng AI",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFdZV3pVTW1XcGhNR1NZWk5xaUp6Rkc2VkU1U2lXb25NTWZobnY1UWYxZ0NJM21XMC04QnNsOXFuWi1TTFJ2alJnRHZYMTN1eHJTLXJ6RlhUMFlpSjlfWjctNGJXcF80bEZvT2VUbVhkZUhSQUJmN0NoSFBwRk5jVUNwS09KRUVpRC01dVd0MA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T17:54:00+07:00",
+"found": "2026-11-27T18:20:55+07:00"
 },
 {
 "id": "d4eb2b21fb19",
@@ -436,6 +493,17 @@
 "published": "2026-11-27T17:30:00+07:00",
 "traffic": "50000+",
 "found": "2026-11-27T18:05:42+07:00"
+},
+{
+"id": "a506357d1e0f",
+"title": "Những điểm mới đáng chú ý trong Luật Nhà ở sửa đổi vừa thông qua",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDNwLWZGQlpRaFFxNTk3dmhuVDJYOC16MFh3a1dsRjljOHF3ZndGUFZzNE50RWdVSXVnTlFpRjFDMGs4amNveVFKUnVDRUlJeDB2UkczYlB2TUtucUI5SUhVZVg3X3JBWXdCbHVlUWFhTFZoSE9TRlZETWlxUVJWN1R6QXdwVGh5Z29SX2h2eXFnZFJaVXRKbG9VQmdXZw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-27T17:30:00+07:00",
+"found": "2026-11-27T18:20:55+07:00"
 },
 {
 "id": "bd7326354dba",
@@ -4102,6 +4170,17 @@
 "found": "2026-11-27T13:54:56+07:00"
 },
 {
+"id": "9a5d5eca3ab3",
+"title": "Thị trường chờ lãi suất, doanh nghiệp chờ dòng tiền - Tạp chí Nhà Quản Trị - TheLEADER",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTWRWaFppWjl4TlRCdTczSzQ3TVVnWjRwRlllTm52d3BWWlZhRllVOWIxdFZtcHdmYjY1NG4tWkk1QzI3a3hLVVFwd0E5NXdLM2hXa3BiTkF0MkI4U2V5LVFSSTR1TXdSSjZBak1qeFZaZ2NIclM5ZkFwSDdyYU82aXNTZHNUVWk1V053?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T12:00:00+07:00",
+"found": "2026-11-27T18:20:55+07:00"
+},
+{
 "id": "97b2cacc7a62",
 "title": "Các trường hợp không được cấp sổ đỏ từ năm 2027",
 "link": "https://kenh14.vn/cac-truong-hop-khong-duoc-cap-so-do-tu-nam-2027-21526112712061189.chn",
@@ -4155,6 +4234,17 @@
 "cat": "tc",
 "published": "2026-11-27T11:51:00+07:00",
 "found": "2026-11-27T11:53:54+07:00"
+},
+{
+"id": "379a20c409f4",
+"title": "Chuyên gia: Cơ hội đầu tư xuất hiện sớm khi ít ai nghĩ tới nhất, thị trường có thể vượt xa kỳ vọng",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUJfNVlIY2NIaWNGX0lMVGhjYk9SRlhNZnU5ZGkxcmhlVEttV3RfYXF6V0RnSDFRT3ZuU3NOeVJGRkZ4WTk3N0NuX0Rzb19zZUJsUExkRklKMk1SSmt1MWNKUFpOdF9wYkdaVW9xNnU5MXlGX1Mwc0Itckt2NEl6LUhXZGdVc01KY3lnUU5DQUJQdGVuaU5ZMGlPeVhVbmJkU0FfV1BkWkc3OFhuOVZ2VEp2dE1BR0pnbG1WUlhQU1dSbVc3MF9zTw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T11:50:48+07:00",
+"found": "2026-11-27T18:20:55+07:00"
 },
 {
 "id": "88c2367413d1",
@@ -4767,6 +4857,17 @@
 "cat": "tc",
 "published": "2026-11-27T10:55:00+07:00",
 "found": "2026-11-27T11:03:17+07:00"
+},
+{
+"id": "58d7d1a2bd14",
+"title": "ECB chọn người kế nhiệm bà Lagarde khi lạm phát tăng trở lại",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUU93RXV3bUZIbU5FR3VIQmgzOGZXb0JFelQ1eXcxanBIeUVLVzMzckkxdndFWVdMbGpEUTB1ZVVHSFVYN0UtNzNuQkNXZmJKUmxpV1RjVm1vS0xYcmNoQ3FEaGN0bWlhR1czaVVxVVE5RlJqRGF2RV9RTU0wbWFHVjRXMUVoSHVsUHJiN2c4ejJlRjZvcFdLWg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T10:55:00+07:00",
+"found": "2026-11-27T18:20:55+07:00"
 },
 {
 "id": "87bde3940efc",
@@ -27917,105 +28018,6 @@
 "cat": "tc",
 "published": "2026-11-25T10:27:00+07:00",
 "found": "2026-11-26T06:16:44+07:00"
-},
-{
-"id": "3617b13d7551",
-"title": "Người phụ nữ nước ngoài mang 3 khẩu súng, 17 viên đạn qua cửa khẩu Cầu Treo",
-"link": "https://dantri.com.vn/phap-luat/nguoi-phu-nu-nuoc-ngoai-mang-3-khau-sung-17-vien-dan-qua-cua-khau-cau-treo-20261125102050258.htm",
-"summary": "(Dân trí) - Một phụ nữ nước ngoài bị phát hiện mang 3 khẩu súng ngắn, 17 viên đạn từ Lào vào Việt Nam qua cửa khẩu Cầu Treo, Hà Tĩnh. Người này khai được thuê vận chuyển số vũ khí trên để lấy tiền công.",
-"image": "https://cdnphoto.dantri.com.vn/1_BbaT43K2whPL7wdZNGeuYWRDw=/2026/11/25/sung1-cropped-1795576605749.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-25T10:26:52+07:00",
-"found": "2026-11-25T11:09:57+07:00"
-},
-{
-"id": "b072c82b34da",
-"title": "Gắn kết để phát triển",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CenF3LUpyTWhGRnpPbHlnRXo0c3BvMnlYNEF1dWtHanluNi1fNkpNV2k0dDF6dFVQcU90cVc2d2tXMzFnUTZTOGdURVJ0NENuUkJDVnhReFZ4ZnpqTllyM0dhajE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T10:26:20+07:00",
-"found": "2026-11-25T10:54:47+07:00"
-},
-{
-"id": "84b537a7f8e4",
-"title": "Phát hiện một máy bay đặc biệt hạ cánh tại siêu sân bay lớn nhất miền Bắc: dự án gấp 1,3 lần sân bay Nội Bài, cách Hà Nội 40km, vốn 206.000 tỷ đồng",
-"link": "https://kenh14.vn/phat-hien-mot-may-bay-dac-biet-ha-canh-tai-sieu-san-bay-lon-nhat-mien-bac-du-an-gap-13-lan-san-bay-noi-bai-cach-ha-noi-40km-von-206000-ty-dong-215261125103157871.chn",
-"summary": "Đây là một trong những bước chuẩn bị quan trọng trước khi sân bay lớn nhất miền Bắc đi vào khai thác.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795577481784-17955774820061920368942.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-25T10:26:00+07:00",
-"found": "2026-11-25T10:39:37+07:00"
-},
-{
-"id": "281e92dd1288",
-"title": "8 ngân hàng muốn thành lập công ty con tại Trung tâm Tài chính quốc tế Việt Nam",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRW9GYWxTc3E3RFFFOGJGYzdtbXdRSnViMElDMnhjbE1sb3RKeDZRZ3l3SDJlNkwzMHU2ZWlOUUxkeHZ0SUhaalRXVWkzaDBLNXNjYUJuWTI4eURIeEVWRGxtT2JvS0tTT2JwS3ZDLW96dWlSQnVyS2JxN1ExaHlxTUl0RjRvTDFaVmdfcWtPeEYzaWZYZTMzRUMwOGNaMi16MmtYY0VtVGhNSjlHV1hMZ0FB?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T10:25:12+07:00",
-"found": "2026-11-25T10:39:37+07:00"
-},
-{
-"id": "cd96b284aa8f",
-"title": "Năm 2027, tỉ lệ nuôi tôm nước lợ thành công từ 60% trở lên mới có lời",
-"link": "https://tuoitre.vn/nam-2027-ty-le-nuoi-tom-nuoc-lo-thanh-cong-tu-60-tro-len-moi-co-loi-100261125082959818.htm",
-"summary": "Ngành chế biến tôm xuất khẩu năm 2027 gặp nhiều thách thức lớn. Để chủ động ứng phó, doanh nghiệp Việt Nam đang tập trung nguồn lực phát triển chiều sâu, tăng giá trị trên từng sản phẩm.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/xnk-tom-edit-1795577232372582665372-15-0-1615-2560-crop-179557742275073893096.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-25T10:24:00+07:00",
-"found": "2026-11-25T11:44:17+07:00"
-},
-{
-"id": "a0b8f0a26ddf",
-"title": "Mâu thuẫn vì nói lớn tiếng, đánh chết hàng xóm",
-"link": "https://tuoitre.vn/mau-thuan-vi-noi-lon-tieng-danh-chet-hang-xom-100261125093726908.htm",
-"summary": "Sau mâu thuẫn cá nhân, An dùng tay đánh vào mặt, đầu và thúc đầu gối vào bụng anh Thuận. Nạn nhân được đưa đi cấp cứu nhưng đã tử vong trên đường đến bệnh viện.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/04437549945353800760912fe02227904590d7bfa5613f9f9fbc72-17955721461861645560943-0-168-752-1371-crop-1795575566002420757129-181-224-752-1138-crop-1795577283991811177059.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T10:22:00+07:00",
-"found": "2026-11-25T12:29:46+07:00"
-},
-{
-"id": "bcfc25c9ad51",
-"title": "Nguy hiểm từ những chiếc xe đỗ sai chỗ",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JdlBtUmg4Y3VUamNHc1BKbXdpWlkzT0pVZWpYY1B5Yzd5b25DLWM0b19JM3FaZzhCTTNMQk81LTc4OHFWV0dlMmtNZVhuVTc5SEhNZjBnMVUxOUxtMEFLb2JPS0ZSTl9FejRnbFVn?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T10:20:52+07:00",
-"found": "2026-11-25T11:25:07+07:00"
-},
-{
-"id": "4f5fb8f0d7cf",
-"title": "Sáng 25/11: NHNN niêm yết tỷ giá trung tâm ở mức 25.679 đồng",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMmZFdG15alljeGRBLXV6YnpmbXVnbnVGZy1ZbHVVTndITFZ6bzhGN2FpT2pLSVliWXhYdU94bVlkMHV0aFBIUm1zNzFteTRqVEh0VExaU1pZdDhQN0JLckhBNjFVRk1oMzY3OVcyaENMMUlERzg0R3E2WElpa1NmOWhvREZHdEpmQWI5a1Vud1JtWGEzWkFj?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T10:19:50+07:00",
-"found": "2026-11-25T10:39:37+07:00"
-},
-{
-"id": "13a2e25b23cb",
-"title": "Thực hư hình ảnh \"hot girl\" được cho là chủ cơ sở thẩm mỹ bị khởi tố",
-"link": "https://dantri.com.vn/phap-luat/thuc-hu-hinh-anh-hot-girl-duoc-cho-la-chu-co-so-tham-my-bi-khoi-to-20261125090629631.htm",
-"summary": "(Dân trí) - Hình ảnh cô gái xinh đẹp lan truyền trên mạng xã hội với thông tin là chủ cơ sở thẩm mỹ ở Đắk Lắk bị khởi tố khiến dư luận chú ý. Cơ quan công an khẳng định người trong ảnh không phải chủ cơ sở này.",
-"image": "https://cdnphoto.dantri.com.vn/_DHhKjDfQ2IvpDHt_TsiWzMjQR0=/2026/11/25/thuc-hu-hinh-anh-hot-girl-duoc-cho-la-chu-co-so-tham-my-bi-khoi-to-1-edited-edited-1795573416578.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-25T10:19:46+07:00",
-"found": "2026-11-25T11:09:57+07:00"
 }
 ]
 }
