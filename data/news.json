@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T04:51:42+07:00",
-"new": 1,
+"updated": "2026-11-28T05:06:51+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 27
+"count": 43
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,52 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "52f3c2a87333",
+"title": "5 thửa đất chung mảnh có diện tích sai lệch, cấp đổi sổ đỏ thế nào?",
+"link": "https://vietnamnet.vn/5-thua-dat-chung-manh-co-dien-tich-sai-lech-cap-doi-so-do-the-nao-2577831.html",
+"summary": "Một người dân đang gặp vướng mắc khi thực hiện thủ tục cấp lại Giấy chứng nhận quyền sử dụng đất cho 5 thửa đất có diện tích và hình thể sai lệch với sổ đỏ.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/5-thua-dat-chung-manh-co-dien-tich-sai-lech-cap-doi-so-do-the-nao-3148.jpg?width=0&s=Y8MqrQStm81_SJFkKmQdQg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T05:01:00+07:00",
+"found": "2026-11-28T05:06:51+07:00"
+},
+{
+"id": "aa2aaf5e6090",
+"title": "Mất hộ chiếu khi du lịch tại Việt Nam, khách nước ngoài cần làm gì?",
+"link": "https://thanhnien.vn/mat-ho-chieu-khi-du-lich-tai-viet-nam-khach-nuoc-ngoai-can-lam-gi-185261127091059267.htm",
+"summary": "Nếu không may làm rơi hoặc bị mất hộ chiếu trong thời gian ở Việt Nam, Công an TP.HCM lưu ý du khách nước ngoài cần bình tĩnh thực hiện 3 bước quy định để đảm bảo quyền lợi và không gián đoạn lịch trình xuất cảnh.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/tnw-xnc-16-17957451871591241040543-320-0-1920-2560-crop-1795745250043614378438.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T04:54:00+07:00",
+"found": "2026-11-28T05:06:51+07:00"
+},
+{
+"id": "73ebc9cdd05b",
+"title": "ngoại hạng anh",
+"link": "https://www.24h.com.vn/bong-da/du-doan-vong-12-ngoai-hang-anh-arsenal-gieo-sau-man-city-mu-pochettino-cho-3-diem-dau-tay-c48a1814449.html",
+"summary": "Dự đoán vòng 12 Ngoại hạng Anh: Arsenal gieo sầu Man City, MU - Pochettino chờ 3 điểm đầu tay (Tin tức 24h)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGIsUL5V1rPiKJUgp5pPHpgAV7VoGFnbKGjlLpjl2ver_9AKgnfBPoZiTnkM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T04:50:00+07:00",
+"traffic": "1000+",
+"found": "2026-11-28T05:06:51+07:00"
+},
+{
+"id": "23ebae84297e",
+"title": "bologna",
+"link": "https://www.legaseriea.it/serie-a/news/venezia-bologna-2026-2027-0-0-cronaca-risultato-gol",
+"summary": "Venezia-Bologna 0-0, Stankovic e Skorupski protagonisti (Lega Serie A)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLAJkpOLXz7O2PkAm1Bs7mP3wK3_Vm1RmXZDQYAxV5jE_WtajKGct3Tf5lwvo",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T04:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-28T05:06:51+07:00"
+},
+{
 "id": "cc6faa55c37f",
 "title": "nottm forest vs chelsea",
 "link": "https://baonghean.vn/en/truc-tiep-nottingham-forest-vs-chelsea-nottingham-forest-noi-rong-cach-biet-3-1-10356765.html",
@@ -221,7 +267,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T04:30:00+07:00",
-"traffic": "200+",
+"traffic": "100+",
 "found": "2026-11-28T04:51:42+07:00"
 },
 {
@@ -247,6 +293,18 @@
 "published": "2026-11-28T04:20:00+07:00",
 "traffic": "100+",
 "found": "2026-11-28T04:36:32+07:00"
+},
+{
+"id": "c97076a0034f",
+"title": "bính ngọ",
+"link": "https://trangtraiviet.danviet.vn/top-4-con-giap-tien-bac-rung-rinh-nhat-tu-gio-den-cuoi-nam-binh-ngo-2026-d1478336.html",
+"summary": "Top 4 con giáp tiền bạc rủng rỉnh nhất từ giờ đến cuối năm Bính Ngọ 2026 (Trang Trại Việt)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzTAipZYKOLnLhjZT-dJlUEsJ8fWx5HzwwuoygfX32QxXK7IKLEWS9fx6BCNQ",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T04:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-28T05:06:51+07:00"
 },
 {
 "id": "b9967697265a",
@@ -27971,61 +28029,6 @@
 "source": "VnExpress",
 "cat": "xh",
 "published": "2026-11-25T14:17:51+07:00",
-"found": "2026-11-25T15:21:37+07:00"
-},
-{
-"id": "bcc8ee7ef4a6",
-"title": "Tiếp cận gầm xe, lấy cắp chiếc Lexus trong vài giây",
-"link": "https://vnexpress.net/tiep-can-gam-xe-lay-cap-chiec-lexus-trong-vai-giay-5147965.html",
-"summary": "Camera giám sát ghi lại cảnh nghi phạm đi thẳng về phía đầu chiếc Lexus đời 2024, thao tác bên dưới gầm trong chốc lát rồi lái xe đi.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/nhcameraanninhvimitnnibt-17954-8876-7375-1795408045.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5Gch8eZ1ipa3fuXLaSAG9w",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-25T14:17:51+07:00",
-"found": "2026-11-26T10:53:10+07:00"
-},
-{
-"id": "c18e2d09d81d",
-"title": "Khơi thông dòng vốn xanh nghìn tỷ USD, doanh nghiệp cần làm gì để hút tiền?",
-"link": "https://dantri.com.vn/kinh-doanh/khoi-thong-dong-von-xanh-nghin-ty-usd-doanh-nghiep-can-lam-gi-de-hut-tien-20261125130838341.htm",
-"summary": "(Dân trí) - Dòng vốn xanh toàn cầu đang tăng tốc với quy mô hàng nghìn tỷ USD. Để tiếp cận nguồn lực này, theo chuyên gia, doanh nghiệp Việt Nam buộc phải giải bài toán minh bạch dữ liệu và tiêu chuẩn ESG.",
-"image": "https://cdnphoto.dantri.com.vn/LHmfv2W2p0HZYI8GmcQ7JG47jw0=/2026/11/25/khoi-thong-dong-von-xanh-nghin-ty-doanh-nghiep-can-gi-de-hut-tien-1-edited-cropped-1795590968008.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-25T14:17:19+07:00",
-"found": "2026-11-25T15:06:26+07:00"
-},
-{
-"id": "cdf0898023dd",
-"title": "Bí thư Thành ủy TPHCM Trần Lưu Quang khảo sát các dự án trọng điểm",
-"link": "https://cafef.vn/bi-thu-thanh-uy-tphcm-tran-luu-quang-khao-sat-cac-du-an-trong-diem-188261125134256455.chn",
-"summary": "Bí thư Thành ủy TPHCM Trần Lưu Quang cùng đoàn công tác đã đến khảo sát dự án cảng nước sâu Gemalink, dự án cảng container quốc tế Cái Mép Hạ.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795588934795-17955889365861325204510.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T14:17:00+07:00",
-"found": "2026-11-25T14:20:47+07:00"
-},
-{
-"id": "e64ef76981fd",
-"title": "Trưởng thôn Gen Z: Kỹ sư IT bỏ phố về quê để gánh vác việc làng",
-"link": "https://tuoitre.vn/truong-thon-gen-z-ky-su-it-bo-pho-ve-que-de-ganh-vac-viec-lang-100261125105837157.htm",
-"summary": "Rời phố về quê, có người từng làm công nghệ, có người vừa làm mẹ lần đầu, những trưởng thôn Gen Z ở xã miền núi Sơn Hòa, tỉnh Đắk Lắk (trước là Phú Yên) đang viết nên câu chuyện rất khác về người trẻ làm việc làng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/1-3527-1795574946481495461161-53-0-853-1280-crop-1795577651379320644907.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T14:16:00+07:00",
-"found": "2026-11-25T15:21:37+07:00"
-},
-{
-"id": "057fb4fe4142",
-"title": "Thủ đoạn TikToker 'Thị Nở' lừa khách xem livestream khiêu dâm",
-"link": "https://vnexpress.net/thu-doan-tiktoker-thi-no-lua-khach-xem-livestream-khieu-dam-5148713.html",
-"summary": "Sau khi kiếm hàng trăm triệu mỗi tháng từ livestream khiêu dâm, Ngô Thị Bích Thảo (tức TikToker \"Thị Nở\") bị xác định cùng bạn trai lừa khách chuyển tiền mua video, gọi điện khiêu dâm.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/1dujpeg17954858675488179548590-3440-8937-1795587900.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qb_86cOlX2lnA-Ak1O0rng",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-25T14:15:34+07:00",
 "found": "2026-11-25T15:21:37+07:00"
 }
 ]
