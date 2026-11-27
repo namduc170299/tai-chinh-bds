@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T22:00:04+07:00",
-"new": 6,
+"updated": "2026-11-27T22:15:15+07:00",
+"new": 1,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 24
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,17 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "a4c8875d3196",
+"title": "Tập đoàn PAN phản hồi về việc công an xác minh dấu hiệu trốn thuế",
+"link": "https://vietnamnet.vn/ket-qua-xac-minh-cua-cong-an-ve-dau-hieu-tron-thue-lien-quan-den-pan-2573025.html",
+"summary": "Tập đoàn PAN cho biết đã nộp đủ hơn 2 tỷ đồng thuế thu nhập cá nhân khấu trừ khi trả cổ tức. Cơ quan điều tra Công an tỉnh Tây Ninh đã tạm đình chỉ giải quyết nguồn tin.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/tap-doan-pan-phan-hoi-ve-viec-cong-an-xac-minh-dau-hieu-tron-thue-3151.jpeg?width=0&s=o207oXSua3HtcVY5qXZsyg",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-27T22:02:30+07:00",
+"found": "2026-11-27T22:15:15+07:00"
+},
 {
 "id": "3b1fceb44831",
 "title": "Sở Xây dựng Hà Nội đề xuất dùng lòng đường 272 tuyến phố để trông giữ xe",
@@ -598,7 +609,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T20:50:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-27T21:28:12+07:00"
 },
 {
@@ -28012,17 +28023,6 @@
 "cat": "xh",
 "published": "2026-11-25T13:06:00+07:00",
 "found": "2026-11-25T14:05:38+07:00"
-},
-{
-"id": "14efc6c0a1e9",
-"title": "Quản trị viên nhóm Facebook ở Huế bị phạt 15 triệu đồng vì để lọt video nhạy cảm",
-"link": "https://tuoitre.vn/quan-tri-vien-nhom-facebook-o-hue-bi-phat-15-trieu-dong-vi-de-lot-video-nhay-cam-100261125124441314.htm",
-"summary": "Sự việc bắt ghen trên xe ô tô lan truyền trên mạng xã hội khiến quản trị viên nhóm Facebook “Garage Sale in Huế” bị phạt 15 triệu đồng do không kiểm duyệt, ngăn chặn và gỡ bỏ video có nội dung vi phạm pháp luật.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/facebook-nhom-bi-paht-edit-rotate-17955871957991745296720-484-288-1682-2205-crop-17955872906661727735324.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T13:03:00+07:00",
-"found": "2026-11-25T14:20:47+07:00"
 }
 ]
 }
