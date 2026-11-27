@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T17:35:20+07:00",
-"new": 22,
+"updated": "2026-11-27T17:50:31+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 45
+"count": 44
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,50 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "be1aadc29e83",
+"title": "Nóng: Kiểm toán Nhà nước kiến nghị tính lại giá đất dự án Lotte Eco Smart City Thủ Thiêm",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0tpR3BtdlRqQ0tfTHZzNXQwemQ0cFhQc1pmc21tRVpfYlA2aDd1djZSa1VUUFpxbWJ2UjV3Z0lQbXhCenVVclFwU3VYVDgzeVFVSy1Nelo2UW9oMnVFUURDQ3V3d0pISU1EWDBDZ3hWaVBmc0FrT09xTTZiejRGNTFNZmF5YVRrU1I0ZHhockZZZ3JBTHcyLVhFVmFTNFJhcDB0eVR2UDkzUmhNbU0zZTAzRGliMmp6SFRVLQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-27T17:44:00+07:00",
+"found": "2026-11-27T17:50:31+07:00"
+},
+{
+"id": "4fb2964527c8",
+"title": "Cận cảnh chung cư Roxana Plaza xây gần 10 năm, khách vẫn chưa được nhận nhà",
+"link": "https://cafef.vn/can-canh-chung-cu-roxana-plaza-xay-gan-10-nam-khach-van-chua-duoc-nhan-nha-188261127160538416.chn",
+"summary": "Gần 10 năm kể từ khi triển khai, chung cư Roxana Plaza tại TP.HCM vẫn chưa bàn giao căn hộ, trong khi nhiều khách hàng đã thanh toán phần lớn tiền mua nhà.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795770282794-1795770286864623181307.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T17:40:00+07:00",
+"found": "2026-11-27T17:50:31+07:00"
+},
+{
+"id": "08c71a015cca",
+"title": "The Victoria mang đến trải nghiệm sống đa tầng cho gia đình nhiều thế hệ",
+"link": "https://vietnamnet.vn/the-victoria-va-trai-nghiem-song-cho-gia-dinh-nhieu-the-he-2579459.html",
+"summary": "Tại khu cao tầng The Victoria thuộc Vinhomes Star City (Thanh Hóa), hệ tiện ích trong nhà và ngoài trời được bố trí thành các lớp trải nghiệm đan xen, đáp ứng trọn vẹn nhu cầu vận động, thư giãn và gắn kết của mọi thế hệ cư dân xứ Thanh.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/the-victoria-mang-den-trai-nghiem-song-da-tang-cho-gia-dinh-nhieu-the-he-2189.jpg?width=0&s=jfPmBweNAQLvukkGEx7HYA",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-27T17:40:00+07:00",
+"found": "2026-11-27T17:50:31+07:00"
+},
+{
+"id": "9d6e37e58d48",
+"title": "Bắt tạm giam Lừ Văn Thái SN 2007",
+"link": "https://kenh14.vn/bat-tam-giam-lu-van-thai-sn-2007-215261127164615263.chn",
+"summary": "Sau vụ xô xát, hỗn chiến trước quán karaoke ở Sơn La khiến một người bị thương, Lừ Văn Thái đã bỏ trốn khỏi địa phương nhằm trốn tránh sự truy bắt của lực lượng công an.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795772750334-1795772750724429702824.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T17:37:00+07:00",
+"found": "2026-11-27T17:50:31+07:00"
+},
 {
 "id": "cb633983d176",
 "title": "Vì sao gần 1,7 triệu dân rời Đồng bằng sông Cửu Long trong gần 10 năm qua?",
@@ -266,6 +310,18 @@
 "cat": "xh",
 "published": "2026-11-27T17:30:00+07:00",
 "found": "2026-11-27T17:35:20+07:00"
+},
+{
+"id": "f481590c9d32",
+"title": "quả bóng vàng việt nam",
+"link": "https://thanhnien.vn/cong-vinh-chon-dinh-bac-va-nguyen-luc-su-lap-lai-dac-biet-cua-lich-su-185261126170047118.htm",
+"summary": "Công Vinh chọn Đình Bắc và Nguyễn Lực: Sự lặp lại đặc biệt của lịch sử? (Thanh Niên)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyaYsqsK1A2npJJ0TZTSICsrDNv7g4OpSuoLai8kzoP3Zkpyy2n1voUNFPgX8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T17:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-27T17:50:31+07:00"
 },
 {
 "id": "bd7326354dba",
@@ -905,7 +961,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T16:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-27T16:53:17+07:00"
 },
 {
@@ -27956,61 +28012,6 @@
 "cat": "bds",
 "published": "2026-11-25T10:04:00+07:00",
 "found": "2026-11-25T10:54:47+07:00"
-},
-{
-"id": "1d8c287f5f64",
-"title": "Giá cả đầu ngày: Cá tra, cá hú nhích nhẹ, khoai mỡ rớt giá tại vườn",
-"link": "https://tuoitre.vn/gia-ca-dau-ngay-ca-tra-ca-hu-nhich-nhe-khoai-mo-rot-gia-tai-vuon-100261125094913734.htm",
-"summary": "Sau một tháng, giá nhiều mặt hàng nông sản tại chợ có sự biến động trái chiều. Trong khi nhiều loại rau củ giảm giá từ 3.000-10.000 đồng/kg, giá một số loại thủy sản tăng, đáng chú ý cá hú tăng 20.000 đồng/kg.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/khoai-mo-1-1795572219360915753565-0-0-1600-2560-crop-1795574027505727999696.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-25T10:04:00+07:00",
-"found": "2026-11-25T11:44:17+07:00"
-},
-{
-"id": "0c371c8c8004",
-"title": "Cầm biên bản quá hạn lái xe, tài xế bị phạt lỗi không bằng lái: Vì sao?",
-"link": "https://thanhnien.vn/cam-bien-ban-qua-han-lai-xe-tai-xe-bi-phat-loi-khong-bang-lai-vi-sao-185261125093751147.htm",
-"summary": "Cầm biên bản quá hạn lái xe, tài xế bị CSGT xử phạt lỗi không có bằng lái 19 triệu đồng, chủ phương tiện là doanh nghiệp cũng bị phạt 58 triệu đồng vì giao xe cho người không đủ điều kiện. Vì sao?",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/edit-anh-man-hinh-2026-11-25-luc-093340-1795574062777208424943-0-145-682-1236-crop-1795574120114426368287.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T10:03:00+07:00",
-"found": "2026-11-25T10:17:50+07:00"
-},
-{
-"id": "6e287061b2eb",
-"title": "CEO sinh năm 1986 nhận nhiều ý kiến trái chiều vì loạt clip ghi lại hiện trường vụ nổ ở Nguyễn Văn Tuyết như “vlog du lịch”",
-"link": "https://kenh14.vn/ceo-sinh-nam-1986-nhan-nhieu-y-kien-trai-chieu-vi-loat-clip-ghi-lai-hien-truong-vu-no-o-nguyen-van-tuyet-nhu-vlog-du-lich-215261125093756007.chn",
-"summary": "N.M.T. (SN 1986), được biết đến với tên gọi T.T.D đã nhận nhiều ý kiến trái chiều sau khi đăng tải liên tiếp các video trò chuyện với nhân chứng vụ nổ nghiêm trọng ở phố Nguyễn Văn Tuyết (Hà Nội).",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795574189552-1795574190313112000460.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-25T10:03:00+07:00",
-"found": "2026-11-25T10:17:50+07:00"
-},
-{
-"id": "a4ed08a7fb72",
-"title": "Chính thức công bố Vietnam CX Report 2027 - Báo cáo Trải nghiệm Khách hàng Việt Nam",
-"link": "https://kenh14.vn/chinh-thuc-cong-bo-vietnam-cx-report-2027-bao-cao-trai-nghiem-khach-hang-viet-nam-21526112508531573.chn",
-"summary": "Báo cáo do SOI.Pro phối hợp với CafeBiz thực hiện cho thấy mức độ hài lòng của khách hàng Việt tăng nhẹ, song gần 45% doanh nghiệp vẫn ở hai cấp độ thấp nhất về năng lực quản trị trải nghiệm khách hàng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795571555086-17955715554701676272437.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-25T10:02:00+07:00",
-"found": "2026-11-25T10:17:50+07:00"
-},
-{
-"id": "ec65a6c36e66",
-"title": "Nhiều doanh nghiệp bảo hiểm phi nhân thọ vượt kế hoạch lợi nhuận năm 2026",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalhrcENiUjNlUHJTOVRDeWV6aDBZaE9QeE1PUm1QQVNwMXM2Q0t2dlpGdURFMTR4S0QtVXFfNERsRXY0Z3pONFhCVnZ1UThLSEljUEIxNDNoZFk0SUVZWVFTQ2hIMW9HMGdRLWZjX2V0VEpXUkNTT3EyQ0J0cThtd1Ixa2xKWlV5Tk14N2V1MFZKR29XWmY5X0owRThHSWtrTXV2MFBNMjZrdw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T10:02:00+07:00",
-"found": "2026-11-25T10:39:37+07:00"
 }
 ]
 }
