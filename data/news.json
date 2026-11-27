@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T05:37:50+07:00",
-"new": 10,
+"updated": "2026-11-28T05:53:38+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -163,7 +163,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 12,
+"count": 11,
 "via": "bing"
 },
 {
@@ -216,6 +216,51 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "cd1afc56343b",
+"title": "Nhà đầu tư nên bỏ tiền vào đâu khi ‘mua gì cũng lỗ’?",
+"link": "https://vietnamnet.vn/nha-dau-tu-nen-bo-tien-vao-dau-khi-mua-gi-cung-lo-2578613.html",
+"summary": "Khi vàng, bạc, cổ phiếu công nghệ đồng loạt lao dốc, các tổ chức tài chính lớn nhất thế giới không khuyên nhà đầu tư đi tìm &quot;đáy hoàn hảo&quot;, mà là xây dựng một danh mục đủ vững để không bị loại khỏi cuộc chơi.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/nha-dau-tu-nen-bo-tien-vao-dau-khi-mua-gi-cung-lo-1629.png?width=0&s=QxkNuNGmn7E6BhetWWgGeQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-28T05:50:00+07:00",
+"found": "2026-11-28T05:53:38+07:00"
+},
+{
+"id": "ec0ed578f0cd",
+"title": "Chung cư được cho thuê theo ngày, căn hộ nào có cơ hội tăng giá thuê?",
+"link": "https://vietnamnet.vn/chung-cu-duoc-cho-thue-theo-ngay-can-ho-nao-co-co-hoi-tang-gia-thue-2579236.html",
+"summary": "Việc cho phép chung cư cho thuê ngắn ngày trở lại mở ra cơ hội tăng thu nhập cho chủ căn hộ, nhưng cũng đặt ra yêu cầu về khả năng khai thác và cạnh tranh trên thị trường lưu trú.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/chung-cu-duoc-cho-thue-theo-ngay-can-ho-nao-co-co-hoi-tang-gia-thue-1644.jpg?width=0&s=fr590V7bZWl7EbReXu6XFA",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-28T05:45:00+07:00",
+"found": "2026-11-28T05:53:38+07:00"
+},
+{
+"id": "6650a8090541",
+"title": "Từ vốn hỗ trợ đến sinh kế tiền tỷ ở vùng đồng bào dân tộc thiểu số Lạng Sơn",
+"link": "https://vietnamnet.vn/tu-von-ho-tro-den-sinh-ke-tien-ty-o-vung-dong-bao-dan-toc-thieu-so-lang-son-2579347.html",
+"summary": "Nhờ nguồn lực từ Chương trình mục tiêu quốc gia, nhiều hộ dân vùng đồng bào dân tộc thiểu số ở Lạng Sơn đã liên kết phát triển chăn nuôi, tạo nguồn thu hàng trăm triệu đến hàng tỷ đồng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/tu-von-ho-tro-den-sinh-ke-tien-ty-o-vung-dong-bao-dan-toc-thieu-so-lang-son-1626.png?width=0&s=Y-wcjFqXuqJXk0anhHKBAg",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-28T05:45:00+07:00",
+"found": "2026-11-28T05:53:38+07:00"
+},
+{
+"id": "f221ca6f1d78",
+"title": "inter miami vs",
+"link": "https://vnexpress.net/messi-gay-tranh-cai-vi-nem-bong-vao-mat-doi-thu-o-mls-5147619.html",
+"summary": "Messi gây tranh cãi vì ném bóng vào mặt đối thủ ở MLS (VnExpress)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvk1MwW2t2H8OziElbb3H5P7KXhIUcjgnpTh6EntBT2CWtwqNRr7BntLN_4Q",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T05:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-28T05:53:38+07:00"
+},
+{
 "id": "0074cf4d9da2",
 "title": "thứ hạng của levante gặp racing santander",
 "link": "https://bongdaplus.vn/la-liga/nhan-dinh-bong-da-levante-vs-racing-03h00-ngay-28-11-cho-mua-ban-thang-tai-ciudad-de-valencia-5300192611.html",
@@ -224,7 +269,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T05:20:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-28T05:37:50+07:00"
 },
 {
@@ -374,7 +419,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T04:20:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-28T04:36:32+07:00"
 },
 {
@@ -6673,6 +6718,17 @@
 "found": "2026-11-27T12:50:24+07:00"
 },
 {
+"id": "9de0f5348a73",
+"title": "Mới đây, thông tin YouTuber Hậu Hoàng mắc ung thư máu ở tuổi 31 khiến nhiều người bất ngờ.",
+"link": "https://eva.vn/suc-khoe/youtuber-hau-hoang-nghen-ngao-tiet-lo-phat-hien-mac-ung-thu-mau-can-benh-nay-co-phong-duoc-va-chua-khoi-c131a690388.html",
+"summary": "Nguồn: Eva.vn",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-27T12:20:00+07:00",
+"found": "2026-11-28T05:53:38+07:00"
+},
+{
 "id": "fe8608750f39",
 "title": "Ông Đặng Lê Nguyên Vũ bán cá phê đá, bánh mì nóng giòn tại siêu công trình lớn nhất Đông Nam Á của ông Phạm Nhật Vượng",
 "link": "https://kenh14.vn/ong-dang-le-nguyen-vu-ban-ca-phe-da-banh-mi-nong-gion-tai-sieu-cong-trinh-lon-nhat-dong-nam-a-cua-ong-pham-nhat-vuong-215261127122601798.chn",
@@ -12790,6 +12846,17 @@
 "found": "2026-11-26T21:18:18+07:00"
 },
 {
+"id": "91f0ec4cfd48",
+"title": "Lý do phim AI về 'gái xấu' gây sốt màn ảnh",
+"link": "https://vnexpress.net/ly-do-phim-ai-ve-gai-xau-gay-sot-man-anh-5149184.html",
+"summary": "Phim ngắn AI Trung Quốc \"Hồ ly xấu xí\" do một người thực hiện, hút hàng trăm triệu lượt xem nhờ nội dung, phong cách thẩm mỹ đi ngược xu hướng.",
+"image": "https://i1-giaitri.vnecdn.net/2026/11/26/phim-1795677403-6100-1795678687.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nZsFXoH6UOtE2AGOBBfMDg",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-26T21:00:02+07:00",
+"found": "2026-11-28T05:53:38+07:00"
+},
+{
 "id": "889c5e8b72f7",
 "title": "Tiêu hủy ma túy tang vật trong vụ án Bùi Đình Khánh",
 "link": "https://thanhnien.vn/tieu-huy-ma-tuy-tang-vat-trong-vu-an-bui-dinh-khanh-185261126171507052.htm",
@@ -13754,6 +13821,17 @@
 "cat": "bds",
 "published": "2026-11-26T19:04:00+07:00",
 "found": "2026-11-26T19:41:33+07:00"
+},
+{
+"id": "4863d2073f73",
+"title": "Cuộc sống Trịnh Sảng sau 5 năm bị 'phong sát'",
+"link": "https://vnexpress.net/cuoc-song-trinh-sang-sau-5-nam-bi-phong-sat-5149251.html",
+"summary": "Diễn viên Trung Quốc Trịnh Sảng cho biết cô mắc chứng trầm cảm, nỗ lực điều chỉnh tâm lý, hướng đến lối sống tích cực để vui vẻ hơn.",
+"image": "https://i1-giaitri.vnecdn.net/2026/11/26/sang4-webp-1795681989-5224-1795682270.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=y0OOqHsPKNrcjMgBwCCQQQ",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-26T19:03:55+07:00",
+"found": "2026-11-28T05:53:38+07:00"
 },
 {
 "id": "e3f998e1347e",
@@ -16521,6 +16599,17 @@
 "cat": "tc",
 "published": "2026-11-26T15:13:00+07:00",
 "found": "2026-11-26T15:19:32+07:00"
+},
+{
+"id": "37ca780a3fa3",
+"title": "Anh yêu cầu 100.000 lính dự bị 'chuẩn bị cho chiến tranh'",
+"link": "https://vnexpress.net/anh-yeu-cau-100-000-linh-du-bi-chuan-bi-cho-chien-tranh-5149190.html",
+"summary": "Truyền thông Anh cho biết Bộ Quốc phòng đã gửi thư cho khoảng 100.000 quân nhân dự bị chiến lược, yêu cầu họ sẵn sàng nhận lệnh nhập ngũ.",
+"image": "https://i1-vnexpress.vnecdn.net/2026/11/26/Anh-1795678568-9388-1795679022.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LRnzNuMhHnQNCzMICguZDA",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-26T15:10:41+07:00",
+"found": "2026-11-28T05:53:38+07:00"
 },
 {
 "id": "9e5e3f6cba59",
@@ -20589,6 +20678,17 @@
 "cat": "bds",
 "published": "2026-11-26T09:36:25+07:00",
 "found": "2026-11-26T10:01:54+07:00"
+},
+{
+"id": "1c5b01644de8",
+"title": "Mỹ công bố hồ sơ dấu chân khổng lồ nghi của Bigfoot",
+"link": "https://vnexpress.net/my-cong-bo-ho-so-dau-chan-khong-lo-nghi-cua-bigfoot-5149008.html",
+"summary": "Cục Lâm nghiệp Mỹ công khai ba hồ sơ về Bigfoot, trong đó có cuộc điều tra những dấu chân dài 38 cm tại rừng Umatilla năm 1982.",
+"image": "https://i1-dulich.vnecdn.net/2026/11/26/5cf82732210000690de6a827-17956-7968-5761-1795659245.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=CUpF0X7iJUzjsMF6IFeWMA",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-26T09:36:09+07:00",
+"found": "2026-11-28T05:53:38+07:00"
 },
 {
 "id": "d757169ba8f6",
@@ -27935,105 +28035,6 @@
 "published": "2026-11-25T15:30:00+07:00",
 "traffic": "1000+",
 "found": "2026-11-25T15:52:04+07:00"
-},
-{
-"id": "58b765f6473f",
-"title": "Tranh thủ xả hàng lướt sóng, thanh khoản tăng mạnh cuối phiên, cổ giảm la liệt",
-"link": "https://vneconomy.vn/tranh-thu-xa-hang-luot-song-thanh-khoan-tang-manh-cuoi-phien-co-giam-la-liet.htm",
-"summary": "Thanh khoản khớp lệnh sàn HoSE chiều nay tăng vọt 59% so với buổi sáng nhưng mặt bằng giá xuống thấp hơn nhiều. Số mã đỏ nhiều gấp 2,8 lần số xanh trong khi 38% số mã đóng cửa giảm quá 1% giá trị.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/6a791c6d44dd465d94843d1179a3f4b3-138587.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-25T15:29:37+07:00",
-"found": "2026-11-25T15:36:50+07:00"
-},
-{
-"id": "df9c80f17c87",
-"title": "TPHCM huy động hơn 2.500 người, hàng trăm phương tiện diễn tập chữa cháy quy mô lớn",
-"link": "https://vietnamnet.vn/tphcm-huy-dong-hon-2-500-nguoi-hang-tram-phuong-tien-dien-tap-chua-chay-2570215.html",
-"summary": "Ngày 31/10, hơn 2.500 người cùng hàng trăm phương tiện tham gia cuộc diễn tập chữa cháy và cứu nạn, cứu hộ do Bộ Công an và UBND TPHCM tổ chức tại xã Long Sơn.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/31/tphcm-huy-dong-hon-2-1340.jpg?width=0&s=NBUaHfsMYSUYs8JpXsTUAQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-25T15:29:36+07:00",
-"found": "2026-11-25T15:36:50+07:00"
-},
-{
-"id": "8715ddf5e7a2",
-"title": "Bắc Trung Bộ phấn đấu tăng trưởng trên 10,5% và phát triển các trung tâm kinh tế biển tầm quốc tế",
-"link": "https://vneconomy.vn/bac-trung-bo-phan-dau-tang-truong-tren-105-va-phat-trien-cac-trung-tam-kinh-te-bien-tam-quoc-te.htm",
-"summary": "Chương trình thực hiện Quy hoạch vùng Bắc Trung Bộ đặt mục tiêu tăng trưởng GRDP bình quân trên 10,5% giai đoạn 2026 - 2030, lấy khoa học, công nghệ và đổi mới sáng tạo làm động lực tăng trưởng chủ yếu, phát triển mạnh kinh tế biển và hạ tầng kết nối đa phương thức...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/0ed898c3d3aa494297ecc50add522e31-138558.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-25T15:25:19+07:00",
-"found": "2026-11-25T17:44:48+07:00"
-},
-{
-"id": "ebe04fc8743e",
-"title": "VPBank công bố tầm nhìn “Kiến trúc sư gia sản”",
-"link": "https://vneconomy.vn/vpbank-cong-bo-tam-nhin-kien-truc-su-gia-san.htm",
-"summary": "Khi số lượng người giàu Việt Nam tăng gấp đôi chỉ sau một thập kỷ, thách thức không còn dừng ở việc tạo dựng, mà làm thế nào để gia sản tiếp tục tăng trưởng, gìn giữ và chuyển giao qua nhiều thế hệ.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/1184f587ad044025a85bb7ccec8b037e-138563.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-25T15:24:54+07:00",
-"found": "2026-11-25T15:36:50+07:00"
-},
-{
-"id": "ea98ef1fced8",
-"title": "Dự án ngăn triều 10.000 tỉ đồng vận hành liên hoàn, người dân TP.HCM phấn khởi",
-"link": "https://tuoitre.vn/du-an-ngan-trieu-10000-ti-dong-van-hanh-lien-hoan-nguoi-dan-tphcm-phan-khoi-100261125150119357.htm",
-"summary": "Trưa 25-11, toàn bộ hệ thống cống thuộc dự án ngăn triều 10.000 tỉ đồng ở TP.HCM lần đầu được vận hành liên hoàn, ứng phó với đợt triều cường dự báo lên đến 1,7m. Nhiều người dân phấn khởi vui mừng, mong việc đi lại thêm thuận tiện, dễ dàng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/1795593157953870277830368849742887027783036884974287c27fbff57ce789876028a7a10bc4507-17955932374491057759796-0-243-1448-2560-crop-1795593337205106177519.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T15:23:00+07:00",
-"found": "2026-11-25T17:29:38+07:00"
-},
-{
-"id": "948be07c5dc3",
-"title": "Thành lập 7 hội đồng tư vấn của Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam",
-"link": "https://thanhnien.vn/thanh-lap-7-hoi-dong-tu-van-cua-uy-ban-tu-mat-tran-to-quoc-viet-nam-185261125143235163.htm",
-"summary": "Các hội đồng tư vấn hoạt động theo quy chế do Ban Thường trực Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam ban hành và hoàn thành nhiệm vụ khi kết thúc nhiệm kỳ Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam khóa XI.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/anh2-17955912782681116779120-0-0-1250-2000-crop-1795591289384766711061.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T15:19:00+07:00",
-"found": "2026-11-25T15:21:37+07:00"
-},
-{
-"id": "34240075ab28",
-"title": "Bộ Nông nghiệp và Môi trường đôn đốc 13 địa phương hoàn thành dữ liệu đất đai",
-"link": "https://cafef.vn/bo-nong-nghiep-va-moi-truong-don-doc-13-dia-phuong-hoan-thanh-du-lieu-dat-dai-188261125141845068.chn",
-"summary": "Ngày 25-11, Bộ Nông nghiệp và Môi trường cho biết, bộ vừa có văn bản đề nghị Chủ tịch UBND 13 tỉnh, thành phố đẩy nhanh tiến độ xây dựng, hoàn thiện cơ sở dữ liệu đất đai, bảo đảm các mục tiêu, nhiệm vụ theo kế hoạch được giao.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795591076452-17955910770351223277934.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T15:18:00+07:00",
-"found": "2026-11-25T15:21:37+07:00"
-},
-{
-"id": "04fb0f8fb437",
-"title": "Chủ tịch, Tổng giám đốc, các lãnh đạo cấp cao PNJ được trả lương, thưởng ra sao?",
-"link": "https://cafef.vn/chu-tich-tong-giam-doc-cac-lanh-dao-cap-cao-pnj-duoc-tra-luong-thuong-ra-sao-188261125151754686.chn",
-"summary": "So với nhiều doanh nghiệp lớn, mức lương thưởng, thù lao của các lãnh đạo cấp cao Công ty CP Vàng bạc Đá quý Phú Nhuận (PNJ) vẫn đáng mơ ước.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795594655999-17955946568731564433954.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-25T15:17:00+07:00",
-"found": "2026-11-25T15:21:37+07:00"
-},
-{
-"id": "5937939f38ca",
-"title": "Giả danh chủ đầu tư, rao bán hơn 600 'suất' nhà ở xã hội để chiếm đoạt 150 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1k4VG5nRTkwMldOazlLMFU3RUU5VkNhMGxwenFsLWtvZmJpNEVTRzlzaTBQMFNBZklFRi0zNWR1bUxUcHl2MTRVWXZNMGV4QXJzY3pQeVI5UVJ4eE9SRXRrR21ZRUR0bi0yWnRvelVCenhpLThpcGdpZW1Mem5wVlMxQ3pZX0hkWkRMWm5rdVFXU1RIQmZCU0k0TkFGUEsyS2lLUmZKN3NkeXZlQUFla3Nn?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T15:16:00+07:00",
-"found": "2026-11-25T15:36:50+07:00"
 }
 ]
 }
