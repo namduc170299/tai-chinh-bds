@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T15:18:48+07:00",
-"new": 35,
+"updated": "2026-11-27T15:34:17+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 47
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,61 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "554d0f0e8d94",
+"title": "Cổ phiếu dầu khí bất ngờ nóng, khối ngoại “xuống tiền” mạnh",
+"link": "https://vneconomy.vn/co-phieu-dau-khi-bat-ngo-nong-khoi-ngoai-xuong-tien-manh.htm",
+"summary": "Đà trượt giảm của phiên sáng được chặn lại chiều nay, thậm chí dòng tiền có dấu hiệu chủ động hơn. Độ rộng thậm chí xác nhận đà tăng giá cải thiện, mặt bằng giá cao hơn hẳn phiên sáng, trong đó cổ phiếu dầu khí nhiều mã kịch trần. Khối ngoại ghi nhận mua ròng gấp gần 10 lần…",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/27/3513b590660c42aaa2c2ba47450ebb81-139287.png?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-27T15:33:40+07:00",
+"found": "2026-11-27T15:34:17+07:00"
+},
+{
+"id": "2afa9001db7d",
+"title": "Cách Qtopia Phước Hải, TP.HCM phát triển “căn nhà oxy tươi” trước biển, sau núi, gần rừng",
+"link": "https://cafef.vn/cach-qtopia-phuoc-hai-tphcm-phat-trien-can-nha-oxy-tuoi-truoc-bien-sau-nui-gan-rung-188261127144028296.chn",
+"summary": "Nằm trước biển Phước Hải - TP.HCM, phía sau là núi Minh Đạm và gần những cánh rừng xanh, \"Thành phố cuối tuần\" Qtopia Phước Hải sở hữu lợi thế kết nối với thiên nhiên hiếm có.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/photo1795745201335-1795745201526648962889-1795765230817948019928.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T15:30:00+07:00",
+"found": "2026-11-27T15:34:17+07:00"
+},
+{
+"id": "7e2dd5fcccb2",
+"title": "Phát triển kinh tế vùng cao từ di sản thổ cẩm, vải lanh",
+"link": "https://vietnamnet.vn/phat-trien-kinh-te-vung-cao-tu-di-san-tho-cam-vai-lanh-2579126.html",
+"summary": "Vải lanh, thổ cẩm đến những họa tiết thêu tay truyền thống, chất liệu và kỹ thuật thủ công của đồng bào dân tộc thiểu số trở thành nguồn cảm hứng cho thời trang đương đại; mở ra hướng phát triển mới, tạo thêm sinh kế gắn với bảo tồn bản sắc văn hóa.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/phat-trien-kinh-te-vung-cao-tu-di-san-tho-cam-vai-lanh-1659.jpg?width=0&s=ee1Lqj5MXktuhczuUNs6fQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-27T15:20:25+07:00",
+"found": "2026-11-27T15:34:17+07:00"
+},
+{
+"id": "dcce32ae2b2b",
+"title": "VinEnergo khởi công điện mặt trời 126 MWp tại Philippines",
+"link": "https://vietnamnet.vn/vinenergo-khoi-cong-dien-mat-troi-126-mwp-tai-philippines-2579377.html",
+"summary": "Ngày 27/11/2026, VinEnergo khởi công nhà máy điện mặt trời Sagay (126 MWp, tỉnh Negros Occidental, Philippines) cùng đối tác SunAsia Energy, mở đầu lộ trình hợp tác năng lượng tái tạo tích hợp lưu trữ với Bộ Năng lượng Philippines.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/vinenergo-khoi-cong-dien-mat-troi-126-mwp-tai-philippines-1525.jpg?width=0&s=gAMrOQV3uhnUF1mDKV_Xjw",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-27T15:19:39+07:00",
+"found": "2026-11-27T14:41:20+07:00"
+},
+{
+"id": "291e90b40ad2",
+"title": "Xây nhà trên đất chưa phải đất ở: Có buộc phải tháo dỡ khi xin chuyển mục đích?",
+"link": "https://vietnamnet.vn/xay-nha-tren-dat-chua-phai-dat-o-muon-len-tho-cu-co-phai-dap-bo-nha-2579367.html",
+"summary": "Xây nhà trên thửa đất đã có sổ đỏ nhưng chưa được chuyển mục đích sang đất ở, sau đó mới làm thủ tục xin chuyển mục đích sử dụng đất. Trường hợp này có được xem xét hợp thức hóa đất ở hay buộc phải tháo dỡ căn nhà?",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/xay-nha-tren-dat-chua-phai-dat-o-co-buoc-phai-thao-do-khi-xin-chuyen-muc-dich-1637.jpg?width=0&s=y2kswIIeHB51lkdbcKKcCg",
+"source": "VietnamNet",
+"cat": "bds",
+"published": "2026-11-27T15:15:12+07:00",
+"found": "2026-11-27T15:34:17+07:00"
+},
 {
 "id": "4a10b03f73a7",
 "title": "Ngành ngân hàng xuất hiện nhiều gương mặt lãnh đạo mới là nữ",
@@ -311,6 +366,17 @@
 "cat": "bds",
 "published": "2026-11-27T14:59:00+07:00",
 "found": "2026-11-27T15:18:48+07:00"
+},
+{
+"id": "9a9d757d6067",
+"title": "Môi giới mua thận giá 1,35 tỷ đồng, cặp đôi lĩnh án tù",
+"link": "https://vnexpress.net/moi-gioi-mua-than-gia-1-35-ty-dong-cap-doi-linh-an-tu-5149647.html",
+"summary": "Lý Văn Nhất và Lưu Thị Hậu thỏa thuận môi giới mua bán, ghép thận với chi phí 1,35 tỷ đồng, đã nhận 450 triệu đồng nhưng không tìm được người hiến phù hợp.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/1-1795764745-2892-1795764890.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k0rp3DtWPxJdddq_FYvFpg",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-27T14:56:17+07:00",
+"found": "2026-11-27T15:34:17+07:00"
 },
 {
 "id": "79b74a571513",
@@ -519,17 +585,6 @@
 "source": "CafeF",
 "cat": "tc",
 "published": "2026-11-27T14:32:00+07:00",
-"found": "2026-11-27T14:41:20+07:00"
-},
-{
-"id": "dcce32ae2b2b",
-"title": "VinEnergo khởi công điện mặt trời 126 MWp tại Philippines",
-"link": "https://vietnamnet.vn/vinenergo-khoi-cong-dien-mat-troi-126-mwp-tai-philippines-2579377.html",
-"summary": "Ngày 27/11/2026, VinEnergo khởi công nhà máy điện mặt trời Sagay (126 MWp, tỉnh Negros Occidental, Philippines) cùng đối tác SunAsia Energy, mở đầu lộ trình hợp tác năng lượng tái tạo tích hợp lưu trữ với Bộ Năng lượng Philippines.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/vinenergo-khoi-cong-dien-mat-troi-126-mwp-tai-philippines-1525.jpg?width=0&s=gAMrOQV3uhnUF1mDKV_Xjw",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-27T14:31:10+07:00",
 "found": "2026-11-27T14:41:20+07:00"
 },
 {
@@ -1843,7 +1898,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T12:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-27T12:50:24+07:00"
 },
 {
@@ -27968,62 +28023,6 @@
 "cat": "tc",
 "published": "2026-11-25T07:39:27+07:00",
 "found": "2026-11-25T07:39:37+07:00"
-},
-{
-"id": "714a98ad10b8",
-"title": "Việt Nam có thể có thêm 1 sân bay được xây dựng tại tỉnh miền Trung, vốn 11.300 tỷ đồng: Đặt trên một hòn đảo nổi tiếng, kết nối trực tiếp với cảng tàu khách, từng tính phương án lấn biển hơn 127 ha",
-"link": "https://kenh14.vn/viet-nam-co-the-co-them-1-san-bay-duoc-xay-dung-tai-tinh-mien-trung-von-11300-ty-dong-dat-tren-mot-hon-dao-noi-tieng-ket-noi-truc-tiep-voi-cang-tau-khach-tung-tinh-phuong-an-lan-bien-hon-127-ha-215261125073946964.chn",
-"summary": "Vị trí đang được cân nhắc triển khai sân bay là 1 hòn đảo rộng chỉ hơn 10 km2.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795567166903-17955671673781294238018.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-25T07:36:00+07:00",
-"found": "2026-11-25T07:54:49+07:00"
-},
-{
-"id": "5ffb18a400af",
-"title": "Loài cẩm cù được ví như &apos;ngọc quý&apos;, hoa thơm, nở thành từng chùm",
-"link": "https://vietnamnet.vn/loai-cam-cu-duoc-vi-nhu-ngoc-quy-hoa-thom-no-thanh-tung-chum-2577468.html",
-"summary": "Với những chùm hoa nhỏ xinh, lá dày xanh bóng và hương thơm đặc trưng, cẩm cù dương chi ngọc được nhiều người chơi cây cảnh yêu thích. Tuy nhiên, để cây ra hoa đều, người trồng cần bảo đảm đủ ánh sáng, giá thể thông thoáng và chế độ tưới phù hợp.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/loai-cam-cu-duoc-vi-nhu-ngoc-quy-hoa-thom-no-thanh-tung-chum-6524.png?width=0&s=u3D6a5RAGLMFhUEOLMPDqQ",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-25T07:30:00+07:00",
-"found": "2026-11-25T07:39:37+07:00"
-},
-{
-"id": "a187184b91f5",
-"title": "Lãi suất huy động giảm, lãi vay bất động sản vẫn neo cao",
-"link": "https://vnexpress.net/lai-suat-huy-dong-giam-lai-vay-bat-dong-san-van-neo-cao-5147943.html",
-"summary": "Lãi suất huy động tại nhiều ngân hàng đã hạ nhiệt song lãi vay bất động sản kỳ hạn 12 tháng vẫn duy trì ở mức cao, phổ biến 9-12% một năm.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/1596361c865e18d86db3dab23bac48-8169-1398-1795410298.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UpaFN1eKukvk8c_qgr4QRw",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-25T07:30:00+07:00",
-"found": "2026-11-25T08:20:48+07:00"
-},
-{
-"id": "0264e6f3a57e",
-"title": "cesc fàbregas",
-"link": "https://www.24h.com.vn/bong-da/video-bong-da-como-aek-athens-ngua-o-ap-sat-psg-cup-c1-c48a1813845.html",
-"summary": "Video bóng đá Como – AEK Athens: \"Ngựa ô\" áp sát PSG (Cúp C1) (Tin tức 24h)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRz4oy3ZJhAo5XTs31UaV7ZLVJNC7I5j6tbOZkru3t7StYb5go-RORk1Y-IZbQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T07:30:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-25T08:20:48+07:00"
-},
-{
-"id": "c17d22ca1c1c",
-"title": "TS Hoàng Minh Hiếu: Phạt lao động công ích vừa răn đe, vừa giáo dục",
-"link": "https://vnexpress.net/ts-hoang-minh-hieu-phat-lao-dong-cong-ich-vua-ran-de-vua-giao-duc-5147696.html",
-"summary": "Ủy viên chuyên trách Ủy ban Pháp luật và Tư pháp của Quốc hội Hoàng Minh Hiếu cho rằng lao động công ích thay tiền phạt vừa bảo đảm tính răn đe, vừa tăng tính giáo dục và trách nhiệm xã hội.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/z6597681949128-c4705029a6b75d4-9906-1666-1795566928.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QnetI_Rq8-V7rVHnaWkyuA",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-25T07:30:00+07:00",
-"found": "2026-11-25T08:36:20+07:00"
 }
 ]
 }
