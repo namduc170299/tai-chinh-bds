@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T12:39:41+07:00",
-"new": 14,
+"updated": "2026-11-27T12:50:24+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 47
+"count": 46
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,61 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "afaa43c30fb4",
+"title": "Tòa tháp đôi 235m cao hơn Keangnam Landmark 72 ở Hà Nội vừa hoàn thành hệ kết cấu thép 1.260 tấn ở độ cao hơn 110m, dưới lòng đất có một điểm hiếm có",
+"link": "https://cafef.vn/toa-thap-doi-235m-cao-hon-keangnam-landmark-72-o-ha-noi-vua-hoan-thanh-he-ket-cau-thep-1260-tan-o-do-cao-hon-110m-duoi-long-dat-co-mot-diem-hiem-co-188261127120357957.chn",
+"summary": "Sau nhiều năm nằm bất động, tổ hợp One Central Saigon tại khu tứ giác Bến Thành, TP.HCM đang dần thành hình với 2 tòa tháp cao khoảng 235m và 225m.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/one-17957553657611787765820-0-61-339-603-crop-17957553718141436068288.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T12:46:00+07:00",
+"found": "2026-11-27T12:50:24+07:00"
+},
+{
+"id": "e34d56f70310",
+"title": "Nuôi tôm không giấy phép, mỗi ngày xả 1.350 m³ nước thải ra sông Rạng ở TP.HCM",
+"link": "https://thanhnien.vn/nuoi-tom-khong-giay-phep-moi-ngay-xa-1350-m-nuoc-thai-ra-song-rang-o-tphcm-185261127092224959.htm",
+"summary": "Cơ sở nuôi tôm công nghiệp tại xã Long Sơn, TP.HCM hoạt động trên diện tích đất hơn 6,2 ha, mỗi ngày xả trung bình 1.350 m³ nước thải ra sông Rạng nhưng chưa có giấy phép môi trường.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/edit-tnw-dji0385-17957458574701928044855-0-256-1440-2560-crop-1795745888835329242076.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T12:40:00+07:00",
+"found": "2026-11-27T12:50:24+07:00"
+},
+{
+"id": "1b6b65f4d775",
+"title": "VCB rơi xuống đáy hơn 3 năm, Phó Tổng Giám đốc Vietcombank đăng ký mua vào lượng lớn cổ phiếu",
+"link": "https://cafef.vn/vcb-roi-xuong-day-hon-3-nam-pho-tong-giam-doc-vietcombank-dang-ky-mua-vao-luong-lon-co-phieu-188261127123957838.chn",
+"summary": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam (Vietcombank, mã VCB) vừa công bố thông tin về giao dịch cổ phiếu của người nội bộ.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795757982595-17957579831172140809266.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T12:39:00+07:00",
+"found": "2026-11-27T12:50:24+07:00"
+},
+{
+"id": "eb7c042cb53e",
+"title": "Toàn cảnh tuyến đường gần 2.000 tỷ đồng sắp triển khai kết nối kinh tế biển Ninh Bình",
+"link": "https://cafef.vn/toan-canh-tuyen-duong-gan-2000-ty-dong-sap-trien-khai-ket-noi-kinh-te-bien-ninh-binh-18826112712040624.chn",
+"summary": "Dự án xây dựng tuyến đường từ ĐT490 đến Cồn Xanh dài gần 9km, quy mô 4 làn xe, tổng mức đầu tư 1.979 tỷ đồng được kỳ vọng tăng cường kết nối Khu kinh tế Ninh Cơ với mạng lưới giao thông liên vùng, tạo động lực thu hút đầu tư và phát triển kinh tế biển tỉnh Ninh Bình.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795755835240-17957558355091169800275.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-27T12:38:00+07:00",
+"found": "2026-11-27T12:50:24+07:00"
+},
+{
+"id": "b4ba023df6c1",
+"title": "Camera AI ở Hà Nội phát hiện 2.555 trường hợp chạy quá tốc độ",
+"link": "https://kenh14.vn/camera-ai-o-ha-noi-phat-hien-2555-truong-hop-chay-qua-toc-do-215261127120813838.chn",
+"summary": "Thông qua hệ thống camera AI giám sát giao thông, lực lượng CSGT Hà Nội đã phát hiện 2.555 trường hợp phương tiện vi phạm về tốc độ. Đáng chú ý, có 105 tài xế chạy quá tốc độ trên 20 km/h, tiềm ẩn nguy cơ cao dẫn đến tai nạn giao thông.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795756046299-17957560466331709673330.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T12:37:00+07:00",
+"found": "2026-11-27T12:50:24+07:00"
+},
 {
 "id": "543009dda7e9",
 "title": "'Ông lớn' xây dựng cũng toát mồ hôi tìm thợ lành nghề",
@@ -314,6 +369,18 @@
 "found": "2026-11-27T12:39:41+07:00"
 },
 {
+"id": "5f63e81270ea",
+"title": "libya",
+"link": "https://apnews.com/article/russia-ukraine-war-libya-drone-attack-warship-officers-5719d6750c0619695c7f23a373cecd7b",
+"summary": "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack (AP News)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStV9IZvmrVJ3aOhrTz1xYojyRFn9GbmUvnBsdYtWgz42_vEZ4At-2GBUDVk3w",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-27T12:20:00+07:00",
+"traffic": "100+",
+"found": "2026-11-27T12:50:24+07:00"
+},
+{
 "id": "fe8608750f39",
 "title": "Ông Đặng Lê Nguyên Vũ bán cá phê đá, bánh mì nóng giòn tại siêu công trình lớn nhất Đông Nam Á của ông Phạm Nhật Vượng",
 "link": "https://kenh14.vn/ong-dang-le-nguyen-vu-ban-ca-phe-da-banh-mi-nong-gion-tai-sieu-cong-trinh-lon-nhat-dong-nam-a-cua-ong-pham-nhat-vuong-215261127122601798.chn",
@@ -323,6 +390,28 @@
 "cat": "xh",
 "published": "2026-11-27T12:18:00+07:00",
 "found": "2026-11-27T12:39:41+07:00"
+},
+{
+"id": "42d9780e3864",
+"title": "Người phụ nữ đầu độc ba thân nhân bằng chì suốt một năm",
+"link": "https://vnexpress.net/nguoi-phu-nu-dau-doc-ba-than-nhan-bang-chi-suot-mot-nam-5149566.html",
+"summary": "Renu Bhatnagar, 42 tuổi, bị cáo buộc âm thầm trộn chì vào thức ăn của chồng, con trai và cháu trai trong ít nhất một năm, nhằm chiếm quyền kiểm soát doanh nghiệp.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/renu-bhatnagar-arrested-in-gha-8340-1849-1795753350.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=BdAlMPntauLUHPF82y5Z1w",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-27T12:16:54+07:00",
+"found": "2026-11-27T12:50:24+07:00"
+},
+{
+"id": "741b3414bb2f",
+"title": "3 lô \"đất vàng\" Thủ Thiêm không có người tham gia đấu giá",
+"link": "https://dantri.com.vn/bat-dong-san/3-lo-dat-vang-thu-thiem-khong-co-nguoi-tham-gia-dau-gia-20261127102604151.htm",
+"summary": "(Dân trí) - Trong 4 lô đất tại Khu đô thị mới Thủ Thiêm (TPHCM) được đưa ra đấu giá ngày 27/11, có 3 lô không có nhà đầu tư đăng ký. Lô còn lại có giá khởi điểm hơn 1.744 tỷ đồng.",
+"image": "https://cdnphoto.dantri.com.vn/J1KcEq1BOG9Kkj6ri-UOY033ni4=/2026/11/27/vi-tri-cac-lo-dat-cropped-1795749692037.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-27T12:16:39+07:00",
+"found": "2026-11-27T12:50:24+07:00"
 },
 {
 "id": "00e5edbb4215",
@@ -765,7 +854,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T11:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-27T11:53:54+07:00"
 },
 {
@@ -1431,6 +1520,17 @@
 "cat": "tc",
 "published": "2026-11-27T10:43:00+07:00",
 "found": "2026-11-27T11:18:28+07:00"
+},
+{
+"id": "e336246d4b9f",
+"title": "VN-Index giảm sâu, chuyên gia nói gì về cơ hội 'bắt đáy'",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVmN4NmNQSlJTWm92MzZqMUZqYWl5Q005eVhScy1JVlNHakNLalp6WlJVall0WTdlYWYwc212dmNma2wtaDRTQi1fZ0J6YWItTkRIcmlZNXV4NEVJQWtEQzY2aGoxS1V0end4Wk1fQ0RtYVNjYzBDX1hSdmxleExTbTRfMTAyamJZaDJtQVlvdw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T10:42:00+07:00",
+"found": "2026-11-27T12:50:24+07:00"
 },
 {
 "id": "b3569b04da4b",
@@ -27977,106 +28077,6 @@
 "cat": "tc",
 "published": "2026-11-25T00:04:00+07:00",
 "found": "2026-11-25T00:13:33+07:00"
-},
-{
-"id": "177ce954f0dd",
-"title": "Phó Chủ tịch UBCKNN Hoàng Văn Thu hé lộ yếu tố quyết định sức hút của doanh nghiệp Việt với dòng vốn ngoại",
-"link": "https://cafef.vn/pho-chu-tich-ubcknn-hoang-van-thu-he-lo-yeu-to-quyet-dinh-suc-hut-cua-doanh-nghiep-viet-voi-dong-von-ngoai-188261124142907786.chn",
-"summary": "Theo Phó Chủ tịch UBCKNN Hoàng Văn Thu, trong chặng đường tiếp theo, thị trường chứng khoán Việt Nam cần chuyển trọng tâm từ mở rộng quy mô sang nâng cao chất lượng, thu hút thêm những doanh nghiệp tốt lên sàn, phát huy vai trò huy động vốn dài hạn và củng cố môi trường đầu tư…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/ck-thumb-web-17955051036731976316783-0-0-2881-4610-crop-17955052577671077836498.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-25T00:03:00+07:00",
-"found": "2026-11-25T00:13:33+07:00"
-},
-{
-"id": "afed222305a0",
-"title": "Đề xuất nghiên cứu đường dây siêu cao áp hơn 1.000 km kéo điện ra Bắc",
-"link": "https://vnexpress.net/de-xuat-nghien-cuu-duong-day-sieu-cao-ap-hon-1-000-km-keo-dien-ra-bac-5148461.html",
-"summary": "Bộ Công Thương đề xuất sớm nghiên cứu tuyến truyền tải điện một chiều ±800 kV từ duyên hải Nam Trung Bộ đến Đồng bằng sông Hồng, với vốn đầu tư sơ bộ gần 3,5 tỷ USD.",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/24/khoanhkhacantuong268248-179552-1973-5391-1795531328.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZO5UvcOWwbkZbdmKmy16sg",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-25T00:03:00+07:00",
-"found": "2026-11-25T00:46:38+07:00"
-},
-{
-"id": "57a6db280279",
-"title": "Việt Nam đang huy động hơn 1.500 người và 800 máy móc đào hầm gần 6km xuyên núi qua 2 đèo hiểm trở bậc nhất cả nước, dự kiến thông xe ngay năm sau",
-"link": "https://cafef.vn/viet-nam-dang-huy-dong-hon-1500-nguoi-va-800-may-moc-dao-ham-gan-6km-xuyen-nui-qua-2-deo-hiem-tro-bac-nhat-ca-nuoc-du-kien-thong-xe-ngay-nam-sau-188261124201544886.chn",
-"summary": "Dự án đường bộ cao tốc Quy Nhơn - Pleiku được thiết kế vượt qua hai khu vực địa hình đèo phức tạp là đèo An Khê và đèo Mang Yang.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1794153278088-1794153278366489534355-1795525902663855320024.jpeg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T00:02:00+07:00",
-"found": "2026-11-25T00:13:33+07:00"
-},
-{
-"id": "e516f10d5d53",
-"title": "Một năm, hai thái cực của cổ phiếu Vietcombank: Tháng 1 lập đỉnh lịch sử, tháng 11 rơi xuống đáy gần 4 năm",
-"link": "https://cafef.vn/mot-nam-hai-thai-cuc-cua-co-phieu-vietcombank-thang-1-lap-dinh-lich-su-thang-11-roi-xuong-day-gan-4-nam-18826112423534886.chn",
-"summary": "Chưa đầy một năm, cổ phiếu Vietcombank đã trải qua hành trình đầy biến động, từ những phiên tăng giá mạnh mẽ đưa thị giá lên mức cao kỷ lục đến chuỗi lao dốc khiến hàng trăm nghìn tỷ đồng vốn hóa bốc hơi. Từng là niềm tự hào của nhóm cổ phiếu ngân hàng, VCB đang khiến không ít…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/24/avatar1795539196189-1795539196597463588417.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-25T00:00:00+07:00",
-"found": "2026-11-25T00:13:33+07:00"
-},
-{
-"id": "eab042b1dd9f",
-"title": "Đại lộ lớn nhất Thanh Hóa mang diện mạo mới",
-"link": "https://vnexpress.net/dai-lo-lon-nhat-thanh-hoa-mang-dien-mao-moi-5145557.html",
-"summary": "Đại lộ Lê Lợi được đầu tư hơn 1.000 tỷ đồng để mở rộng đoạn dài 1,5 km lên 43 m, góp phần giảm ùn tắc và tăng kết nối với sân bay Thọ Xuân, khu vực phía tây Thanh Hóa.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/23/dai-lo-le-loi-hoan-thanh-mo-rong-jpeg-1795424714.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xW1gof0Zwf1FKD6oDYKuiQ",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-25T00:00:00+07:00",
-"found": "2026-11-25T00:13:33+07:00"
-},
-{
-"id": "c307e9978d25",
-"title": "Tranh cãi vụ người đi bộ tử vong khi qua đường 34 m, đèn xanh chỉ 12 giây",
-"link": "https://vnexpress.net/tranh-cai-vu-nguoi-di-bo-tu-vong-khi-qua-duong-34-m-den-xanh-chi-12-giay-5148485.html",
-"summary": "Người đàn ông khuyết tật chân bị xe máy tông tử vong khi chưa kịp sang hết đường trong 12 giây đèn xanh, song phán quyết chia đều trách nhiệm khiến cả tài xế và gia đình nạn nhân phản đối.",
-"image": "https://i1-vnexpress.vnecdn.net/2026/11/24/1795063816746-ftnjjb-179553089-3758-7487-1795531378.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=G2-gAdRHwJo_fg0UxUJt7g",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-25T00:00:00+07:00",
-"found": "2026-11-25T00:28:42+07:00"
-},
-{
-"id": "2f5c4a0dffdc",
-"title": "galatasaray – samsunspor",
-"link": "https://www.bolgegundemi.com/video/mustafa-culcu-galatasaray-samsunspor-mucadelesini-analiz-etti-241529.html",
-"summary": "Mustafa Çulcu Galatasaray – Samsunspor mücadelesini analiz etti (Bölge Gündemi)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVZW7mhBwKrNRr5faCS5Rxsqrkgb1URb6S4iIDR_mct2LEFfsfC2YvYPQ1fMQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T00:00:00+07:00",
-"traffic": "100+",
-"found": "2026-11-25T00:28:42+07:00"
-},
-{
-"id": "6380da615899",
-"title": "Làm gì khi lỡ 'đu đỉnh' bạc?",
-"link": "https://vnexpress.net/lam-gi-khi-lo-du-dinh-bac-5146077.html",
-"summary": "Giá bạc đảo chiều sau đợt tăng nóng có thể khiến người mua phân vân: nên bán ra, tiếp tục nắm giữ hay mua thêm để bình quân giá?",
-"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/18/img2aa881550f781-1794978261-1371-1794978478.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tVQkRkdG80V_ulW7IRY6xA",
-"source": "VnExpress",
-"cat": "tc",
-"published": "2026-11-25T00:00:00+07:00",
-"found": "2026-11-25T00:46:38+07:00"
-},
-{
-"id": "145d6ce10b22",
-"title": "'Muôn sắc Việt Nam': Câu chuyện văn hóa bằng âm nhạc",
-"link": "https://vnexpress.net/muon-sac-viet-nam-cau-chuyen-van-hoa-bang-am-nhac-5148500.html",
-"summary": "Những lời hát, điệu ca, nét đẹp con người, phong tục mỗi vùng miền nhắc nhớ về giá trị văn hóa qua thăng trầm lịch sử, tại concert \"Muôn sắc Việt Nam\", tối 24/11.",
-"image": "https://vcdn1-giaitri.vnecdn.net/2026/11/24/wm1-wm1-muonsacvietnamngayhoivanho-6031-6581-1795538288.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nw0St8c0d-5rrOH4Voy_oQ",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-25T00:00:00+07:00",
-"found": "2026-11-25T10:54:47+07:00"
 }
 ]
 }
