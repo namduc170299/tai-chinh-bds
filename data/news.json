@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-27T09:45:03+07:00",
-"new": 13,
+"updated": "2026-11-27T09:50:36+07:00",
+"new": 2,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 48
+"count": 22
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "c18c4585532c",
+"title": "Hồ Suối Dầu ở Khánh Hòa điều tiết nước, hạ du có thể ngập cục bộ",
+"link": "https://thanhnien.vn/ho-suoi-dau-o-khanh-hoa-dieu-tiet-nuoc-ha-du-co-the-ngap-cuc-bo-185261127094056327.htm",
+"summary": "Trước đợt mưa lớn diện rộng, hồ Suối Dầu (Khánh Hòa) điều tiết nước trong những ngày tới để giữ an toàn công trình, tạo dung tích phòng lũ. Một số vùng trũng ven sông ở hạ du có thể bị ngập cục bộ tạm thời.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/27/tnw-179549124549015699653243335754747601869456210601860268249eedaeef9400b49ed8fbd782513-17957471218261086839175-94-0-1694-2560-crop-1795747142560829862927.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-27T09:50:00+07:00",
+"found": "2026-11-27T09:50:36+07:00"
+},
+{
+"id": "19cd1e732878",
+"title": "Giá vàng nhẫn trơn, vàng miếng sáng 27/11 tại Bảo Tín Minh Châu, SJC, PNJ, DOJI và Bảo Tín Mạnh Hải",
+"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-27-11-tai-bao-tin-minh-chau-sjc-pnj-doji-va-bao-tin-manh-hai-188261127074924289.chn",
+"summary": "Giá vàng trong nước mở đầu phiên sáng 27/11 đi ngang, với giá bán vàng miếng SJC duy trì ở mức 134,5 triệu đồng/lượng. Trong khi đó, giá vàng thế giới giảm 0,6% xuống còn 3.566 USD/ounce trước áp lực lạm phát và kỳ vọng Fed tiếp tục tăng lãi suất.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/ed4597f35d9c4e2096ec4d67c1feef88-114087-17957404946781733700045-57-0-1337-2048-crop-17957405010911827881004.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-27T09:47:00+07:00",
+"found": "2026-11-27T08:04:07+07:00"
+},
+{
+"id": "3b6d14f34ff7",
+"title": "Hộ gia đình người dân tộc thiểu số được vay vốn với lãi suất chỉ 3%/năm",
+"link": "https://vietnamnet.vn/ho-gia-dinh-nguoi-dan-toc-thieu-so-duoc-vay-von-voi-lai-suat-chi-3-nam-2578022.html",
+"summary": "Ngày 19/11/2026, Chính phủ đã ban hành Nghị định số 416/2026/NĐ-CP quy định về chính sách tín dụng ưu đãi hỗ trợ phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi (DTTS&amp;MN).",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/nam-6576.jpg?width=0&s=8iY3qS3_xpF212nS-ldIsg",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-27T09:44:55+07:00",
+"found": "2026-11-24T20:44:00+07:00"
+},
+{
 "id": "97457d553b18",
 "title": "Quảng Ninh dự kiến thử nghiệm taxi bay vào giữa năm 2027",
 "link": "https://thanhnien.vn/quang-ninh-du-kien-thu-nghiem-taxi-bay-vao-giua-nam-2027-185261127082018877.htm",
@@ -222,6 +255,17 @@
 "cat": "xh",
 "published": "2026-11-27T09:42:00+07:00",
 "found": "2026-11-27T09:45:03+07:00"
+},
+{
+"id": "480d8a8a8391",
+"title": "Đã quy tập được 1.141 hài cốt liệt sĩ tại Công viên Lê Thị Riêng",
+"link": "https://kenh14.vn/da-quy-tap-duoc-1141-hai-cot-liet-si-tai-cong-vien-le-thi-rieng-215261127090516819.chn",
+"summary": "Các lực lượng đã tìm kiếm, quy tập được 1.141 hài cốt liệt sĩ tại Công viên Lê Thị Riêng (phường Hòa Hưng, TPHCM), trong đó có 383 hài cốt có di vật kèm theo.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/-5089444651203917330-5089444651203917330-e167c39a04c713c9c322e70b8444c48e-6658-1893jpg-1795745053446-1795745053882940305687-0-0-625-1000-crop-17957451087461823430223.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-27T09:38:00+07:00",
+"found": "2026-11-27T09:50:36+07:00"
 },
 {
 "id": "70f4a167b054",
@@ -763,7 +807,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T08:30:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-27T08:59:25+07:00"
 },
 {
@@ -830,7 +874,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-27T08:20:00+07:00",
-"traffic": "2000+",
+"traffic": "200+",
 "found": "2026-11-27T08:59:25+07:00"
 },
 {
@@ -1314,17 +1358,6 @@
 "published": "2026-11-27T07:50:00+07:00",
 "traffic": "500+",
 "found": "2026-11-27T08:19:20+07:00"
-},
-{
-"id": "19cd1e732878",
-"title": "Giá vàng nhẫn trơn, vàng miếng sáng 27/11 tại Bảo Tín Minh Châu, SJC, PNJ, DOJI và Bảo Tín Mạnh Hải",
-"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-27-11-tai-bao-tin-minh-chau-sjc-pnj-doji-va-bao-tin-manh-hai-188261127074924289.chn",
-"summary": "Giá vàng trong nước mở đầu phiên sáng 27/11 đi ngang, với giá bán vàng miếng SJC duy trì ở mức 134,5 triệu đồng/lượng. Trong khi đó, giá vàng thế giới giảm 0,6% xuống còn 3.566 USD/ounce trước áp lực lạm phát và kỳ vọng Fed tiếp tục tăng lãi suất.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/ed4597f35d9c4e2096ec4d67c1feef88-114087-17957404946781733700045-57-0-1337-2048-crop-17957405010911827881004.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-27T07:48:00+07:00",
-"found": "2026-11-27T08:04:07+07:00"
 },
 {
 "id": "feb570a186c6",
@@ -26486,17 +26519,6 @@
 "found": "2026-11-24T20:59:33+07:00"
 },
 {
-"id": "3b6d14f34ff7",
-"title": "Hộ gia đình người dân tộc thiểu số được vay vốn với lãi suất chỉ 3%/năm",
-"link": "https://vietnamnet.vn/ho-gia-dinh-nguoi-dan-toc-thieu-so-duoc-vay-von-voi-lai-suat-chi-3-nam-2578022.html",
-"summary": "Ngày 19/11/2026, Chính phủ đã ban hành Nghị định số 416/2026/NĐ-CP quy định về chính sách tín dụng ưu đãi hỗ trợ phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi (DTTS&amp;MN).",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/nam-6576.jpg?width=0&s=8iY3qS3_xpF212nS-ldIsg",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-24T20:42:40+07:00",
-"found": "2026-11-24T20:44:00+07:00"
-},
-{
 "id": "ef319220ad6f",
 "title": "Vụ nổ gas ở Hà Nội: Ghi nhận nạn nhân thứ 7 tử vong",
 "link": "https://kenh14.vn/vu-no-gas-o-ha-noi-ghi-nhan-nan-nhan-thu-7-tu-vong-215261124205010077.chn",
@@ -28076,30 +28098,6 @@
 "cat": "xh",
 "published": "2026-11-24T17:00:00+07:00",
 "found": "2026-11-24T17:17:37+07:00"
-},
-{
-"id": "2fdb91388391",
-"title": "daejeon đấu với bắc kinh quốc an",
-"link": "https://www.mk.co.kr/en/sports/12217443",
-"summary": "Daejeon Hana Citizen will face Beijing Guoan (China) as the best. (매일경제)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFrEU60w8KK-iG6bRGw1jOOpG6Lm9TgoT44vqnIz6Fk8UbGXwPVbS9HOV6_5I",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T17:00:00+07:00",
-"traffic": "200+",
-"found": "2026-11-24T17:17:37+07:00"
-},
-{
-"id": "01ecf7dad46a",
-"title": "thứ hạng của newcastle jets gặp kashiwa reysol",
-"link": "https://bongdaplus.vn/afc-champions-league/nhan-dinh-bong-da-newcastle-jets-vs-kashiwa-reysol-14h45-ngay-24-11-chu-nha-chim-trong-khung-hoang-5298462611.html",
-"summary": "Nhận định bóng đá Newcastle Jets vs Kashiwa Reysol, 14h45 ngày 24/11: Chủ nhà chìm trong khủng hoảng (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ-D7l2B7bRc6d56t3BCSrczKHhqmrKGAXNM9OCxzJmJPMPHDeP0I6GWbvInU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-24T17:00:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-24T17:47:56+07:00"
 }
 ]
 }
