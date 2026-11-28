@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T11:25:36+07:00",
-"new": 9,
+"updated": "2026-11-28T11:41:08+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "bbe86b331aaf",
+"title": "Đối tượng truy nã quốc tế bị bắt sau 8 năm lẩn trốn ở nước ngoài",
+"link": "https://vietnamnet.vn/doi-tuong-truy-na-quoc-te-bi-bat-sau-8-nam-lan-tron-o-nuoc-ngoai-2579656.html",
+"summary": "Sau 8 năm lẩn trốn tại nhiều nước, đối tượng truy nã quốc tế Trần Đức Thọ bị bắt ở Kyrgyzstan và dẫn độ về Việt Nam để chấp hành bản án.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/doi-tuong-truy-na-quoc-te-bi-bat-sau-8-nam-lan-tron-o-nuoc-ngoai-1150.jpg?width=0&s=sTDVqDTEXKg54C4hJYYraA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T11:40:12+07:00",
+"found": "2026-11-28T11:41:08+07:00"
+},
+{
+"id": "7aaf1abd713c",
+"title": "Nhà phố 5 tầng với những góc nhỏ đậm chất Nhật",
+"link": "https://cafef.vn/nha-pho-5-tang-voi-nhung-goc-nho-dam-chat-nhat-18826112808554706.chn",
+"summary": "Được xây dựng trên khu đất rộng 105 m², ngôi nhà gây chú ý bởi những đường cong nối tiếp từ mặt tiền đến nội thất, kết hợp với vẻ đẹp tối giản của phong cách Japandi.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/avatar1795830843638-1795830844492939791468.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-28T11:24:00+07:00",
+"found": "2026-11-28T11:41:08+07:00"
+},
+{
+"id": "60dddcb1a99d",
+"title": "Giả định cháy nhà xưởng làm hơn 100 người mắc kẹt, Hà Nội huy động 2.300 người ứng cứu",
+"link": "https://tuoitre.vn/gia-dinh-chay-nha-xuong-lam-hon-100-nguoi-mac-ket-ha-noi-huy-dong-2300-nguoi-ung-cuu-100261128110818264.htm",
+"summary": "Kịch bản diễn tập đặt ra 3 tình huống cháy nổ, tai nạn, sự cố phức tạp xảy ra đối với loại hình xưởng sản xuất quy mô lớn, làm hơn 100 người mắc kẹt cần được cứu nạn.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/28/14-1795837779883685837242-76-0-1676-2560-crop-17958384357721208563498.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-28T11:19:00+07:00",
+"found": "2026-11-28T11:41:08+07:00"
+},
+{
 "id": "622c126aaa20",
 "title": "Mưa lớn miền Trung: Quảng Ngãi có gần 1.000 hộ dân bị cô lập, nhà ngập hơn 1m",
 "link": "https://tuoitre.vn/mua-lon-mien-trung-quang-ngai-co-gan-1000-ho-dan-bi-co-lap-nha-ngap-hon-1m-100261128102210231.htm",
@@ -233,6 +266,28 @@
 "cat": "tc",
 "published": "2026-11-28T11:17:00+07:00",
 "found": "2026-11-28T11:25:36+07:00"
+},
+{
+"id": "a231afbf37c7",
+"title": "Bóng dáng Dragon Group sau chủ đầu tư khu công nghiệp hơn 1.700 tỷ đồng tại Huế",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXNWeGVNVUVTQmx2S1lmMkxrWHpzTUVobHM4OHJXTnN6SzZvVWdKZm5Jdm9sbFZld3dabXJwMXROdnI1WXZMR0VQVXlNN2JnaGRXbmJXNjVyNUFJeUc4clZXaUwxbGtpRmZQWldVeWJ2SnpsU3AzVmJvcGt0N0g2MEMxTEdBN0k2R2txRDZ3QjlFR2pRVmRQRm5jaHJaNWt6WEpyNWRUZnl5WDdHdVpaRnN3?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T11:15:00+07:00",
+"found": "2026-11-28T11:41:08+07:00"
+},
+{
+"id": "26fb687342de",
+"title": "Nhiều dự án nhà ở xã hội 'bung hàng' cuối năm, giá bán ngày càng cao",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTFgzQ1BxWWUzYnZ6V3dYU3QzUlhtOXp1S0FDbmlRRWl0RHdHc25mTW9HQXNCQnRMU0x2d255aFZYNGxHb1F3LUd0bWpFWllBaEpjdDExdWtJYkVJTjZuRFlmMFpQUE94TjNTa056OXNQOHZhZF9kV21vZ2xTT2pZTU9UM0l6Y3BDbngyM05TZUxIbDVjRDd1MS11LWFFMnc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T11:14:00+07:00",
+"found": "2026-11-28T11:41:08+07:00"
 },
 {
 "id": "1141415c4cca",
@@ -299,6 +354,17 @@
 "cat": "bds",
 "published": "2026-11-28T10:56:26+07:00",
 "found": "2026-11-28T11:25:36+07:00"
+},
+{
+"id": "650089677cb7",
+"title": "Từ 15-12, chung cư phải có hệ thống báo cháy, chữa cháy tự động tại khu vực sạc xe điện",
+"link": "https://tuoitre.vn/tu-15-12-chung-cu-phai-co-he-thong-bao-chay-chua-chay-tu-dong-tai-khu-vuc-sac-xe-dien-100261128095836796.htm",
+"summary": "Từ tháng 12-2026, nhiều chính sách mới chính thức có hiệu lực, như yêu cầu an toàn khu vực sạc xe điện trong chung cư, ngân hàng được làm đại lý quản lý tài sản bảo đảm của trái phiếu doanh nghiệp, bổ sung các trường hợp người nước ngoài không phải xin giấy phép lao động...",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/28/cc-my-phuc-phu-dinh-sac-ngoai-troi-1775350739776545277661-62-0-1627-2504-crop-1795834614636670985762.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-28T10:55:00+07:00",
+"found": "2026-11-28T11:41:08+07:00"
 },
 {
 "id": "34cc458f7f07",
@@ -730,7 +796,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T10:00:00+07:00",
-"traffic": "10000+",
+"traffic": "5000+",
 "found": "2026-11-28T10:22:42+07:00"
 },
 {
@@ -1151,7 +1217,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T09:20:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-28T09:43:30+07:00"
 },
 {
@@ -27975,73 +28041,6 @@
 "cat": "bds",
 "published": "2026-11-25T20:00:00+07:00",
 "found": "2026-11-25T20:15:30+07:00"
-},
-{
-"id": "46e0af31fb3d",
-"title": "MB được vinh danh trong 80 gương nhân ái tiêu biểu toàn quốc",
-"link": "https://thanhnien.vn/mb-duoc-vinh-danh-trong-80-guong-nhan-ai-tieu-bieu-toan-quoc-185261125184337265.htm",
-"summary": "Ngày 23.11.2026, tại Hà Nội, Ngân hàng TMCP Quân đội (MB) vinh dự được Hội Chữ thập đỏ Việt Nam tôn vinh là một trong 80 gương nhân ái tiêu biểu toàn quốc, nhân Lễ kỷ niệm 80 năm Ngày thành lập Hội (23.11.1946 - 23.11.2026).",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/anh-1-17956067351861377773933-0-0-1280-2048-crop-1795606882301967620290.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-25T20:00:00+07:00",
-"found": "2026-11-25T20:15:30+07:00"
-},
-{
-"id": "4862dff3c991",
-"title": "u-17 uruguay đấu với u-17 pháp",
-"link": "https://bongdaplus.vn/u17-world-cup/nhan-dinh-bong-da-u17-uruguay-vs-u17-phap-20h30-ngay-25-11-trong-choai-khong-the-gay-5298452611.html",
-"summary": "Nhận định bóng đá U17 Uruguay vs U17 Pháp, 20h30 ngày 25/11: Trống choai không thể gáy! (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCrlPt4j_ia8-VJC0xyF8-lEqFn26mwuVmelqs3nL9FZWL1iB1IeKyqOgd1-E",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T20:00:00+07:00",
-"traffic": "500+",
-"found": "2026-11-25T20:15:30+07:00"
-},
-{
-"id": "f3d597001e64",
-"title": "Trò đùa của nhà nghiên cứu Anthropic gây phẫn nộ giới toán học",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTDlabHQ2a2RCQk5NUjAwQ09NbGxGUHhGTUZhbmJqZ1FxbTdKTk5JeXk1Uk5XV1VhLVZrdERYRWlzalZ6WHlBRUN2VkVEbU9KNzY4WVhNaWF5dzZxRnc2bXpIMFpScWxSX00tclZYRHFrcFhMOEQzQU1vTUIzRm9iM2VOM3JkaW9ZeWZ6U0N0SDBNVnF6UllBTXM4eGo2Zw?oc=5",
-"summary": "Nguồn: VnExpress",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T20:00:00+07:00",
-"found": "2026-11-25T20:51:04+07:00"
-},
-{
-"id": "8e82386de86c",
-"title": "T&T City Millennia kết nối cộng đồng cư dân qua sự kiện âm nhạc",
-"link": "https://vnexpress.net/t-t-city-millennia-ket-noi-cong-dong-cu-dan-qua-su-kien-am-nhac-5148831.html",
-"summary": "Chương trình nghệ thuật \"Sóng nhạc phương Nam\" tại khu đô thị T&T City Millennia (Tây Ninh) thu hút hơn 30.000 cư dân và du khách tối 24/11.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/anh-1795607028-7017-1795607123.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=y3P5ByyV3LXzjlR6Hg1x_Q",
-"source": "VnExpress",
-"cat": "bds",
-"published": "2026-11-25T20:00:00+07:00",
-"found": "2026-11-25T21:06:14+07:00"
-},
-{
-"id": "b877cbdff000",
-"title": "Hạnh sững sờ khi thấy Toản đi cùng người phụ nữ khác | Căn nhà không mái che | Tập 21",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6NHU4bGpqQVpJX2VTYXFCT3VlVHNrNVhlOW5CbFRDNnJhbVQwS2RMY2dhYnNZMUxHSUF2clhSYXA?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T20:00:00+07:00",
-"found": "2026-11-26T00:39:11+07:00"
-},
-{
-"id": "75b83c1b5e8b",
-"title": "Trò đùa của nhà nghiên cứu Anthropic gây phẫn nộ giới toán học",
-"link": "https://vnexpress.net/tro-dua-cua-nha-nghien-cuu-anthropic-gay-phan-no-gioi-toan-hoc-5148868.html",
-"summary": "Nhà toán học Levent Alpöge của Anthropic thừa nhận con số 250.000 trang gắn liền với bài chứng minh giả thuyết Riemann chỉ là trò đùa, khiến cộng đồng toán học phẫn nộ.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/VNEMath-1795605539-4049-1795605627.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o9oxBX4Wy4B93IHa4lt4fg",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-25T20:00:00+07:00",
-"found": "2026-11-26T11:23:34+07:00"
 }
 ]
 }
