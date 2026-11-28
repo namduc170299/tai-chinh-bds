@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T18:43:57+07:00",
-"new": 6,
+"updated": "2026-11-28T18:59:27+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 40
+"count": 20
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,61 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "c0556614478a",
+"title": "Phát hiện vật thể nghi bom trong đất đá sạt lở trên quốc lộ 15D",
+"link": "https://vietnamnet.vn/phat-hien-vat-lieu-no-tai-diem-sat-lo-tren-quoc-lo-15d-2579774.html",
+"summary": "Trong lúc khắc phục sạt lở trên quốc lộ 15D (Quảng Trị), lực lượng thi công phát hiện vật liệu nổ bị vùi trong đất đá. Công binh đã có mặt tại hiện trường để kiểm tra, xử lý.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/phat-hien-vat-the-nghi-bom-trong-dat-da-sat-lo-tren-quoc-lo-15d-2337.jpg?width=0&s=L5vBS93TQqmwMIoqEWi9-w",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T18:56:57+07:00",
+"found": "2026-11-28T18:59:27+07:00"
+},
+{
+"id": "1a8c934b48a0",
+"title": "Hai phụ nữ bị dây cáp quật ngã khi đi xe máy ở Gia Lai",
+"link": "https://vietnamnet.vn/hai-nguoi-di-xe-may-nga-vang-xuong-duong-do-day-cap-vuong-vao-co-2579772.html",
+"summary": "Đang chạy xe máy trên đường, hai phụ nữ bất ngờ bị dây cáp viễn thông vướng vào cổ, khiến cả hai ngã văng xuống đường. Người điều khiển xe bị chấn thương vùng cổ, phải nhập viện điều trị.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/hai-phu-nu-bi-day-cap-quat-nga-khi-di-xe-may-o-gia-lai-2313.png?width=0&s=E44DoipJvaqw-F3xsV7Lvw",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T18:50:03+07:00",
+"found": "2026-11-28T18:59:27+07:00"
+},
+{
+"id": "99fbdde56658",
+"title": "Công an ngăn chặn thanh niên SN 2003 liên quan số tiền 903.000 đồng",
+"link": "https://kenh14.vn/cong-an-ngan-chan-thanh-nien-sn-2003-lien-quan-so-tien-903000-dong-215261128185307556.chn",
+"summary": "Đối tượng thừa nhận đã lợi dụng việc đổi, trả hàng hóa và sự bất đồng ngôn ngữ để đưa ra thông tin gian dối về việc hoàn tiền.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795866753697-17958667545271613360747.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T18:45:00+07:00",
+"found": "2026-11-28T18:59:27+07:00"
+},
+{
+"id": "3175731aa4c9",
+"title": "Độc lạ Quảng Trị: Con trâu biết làm theo hiệu lệnh của chủ khiến MXH kinh ngạc",
+"link": "https://kenh14.vn/doc-la-quang-tri-con-trau-biet-lam-theo-hieu-lenh-cua-chu-khien-mxh-kinh-ngac-215261128185041653.chn",
+"summary": "Không chỉ biết thực hiện những động tác đặc biệt, con trâu còn được cho là chỉ nghe lời duy nhất người đã chăm sóc, huấn luyện mình.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795866610078-17958666131031076328903.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T18:43:00+07:00",
+"found": "2026-11-28T18:59:27+07:00"
+},
+{
+"id": "c88f96a0fee3",
+"title": "Khánh Hòa sẽ thi tuyển kiến trúc nhà ga T1 mới sân bay Cam Ranh",
+"link": "https://thanhnien.vn/khanh-hoa-se-thi-tuyen-kien-truc-nha-ga-t1-moi-san-bay-cam-ranh-185261128171321965.htm",
+"summary": "Khánh Hòa rà soát đề xuất tổ chức thi tuyển phương án kiến trúc nhà ga T1 mới tại Cảng hàng không quốc tế Cam Ranh (sân bay Cam Ranh), để nâng công suất lên 11 triệu hành khách/năm.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/tnw-1795854730463313182093575453941313182093575453941a651ee22fbd7e7d1876d29e0d4612a28-1795859449491845049684-320-0-1920-2560-crop-1795860572707981021266.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T18:42:00+07:00",
+"found": "2026-11-28T18:59:27+07:00"
+},
+{
 "id": "e3a41245f401",
 "title": "Sạt lở bủa vây nhiều nơi ở Quảng Ngãi, cầu dân sinh có nguy cơ sập",
 "link": "https://vietnamnet.vn/sat-lo-nhieu-noi-o-quang-ngai-cau-dan-sinh-co-nguy-co-sap-2579762.html",
@@ -222,6 +277,41 @@
 "cat": "xh",
 "published": "2026-11-28T18:41:43+07:00",
 "found": "2026-11-28T18:43:57+07:00"
+},
+{
+"id": "e51a7ac003bd",
+"title": "Bỏ xe máy trên cầu rồi mất tích, công an chuẩn bị lặn tìm thì bất ngờ gặp lại người đàn ông tại hiện trường: Nhảy sông rồi bơi vào bờ nằm nghỉ",
+"link": "https://kenh14.vn/bo-xe-may-tren-cau-roi-mat-tich-cong-an-chuan-bi-lan-tim-thi-bat-ngo-gap-lai-nguoi-dan-ong-tai-hien-truong-nhay-song-roi-boi-vao-bo-nam-nghi-215261128161931118.chn",
+"summary": "Người đàn ông bỏ xe máy trên cầu Cà Ty rồi nhảy xuống sông, tự bơi sang bờ bên kia nằm nghỉ, khiến người thân và lực lượng chức năng tổ chức tìm kiếm trước khi bất ngờ xuất hiện an toàn tại hiện trường.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795857464531-17958574649121515211149.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T18:41:00+07:00",
+"found": "2026-11-28T18:59:27+07:00"
+},
+{
+"id": "34ec1deaf421",
+"title": "al-hazm đấu với al-nassr",
+"link": "https://athlonsports.com/soccer/how-to-watch-al-hazem-vs-al-nassr-online-free-start-time-live-streaming-tv-channels-usa-countries",
+"summary": "How to Watch Al Hazem vs. Al Nassr Online for Free? Start Time, Live Streaming & TV Channels in USA and Other Countries (Athlon Sports)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTchYxRv4tFIwHk374zO3QN3xmytBlJe6OsPTpRLN0tNMaCzOiKRxpmKVR4r5o",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T18:40:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-28T18:59:27+07:00"
+},
+{
+"id": "b867d5f63ceb",
+"title": "lich thi dau mu",
+"link": "https://vnexpress.net/man-utd-roi-chien-thang-trong-tran-cau-nhieu-tranh-cai-o-champions-league-5148943.html",
+"summary": "Man Utd rơi chiến thắng trong trận cầu nhiều tranh cãi ở Champions League (VnExpress)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRhp3cTwwV8bP1D9VRAO4t2T0LTcw5wKLG9WM1GalU4mnGGpT7DJD9p4ApM2U",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T18:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-28T18:59:27+07:00"
 },
 {
 "id": "86904268a323",
@@ -255,6 +345,18 @@
 "cat": "xh",
 "published": "2026-11-28T18:32:00+07:00",
 "found": "2026-11-28T18:43:57+07:00"
+},
+{
+"id": "33ef721e7c36",
+"title": "cá",
+"link": "https://nguoiquansat.vn/loai-ca-chua-ca-kho-protein-va-omega-3-dang-vao-mua-o-viet-nam-gia-chi-tu-150-000-dong-kg-330532.html",
+"summary": "Loại cá chứa cả 'kho' protein và omega-3 đang vào mùa ở Việt Nam, giá chỉ từ 150.000 đồng/kg (nguoiquansat.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXQAAHpdfX7zsQPeac1ex_c2R2ybJIIIdYXByJZDNwtxssQrz13Ep1H2svw4U",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T18:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T18:59:27+07:00"
 },
 {
 "id": "d245800f0d92",
@@ -410,7 +512,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T17:30:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-28T17:46:53+07:00"
 },
 {
@@ -1086,7 +1188,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T15:40:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-28T16:05:27+07:00"
 },
 {
@@ -27872,106 +27974,6 @@
 "cat": "xh",
 "published": "2026-11-26T08:22:31+07:00",
 "found": "2026-11-26T08:55:37+07:00"
-},
-{
-"id": "7ced39cfd856",
-"title": "Những 'siêu dự án' bất động sản 'chết' giữa lòng đô thị: Hàng trăm nghìn tỷ đồng chờ... 'rã băng': Kỳ 1: Đại dự án nhà tái định cư - xây bề thế, bỏ hoang phế",
-"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMzFCaDBRM05GSkFhM0RzdnJvOEdWd0ZqWE8xMmlDN3VxV3lEUDJqMkV4NUF6ZlYySkV3d1BxTFJTdUxCdEp6ZWZaMkQtNmduWXp4THJpblNSZFhiNm9RX3FaeFpPOTZxeGtwY2NVTlppUXFrV2Npb2I0WWEtdlJ3MG1wNGw5YmxUZmtEQTZfS3cyaW9mdUtVVU5kYldxR0Frb1hxNUtWWnRvNGF1RkswMk9vbzhoRjBiZlNKUXM5ZVR4LTRqWjJXQ1cwYmxTRG5ZT2N1ZHhfS0Z6V1NEOVB0SEZsVlFDVjdHbXJYTGZIYnRsamtFU2hTRGJJYjRPVFZmYWhVejJn?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-26T08:22:00+07:00",
-"found": "2026-11-26T08:40:26+07:00"
-},
-{
-"id": "43f88ec50188",
-"title": "triển lãm quốc phòng quốc tế việt nam 2026",
-"link": "https://tuoitre.vn/xe-tang-t-1-made-in-viet-nam-co-gi-dac-biet-100261125220221065.htm",
-"summary": "Xe tăng T-1 'made in Việt Nam' có gì đặc biệt? (Báo Tuổi Trẻ)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDLtAru4Dltemf9wiCMbWSWPaWHvWuW2h4BIyYboUKkEb8aBcXD7JW_Ru1fGI",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T08:20:00+07:00",
-"traffic": "100+",
-"found": "2026-11-26T08:55:37+07:00"
-},
-{
-"id": "d4c997394fcc",
-"title": "VIB Privilege Banking: Giữ quyền chủ động trong thế giới thay đổi nhanh",
-"link": "https://cafef.vn/vib-privilege-banking-giu-quyen-chu-dong-trong-the-gioi-thay-doi-nhanh-188261126081518571.chn",
-"summary": "“Growth is strong, but change is even faster” – thông điệp ra mắt VIB Privilege Banking đã để lại ấn tượng với bà Thái Vân Linh. Từ góc nhìn của một người có nhiều năm làm việc với doanh nghiệp và con người, bà cho rằng trong một thế giới liên tục biến động, năng lực thích nghi…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/vl1-1795655516305314275614-1795655661311-17956556617171628402102-123-0-734-977-crop-17956556825981228683931.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-26T08:15:00+07:00",
-"found": "2026-11-26T08:25:16+07:00"
-},
-{
-"id": "57a3b38afd65",
-"title": "'Dở khóc, dở cười' vì lãi vay mua nhà",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKenNlWFUxMVVndzVJelRzd29scEJPNUdPckxhRmM3MG1kSTRvR2ZpNXRudjN6SGNISVhCVjNOSXdWVUpOWVkzVGNJQ2Rwc1RIYnppN09pVWxGMEJaNUJKVHRvdkNUMjlqY3M2T3g1cU04cjJSOWc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T08:15:00+07:00",
-"found": "2026-11-26T08:25:16+07:00"
-},
-{
-"id": "154407451f11",
-"title": "Gỡ điểm nghẽn cho SMEs: Từ tài sản thế chấp đến dữ liệu",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU2lZSXBWazFZWncwdlY4UmtpSFpVMFhiYjBMbG5oaGVkRmY2NmxxcWtGT1ZjQ3RmUXp2eXNPNGZOMFBQcnJBc3ZaSGtzcFBxcHhxTEN0ZWtwV09JalQwTkdZVzFIYWNmYy1aNGFYUWxKR0VfbWZoUWNqWnRVZ05mN0prREJMaHVOTzhua0drV0I?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T08:14:00+07:00",
-"found": "2026-11-26T08:25:16+07:00"
-},
-{
-"id": "b6e2274100e7",
-"title": "Đọc nhanh 26-11: Vốn hóa Thaiholdings giảm hơn 62.000 tỉ đồng từ đỉnh",
-"link": "https://tuoitre.vn/doc-nhanh-26-11-von-hoa-thaiholdings-giam-hon-62000-ti-dong-tu-dinh-100261126063826755.htm",
-"summary": "Phố Wall diễn biến trái chiều. Trong nước, Bộ Công Thương lên tiếng về việc đề xuất mức thuế bổ sung tối đa 35% với hàng hóa Việt Nam. Cổ phiếu Thaiholdings giảm sàn 4 phiên liên tiếp.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/thaiholdingstower-17956488778232057436809.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-26T08:14:00+07:00",
-"found": "2026-11-26T09:31:26+07:00"
-},
-{
-"id": "8155101b80ee",
-"title": "Ra quyết định khởi tố 2 vợ chồng Nguyễn Thị Bích Thuỷ SN 1986",
-"link": "https://kenh14.vn/ra-quyet-dinh-khoi-to-2-vo-chong-nguyen-thi-bich-thuy-sn-1986-215261126070606547.chn",
-"summary": "Đây là các đối tượng đánh người trước trụ sở Công an phường.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/26/avatar1795651521533-1795651521792723281793.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-26T08:13:00+07:00",
-"found": "2026-11-26T08:25:16+07:00"
-},
-{
-"id": "75ed5bdb0eac",
-"title": "Ông Lê Thanh Thản thừa nhận lừa dối nhưng xin cơ hội sửa sai, chiều nay tuyên án",
-"link": "https://tuoitre.vn/ong-le-thanh-than-thua-nhan-lua-doi-nhung-xin-co-hoi-sua-sai-chieu-nay-tuyen-an-100261126074701182.htm",
-"summary": "Sau hai ngày xét xử và một tuần nghị án, chiều nay (26-11), Tòa án nhân dân TP Hà Nội sẽ tuyên án ông Lê Thanh Thản cùng 5 cựu cán bộ trong vụ án xảy ra tại dự án CT6 Kiến Hưng. Trước đó, viện kiểm sát đề nghị cho cả 6 bị cáo hưởng án treo.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/le-thanh-than-1g-1795058861012218776775-58-0-1658-2560-crop-17956538246271702331182.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-26T08:09:00+07:00",
-"found": "2026-11-26T09:31:26+07:00"
-},
-{
-"id": "0db7d00c2048",
-"title": "Giá cà phê xuống dưới 70.000 đồng/kg, người trồng cân nhắc bán hay giữ",
-"link": "https://dantri.com.vn/kinh-doanh/gia-ca-phe-xuong-duoi-70000-dongkg-nguoi-trong-can-nhac-ban-hay-giu-20261126075639658.htm",
-"summary": "(Dân trí) - Áp lực nguồn cung vụ mới tại Việt Nam khiến giá cà phê nhân xô tại một số địa phương giảm xuống dưới 70.000 đồng/kg. Nhiều nông dân đang dè dặt nghe ngóng thị trường thay vì bán ra ồ ạt.",
-"image": "https://cdnphoto.dantri.com.vn/qhYlJUAVpSnLa_mbCzGAijdRo24=/2026/11/24/img9191-1795487457788.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-26T08:08:58+07:00",
-"found": "2026-11-26T08:25:16+07:00"
 }
 ]
 }
