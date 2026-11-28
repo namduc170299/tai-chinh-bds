@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28T16:31:18+07:00",
+"updated": "2026-11-28T16:46:28+07:00",
 "new": 8,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 19
+"count": 43
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,74 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "80e88f861231",
+"title": "Mưa lớn gây ngập ở Quy Nhơn, lũ dâng nhanh tại Hoài Nhơn Bắc",
+"link": "https://thanhnien.vn/mua-lon-gay-ngap-o-quy-nhon-lu-dang-nhanh-tai-hoai-nhon-bac-185261128161441494.htm",
+"summary": "Mưa lớn kéo dài gây ngập nhiều tuyến đường ở khu vực Quy Nhơn, trong khi lũ dâng nhanh tại Hoài Nhơn Bắc, lực lượng chức năng khẩn trương sơ tán dân.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/edit-tnw-z8538816965409b175db513bd1a8888d6f6f9582647727-17958567989701146183210-17958571982302036409468-0-253-1442-2560-crop-1795857213717609567306.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T16:43:00+07:00",
+"found": "2026-11-28T16:46:28+07:00"
+},
+{
+"id": "062bfbc28a30",
+"title": "thời tiết hồ chí minh",
+"link": "https://vietnamnet.vn/du-bao-thoi-tiet-28-11-2026-khong-khi-lanh-tran-mien-bac-2572279.html",
+"summary": "Dự báo thời tiết 28/11/2026: Không khí lạnh tràn miền Bắc, Trung Bộ mưa lớn tầm tã (Báo VietNamNet)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIFmunHY6qXUzMXs0RR1iiaxZZcHKVxy5_T7G6xQ6oB7Oq_qt_O4IYyn9zobA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T16:30:00+07:00",
+"traffic": "100000+",
+"found": "2026-11-28T16:46:28+07:00"
+},
+{
+"id": "a925377491a4",
+"title": "xổ số miền nam ngày 28 tháng 11",
+"link": "https://vietnamnet.vn/ket-qua-xo-so-mien-nam-hom-nay-ngay-28-11-2026-xsmn-thu-bay-hang-tuan-2579570.html",
+"summary": "Kết quả xổ số miền Nam hôm nay ngày 28/11/2026: XSMN thứ Bảy hàng tuần (Báo VietNamNet)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTckGEwX7Jtr_6ka0fA4rkRVqr33y0_mdRWyt_m2rX_sBcJlEpB98KVLT0lVgg",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T16:20:00+07:00",
+"traffic": "2000+",
+"found": "2026-11-28T16:46:28+07:00"
+},
+{
+"id": "adfc737a5254",
+"title": "Bayern Munich có nguy cơ mất Olise vì cách đối xử với Musiala",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTDh3aWkxcEl3NXhoZVdDOGIybkR3enRDb1FGcWs5emdla0h5LU1rOVkzdnBUZHpUQ2U0cG5xclVhaDU1b1huNjlva1B0THljVjNWRzdpcEhTS3R0NWl0OWNQSUNtcEpvOUxwUVEySWdieG45VnhUdXNscHpvaWdUaV93SmNNWVA3d2w1dXdWcVNzUFZ4OGNJR3E5UkpURmZmaUdnZElqTlBQUzNnTEZr0gG0AUFVX3lxTE1xUF8yV05Zd1M2SzI4ZkNQZUFiWmctcFUydGkyUjNXX2NxbF96V2NJa014MnFtZlRuMDVPTWpqY3Z6OWE5a3dTb1dSQWdVMHh6NW95X2JkTDNVVmpmUHhEWGxBc1NKcm5hdzc0V1FHdFRoTEFSTlhuNmNfZFRXSnNZSmg1NEo0aThRc1hacWplVUlzcjQzYjNVNERKTXhJeXBad01ITmk3ejhiVC1lYXJ2VDJqNw?oc=5",
+"summary": "Nguồn: Bongda24h",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-28T16:18:27+07:00",
+"found": "2026-11-28T16:46:28+07:00"
+},
+{
+"id": "f1f6b2c58af5",
+"title": "Sân bay Cà Mau chuẩn bị đón chuyến bay từ Hà Nội và TPHCM",
+"link": "https://dantri.com.vn/kinh-doanh/san-bay-ca-mau-chuan-bi-don-chuyen-bay-tu-ha-noi-va-tphcm-20261128153818206.htm",
+"summary": "(Dân trí) - Sau khi hoàn thành nâng cấp, mở rộng với tổng vốn hơn 2.399 tỷ đồng, sân bay Cà Mau dự kiến khai thác trở lại từ ngày 18/12, với các đường bay kết nối Hà Nội và TPHCM.",
+"image": "https://cdnphoto.dantri.com.vn/qmCrjYlfMarKQho_nA4IAhtf_W4=/2026/11/28/ca-mau-chuan-bi-don-chuyen-bay-tu-ha-noi-va-tphcm-1-edited-cropped-1795857343687.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-28T16:16:12+07:00",
+"found": "2026-11-28T16:46:28+07:00"
+},
+{
+"id": "be2e83de3427",
+"title": "Đấu giá 3.790 căn hộ tái định cư Thủ Thiêm, khởi điểm gần 20.000 tỷ đồng",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzIwVlhiQ3dodEZMVUFkaFpUZGt3TnJyYjZGUUdDZjJWNTNnT1FDT1NCLW5ic1ZzNGtCc2dReGZCeFB3OTRMQzJkRUd6Nm42eGFweEpPSkRXQUkyWlZoRkN2S0czejh5bU5qVVp3dVJIMWpZRGE0SkFBMUc5c0hXVWxPY2wyQmI1OWh6VGRidUczQ0Q0X3Q1b3VTZmpQUm02a3V2YUlSUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T16:16:00+07:00",
+"found": "2026-11-28T16:46:28+07:00"
+},
 {
 "id": "13586670f748",
 "title": "Việt Nam trước ngưỡng cửa chu kỳ tăng trưởng mới: từ \"số lượng\" sang \"chất lượng\"",
@@ -266,6 +334,17 @@
 "cat": "mxh",
 "published": "2026-11-28T16:10:00+07:00",
 "found": "2026-11-28T16:20:38+07:00"
+},
+{
+"id": "a1bf5dc2a2f3",
+"title": "Angelababy gây xôn xao với diện mạo khác lạ, gương mặt đơ cứng đến mức khó nhận ra",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVXREQUpQNlVOMVVTZFYybkZ0UHMycDNIZjNuUXBUT1VPX1ZuV1pZa3F6NU9raTBadEw5N0RFZ0U2c2tLNjdOWTVwYjA5ckYyUEVxRkNHMndVMUlTWU1rbXZYU3dtM0pHV1VDajBkbVNha3hlNEUwbmJkVkk4bS1RdnZwaThpMlk5bWFGbTBmUjVFM2ZRUnpJeHk2YjlnZXFTY1J1NERQNzc3U054c3B3VERBTVA5WDFVNWxmRk1xQjVqYkFoMktIb1l3NUs?oc=5",
+"summary": "Nguồn: Phụ Nữ Và Gia Đình",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-28T16:08:24+07:00",
+"found": "2026-11-28T16:46:28+07:00"
 },
 {
 "id": "e3bf15302800",
@@ -343,6 +422,17 @@
 "cat": "xh",
 "published": "2026-11-28T15:58:00+07:00",
 "found": "2026-11-28T16:20:38+07:00"
+},
+{
+"id": "dd6d1a1679df",
+"title": "[Video] Từ 15/12/2026, khu vực sạc xe điện tại chung cư phải có hệ thống chữa cháy tự động",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWlJY19TRk1VZ2dyeFctYjREbEVVZXIwa1V4dGlhbDBpb1dpQ0lTelBuVW1aWVpwRnN6a180emFnWm5oRkV3dDBxcC1tSmhqOGIzbGsxaU5tY2YwaHlleE00VjdfRkZTa3h1ZDNKbV9ma3JRYkxkT0otWTJUMHpVMVV2UjFGYW9PUF9vZnpIZVlhVkR3YXVCSzRXaHlVUzNDNkNvTkVjQ1VmN0k3aHpwc3NDWGZwYll3Q19KXw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T15:56:00+07:00",
+"found": "2026-11-28T16:46:28+07:00"
 },
 {
 "id": "2b8b0448fefc",
@@ -555,7 +645,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T15:20:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-28T15:50:18+07:00"
 },
 {
@@ -27885,96 +27975,6 @@
 "published": "2026-11-26T07:10:00+07:00",
 "traffic": "500+",
 "found": "2026-11-26T07:27:43+07:00"
-},
-{
-"id": "ede50381f2ca",
-"title": "xạ thủ bắn tỉa",
-"link": "https://dantri.com.vn/the-gioi/nga-thu-thanh-cong-dan-can-sieu-vuot-am-toc-do-5580kmh-20261124210950088.htm",
-"summary": "Nga thử thành công đạn cận siêu vượt âm, tốc độ 5.580km/h (Báo Dân trí)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9_FhN8XVFoaMj_KnHmYeoHhLYV8pecvwgH8t4T629rf-iPj4gH_og6yCZIJI",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T07:10:00+07:00",
-"traffic": "500+",
-"found": "2026-11-26T09:31:26+07:00"
-},
-{
-"id": "e538aaaf5578",
-"title": "Tin vui cho 1,3 triệu người dân Việt Nam ngay trong tháng này",
-"link": "https://kenh14.vn/tin-vui-cho-13-trieu-nguoi-dan-viet-nam-ngay-trong-thang-nay-215261126065815698.chn",
-"summary": "Theo tính toán của Bộ Y tế, khoảng 1,3 triệu người sẽ tiếp tục được hưởng chính sách hỗ trợ này. Cụ thể là những đối tượng nào?",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795651053607-17956510546111520896876.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-26T07:09:00+07:00",
-"found": "2026-11-26T07:27:43+07:00"
-},
-{
-"id": "ef389e768589",
-"title": "Tận thấy dự án nhà ở xã hội vị trí đắc địa bị bán 'trộm' 600 suất",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWGJqMW5FaVZSc0V2MFlmVFNZMVFUcndKcFpIX0pWLTRPeEVKdXhNdlZPQXNTeXVqQlZ4cmJuWElPZk9Rd3U5c1BRRWtTUFFiM2pyMVVfMXd2eDNsTXRyODU1a2ZDTFlpRjBsSC10bHAwcV90cmI3UXNLVThXUFNSUFpkVFpSNVl0OWRtRWlhNmRIc3MxOV9tLWd0TEw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-26T07:08:00+07:00",
-"found": "2026-11-26T07:12:16+07:00"
-},
-{
-"id": "d9389ad5ed53",
-"title": "11 tháng năm 2026, xuất khẩu rau quả vượt kỷ lục cả năm 2025",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUDFZZ3VvcjNkTlhnTmxRb3JMcS04Tm9lRjMwU3JycXV0TFpJdUhIM25INlB4VEcwSWdLY3dYc1lUenIzc1o1NkdFTlVVamFJRnFkNXhJUWtUeTMzaGx1Nkp3UzI3OUpYb3owNTBnb09NVWlOVVIzYmZPNXhlQ3R3Z0FsOWhLS3FOdTBUQXNxZF9mRlVlbEtn?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T07:04:00+07:00",
-"found": "2026-11-26T07:27:43+07:00"
-},
-{
-"id": "d578e76e8f2d",
-"title": "Đề nghị truy tố kẻ ném con riêng của người tình xuống sông ở An Giang",
-"link": "https://dantri.com.vn/phap-luat/de-nghi-truy-to-ke-nem-con-rieng-cua-nguoi-tinh-xuong-song-o-an-giang-20261125192313959.htm",
-"summary": "(Dân trí) - Sau khi chở bé trai khoảng 4 tuổi đi chơi nhưng cháu bé quấy khóc, Huỳnh Hồng Hải đã ném cháu bé xuống sông ở An Giang. May mắn, cháu bé được người dân cứu sống.",
-"image": "https://cdnphoto.dantri.com.vn/bXIqqiJuSdTe1M-imdOlwaoGpdE=/2026/11/25/honghai-nemconnguoitinh-angiang-cropped-1795609167146.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-26T07:02:20+07:00",
-"found": "2026-11-26T07:58:43+07:00"
-},
-{
-"id": "ba132931bfc2",
-"title": "Bí thư xã 'kéo khách' về đồi chè nhờ mạng xã hội",
-"link": "https://vnexpress.net/bi-thu-xa-keo-khach-ve-doi-che-nho-mang-xa-hoi-5123377.html",
-"summary": "Từ chỗ gần như không sử dụng mạng xã hội, Bí thư xã Long Cốc Nguyễn Hoàng Trung tự đứng trước ống kính giới thiệu đồi chè, đưa hàng nghìn du khách đến với địa phương.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/2aobor0k0ysssltxlcnrd00xksreyo-1425-4217-1795651083.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rBeJcN4FO-GiLggLPXoXBA",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-26T07:27:43+07:00"
-},
-{
-"id": "7bc981c9816f",
-"title": "An Giang tìm lời giải cho bài toán rác thải từ nguồn",
-"link": "https://tuoitre.vn/an-giang-tim-loi-giai-cho-bai-toan-rac-thai-tu-nguon-100261125160154607.htm",
-"summary": "An Giang đang thúc đẩy phân loại tại nguồn, tái chế và tận dụng phụ phẩm để giảm lượng rác thải phải xử lý.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/rac-1-17955966348911810658954.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-26T07:43:13+07:00"
-},
-{
-"id": "fc4dcb118d5c",
-"title": "thép",
-"link": "https://vnexpress.net/tp-hcm-khanh-thanh-nha-may-thep-6-200-ty-dong-tai-phu-my-5147556.html",
-"summary": "TP HCM khánh thành nhà máy thép 6.200 tỷ đồng tại Phú Mỹ (VnExpress)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkWNquwmRnTMDmmmuRSvwlpDoWY6u5vCbQSzzvNjuNoRRe4AdP9J6LSySEPAE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T07:00:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-26T07:58:43+07:00"
 }
 ]
 }
