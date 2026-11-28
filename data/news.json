@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T20:11:31+07:00",
-"new": 5,
+"updated": "2026-11-28T20:27:01+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 40
+"count": 20
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,51 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "7bec4eb2ecce",
+"title": "Tìm thấy thi thể nam sinh 16 tuổi đuối nước ở hồ Lòng Sông",
+"link": "https://vietnamnet.vn/tim-thay-thi-the-nam-sinh-16-tuoi-duoi-nuoc-o-ho-long-song-2579790.html",
+"summary": "Sau khoảng 2 giờ tìm kiếm, lực lượng chức năng tỉnh Lâm Đồng tìm thấy thi thể nam sinh 16 tuổi bị đuối nước tại khu vực tràn Bá Ra, hồ Lòng Sông.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/tim-thay-thi-the-nam-sinh-16-tuoi-duoi-nuoc-o-ho-long-song-2663.jpg?width=0&s=CFSWrYLR42Uya7FfpGZBpA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T20:25:18+07:00",
+"found": "2026-11-28T20:27:01+07:00"
+},
+{
+"id": "091b560c0ccb",
+"title": "Liên danh Tập đoàn Tân Á Đại Thành khởi công Dự án Khu đô thị đa mục tiêu gần 300 ha tại Long Biên",
+"link": "https://cafef.vn/lien-danh-tap-doan-tan-a-dai-thanh-khoi-cong-du-an-khu-do-thi-da-muc-tieu-gan-300-ha-tai-long-bien-188261128201725714.chn",
+"summary": "Ngày 28/11, Tập đoàn Tân Á Đại Thành công bố chiến lược phát triển giai đoạn 2026 - 2035 với định hướng \"Tiên phong kiến tạo chuỗi giá trị bất động sản Tinh khiết - Thông minh - Bền vững\". Cùng trong sự kiện này, Liên danh nhà đầu tư Tập đoàn Tân Á Đại Thành - Meyland khởi công…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/khoi-cong-17958715230961844201429-0-29-1220-1981-crop-1795871586061227853240.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-28T20:16:00+07:00",
+"found": "2026-11-28T20:27:01+07:00"
+},
+{
+"id": "dc28f2f3317a",
+"title": "Nhận lời tỷ phú Phạm Nhật Vượng, 8 chuyên gia hàng đầu thế giới sẽ đến VN bàn cách giải các bài toán tỷ USD",
+"link": "https://kenh14.vn/nhan-loi-ty-phu-pham-nhat-vuong-8-chuyen-gia-hang-dau-the-gioi-se-den-vn-ban-cach-giai-cac-bai-toan-ty-usd-21526112820201754.chn",
+"summary": "Trong số 8 chuyên gia hàng đầu này, có một người Việt Nam.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795871980165-1795871984434874237535.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T20:13:00+07:00",
+"found": "2026-11-28T20:27:01+07:00"
+},
+{
+"id": "ee102076c2eb",
+"title": "frosinone đấu với parma",
+"link": "https://baonghean.vn/nhan-dinh-frosinone-vs-parma-chu-nha-duoc-danh-gia-cao-hon-10356801.html",
+"summary": "Nhận định Frosinone vs Parma: Chủ nhà được đánh giá cao hơn (Báo Nghệ An)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5ZCJStI7c5R9ZmnvyJFv5HNbNTDRCXc7mhs_cYOFZa0hrslG6lj3hQnaUL_k",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T20:10:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T20:27:01+07:00"
+},
 {
 "id": "681ee1408162",
 "title": "Nhà sáng tạo nội dung số trải nghiệm dấu ấn di sản tại TP.HCM",
@@ -268,6 +313,30 @@
 "found": "2026-11-28T20:11:31+07:00"
 },
 {
+"id": "90359ce4033a",
+"title": "thứ hạng của câu lạc bộ bóng đá bắc ninh gặp shb đà nẵng",
+"link": "https://trends.google.com/trending/rss?geo=VN",
+"summary": "",
+"image": "",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T20:00:00+07:00",
+"traffic": "500+",
+"found": "2026-11-28T20:27:01+07:00"
+},
+{
+"id": "9847ffa751cf",
+"title": "giải vđqg ả rập xê út",
+"link": "https://www.reutersconnect.com/item/100th-macys-thanksgiving-day-parade-in-manhattan/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlpXT0FRNlI5TA",
+"summary": "Licensable picture: 100th Macy's Thanksgiving Day Parade in Manhattan (Reuters Connect)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbjO1P6smria7F5qUPU_bOIYTUaCxIHX-73VOHDMCtj4ChyQ__TSJigRJT9uE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T20:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T20:27:01+07:00"
+},
+{
 "id": "e2f17c0ba190",
 "title": "Đưa kỹ năng thương mại điện tử đến với người dân vùng cao",
 "link": "https://vietnamnet.vn/dua-ky-nang-thuong-mai-dien-tu-den-voi-nguoi-dan-vung-cao-2579138.html",
@@ -320,7 +389,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T19:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-28T20:11:31+07:00"
 },
 {
@@ -333,6 +402,17 @@
 "cat": "xh",
 "published": "2026-11-28T19:45:00+07:00",
 "found": "2026-11-28T20:01:08+07:00"
+},
+{
+"id": "ecea2e7ca702",
+"title": "TP HCM mời các ngân hàng Đức tham gia trung tâm tài chính",
+"link": "https://vnexpress.net/tp-hcm-moi-cac-ngan-hang-duc-tham-gia-trung-tam-tai-chinh-5150006.html",
+"summary": "Trung tâm tài chính tại TP HCM mời các ngân hàng Đức tham gia và muốn hợp tác nhân lực, chuyên môn với Trung tâm Tài chính Frankfurt.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/28/wm1-wm1-dji-1795855622-7817-1795855936.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XdZ-8e3GY3wK4kD_td4I2A",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-28T19:42:26+07:00",
+"found": "2026-11-28T20:27:01+07:00"
 },
 {
 "id": "0b6a7ab2c6c0",
@@ -27903,83 +27983,6 @@
 "cat": "tc",
 "published": "2026-11-26T09:31:44+07:00",
 "found": "2026-11-26T11:08:24+07:00"
-},
-{
-"id": "373434b19038",
-"title": "Toàn cảnh Cảng hàng không quốc tế Gia Bình, dự án hướng tới phục vụ APEC 2027",
-"link": "https://tuoitre.vn/toan-canh-cang-hang-khong-quoc-te-gia-binh-du-an-huong-toi-phuc-vu-apec-2027-100261125173024461.htm",
-"summary": "Những ngày cuối tháng 11-2026, công trường Cảng hàng không quốc tế Gia Bình nhộn nhịp tiếng máy móc, công nhân thi công.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/nam4754-1795604263007809572399-4-0-1284-2048-crop-1795617552755470373188.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-26T09:30:00+07:00",
-"found": "2026-11-25T23:20:49+07:00"
-},
-{
-"id": "b464e533a4c2",
-"title": "Go Global: Doanh nghiệp Việt cần \"biến nguy thành cơ\", từ bỏ cuộc đua giá",
-"link": "https://dantri.com.vn/kinh-doanh/go-global-doanh-nghiep-viet-can-bien-nguy-thanh-co-tu-bo-cuoc-dua-gia-20261126075319194.htm",
-"summary": "(Dân trí) - Không chỉ xuất khẩu trực tiếp, doanh nghiệp Việt còn có thể hiện diện toàn cầu ngay trên sân nhà. Tuy nhiên, để bước vào sân chơi này, lợi thế giá rẻ không còn là yếu tố quyết định.",
-"image": "https://cdnphoto.dantri.com.vn/wWppT58nJt6Od2v-0zmAHPBruBQ=/2026/11/26/thumb-1795653705573.png",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-26T09:29:59+07:00",
-"found": "2026-11-26T10:17:10+07:00"
-},
-{
-"id": "5de8a9ba7de8",
-"title": "Tài xế ô tô tông bay xe hàng của shipper rồi bỏ chạy ở Hà Nội: Mức phạt thế nào?",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaFFMWUpueG9RMzJRY180NmlBS2ljQ3RJOG1IaTFseldQRU10YUl2eTgxckZHQUx6M2tHWG85ZEl4dW5wRS1TbDc0YndVODdzRXVYd0dkZ3NDdlhpSXNZSWR3enJ6Q3NPZjRuM3hhUVlOT1pucElnRk1RY0k5WEp5VW9TNmlHb0M0TjBwTGM1UXRXZGk4WUtRbk1wd2g4LVRYXy0xX2tUV0ZTOW9oazMxN3BDVmtmYlNscmg3cXlhTnEzZw?oc=5",
-"summary": "Nguồn: autopro.com.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T09:27:00+07:00",
-"found": "2026-11-26T09:31:26+07:00"
-},
-{
-"id": "126445d66734",
-"title": "Petrovietnam thúc đẩy nội địa hóa công nghiệp điện, khai thác thị trường tỉ USD",
-"link": "https://tuoitre.vn/petrovietnam-thuc-day-noi-dia-hoa-cong-nghiep-dien-khai-thac-thi-truong-ti-usd-100261126080016371.htm",
-"summary": "Hướng tới xây dựng chuỗi cung ứng nội địa cho ngành điện, Petrovietnam tập trung phát huy năng lực doanh nghiệp trong nước, từng bước làm chủ công nghệ và tối ưu chi phí đầu tư.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/1-17956545660532074654109-50-0-884-1334-crop-17956545746311306664486.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-26T09:25:00+07:00",
-"found": "2026-11-26T10:53:10+07:00"
-},
-{
-"id": "f0ec47a27175",
-"title": "Tòa bác kháng cáo của Bảo hiểm Bảo Việt trong vụ thủy điện Sông Bung 2",
-"link": "https://vietnamnet.vn/toa-bac-khang-cao-cua-bao-hiem-bao-viet-trong-vu-thuy-dien-song-bung-2-2578607.html",
-"summary": "Công ty CP Tư vấn Xây dựng Điện 2 (PECC2) vừa công bố thông tin bất thường về kết quả xét xử phúc thẩm vụ tranh chấp hợp đồng bảo hiểm liên quan đến sự cố hầm dẫn dòng dự án thủy điện Sông Bung 2.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/toa-bac-khang-cao-cua-bao-hiem-bao-viet-trong-vu-thuy-dien-song-bung-2-490.png?width=0&s=_hXpgkCTtLg1iL5Cm3JhzQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-26T09:23:06+07:00",
-"found": "2026-11-26T09:31:26+07:00"
-},
-{
-"id": "2b36551d182c",
-"title": "Kimmich bức xúc với cách Bayern xử lý trường hợp Musiala",
-"link": "https://bongda24h.vn/bong-da-chau-au/kimmich-buc-xuc-voi-cach-bayern-xu-ly-truong-hop-musiala-184-465734.html",
-"summary": "Nguồn: Bong da 24h",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T09:22:00+07:00",
-"found": "2026-11-28T05:22:00+07:00"
-},
-{
-"id": "c2892b21c536",
-"title": "Từ tích lũy đến thịnh vượng trường tồn: Bài toán chuyển giao gia sản",
-"link": "https://vietnamnet.vn/tu-tich-luy-den-thinh-vuong-truong-ton-bai-toan-chuyen-giao-gia-san-2578774.html",
-"summary": "Tại VPBank Wealth Forum 2026, VPBank công bố tầm nhìn “Kiến trúc sư gia sản”, định hình cách tiếp cận toàn diện trong quản lý gia sản, hướng tới đồng hành cùng các gia đình trên hành trình chuyển từ kiến tạo thịnh vượng đến thịnh vượng trường tồn.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/tu-tich-luy-den-thinh-vuong-truong-ton-bai-toan-chuyen-giao-gia-san-472.jpg?width=0&s=v68QFh_VeZa_HuEcE-VVww",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-26T09:20:06+07:00",
-"found": "2026-11-26T09:31:26+07:00"
 }
 ]
 }
