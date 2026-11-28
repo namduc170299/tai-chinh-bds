@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T21:26:36+07:00",
-"new": 28,
+"updated": "2026-11-28T21:42:08+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 40
+"count": 39
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "b987796bf7b5",
+"title": "Lịch nghỉ tết dương lịch 2027: Người lao động được nghỉ mấy ngày liên tiếp?",
+"link": "https://thanhnien.vn/lich-nghi-tet-duong-lich-2027-nguoi-lao-dong-duoc-nghi-may-ngay-lien-tiep-18526112821170856.htm",
+"summary": "Dịp tết dương lịch 2027, công chức, viên chức, người lao động sẽ được nghỉ 3 ngày liên tiếp, do ngày nghỉ lễ rơi vào thứ sáu. Đây là kỷ nghỉ đầu tiên trong tổng số 7 kỷ nghỉ của năm.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/edit-edit-tnw-nghi-le-ngay-van-hoa-1786435250082562543763-85-0-1174-1743-crop-17958750338641578775829.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T21:36:00+07:00",
+"found": "2026-11-28T21:42:08+07:00"
+},
+{
 "id": "ecf226c8c91f",
 "title": "Trải nghiệm đặc biệt của những nhà sáng tạo nội dung số",
 "link": "https://thanhnien.vn/trai-nghiem-dac-biet-cua-nhung-nha-sang-tao-noi-dung-so-185261128204704368.htm",
@@ -222,6 +233,17 @@
 "cat": "mxh",
 "published": "2026-11-28T21:26:00+07:00",
 "found": "2026-11-28T21:26:36+07:00"
+},
+{
+"id": "df81cd17c7c3",
+"title": "20 trẻ mầm non được giải cứu ra khỏi vùng bị ngập",
+"link": "https://kenh14.vn/20-tre-mam-non-duoc-giai-cuu-ra-khoi-vung-bi-ngap-215261128204635739.chn",
+"summary": "Mưa lớn kéo dài gây ngập cục bộ tại nhiều khu dân cư ở khu vực phía Đông tỉnh Gia Lai. Tại phường Quy Nhơn Nam, lực lượng chức năng đã kịp thời đưa 20 trẻ mầm non ra khỏi vùng bị ngập.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795873451866-1795873453675784588510.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T21:26:00+07:00",
+"found": "2026-11-28T21:42:08+07:00"
 },
 {
 "id": "12f676641338",
@@ -277,6 +299,17 @@
 "cat": "bds",
 "published": "2026-11-28T21:17:00+07:00",
 "found": "2026-11-28T21:26:36+07:00"
+},
+{
+"id": "2fdb6ab71ced",
+"title": "Loạt doanh nghiệp của \"thầy dạy làm giàu\" Master Anh Đức vừa bị bắt",
+"link": "https://kenh14.vn/loat-doanh-nghiep-cua-thay-day-lam-giau-master-anh-duc-vua-bi-bat-21526112821243429.chn",
+"summary": "Nguyễn Anh Đức (được gọi Master Anh Đức) tham gia điều hành nhiều doanh nghiệp trước khi bị Công an TP Hải Phòng khởi tố, bắt tạm giam vì hành vi trốn thuế.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795875857899-1795875858258171713765.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T21:17:00+07:00",
+"found": "2026-11-28T21:42:08+07:00"
 },
 {
 "id": "d032dc6057ae",
@@ -344,6 +377,18 @@
 "published": "2026-11-28T21:10:00+07:00",
 "traffic": "200+",
 "found": "2026-11-28T21:26:36+07:00"
+},
+{
+"id": "b5325351348e",
+"title": "al-nassr",
+"link": "https://bongdaplus.vn/bong-da-the-gioi/nhan-dinh-bong-da-al-hazem-vs-al-nassr-19h15-ngay-28-11-xu-dep-con-moi-quen-5301482611.html",
+"summary": "Nhận định bóng đá Al Hazem vs Al Nassr, 19h15 ngày 28/11: Xử đẹp 'con mồi' quen (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpRL9uAuJJ2a2XLYIsvhpnQduxpseyQ3BWMmtkDrAdcqSFZbQyc4MkvcyZNXs",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T21:10:00+07:00",
+"traffic": "100+",
+"found": "2026-11-28T21:42:08+07:00"
 },
 {
 "id": "88da7231c9c0",
@@ -514,7 +559,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T20:40:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-28T20:58:03+07:00"
 },
 {
@@ -27951,50 +27996,6 @@
 "cat": "bds",
 "published": "2026-11-26T10:04:33+07:00",
 "found": "2026-11-26T10:17:10+07:00"
-},
-{
-"id": "c618bc7c464b",
-"title": "Giá chung cư Hà Nội giảm mạnh, chuyên gia dự báo thời điểm \"chạm đáy\"",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWdDc25ac29Ra2hpYVhacHNQY1NFc0dSMnB2cVpsXzNBT1BMdlFpdDFPRFh0ZG9nTUpBVzM3aDdNOV81dGJObm5SLU5mRHo2R3dRZ29ENjVCeFkzYWxkTlNQZnpfWC01U3llUDE4RjQ1RDRsZ1dGS0F5cjFTSUxJamRITFl1QmpBM2tta3RHemhvVzA5cW50Yk5EV05YVWNI?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-26T10:04:16+07:00",
-"found": "2026-11-26T13:27:02+07:00"
-},
-{
-"id": "33f990f45dac",
-"title": "Chuyển hộ khẩu theo chồng, con gái không được chia 1.500m2 đất mẹ khai hoang",
-"link": "https://vietnamnet.vn/chuyen-ho-khau-theo-chong-con-gai-khong-duoc-chia-1-500m2-dat-me-khai-hoang-2570614.html",
-"summary": "Sau khi lập gia đình và chuyển hộ khẩu theo chồng, người chị yêu cầu được chia phần trong gần 1.500m2 đất do mẹ khai hoang, vì cho rằng đây là tài sản chung của gia đình. Tuy nhiên, người em trai không đồng ý.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/2/chuyen-ho-khau-theo-chong-con-gai-khong-duoc-chia-1-2421.jpg?width=0&s=PIl8mIk-788RMF7qL8j-pA",
-"source": "VietnamNet",
-"cat": "bds",
-"published": "2026-11-26T10:03:58+07:00",
-"found": "2026-11-26T10:17:10+07:00"
-},
-{
-"id": "98643cdda641",
-"title": "Địa ốc 24H: Dự án NƠXH bị bán 'trộm' 600 suất; làm rõ nguồn gốc 15 thửa đất của người có nghệ danh Lý Nhã Kỳ",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc3NZbFBfRC1fTzVkTHR2aVdmSWhtbllEN1pRNkpoRWpxblFjSE9PN2o2VWs3djhBZ3REZXl6X3dtcUVhRUFPRlFPTXh2aHdXYUN6dHRMZF8tUTExeDlSOTJncW9wdkI5SERZLUQ5eWZUWElaNldYSGs5Z3VwWHpaY3ItTW0yNlJnZ0ZIU1BVcms5clAtekxHRlo3eFpqdkhoWHFlYXpRaU80X1dFdldFdVFkN1BSR1pNZ1MxRFdBWXNQbExQZ29YVC1jYWk5b1R4QmZN?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-26T10:03:00+07:00",
-"found": "2026-11-26T10:17:10+07:00"
-},
-{
-"id": "b153d3445f37",
-"title": "Đánh thức kinh tế tầm thấp Tây Nam Bộ - Kỳ cuối: Nông dân làm giàu dưới cánh bay UAV được không?",
-"link": "https://tuoitre.vn/danh-thuc-kinh-te-tam-thap-tay-nam-bo-ky-cuoi-nong-dan-lam-giau-duoi-canh-bay-uav-duoc-khong-100261126082347416.htm",
-"summary": "Tây Nam Bộ cần một hệ sinh thái kết nối dữ liệu, doanh nghiệp và người dân để biến lợi thế không gian thành giá trị kinh tế bền vững.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/nguon-nuoc-1795663375077949586664-0-112-1182-2003-crop-17956633997101368236698.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-26T10:03:00+07:00",
-"found": "2026-11-26T10:53:10+07:00"
 }
 ]
 }
