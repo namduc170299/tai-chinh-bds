@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28T17:01:38+07:00",
+"updated": "2026-11-28T17:16:51+07:00",
 "new": 4,
 "sources": [
 {
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 22
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,17 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "7561bcba8069",
+"title": "Sắp đấu giá 29 thửa đất tại xã Sóc Sơn, giá khởi điểm từ 14,3 triệu đồng/m2",
+"link": "https://cafef.vn/sap-dau-gia-29-thua-dat-tai-xa-soc-son-gia-khoi-diem-tu-143-trieu-dong-m2-188261128170117387.chn",
+"summary": "29 thửa đất tại thôn Cả sẽ được UBND xã Sóc Sơn (thành phố Hà Nội) đưa ra đấu giá vào trung tuần tháng 12-2026. Mức giá khởi điểm hấp dẫn, chỉ từ hơn 14,3 triệu đồng/m2.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/avatar1795860049136-1795860049991322101824.jpg",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-28T17:01:00+07:00",
+"found": "2026-11-28T17:16:51+07:00"
+},
 {
 "id": "a0b22e099c22",
 "title": "Hải Phòng mở rộng bệnh viện hơn 120 tuổi thành tổ hợp y tế",
@@ -277,7 +288,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T16:20:00+07:00",
-"traffic": "5000+",
+"traffic": "2000+",
 "found": "2026-11-28T16:46:28+07:00"
 },
 {
@@ -477,6 +488,17 @@
 "cat": "bds",
 "published": "2026-11-28T15:56:00+07:00",
 "found": "2026-11-28T16:46:28+07:00"
+},
+{
+"id": "192ed6264eae",
+"title": "Nữ sinh lớp 7 ở Nghệ An bị nhóm bạn đánh, bắt quỳ gối trong lớp học",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPalRqUEwydE43U0dTTXh0OHE1dzJlbHIzb1Z5RExqWERhS3BOcFJObVlFeHhjNzhkQ2V5NTlUa2JZRzVtQ09BWmNaUnA2QV9jSTF3bVZ1MHpjby1hdG1lVGhkRWFObk0yX0xBUW5tX0JTeS1XSzRXejhJaXJVcDBKek1BbzJxRnBQREE4eFhraHNVbkNMR1daWGo1OWVkWkc2d01jSE9UcGxhc0ZF?oc=5",
+"summary": "Nguồn: CafeBiz",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-28T15:55:00+07:00",
+"found": "2026-11-28T17:16:51+07:00"
 },
 {
 "id": "2b8b0448fefc",
@@ -11115,6 +11137,17 @@
 "found": "2026-11-27T15:49:46+07:00"
 },
 {
+"id": "c38f29c1bd39",
+"title": "Tuyên Quang: Tiếp tục đẩy mạnh tuyên truyền thực hiện mục tiêu tăng trưởng kinh tế năm 2026",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQelYzeTE5aVV5eC1RVVRveW9sSExMMGJsckN3eXBwQ25pcU96QXRCNmhOel9xcDRRUjFTWV92OVZDakVNOGhpb3JHMmQyV0puRmxzOWtLSmNVZjItWWJCZGZ4b2NpRUdtOGM1RVB6R1E2ekxQc2NWRHgwT25yeFpSX183RXBsQlk4alF4dGRMVFZUVmdjUF9EdVV5NlEwcXVfNFJHOGpMX2VmeVZsVk9Od19wdVc0WXdfQTZjYjNJWHI?oc=5",
+"summary": "Nguồn: Báo cáo viên",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-27T14:47:00+07:00",
+"found": "2026-11-28T17:16:51+07:00"
+},
+{
 "id": "9fd598b490f3",
 "title": "Thủ tướng nêu 3 định hướng phát triển thị trường chứng khoán",
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlA3V18wcWI4WkdwU1puRk91WHlWSTVjckR4eE1OV2RFbG5IMEx2S1ZZX0dyMDg5dUZxSjdjT2QzM21vSWRSdlBOWkFTOW5PTDFLWXF3QVF5V0V2dDZNUS1JcV9oOHV1WU5DaFhwRGloNWl4dXh0LVRfMnVBbXIxNTBZWDdhYWdvVU84S3Q3TjNaYU5Gc0lubg?oc=5",
@@ -19616,6 +19649,17 @@
 "found": "2026-11-26T19:26:22+07:00"
 },
 {
+"id": "9d4a19a3be76",
+"title": "Hà Nội mở bán dự án nhà ở xã hội có giá vượt 34 triệu đồng/m²",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEkzWUpDUU5LZlNNV203Ui1uaENyZUVHcVltU1RHdWN4b1E0NW50aFJrMjRqd0RiSWZGMmhGeTREY3dDSm1EZHFvSTJsZWFBSFptWGhSZE9GbEJkbmZ0NWY2LTg0cml1R0RBZU9Za0pwX0dzdFJVVWZ3MWw5aWNOMXZzSVpjMHE5ME1oMFB6TG41Xzczc2V2emtR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-26T19:20:00+07:00",
+"found": "2026-11-28T17:16:51+07:00"
+},
+{
 "id": "c481ed81ac8b",
 "title": "Thủ tướng đề nghị tăng cường kết nối giữa CPTPP với ASEAN và EU",
 "link": "https://dantri.com.vn/kinh-doanh/thu-tuong-de-nghi-tang-cuong-ket-noi-giua-cptpp-voi-asean-va-eu-20261126184922254.htm",
@@ -26615,17 +26659,6 @@
 "found": "2026-11-26T09:46:42+07:00"
 },
 {
-"id": "fe5ef4e519f5",
-"title": "Hà Nội mở bán dự án nhà ở xã hội có giá vượt 34 triệu đồng/m²",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXpyWmhZSkU2VC12eUNmamxtTjctODZHR2tjMnc2Ykxkb0FZUmJJU1ZKS0w5X0Y2d2llMWVhVE16SjhJbDJHOHNKNDhudVdHMTdrM3pCbU9sNGp3dmw1QlpWQTItdXBuaEJ1eTJsbmhQTW0yT0haN2N4TTR2aEswMzlRYmZNTlRtR2tuZ3FYRlF5VW55Sk5nSXdR?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-26T09:38:00+07:00",
-"found": "2026-11-26T09:46:42+07:00"
-},
-{
 "id": "2e48aff581e3",
 "title": "Mua nhà hoàn thiện Vịnh Bình Minh 1, bớt lo công trình, thêm thời gian cho gia đình",
 "link": "https://dantri.com.vn/bat-dong-san/mua-nha-hoan-thien-vinh-binh-minh-1-bot-lo-cong-trinh-them-thoi-gian-cho-gia-dinh-20261126093008925.htm",
@@ -27940,39 +27973,6 @@
 "source": "CafeF",
 "cat": "bds",
 "published": "2026-11-26T07:15:00+07:00",
-"found": "2026-11-26T07:27:43+07:00"
-},
-{
-"id": "3051ce48da5f",
-"title": "Hướng dẫn cách làm báo cáo ESG doanh nghiệp chuẩn quốc tế",
-"link": "https://dantri.com.vn/kinh-doanh/huong-dan-cach-lam-bao-cao-esg-doanh-nghiep-chuan-quoc-te-20261125143204471.htm",
-"summary": "(Dân trí) - Báo cáo ESG doanh nghiệp là tài liệu công bố tác động và hiệu quả hoạt động trên ba trụ cột: môi trường, xã hội và quản trị.",
-"image": "https://cdnphoto.dantri.com.vn/w5kyyKqJ6ECFyHocVk_r4FGCwZA=/2026/11/25/bao-cao-esg-doanh-nghiep-cropped-1795591748436.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-26T07:15:00+07:00",
-"found": "2026-11-26T07:43:13+07:00"
-},
-{
-"id": "02754841fc95",
-"title": "Loạt chính sách mới về hải quan, thuế xuất nhập khẩu tác động đến doanh nghiệp",
-"link": "https://vietnamnet.vn/chinh-sach-moi-ve-hai-quan-thue-xuat-nhap-khau-tac-dong-den-dn-2578536.html",
-"summary": "Nhiều chính sách mới về hải quan, thuế và xuất xứ hàng hóa đặt ra yêu cầu tuân thủ cao hơn, buộc doanh nghiệp xuất nhập khẩu phải chủ động rà soát hồ sơ, quy trình để tránh rủi ro.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/26/loat-chinh-sach-moi-ve-hai-quan-thue-xuat-nhap-khau-tac-dong-den-doanh-nghiep-222.jpg?width=0&s=JupbZVBQMsdiQMKEo3bNjQ",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-26T07:12:14+07:00",
-"found": "2026-11-26T07:27:43+07:00"
-},
-{
-"id": "be37ee549672",
-"title": "Luật Đất đai (sửa đổi): Xem xét cấp sổ đỏ cho đất sử dụng lâu năm không giấy tờ, mua bán viết tay",
-"link": "https://cafef.vn/luat-dat-dai-sua-doi-xem-xet-cap-so-do-cho-dat-su-dung-lau-nam-khong-giay-to-mua-ban-viet-tay-188261126061247624.chn",
-"summary": "TPO - Luật Đất đai (sửa đổi) năm 2026 mở rộng các trường hợp được xem xét cấp sổ đỏ, trong đó có đất sử dụng trước ngày 1/7/2014, hay trường hợp chuyển nhượng quyền sử dụng đất trước ngày 1/8/2024 nhưng chưa thực hiện thủ tục chuyển quyền.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795648342493-17956483429961240026910.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-26T07:12:00+07:00",
 "found": "2026-11-26T07:27:43+07:00"
 }
 ]
