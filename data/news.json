@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T20:42:32+07:00",
-"new": 4,
+"updated": "2026-11-28T20:58:03+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 39
+"count": 20
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,53 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "8a88863474e5",
+"title": "Sự thật về 'thông tin nước lũ ngập tới mái nhà ở Đắk Lắk'",
+"link": "https://thanhnien.vn/su-that-ve-thong-tin-nuoc-lu-ngap-toi-mai-nha-o-dak-lak-185261128200150579.htm",
+"summary": "Trước thông tin lan truyền trên mạng xã hội, UBND xã Sơn Hòa (Đắk Lắk) khẳng định thông tin kèm hình ảnh nước lũ ngập đến mái nhà dân, là không đúng với tình hình thực tế do mưa lớn hiện tại ở địa phương.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/thong-tin-sai-su-that-ve-mua-lu-17958738232881283226899-0-0-493-789-crop-1795873949964120214774.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T20:45:00+07:00",
+"found": "2026-11-28T20:58:03+07:00"
+},
+{
+"id": "181fde1280e1",
+"title": "hamburger đấu với bayern",
+"link": "https://bongdaplus.vn/bundesliga/nhan-dinh-bong-da-hamburg-vs-bayern-munich-21h30-ngay-28-11-hum-xam-vuot-bao-chan-thuong-5301112611.html",
+"summary": "Nhận định bóng đá Hamburg vs Bayern Munich, 21h30 ngày 28/11: Hùm xám vượt bão chấn thương (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoHbL5SxrjKZVTF5F5nCxVwmEWLcKSxE8CtZGN1IjRBBniBYu25-UGrLwha_w",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T20:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T20:58:03+07:00"
+},
+{
+"id": "f59aa2d2f16a",
+"title": "köln đấu với elversberg",
+"link": "https://baonghean.vn/nhan-dinh-1-fc-koln-vs-sv-elversberg-bai-toan-luc-luong-cua-chu-nha-10356811.html",
+"summary": "Nhận định 1. FC Köln vs SV Elversberg: Bài toán lực lượng của chủ nhà (Báo Nghệ An)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjHWvCP15w3f8DT1e4MRWwK0BYnDQUCV26zE0dog9o3Fptq2vTOmrNA_n__eM",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T20:40:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T20:58:03+07:00"
+},
+{
+"id": "24212c511052",
+"title": "lịch mu",
+"link": "https://vietnamnet.vn/lich-thi-dau-vong-12-ngoai-hang-anh-2026-27-moi-nhat-2579554.html",
+"summary": "Lịch thi đấu vòng 12 Ngoại hạng Anh 2026/27 mới nhất (Báo VietNamNet)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTekg1YYgPFCgMtlrgdsaf7qGLwhG8C5PF2i4l7Ar2yFvvwrlJpnUiDWUtGSHA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T20:40:00+07:00",
+"traffic": "500+",
+"found": "2026-11-28T20:58:03+07:00"
+},
 {
 "id": "8bb7bedd1cf8",
 "title": "Hai bé trai tử vong dưới ao cá trong vườn nhà",
@@ -299,7 +346,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T20:10:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-28T20:27:01+07:00"
 },
 {
@@ -426,6 +473,17 @@
 "found": "2026-11-28T20:01:08+07:00"
 },
 {
+"id": "40c08820568e",
+"title": "Giải cứu 20 trẻ mầm non mắc kẹt trong trường ngập",
+"link": "https://vnexpress.net/giai-cuu-20-tre-mam-non-mac-ket-trong-truong-ngap-5150071.html",
+"summary": "Nước tràn vào lớp khi 20 trẻ đang ngủ trưa, lực lượng cứu hộ phải lội nước, dùng phao đưa các em ra ngoài an toàn, chiều 28/11.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/921587112170503436784324969421-7334-7589-1795869728.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=62WKb275eiYCTVRhr3IV2A",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-28T19:51:36+07:00",
+"found": "2026-11-28T20:58:03+07:00"
+},
+{
 "id": "9fe42ebd6454",
 "title": "real betis",
 "link": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/betis-rayo-alegria-champions-carrera-volver-disputarla-20261128073248-nts.html",
@@ -537,6 +595,17 @@
 "found": "2026-11-28T19:30:45+07:00"
 },
 {
+"id": "15b1a2d138b6",
+"title": "Hà Nội sắp đưa hơn 1.000 căn hộ NƠXH vào khai thác",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjJ6eml6X3ZZMjQzV1Bvc2g0QURRX3dSTFJ0dmVGSG9ZUnM3TFZlVmNyVk40aHFLXzBxNVRIR19mdlVBM3RPTGZrLUVaZ25Hc25SSFdyRlR0ZERQSlZZZF9fbDFUWXRYVUQxUzgxaGpoZy1lUktaNDgyZmlRaHk5UnFBeG1ZZnBfcHFv?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T19:26:00+07:00",
+"found": "2026-11-28T20:58:03+07:00"
+},
+{
 "id": "54940fde7fc0",
 "title": "Bài hát Việt nổi tiếng cả nước vì 1 vấn nạn xã hội nhức nhối, ca nhạc sĩ đổi đời, nay hồi sinh trong siêu phẩm 200 tỷ",
 "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb2t3Rm1CN0FpZ2dBOHFmaFlGRXNzSVZ0eTR0bDhpakJuLVBReUV0bFhoMHpaSE1DRXE1ZE5LWmNvWG5TSHJFVGEyUVdzWGVoT010cWpMa3YyLXFFNHF2OXNIRFByVzl0Q1ZaZU5tdk1FbHRabUluZ0RtSTd1NW1VZkF1b0pHTUo0RWItR0pOR0pCTy1xdm9FZzc2TTEwTUFvRHBhT2Vpay1Vamx6YXYxR2QyQmNsd3VhdTY4ZkREVU1qenB1UmJRVVpKTlVRVlJzUEczOXpzY1hJX1NMQ2tndHN4Z2p4T3c?oc=5",
@@ -580,6 +649,17 @@
 "cat": "bds",
 "published": "2026-11-28T19:18:00+07:00",
 "found": "2026-11-28T20:42:32+07:00"
+},
+{
+"id": "c7a1c77f194d",
+"title": "Metro mở rộng dư địa bất động sản thương mại Hà Nội",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZnBOTVFBVF9mVjFuQ2FEWkE2NGpXZm44ekczd1BUaWQxd190OTZTT24zU3RWamlTZXM0aUxxbjNHM1owSjlKQnZ0Uk1mR3QySGRvRkNBMnZiXzlPUkVlUF9pRzBfUVJGV0RSckFtUzg0RHNPV3NGOTloTkl3MFVtUkhvajlIcnZIdEF4QQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T19:16:00+07:00",
+"found": "2026-11-28T20:58:03+07:00"
 },
 {
 "id": "e3a41245f401",
@@ -1672,6 +1752,17 @@
 "cat": "tc",
 "published": "2026-11-28T16:00:00+07:00",
 "found": "2026-11-28T16:05:27+07:00"
+},
+{
+"id": "0b48af6138da",
+"title": "KN Holdings khởi công dự án điện mặt trời nổi hơn 7.661 tỉ đồng tại Đắk Lắk",
+"link": "https://thanhnien.vn/kn-holdings-khoi-cong-du-an-dien-mat-troi-noi-hon-7661-ti-dong-tai-dak-lak-185261128201708667.htm",
+"summary": "Ngày 28.11.2026, tại Đắk Lắk, Công ty Cổ phần Điện mặt trời Srepok 3 - thành viên Tập đoàn KN Holdings - tổ chức Lễ khởi công dự án Nhà máy Điện mặt trời nổi KN Srêpốk 3.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/ai-dien-chu-dau-tu-va-cac-dai-bieu-thuc-hien-khoi-cong-du-an-nha-may-dien-mat-troi-noi-kn-srepok-3-17958710440432093781016-0-49-1536-2507-crop-17958713999131314709334.jpg",
+"source": "Thanh Niên",
+"cat": "tc",
+"published": "2026-11-28T16:00:00+07:00",
+"found": "2026-11-28T20:58:03+07:00"
 },
 {
 "id": "8821f3305981",
@@ -27896,94 +27987,6 @@
 "cat": "tc",
 "published": "2026-11-26T09:42:00+07:00",
 "found": "2026-11-26T10:01:54+07:00"
-},
-{
-"id": "e62be0fdd9e3",
-"title": "Tài xế xe đầu kéo giấu 16kg nghi pháo hoa nổ trong cabin",
-"link": "https://dantri.com.vn/phap-luat/tai-xe-xe-dau-keo-giau-16kg-nghi-phao-hoa-no-trong-cabin-20261126093450792.htm",
-"summary": "(Dân trí) - Tài xế khai nhờ một phụ nữ Trung Quốc mua hộ 8 hộp nghi là pháo hoa nổ với giá 2,4 triệu đồng, sau đó giấu dưới gầm giường trong cabin xe để mang về sử dụng.",
-"image": "https://cdnphoto.dantri.com.vn/4Of7ztE6eQa-Iw5G4XcLht9eTs0=/2026/11/26/tai-xe-vi-pham-copy-1795660266314.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-26T09:40:02+07:00",
-"found": "2026-11-26T10:01:54+07:00"
-},
-{
-"id": "e52cbc5898d4",
-"title": "Điểm lại thông tin kinh tế ngày 25/11",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BbjBGMDEzdEZBVmpLZ0YzVTJweXp3RUJOV0FPb1I1TjBqdkxtWl9hLUNGUUNJUnRDNXp1T0RpVUR4SmVBaTVJRlM3OWNqUzc3Mkt5NlRwZHo0cW05Y21YRWtDQkpEYXVvbkp3R3k1eGZ6N3YzOTNVa0xn?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T09:39:59+07:00",
-"found": "2026-11-26T09:46:42+07:00"
-},
-{
-"id": "d72674cb74ce",
-"title": "TPHCM quyết tâm hồi sinh kênh rạch: Bài cuối: Hơn 18.600 căn hộ tái định cư mở lối cho cuộc 'đại di dời' bên dòng nước đen",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTG9QWWtSUERjR3NVNUVWM0tQYmZrM0luc0c1dlZ0S1BpZDhINTNYQzg3QWt4Yml2NU45cE50RlYxUW0yRDVwTzFBWFl0THZBX3VIYkd4QmRXWjhDTXFvQXJvbDZRcFBQVHFob0ktLXlJYUZ6UUZXb2pMXzlPQnBVd2JkekVlOXBvMnN4WjYyekx2MWlYVWhfeExHRERWbVRBdC10WVVkWXRGc2t5MmthZjJfNHlnc0tTY05fdDROWE9oYkRNYlJmSUdaOFJWUEVwSUsxMVA1Zm9xNkxDUHVKaDVxYXlEQQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-26T09:38:45+07:00",
-"found": "2026-11-26T10:01:54+07:00"
-},
-{
-"id": "16805fc96753",
-"title": "Giá vàng 9999 Bảo Tín Minh Châu hôm nay 26/11/2026 bao nhiêu 1 chỉ?",
-"link": "https://cafef.vn/gia-vang-9999-bao-tin-minh-chau-hom-nay-26-11-2026-bao-nhieu-1-chi-188261126093849161.chn",
-"summary": "Cập nhật mới nhất giá vàng 9999 tại Bảo Tín Minh Châu và nhiều thương hiệu lớn trên thị trường hôm nay 26/11/2026.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795660702155-17956607025321873189459.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-26T09:38:00+07:00",
-"found": "2026-11-26T09:46:42+07:00"
-},
-{
-"id": "2e48aff581e3",
-"title": "Mua nhà hoàn thiện Vịnh Bình Minh 1, bớt lo công trình, thêm thời gian cho gia đình",
-"link": "https://dantri.com.vn/bat-dong-san/mua-nha-hoan-thien-vinh-binh-minh-1-bot-lo-cong-trinh-them-thoi-gian-cho-gia-dinh-20261126093008925.htm",
-"summary": "(Dân trí) - Không phải mất nhiều tháng theo sát công trường hay chờ đợi nội thất, chủ nhân những căn nhà phố hoàn thiện 70m² tại Vịnh Bình Minh 1, Vinhomes Global Gate Hạ Long có thể rút ngắn hành trình về nhà mới, dành nhiều thời gian hơn cho gia đình.",
-"image": "https://cdnphoto.dantri.com.vn/-4dYfrG8b_TUOO_R1ZTkjOc_rSE=/2026/11/26/anh1-2-1795659912551.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-26T09:36:25+07:00",
-"found": "2026-11-26T10:01:54+07:00"
-},
-{
-"id": "1c5b01644de8",
-"title": "Mỹ công bố hồ sơ dấu chân khổng lồ nghi của Bigfoot",
-"link": "https://vnexpress.net/my-cong-bo-ho-so-dau-chan-khong-lo-nghi-cua-bigfoot-5149008.html",
-"summary": "Cục Lâm nghiệp Mỹ công khai ba hồ sơ về Bigfoot, trong đó có cuộc điều tra những dấu chân dài 38 cm tại rừng Umatilla năm 1982.",
-"image": "https://i1-dulich.vnecdn.net/2026/11/26/5cf82732210000690de6a827-17956-7968-5761-1795659245.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=CUpF0X7iJUzjsMF6IFeWMA",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-26T09:36:09+07:00",
-"found": "2026-11-28T05:53:38+07:00"
-},
-{
-"id": "d757169ba8f6",
-"title": "Để trong tài khoản bao nhiêu tiền thì tự động thành khách VIP của Vietcombank, BIDV, MB, Techcombank, VPBank?",
-"link": "https://cafef.vn/de-trong-tai-khoan-bao-nhieu-tien-thi-tu-dong-thanh-khach-vip-cua-vietcombank-bidv-mb-techcombank-vpbank-188261126093630667.chn",
-"summary": "Mỗi ngân hàng có bộ tiêu chí riêng để xếp khách hàng vào nhóm ưu tiên (Priority), phổ biến là tổng tài sản hoặc số dư bình quân trong một khoảng thời gian nhất định. Đặc biệt, khi để trong tài khoản thanh toán 150 - 500 triệu đồng, nhiều khách hàng có thể tự động được ngân hàng…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795660516018-17956605189662102699042-0-144-630-1152-crop-1795660566836400542397.png",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-26T09:36:00+07:00",
-"found": "2026-11-26T09:46:42+07:00"
-},
-{
-"id": "41ccce2d74ee",
-"title": "Giai đoạn 2026 - 2030: Vốn trung ương đầu tư đường Vành đai 5 - Vùng Thủ đô tối đa 61.394 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVk9pZzFZMDVxQnVySDlIc0pid2JIeWNNWmxtUk04eV9TTGpSZ1VHVVlMRGowZEhWVF9oNDFOdWI4aWMxaHhJU2NPbWJmY2ZZenNtSThmLXhDVVA2cllCT0dfdXJYZ2lNZmVQVm04T0FZODMxcEFreG43LVo3RkM2R1Z5cXNDVGZqY05pSlBlN2NQdVM1TE1semNkYjZHa1VnRVg5SVI3RG1MZUJuQVNUTGh6OGtsZWxtM3IwU21Ib1REWjg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-26T09:36:00+07:00",
-"found": "2026-11-26T09:46:42+07:00"
 }
 ]
 }
