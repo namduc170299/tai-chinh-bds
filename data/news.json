@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T16:20:38+07:00",
-"new": 6,
+"updated": "2026-11-28T16:31:18+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 42
+"count": 19
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "13586670f748",
+"title": "Việt Nam trước ngưỡng cửa chu kỳ tăng trưởng mới: từ \"số lượng\" sang \"chất lượng\"",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbTlkc2VabW5XQWp6a1ZIVHk5dHBmTzUwYVczUnhoaG44aW9tb3NEQkdFbDFramprVkhIeUpXQ3VYSkFPa2lZS0o0alVkTFR3WE9wTDR4UklVYndPckRVZXZDbTRjYVJ2cGRJdWoxUXpPSzV6NjEyZ3lTZ0tXYWF3MnNxM1d1dmFKNDJCdG1JMUFwelZYQUZIWExZSEhiaEpBaHFOekM1UXNlT1VZdmc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-28T16:15:00+07:00",
+"found": "2026-11-28T16:31:18+07:00"
+},
+{
+"id": "a6066d6f5460",
+"title": "Thông báo mới từ cơ quan Thuế: Chính thức tạm hoãn xuất cảnh với tất cả những người nộp thuế có tên sau đây",
+"link": "https://kenh14.vn/thong-bao-moi-tu-co-quan-thue-chinh-thuc-tam-hoan-xuat-canh-voi-tat-ca-nhung-nguoi-nop-thue-co-ten-sau-day-215261128162204856.chn",
+"summary": "Cơ quan thuế tại Đắk Lắk và Cần Thơ thông báo tạm hoãn xuất cảnh đối với 88 cá nhân. Các khoản nợ được công bố cụ thể trong hồ sơ cộng lại hơn 3,37 tỷ đồng, trong đó khoản lớn nhất được nêu là hơn 526 triệu đồng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795857692587-1795857693408323540430.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T16:14:00+07:00",
+"found": "2026-11-28T16:31:18+07:00"
+},
+{
+"id": "5984bbee8333",
+"title": "Một công ty chứng khoán vừa \"bắt đáy\" cổ phiếu HPG và NVL",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdTZDY2V3dnkxOWFycTQ4YlAwdTNQNE9WTEFHSUpNNzcwWEdMN0pxTjJENFhHOGlHYmd4X0lld3BHaEZPQmJUV1JUZFRaUGlZNS1tSEstei1CZDlwdWdaWXpCU0JMS1p3ZXV2QWlRSk1OUzVuZHJDUGd5RTVySHBfQ182bzBhQ2g0UnY5MDJnUm9LUQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-28T16:13:00+07:00",
+"found": "2026-11-28T16:31:18+07:00"
+},
+{
 "id": "62211dcb2ed9",
 "title": "Đang đào móng xây nhà ở Nghệ An, máy xúc bất ngờ va phải vật cứng, thứ chứa bên trong nặng gần 10kg",
 "link": "https://kenh14.vn/dang-dao-mong-xay-nha-o-nghe-an-may-xuc-bat-ngo-va-phai-vat-cung-thu-chua-ben-trong-nang-gan-10kg-215261128155418219.chn",
@@ -233,6 +266,28 @@
 "cat": "mxh",
 "published": "2026-11-28T16:10:00+07:00",
 "found": "2026-11-28T16:20:38+07:00"
+},
+{
+"id": "e3bf15302800",
+"title": "Nha Trang, Quy Nhơn ngập sâu sau mưa lớn",
+"link": "https://vnexpress.net/nha-trang-quy-nhon-ngap-sau-sau-mua-lon-5150012.html",
+"summary": "Mưa lớn kéo dài, nước tràn vào nhiều tuyến đường, khu dân cư ở Nha Trang và Quy Nhơn, có nơi ngập sâu 1,5 m, ngày 28/11.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/1795857770420-1566247374512513913-1566247374512513913-28e47e30f25ee8004a9efbdb05a9f995-1795857803.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Hs3a9nKyHMfpqlNsMaRoWw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-28T16:07:24+07:00",
+"found": "2026-11-28T16:31:18+07:00"
+},
+{
+"id": "dd676aca0fbd",
+"title": "Bamboo Airways vắng mặt trong lịch bay mùa đông 2026",
+"link": "https://dantri.com.vn/kinh-doanh/bamboo-airways-vang-mat-trong-lich-bay-mua-dong-2026-20261128154752997.htm",
+"summary": "(Dân trí) - Dữ liệu của Planespotters cho thấy Bamboo Airways không còn máy bay trong danh mục đội bay hiện tại. Hãng cũng không xuất hiện trong lịch bay mùa đông 2026 của Cục Hàng không Việt Nam.",
+"image": "https://cdnphoto.dantri.com.vn/cH1uFGtlsuP-AXHPGy8i7xyKxg8=/2026/11/28/img1779-2-cropped-1795855454742.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-28T16:05:08+07:00",
+"found": "2026-11-28T16:31:18+07:00"
 },
 {
 "id": "4e10c27e91ea",
@@ -424,6 +479,17 @@
 "published": "2026-11-28T15:30:00+07:00",
 "traffic": "200+",
 "found": "2026-11-28T15:50:18+07:00"
+},
+{
+"id": "2a4fc30d0fb5",
+"title": "TP HCM tổ chức loạt hoạt động kích cầu tiêu dùng cuối năm",
+"link": "https://vnexpress.net/tp-hcm-to-chuc-loat-hoat-dong-kich-cau-tieu-dung-cuoi-nam-5150001.html",
+"summary": "Sở Công Thương TP HCM dự kiến có khoảng 7,8 triệu lượt người dân thành phố sẽ tham gia các hoạt động hội chợ, triển lãm, livestream bán hàng dịp cuối năm.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/28/td5-1795853260-7038-1795853456.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k8uVAiC22i0Q9IB44tZK0g",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-28T15:30:00+07:00",
+"found": "2026-11-28T16:31:18+07:00"
 },
 {
 "id": "ad63852d372c",
@@ -1553,6 +1619,17 @@
 "cat": "xh",
 "published": "2026-11-28T13:25:00+07:00",
 "found": "2026-11-28T13:39:26+07:00"
+},
+{
+"id": "0baec092af79",
+"title": "Giá vàng nhẫn trơn, vàng miếng chiều 28/11 tại PNJ, DOJI, SJC, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+"link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-28-11-tai-pnj-doji-sjc-bao-tin-minh-chau-va-bao-tin-manh-hai-188261128083534496.chn",
+"summary": "Giá vàng trong nước chiều 28/11 tiếp tục duy trì ở mức cao, với giá bán vàng miếng SJC đồng loạt neo tại 136 triệu đồng/lượng. Riêng PNJ điều chỉnh tăng giá vàng nhẫn thêm 700.000 đồng/lượng ở cả hai chiều mua - bán.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/avatar1795847114862-1795847115213426802421.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-28T13:25:00+07:00",
+"found": "2026-11-28T16:31:18+07:00"
 },
 {
 "id": "c9c1b5a8f175",
@@ -7607,6 +7684,17 @@
 "cat": "xh",
 "published": "2026-11-27T19:25:00+07:00",
 "found": "2026-11-27T21:12:41+07:00"
+},
+{
+"id": "601ec09c7555",
+"title": "Quyết toán thuế quá tải, cơ quan thuế tiến tới tự động hóa",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0RaQVNmMVdteTd5bjEyR2ZaU0VXUjRTR1pteGZDLTAyak9nWVVXeWVDbnRzQVlwc19hMTl3Tm9PaEVzcWdaQjk2RndocDEyajRsc1htaTZ4N3RmSXRZZHlCTUlRVjJ3TGRBeWNVcThNYW0xb0JPUWtnSktSSlN4TXZ4bzY0b3U5WFJYVTQ3UGdpNEtR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T19:24:39+07:00",
+"found": "2026-11-28T16:31:18+07:00"
 },
 {
 "id": "429b96e40c46",
@@ -27887,94 +27975,6 @@
 "published": "2026-11-26T07:00:00+07:00",
 "traffic": "1000+",
 "found": "2026-11-26T07:58:43+07:00"
-},
-{
-"id": "04cce25b5e6e",
-"title": "Hạnh đối mặt với nỗi lo lớn về sự an toàn của các con | Căn nhà không mái che | Tập 7",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxVkF3eEJLdHBOMENkQ21OYUJaRjBxNmlZWUJ1NkdmVE1IVWN0UXhNT0k4dHAxOGRaMVVZRDZSMG1XTFR3REE?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-26T09:31:26+07:00"
-},
-{
-"id": "e89e34a64ccb",
-"title": "Dấu hỏi bản lĩnh của đội tuyển Anh tại các giải đấu lớn",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5Wa3QwVEprOVQwTGkxUDB4Ykl4ZTRaNjhLRGRUSDZWYVVBMnJZd1RDV2tPNWRoU3R2NktLSFAyTWY?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-25T17:29:38+07:00"
-},
-{
-"id": "756ff30a1bc1",
-"title": "Trâm tỏ ra không vui khi thấy bà Phẩm quan tâm tới bố | Xóm nhỏ | Tập 17",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1SaG10ZEtlVmNKRHdwVHk0Q3ZkNThkSVpQNWx3R3BKMTdGR2pRTkN2bS1qTXJPd0gxdTlJdkdvTno?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-25T14:20:47+07:00"
-},
-{
-"id": "5ab81d3fe0f4",
-"title": "Phong gặp lại Duyên ở công ty thử việc | Xóm nhỏ | Tập 18",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE43RlI4eFplcWtPb0xXdUM5RktZTUtPTTZ5a2JCT09Tdi1Ta2lESHU5Z2xyLVdOWVUtS2Raa2JPanA?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-25T08:20:48+07:00"
-},
-{
-"id": "288176097305",
-"title": "Khi trẻ em trở thành công cụ để trục lợi trên mạng",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1EWUY5Zm1TNnZqbDhQZS1zb3pUdUxLVHFLMlhzTzF6eWNIa0xxeDUxbmpQeEtfd3lsQ01KOHhWdDM?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-24T18:03:10+07:00"
-},
-{
-"id": "4893986625a1",
-"title": "Vợ Phú tìm tới nhà Tâm | Đội bóng nữ làng Xuân | Tập 23",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9MaU80ZkFFd0tnYkg2QkpPUF9uSTdFS2pTc1IzbHFNakJseEM2dF9pQ3NmMTBLbkZ6anhFOTNNUVQ?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-25T08:20:48+07:00"
-},
-{
-"id": "8162f3dec44d",
-"title": "Xóm nhỏ | Phim Việt lên sóng tháng 10 trên VTV1",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFWl9yV21hWkJWYUl0UFJ2TS12YmxaZjFVcFFfcVpxdDBXdG1NalpENXR3eWxobVlpYUJ1cGJ6QmJrcDVyMVE?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-26T17:52:01+07:00"
-},
-{
-"id": "6a4ab67d7069",
-"title": "Tâm xin rời đội bóng | Đội bóng nữ làng Xuân | Tập 21",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5tUFFfaFg3dlZzeWFrWk9uNmlxQmRsMU5ZRWZVYU9rSk1kX2RpMVdjYXJrbndJVUNxSldyZGRnQ3c?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-25T08:20:48+07:00"
 }
 ]
 }
