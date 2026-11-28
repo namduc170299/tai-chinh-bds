@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T14:11:05+07:00",
-"new": 9,
+"updated": "2026-11-28T14:42:54+07:00",
+"new": 31,
 "sources": [
 {
 "name": "VnExpress",
@@ -98,16 +98,14 @@
 "cat": "bds",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=site:baomoi.com+(b%E1%BA%A5t+%C4%91%E1%BB%99ng+s%E1%BA%A3n+OR+nh%C3%A0+%C4%91%E1%BA%A5t+OR+chung+c%C6%B0+OR+c%C4%83n+h%E1%BB%99+OR+d%E1%BB%B1+%C3%A1n)+when:7d",
 "ok": true,
-"count": 12,
-"via": "bing"
+"count": 100
 },
 {
 "name": "Báo Mới",
 "cat": "tc",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=site:baomoi.com+(t%C3%A0i+ch%C3%ADnh+OR+ch%E1%BB%A9ng+kho%C3%A1n+OR+ng%C3%A2n+h%C3%A0ng+OR+l%C3%A3i+su%E1%BA%A5t)+when:2d",
 "ok": true,
-"count": 12,
-"via": "bing"
+"count": 100
 },
 {
 "name": "VnExpress",
@@ -163,8 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 12,
-"via": "bing"
+"count": 43
 },
 {
 "name": "Kenh14",
@@ -216,6 +213,138 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "07230d9bcd77",
+"title": "Chủ tịch cấp xã ở Ninh Bình chịu trách nhiệm nếu để vi phạm đê điều kéo dài",
+"link": "https://thanhnien.vn/chu-tich-cap-xa-o-ninh-binh-chiu-trach-nhiem-neu-de-vi-pham-de-dieu-keo-dai-1852611281411165.htm",
+"summary": "Ngày 28.11, ông Trần Anh Dũng, Phó chủ tịch UBND tỉnh Ninh Bình, ký quyết định gửi Sở Nông nghiệp và Môi trường; Công an tỉnh Ninh Bình; UBND các xã, phường về việc tập trung xử lý dứt điểm những vi phạm pháp luật trong lĩnh vực đê điều, thủy lợi.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/2aoborfh2irqx8tummeuw4rmtwzekpfcmto71loc-1795849460294702463488-0-256-1440-2560-crop-1795849811567765506160.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T14:34:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "a644a25e7a0c",
+"title": "Nhiều chính sách kinh tế và công nghệ có hiệu lực từ tháng 12/2026",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS1VyRHUtZUl1X1VOLUVrNExVUnVDbFgxM0NDWnVlMF9EUEFhcDJKYjh4Q2hiQnFJemhsTDUxY2E1NVRXZXd2TnRIUUVhQW9xMl93X2Z1REdtbzhsOEVqdTZwX0ZZYzF3dTBhRllUVFRmTU9UQ0h4VDljQXFqVFU4NUpVOUJzTkVURW1VNVVVaUllX2FobGNCZUhyN3JqLWlS?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T14:32:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "e46c6eee38c5",
+"title": "Metro số 1 TPHCM: Khách đi tàu đông nghịt, bãi trông xe quá tải",
+"link": "https://kenh14.vn/metro-so-1-tphcm-khach-di-tau-dong-nghit-bai-trong-xe-qua-tai-21526112812483233.chn",
+"summary": "Sau gần 2 năm vận hành, tuyến Metro số 1 (Bến Thành - Suối Tiên) đã trở thành phương tiện đi lại quen thuộc của hàng chục nghìn người dân TPHCM mỗi ngày. Tuy nhiên, lượng khách tăng vọt khiến nhiều toa tàu chật kín vào giờ cao điểm, trong khi các bãi giữ xe chính quy liên tục…",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795844674489-17958446751001251092920.webp",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T14:23:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "c52f4eea62fe",
+"title": "Vĩnh Long truy tìm bị can trong vụ án hiếp dâm trẻ em từ 21 năm trước",
+"link": "https://dantri.com.vn/phap-luat/vinh-long-truy-tim-bi-can-trong-vu-an-hiep-dam-tre-em-tu-21-nam-truoc-20261128123723513.htm",
+"summary": "(Dân trí) - Bị khởi tố trong vụ án hiếp dâm trẻ em xảy ra năm 2005, Nguyễn Văn Gộng bỏ trốn và đến nay chưa xác định được tung tích.",
+"image": "https://cdnphoto.dantri.com.vn/JVraVvlwXmdq57fC5MlP9XuM2SI=/2026/11/28/bi-can-gong-edited-1795844000502.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-28T14:20:19+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "8f0b79326b1e",
+"title": "Hơn 2.300 người cùng robot chữa cháy tham gia diễn tập quy mô lớn",
+"link": "https://thanhnien.vn/hon-2300-nguoi-cung-robot-chua-chay-tham-gia-dien-tap-quy-mo-lon-185261128135009793.htm",
+"summary": "Cuộc diễn tập quy mô cấp thành phố với 2.300 người tham gia nhằm huy động lực lượng thực binh, phối hợp chỉ huy, điều hành và hiệp đồng tác chiến trước các tình huống tai nạn, sự cố phức tạp có đông người bị nạn.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/picture1-17958484520431241249487-19-0-695-1081-crop-1795848461420869547602.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T14:18:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "7826f8cccbcd",
+"title": "Công an Thanh Hóa bổ nhiệm Trưởng phòng Tham mưu",
+"link": "https://vietnamnet.vn/cong-an-thanh-hoa-bo-nhiem-truong-phong-tham-muu-2579712.html",
+"summary": "Thượng tá Nguyễn Tiến Nghĩa, Phó Trưởng phòng Tổ chức cán bộ, được bổ nhiệm giữ chức Trưởng phòng Tham mưu Công an tỉnh Thanh Hóa.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/cong-an-thanh-hoa-bo-nhiem-truong-phong-tham-muu-1750.jpg?width=0&s=tFTP6mApIvN5ym3fitpCTA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T14:16:40+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "0550aaf5aa80",
+"title": "Moody’s đưa Việt Nam tiến sát ngưỡng xếp hạng “Đầu tư”",
+"link": "https://vneconomy.vn/moodys-dua-viet-nam-tien-sat-nguong-xep-hang-dau-tu.htm",
+"summary": "Việc Moody’s nâng xếp hạng tín nhiệm Việt Nam lên Ba1 cho thấy đánh giá tích cực hơn về năng lực quản trị, khả năng chống chịu của nền kinh tế và dư địa tài khóa. Đây là bước tiến mới trong quá trình cải thiện vị thế tín nhiệm quốc gia, sau khi R&I đưa Việt Nam lên mức Đầu tư…",
+"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/28/9795421c3c8549748f78805a0471b333-139401.jpg?w=1200&h=630&mode=crop",
+"source": "VnEconomy",
+"cat": "tc",
+"published": "2026-11-28T14:15:28+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "e9616b65792d",
+"title": "Đang tổ chức tìm kiếm, người đàn ông nghi nhảy cầu bất ngờ xuất hiện, nói lý do quay lại",
+"link": "https://kenh14.vn/dang-to-chuc-tim-kiem-nguoi-dan-ong-nghi-nhay-cau-bat-ngo-xuat-hien-noi-ly-do-quay-lai-215261128105019653.chn",
+"summary": "Người thân của nạn nhân cho biết người này có chuyện buồn gia đình và nghi đã nhảy cầu.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795837783223-1795837783804365354048.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T14:15:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "e9e961e515bd",
+"title": "Cận cảnh khu đất thuộc 15 thửa đất ở hồ Sông Ray đang bị thanh tra",
+"link": "https://thanhnien.vn/can-canh-khu-dat-thuoc-15-thua-dat-o-ho-song-ray-dang-bi-thanh-tra-185261128130616553.htm",
+"summary": "UBND thành phố Đồng Nai giao Thanh tra thành phố khẩn trương thanh tra việc chấp hành pháp luật về đất đai, xây dựng đối với 15 thửa đất ở hồ Sông Ray.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/edit-tnw-ho-song-ray-11-17958461939491940532078-0-4-420-676-crop-1795846355895920852205.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T14:13:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "4fcf8c010780",
+"title": "GS Đặng Hùng Võ: Muốn người dân đồng thuận tái thiết đô thị, phải có tiêu chí chứng minh cuộc sống sau tái định cư tốt hơn",
+"link": "https://cafef.vn/gs-dang-hung-vo-muon-nguoi-dan-dong-thuan-tai-thiet-do-thi-phai-co-tieu-chi-chung-minh-cuoc-song-sau-tai-dinh-cu-tot-hon-188261128105042846.chn",
+"summary": "Theo GS Đặng Hùng Võ, một nơi tái định cư được đánh giá \"tốt hơn\" khi người dân không chỉ có nhà để ở mà còn bảo đảm được sinh kế, thu nhập và khả năng tiếp cận các dịch vụ đô thị. Các tiêu chí \"tốt hơn\" cần được cụ thể hóa trong các Nghị định.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/avatar1795837772232-17958377725711348373449.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-28T14:12:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "46dd4594566b",
+"title": "Điều tra số tiền 12,9 triệu đồng, công an bắt shipper Lê Văn Học SN 1994",
+"link": "https://kenh14.vn/dieu-tra-so-tien-129-trieu-dong-cong-an-bat-shipper-le-van-hoc-sn-1994-21526112810515144.chn",
+"summary": "Lê Văn Học là nhân viên phát triển thị trường cho Công ty Cổ phần Dịch vụ Giao hàng nhanh.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795837887074-17958378875231146352211.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T14:10:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "56e5a52289ec",
+"title": "Thông tin bất ngờ vụ người phụ nữ bán rau mất liên lạc nghi bị thôi miên, bắt cóc: Tự nghĩ ra chuyện bị người lạ vỗ vai ở chợ",
+"link": "https://kenh14.vn/thong-tin-bat-ngo-vu-nguoi-phu-nu-ban-rau-mat-lien-lac-nghi-bi-thoi-mien-bat-coc-tu-nghi-ra-chuyen-bi-nguoi-la-vo-vai-o-cho-215261128141211293.chn",
+"summary": "Thông tin người phụ nữ bán rau nghi bị thôi miên, bắt cóc mất tích nhiều ngày ở Phú Thọ là không đúng sự thật.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795849855218-1795849856111115684981.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T14:09:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
 "id": "69a2361ea259",
 "title": "Mưa lớn đất đá tràn xuống mép cao tốc, gây ngập nhiều tuyến đường ở Đắk Lắk",
 "link": "https://thanhnien.vn/mua-lon-dat-da-tran-xuong-mep-cao-toc-gay-ngap-nhieu-tuyen-duong-o-dak-lak-185261128132328845.htm",
@@ -238,6 +367,28 @@
 "found": "2026-11-28T14:11:05+07:00"
 },
 {
+"id": "4cde403daf0a",
+"title": "Quốc hội yêu cầu giảm lãi suất cho vay",
+"link": "https://cafef.vn/quoc-hoi-yeu-cau-giam-lai-suat-cho-vay-188261128140438808.chn",
+"summary": "Quốc hội yêu cầu điều hành lãi suất, tỷ giá phù hợp với tình hình trong nước và quốc tế; giảm lãi suất cho vay, hướng tín dụng vào sản xuất, kinh doanh và các lĩnh vực ưu tiên; đẩy mạnh xử lý nợ xấu, các tổ chức tín dụng yếu kém và ngăn ngừa hiệu quả tình trạng sở hữu chéo.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/avatar1795849434229-17958494484352056075599.webp",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-28T14:04:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "8bdd97d201c8",
+"title": "Từ giảm nợ bất động sản đến săn cổ phiếu tốt: Giới quản lý tài sản đang dịch chuyển dòng tiền ra sao?",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYjJCUXA1Ui1BMkNubTNZT0xNZVgtZ1FjYUFxVk9uQ3BRM0dEdFBRd3FSRGlkYjR2U0VnOWtldnJqNElDVDc4cmhIU1B3MlVjTHRPbzRfY2V5R2VFdW1OWEJINHpvZW9vc3NIVU9BQldmeXN0Z01EQi1aMkVvWC1yVl8xYUNrMFpzZVVpOEItdzQ2SjB4YjBFV0xDbkxaNWhRVngwaHlQd2MxLWcxdDE0Z1U3VTM1bmNYa1JMVHU2Yk9laENRbzAwTGtySVc?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T14:04:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
 "id": "64dfd3633fac",
 "title": "Người dân vùng rốn lũ tận mắt xem dự án chống ngập 10.000 tỷ",
 "link": "https://vietnamnet.vn/nguoi-dan-vung-ron-lu-tan-mat-xem-du-an-chong-ngap-10-000-ty-2579622.html",
@@ -258,6 +409,40 @@
 "cat": "xh",
 "published": "2026-11-28T14:01:30+07:00",
 "found": "2026-11-28T14:11:05+07:00"
+},
+{
+"id": "7430bc312b6f",
+"title": "11 doanh nghiệp gia nhập VIFC Đà Nẵng, công bố cam kết vốn hơn 10 tỷ USD",
+"link": "https://dantri.com.vn/kinh-doanh/11-doanh-nghiep-gia-nhap-vifc-da-nang-cong-bo-cam-ket-von-hon-10-ty-usd-20261128125842883.htm",
+"summary": "(Dân trí) - Ngày 28/11, Cơ quan điều hành Trung tâm Tài chính quốc tế Việt Nam tại Đà Nẵng (VIFC-DN) đã trao chứng nhận đăng ký thành viên cho 11 doanh nghiệp và công bố các sản phẩm mới.",
+"image": "https://cdnphoto.dantri.com.vn/tvAlonhZYDzIP1MJNh9VgSR96wE=/2026/11/28/z4822579557821890946aa69af9c73a6cdd6aa04bbe523-1-edited-1795845220117.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-28T14:01:27+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "2376ad512e0f",
+"title": "Công ty chưa từng lỗ suốt 108 năm",
+"link": "https://vnexpress.net/cong-ty-chua-tung-lo-suot-108-nam-5149967.html",
+"summary": "D&H Distributing - công ty gia đình ít tên tuổi ở Mỹ - thành lập năm 1918 và đã có lợi nhuận suốt 432 quý liên tiếp.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/28/screenshot-1795845162-7015-1795845171.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yJwnA8QDuSFxnqvGs4v0EA",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-28T14:00:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "ab18d45368af",
+"title": "kashiwa đấu với sanfrecce",
+"link": "https://bongdaplus.vn/j-league/nhan-dinh-ban-thang-kashiwa-reysol-vs-sanfrecce-hiroshima-14h00-ngay-28-11-5302002611.html",
+"summary": "Nhận định Bàn thắng Kashiwa Reysol vs Sanfrecce Hiroshima, 14h00 ngày 28/11 (Tạp chí Bóng đá)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRKt3-GO055cbWUiASjdBQ-7Nvrg34lMYLUduix50FMxl8ZLaKI228CnSpH-g",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T14:00:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T14:42:54+07:00"
 },
 {
 "id": "0b26a2a01356",
@@ -291,7 +476,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T13:50:00+07:00",
-"traffic": "200+",
+"traffic": "100+",
 "found": "2026-11-28T14:11:05+07:00"
 },
 {
@@ -395,6 +580,28 @@
 "found": "2026-11-28T13:55:17+07:00"
 },
 {
+"id": "53e478cb5d0b",
+"title": "Gỡ vướng, đẩy nhanh bàn giao mặt bằng tuyến đường huyết mạch nối TP.HCM - Tây Ninh",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUExeVEzakZTRE0tTlFlZ0lLZS1QNThwd3V6M0xBVHJyaUpablpud3l6ODFiTzRKUkdDdTFrSE5jX2UzTHY4NFIxLTlsbEZockhOLUwxdGhXUDFmcFowUnFjU3A2MDRPUmxtTUE0NDU1YTJaZnNKamlEdDdiU1JyczJrYW9Fczg5bjF6VFIzU3lSWGRpZDktSjhrNHIyRnBjdnFjcDJkWGE0WnJsclE5NnJR?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T13:30:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "ebf1b82efcf4",
+"title": "Đất chưa có sổ đỏ vẫn có thể tách thửa từ 1/7/2027",
+"link": "https://vnexpress.net/dat-chua-co-so-do-van-co-the-tach-thua-tu-1-7-2027-5149954.html",
+"summary": "Luật Đất đai sửa đổi mở rộng điều kiện tách, hợp thửa đất, yêu cầu đủ điều kiện cấp giấy chứng nhận thay vì phải có sổ như trước đây.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/dau-gia-hoai-duc-1795846148-6494-1795846312.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qma7V_YhoKijHV-ce8PExQ",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-28T13:28:47+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
 "id": "946db16e6a69",
 "title": "Giá vàng nhẫn “4 số 9” tăng vọt tới 4 triệu đồng trong tuần",
 "link": "https://vneconomy.vn/gia-vang-nhan-4-so-9-tang-vot-toi-4-trieu-dong-trong-tuan.htm",
@@ -450,6 +657,17 @@
 "found": "2026-11-28T13:39:26+07:00"
 },
 {
+"id": "9fee0ba09ecd",
+"title": "Nữ sinh lớp 7 bị bạn đạp vào mặt, bắt quỳ giữa lớp xin lỗi",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUS1aandpcFhHU29TLWhGZ3RlX1VRSTQxbThlM1JuY2dOa2xTbHN3Y3l0STZCbHVJNVYzX3FRSFBBaWZyTDRJUkFKSllwYTF4ZTZ6QjdVLUxueUx2Z2dCTTk4Q09XZ0hTV1RWeVQ5YWphVXdia1hqTjdnWmhxSGZmc1NadzlSU05aUHJqX3QwUzlIbzNWeV9oVXRyOFFNS3hMeUtkZVZ5TjFrekxYSWRr?oc=5",
+"summary": "Nguồn: Báo Dân trí",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-28T13:22:34+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
 "id": "98c47f059210",
 "title": "Mường Thanh sắp tung 2.300 căn nhà ở xã hội tại Thanh Hà, giá dự kiến 25 triệu đồng/m2",
 "link": "https://cafef.vn/muong-thanh-sap-tung-2300-can-nha-o-xa-hoi-tai-thanh-ha-gia-du-kien-25-trieu-dong-m2-188261128104833937.chn",
@@ -470,6 +688,17 @@
 "cat": "xh",
 "published": "2026-11-28T13:18:57+07:00",
 "found": "2026-11-28T13:23:40+07:00"
+},
+{
+"id": "2d1195e07252",
+"title": "Cảnh sát chỉ cách không 'sập bẫy' lừa qua mạng",
+"link": "https://vnexpress.net/canh-sat-chi-cach-khong-sap-bay-lua-qua-mang-5149890.html",
+"summary": "Từ những trường hợp dù cảnh giác vẫn bị lừa tiền, Thượng úy Nguyễn Thị Nhật Lệ, Công an phường Tăng Nhơn Phú, hướng dẫn cách nhận diện và tránh \"bẫy\".",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/Camnangtranhluaaoquamang-17958-1456-7271-1795835949.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=F5nSMa-MUG5z1KtcToFa5A",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-28T13:18:22+07:00",
+"found": "2026-11-28T14:42:54+07:00"
 },
 {
 "id": "9137ed5e1d69",
@@ -516,6 +745,28 @@
 "found": "2026-11-28T13:11:37+07:00"
 },
 {
+"id": "41583d75f951",
+"title": "Nghệ An: Công ty Xi măng Tân Thắng bị phạt hơn 1 tỷ đồng vì chiếm đất khai thác khoáng sản",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQjVuc2I0QWFrRWZkUDFTelZiRFEzZ0RSRUI2WVZjVVA1bVFiLWNpTUdnZ283Smc0UF9fbDlDVDZYeTVRT05kLUVieV8yMlhUWHc5M3FPb3Y5OHlMMWZZdVpTdUxWLV9DWEIxenNqUWRRMHFvMnRBQ1h6Z0NnQTNzVE1VWHhka3FwMmtmWXloQnlDYUlSQnk3bkZKdUZ3SGFwc0JJbzV0WFd0LVR6eUJSZ21ud3J4Sy1Td0xSVUx0cw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T13:07:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "a94a29859e59",
+"title": "Hà Tĩnh: Giải ngân gần 8.000 tỷ đồng vốn đầu tư công năm 2026",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVhxWFhJSE5RRmpRajNaeHhNU1dhRkJPZW9sZUxfSHdOclk1VE5wYjFSaDEzWVctZ0JsRU8wT0t3eGlMYUNXcWZMMS04RTRlQTJ3cC1RUXRLMzAzZnJCbWpxQVYyb3UzWUVpVlkycVBQTENBN1BIRWlxUUxIQ1h4REdTMUc1X0h4S1dIZ3dYMzZxY3Q3X251ZQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T13:06:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
 "id": "84daa8a624c3",
 "title": "Yua Mikami tiết lộ từng hai lần bị quấy rối khi chụp ảnh, bức xúc trước hành vi quá giới hạn của một người",
 "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVQ4dFNGOXdDREItbUpVTmE4aC1JRjB6RFAwZGZwZXJNckpDaXpQQ0FFUGxkYW5oUWxvbmdGLUdjNGYxdEM0bFJiXzdMcmJDcG1JZnBpSGxMUHpDV1ZaeEw5Y19oaHF4S2M2NmNzbGUwOUwyVjFwNUtRa0JxLVNBMUlGVl9UaW5RVTdzVkxCNEJ5dXFPRU5pOGFaXzVfVDVzUXl3VHNCQzBpa0lXOTBqS3B5Y2VfYkNxYXBaZEdBS2VFbkRWcTlGbmhJRHNlaUtrb2FVVDlxZWNDdw?oc=5",
@@ -525,6 +776,17 @@
 "cat": "xh",
 "published": "2026-11-28T13:05:00+07:00",
 "found": "2026-11-28T13:11:37+07:00"
+},
+{
+"id": "1b0ddbc36cab",
+"title": "VIB Sài Gòn được ghi nhận về công tác phân loại nợ, dự phòng rủi ro và xử lý nợ xấu",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOEUtVi1xZEJfaU1nWF8wZm9ReVQ0VEhyODVRR1ByOHRtS3BHenFHZHFTUS1zaEs1WWFFLTlRaE9RaHVGZlpKQ3pUX1BJQTJrcWk5WWJfR0szVWhzVnVzWVdGSGYwRjg2ajJ3cHVMekM1THJEU0JaNFJIUDNUR0w1YVc5d3gyZjRaMjkyc2pFTkxiOXEwX0x4UGJrbHVxY2VES1RmR0V0N1ozMmxZdkNJZWlwbjQ2UQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-28T13:00:12+07:00",
+"found": "2026-11-28T14:42:54+07:00"
 },
 {
 "id": "feb89ec09035",
@@ -546,7 +808,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T13:00:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-28T13:23:40+07:00"
 },
 {
@@ -560,6 +822,28 @@
 "published": "2026-11-28T13:00:00+07:00",
 "traffic": "100+",
 "found": "2026-11-28T13:23:40+07:00"
+},
+{
+"id": "d6befa45bc7f",
+"title": "Kinh Bắc chi 5 triệu USD mua quyền sử dụng thương hiệu của gia đình ông Trump cho dự án 1,5 tỷ USD tại Hưng Yên",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcEgzc0dpX1pMSkoyWFZFcWp3eHE2Y0NNV1BiN0FUbzJiZUc1Z0dxNVVYUGU2YktYOEJfR3ZlTVptamdjOUhZZzJzQUdUcm9aMTNQV0c3V2kzZUc5X2d2ZGs3b0pSdndvaFNxVE9MNjhRdkEzOFo1dlVCaHVGbExHU1F3eFhQb2ZGenY5dmpaN3E4NU5PY1pGbndaQUlZbkw2UmRIczluWkNZVldnaktGSU1DdFFoRktpU3gwejlyTWxSWXJpRk80VjZhYWQydzBRc1hUNUt5elRKd1Nh?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T13:00:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
+"id": "5af1f5100a57",
+"title": "Thiên Lộc xây dựng 'Làng trong đô thị': Giữ bản sắc, nâng chất lượng sống",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm4tMllucmlIZm9fVlIycEZQa3FmcldYM090dWp2OE1CU1I5SzdjSGlhZWNtSEZCeVRmMVR5cW9rMFRlREJ5X2xnNHltY1N0R3V0X1ZoWm5mM19IRXVIbVluc3dFZkRiTVhMNjVZVWo3X0FRbjJJMlhEMS1qZFQ3TUxqRy1ubzVKbUFMbjZoUndOWmt3Y0prQjFBQnBGSm1ndi01Xw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T12:59:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
 },
 {
 "id": "9ce097f69915",
@@ -595,6 +879,17 @@
 "found": "2026-11-28T13:11:37+07:00"
 },
 {
+"id": "2995d6de1a19",
+"title": "Thường trực HĐND tỉnh Lâm Đồng xem xét các chính sách kinh tế - ngân sách",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlJVeXdsZGdMM0ZLTHAyZXV2b2tDWWRIVmRqUThDTjZ3enF1WnBJX2UtUThKclV1bWRhOW9kSkNrcG1LbTN0MUV3VWVfOGVPemtuSXRQOHpfUFE2RXpheDdDeHlIak5yYmp4UmkzeVVEQUtrcnRCbmdOYWxWc3JNSmVDejBfdmVSSlhIazJrdHg5QjFFb2ZqRU9ZQWZlUEhXTXFEZmN4dw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T12:50:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
 "id": "1e51aaaeaf5b",
 "title": "Người lính bất ngờ trở về sau hàng chục năm gia đình nhận giấy báo tử",
 "link": "https://vietnamnet.vn/nguoi-linh-tro-ve-sau-hang-chuc-nam-gia-dinh-nhan-giay-bao-tu-2579615.html",
@@ -628,6 +923,17 @@
 "found": "2026-11-28T13:39:26+07:00"
 },
 {
+"id": "2452f561340d",
+"title": "Điểm tin xây dựng - bất động sản ngày 28/11: TP HCM đẩy nhanh thu hồi đất tại 3 phường",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnhqN0c1UG84SWJwM01QTm5IeWFBek5tUWxtUm5SRmRzbDF6YVk3Y1RPRzhhN0dKMEMwU1lHSnMwaGxEc0M5R1c3eHRyUm1IcU1YQm5ad1ZRMHJjcjd1Ukh6eFJQMHNyLU1MTXpJOTMtd1A4SUpFNEw3M3pfRnVyNG0yQTEzNkhLTzZXUzlrZVJld3JIOTJJaTVoWEZFeVpYeXREMXNWei02eDktOGc5Z3Rra2JoSTg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T12:43:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
 "id": "8a747b7ae2c3",
 "title": "Hà Nội: Dự kiến bố trí 184,1 nghìn tỷ đồng cho 5 tuyến đường sắt đô thị",
 "link": "https://cafef.vn/ha-noi-du-kien-bo-tri-1841-nghin-ty-dong-cho-5-tuyen-duong-sat-do-thi-188261128104133352.chn",
@@ -647,7 +953,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T12:40:00+07:00",
-"traffic": "500+",
+"traffic": "200+",
 "found": "2026-11-28T12:56:28+07:00"
 },
 {
@@ -817,7 +1123,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T12:20:00+07:00",
-"traffic": "1000+",
+"traffic": "2000+",
 "found": "2026-11-28T13:39:26+07:00"
 },
 {
@@ -1106,6 +1412,17 @@
 "cat": "bds",
 "published": "2026-11-28T11:36:35+07:00",
 "found": "2026-11-28T12:12:05+07:00"
+},
+{
+"id": "19aa20b952ca",
+"title": "Những dự án trọng điểm tạo động lực tăng trưởng mới ở Quảng Trị",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbTc2NjhJM0R6cXp2SktKNzRpaXlaZDlqZWVuLWRfOXhDMFJnak85bHJwU3lYb0VPTEsyYnZoeUlMVzBvWVFqZk1ReV9kdlpjVmhpQUEwSHR4emV0TW5oV050Q2lELWUxWWpVS2dIS3RiV1JwZUYtQXZJLWUwdlY1aDh3VUR6ZDFta1lwZDN6c3MxQ0pTNkxmSmI4a3I?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T11:27:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
 },
 {
 "id": "7aaf1abd713c",
@@ -2832,6 +3149,17 @@
 "found": "2026-11-28T08:41:21+07:00"
 },
 {
+"id": "4edb8269b9da",
+"title": "Khu ký túc xá 1.900 tỷ đồng sắp hoàn thành cải tạo, chuyển đổi công năng",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVV9BVklhVXFCOEpBLVVYdDBUZWQyOXhXMmlmcThKSHFUV19pbWVtQnZDYnVmNWE4LWxtdDhEcTVvMG43b3A3WkxyYUI3dkJBSklEV3NVY1A0Y1dWZjJJcUFrUkdRNlh5SGdKMElMaWlsVF9TMTB1Q2VNWE5kNndXaE5pZ2lOMi1nUkNJc1E2ZFNhS1BZOTE5Z0xjckFXQldBcnJiUlVCVQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T08:30:25+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
 "id": "202d78b9a768",
 "title": "hoài lâm",
 "link": "https://trends.google.com/trending/rss?geo=VN",
@@ -3267,6 +3595,17 @@
 "cat": "bds",
 "published": "2026-11-28T07:49:00+07:00",
 "found": "2026-11-28T07:58:22+07:00"
+},
+{
+"id": "1b59ad4c02ba",
+"title": "Người dân hào hứng xem triển lãm Quy hoạch TPHCM tầm nhìn 100 năm",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc2FTandPMktCNnhDT3VOY1V4MENTbTMxQ1NHX0tacHduUEwyeVQydDdYNllzRHpMdHZadi1tOHNlWjI0VEppQ3lMME1wNFctSk9XdjBTbndXWlFXQUNsUks1YlJZNDRsd2txRXlxNzFiX3p1TnVkOE1EQzRKSTlRQVR1UWM2Y0lBR3owdXI1SVByelE4VU1ScU5NRzNmNjg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T07:46:00+07:00",
+"found": "2026-11-28T14:42:54+07:00"
 },
 {
 "id": "c3ed3aec0be3",
@@ -15270,6 +15609,17 @@
 "found": "2026-11-28T09:43:30+07:00"
 },
 {
+"id": "93b054f3741d",
+"title": "Quốc phát hiện thân phận thật của người mà Phú giới thiệu là bố | Đội bóng nữ làng Xuân | Tập 22",
+"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DUm9YNTU3aW5wN3hBWkk4R1lSS1JFalFWUFNBLWtOeWlqYkNXdVVCQ3hKTU9POFRvT19uMXRnSEQ?oc=5",
+"summary": "Nguồn: VTVgo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-27T07:00:00+07:00",
+"found": "2026-11-22T18:30:15+07:00"
+},
+{
 "id": "accc201e4beb",
 "title": "Diện mạo sân bay Gia Bình sau hơn 1 năm khởi công",
 "link": "https://thanhnien.vn/dien-mao-san-bay-gia-binh-sau-hon-1-nam-khoi-cong-185261126210942209.htm",
@@ -26589,17 +26939,6 @@
 "found": "2026-11-25T08:20:48+07:00"
 },
 {
-"id": "93b054f3741d",
-"title": "Quốc phát hiện thân phận thật của người mà Phú giới thiệu là bố | Đội bóng nữ làng Xuân | Tập 22",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DUm9YNTU3aW5wN3hBWkk4R1lSS1JFalFWUFNBLWtOeWlqYkNXdVVCQ3hKTU9POFRvT19uMXRnSEQ?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-22T18:30:15+07:00"
-},
-{
 "id": "288176097305",
 "title": "Khi trẻ em trở thành công cụ để trục lợi trên mạng",
 "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1EWUY5Zm1TNnZqbDhQZS1zb3pUdUxLVHFLMlhzTzF6eWNIa0xxeDUxbmpQeEtfd3lsQ01KOHhWdDM?oc=5",
@@ -27667,369 +28006,6 @@
 "published": "2026-11-26T04:10:00+07:00",
 "traffic": "500+",
 "found": "2026-11-26T04:38:03+07:00"
-},
-{
-"id": "4cc2d9738a06",
-"title": "Việt Nam lại được \"ông lớn\" Hà Lan chọn để đóng tàu biển đặc biệt: Có sân đáp trực thăng, 111 cabin, cần cẩu nâng 150 tấn dưới biển",
-"link": "https://kenh14.vn/viet-nam-lai-duoc-ong-lon-ha-lan-chon-de-dong-tau-bien-dac-biet-co-san-dap-truc-thang-111-cabin-can-cau-nang-150-tan-duoi-bien-21526112522591761.chn",
-"summary": "Con tàu dài 102 m, có sức chứa 190 người và được thiết kế để hoạt động ngoài khơi tới 150 ngày.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795622248781-1795622249096633039447.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-26T04:04:00+07:00",
-"found": "2026-11-26T04:22:51+07:00"
-},
-{
-"id": "0ddf9d95b3f4",
-"title": "phi nhung",
-"link": "https://ngoisao.vn/hau-truong/chuyen-lang-sao/ly-do-ca-si-nhu-quynh-khong-muon-nhac-toi-phi-nhung-khong-dam-nhac-nhieu-boi-vi-quynh-rat-ngai-khong-muon-noi-den-d496239.html",
-"summary": "Lý do ca sĩ Như Quỳnh không muốn nhắc tới Phi Nhung: 'Không dám nhắc nhiều bởi vì Quỳnh rất ngại, không muốn nói đến...' (Ngôi Sao VN – Chuyển động cùng Sao)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHIVOiuQOFzMLzdQbjXuNi-5qW3-zUEwqglvkCCPLA78besI9MhYph0_1Yp_Q",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T04:00:00+07:00",
-"traffic": "100+",
-"found": "2026-11-26T04:22:51+07:00"
-},
-{
-"id": "9f20e54b4c09",
-"title": "c1 2026",
-"link": "https://www.24h.com.vn/bong-da/video-bong-da-arsenal-dortmund-danh-roi-chien-thang-cup-c1-c48a1813831.html",
-"summary": "Video bóng đá Arsenal - Dortmund: Đánh rơi chiến thắng (Cúp C1) (Tin tức 24h)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTY1n0UOpoFbY9rwUAbe6fT5P4SptwXcu0dXLI1E-WBtXl58cz-_q0oMnqhllU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T04:00:00+07:00",
-"traffic": "200+",
-"found": "2026-11-26T05:08:26+07:00"
-},
-{
-"id": "c590def144f1",
-"title": "quả bóng vàng châu âu",
-"link": "https://vnexpress.net/ronaldo-vang-mat-xuan-son-duoc-de-cu-qua-bong-vang-chau-a-5148415.html",
-"summary": "Ronaldo vắng mặt, Xuân Son được đề cử 'Quả Bóng Vàng' châu Á (VnExpress)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQALN2USd0Ut1riikME58iPuETx2fz5FM6d8-x1R2tT9JSZ-1xO5LSplyVR9a8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T03:40:00+07:00",
-"traffic": "100+",
-"found": "2026-11-26T05:08:26+07:00"
-},
-{
-"id": "0369cb4c5dc6",
-"title": "thứ hạng của đội tuyển bóng đá u-17 quốc gia úc gặp đội tuyển bóng đá u-17 quốc gia mozambique",
-"link": "https://www.24h.com.vn/bong-da/video-bong-da-u17-dan-mach-u17-argentina-kich-ban-khong-tuong-u17-world-cup-c48a1814098.html",
-"summary": "Video bóng đá U17 Đan Mạch – U17 Argentina: Kịch bản không tưởng (U17 World Cup) (Tin tức 24h)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_XguDIUXe-qvtilhtpKQNBwzB_pdpfQIhN3nZgfqI1zbTrPD33m9caF7ZxtU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T03:40:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-26T05:08:26+07:00"
-},
-{
-"id": "0bb8c5dcaa02",
-"title": "luis suárez",
-"link": "https://www.montevideo.com.uy/Deportes/Luis-Suarez-la-exigencia-de-Inter-Miami-como-se-siente-y--retiro-junto-a-Lionel-Messi--uc982664",
-"summary": "Luis Suárez: la exigencia de Inter Miami, cómo se siente y, ¿retiro junto a Lionel Messi? (Montevideo Portal)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRbMRwlnIudvMS43NRm0XQ2warhSlNy9P7P9iZV6HMBmdTUv9uT1g5xFql93s",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T03:30:00+07:00",
-"traffic": "200+",
-"found": "2026-11-26T03:48:16+07:00"
-},
-{
-"id": "84552ec8d627",
-"title": "thứ hạng của sk slavia praha gặp villarreal",
-"link": "https://www.bbc.com/sport/football/live/cmdx121dxr1zt",
-"summary": "Slavia Prague break Champions League record for winless run with Villarreal defeat (BBC)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGrc9d9P0C9WbIkaEcQmwQ45Np_ubwBO68FWMQnNOhOsVkGcVqwI1Ak3lHa8Q",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T03:20:00+07:00",
-"traffic": "500+",
-"found": "2026-11-26T03:48:16+07:00"
-},
-{
-"id": "e85b1bc135fd",
-"title": "Việt Nam có thể có thêm khu du lịch biển rộng 960ha tại vùng đất có địa thế đặc biệt “một bên đồi, một bên biển”: Tổng vốn đầu tư đề xuất lên tới 28.000 tỷ đồng",
-"link": "https://kenh14.vn/viet-nam-co-the-co-them-khu-du-lich-bien-rong-960ha-tai-vung-dat-co-dia-the-dac-biet-mot-ben-doi-mot-ben-bien-tong-von-dau-tu-de-xuat-len-toi-28000-ty-dong-215261125225309711.chn",
-"summary": "Một vùng đất sở hữu địa thế đặc biệt đang được nhắm tới cho dự án nghỉ dưỡng quy mô lớn, với những tham vọng không chỉ dừng lại ở du lịch biển.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795621904860-17956219057011256579355.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-26T03:08:00+07:00",
-"found": "2026-11-26T03:17:56+07:00"
-},
-{
-"id": "9245d83a21c8",
-"title": "Trớ trêu chuyển nhầm 300 triệu vào tài khoản người đang vay nợ, ngân hàng tự động trừ luôn 261 triệu đồng, không đồng ý trả lại",
-"link": "https://cafef.vn/tro-treu-chuyen-nham-300-trieu-vao-tai-khoan-nguoi-dang-vay-no-ngan-hang-tu-dong-tru-luon-261-trieu-dong-khong-dong-y-tra-lai-188261125162851362.chn",
-"summary": "Chuyển nhầm hơn 301 triệu đồng vào tài khoản của một người không quen biết, người đàn ông ở Vĩnh Long phải khởi kiện đòi lại tài sản do phần lớn số tiền đã bị ngân hàng cấn trừ vào khoản nợ của người nhận nhầm.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795598904858-1795598906132986501089.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-26T03:04:00+07:00",
-"found": "2026-11-26T03:11:16+07:00"
-},
-{
-"id": "3cc8a6e25aea",
-"title": "mu",
-"link": "https://znews.vn/real-madrid-bat-dau-lo-ngai-ve-than-dong-mu-post1699031.html",
-"summary": "Real Madrid bắt đầu lo ngại về thần đồng MU (Znews)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGi9wqHflVKDK-EYKiPj7pDjWO55xYZ4rNhZsoVlMV7vsQWotfwdOsBT0qF00",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T03:00:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-26T03:17:56+07:00"
-},
-{
-"id": "e16616bb3912",
-"title": "bayern vs",
-"link": "https://news.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-lille-vs-bayern-munich-tai-champions-league-1806283.ldo",
-"summary": "Lille vs Bayern Munich match prediction in the Champions League (Laodong.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUiiM3YJiOPAAAA2m41FQx8mQVWP0lKGA6F6tOyRt4hZ5onLM_UUorewXora4",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T03:00:00+07:00",
-"traffic": "100+",
-"found": "2026-11-26T03:48:16+07:00"
-},
-{
-"id": "897994659fc5",
-"title": "Án chung thân sau cuộc tình 12 năm dang dở",
-"link": "https://vnexpress.net/an-chung-than-sau-cuoc-tinh-12-nam-dang-do-5148890.html",
-"summary": "Sau 12 năm chung sống, Nguyễn Văn Vũ không chấp nhận việc người tình quay về với chồng cũ, tìm đến nhà sát hại bà rồi uống thuốc trừ sâu tự tử.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/179560888409315191411335512311-3860-2962-1795609948.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=emhFIuk8tkJkT2JQ0UH2MA",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-26T03:00:00+07:00",
-"found": "2026-11-26T04:22:51+07:00"
-},
-{
-"id": "0b85cce39c90",
-"title": "bóng đá trực tiếp",
-"link": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-psv-buoc-ngoat-phat-den-cup-c1-c48a1813830.html",
-"summary": "Video bóng đá Real Madrid - PSV: Trút cơn thịnh nộ (Cúp C1) (Tin tức 24h)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRAEsitTuFt3O9OLyF7HarN1j3cmQ8sTucxD0P0A8cYJy88RSGXSMii3abcyk",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T03:00:00+07:00",
-"traffic": "20000+",
-"found": "2026-11-26T04:22:51+07:00"
-},
-{
-"id": "5f62b5414eff",
-"title": "bayern",
-"link": "https://www.zdfheute.de/sport/fc-bayern-upamecano-stuermer-100.html",
-"summary": "Kann Upamecano Bayerns Offensiv-Ausfälle komepensieren? (ZDFheute)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGshneP-NQF0DJx2LwTpdGFoDiVTG1t5upEQcLco92cjxVldCIESscauUyUOM",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T02:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-26T03:11:16+07:00"
-},
-{
-"id": "782000f48600",
-"title": "xem bóng đá trực tiếp hôm nay",
-"link": "https://thethao247.vn/63-nhan-dinh-u17-uganda-vs-u17-new-caledonia-bai-toan-xuyen-pha-cua-uganda-19h30-ngay-25-11-2026-c288-d446691.html",
-"summary": "Nhận định U17 Uganda vs U17 New Caledonia: Bài toán xuyên phá của Uganda, 19h30 ngày 25/11/2026 (Thể Thao 247)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYGcYaRizofIsxEwWAwFKue04DWOcSaD-5TcdcLn6uq9DxIujcSYOVj1MxoTw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T02:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-26T03:17:56+07:00"
-},
-{
-"id": "ead63b694876",
-"title": "sporting vs man utd",
-"link": "https://www.manutd.com/en/news/pochettino-makes-his-immediate-focus-clear-before-sporting-away",
-"summary": "Pochettino makes his immediate focus clear (Manchester United)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGqn2GIK1XEkZUIh4SNsggycKh6unLInoSqRwnBtXUGnn7_8vh1Yzg_3DwAds",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T02:50:00+07:00",
-"traffic": "500+",
-"found": "2026-11-26T03:48:16+07:00"
-},
-{
-"id": "e5c78bbaba19",
-"title": "man utd",
-"link": "https://www.bbc.com/sport/football/articles/cqzr5ylmeerlo",
-"summary": "Leny Yoro red card: Mauricio Pochettino leads Manchester United fury at VAR ruling (BBC)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4s6bUOSELdUvw6lFueP1zwhSESzbToy9DpUt7JtmGmBO3aKCwijbLtwZ56xg",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T02:50:00+07:00",
-"traffic": "500+",
-"found": "2026-11-26T03:48:16+07:00"
-},
-{
-"id": "cea06e57294f",
-"title": "inter đấu với stuttgart",
-"link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-inter-vs-stuttgart-03h00-ngay-26-11-leo-doc-nhoc-met-5298122611.html",
-"summary": "Nhận định bóng đá Inter vs Stuttgart, 03h00 ngày 26/11: Leo dốc nhọc mệt (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTYv998fu3BdS_Hk8YUJam-LEGxcJ4w7CQNrAGh_NzMBnzXCwujBASXncsx4M",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T02:40:00+07:00",
-"traffic": "200+",
-"found": "2026-11-26T02:55:47+07:00"
-},
-{
-"id": "fb246dfe2271",
-"title": "psg",
-"link": "https://fr.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-psg-vs-roma-tai-champions-league-1806246.ldo",
-"summary": "Prédictions de football PSG vs Roma en Ligue des champions (Laodong.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvNC26L0IXVXo7rVyXd4jTv--_TQWwc43LRy5B3kEK43cStfnLDq2QPeYfAek",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T02:40:00+07:00",
-"traffic": "500+",
-"found": "2026-11-26T02:55:47+07:00"
-},
-{
-"id": "76b206fb3b40",
-"title": "mu vs",
-"link": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-sporting-lisbon-mu-ngay-tro-ve-giong-bao-cua-fernandes-cup-c1-c48a1814025.html",
-"summary": "Trực tiếp bóng đá Sporting Lisbon - MU: Siêu máy tính ưu ái chủ nhà (Cúp C1) (Tin tức 24h)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSftzguLtEULzlcMIeQro_gb62icQPrRk7P5DkfNMxacpmupAhG2WDTCK8O0_I",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T02:40:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-26T03:11:16+07:00"
-},
-{
-"id": "3e22647a61cc",
-"title": "psg vs roma",
-"link": "https://www.vietnam.vn/en/thu-thach-cho-nha-vo-dich",
-"summary": "A challenge for the champion. (Vietnam.vn)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBcG1nLiNWO2VUCQLQ0VcchFbSwFiJrRN6OL574EzTnoaXbsX25s35914SO_I",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T02:30:00+07:00",
-"traffic": "200+",
-"found": "2026-11-26T02:55:47+07:00"
-},
-{
-"id": "3dc5b5f032f1",
-"title": "club brugge đấu với liverpool",
-"link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-club-brugge-vs-liverpool-03h00-ngay-26-11-ky-ro-5298422611.html",
-"summary": "Nhận định bóng đá Club Brugge vs Liverpool, 03h00 ngày 26/11: Kỵ rơ! (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM2V-rhLoQLhdBLgY0unH5ISFuwGNqNV45eYa2Ua6_SSMmbfJrdCWbnudD6oE",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T02:20:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-26T02:40:18+07:00"
-},
-{
-"id": "89d0883b8918",
-"title": "atlético madrid đấu với viking",
-"link": "https://baonghean.vn/nhan-dinh-atletico-madrid-vs-viking-doi-khach-dau-dau-vi-thieu-nguoi-10356612.html",
-"summary": "Nhận định Atletico Madrid vs Viking: Đội khách đau đầu vì thiếu người (Báo Nghệ An)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxvQkR2dTVr4OjrgpGP2A-T-T9wVi0YvVv62vfH552b5kx6B3Qq_QwhtB2S1M",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T02:10:00+07:00",
-"traffic": "500+",
-"found": "2026-11-26T02:40:18+07:00"
-},
-{
-"id": "5c22aee1309f",
-"title": "losc đấu với bayern",
-"link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-lille-vs-bayern-munich-03h00-ngay-26-11-khi-hum-xam-mat-vuot-sac-5298532611.html",
-"summary": "Nhận định bóng đá Lille vs Bayern Munich, 03h00 ngày 26/11: Khi ‘Hùm xám’ mất vuốt sắc… (Tạp chí Bóng đá)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9texMl-dkX783sZIuPyvWFkK4g-d2UBtmyVW0syJedcAa1hB1LDduLdoiKV8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T02:10:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-26T02:40:18+07:00"
-},
-{
-"id": "ddb24b461d24",
-"title": "phạm nhật vượng",
-"link": "https://vnexpress.net/vingroup-dam-phan-tim-quy-dat-tai-an-do-5148765.html",
-"summary": "Vingroup đàm phán tìm quỹ đất tại Ấn Độ (VnExpress)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKJ3j6c6G-NJnhjTwKAvKUTuaKpmCjyQHUlpMj7Avlyckb0ec4SE1IDJG52xQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T02:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-26T02:40:18+07:00"
-},
-{
-"id": "7ba22387cd4b",
-"title": "Việt Nam xây thành công 5 khối nhà bê tông uốn cong thuộc dạng hiếm trên thế giới, dài tới 70 m, mái cao 16 m: Phải tự chế tạo giàn giáo riêng, phủ đá từ núi lửa, một phần chìm dưới lòng đất",
-"link": "https://kenh14.vn/viet-nam-xay-thanh-cong-5-khoi-nha-be-tong-uon-cong-thuoc-dang-hiem-tren-the-gioi-dai-toi-70-m-mai-cao-16-m-phai-tu-che-tao-gian-giao-rieng-phu-da-tu-nui-lua-mot-phan-chim-duoi-long-dat-215261125233120266.chn",
-"summary": "Để hiện thực hóa công trình đặc biệt này, đơn vị thi công từng phải nghiên cứu, tự chế tạo hệ thống giàn giáo chuyên biệt.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795624182972-1795624183742761272443.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-26T01:53:00+07:00",
-"found": "2026-11-26T02:12:10+07:00"
-},
-{
-"id": "e8659a2d7039",
-"title": "Thứ trưởng Bộ Công an thông tin xử lý 'sốt giá đất ảo' qua đấu giá",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ09aZDJfZ29VOXJZUFpzOVhVa0lfX1NHOUZjZTRGTzFKSGVSTVhUUTBCMVA0UmhqQzk5VjJQcjJqZ000MFM3WmIyS2F5bVp5UnRoemMtZ3BXMGZTSi1iUVptLVdka2llWXpKTHh3R3ZpdHpJeXNDcmtfSkRJY0dDYXk0WWxUdU0wVXljRzNsN1g?oc=5",
-"summary": "Nguồn: Vietnam.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T01:39:33+07:00",
-"found": "2026-11-26T03:17:56+07:00"
-},
-{
-"id": "cd22ee008341",
-"title": "Chứng khoán Mỹ lao dốc sau tin chấn động về chính sách thuế mới",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGlaRlJzSXhwYTkyU0VFX1RvSVpsUHh6cUZaQVBJR1ZKUkNlSVBub3ZOOFJWOHFyTXVnM21GZjBIWEg3Tkh0Rm53UzIwcWdSSXRXN0hTbFhMeGJIV1pQUjJQX3VrTWRHNmh6U21CR3pmSjRZTW1sdUR1SGt5SWFyZkcxS2VPSlp6X2thQXVpLXJPSzdxTWR6NFBZRkU?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T01:29:00+07:00",
-"found": "2026-11-26T01:41:50+07:00"
-},
-{
-"id": "e968a18a959c",
-"title": "Giá vàng thế giới giảm sâu",
-"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wZmRPVXN4Z19WZE41ZzNnX1h5NHZMLVdCMmNnRUVPZEllWW5lU2xhSG5tZi05V0ZSLWlJckN6VHNUUFZVODF4d0F6MFVQU3dUYnAzTHQ3aFpCdkJWX3FLSmZuay1wWlYwc0Rv?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T01:22:44+07:00",
-"found": "2026-11-26T08:40:26+07:00"
-},
-{
-"id": "a603b336e1d0",
-"title": "villarreal",
-"link": "https://www.fichajes.com/a5848824330036340944-ya-hay-onces-de-slavia-de-praga-y-villarreal",
-"summary": "Ya hay onces de Slavia de Praga y Villarreal (Fichajes.com)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSauGh7aani8D5S_DQo2D2TpJQb4AUGEprEi4hmHHqwdnih8dI0wSSfBCkACZY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T01:10:00+07:00",
-"traffic": "200+",
-"found": "2026-11-26T02:40:18+07:00"
-},
-{
-"id": "1f26462da14a",
-"title": "Tầm nhìn mới của Jensen Huang không cản nổi đà bán tháo",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbjhpZHZuRTFQc1hCSzgtME1WYWY3NWFZbHhEQ1JteXROQ0pWQjFsc0lNdGRfdmJZY0Fvc2QxZGJBM1lGbGsySGlyVWZxMFc3c3VwTzVreTNZb2RhTURQZFNvdXRLRTRIekpsdXk4NzZVSlZpSUFwUmk1YW9selNBcVZRYUdFOFQ2MmdiN0w1UnhPZw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T01:02:24+07:00",
-"found": "2026-11-26T09:31:26+07:00"
 }
 ]
 }
