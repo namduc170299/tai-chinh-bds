@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T09:58:42+07:00",
-"new": 12,
+"updated": "2026-11-28T10:13:55+07:00",
+"new": 13,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 43
+"count": 26
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "a972f7f5ce8d",
+"title": "Một tỉnh ở miền Trung lập KCN cao hơn 1.000ha, dành riêng 319ha làm hạ tầng AI, tổng vốn đầu tư dự kiến 6.700 tỷ đồng",
+"link": "https://cafef.vn/mot-tinh-o-mien-trung-lap-kcn-cao-hon-1000ha-danh-rieng-319ha-lam-ha-tang-ai-tong-von-dau-tu-du-kien-6700-ty-dong-188261128100112709.chn",
+"summary": "UBND thành phố Huế vừa quyết định thành lập Khu Công nghệ cao thành phố Huế với quy mô 1.081ha tại xã Hưng Lộc. Đáng chú ý, trong cơ cấu sử dụng đất dự kiến, khu vực dành cho hạ tầng công nghệ cao, trọng tâm là trung tâm dữ liệu trí tuệ nhân tạo (AI) chiếm tới 319,52ha.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/cnc-hue1-17958348425021545266154-0-0-395-632-crop-17958348460471864247183.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-28T10:03:00+07:00",
+"found": "2026-11-28T10:13:55+07:00"
+},
+{
 "id": "79e0beae858d",
 "title": "TPHCM: Cháy lớn ở xưởng may khóa trái cửa, khói đen bốc cuồn cuộn",
 "link": "https://vietnamnet.vn/tphcm-chay-lon-o-xuong-may-khoi-den-boc-cuon-cuon-2579592.html",
@@ -220,8 +231,85 @@
 "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/tphcm-chay-lon-o-xuong-may-khoa-trai-cua-khoi-den-boc-cao-cuon-cuon-583.jpg?width=0&s=ORDa-b8tm7-Zh03YQUrY0Q",
 "source": "VietnamNet",
 "cat": "xh",
-"published": "2026-11-28T09:55:36+07:00",
+"published": "2026-11-28T10:00:23+07:00",
 "found": "2026-11-28T09:58:42+07:00"
+},
+{
+"id": "b6802c490ae7",
+"title": "Hạ tầng metro mở rộng dư địa phát triển cho bất động sản thương mại",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPam1IX2ZJdFNTUmd0T3F0TmVnYnBTMmJlYkdEWHM2V085V1RiMU5iaUZ6ZVhNek9LTDdZZElJdW1nem9XaWpfX2N4TjZSanBDZklwTzdxcDZJd0s5TWJaUTBJbU15X0xyenlJVmtWOVlQOWhXckNqc01HMkdXQUZtN3Y2R2dmZUZkVUxEZ0J1anFyZWE1bHZuWjZIZF9LdkZ2dlE?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T10:00:00+07:00",
+"found": "2026-11-28T10:13:55+07:00"
+},
+{
+"id": "bc7cd887fbf1",
+"title": "Thêm trăm căn nhà thấp tầng, căn hộ được cấp sổ",
+"link": "https://cafef.vn/them-tram-can-nha-thap-tang-can-ho-duoc-cap-so-188261128092325796.chn",
+"summary": "600 căn hộ The Emerald 68 do Công ty CP Tập đoàn Lê Phong làm chủ đầu tư, 111 căn nhà thấp tầng dự án Khu nhà ở cao tầng ở phường Tân Mỹ do Công ty CP Đầu tư Bất động sản Hưng Lộc Phát làm chủ đầu tư được Tổ Công tác 1645 tháo gỡ vướng mắc và cấp giấy chứng nhận cho người mua…",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/avatar1795832543621-1795832543973791481861.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-28T09:59:00+07:00",
+"found": "2026-11-28T10:13:55+07:00"
+},
+{
+"id": "d87769bdb269",
+"title": "Cổ đông lớn nhất của Chứng khoán Thành Công muốn giảm sở hữu xuống dưới 50%",
+"link": "https://cafef.vn/co-dong-lon-nhat-cua-chung-khoan-thanh-cong-muon-giam-so-huu-xuong-duoi-50-18826112809000073.chn",
+"summary": "Sài Gòn 3 Capital đăng ký bán ra 5,8 triệu cổ phiếu TCI để giảm sở hữu xuống 49,04% vốn Chứng khoán Thành Công.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/avatar1795831142600-17958311430281278052862.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-28T09:59:00+07:00",
+"found": "2026-11-28T10:13:55+07:00"
+},
+{
+"id": "a126cc8fc930",
+"title": "'Chốt' đấu giá 3.790 căn hộ tái định cư Thủ Thiêm: Giá khởi điểm hơn 18.253 tỷ đồng",
+"link": "https://cafef.vn/chot-dau-gia-3790-can-ho-tai-dinh-cu-thu-thiem-gia-khoi-diem-hon-18253-ty-dong-188261128085800866.chn",
+"summary": "Tổng giá khởi điểm đấu giá quyền sử dụng đất, công trình xây dựng và tài sản khác gắn liền với đất, gồm 3.790 căn hộ tái định cư ở Khu đô thị mới Thủ Thiêm là hơn 18.253 tỷ đồng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/avatar1795830998163-17958309989081138617848.webp",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-28T09:57:00+07:00",
+"found": "2026-11-28T10:13:55+07:00"
+},
+{
+"id": "07abb04ba38e",
+"title": "Gà tiến vua giá 30 triệu đồng/cặp, gắn với tục thi gà luộc của 17 giáp, qua 4 đời gìn giữ có nguy cơ bị cấm nuôi tại quê nhà",
+"link": "https://kenh14.vn/ga-tien-vua-gia-30-trieu-dong-cap-gan-voi-tuc-thi-ga-luoc-cua-17-giap-qua-4-doi-gin-giu-co-nguy-co-bi-cam-nuoi-tai-que-nha-215261128074718603.chn",
+"summary": "Đây là giống gia cầm quý của Việt Nam, gắn liền với phong tục dân gian và văn hóa ẩm thực, được các nhà khoa học nghiên cứu bảo tồn nguồn gen.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795826735404-17958267372401344164726.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T09:56:00+07:00",
+"found": "2026-11-28T10:13:55+07:00"
+},
+{
+"id": "525bc1897071",
+"title": "KTNN khu vực XII: Kiến nghị xử lý tài chính hơn 1.700 tỷ đồng, bứt phá ứng dụng AI trong năm 2026",
+"link": "https://cafef.vn/ktnn-khu-vuc-xii-kien-nghi-xu-ly-tai-chinh-hon-1700-ty-dong-but-pha-ung-dung-ai-trong-nam-2026-188261128065622075.chn",
+"summary": "Năm 2026, Kiểm toán nhà nước (KTNN) khu vực XII hoàn thành toàn diện nhiệm vụ năm 2026: kiến nghị xử lý tài chính 1.725 tỷ đồng, 06 Đoàn kiểm toán đạt loại Xuất sắc và tiên phong ứng dụng AI vào hoạt động kiểm toán.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795823604829-17958236055801273184702-413-0-1663-2000-crop-1795823688922208260858.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-28T09:55:00+07:00",
+"found": "2026-11-28T10:13:55+07:00"
+},
+{
+"id": "2c317bc5a2a8",
+"title": "Tất cả người dân đi hát karaoke chú ý thông báo mới nhất từ công an",
+"link": "https://kenh14.vn/tat-ca-nguoi-dan-di-hat-karaoke-chu-y-thong-bao-moi-nhat-tu-cong-an-215261128094154245.chn",
+"summary": "Công an cảnh báo hiểm họa \"bóng cười\" tại các quán karaoke.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795833708392-1795833709121505944713.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T09:55:00+07:00",
+"found": "2026-11-28T10:13:55+07:00"
 },
 {
 "id": "1f843fdb7b45",
@@ -235,6 +323,28 @@
 "found": "2026-11-28T09:58:42+07:00"
 },
 {
+"id": "6ffc257c9a51",
+"title": "Chuyện ở căn bếp 5 sao: Nơi món ăn ủ chua chiều lòng các cô bò TH",
+"link": "https://kenh14.vn/chuyen-o-can-bep-5-sao-noi-mon-an-u-chua-chieu-long-cac-co-bo-th-215261127122635986.chn",
+"summary": "Căn bếp 5 sao của gần 80.000 bò sữa TH true MILK luôn tỏa ra mùi thơm đặc trưng nhờ món thức ăn ủ chua - chìa khóa kích thích vị giác các cô bò sữa.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/1417441b7-060c-4438-bcca-99746e45d2b2-1795747928177192552629-1795757602959-1795757604136585790399-0-0-1250-2000-crop-17957576208061493860129.jpeg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T09:53:00+07:00",
+"found": "2026-11-27T12:39:41+07:00"
+},
+{
+"id": "c1863a39dbfc",
+"title": "Không khí lạnh tiếp tục tăng cường, Hà Nội sắp rét 15 độ, miền Trung đối mặt mưa lớn kéo dài",
+"link": "https://kenh14.vn/khong-khi-lanh-tiep-tuc-tang-cuong-ha-noi-sap-ret-15-do-mien-trung-doi-mat-mua-lon-keo-dai-215261128091112926.chn",
+"summary": "Theo Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, ngày 28/11, không khí lạnh tiếp tục ảnh hưởng đến Bắc Bộ và Trung Bộ, khiến nhiệt độ giảm. Trong khi miền Bắc chuyển rét, khu vực từ TP Huế đến Khánh Hòa được cảnh báo có mưa lớn diện rộng đến sáng 30/11.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795831839912-1795831840380663873141.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T09:53:00+07:00",
+"found": "2026-11-28T10:13:55+07:00"
+},
+{
 "id": "157aedbcb03d",
 "title": "Thêm trăm căn nhà thấp tầng, căn hộ được cấp sổ",
 "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR2NXUW9uWVFJX1VJWml6RVMySkl0ZW5nT2hzYUNScjRpSXhQTjRoaFZNNnVRcUcwakxjQndldU5RbHl3M2RRbk1vTHhGVVFJVDA0TW9EM3ZfSGk5STdCUVEtdTY2Yk5jQmtzbHBMNUZwSF9NdnB0UnRBbkJlYWhtWnQybThsUQ?oc=5",
@@ -244,6 +354,17 @@
 "cat": "bds",
 "published": "2026-11-28T09:52:00+07:00",
 "found": "2026-11-28T09:58:42+07:00"
+},
+{
+"id": "22c35a17ba01",
+"title": "Bộ Xây dựng: Hoàn thành ga tạm Phú Xuyên mới bàn giao ga Hà Nội",
+"link": "https://vnexpress.net/bo-xay-dung-hoan-thanh-ga-tam-phu-xuyen-moi-ban-giao-ga-ha-noi-5149873.html",
+"summary": "Bộ Xây dựng đề nghị sau khi hoàn thành đầu tư ga tạm Phú Xuyên, Bộ sẽ kiểm tra và tổ chức bàn giao đoạn tuyến đường sắt từ ga Phú Xuyên đến ga Hà Nội để phục vụ mở rộng quốc lộ 1.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/abui-of-1795831467-1672-1795831512.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1HLkgw_AIIatODW7AkY_rw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-28T09:49:47+07:00",
+"found": "2026-11-28T10:13:55+07:00"
 },
 {
 "id": "2625a126f333",
@@ -302,6 +423,17 @@
 "found": "2026-11-28T09:58:42+07:00"
 },
 {
+"id": "2f0d11b43b1f",
+"title": "CHUNG CƯ ROXANA PLAZA",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tQWlmZDI3SHFTeGJfYWdqSmNFVVFULWdjNjNlZHNSeXJYc0JpREE2V2RwSWgwaXVaNlJycDdSRnMwTTdSZ0xBMDNMdFlEamRseG9aeTZMYVhEcjk5ZDJ1Z0NaRQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T09:39:54+07:00",
+"found": "2026-11-28T10:13:55+07:00"
+},
+{
 "id": "cdbb24524cf5",
 "title": "Chính phủ cam kết minh bạch và nhất quán trong cải thiện môi trường đầu tư",
 "link": "https://vneconomy.vn/chinh-phu-cam-ket-minh-bach-va-nhat-quan-trong-cai-thien-moi-truong-dau-tu.htm",
@@ -335,6 +467,17 @@
 "found": "2026-11-28T09:43:30+07:00"
 },
 {
+"id": "f5d727def900",
+"title": "Người đàn ông say xỉn, mang dao vào trường mầm non đe dọa giáo viên",
+"link": "https://dantri.com.vn/phap-luat/nguoi-dan-ong-say-xin-mang-dao-vao-truong-mam-non-de-doa-giao-vien-20261128084920244.htm",
+"summary": "(Dân trí) - Bị nhắc đóng học phí quá hạn cho con, người đàn ông ở Cần Thơ nhắn tin đe dọa giáo viên rồi mang dao đến trường gây náo loạn.",
+"image": "https://cdnphoto.dantri.com.vn/Ynbl4cTqmQmJ6jB2JGKpXvGmEzM=/2026/11/28/doa-chem-co-giao-1795830353705.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-28T09:32:19+07:00",
+"found": "2026-11-28T10:13:55+07:00"
+},
+{
 "id": "89c847031816",
 "title": "Khởi tố, bắt tạm giam 3 đối tượng nhiều lần giao cấu với bé gái dưới 16 tuổi",
 "link": "https://kenh14.vn/khoi-to-bat-tam-giam-3-doi-tuong-nhieu-lan-giao-cau-voi-be-gai-duoi-16-tuoi-21526112807402731.chn",
@@ -366,6 +509,17 @@
 "cat": "tc",
 "published": "2026-11-28T09:29:09+07:00",
 "found": "2026-11-28T09:43:30+07:00"
+},
+{
+"id": "86415a6b3ed7",
+"title": "Hơn 1.500 m3 đất đá bịt kín quốc lộ lên cửa khẩu La Lay",
+"link": "https://vnexpress.net/hon-1-500-m3-dat-da-bit-kin-quoc-lo-len-cua-khau-la-lay-5149858.html",
+"summary": "Sáng 28/11, một vạt núi tại xã La Lay bất ngờ sạt xuống, vùi lấp đoạn quốc lộ 15D, cách cửa khẩu quốc tế La Lay khoảng 4 km.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/a-1795828892-2297-1795828898.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=N89I4ecxhNGYiODvHQCAbA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-28T09:25:22+07:00",
+"found": "2026-11-28T10:13:55+07:00"
 },
 {
 "id": "7f742facd19e",
@@ -8789,17 +8943,6 @@
 "source": "CafeF",
 "cat": "bds",
 "published": "2026-11-27T12:32:00+07:00",
-"found": "2026-11-27T12:39:41+07:00"
-},
-{
-"id": "6ffc257c9a51",
-"title": "Chuyện ở căn bếp 5 sao: Nơi món ăn ủ chua chiều lòng các cô bò TH",
-"link": "https://kenh14.vn/chuyen-o-can-bep-5-sao-noi-mon-an-u-chua-chieu-long-cac-co-bo-th-215261127122635986.chn",
-"summary": "Căn bếp 5 sao của gần 80.000 bò sữa TH true MILK luôn tỏa ra mùi thơm đặc trưng nhờ món thức ăn ủ chua - chìa khóa kích thích vị giác các cô bò sữa.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/1417441b7-060c-4438-bcca-99746e45d2b2-1795747928177192552629-1795757602959-1795757604136585790399-0-0-1250-2000-crop-17957576208061493860129.jpeg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-27T12:27:00+07:00",
 "found": "2026-11-27T12:39:41+07:00"
 },
 {
@@ -27905,149 +28048,6 @@
 "cat": "xh",
 "published": "2026-11-25T18:57:00+07:00",
 "found": "2026-11-25T19:13:04+07:00"
-},
-{
-"id": "89c217f001b0",
-"title": "Trải nghiệm nghệ thuật Batik và áo dài, kết nối văn hóa Việt Nam - Indonesia",
-"link": "https://tuoitre.vn/trai-nghiem-nghe-thuat-batik-va-ao-dai-ket-noi-van-hoa-viet-nam-indonesia-100261125173731433.htm",
-"summary": "Ngày 25-11, tại TP.HCM workshop giao lưu văn hóa Việt Nam - Indonesia với chủ đề trải nghiệm nghệ thuật Batik Indonesia, thu hút hơn 100 hội viên phụ nữ tham gia.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/indo-dep-4-1795602773123565968757-0-0-1600-2560-crop-1795604815933621226095.jpg",
-"source": "Tuổi Trẻ",
-"cat": "mxh",
-"published": "2026-11-25T18:57:00+07:00",
-"found": "2026-11-25T19:29:58+07:00"
-},
-{
-"id": "4c059daa94a5",
-"title": "Dự kiến khởi công đường sắt tốc độ cao Bắc - Nam năm 2028",
-"link": "https://cafef.vn/du-kien-khoi-cong-duong-sat-toc-do-cao-bac-nam-nam-2028-188261125175704029.chn",
-"summary": "Sau khi lựa chọn liên danh nhà thầu thực hiện báo cáo nghiên cứu khả thi, dự án đường sắt tốc độ cao Bắc - Nam dự kiến sẽ qua 4 mốc thời gian quan trọng để phấn đấu khởi công vào cuối năm 2028.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795603930436-17956039307631463963398.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T18:56:00+07:00",
-"found": "2026-11-25T19:13:04+07:00"
-},
-{
-"id": "08953ce7923e",
-"title": "Ba thay đổi về thuế thu nhập cá nhân thúc đẩy quỹ đầu tư",
-"link": "https://thanhnien.vn/ba-thay-doi-ve-thue-thu-nhap-ca-nhan-thuc-day-quy-dau-tu-185261125171337292.htm",
-"summary": "Miễn thuế khi chuyển nhượng chứng chỉ quỹ mở giữ từ 2 năm, giảm 50% thuế lợi tức từ quỹ trong 5 năm, giảm trừ bảo hiểm hưu trí tới 3 triệu đồng/tháng được TS Cấn Văn Lực đánh giá là 3 chính sách thuế thu nhập cá nhân thúc đẩy sự phát triển các quỹ đầu tư.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-img5624-1795601214949480235535-43-266-1283-2250-crop-17956012684612071047219.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T18:55:00+07:00",
-"found": "2026-11-25T18:57:53+07:00"
-},
-{
-"id": "8728b035a58e",
-"title": "Giả danh chủ đầu tư lừa bán 'suất' nhà ở xã hội, chiếm đoạt hơn 150 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3JreWZ3WVE0dnRFbG54cC1QRXFJZ3FyTmM3MzNfY3diVFFJTnN3NkM4V0N4bGtnRE41U2hackp5Zmk5S0VqNHlWamViWUROSHEyelJ2WEtIcXZJTV9IMkdiRkxLRVNCMEM4VjgxNGtoajFUdEx6ZVYzLTEzYThsLVJoTjF6WEtKeThnS2lld3FlLW45Z0h2VHN2eU9xUkxqbEVQby1pekI?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T18:53:00+07:00",
-"found": "2026-11-25T18:57:53+07:00"
-},
-{
-"id": "018d147905b2",
-"title": "Cử tri TP.HCM kiến nghị xử lý tình trạng thổi giá ảo khi đấu giá đất",
-"link": "https://tuoitre.vn/cu-tri-tphcm-kien-nghi-xu-ly-tinh-trang-thoi-gia-ao-khi-dau-gia-dat-100261125180554338.htm",
-"summary": "Ngày 25-11, tổ đại biểu số 9 Đoàn đại biểu Quốc hội TP.HCM tiếp xúc cử tri các phường Gia Định, Thạnh Mỹ Tây, Bình Quới, An Khánh, Bình Thạnh, Bình Lợi Trung, An Hội Đông, An Hội Tây, Thông Tây Hội, An Nhơn, Gò Vấp, Hạnh Thông sau kỳ họp thứ 2 Quốc hội khóa XVI.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/230a5162-17956052012402097538144-283-458-1291-2070-crop-17956077290361842651219.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T18:51:00+07:00",
-"found": "2026-11-25T19:29:58+07:00"
-},
-{
-"id": "d6a59ab33dea",
-"title": "Chốt tiến độ thu hồi đất dự án metro thành phố mới Bình Dương – Suối Tiên",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzc5QmVVMDZMYWdGT3lPUXdZUEN0dnJGOEl2ZjhrdDZaZl9oWlFmSjJGZDZmQkxsTnZacjBmVHhYRHJJcVhYSFhHbk5pODRaUXdXejNxM0lmdWtvdTJEVFJPMjRieUdPdEdiUkdVWGVZd3lRRjlyWU1zUnNkU1ZOU0NlcGp3MDU1WXdrdGtrT0tmb3ppTEpkTUIzQUFzeDJlYU0teXNjQQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T18:50:53+07:00",
-"found": "2026-11-25T18:57:53+07:00"
-},
-{
-"id": "9f74801f5354",
-"title": "Thị trường bất động sản Đồng Nai kỳ vọng khởi sắc",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbmFvTWhwVmFxb2ZYZ1R6aWVDRE5sLVZTcmluV0drdjAzclBjWm5NNFNwWFJVODJoeGpXQ2M3MlhVZU1Fak9keFhiem9QRS1BaGUxXzBBY1dYZWcwSGdpZWhyOG5OLUhyaFVHZUJIdFRWVF9YN0ZRRWwyNHQ3WDE1VUJJQnRHTUE1WkE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T18:50:38+07:00",
-"found": "2026-11-25T18:57:53+07:00"
-},
-{
-"id": "d03e98d33a3b",
-"title": "5 tỉnh miền Trung mưa lớn dồn dập, có nơi trên 600 mm",
-"link": "https://thanhnien.vn/5-tinh-mien-trung-mua-lon-don-dap-co-noi-tren-600-mm-18526112517273214.htm",
-"summary": "Dự báo thời tiết từ chiều tối 27.11 đến sáng 30.11, 5 tỉnh miền Trung sẽ có có mưa lớn dồn dập, lượng mưa cả đợt có nơi trên 600 mm.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-photo-1793058988833-1793058989718948592634-17956020751571602642402-110-139-748-1160-crop-1795602088217187815132.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T18:50:00+07:00",
-"found": "2026-11-25T18:57:53+07:00"
-},
-{
-"id": "49e61f96afce",
-"title": "Biển số 99A-999.99 đấu giá thành công hơn 15 tỉ đồng",
-"link": "https://thanhnien.vn/bien-so-99a-99999-dau-gia-thanh-cong-hon-15-ti-dong-185261125175550109.htm",
-"summary": "Biển số xe ô tô 99A-999.999 (TP.Bắc Ninh) được đưa ra đấu giá lần thứ 3 thành công, với mức trúng đấu giá hơn 15 tỉ đồng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/edit-dau-gia-bien-so-17956040760341927169358-0-30-766-1256-crop-1795604121332423993389.jpeg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T18:48:00+07:00",
-"found": "2026-11-25T18:57:53+07:00"
-},
-{
-"id": "85026be937d8",
-"title": "Chủ tịch UBND tỉnh Tô Anh Dũng nghe phương án đầu tư Dự án đường giao thông kết nối liên vùng Thanh Hóa - Phú Thọ - Sơn La",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYUM5LTBnS1IwdFBrN1RkOFFxV1JnZkdyUWNaU3RzVnVSVlROVW5kTThldEVKTXZFc2dmNzJYeDA3VW50NHdmSkNEU3RibDZ5M01tSjBnbWFwaHhqSE1RWmItOXAtZFZkQU5CTWlpWFZ5aG1pWFYzXzVyVExyNlA0Q3dTbmtHbWxXRXJuQnZMbjdxZ1RFNk15Q2RwTkZMcUU0eW1YS21iVXA4SVhoN2tpZ2xnVm5SUTVjZVItdkFPbVJHYlJDdXJISUZoMVc0ODBwNFZTMFZxZHRhLVNzb1c4NFVMV0hTUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T18:47:00+07:00",
-"found": "2026-11-25T18:57:53+07:00"
-},
-{
-"id": "2ee96d87ba4d",
-"title": "Không gian triển lãm quảng bá thị trường chứng khoán nhân kỷ niệm 30 năm Ngày truyền thống ngành Chứng khoán Việt Nam",
-"link": "https://cafef.vn/khong-gian-trien-lam-quang-ba-thi-truong-chung-khoan-nhan-ky-niem-30-nam-ngay-truyen-thong-nganh-chung-khoan-viet-nam-188261125184755145.chn",
-"summary": "Đây là một trong những hoạt động thuộc chuỗi sự kiện kỷ niệm 30 năm Ngày truyền thống ngành Chứng khoán Việt Nam, nhằm giới thiệu những thành tựu nổi bật trong quá trình xây dựng và phát triển thị trường chứng khoán, đồng thời quảng bá hình ảnh, tiềm năng phát triển của thị…",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/cong-vao-trien-lam-1795607172792578833424-229-0-1479-2000-crop-1795607180116429092546.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-25T18:46:00+07:00",
-"found": "2026-11-25T18:57:53+07:00"
-},
-{
-"id": "5b24c787385c",
-"title": "Sạt lở làm tắc quốc lộ 49 ở Huế, nhiều người mắc kẹt trên đường về nhà",
-"link": "https://thanhnien.vn/sat-lo-lam-tac-quoc-lo-49-o-hue-nhieu-nguoi-mac-ket-tren-duong-ve-nha-18526112517455661.htm",
-"summary": "Mưa lớn khiến đất đá sạt xuống quốc lộ 49 ở thành phố Huế, buộc lực lượng chức năng phong tỏa cả hai chiều. Đến chiều tối 25.11, tuyến đường vẫn ách tắc, nhiều người chưa thể về nhà.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/93041587113322723160314934551292355847631993n-17956033838332141858689-166-0-1416-2000-crop-1795603406713127158794.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T18:46:00+07:00",
-"found": "2026-11-25T18:57:53+07:00"
-},
-{
-"id": "01d292cae9a8",
-"title": "Công an phát thông báo quan trọng liên quan đến giấy phép lái xe, giấy chứng nhận đăng ký xe, sổ đỏ... của người dân",
-"link": "https://kenh14.vn/cong-an-phat-thong-bao-quan-trong-lien-quan-den-giay-phep-lai-xe-giay-chung-nhan-dang-ky-xe-so-do-cua-nguoi-dan-215261125185400785.chn",
-"summary": "Người dân cần thận trọng khi giao, gửi hoặc cho người khác mượn các giấy tờ quan trọng như giấy phép lái xe, giấy chứng nhận đăng ký xe, giấy chứng nhận quyền sử dụng đất...",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795607593180-17956075934171219145870.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-25T18:46:00+07:00",
-"found": "2026-11-25T18:57:53+07:00"
 }
 ]
 }
