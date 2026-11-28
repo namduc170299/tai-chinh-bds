@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T20:27:01+07:00",
-"new": 7,
+"updated": "2026-11-28T20:42:32+07:00",
+"new": 4,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 20
+"count": 39
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "8bb7bedd1cf8",
+"title": "Hai bé trai tử vong dưới ao cá trong vườn nhà",
+"link": "https://vietnamnet.vn/hai-chau-be-tu-vong-duoi-ao-truoc-nha-2579793.html",
+"summary": "Hai bé trai 2 và 3 tuổi được người thân phát hiện rơi xuống ao nuôi cá trong vườn nhà ở Quảng Ninh. Dù được đưa đi cấp cứu, cả hai cháu đều không qua khỏi.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/hai-be-trai-tu-vong-duoi-ao-ca-trong-vuon-nha-2686.jpeg?width=0&s=yEiAwn3o_6samfzwhh6hLA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T20:33:30+07:00",
+"found": "2026-11-28T20:42:32+07:00"
+},
+{
+"id": "7826f8cccbcd",
+"title": "Công an Thanh Hóa bổ nhiệm Trưởng phòng Tham mưu",
+"link": "https://vietnamnet.vn/cong-an-thanh-hoa-bo-nhiem-truong-phong-tham-muu-2579712.html",
+"summary": "Thượng tá Nguyễn Tiến Nghĩa, Phó Trưởng phòng Tổ chức cán bộ, được bổ nhiệm giữ chức Trưởng phòng Tham mưu Công an tỉnh Thanh Hóa.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/cong-an-thanh-hoa-bo-nhiem-truong-phong-tham-muu-1750.jpg?width=0&s=tFTP6mApIvN5ym3fitpCTA",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T20:30:53+07:00",
+"found": "2026-11-28T14:42:54+07:00"
+},
+{
 "id": "7bec4eb2ecce",
 "title": "Tìm thấy thi thể nam sinh 16 tuổi đuối nước ở hồ Lòng Sông",
 "link": "https://vietnamnet.vn/tim-thay-thi-the-nam-sinh-16-tuoi-duoi-nuoc-o-ho-long-song-2579790.html",
@@ -222,6 +244,29 @@
 "cat": "xh",
 "published": "2026-11-28T20:25:18+07:00",
 "found": "2026-11-28T20:27:01+07:00"
+},
+{
+"id": "0d5ba8fa8c90",
+"title": "hagl",
+"link": "https://vietnamnet.vn/hagl-nguoc-dong-kho-tin-danh-bai-ca-tphcm-2579702.html",
+"summary": "HAGL ngược dòng khó tin đánh bại CA TPHCM (Báo VietNamNet)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZt8sf2S8GYyWueryX0n8bXakeP5sAYlzbJldeNrIb53zBWn1oi4mjO8mcBT8",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T20:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T20:42:32+07:00"
+},
+{
+"id": "b064e5f22fd0",
+"title": "Cảnh báo thủ đoạn lừa đảo qua livestream ‘mổ trai lấy ngọc’",
+"link": "https://kenh14.vn/canh-bao-thu-doan-lua-dao-qua-livestream-mo-trai-lay-ngoc-215261128195113411.chn",
+"summary": "Công an tỉnh Hưng Yên vừa phát đi khuyến cáo người dân cảnh giác với thủ đoạn lừa đảo qua livestream “mổ trai lấy ngọc”, hứa hẹn trúng thưởng tiền tỷ.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795870238599-17958702390801006735522.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T20:19:00+07:00",
+"found": "2026-11-28T20:42:32+07:00"
 },
 {
 "id": "091b560c0ccb",
@@ -321,7 +366,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T20:00:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-28T20:27:01+07:00"
 },
 {
@@ -526,15 +571,15 @@
 "found": "2026-11-28T19:45:58+07:00"
 },
 {
-"id": "7826f8cccbcd",
-"title": "Công an Thanh Hóa bổ nhiệm Trưởng phòng Tham mưu",
-"link": "https://vietnamnet.vn/cong-an-thanh-hoa-bo-nhiem-truong-phong-tham-muu-2579712.html",
-"summary": "Thượng tá Nguyễn Tiến Nghĩa, Phó Trưởng phòng Tổ chức cán bộ, được bổ nhiệm giữ chức Trưởng phòng Tham mưu Công an tỉnh Thanh Hóa.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/cong-an-thanh-hoa-bo-nhiem-truong-phong-tham-muu-1750.jpg?width=0&s=tFTP6mApIvN5ym3fitpCTA",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-28T19:18:33+07:00",
-"found": "2026-11-28T14:42:54+07:00"
+"id": "b313900a382d",
+"title": "Hà Nội giám sát vi phạm tại 12 dự án Mường Thanh",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQzNHTzhySS1ZYTZkOTc2VG9HM3l0emRlRTVrTURSa2s5TUZJcHJWYWZGMjhfTlhxN1F4bzdMRG44d2RreW92UXRWS2k4WnJQVHRKWGRoc21xaVdZLWhaM2VudnA0WmJRQXVhUmdzVi1wcmdKejlWWUxzeFh2c3I0dU14MThaenhT?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T19:18:00+07:00",
+"found": "2026-11-28T20:42:32+07:00"
 },
 {
 "id": "e3a41245f401",
@@ -699,7 +744,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T19:00:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-28T19:30:45+07:00"
 },
 {
@@ -27939,50 +27984,6 @@
 "cat": "bds",
 "published": "2026-11-26T09:36:00+07:00",
 "found": "2026-11-26T09:46:42+07:00"
-},
-{
-"id": "add7865c488f",
-"title": "Cổ phiếu đáng chú ý ngày 26/11: SAB, HVN, HT1",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLVhWOUhQTllSZGtvR3JJQWZQZHRsQ3VBSjMwbXlzbkR4U3FtSFpiakZkSXZsQTFCbllscGVCYm1sVGxVMW9NWlFaOHU0aXNkSXVBUXUwNENZTE9lNjQtSTNpcDNvUkM0TDh2eTBrZlZnS2RmbGZ4cEVpcVhvVm43Rg?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T09:36:00+07:00",
-"found": "2026-11-26T10:01:54+07:00"
-},
-{
-"id": "18f1267d4cbb",
-"title": "Elon Musk đưa hai con trai đến trụ sở Nvidia chúc mừng CEO Jensen Huang",
-"link": "https://dantri.com.vn/kinh-doanh/elon-musk-dua-hai-con-trai-den-tru-so-nvidia-chuc-mung-ceo-jensen-huang-20261126090604750.htm",
-"summary": "(Dân trí) - Tỷ phú Elon Musk bất ngờ đưa hai con trai đến trụ sở Nvidia tại California, chung vui cùng CEO Jensen Huang ngay sau khi vị thuyền trưởng này được phục chức.",
-"image": "https://cdnphoto.dantri.com.vn/gDnCi0VNu2Fhw3R8kfatgicOJrw=/2026/11/26/elon-musk-jense-huang-cropped-1795658452523.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-26T09:34:25+07:00",
-"found": "2026-11-26T10:17:10+07:00"
-},
-{
-"id": "6e385387ff68",
-"title": "Quốc lộ 49 đã thông xe tạm, nguy cơ sạt lở vẫn còn",
-"link": "https://tuoitre.vn/quoc-lo-49-da-thong-xe-tam-nguy-co-sat-lo-van-con-100261126091346857.htm",
-"summary": "Điểm sạt lở hơn 400m³ đất đá trên quốc lộ 49 đoạn qua xã A Lưới 5 (TP Huế) đã được khắc phục tạm thời một làn đường. Tuy vậy, nguy cơ sạt lở tại đây vẫn còn cao.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/edit-quoc-lo-49-1795658473705436577418-0-96-540-960-crop-17956588391901381051521.jpeg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-26T09:33:00+07:00",
-"found": "2026-11-26T10:53:10+07:00"
-},
-{
-"id": "9142662a5d0d",
-"title": "Chứng khoán Mỹ 'lội ngược dòng' sau cú sụt 1.100 điểm của Dow Jones, giá dầu tăng mạnh",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTjJnbFZoN1lWWjNzR1ZfUm9mX2ZUYXo4cW55SnJ4Yk1rZlA0eWMzM3JXdTFZbGR5cFZ1SEtRUGgxTnhIeFVJNFVoSmdIWWlGM3ljai1yYm1EVXVSdWZXZENPWGpzSi1LaEtYdHdzc0ozdWpENGhFaU9aRDFBTElrVDhpVzdhSnRwOFhwSFJrZ1cwSFlSdEticU5KaUVOVkhzVmQwdXp2cko2cWZSUUJvaklGMnI5WFE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T09:31:44+07:00",
-"found": "2026-11-26T11:08:24+07:00"
 }
 ]
 }
