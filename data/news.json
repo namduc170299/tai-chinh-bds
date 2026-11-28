@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T15:35:03+07:00",
-"new": 5,
+"updated": "2026-11-28T15:50:18+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 42
+"count": 20
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "2b8b0448fefc",
+"title": "66 doanh nghiệp nợ gần 1.300 tỉ đồng tiền thuế",
+"link": "https://thanhnien.vn/66-doanh-nghiep-no-gan-1300-ti-dong-tien-thue-185261128153619632.htm",
+"summary": "Thuế tỉnh Thanh Hóa vừa công bố danh sách 66 doanh nghiệp có số nợ thuế lớn ở tỉnh Thanh Hóa. Trong đó, nhiều doanh nghiệp không chỉ nợ thuế mà nợ cả tiền bảo hiểm của người lao động kéo dài hơn 10 năm chưa đóng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/tnw-2-17958545569501389318686-0-156-1449-2474-crop-17958548168801210430544.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T15:50:00+07:00",
+"found": "2026-11-28T15:50:18+07:00"
+},
+{
+"id": "9d783f88ea90",
+"title": "Triệt phá đường dây mua bán, tiêu thụ, sang chiết gas lậu, thu lợi 1.728 tỉ đồng",
+"link": "https://thanhnien.vn/triet-pha-duong-day-mua-ban-tieu-thu-sang-chiet-gas-lau-quy-mo-lon-185261128150717125.htm",
+"summary": "Công an phường Phước Tân (thành phố Đồng Nai) đã triệt phá đường dây mua bán, tiêu thụ, sang chiết gas lậu quy mô lớn, ước tính thu lợi bất chính khoảng 1.728 tỉ đồng.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/gas-gia-1795853982576996608241-0-0-581-930-crop-1795854206081310331733.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T15:47:00+07:00",
+"found": "2026-11-28T15:50:18+07:00"
+},
+{
+"id": "f4d7f9859e15",
+"title": "Người mua nhà dễ gặp rủi ro vì thiếu kiến thức trước giao dịch",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1hKSF81RmFTcC14WTRNSTF3VTNsdjI2WXVybW9xWmk1cGhmaFo2Q3JKS2RaOWVWR096bkZVN0tDVDBTWTZWa0djS25Ha2hFOFlhWnFBNnktbHdjaHNoNTBNTzk5VkhyRjRWRng4YTAzN0hRNDhrSXE1NklWZElKemxsVWl1UmhoRzJxUHNqdGFSSWNJRnpobTBMVQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T15:46:00+07:00",
+"found": "2026-11-28T15:50:18+07:00"
+},
+{
+"id": "c63cc74780ea",
+"title": "Chủ tịch tỉnh Đắk Lắk yêu cầu thủy điện Sông Ba Hạ chủ động điều tiết nước",
+"link": "https://thanhnien.vn/chu-tich-tinh-dak-lak-yeu-cau-thuy-dien-song-ba-ha-chu-dong-dieu-tiet-nuoc-185261128150737508.htm",
+"summary": "Kiểm tra vận hành tại Nhà máy thủy điện Sông Ba Hạ, Chủ tịch UBND tỉnh Đắk Lắk Đỗ Hữu Huy yêu cầu điều tiết từ sớm, cảnh báo kịp thời, ưu tiên an toàn tính mạng người dân vùng hạ du.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/ba-ha-17958530530521468069212-172-0-1772-2560-crop-1795853158176595453810.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T15:41:00+07:00",
+"found": "2026-11-28T15:50:18+07:00"
+},
+{
 "id": "7427e80ed077",
 "title": "TCBS 18 năm kết nối dòng vốn Việt: Khát vọng trở thành trụ cột thị trường vốn quốc gia",
 "link": "https://cafef.vn/tcbs-18-nam-ket-noi-dong-von-viet-khat-vong-tro-thanh-tru-cot-thi-truong-von-quoc-gia-188261128144322614.chn",
@@ -233,6 +277,18 @@
 "cat": "tc",
 "published": "2026-11-28T15:30:00+07:00",
 "found": "2026-11-28T15:35:03+07:00"
+},
+{
+"id": "064e1007ee3d",
+"title": "開票",
+"link": "https://news.yahoo.co.jp/pickup/6604291",
+"summary": "台湾の統一地方選 与党の伸長焦点 (Yahoo!ニュース)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKp-Xdwke-WMHQkdhPjaDERJ4A2pcdyporDjBvjaDbIdM5Jm0kji-4Q53blY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T15:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T15:50:18+07:00"
 },
 {
 "id": "ad63852d372c",
@@ -277,6 +333,30 @@
 "cat": "tc",
 "published": "2026-11-28T15:21:00+07:00",
 "found": "2026-11-28T15:28:29+07:00"
+},
+{
+"id": "4968fb448413",
+"title": "đội tuyển bóng đá u-17 quốc gia úc",
+"link": "https://www.limapagi.id/en/shah-australia-u17-world-cup",
+"summary": "Manchester United Prospect Shah Leads Australia at U17 World Cup (Limapagi)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_re-8Y-bZTfHD3EQMUBh39bB2ry4bTaEVgbdAR_ttwxI9TPFRNAMMwjaxfDI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T15:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T15:50:18+07:00"
+},
+{
+"id": "c0e4af1b9c8c",
+"title": "central coast đấu với câu lạc bộ bóng đá auckland",
+"link": "https://www.bbc.com/sport/football/live/cr3eg5xe1832t",
+"summary": "Central Coast Mariners vs Auckland: A-League Men stats & head-to-head (BBC)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T15:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T15:50:18+07:00"
 },
 {
 "id": "9ef126e4114b",
@@ -1226,7 +1306,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T13:30:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-28T13:55:17+07:00"
 },
 {
@@ -7326,6 +7406,17 @@
 "cat": "xh",
 "published": "2026-11-27T19:27:00+07:00",
 "found": "2026-11-27T19:40:27+07:00"
+},
+{
+"id": "e6536d731c5c",
+"title": "Bộ trưởng Bộ Xây dựng kiểm tra tiến độ các dự án giao thông trọng điểm tại Thái Nguyên",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZlZnSE9teE1kakpQZHVSRHFpTlhBcU5seTlWazBSQko5NmM4Rk1CMHpMMGZYS0ZHeFlJSU1fb3U1VTVmNDFrbm1aV3lpSXU1aUx6YUJsQUhTTE0zRFJ6UGpSeW00S3B2cXlpYy12Q1JfSmV1UGVXZTl1aS14UE4weEd6TTVlWlJuZldhX2M0RmgxclVKTGdOSHpLbHl4cERjTmhZVGtNRnFmWERQZDhSRnFCNDZvTGttWFJr?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-27T19:26:59+07:00",
+"found": "2026-11-28T15:50:18+07:00"
 },
 {
 "id": "2dc5ca9d93b2",
@@ -27887,95 +27978,6 @@
 "cat": "tc",
 "published": "2026-11-26T06:36:00+07:00",
 "found": "2026-11-26T01:41:50+07:00"
-},
-{
-"id": "fcaa7b9abc5b",
-"title": "Xã vùng ven TP.HCM cắt điện cơ sở gây ô nhiễm",
-"link": "https://thanhnien.vn/xa-vung-ven-tphcm-cat-dien-co-so-gay-o-nhiem-185261125225525774.htm",
-"summary": "Xã Tân Vĩnh Lộc (TP.HCM) áp dụng biện pháp cắt điện cơ sở gây ô nhiễm môi trường để xử lý tận gốc, từng bước di dời những cơ sở này ra khỏi địa bàn.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-co-so-giat-nhuom-gay-o-nhiem-moi-truong-xa-tan-vinh-loc-tphcm-sy-dong-1795620793721830316711-0-254-1441-2560-crop-17956216579951158839992-1795621679093168474166.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-26T06:34:00+07:00",
-"found": "2026-11-26T06:47:02+07:00"
-},
-{
-"id": "edfcf1558356",
-"title": "Ashley Young bức xúc vì MU bị cướp trắng chiến thắng",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnZ4ZmRCY01HZU1aZmc2SDM0bERqOGhNbGtMRnE2aUdQMm9Ec3NSenJJMWNKbVZ6c09EZ2NnQ1NaYmtZN3dvTGJnYmx5eXl6Tm1PTnh2WGdVMGRwTXN6SC16TFhkSUloOWdDc1NJNnkwNjlvQnZQa3Vkb1BBZnZQNmFNVUE0bjFEVXkwMEtUT00?oc=5",
-"summary": "Nguồn: bongda.com.vn",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T06:32:57+07:00",
-"found": "2026-11-26T06:47:02+07:00"
-},
-{
-"id": "92ee1323c3f5",
-"title": "Tranh cãi M.U bị từ chối 1 bàn thắng hợp lệ trước Sporting",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWpVTHFUUnpwQklYaVZkbUVBbVctVmwxUFQ0NUVzeElMSkdUQVVIMU1DR3Bqc2pTZHVpOVgtRU95TmJ5anl1cEFPaHhuT1BzWFQ1cFg1cE1VQ3ZTUS1oQTNJVnNGSjh4WG5FSW5CVTdDUDlBSmRWbFN1OUMyWURUUjVibXFrVDRORVE?oc=5",
-"summary": "Nguồn: Ghiền Bóng Đá",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T06:32:39+07:00",
-"found": "2026-11-26T07:12:16+07:00"
-},
-{
-"id": "6c2d14c04a53",
-"title": "Hàng chục tỉ USD làm metro, đường sắt cao tốc, vốn dài hạn ở đâu?",
-"link": "https://thanhnien.vn/hang-chuc-ti-usd-lam-metro-duong-sat-cao-toc-von-dai-han-o-dau-185261125213601286.htm",
-"summary": "Tín dụng ngân hàng chiếm khoảng một nửa vốn cho nền kinh tế nhưng huy động chủ yếu kỳ hạn ngắn, trong khi metro, đường sắt cao tốc cần vốn dài hạn và ổn định.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-ngan-hang-vang-tien-9-17935210050001216098568-99-0-1699-2560-crop-1795617246155698804732.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-26T06:32:00+07:00",
-"found": "2026-11-26T06:47:02+07:00"
-},
-{
-"id": "ee2d9d8668f9",
-"title": "Vợ lén trèo cửa sổ bỏ đi giữa đêm, phản ứng của người chồng nằm bên cạnh gây xôn xao",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQUh0ejJyYklXUlQtU0JKU2NuLXBmUThCTVFaUGVmTDV5Y3FzWmFUTjlQY19PRjUtZ1JuQ21Eb2dEYVJ3NGZuQVkwNFN6ZDRmVmttZ19IRWNHVDZxNkphVUx2WW92VkRVUkdOTlE1TkRjXzVxOWNyUGJheTA0NmsyaEJHUmFFMjVsWk1udUFKWUtiMVJEdEtSSDdnd0ZfSEdoQlRyeFdOSUNkTktzZGRzRy0tX2h1UXRBakdhRUhBbjd0WkxMa3JwM1haTXNsZw?oc=5",
-"summary": "Nguồn: Tạp chí Saostar",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T06:30:00+07:00",
-"found": "2026-11-26T06:47:02+07:00"
-},
-{
-"id": "ffbd3599bbd3",
-"title": "youri tielemans",
-"link": "https://www.astonvilla.news/analysis/aston-villas-summer-departures-why-youri-tielemans-could-be-the-biggest-loss/",
-"summary": "Aston Villa’s summer departures: Why Youri Tielemans could be the biggest loss (Aston Villa News)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHqrTQ6wzQqmNIvZu-K8EbWJ8W8k0Ax-hN4KOqGcnaUw_7TrjBmyuihU7VQA",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T06:30:00+07:00",
-"traffic": "100+",
-"found": "2026-11-26T07:58:43+07:00"
-},
-{
-"id": "0ae54407f0a5",
-"title": "Công an phát thông báo quan trọng liên quan đến căn cước, tài khoản định danh điện tử VNeID của người dân",
-"link": "https://kenh14.vn/cong-an-phat-thong-bao-quan-trong-lien-quan-den-can-cuoc-tai-khoan-dinh-danh-dien-tu-vneid-cua-nguoi-dan-215261126062510089.chn",
-"summary": "Người dân cần chú ý khuyến cáo từ cơ quan Công an.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795649067630-17956490682551156151001.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-26T06:28:00+07:00",
-"found": "2026-11-26T06:47:02+07:00"
-},
-{
-"id": "0bbc3d468733",
-"title": "Tiệm bánh mì của ông chủ Nhật chưa từng đến Việt Nam",
-"link": "https://vnexpress.net/tiem-banh-mi-cua-ong-chu-nhat-chua-tung-den-viet-nam-5147135.html",
-"summary": "Ngay lần đầu ăn thử bánh mì Việt Nam, ông Koji Konishi đã thích lớp vỏ giòn xốp và quyết tâm mở tiệm bán món ăn này ở Nhật Bản.",
-"image": "https://vcdn1-giadinh.vnecdn.net/2026/11/21/20260819-1795164608-7071-1795234441.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MjGSw9QJ3Xn_ENPSLddTPA",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-26T06:28:00+07:00",
-"found": "2026-11-26T10:37:55+07:00"
 }
 ]
 }
