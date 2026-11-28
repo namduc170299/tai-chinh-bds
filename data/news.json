@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T18:59:27+07:00",
-"new": 9,
+"updated": "2026-11-28T19:14:57+07:00",
+"new": 11,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 20
+"count": 40
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,50 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "5a5494c6bdec",
+"title": "Nha Trang: Đường ngập như sông, người dân xúm vào đẩy ô tô chết máy",
+"link": "https://vietnamnet.vn/nha-trang-ngap-sau-sau-mua-nguoi-dan-xum-vao-day-o-to-chet-may-2579705.html",
+"summary": "Mưa lớn sáng 28/11 khiến nhiều tuyến đường ở khu vực Nha Trang (Khánh Hòa) ngập sâu, nước tràn vào nhà dân. Một số đoạn đường phải căng dây hạn chế phương tiện qua lại.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/nha-trang-duong-ngap-nhu-song-nguoi-dan-xum-vao-day-o-to-chet-may-1716.jpg?width=0&s=JKWrg_Ecx5T41ypXgQlvdQ",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T19:13:28+07:00",
+"found": "2026-11-28T14:11:05+07:00"
+},
+{
+"id": "dd22cae1ce9c",
+"title": "Nam thanh niên bị khởi tố vì ghép hình ảnh hàng xóm \"cặp bồ\" bằng ChatGPT",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0hEcWpzQVotaWt2dzFVY2dhMVBCS1NoYU1wbEpxTEJUVkluakhEN056OWJJNF9CeF9nclFlQmNTNWhkMkZER2p4eG5nYWRuSzBUbkJmZjdnSmhTT1ZIb0lORDB5cVEzTklCSVpyNTczZXFreU9NZ3BzMEMwaDkzeDR3U1oxYlNDLVVtTk9oYWx5TlZXOWh4V1RJb1BmSGFRS19JVTRBOA?oc=5",
+"summary": "Nguồn: Cổng thông tin đài tiếng nói Việt Nam",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-28T19:11:01+07:00",
+"found": "2026-11-28T19:14:57+07:00"
+},
+{
+"id": "521d9de7d533",
+"title": "Từ căn nhà tập thể cũ đến chuẩn sống mới tại đô thị",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFpWa01LbTRUZlp2VWpNcHk0NUMyUUw1RXQ1Q21QWG5zU0RjTk15bHhrdEdXQ2xLZkc1VzE2LWNFc1N5OHFVdV9aRG4wXzQtcmtEcmc2aTVUVWMtMmd4cGhFdVJmRld2TUNzQnR5REZDS25ESTlPc1pQSWRtbnZ3Wk94b3ZkNWRwYTNWcQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T19:05:26+07:00",
+"found": "2026-11-28T19:14:57+07:00"
+},
+{
+"id": "4d6f4092c7fa",
+"title": "Hai người đàn ông vượt sóng dữ cứu bé trai mắc kẹt trên biển",
+"link": "https://vietnamnet.vn/hai-nguoi-dan-ong-vuot-song-du-cuu-be-trai-mac-ket-giua-bien-2579776.html",
+"summary": "Giữa đêm mưa lớn, gió giật mạnh, hai người đàn ông ở xã đảo Tam Hải (TP Đà Nẵng) chèo thúng vượt sóng dữ, cứu bé trai 13 tuổi mắc kẹt trên thuyền máy cách bờ khoảng 100m.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/hai-nguoi-dan-ong-vuot-song-du-cuu-be-trai-mac-ket-tren-bien-2359.jpg?width=0&s=ucsFt2XA_awRgAelM_JGwg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T19:05:12+07:00",
+"found": "2026-11-28T19:14:57+07:00"
+},
+{
 "id": "c0556614478a",
 "title": "Phát hiện vật thể nghi bom trong đất đá sạt lở trên quốc lộ 15D",
 "link": "https://vietnamnet.vn/phat-hien-vat-lieu-no-tai-diem-sat-lo-tren-quoc-lo-15d-2579774.html",
@@ -220,8 +264,30 @@
 "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/phat-hien-vat-the-nghi-bom-trong-dat-da-sat-lo-tren-quoc-lo-15d-2337.jpg?width=0&s=L5vBS93TQqmwMIoqEWi9-w",
 "source": "VietnamNet",
 "cat": "xh",
-"published": "2026-11-28T18:56:57+07:00",
+"published": "2026-11-28T19:01:00+07:00",
 "found": "2026-11-28T18:59:27+07:00"
+},
+{
+"id": "b7333fe1a83b",
+"title": "Bài toán an toàn nhà chung cư từ cơ chế cải tạo đến chuẩn mực bàn giao và vận hành",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSy1aTzE4Q1hObDg0cXpUSk9LeUV5Q0pRaUVQdkhBc2x4Zk83ZExnMEVmbWR5enZjUk55WDlTbUxYYzVIWnBDLVkzem9RUUdQUW9ib0xySnRnV29DaF83cjRpMGhORXJMc0R3NGIxaWJHNXlEUjE2WjRyeEFTbHlUYlJuYXNoNERkb0Q2ZHlYSTdMR1pMUTdZU1ZzcUdKRl9QLXpGSW92RFdIZFN2X216REFUTFN4UQ?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T19:01:00+07:00",
+"found": "2026-11-28T19:14:57+07:00"
+},
+{
+"id": "b95734d8f83f",
+"title": "Đưa nông sản vùng cao xuống núi bằng thiết bị bay không người lái",
+"link": "https://vietnamnet.vn/dua-nong-san-vung-cao-xuong-nui-bang-thiet-bi-bay-khong-nguoi-lai-2578484.html",
+"summary": "Ứng dụng thiết bị bay không người lái (UAV) trong vận chuyển cà phê tại Mường Ảng (Điện Biên) đang mở ra một phương thức logistics mới, góp phần tháo gỡ khó khăn trong khâu thu gom nông sản ở những địa bàn có địa hình đồi núi, giao thông cách trở.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/dua-nong-san-vung-cao-xuong-nui-bang-thiet-bi-bay-khong-nguoi-lai-1675.jpg?width=0&s=BNmWgY2i_FbbtT7NWXlZQQ",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-28T19:00:00+07:00",
+"found": "2026-11-28T19:14:57+07:00"
 },
 {
 "id": "1a8c934b48a0",
@@ -233,6 +299,42 @@
 "cat": "xh",
 "published": "2026-11-28T18:50:03+07:00",
 "found": "2026-11-28T18:59:27+07:00"
+},
+{
+"id": "7a5117f40256",
+"title": "nhật kim anh",
+"link": "https://www.24h.com.vn/giai-tri/con-gai-nhat-kim-anh-mang-ba-dong-mau-viet-nam-italy-va-brazil-c731a1814787.html",
+"summary": "Con gái Nhật Kim Anh mang ba dòng máu Việt Nam, Italy và Brazil (Tin tức 24h)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1ToswTAl8Ove5jL3VF4aKuoxwTDS43Xx92FE9T23PulaBgWAa36X_HUJLMSw",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T18:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-28T19:14:57+07:00"
+},
+{
+"id": "c78e137dc555",
+"title": "thi đấu bóng chuyền nữ",
+"link": "https://laodong.vn/lich-thi-dau/lich-thi-dau-bong-chuyen-dai-hoi-the-thao-toan-quoc-2026-hom-nay-2811-1807755.ldo",
+"summary": "Lịch thi đấu bóng chuyền Đại hội thể thao toàn quốc 2026 hôm nay (28.11) (Laodong.vn)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu8QYbyM4Ga22HOJFRj7wycVbKAkQC-U0I7yjJ9s0MJmA942j7-ykh3ILi-zE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T18:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T19:14:57+07:00"
+},
+{
+"id": "05d49fef395b",
+"title": "hoa hậu thanh thúy",
+"link": "https://dantri.com.vn/giao-duc/hoa-hau-thanh-thuy-tro-lai-truong-cu-chia-se-xuc-dong-ve-thoi-sinh-vien-20261127122522973.htm",
+"summary": "Hoa hậu Thanh Thủy trở lại trường cũ, chia sẻ xúc động về thời sinh viên (Báo Dân trí)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNionwtHB-ITiyrRGphXHXPp2qUAyUhpNWwK0rhMpQ8NxX3yVyV1H2m3CO6pA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T18:50:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T19:14:57+07:00"
 },
 {
 "id": "99fbdde56658",
@@ -298,7 +400,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T18:40:00+07:00",
-"traffic": "2000+",
+"traffic": "5000+",
 "found": "2026-11-28T18:59:27+07:00"
 },
 {
@@ -371,6 +473,18 @@
 "found": "2026-11-28T18:43:57+07:00"
 },
 {
+"id": "5b500013d842",
+"title": "miền bắc",
+"link": "https://laodong.vn/moi-truong/du-bao-ve-khong-khi-lanh-sap-toi-va-so-ngay-ret-dam-trong-mua-dong-1803500.ldo",
+"summary": "Dự báo về không khí lạnh sắp tới và số ngày rét đậm trong mùa đông (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRV3Rr0l4vSO5sKrxfayGH-jw81wPcRKSWEGOthq1SqXX4JTTf9gLCr-M0fDro",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T18:20:00+07:00",
+"traffic": "100000+",
+"found": "2026-11-28T19:14:57+07:00"
+},
+{
 "id": "5f2ada1f0ac4",
 "title": "Hiến kế để doanh nghiệp Việt sánh vai \"đại bàng\" trong chuỗi toàn cầu",
 "link": "https://dantri.com.vn/kinh-doanh/hien-ke-de-doanh-nghiep-viet-sanh-vai-dai-bang-trong-chuoi-toan-cau-20261128161500610.htm",
@@ -380,6 +494,17 @@
 "cat": "tc",
 "published": "2026-11-28T18:16:50+07:00",
 "found": "2026-11-28T18:43:57+07:00"
+},
+{
+"id": "a84509372ac7",
+"title": "Hà Nội tăng cường chỉ đạo thi hành án dân sự: Rõ trách nhiệm, tháo gỡ điểm nghẽn, nâng cao hiệu quả",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORlhmM255ZV84OUZQR2lXbnJhUlZwbTN4MkdLcFhiV3pVNmFqOWVsOFZtLUZSazUyZzRqQWJfM2gwQ215WVVjX1ZqVXBHTk4yNERWMnZUMGI1RWJSMnVNZHhMYmRCcG9lbVUzVDdXVUQzOGNIeXVsRkY5N3FmZl84enlQcVdld0NkbHJQcVl1V1lwdHNWdV93VmhMNEU4ajh6VmlFUHJremI0dE83a3lNMUE5dUQwN040TGZKbUFVMkRaZHhobkJoMg?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T18:13:00+07:00",
+"found": "2026-11-28T19:14:57+07:00"
 },
 {
 "id": "2d44c61d64ce",
@@ -402,6 +527,17 @@
 "cat": "xh",
 "published": "2026-11-28T18:10:00+07:00",
 "found": "2026-11-28T18:17:18+07:00"
+},
+{
+"id": "dfb0e930fab9",
+"title": "Nhờ giá xăng giảm, dân Mỹ hào hứng săn sale dịp Black Friday",
+"link": "https://tuoitre.vn/nho-gia-xang-giam-dan-my-hao-hung-san-sale-dip-black-friday-10026112817391416.htm",
+"summary": "Bất chấp giá cả tăng cao, người dân Mỹ đang hào hứng đổ về các trung tâm thương mại để săn sale, trải nghiệm không khí mua sắm dịp Black Friday.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/28/ap26331409378881-1795857373808683619928-157-175-1648-2560-crop-17958642775481799717974.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-28T18:04:00+07:00",
+"found": "2026-11-28T19:14:57+07:00"
 },
 {
 "id": "220ec231d333",
@@ -2051,17 +2187,6 @@
 "source": "Thanh Niên",
 "cat": "xh",
 "published": "2026-11-28T14:07:00+07:00",
-"found": "2026-11-28T14:11:05+07:00"
-},
-{
-"id": "5a5494c6bdec",
-"title": "Nha Trang: Đường ngập như sông, người dân xúm vào đẩy ô tô chết máy",
-"link": "https://vietnamnet.vn/nha-trang-ngap-sau-sau-mua-nguoi-dan-xum-vao-day-o-to-chet-may-2579705.html",
-"summary": "Mưa lớn sáng 28/11 khiến nhiều tuyến đường ở khu vực Nha Trang (Khánh Hòa) ngập sâu, nước tràn vào nhà dân. Một số đoạn đường phải căng dây hạn chế phương tiện qua lại.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/nha-trang-duong-ngap-nhu-song-nguoi-dan-xum-vao-day-o-to-chet-may-1716.jpg?width=0&s=JKWrg_Ecx5T41ypXgQlvdQ",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-28T14:06:38+07:00",
 "found": "2026-11-28T14:11:05+07:00"
 },
 {
@@ -27852,128 +27977,6 @@
 "cat": "tc",
 "published": "2026-11-26T08:30:16+07:00",
 "found": "2026-11-26T08:40:26+07:00"
-},
-{
-"id": "4c230c607dcb",
-"title": "Lực cầu bắt đáy giúp Nasdaq thoát phiên lao dốc",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYVNyOUd3bmtZWXdFbzJTb0RtdWFTWVVib2lPcWJfNDFnN19RYk5CYW8zR2hYMk11bVd2cF9oektJVE15RzA1V0ljVHdIYzU3dzhIVEQybGRMQUlJd09yWWsySjhZSW0zV2t4ZWVIb1NOYWtwVDFKNUZfZkdEc09xczVzTHZic3M?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T08:30:00+07:00",
-"found": "2026-11-26T08:40:26+07:00"
-},
-{
-"id": "b1c75447300d",
-"title": "Mỹ nâng mức tăng trưởng GDP quý III lên 4,3%",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2VaZGNlbUhaM0k3NDF5cVBRTDRNWmZuaGRpcnk3ZWlVcjZSdEtmNzZkeU9KeEdhMW0wYklwc3RLNFA0ek1UMGVyT0ZQdmVWeWlVbGFiR1dTbmlVbWdVZFd5S3AxVENBVnBRU1pOQjhiY2tJc2ZzYlpQeFktWGI5Mkp3?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T08:30:00+07:00",
-"found": "2026-11-26T08:40:26+07:00"
-},
-{
-"id": "8649f335f49c",
-"title": "đội tuyển bóng đá u-17 quốc gia argentina",
-"link": "https://www.24h.com.vn/bong-da/video-bong-da-u17-dan-mach-u17-argentina-kich-ban-khong-tuong-u17-world-cup-c48a1814098.html",
-"summary": "Video bóng đá U17 Đan Mạch – U17 Argentina: Kịch bản không tưởng (U17 World Cup) (Tin tức 24h)",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_XguDIUXe-qvtilhtpKQNBwzB_pdpfQIhN3nZgfqI1zbTrPD33m9caF7ZxtU",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T08:30:00+07:00",
-"traffic": "2000+",
-"found": "2026-11-26T08:55:37+07:00"
-},
-{
-"id": "dedc9a11a198",
-"title": "Chứng khoán Mỹ diễn biến trái chiều: Dow Jones phục hồi ngoạn mục, Nasdaq và S&P 500 tiếp đà giảm",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQallSMFdKWGZLVHNjM3VQUS1wWFlXTzQ0YTN1M2lYbjJaR3NYQ3Z1X2xldTF5aDNkVTFaZnc2bEQxLVEwaHhQX2pIV2dQbVZtMG5pYk82TVUxTXB0OFpjbEN2d0ZGWUtSMi1MWUNvUXE2bm9KWDIwNzI0b09heHZqM0h5SU9tVXZsUi1aZDZINEdTTG1SNFNYNDA2UWo5X0ZQdUQteFNUWFhZWHlfcFVmX1JDTTM1M0FiSjZ4M1Y5R2ZxbTg0MEhJ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T08:30:00+07:00",
-"found": "2026-11-26T09:31:26+07:00"
-},
-{
-"id": "740d5a8bdaa4",
-"title": "Dầu thế giới bật tăng, giá xăng trong nước chiều nay điều chỉnh",
-"link": "https://dantri.com.vn/kinh-doanh/dau-the-gioi-bat-tang-gia-xang-trong-nuoc-chieu-nay-dieu-chinh-20261126081521065.htm",
-"summary": "(Dân trí) - Giá dầu thế giới bật tăng sau khi giảm xuống mức thấp nhất 3 tháng. Chiều 26/11, giá xăng dầu trong nước tiếp tục kỳ điều chỉnh mới sau khi đã trải qua nhiều phiên giảm liên tiếp từ đầu tháng 11.",
-"image": "https://cdnphoto.dantri.com.vn/KtaVpmDO2fX5U19_nKT7KI7y_-U=/2026/11/26/images-14-cropped-1795655583159.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-26T08:29:48+07:00",
-"found": "2026-11-26T08:55:37+07:00"
-},
-{
-"id": "f0c06d2eb604",
-"title": "Giá vàng thế giới chật vật tìm động lực phục hồi",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmlQcUhRZ2RPLWpyYVMtbWdXdFBocFhteXA5R1NKZDd0NHppQWhCZTl5bXZvejdvdDFhX3JOLXJYekZZV2FUS2xDTG1mNUdHZE9aMlBNTjl2MTc3VDdqRUNjYkZjWnp0b1hZNUF5YmlPclY2d3JzcmYyelQtYkcxNzhrN1BZV2Zj?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T08:27:22+07:00",
-"found": "2026-11-26T08:40:26+07:00"
-},
-{
-"id": "e7f82b58d50c",
-"title": "AU và OECD: Vay nợ để đầu tư sản xuất có thể giúp châu Phi giảm gánh nặng nợ",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVW5laHVaV3Vfcm5pYmZyWEdqQWRSejcteU1TZUlTNUFoR2c5ZkFreHhqN1dKRGJseXpEcWtqOEpDRWZjODFGVzBYRlpUSVJTRFNiaG94anVTN0JvRjNQTm96UzJUQXdoSUVubWJfaEEyekV3bnJwYkIweEpUVlRhOGhCamRqU0ZXWTlmcDQzSzBnQU9FaGJ5V0V6Q1JvY3VwR1BrTnNOQnJSRURu?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-26T08:27:00+07:00",
-"found": "2026-11-26T08:40:26+07:00"
-},
-{
-"id": "a42aac51d09c",
-"title": "Dự báo thời tiết 26/11/2026: Không khí lạnh dần suy yếu, miền Bắc nắng trở lại",
-"link": "https://vietnamnet.vn/du-bao-thoi-tiet-26-11-2026-khong-khi-lanh-giam-mien-bac-nang-2572289.html",
-"summary": "Không khí lạnh suy yếu dần, miền Bắc nắng trở lại, nhiệt độ tăng nhưng trời vẫn rét. Trung Bộ giảm mưa trước khi đón đợt mưa lớn diện rộng vào những ngày cuối tháng 11. VietNamNet cập nhật những diễn biến mới nhất về thời tiết trên cả nước.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/2026-khong-khi-lanh-dan-suy-yeu-mien-bac-nang-tro-lai-6432.jpg?width=0&s=VKEOobuUwuEFGN5k22Dt0w",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-26T08:25:43+07:00",
-"found": "2026-11-26T05:21:21+07:00"
-},
-{
-"id": "5e23b7390122",
-"title": "Cửa ngõ TP.HCM sẽ có 'siêu nút giao' với 7 nhánh cầu vượt, hầm chui mới",
-"link": "https://thanhnien.vn/cua-ngo-tphcm-se-co-sieu-nut-giao-voi-7-nhanh-cau-vuot-ham-chui-moi-185261126000408752.htm",
-"summary": "Nút giao ngã tư Vũng Tàu sẽ được xây dựng thành nút giao đa tầng, tổng cộng có 7 nhánh được xây mới biến cửa ngõ vào TP.HCM thành 'siêu nút giao'.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-dji0108-1795626844373497639129-0-216-1440-2520-crop-17956269532802139219225.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-26T08:24:00+07:00",
-"found": "2026-11-26T08:25:16+07:00"
-},
-{
-"id": "7d8905886ff1",
-"title": "Cửa ngõ vào TP.HCM sẽ có 'siêu nút giao' với 7 nhánh cầu vượt, hầm chui mới",
-"link": "https://thanhnien.vn/cua-ngo-vao-tphcm-se-co-sieu-nut-giao-voi-7-nhanh-cau-vuot-ham-chui-moi-185261126000408752.htm",
-"summary": "Nút giao ngã tư Vũng Tàu sẽ được xây dựng thành nút giao đa tầng, tổng cộng có 7 nhánh được xây mới biến cửa ngõ vào TP.HCM thành 'siêu nút giao'.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-dji0108-1795626844373497639129-0-216-1440-2520-crop-17956269532802139219225.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-26T08:24:00+07:00",
-"found": "2026-11-26T08:40:26+07:00"
-},
-{
-"id": "9d2a1277ce5d",
-"title": "Đánh người tử vong vì cho rằng \"xen vào chuyện riêng\"",
-"link": "https://dantri.com.vn/phap-luat/danh-nguoi-tu-vong-vi-cho-rang-xen-vao-chuyen-rieng-20261125183540528.htm",
-"summary": "(Dân trí) - Cho rằng anh T. can thiệp vào chuyện riêng, An đã đánh liên tiếp vào người nạn nhân. Anh T. được đưa đi cấp cứu nhưng đã tử vong trước khi kịp đến bệnh viện.",
-"image": "https://cdnphoto.dantri.com.vn/haLotIVDGywoAu-MmH48CNP1e8E=/2026/11/25/dtbao-ky-edited-1795606183561.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-26T08:22:31+07:00",
-"found": "2026-11-26T08:55:37+07:00"
 }
 ]
 }
