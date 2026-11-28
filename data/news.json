@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T07:04:52+07:00",
-"new": 19,
+"updated": "2026-11-28T07:12:48+07:00",
+"new": 5,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 26
+"count": 44
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,17 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "d91db664694e",
+"title": "Cải tạo chung cư cũ, cư dân có thêm lựa chọn bồi thường",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2x0Y0VvUi1VR0g0Q3ZmcDFIZUEzemxSQ3dNbUlnRXo2cGZYVkRzZmlQeWdCSFVIVGJTOFpCYldyRGZnVk5nSjV1c01ud1RkQVRJR3Z2SUdvQTNaZkowYWpPOFk3ZHBVYWZra1FJTVNDRnRCcmFZajlHME9ueWFJcGdObThHU21CaUljTVh3dTU?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T07:08:00+07:00",
+"found": "2026-11-28T07:12:48+07:00"
+},
+{
 "id": "edde41b414d0",
 "title": "Tỷ giá USD hôm nay (28-11): Đồng USD giữ đà tăng",
 "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTNVanFYSzJsVGYwSk5tWk1tUldvQzVYQmxDNjFiUlNQMm52Z2FYTWhiWklYR3R4S3NwRWtIbGMwQUlBbzVwWWhDRmlRb3AwZWdXeUxOMzFXV1N6bjF2anltMHNFc3RSUG92SXMtUHdhQ3Y4NkxKVXBDMTNnQ0lJZ0R3Y2o?oc=5",
@@ -235,6 +246,17 @@
 "found": "2026-11-28T07:04:52+07:00"
 },
 {
+"id": "0a363618b826",
+"title": "Bắt tạm giam Master Anh Đức: Người quảng bá khóa học làm giàu gần 1,5 tỷ đồng, tự giới thiệu huấn luyện 20.000 doanh nhân",
+"link": "https://kenh14.vn/bat-tam-giam-master-anh-duc-nguoi-quang-ba-khoa-hoc-lam-giau-gan-15-ty-dong-tu-gioi-thieu-huan-luyen-20000-doanh-nhan-215261127234114319.chn",
+"summary": "Master Anh Đức vừa bị Công an TP Hải Phòng khởi tố về hành vi trốn thuế hơn 1,2 tỷ đồng. Quá trình kinh doanh khóa học và sách, Đức đã bỏ ngoài sổ sách doanh thu hơn 7,6 tỷ đồng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795797627346-17957976277051762745365.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T06:56:00+07:00",
+"found": "2026-11-28T07:12:48+07:00"
+},
+{
 "id": "e15dbffcf6b5",
 "title": "Hà Nội phát thông báo quan trọng đến hơn 80.000 người lao động đang hưởng lương hưu: Người dân cần lưu ý để tránh lỡ quyền lợi!",
 "link": "https://kenh14.vn/ha-noi-phat-thong-bao-quan-trong-den-hon-80000-nguoi-lao-dong-dang-huong-luong-huu-nguoi-dan-can-luu-y-de-tranh-lo-quyen-loi-215261128002520259.chn",
@@ -244,6 +266,17 @@
 "cat": "xh",
 "published": "2026-11-28T06:55:00+07:00",
 "found": "2026-11-28T07:04:52+07:00"
+},
+{
+"id": "0bae9b2cb55f",
+"title": "Master Anh Đức dạy \"làm giàu\" bị khởi tố: Hé lộ hệ sinh thái doanh nghiệp",
+"link": "https://dantri.com.vn/kinh-doanh/master-anh-duc-day-lam-giau-bi-khoi-to-he-lo-he-sinh-thai-doanh-nghiep-20261128013506689.htm",
+"summary": "(Dân trí) - Nguyễn Anh Đức, được biết đến với tên gọi Master Anh Đức, điều hành nhiều doanh nghiệp trong lĩnh vực đào tạo, bất động sản và từng quảng bá khóa học làm giàu có giá niêm yết gần 1,5 tỷ đồng.",
+"image": "https://cdnphoto.dantri.com.vn/T8yKr7-k2AxpZYBnq2L7X9uoNMY=/2026/11/28/4807019216137478747309531086977251343212416n-edited-edited-1795804147068.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-28T06:52:57+07:00",
+"found": "2026-11-28T07:12:48+07:00"
 },
 {
 "id": "8cc4d225f0a9",
@@ -309,7 +342,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T06:40:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-28T07:04:52+07:00"
 },
 {
@@ -379,6 +412,17 @@
 "cat": "xh",
 "published": "2026-11-28T06:30:00+07:00",
 "found": "2026-11-28T07:04:52+07:00"
+},
+{
+"id": "b7bb1eb65b7e",
+"title": "Xét xử \"đại gia điếu cày\" Lê Thanh Thản: Tòa phán quyết hợp tình, hợp lý",
+"link": "https://dantri.com.vn/phap-luat/xet-xu-dai-gia-dieu-cay-le-thanh-than-toa-phan-quyet-hop-tinh-hop-ly-20261127211145678.htm",
+"summary": "(Dân trí) - Đồng tình với phán quyết của tòa, các cư dân CT6 Kiến Hưng kỳ vọng quyền lợi chính đáng của mình sẽ sớm được bảo đảm sau 13 năm mòn mỏi chờ đợi.",
+"image": "https://cdnphoto.dantri.com.vn/D253oXA3nO2v4181TTPQi5ET2vI=/2026/11/26/lethanhthan6-1795677381486.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-28T06:30:00+07:00",
+"found": "2026-11-28T07:12:48+07:00"
 },
 {
 "id": "ec263c310e05",
@@ -1755,6 +1799,17 @@
 "cat": "mxh",
 "published": "2026-11-27T21:00:00+07:00",
 "found": "2026-11-27T21:44:33+07:00"
+},
+{
+"id": "d72da1b0d60a",
+"title": "Công an Phú Tho thông tin vụ người phụ nữ đi bán rau bị chuốc thuốc",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzhaQTJhWkl2WHBYNVBYdG4xZFQ1Mm92dVhocmJsTXlZSnNNWDNkSFFJczF5eVZTNVhEWXVVQmFQWnpYV0M3MmlsQXViWG1DZ2hxTHJKamtNNlFZcTI4STh6SlJzXzJBaGZpRk0zVEJ2TWxpNkdCckVIUWg3MnNGTHN2akRuOUFLWVUycWdMb2o1MjZFMzNDRkxzbG84eHExRjE1RE9TQzhiZms5QkJpR0NzOVl6Z2FNeXRiZTV5bHZMT3ZNZFY4UmQxMmo?oc=5",
+"summary": "Nguồn: Tạp chí Saostar",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-27T21:00:00+07:00",
+"found": "2026-11-28T07:12:48+07:00"
 },
 {
 "id": "720dddd15982",
@@ -27985,61 +28040,6 @@
 "cat": "xh",
 "published": "2026-11-25T16:17:00+07:00",
 "found": "2026-11-25T17:29:38+07:00"
-},
-{
-"id": "c296be36778d",
-"title": "Khởi tố 37 đối tượng giả danh chủ đầu tư dự án nhà ở xã hội, chiếm đoạt hơn 150 tỉ đồng",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNzhYT2RzMWZ0NUZTNlE2RWdscTlWWWVQMmpnWnpLdVA4cS0xUHJqY18xSnFkcGdqdXhTbk1NaHZweEstU25PTjBlaERtN2I2V1V4Rm5qdkxBd2ZSSm1DUmpPUDEtd3dpaHp4b1VULXdlOXdNSEdDcktUcjBrVE1zZ0lVUXEwUWVJREY2LWVaMnBuM05JQVRfRUNUZmVFcHo0WUtrS21HcmEwMVpYS2g2cm9tenE3eGJCWm5J?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T16:16:00+07:00",
-"found": "2026-11-25T16:46:44+07:00"
-},
-{
-"id": "45280704d245",
-"title": "Trực thăng 8,6 tấn bay xuyên đêm 9 tiếng ra Trường Sa: 4.000 mã lực, tốc độ 294 km/h, thuộc công ty doanh thu 2.500 tỷ đồng của Bộ Quốc phòng",
-"link": "https://kenh14.vn/truc-thang-86-tan-bay-xuyen-dem-9-tieng-ra-truong-sa-4000-ma-luc-toc-do-294-km-h-thuoc-cong-ty-doanh-thu-2500-ty-dong-cua-bo-quoc-phong-215261125162248318.chn",
-"summary": "Chiếc máy bay trực thăng do Italy sản xuất vừa cất cánh đến Trường Sa.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795598473460-17955984745631366987288.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-25T16:15:00+07:00",
-"found": "2026-11-25T16:31:33+07:00"
-},
-{
-"id": "29fd4c1a3381",
-"title": "Khởi tố 37 người giả danh chủ đầu tư nhà ở xã hội, chiếm đoạt hơn 150 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUENLZUx3ejNLampCcnN2UlRfXzZJbFBFVFA5S0cxX2RsYnNuaW5PRE9uWDlKVUVXSDVROVo2UVpyS3FMdXVvQWw5cEt2Z0JSbS1lRGZFMjBRYVFxUGZIbmdpT3R1NVk0V2paX2s2NWFTRjNseERJRE1rb29QejdWWTQtN0Q3RHRYMkMtakJLVXlkRUIwZVkxQ2VHUk1YRHAyN3U4dl93alc4cGtGcEE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T16:13:51+07:00",
-"found": "2026-11-25T16:46:44+07:00"
-},
-{
-"id": "26018efc9696",
-"title": "Phát hiện người đàn ông mặc trang phục công an, đi xe Wave gắn biển số 99999 viết tay ở Phú Thọ: Cơ quan chức năng phát đi cảnh báo",
-"link": "https://kenh14.vn/phat-hien-nguoi-dan-ong-mac-trang-phuc-cong-an-di-xe-wave-gan-bien-so-99999-viet-tay-o-phu-tho-co-quan-chuc-nang-phat-di-canh-bao-215261125151900278.chn",
-"summary": "Công an xã Bình Xuyên phát hiện người đàn ông mặc trang phục Công an nhân dân, đi xe máy gắn biển xanh viết tay trên đường phố Phú Thọ và khuyến cáo người dân cảnh giác trước các trường hợp có dấu hiệu giả mạo lực lượng chức năng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795594675795-17955946761622123149368.png",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-25T16:12:00+07:00",
-"found": "2026-11-25T16:31:33+07:00"
-},
-{
-"id": "a4eb80281032",
-"title": "Kiện vợ vì phát hiện cả 3 con gái không cùng huyết thống",
-"link": "https://vnexpress.net/kien-vo-vi-phat-hien-ca-3-con-gai-khong-cung-huyet-thong-5148811.html",
-"summary": "Nghi vợ ngoại tình, người đàn ông họ Ngụy xét nghiệm ADN cho kết quả cả ba con gái đều không cùng huyết thống nên khởi kiện, yêu cầu ly hôn và bồi thường.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/image-1795596044-6186-1795596690.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NB0G7eIXa41Jd4fyZ8uZKg",
-"source": "VnExpress",
-"cat": "xh",
-"published": "2026-11-25T16:11:15+07:00",
-"found": "2026-11-25T16:31:33+07:00"
 }
 ]
 }
