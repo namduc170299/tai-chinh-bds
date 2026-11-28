@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T16:05:27+07:00",
-"new": 11,
+"updated": "2026-11-28T16:20:38+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 41
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "62211dcb2ed9",
+"title": "Đang đào móng xây nhà ở Nghệ An, máy xúc bất ngờ va phải vật cứng, thứ chứa bên trong nặng gần 10kg",
+"link": "https://kenh14.vn/dang-dao-mong-xay-nha-o-nghe-an-may-xuc-bat-ngo-va-phai-vat-cung-thu-chua-ben-trong-nang-gan-10kg-215261128155418219.chn",
+"summary": "Trong lúc đào móng xây nhà, một gia đình ở Nghệ An bất ngờ phát hiện bí mật ngay trên mảnh đất tổ tiên để lại.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795856003186-17958560035421249244127.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T16:11:00+07:00",
+"found": "2026-11-28T16:20:38+07:00"
+},
+{
+"id": "88d4f69a89e3",
+"title": "Quảng Ninh mở rộng cơ hội khởi nghiệp đổi mới sáng tạo cho thanh niên",
+"link": "https://thanhnien.vn/quang-ninh-mo-rong-co-hoi-khoi-nghiep-doi-moi-sang-tao-cho-thanh-nien-18526112816020149.htm",
+"summary": "Thanh niên Quảng Ninh sẽ có thêm cơ hội tiếp cận chuyên gia, nhà đầu tư, công nghệ và thị trường thông qua chương trình hỗ trợ khởi nghiệp đổi mới sáng tạo giai đoạn 2026 - 2028.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/edit-img-4486-1795856362873708135944-0-0-1123-1797-crop-17958564404951420576480.jpeg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-28T16:10:00+07:00",
+"found": "2026-11-28T16:20:38+07:00"
+},
+{
+"id": "4e10c27e91ea",
+"title": "TP HCM muốn giãn dân, mỗi cực đô thị phải tạo việc làm",
+"link": "https://vnexpress.net/tp-hcm-muon-gian-dan-moi-cuc-do-thi-phai-tao-viec-lam-5150008.html",
+"summary": "Quy hoạch đa cực chỉ hiệu quả khi mỗi khu vực mới có việc làm, dịch vụ và hạ tầng đủ sức giữ chân cư dân, thay vì chỉ tạo thêm nơi ở, theo chuyên gia.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/DJI-0945-6620-1795855446.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0fFUWEUyBfxiK96F9PQsxw",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-28T16:04:38+07:00",
+"found": "2026-11-28T16:20:38+07:00"
+},
+{
 "id": "dea2130718d2",
 "title": "Truy tìm người đàn ông bị truy nã trong vụ hiếp dâm trẻ em 21 năm trước",
 "link": "https://vietnamnet.vn/vinh-long-truy-tim-bi-can-hiep-dam-tre-em-tron-truy-na-21-nam-2579746.html",
@@ -235,6 +268,28 @@
 "found": "2026-11-28T16:05:27+07:00"
 },
 {
+"id": "8821f3305981",
+"title": "Ông Phạm Nhật Vượng đón tin vui từ Thuỵ Sĩ: Cả thế giới chỉ 6 \"cái tên\" làm được",
+"link": "https://kenh14.vn/ong-pham-nhat-vuong-don-tin-vui-tu-thuy-si-ca-the-gioi-chi-6-cai-ten-lam-duoc-215261128160103274.chn",
+"summary": "Đây là lần thứ hai đơn vị của ông Phạm Nhật Vượng được vinh danh tại giải thưởng này, sau lần đầu tiên vào năm 2023.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795856448881-17958564490951605419060.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T15:59:00+07:00",
+"found": "2026-11-28T16:20:38+07:00"
+},
+{
+"id": "f0a8bc68d70b",
+"title": "Quỹ của vợ chồng tỷ phú Phạm Nhật Vượng quyết xây thêm 1 cây cầu ở vùng biên giới: Dài hơn 82 m, tuổi thọ thiết kế 100 năm",
+"link": "https://kenh14.vn/quy-cua-vo-chong-ty-phu-pham-nhat-vuong-quyet-xay-them-1-cay-cau-o-vung-bien-gioi-dai-hon-82-m-tuoi-tho-thiet-ke-100-nam-215261128160429946.chn",
+"summary": "Quỹ Thiện Tâm thuộc Tập đoàn Vingroup đã tài trợ 25 tỷ đồng, chiếm gần 65% tổng mức đầu tư của công trình.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/28/avatar1795856533990-17958565347711671165446.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T15:58:00+07:00",
+"found": "2026-11-28T16:20:38+07:00"
+},
+{
 "id": "2b8b0448fefc",
 "title": "66 doanh nghiệp nợ gần 1.300 tỉ đồng tiền thuế",
 "link": "https://thanhnien.vn/66-doanh-nghiep-no-gan-1300-ti-dong-tien-thue-185261128153619632.htm",
@@ -254,7 +309,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T15:50:00+07:00",
-"traffic": "100000+",
+"traffic": "500+",
 "found": "2026-11-28T16:05:27+07:00"
 },
 {
@@ -402,6 +457,17 @@
 "cat": "bds",
 "published": "2026-11-28T15:24:05+07:00",
 "found": "2026-11-28T15:35:03+07:00"
+},
+{
+"id": "ad962cdae728",
+"title": "Mưa như trút ở Quảng Ngãi, sạt lở bủa vây khu dân cư, sạt mố cầu",
+"link": "https://tuoitre.vn/mua-nhu-trut-o-quang-ngai-sat-lo-bua-vay-khu-dan-cu-sat-mo-cau-10026112814340054.htm",
+"summary": "Mưa lớn kéo dài khiến nhiều khu vực ở Quảng Ngãi sạt lở nặng, làm hư hỏng hàng loạt tuyến giao thông và uy hiếp nhà dân.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/28/mua-nhu-trut-o-quang-ngai-sat-lo-bua-vay-khu-dan-cu-sat-mo-cau-5-17958507201301584418325-0-0-666-1066-crop-1795851092399313825405.jpg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-28T15:22:00+07:00",
+"found": "2026-11-28T16:20:38+07:00"
 },
 {
 "id": "c5fc0e5c3f7f",
@@ -810,7 +876,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T15:00:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-28T15:28:29+07:00"
 },
 {
@@ -1262,7 +1328,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T14:00:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-28T14:42:54+07:00"
 },
 {
@@ -27909,73 +27975,6 @@
 "cat": "xh",
 "published": "2026-11-26T07:00:00+07:00",
 "found": "2026-11-25T08:20:48+07:00"
-},
-{
-"id": "9f20f80d1eda",
-"title": "Hùng phát hiện bí mật của bố | Căn nhà không mái che | Tập 16",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDUFdWM0NkcjRGOTYtNWtMeENpOHdaQWtzM1g5RUNvMU5VenJkMnRPUkt4VWgyanEtd2plc19wQ2E?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-25T10:17:50+07:00"
-},
-{
-"id": "8df08ff1dff8",
-"title": "Thịt bò giả ngâm hóa chất: Nguy hại sức khỏe khó lường",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5ndGZvak5yY1YtRHNDMkVOeDJGdXBKQ1p0eVBFWkgwZEhRWmZPbjRMS3VwRTF2NWlDM1A3cGZCTEY?oc=5",
-"summary": "Nguồn: VTVgo",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-26T07:00:00+07:00",
-"found": "2026-11-27T10:36:16+07:00"
-},
-{
-"id": "ba1f096b4fca",
-"title": "Xe bồn biến đoạn đường vành đai thành biển lửa, 31 người chết",
-"link": "https://vnexpress.net/xe-bon-bien-doan-duong-vanh-dai-thanh-bien-lua-31-nguoi-chet-5148949.html",
-"summary": "Ít nhất 31 người thiệt mạng khi một xe bồn chở các sản phẩm dầu mỏ bị lật rồi bốc cháy dữ dội trên đường vành đai ở tỉnh Giza.",
-"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/OpenSourceIntelonXMOREFOOTAGEA-8219-3560-1795650120.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=o3ZJ03EO77DJEclKMN-WHg&t=image",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-26T06:55:27+07:00",
-"found": "2026-11-26T10:37:55+07:00"
-},
-{
-"id": "18d93807b83c",
-"title": "Nhà máy tại Việt Nam của đại gia điện mặt trời Trung Quốc JinkoSolar: Doanh thu gần 18.000 tỷ nhưng lỗ 750 tỷ đồng trong 9 tháng",
-"link": "https://kenh14.vn/nha-may-tai-viet-nam-cua-dai-gia-dien-mat-troi-trung-quoc-jinkosolar-doanh-thu-gan-18000-ty-nhung-lo-750-ty-dong-trong-9-thang-215261125232753778.chn",
-"summary": "Tập đoàn Jinko Solar đến từ Trung Quốc là một tên tuổi hàng đầu thế giới trong sản xuất quang năng, từng chọn tỉnh Quảng Ninh để đặt 3 nhà máy với tổng đầu tư hơn 2,5 tỷ USD.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795623600730-179562360115821817367.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-26T06:53:00+07:00",
-"found": "2026-11-26T07:12:16+07:00"
-},
-{
-"id": "266f48110367",
-"title": "club brugge vs liverpool f.c. standings",
-"link": "https://www.skysports.com/football/news/13616517/club-brugge-0-3-liverpool-alexander-isak-and-florian-wirtz-on-target-in-dominant-champions-league-win",
-"summary": "Club Brugge 0-3 Liverpool: Alexander Isak and Florian Wirtz on target in dominant Champions League win (Sky Sports)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVNFryGvCbki0clUGgF7nLQwXJKjIc2Lh28ZQyNbPW0j_kWU1yKTYKkiJ3aBw",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T06:50:00+07:00",
-"traffic": "200+",
-"found": "2026-11-26T07:12:16+07:00"
-},
-{
-"id": "3174bc089177",
-"title": "Toàn cảnh đường vành đai Hà Nội: Tuyến đã khép kín, tuyến còn dang dở",
-"link": "https://dantri.com.vn/bat-dong-san/toan-canh-duong-vanh-dai-ha-noi-tuyen-da-khep-kin-tuyen-con-dang-do-20261126014020516.htm",
-"summary": "(Dân trí) - Bên cạnh Vành đai 1 và 2 đã cơ bản hình thành, Hà Nội đang đẩy nhanh tiến độ Vành đai 3, 4, 5 cùng hai tuyến hỗ trợ 2,5 và 3,5 nhằm mở rộng không gian phát triển cho Thủ đô.",
-"image": "https://cdnphoto.dantri.com.vn/Tt2hNZgyjg3AEsCLvdmMB5jcUWs=/2026/11/26/toan-canh-duong-vanh-dai-ha-noi-tuyen-da-khep-kin-tuyen-con-dang-do-cropped-1795631915791.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-26T06:44:35+07:00",
-"found": "2026-11-26T07:12:16+07:00"
 }
 ]
 }
