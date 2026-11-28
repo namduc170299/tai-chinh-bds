@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T12:56:28+07:00",
-"new": 16,
+"updated": "2026-11-28T13:11:37+07:00",
+"new": 8,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 43
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,72 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "cb5c36279f3a",
+"title": "Mưa lũ làm ngập 1.691 nhà dân, nhiều nơi ở Quảng Ngãi sạt lở nghiêm trọng",
+"link": "https://thanhnien.vn/mua-lu-lam-ngap-1691-nha-dan-nhieu-noi-o-quang-ngai-sat-lo-nghiem-trong-185261128123008831.htm",
+"summary": "Mưa lớn khiến lũ trên các sông ở Quảng Ngãi lên nhanh, hàng ngàn nhà dân bị ngập, nhiều tuyến đường sạt lở. Chính quyền đã di dời 83 hộ dân vùng ngập và 12 hộ ở khu vực nguy cơ sạt lở.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/img5930-17958428682981158975719-110-0-955-1352-crop-17958434899111061996091.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T13:07:00+07:00",
+"found": "2026-11-28T13:11:37+07:00"
+},
+{
+"id": "84daa8a624c3",
+"title": "Yua Mikami tiết lộ từng hai lần bị quấy rối khi chụp ảnh, bức xúc trước hành vi quá giới hạn của một người",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVQ4dFNGOXdDREItbUpVTmE4aC1JRjB6RFAwZGZwZXJNckpDaXpQQ0FFUGxkYW5oUWxvbmdGLUdjNGYxdEM0bFJiXzdMcmJDcG1JZnBpSGxMUHpDV1ZaeEw5Y19oaHF4S2M2NmNzbGUwOUwyVjFwNUtRa0JxLVNBMUlGVl9UaW5RVTdzVkxCNEJ5dXFPRU5pOGFaXzVfVDVzUXl3VHNCQzBpa0lXOTBqS3B5Y2VfYkNxYXBaZEdBS2VFbkRWcTlGbmhJRHNlaUtrb2FVVDlxZWNDdw?oc=5",
+"summary": "Nguồn: Phụ nữ Mới",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-28T13:05:00+07:00",
+"found": "2026-11-28T13:11:37+07:00"
+},
+{
+"id": "feb89ec09035",
+"title": "Đổi cây trồng, liên kết sản xuất, nông dân Điện Biên &apos;hái ra tiền&apos; trên đất dốc",
+"link": "https://vietnamnet.vn/doi-cay-trong-nong-dan-dien-bien-hai-ra-tien-tren-dat-doc-2579289.html",
+"summary": "Từ những nương quế xanh tốt đến vùng chè, cà phê, dứa hàng hóa, nông dân Điện Biên đang thay đổi cách sản xuất, khai thác hiệu quả đất đai. Các mô hình liên kết với hợp tác xã cũng mở ra cơ hội nâng cao thu nhập, giảm nghèo bền vững.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/doi-cay-trong-lien-ket-san-xuat-nong-dan-dien-bien-hai-ra-tien-tren-dat-doc-1662.jpg?width=0&s=wPnxfMalc6LZYrINklwqmw",
+"source": "VietnamNet",
+"cat": "tc",
+"published": "2026-11-28T13:00:00+07:00",
+"found": "2026-11-28T13:11:37+07:00"
+},
+{
+"id": "9ce097f69915",
+"title": "Ngân hàng mở rộng dịch vụ tài chính cho doanh nghiệp FDI",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamlPVHdPQ1ZHRHpIek1RdmhwUXlWU3BPZWQ4MG9ySU4ydElKTW1LSjVkTV9YX0ZnekdwTzJkQWlsN05HNFhGTzZOSHMxeE96LUVIeE1JOVl1c1I4a3FEOHNMWWRKT01iNS1lZXRvcU9EcG5uRzhfS1dtaUxpemlWcXZVWHhPeTE2OEcyaHU4cnExZzA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-28T12:56:25+07:00",
+"found": "2026-11-28T13:11:37+07:00"
+},
+{
+"id": "5ac8c24275de",
+"title": "Mưa lớn kéo dài, nhiều tuyến đường ở phố biển Nha Trang ngập cục bộ",
+"link": "https://thanhnien.vn/mua-lon-keo-dai-nhieu-tuyen-duong-o-pho-bien-nha-trang-ngap-cuc-bo-185261128120212228.htm",
+"summary": "Mưa lớn kéo dài từ đêm đến sáng khiến nhiều tuyến đường ở Nha Trang (Khánh Hòa) ngập cục bộ, người dân di chuyển khó khăn.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/tnw-179584075840115699653243335754747601869456210601860b6c94aa021f93f5f951a9209c1d1639d-17958416944011756879218-103-0-1703-2560-crop-17958417033912006025026.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T12:56:00+07:00",
+"found": "2026-11-28T13:11:37+07:00"
+},
+{
+"id": "fc981e55e64e",
+"title": "Người dân tham quan dự án ngăn triều gần 10.000 tỉ đồng tại TP Hồ Chí Minh",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkJab2F5TFRpREtSNmJySHVPZGtxdUR1N3ZCNnoxSkFiOVpKX3o4bENZNTFCRHhRV2c1VTdwNXVfVjdfUzdpZWVkYmxMRmVZWWZFWTV3bklzNXh3UGl4al9NVHdNNkpqR3JfeThUUVZnMEJ5TmtSbmNXejF6MzNOMkNvZnRaM1h1NTZvb3ZrUFp3VXh2NHJfeEYxNlRPZjBmeFNGMDhPdlR3dEU?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "bds",
+"published": "2026-11-28T12:54:00+07:00",
+"found": "2026-11-28T13:11:37+07:00"
+},
 {
 "id": "1e51aaaeaf5b",
 "title": "Người lính bất ngờ trở về sau hàng chục năm gia đình nhận giấy báo tử",
@@ -315,6 +381,18 @@
 "found": "2026-11-28T12:56:28+07:00"
 },
 {
+"id": "a33e3cf11746",
+"title": "vissel kobe đấu với jef united",
+"link": "https://bongda24h.vn/nhan-dinh-bong-da/du-doan-vissel-kobe-vs-jef-united-hom-nay-344-465707.html",
+"summary": "Nhận định bóng đá Vissel Kobe vs JEF United 13h00 ngày 28/11 (VĐQG Nhật Bản 2026/27) (Bongda24h)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqgHY8jcbJcA2ScNoc7RPWyhrPW_6M1oM_MA1M9RwgVKwBkr9zFk_22tu3CKE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T12:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T13:11:37+07:00"
+},
+{
 "id": "461936be4b3b",
 "title": "Việt Nam được Moody's nâng xếp hạng tín nhiệm lên mức Ba1, tiến sát ngưỡng Đầu tư",
 "link": "https://cafef.vn/viet-nam-duoc-moodys-nang-xep-hang-tin-nhiem-len-muc-ba1-tien-sat-nguong-dau-tu-188261128122236955.chn",
@@ -380,6 +458,17 @@
 "cat": "xh",
 "published": "2026-11-28T12:11:00+07:00",
 "found": "2026-11-28T12:26:10+07:00"
+},
+{
+"id": "92d81c7e53fa",
+"title": "Đề nghị tăng chuyến bay đến Gia Lai phục vụ chuỗi sự kiện APEC",
+"link": "https://tuoitre.vn/de-nghi-tang-chuyen-bay-den-gia-lai-phuc-vu-chuoi-su-kien-apec-100261128111214727.htm",
+"summary": "Tỉnh Gia Lai đề nghị các hãng hàng không tăng cường khai thác chuyến bay đến và đi từ Cảng Hàng không Phù Cát trong thời gian tổ chức Hội nghị không chính thức các quan chức cấp cao APEC 2017 (ISOM).",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/28/20261128-phu-cat-1795838622470695531699-14-80-1396-2291-crop-1795838984838486786438.jpg",
+"source": "Tuổi Trẻ",
+"cat": "tc",
+"published": "2026-11-28T12:10:00+07:00",
+"found": "2026-11-28T13:11:37+07:00"
 },
 {
 "id": "20ad2d4c2d36",
@@ -27946,94 +28035,6 @@
 "source": "Kenh14",
 "cat": "xh",
 "published": "2026-11-25T21:36:00+07:00",
-"found": "2026-11-25T21:51:40+07:00"
-},
-{
-"id": "f374f2f6e05e",
-"title": "Tổng thống Mỹ đề xuất áp thuế mới, chứng khoán bị bán tháo",
-"link": "https://dantri.com.vn/kinh-doanh/tong-thong-my-de-xuat-ap-thue-moi-chung-khoan-bi-ban-thao-20261125211900668.htm",
-"summary": "(Dân trí) - Kế hoạch áp thuế mới của chính quyền Tổng thống Donald Trump lên nhiều đối tác thương mại đang gây xáo trộn thị trường, tạo áp lực bán tháo lên thị trường tài chính quốc tế",
-"image": "https://cdnphoto.dantri.com.vn/4q550Ei30sY5S2t8aDADKTkXng4=/2026/01/20/eu-co-nhung-la-bai-nao-de-dap-tra-thue-quan-cua-my-vi-greenland-1768882975208.jpg",
-"source": "Dân Trí",
-"cat": "tc",
-"published": "2026-11-25T21:35:40+07:00",
-"found": "2026-11-25T22:06:54+07:00"
-},
-{
-"id": "55ed6f4a113b",
-"title": "Mưa lớn từ sáng đến tối, ngập cục bộ nhiều tuyến đường ở trung tâm Quảng Ngãi",
-"link": "https://tuoitre.vn/mua-lon-tu-sang-den-toi-ngap-cuc-bo-nhieu-tuyen-duong-o-trung-tam-quang-ngai-100261125202231539.htm",
-"summary": "Mưa lớn kéo dài từ sáng đến tối 25-11 khiến nhiều tuyến đường ở đô thị trung tâm tỉnh Quảng Ngãi ngập cục bộ, trong đó khu vực trước cổng Bệnh viện đa khoa tỉnh và Ngã 5 cũ ngập nặng nhất, gây khó khăn cho việc đi lại.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/mua-quang-ngai-17956176470881423909856-121-0-1696-2520-crop-179561767044197909916.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T21:35:00+07:00",
-"found": "2026-11-25T23:20:49+07:00"
-},
-{
-"id": "bb8e43db0cc5",
-"title": "Xăng giảm nhiều kỳ, vì sao cước xe khách vẫn chưa hạ?",
-"link": "https://vietnamnet.vn/xang-giam-nhieu-ky-vi-sao-cuoc-xe-khach-van-chua-ha-2577824.html",
-"summary": "Niềm vui từ việc giá nhiên liệu hạ nhiệt vẫn chưa lan tỏa đúng như kỳ vọng của người tiêu dùng, khi các dịch vụ đi kèm như giá cước vận tải chưa được điều chỉnh tương ứng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/xang-giam-nhieu-ky-vi-sao-cuoc-xe-khach-van-chua-ha-6521.jpg?width=0&s=5BbSOLE5SI0m602QqJha_g",
-"source": "VietnamNet",
-"cat": "tc",
-"published": "2026-11-25T21:31:01+07:00",
-"found": "2026-11-25T05:37:31+07:00"
-},
-{
-"id": "7a281110206c",
-"title": "Làm rõ lộ trình giải quyết, không để kiến nghị kéo dài",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2dDNDhFdkVOYW1Tb3hpRWFVbGlTLUVSc1UxaDYyUmhHR1J3QV90c0Q1emF5TDBNQS0wNUc4ZUZjYzE4WHpuNnBkSVZrVnhoYy1MdE1ueThtX1J6VXNIUDFVd3lkdmdSdEM0b1pRaTVDSDN1bGlJOEwtQjhFaHZTWDV4S2xuR1Z1N3czcDN6U0NuUU0?oc=5",
-"summary": "Nguồn: Báo Công An Đà Nẵng",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T21:25:00+07:00",
-"found": "2026-11-25T21:36:40+07:00"
-},
-{
-"id": "0e067bec8afd",
-"title": "Sự thật vụ 13 người cho tiền, ghi hình trẻ nhỏ gây hiểu nhầm bắt cóc ở Hải Phòng",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXphVFI0VkF5eWhTX290MFREcVJsajRUeXExdlVzRUtkV0ZxS09ya1ZPbU5yNFlKUGpqMUJzcXNYeWhsVnI2cW53aTlKZGRZZ2tFWG5oTDh6Ynl2YlJ6QlZvUUcwTjViajFRUTcyTDhmYnRTdFg2by1ueWhMMkc2TlJ1X1VGY2FnSzcxS0lmUTNfMl9peFZSVnBiZ1FYcVlyOUFmdWNGaTMwTGRKZk96OTlBaEpVam5Gd2h1aXdR?oc=5",
-"summary": "Nguồn: CafeBiz",
-"image": "",
-"source": "Google News",
-"cat": "xh",
-"published": "2026-11-25T21:25:00+07:00",
-"found": "2026-11-25T22:22:07+07:00"
-},
-{
-"id": "49f896fa7fe7",
-"title": "Lộ trình triển khai dự án đường vành đai 5 Vùng Thủ đô",
-"link": "https://tuoitre.vn/lo-trinh-trien-khai-du-an-duong-vanh-dai-5-vung-thu-do-100261125204632501.htm",
-"summary": "Đối với thành phần tuyến cao tốc dài khoảng 116 km thuộc dự án vành đai 5 - Vùng Thủ đô, Nghị quyết nêu: Phấn đấu bàn giao tối thiểu 70% diện tích mặt bằng trước 9-2027 cho các gói thầu xây lắp khởi công trong năm 2027.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/tempimage1gokku-17956139447211597381501-7-57-2492-4032-crop-1795613961570743240347.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-25T21:24:00+07:00",
-"found": "2026-11-25T23:20:49+07:00"
-},
-{
-"id": "ed137ec7b048",
-"title": "Sau nhà máy xe điện 2 tỷ USD, Vingroup đang tìm quỹ đất xây nhà ở, khách sạn tại Ấn Độ",
-"link": "https://cafef.vn/sau-nha-may-xe-dien-2-ty-usd-vingroup-dang-tim-quy-dat-xay-nha-o-khach-san-tai-an-do-188261125212648603.chn",
-"summary": "Sau khi đầu tư 2 tỷ USD xây dựng nhà máy xe điện tại bang Tamil Nadu, tập đoàn đang tìm kiếm cơ hội thâm nhập các lĩnh vực bất động sản, nhà ở và khách sạn tại thị trường Ấn Độ.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795616463648-17956164640591192733636.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T21:21:00+07:00",
-"found": "2026-11-25T21:36:40+07:00"
-},
-{
-"id": "7ebc118446ae",
-"title": "Án chung thân cho kẻ \"cuồng ghen\" đâm người tình hàng chục nhát",
-"link": "https://dantri.com.vn/phap-luat/an-chung-than-cho-ke-cuong-ghen-dam-nguoi-tinh-hang-chuc-nhat-20261125193540360.htm",
-"summary": "(Dân trí) - Vũ sống chung với bà M. như vợ chồng nhưng do mâu thuẫn nên bà M. bỏ về quê ở với tình cũ. Thấy vậy, Vũ ghen tuông, thuê xe đi từ Đồng Nai xuống Đồng Tháp để sát hại nạn nhân.",
-"image": "https://cdnphoto.dantri.com.vn/ymllF6w0L_ZVDcAXm-t0TwtJ-LQ=/2026/11/25/toabao-ky-edited-1795609810654.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-25T21:17:52+07:00",
 "found": "2026-11-25T21:51:40+07:00"
 }
 ]
