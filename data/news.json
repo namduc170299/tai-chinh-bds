@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T07:27:59+07:00",
-"new": 16,
+"updated": "2026-11-28T07:43:10+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 25
+"count": 43
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "57e9ed10792c",
+"title": "Đảo Lý Sơn hứng trận ngập lịch sử, nhà dân ngập sâu tới 1,5m",
+"link": "https://vietnamnet.vn/dao-ly-son-hung-tran-ngap-lich-su-nha-dan-ngap-sau-toi-1-5m-2579483.html",
+"summary": "Mưa lớn, hồ chứa trên miệng núi lửa Thới Lới tràn nước xuống khu dân cư khiến khoảng 70 hộ dân ở Lý Sơn bị ngập, thiệt hại ước tính 18 tỷ đồng.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/dao-ly-son-hung-tran-ngap-lich-su-nha-dan-ngap-sau-toi-15m-2796.jpg?width=0&s=rTY4VYWr2rQx9kDLL_WN2Q",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T07:33:53+07:00",
+"found": "2026-11-27T20:10:49+07:00"
+},
+{
+"id": "65fff8851bcf",
+"title": "MBBank ghi nhận nợ xấu tăng, tỷ lệ bao phủ giảm xuống dưới 85%",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb3hxMXRaNG1hYkd5QTdrOXZYYnNTTGVocV94eFZmOWZsQTJxVkloOGg0TVJVRlA4NmNDQUV0WVNBRkZwZ2FQV2FrdE9JUFpUcVo2VF9Ob3BzSkYyX21uMGxsOEtRbGRKWVlyTElHalQ0YUl4UnNDcVJ3Q0psaV83YVJVdU53cmZFeVAzbWdzU3hKbUxSbldDdA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-28T07:30:00+07:00",
+"found": "2026-11-28T07:43:10+07:00"
+},
+{
+"id": "27e1a553bb4b",
+"title": "Con trâu từng mắc kẹt 6 ngày trên mái nhà trong trận lũ lịch sử: Chủ trâu báo tin mừng",
+"link": "https://kenh14.vn/con-trau-tung-mac-ket-6-ngay-tren-mai-nha-trong-tran-lu-lich-su-chu-trau-bao-tin-mung-215261127233942255.chn",
+"summary": "Sau gần một năm, cuộc sống của gia đình chủ trâu đã dần ổn định trở lại và đón tin vui.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795797501055-179579750149225375923.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T07:26:00+07:00",
+"found": "2026-11-28T07:43:10+07:00"
+},
+{
 "id": "274ac88a3377",
 "title": "Thị trường chứng khoán Mỹ phục hồi mạnh trong ngày Black Friday",
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDBySWtLYWxNSENmRlAyYmpsR1pMbzM2clVYYkhnd203RkJRNWF0eEtFZGtSbzI2RlNDM25DcmpQcXBKbk9wWDJkcWZMNHE0Y3JlV1U5bzNITkw3d19uSTlWY3BJU3FVVjFCUWZJTFdhOS1CbHFDTWgtXy1QeUMzazlpeG44MnZPR0JmU21JbTA3bmpZZ294Y1FjaUc?oc=5",
@@ -233,6 +266,18 @@
 "cat": "tc",
 "published": "2026-11-28T07:20:00+07:00",
 "found": "2026-11-28T07:27:59+07:00"
+},
+{
+"id": "bd5f020eec7f",
+"title": "kyiv",
+"link": "https://mezha.net/eng/news/mezha-42d2a7a9804bcc6c0206038f_zelensky_reports_changes/",
+"summary": "Zelensky reports changes to the long-range operations plan (Mezha.net)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIHiOTE7XZOk17eYnrZFwobRDrpMH803dfJbGnm_pZ_XyHKPHbgX4Qbmbsgl0",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T07:20:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T07:43:10+07:00"
 },
 {
 "id": "c0d8d1142e0a",
@@ -287,7 +332,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T07:10:00+07:00",
-"traffic": "500+",
+"traffic": "2000+",
 "found": "2026-11-28T07:27:59+07:00"
 },
 {
@@ -381,6 +426,18 @@
 "found": "2026-11-28T07:27:59+07:00"
 },
 {
+"id": "9429a5022b07",
+"title": "siêu dự án",
+"link": "https://laodong.vn/bat-dong-san/khu-do-thi-gan-4500-ti-dong-trien-khai-tai-ho-nuoc-lon-nhat-thai-nguyen-1806947.ldo",
+"summary": "Khu đô thị gần 4.500 tỉ đồng triển khai tại hồ nước lớn nhất Thái Nguyên (Laodong.vn)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB2DGNLVGZHT0MOFPdsu1vbjCuBV-TW_Aj5X6mM2iQ9uOAP8gj-trSe-eOd6U",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T07:00:00+07:00",
+"traffic": "100+",
+"found": "2026-11-28T07:43:10+07:00"
+},
+{
 "id": "b46965ad0192",
 "title": "Nguồn cung ngoại tệ cải thiện, tỷ giá có thêm yếu tố hỗ trợ cuối năm",
 "link": "https://cafef.vn/nguon-cung-ngoai-te-cai-thien-ty-gia-co-them-yeu-to-ho-tro-cuoi-nam-18826112806591458.chn",
@@ -447,6 +504,18 @@
 "found": "2026-11-28T07:27:59+07:00"
 },
 {
+"id": "a2020da7d4ec",
+"title": "погода",
+"link": "https://www.fontanka.ru/2026/11/27/76796682/",
+"summary": "Декабрь начнется неожиданно. Какие сюрпризы готовит погода Петербургу (ФОНТАНКА.ру)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTetQ5TwYIGlD4nVGvxYlCZ7n9Xvo76QK9Zgu0GJNq5lcGbsmDv9RSHAszxu8g",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T06:50:00+07:00",
+"traffic": "100+",
+"found": "2026-11-28T07:43:10+07:00"
+},
+{
 "id": "8cc4d225f0a9",
 "title": "Người dân hào hứng xem triển lãm Quy hoạch TPHCM tầm nhìn 100 năm",
 "link": "https://vietnamnet.vn/nguoi-dan-hao-hung-xem-trien-lam-quy-hoach-tphcm-tam-nhin-100-nam-2579539.html",
@@ -510,8 +579,20 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T06:40:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-28T07:04:52+07:00"
+},
+{
+"id": "6fe1aa36019f",
+"title": "việt hương",
+"link": "https://www.saostar.vn/dien-anh/noi-buon-cua-hoai-linh-202611280517240533.html",
+"summary": "Nỗi buồn của Hoài Linh (Tạp chí Saostar)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9yUObrtBBeZcr5Hi_8kd4lvmL_o5w1hcpRw6mTF62-F6OWGqcTBalc20qkjk",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T06:40:00+07:00",
+"traffic": "500+",
+"found": "2026-11-28T07:43:10+07:00"
 },
 {
 "id": "5a3296a74b7f",
@@ -2357,17 +2438,6 @@
 "cat": "xh",
 "published": "2026-11-27T20:07:00+07:00",
 "found": "2026-11-27T20:26:19+07:00"
-},
-{
-"id": "57e9ed10792c",
-"title": "Đảo Lý Sơn hứng trận ngập lịch sử, nhà dân ngập sâu tới 1,5m",
-"link": "https://vietnamnet.vn/dao-ly-son-hung-tran-ngap-lich-su-nha-dan-ngap-sau-toi-1-5m-2579483.html",
-"summary": "Mưa lớn, hồ chứa trên miệng núi lửa Thới Lới tràn nước xuống khu dân cư khiến khoảng 70 hộ dân ở Lý Sơn bị ngập, thiệt hại ước tính 18 tỷ đồng.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/27/dao-ly-son-hung-tran-ngap-lich-su-nha-dan-ngap-sau-toi-15m-2796.jpg?width=0&s=rTY4VYWr2rQx9kDLL_WN2Q",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-27T20:06:55+07:00",
-"found": "2026-11-27T20:10:49+07:00"
 },
 {
 "id": "b449b68587a5",
@@ -27974,72 +28044,6 @@
 "cat": "tc",
 "published": "2026-11-25T16:29:37+07:00",
 "found": "2026-11-25T16:46:44+07:00"
-},
-{
-"id": "cd43b28b0df0",
-"title": "Sau khi siêu dự án tâm linh 19.000ha của tỷ phú \"ăn chay\" Xuân Trường bị chấm dứt hoạt động, nơi này chuẩn bị đấu giá đất làm khu đô thị, du lịch vốn đầu tư 4.480 tỷ đồng",
-"link": "https://kenh14.vn/sau-khi-sieu-du-an-tam-linh-19000ha-cua-ty-phu-an-chay-xuan-truong-bi-cham-dut-hoat-dong-noi-nay-chuan-bi-dau-gia-dat-lam-khu-do-thi-du-lich-von-dau-tu-4480-ty-dong-215261125160037157.chn",
-"summary": "Khu đất rộng hơn 137ha tại Hồ Núi Cốc vừa được Thái Nguyên phê duyệt phương án đấu giá, lựa chọn nhà đầu tư thực hiện dự án đô thị hỗn hợp, dịch vụ du lịch có tổng vốn hơn 4.480 tỷ đồng.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795597195654-1795597199598735686134.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-25T16:29:00+07:00",
-"found": "2026-11-25T16:46:44+07:00"
-},
-{
-"id": "492097f7f452",
-"title": "TPHCM rực rỡ pháo hoa trong Ngày Văn hóa Việt Nam",
-"link": "https://vietnamnet.vn/phao-hoa-ruc-ro-mung-ngay-van-hoa-viet-nam-o-tphcm-2578296.html",
-"summary": "Tối 24/11, hàng nghìn người dân và du khách đổ về phố đi bộ Nguyễn Huệ, bến Bạch Đằng và các khu vực trung tâm TPHCM để chiêm ngưỡng màn pháo hoa nghệ thuật chào mừng Ngày Văn hóa Việt Nam.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/24/tphcm-ruc-ro-phao-hoa-trong-ngay-van-hoa-viet-nam-7024.jpg?width=0&s=HSGuQrB4AQpjtQmkEkj6Kw",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-25T16:28:57+07:00",
-"found": "2026-11-24T22:26:09+07:00"
-},
-{
-"id": "3815898ca213",
-"title": "Tỷ giá ổn định, cơ hội để doanh nghiệp \"mạnh tay\" vay nợ nước ngoài?",
-"link": "https://vneconomy.vn/ty-gia-on-dinh-co-hoi-de-doanh-nghiep-manh-tay-vay-no-nuoc-ngoai.htm",
-"summary": "Tiến sĩ Cấn Văn Lực khuyến nghị các doanh nghiệp trong bối cảnh nguồn vốn trong nước tương đối hạn hẹp có thể cân nhắc vay nước ngoài ngắn hạn. Hiện nay, tỷ giá tương đối ổn định, việc vay vốn nước ngoài khá thuận lợi.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/5c8a66a7d8fc4fa8a9cee646c2f120bc-138541.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-25T16:28:49+07:00",
-"found": "2026-11-25T16:31:33+07:00"
-},
-{
-"id": "e6df4239cdf9",
-"title": "Blog chứng khoán: T+ quá “vất”",
-"link": "https://vneconomy.vn/blog-chung-khoan-t-qua-vat.htm",
-"summary": "Một đợt chốt lời T+ xuất hiện trong phiên chiều nay nhanh chóng “gọt sạch” lợi nhuận. Khi nhà đầu tư tranh thủ thoát ngay khi hàng về tức là niềm tin còn rất mong manh.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/4a422a9f4cfd44899c5654f88bc436c8-138640.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-25T16:28:37+07:00",
-"found": "2026-11-25T16:31:33+07:00"
-},
-{
-"id": "67f441f814e0",
-"title": "Tháo gỡ vướng mắc trong xử lý nợ vay của các công ty nông, lâm nghiệp",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQWZ6WWpUR0pXWS05T1NUcEtFTHpCandvWmYxTEQtX1gwZUQxNzI2djVLdzVZX2M0UjFrcEpMXy16NHR3TGJlNzdJUEZsRzBZSW9Ga2k5TVRJM1o1TVhpMTl6RW5ITDdmZVB6VElSLTQ1NEJWVnh1Mm5zQ3RlVVdRQUcxeFRHX3FkZlpadEJhYjY0RjdqUWkwbzNhN2pneERGbnpz?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T16:25:51+07:00",
-"found": "2026-11-26T06:47:02+07:00"
-},
-{
-"id": "baa36f10afb5",
-"title": "Thép Nam Kim (NKG) tính rót thêm 1.500 tỷ đồng vào nhà máy Phú Mỹ, nợ vay vượt 8.600 tỷ đồng",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPamVuS2VwSUJTblBpekN1cmNVLVVGYy1rYVV5cGdtOENlUzlEYVpkSUxGOGxqNGRpcDg4aTVWQkxFMDlnUHBQWGlEdGxWZU1tX3MyZEdfNmhtOXNwRkM1WDRoSHVmaGhLekx0azJ6RTlGNTRBS0Nqbm9RWUJFQ0NZX29ZRXVRQmFkYXRCb0ZCbEFla0hmSHUyZVh0ODl1c2NoYWNoVzRTZVdncFl0eW9PclBUTGctdFdmc2RZZWFJcw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T16:25:00+07:00",
-"found": "2026-11-25T16:31:33+07:00"
 }
 ]
 }
