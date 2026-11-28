@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T07:43:10+07:00",
-"new": 6,
+"updated": "2026-11-28T07:58:22+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 43
+"count": 25
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,73 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "bf9124798acd",
+"title": "Đất vườn hết hạn sử dụng, trường hợp nào được tiếp tục sử dụng mà không phải gia hạn?",
+"link": "https://cafef.vn/dat-vuon-het-han-su-dung-truong-hop-nao-duoc-tiep-tuc-su-dung-ma-khong-phai-gia-han-188261128064955263.chn",
+"summary": "Đất vườn ghi trên sổ đỏ đã hết thời hạn sử dụng, người dân có phải làm thủ tục gia hạn hay chỉ cần xác nhận tiếp tục sử dụng đất?",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/avatar1795823372187-1795823372501872362674.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-28T07:49:00+07:00",
+"found": "2026-11-28T07:58:22+07:00"
+},
+{
+"id": "c3ed3aec0be3",
+"title": "inter miami",
+"link": "https://www.goal.com/en-in/originals/playing-the-long-ball-exploiting-the-spaces-and-a-bit-of-luck-how-columbus-crew-battered-inter-miami/blt631e393de9d56095",
+"summary": "Talking Tactics: Long balls, intricate passing and exploiting space - how Laurent Courtois' Columbus Crew dismantled Lionel Messi's Inter Miami (Goal.com)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Wkem1xbPniRbZWgB4xamh9VquqryMuAMDltcg0ftOeVIVepq8sqZ8ujBVZA",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T07:40:00+07:00",
+"traffic": "500+",
+"found": "2026-11-28T07:58:22+07:00"
+},
+{
+"id": "bcbcf9cce0d4",
+"title": "Việt Nam chọn liên danh 3 nước Việt - Pháp - Hàn Quốc tư vấn tuyến đường sắt tốc độ cao 350km/h vốn 67 tỷ USD: Một DN Việt đảm nhận khối lượng công việc lớn thứ hai trong liên danh",
+"link": "https://cafef.vn/viet-nam-chon-lien-danh-3-nuoc-viet-phap-han-quoc-tu-van-tuyen-duong-sat-toc-do-cao-350km-h-von-67-ty-usd-mot-dn-viet-dam-nhan-khoi-luong-cong-viec-lon-thu-hai-trong-lien-danh-188261127162133879.chn",
+"summary": "Tổng công ty Tư vấn thiết kế giao thông vận tải (TEDI) tiếp tục tham gia dự án đường sắt tốc độ cao Bắc - Nam sau khi từng đứng đầu liên danh lập báo cáo nghiên cứu tiền khả thi.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/27/cao-toc-bn1-1795771206597756891497-0-0-637-1020-crop-1795771219061630178117.png",
+"source": "CafeF",
+"cat": "bds",
+"published": "2026-11-28T07:37:00+07:00",
+"found": "2026-11-28T07:58:22+07:00"
+},
+{
+"id": "cf78cc987386",
+"title": "Việt Nam chuyển thành công hàng nghìn tấn đá, hàng trăm cây gỗ lim, tạo công trình thuộc dạng hiếm trên thế giới: Có phiến đá nặng tới 20 tấn, lấy đất đá từ núi cách 40 km, nằm trong quần thể rộng 30.000 m²",
+"link": "https://kenh14.vn/viet-nam-chuyen-thanh-cong-hang-nghin-tan-da-hang-tram-cay-go-lim-tao-cong-trinh-thuoc-dang-hiem-tren-the-gioi-co-phien-da-nang-toi-20-tan-lay-dat-da-tu-nui-cach-40-km-nam-trong-quan-the-rong-30000-m-215261127234631982.chn",
+"summary": "Công trình được đánh giá là một trong nơi sở hữu kiến trúc vô cùng đặc biệt ở Việt Nam.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795797928771-17957979290431810924532.png",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T07:37:00+07:00",
+"found": "2026-11-28T07:58:22+07:00"
+},
+{
+"id": "d0e0d59ed241",
+"title": "Việt Nam đang chuẩn bị đầu tư dự án hơn 3.750 tỷ đồng tại vùng hồ được ví như \"vịnh Hạ Long trên núi\": Dự kiến có thêm cầu, đường ven hồ và cảng du lịch",
+"link": "https://kenh14.vn/viet-nam-dang-chuan-bi-dau-tu-du-an-hon-3750-ty-dong-tai-vung-ho-duoc-vi-nhu-vinh-ha-long-tren-nui-du-kien-co-them-cau-duong-ven-ho-va-cang-du-lich-215261127234244302.chn",
+"summary": "Vùng hồ nổi tiếng với những hòn đảo nằm giữa núi rừng Tây Bắc đang đứng trước cơ hội thay đổi diện mạo nhờ dự án hạ tầng du lịch quy mô hàng nghìn tỷ đồng.",
+"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/27/avatar1795797730862-1795797731624403341993.jpg",
+"source": "Kenh14",
+"cat": "xh",
+"published": "2026-11-28T07:37:00+07:00",
+"found": "2026-11-28T07:58:22+07:00"
+},
+{
+"id": "ab7a753ed725",
+"title": "'Cơ ngơi' kinh doanh của thầy dạy làm giàu Master Anh Đức vừa bị bắt, giàu cỡ nào?",
+"link": "https://tuoitre.vn/co-ngoi-kinh-doanh-cua-thay-day-lam-giau-master-anh-duc-vua-bi-bat-giau-co-nao-100261127225704488.htm",
+"summary": "Trước khi bị bắt về hành vi trốn thuế, Nguyễn Anh Đức (thường được biết đến với tên gọi Master Anh Đức) đã tham gia sáng lập ít nhất 4 doanh nghiệp trong lĩnh vực bất động sản và đào tạo, với tổng vốn điều lệ đăng ký qua các lần công bố đạt 22 tỉ đồng.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/anh-duc-17957946402511877550920-0-0-1125-1800-crop-1795794674668188546281.jpeg",
+"source": "Tuổi Trẻ",
+"cat": "xh",
+"published": "2026-11-28T07:36:00+07:00",
+"found": "2026-11-28T07:58:22+07:00"
+},
+{
 "id": "57e9ed10792c",
 "title": "Đảo Lý Sơn hứng trận ngập lịch sử, nhà dân ngập sâu tới 1,5m",
 "link": "https://vietnamnet.vn/dao-ly-son-hung-tran-ngap-lich-su-nha-dan-ngap-sau-toi-1-5m-2579483.html",
@@ -244,6 +311,17 @@
 "cat": "xh",
 "published": "2026-11-28T07:26:00+07:00",
 "found": "2026-11-28T07:43:10+07:00"
+},
+{
+"id": "9ecc5fb87c9a",
+"title": "Học hết lớp 3, Quân \"Trọc\" được Tuấn \"Thần Đèn\" giao làm thủ quỹ",
+"link": "https://dantri.com.vn/phap-luat/hoc-het-lop-3-quan-troc-duoc-tuan-than-den-giao-lam-thu-quy-20261128002030864.htm",
+"summary": "(Dân trí) - Từng 2 lần lĩnh án về tội Gây rối trật tự công cộng, Quân \"Trọc\" được Tuấn \"Thần Đèn\" giao làm thủ quỹ, quản lý các khoản tiền bán khoáng sản để ngoài sổ sách kế toán.",
+"image": "https://cdnphoto.dantri.com.vn/KQ-iQ1e5PxiBS2uhjBOy_TbvnkE=/2026/11/25/tuan-than-den-cropped-1795624207246.jpg",
+"source": "Dân Trí",
+"cat": "xh",
+"published": "2026-11-28T07:23:04+07:00",
+"found": "2026-11-28T07:58:22+07:00"
 },
 {
 "id": "274ac88a3377",
@@ -512,7 +590,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T06:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-28T07:43:10+07:00"
 },
 {
@@ -591,7 +669,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T06:40:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-28T07:43:10+07:00"
 },
 {
@@ -27967,83 +28045,6 @@
 "cat": "tc",
 "published": "2026-11-25T16:38:00+07:00",
 "found": "2026-11-26T06:47:02+07:00"
-},
-{
-"id": "3693c63ee53d",
-"title": "Toàn cảnh Quy hoạch phân khu đô thị sông Hồng qua 16 phường, xã của Hà Nội",
-"link": "https://vietnamnet.vn/toan-canh-quy-hoach-phan-khu-do-thi-song-hong-qua-16-phuong-xa-cua-ha-noi-2578552.html",
-"summary": "Hà Nội phê duyệt điều chỉnh tổng thể quy hoạch phân khu đô thị sông Hồng tỷ lệ 1/5.000. Phạm vi nghiên cứu khoảng 11.418,96ha, từ cầu Hồng Hà đến cầu Mễ Sở.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/toan-canh-quy-hoach-phan-khu-do-thi-song-hong-qua-16-phuong-xa-cua-ha-noi-3875.png?width=0&s=flW6rSkDoUOXIL214rmDBg",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-25T16:33:22+07:00",
-"found": "2026-11-25T16:46:44+07:00"
-},
-{
-"id": "dae7b91e89e8",
-"title": "Không thể chỉ trông chờ vào ngân hàng để đáp ứng nhu cầu vốn",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmtob1ZKNGtoamc2dGlxWDlMMVltR0lLOVF1LUJHX0htNGsyaGQ3LUp2X2ZERU1KanpiZ2NiM29DSnBNVDlEMEwtSXNLUjBPWFlsdjZDcmFKbWJLMDNVM2tJSVBHSWljY2RSSjk0ZjJxX29DSGktLUNuMHBPeEJLUGhmVlR4NlZ0RUZaOGtRLUZnaHpBY3FhQw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T16:33:00+07:00",
-"found": "2026-11-25T16:46:44+07:00"
-},
-{
-"id": "76b7f3da8c23",
-"title": "Các quỹ ETF tiếp tục rút ròng 18,87 triệu USD trong vòng một tuần",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHBRNkc4d0RCaDVyaWxTM2tGWnNuTzhrRGRGRHNJdnhWUnpiYng1dGdlRnpoNEV4LU1yRjdCb3h3MS1PaEt4SzBFZllibDJNU21FWjNSdW93cnJ1QkQ5Z3NnRy1RUlZrQ3FIbTBPZS1MNGFvYmd3TGFxWXdUdjNGM2IwOVQtR01jZjNnTGFCSmZGNFRXUWtWYjg4SmtKbmM?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T16:31:23+07:00",
-"found": "2026-11-25T18:00:12+07:00"
-},
-{
-"id": "7962811c9e79",
-"title": "Một xã ở Hưng Yên có 7 trưởng thôn 9X",
-"link": "https://thanhnien.vn/mot-xa-o-hung-yen-co-7-truong-thon-9x-185261125150352089.htm",
-"summary": "Trong 18 trưởng thôn, tổ trưởng tổ dân phố vừa trúng cử nhiệm kỳ 2026 - 2031 tại xã Như Quỳnh (Hưng Yên), có 7 người sinh năm 1992 trở lại đây, trong đó 2 người trẻ nhất sinh năm 1999.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/2aoborf4dmekk5mxfery3awsddj5zkmlslsgj9qe-17955935541882144254926-33-222-923-1648-crop-1795593770972943657305.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T16:31:00+07:00",
-"found": "2026-11-25T16:46:44+07:00"
-},
-{
-"id": "2e5fb3400cfb",
-"title": "Làm rõ về người mặc quần áo công an, đi xe máy biển xanh 80A-99999",
-"link": "https://dantri.com.vn/phap-luat/lam-ro-ve-nguoi-mac-quan-ao-cong-an-di-xe-may-bien-xanh-80a-99999-20261125162258662.htm",
-"summary": "(Dân trí) - Công an ở Phú Thọ làm rõ thông tin về người mặc trang phục Công an nhân dân, điều khiển xe máy mang biển xanh 80A-99999.",
-"image": "https://cdnphoto.dantri.com.vn/FRL6v75hGpzWcBjP-rIBGf-MN8E=/2026/11/25/trang-phuc-cand-cropped-1795598354215.jpg",
-"source": "Dân Trí",
-"cat": "xh",
-"published": "2026-11-25T16:30:37+07:00",
-"found": "2026-11-25T17:01:54+07:00"
-},
-{
-"id": "a43991901fc1",
-"title": "Phát hiện vật liệu nổ dưới khu vực tìm hài cốt liệt sĩ ở Đồng Tháp",
-"link": "https://thanhnien.vn/phat-hien-vat-lieu-no-duoi-khu-vuc-tim-hai-cot-liet-si-o-dong-thap-185261125153036049.htm",
-"summary": "Trong quá trình tìm kiếm hài cốt liệt sĩ tại khu vực nghĩa trang tạm Tân Công Chí, xã Tân Hồng (Đồng Tháp), lực lượng Đội K91 phát hiện bom mìn, vật liệu nổ còn sót lại sau chiến tranh.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tim-hai-cot-liet-si-tan-hong-8-179559515178287231048-160-0-960-1280-crop-1795595302427183138798.jpg",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T16:30:00+07:00",
-"found": "2026-11-25T16:31:33+07:00"
-},
-{
-"id": "6d7c46d3bb76",
-"title": "Tranh thủ xả hàng lướt sóng, thanh khoản tăng mạnh cuối phiên, cổ giảm la liệt",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWk4MVBGSzRXd210MXh0WVFXSmtGaDE3cmxnZ3JhMFY5X3RnRThHNGlLQ3FScjMzRGotZlBhcjY4UER5MDU1bDM5eTNaS3JzNXRNSWJSYVI0TjlWdHQxNDhCRTU1WFRTSDJUS0VCYzgwa1IwY096MzE2U0hITUtRMHp0d0wtMGdrVnk0UThZS1NIci1WQ0IzVngwRnRsY3Y4Y3VHbVB5R2NndXBieGc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T16:29:37+07:00",
-"found": "2026-11-25T16:46:44+07:00"
 }
 ]
 }
