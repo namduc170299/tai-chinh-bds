@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T17:31:42+07:00",
-"new": 22,
+"updated": "2026-11-28T17:46:53+07:00",
+"new": 6,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 43
+"count": 42
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,28 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "51bb94baa12f",
+"title": "16 sinh viên nhận học bổng của Quỹ 'Vì tuổi trẻ vùng cao và hải đảo'",
+"link": "https://thanhnien.vn/16-sinh-vien-nhan-hoc-bong-cua-quy-vi-tuoi-tre-vung-cao-va-hai-dao-185261128162136459.htm",
+"summary": "Quỹ 'Vì tuổi trẻ vùng cao và hải đảo', Câu lạc bộ 'Vì Hoàng Sa - Trường Sa thân yêu' đã trao học bổng cho học sinh dân tộc thiểu số, vùng biên giới, vùng biển, đảo có hoàn cảnh khó khăn vươn lên trong học tập.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/anhmoi-1795857292332586777338-0-0-1492-2387-crop-17958575543721112804913.jpg",
+"source": "Thanh Niên",
+"cat": "mxh",
+"published": "2026-11-28T17:42:00+07:00",
+"found": "2026-11-28T17:46:53+07:00"
+},
+{
+"id": "854a42b72129",
+"title": "Quảng Ngãi huy động lực lượng ứng phó mưa lũ, nhiều nơi sạt lở, ngập sâu",
+"link": "https://thanhnien.vn/quang-ngai-huy-dong-luc-luong-ung-pho-mua-lu-nhieu-noi-sat-lo-ngap-sau-185261128161527674.htm",
+"summary": "Mưa lũ khiến nhiều khu vực ở Quảng Ngãi xảy ra ngập lụt, sạt lở, ảnh hưởng đến đời sống của người dân. Lực lượng quân sự được yêu cầu duy trì trạng thái sẵn sàng hỗ trợ sơ tán người dân khỏi vùng nguy hiểm.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/1795856816473-8467133359498311143-8467133359498311143-5069e4e6e7a0321dfb20b999d4e18117-17958570162801681845245-38-0-1106-1709-crop-17958570442441234031144.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T17:36:00+07:00",
+"found": "2026-11-28T17:46:53+07:00"
+},
+{
 "id": "6b014375c64c",
 "title": "Tàu cá chìm ngoài vùng biển Mũi Né, 4 ngư dân thoát nạn",
 "link": "https://vietnamnet.vn/tau-ca-chim-ngoai-vung-bien-mui-ne-4-ngu-dan-thoat-nan-2579765.html",
@@ -222,6 +244,40 @@
 "cat": "xh",
 "published": "2026-11-28T17:30:50+07:00",
 "found": "2026-11-28T17:31:42+07:00"
+},
+{
+"id": "63f685b04fef",
+"title": "Nam A Bank tiếp sức kinh doanh cuối năm với gói vay ưu đãi 5.000 tỷ đồng",
+"link": "https://cafef.vn/nam-a-bank-tiep-suc-kinh-doanh-cuoi-nam-voi-goi-vay-uu-dai-5000-ty-dong-18826112817145149.chn",
+"summary": "Đón đầu nhu cầu tiêu dùng, tích trữ hàng hóa và mở rộng sản xuất kinh doanh vào dịp cao điểm cuối năm và Tết Nguyên đán, Ngân hàng TMCP Nam Á (Nam A Bank) triển khai chương trình ưu đãi “TEA UP - Thưởng trà đón xuân, Vay vốn phát lộc” với tổng quy mô 5.000 tỷ đồng.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/photo1795839566892-17958395672061575170096-17958608941851154054674.jpg",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-28T17:30:00+07:00",
+"found": "2026-11-28T17:46:53+07:00"
+},
+{
+"id": "7201b96ec2f1",
+"title": "lụt",
+"link": "https://vnexpress.net/mua-lu-bao-trum-mien-trung-gan-1-700-nha-ngap-5149970.html",
+"summary": "Mưa lũ bao trùm miền Trung, gần 1.700 nhà ngập (VnExpress)",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrlLC2mi_1_Qp6A2IpxqM7dbMWQnS0d1DJDMeIbDPsFpO9w2ijt--n5DQFKSE",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T17:30:00+07:00",
+"traffic": "200+",
+"found": "2026-11-28T17:46:53+07:00"
+},
+{
+"id": "68b5db9e587c",
+"title": "Tiền lương cao nhất ở FDI Bắc Ninh gần 700 triệu đồng",
+"link": "https://vnexpress.net/tien-luong-cao-nhat-o-fdi-bac-ninh-gan-700-trieu-dong-5150045.html",
+"summary": "Tiền lương năm 2026 và thưởng Tết Âm lịch cao nhất ở Bắc Ninh thuộc về các lãnh đạo doanh nghiệp FDI lần lượt là 690 triệu đồng/tháng và 564 triệu đồng.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/57ec2147568b4b868643b42aaf12b3-7673-9501-1795860311.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cWfyNqpm52HBmAzw-yZxiA",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-28T17:23:31+07:00",
+"found": "2026-11-28T17:46:53+07:00"
 },
 {
 "id": "a486bfdb1434",
@@ -875,7 +931,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T15:30:00+07:00",
-"traffic": "200+",
+"traffic": "500+",
 "found": "2026-11-28T15:50:18+07:00"
 },
 {
@@ -6828,6 +6884,17 @@
 "cat": "xh",
 "published": "2026-11-27T22:31:00+07:00",
 "found": "2026-11-27T22:41:13+07:00"
+},
+{
+"id": "b06d7b3652cd",
+"title": "Thị trường chứng khoán Trung Quốc tăng mạnh nhất trong hai năm",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUjdZMzF1ZXR2aXM1clZIOFJZRHBJVzloaXNrcXBRb3RDMWd6anZSMDZZTkVoSkY1UHhsUU53eVBpX0kyM1Ffd3JFcVVSUDZmcW9EOUtKdTJSRmE3dUFzbGV4aERTTThVcjVfUUY5OWxCdWg1bTFGMXdpWENaaUZWNk5ibkhURXZUZmZCVVpWVWdobnpOSDdJQndGNA?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-27T22:23:00+07:00",
+"found": "2026-11-28T17:46:53+07:00"
 },
 {
 "id": "e9b5ca3cb5ad",
@@ -27904,72 +27971,6 @@
 "cat": "xh",
 "published": "2026-11-26T07:43:00+07:00",
 "found": "2026-11-26T07:58:43+07:00"
-},
-{
-"id": "1e0920ddfecd",
-"title": "Brad Pitt, Angelina Jolie khép lại cuộc chiến pháp lý",
-"link": "https://vnexpress.net/brad-pitt-angelina-jolie-khep-lai-cuoc-chien-phap-ly-5148955.html",
-"summary": "Brad Pitt, Angelina Jolie đạt thỏa thuận về vụ kiện liên quan cổ phần điền trang Château Miraval ở Pháp, kết thúc cuộc chiến pháp lý dài bốn năm.",
-"image": "https://vcdn1-giaitri.vnecdn.net/2026/11/26/ap26329817830169-1795651023-9793-1795652463.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=61B9cKuaU_xLJNVSAI89Yg",
-"source": "VnExpress",
-"cat": "mxh",
-"published": "2026-11-26T07:39:10+07:00",
-"found": "2026-11-26T10:37:55+07:00"
-},
-{
-"id": "bc0d7d57f0c8",
-"title": "Khởi tố 37 đối tượng giả danh chủ đầu tư, rao bán hơn 600 “suất mua nhà ở xã hội”",
-"link": "https://cafef.vn/khoi-to-37-doi-tuong-gia-danh-chu-dau-tu-rao-ban-hon-600-suat-mua-nha-o-xa-hoi-188261126071450764.chn",
-"summary": "Ngày 25/11, Công an TP Hồ Chí Minh cho biết, vừa triệt phá đường dây giả danh Công ty Cổ phần Đức Mạnh, chủ đầu tư dự án nhà ở xã hội tại địa chỉ số 324 Lý Thường Kiệt, phường Diên Hồng, để lừa đảo chiếm đoạt tài sản.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/26/avatar1795652035880-1795652037648437939449.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-26T07:38:00+07:00",
-"found": "2026-11-26T07:43:13+07:00"
-},
-{
-"id": "6ca8b6bafea9",
-"title": "Hà Nội lần đầu có dự án nhà ở xã hội giá vượt 34 triệu đồng/m2",
-"link": "https://dantri.com.vn/bat-dong-san/ha-noi-lan-dau-co-du-an-nha-o-xa-hoi-gia-vuot-34-trieu-dongm2-20261125234001068.htm",
-"summary": "(Dân trí) - Một dự án nhà ở xã hội tại phường Dương Nội, Hà Nội vừa được công khai giá bán dự kiến 34,28 triệu đồng/m2, mức cao nhất được ghi nhận tại Thủ đô đến nay.",
-"image": "https://cdnphoto.dantri.com.vn/tb0ttcTZsx35sInbZFOxnH2GRsI=/2026/11/25/du-an-nha-o-xa-hoi-cbcs-le-trong-tan-cropped-1795624738343.jpg",
-"source": "Dân Trí",
-"cat": "bds",
-"published": "2026-11-26T07:36:36+07:00",
-"found": "2026-11-26T07:58:43+07:00"
-},
-{
-"id": "6631b6c2cd51",
-"title": "Kết luận của Bộ Chính trị về chủ trương thành lập Khu kinh tế đặc biệt Vân Phong, tỉnh Khánh Hòa",
-"link": "https://cafef.vn/ket-luan-cua-bo-chinh-tri-ve-chu-truong-thanh-lap-khu-kinh-te-dac-biet-van-phong-tinh-khanh-hoa-18826112606161558.chn",
-"summary": "Thay mặt Bộ Chính trị, Thường trực Ban Bí thư Trần Cẩm Tú ký ban hành Kết luận số 128-KL/TW về chủ trương thành lập Khu kinh tế đặc biệt Vân Phong, tỉnh Khánh Hòa.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795648551080-17956485516031156077592.png",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-26T07:32:00+07:00",
-"found": "2026-11-26T07:43:13+07:00"
-},
-{
-"id": "f36b5c28d397",
-"title": "Đề xuất đường dây siêu áp kéo điện ra Bắc",
-"link": "https://thanhnien.vn/de-xuat-duong-day-sieu-ap-keo-dien-ra-bac-185261125184504995.htm",
-"summary": "Dự thảo điều chỉnh Quy hoạch điện 8 dự kiến cần 134,9 tỉ USD để đầu tư nguồn và lưới điện trong giai đoạn 2026-2030.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/anh-tn-16983063923792083913878-17956069541701879198602-0-0-534-854-crop-1795607055635870832245.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-26T07:32:00+07:00",
-"found": "2026-11-26T07:43:13+07:00"
-},
-{
-"id": "0e25c20b83ab",
-"title": "Khởi tố 37 đối tượng giả danh chủ đầu tư, rao bán hơn 600 'suất mua nhà ở xã hội'",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUGFIU0JrZENVcVR5WXRaYUhNVncxT2FKam4xdnBmbzg4R21oVXgwaV9Ydm5OX0N2VmtiQlJkVVN5eGR5Q0NhMnNyMVVwOXZlYi13M1U1WFhWRzJFU0tfZkg5OEt1anNqbFVBSl9SdGFaazFmek9xQTNSc0tSWXBzUThwUmFzdHVEd04zRnlmdDNPV1IxYklROWdpN1ZZams2dW1WUjlPMzVvVXZIemhyTw?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-26T07:32:00+07:00",
-"found": "2026-11-26T07:43:13+07:00"
 }
 ]
 }
