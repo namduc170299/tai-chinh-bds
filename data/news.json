@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T11:56:41+07:00",
-"new": 9,
+"updated": "2026-11-28T12:12:05+07:00",
+"new": 18,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 23
+"count": 43
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,94 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "20ad2d4c2d36",
+"title": "Từ 1.12, mới vào công chức có thể được hưởng lương ngay từ bậc 3",
+"link": "https://thanhnien.vn/tu-112-moi-vao-cong-chuc-co-the-duoc-huong-luong-ngay-tu-bac-3-185261128114350796.htm",
+"summary": "Người từng làm việc tại doanh nghiệp hoặc các cơ quan, tổ chức khác được tính thời gian công tác đáp ứng điều kiện để xếp lương khi vào công chức.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/edit-sap-xep-luong-can-bo-1795840875203323984029-0-0-877-1403-crop-17958408990451860319010.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T12:09:00+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
+{
+"id": "35b2010838b7",
+"title": "2.300 người cùng robot tham gia diễn tập chữa cháy quy mô lớn tại Hà Nội",
+"link": "https://vietnamnet.vn/ha-noi-huy-dong-2-300-nguoi-robot-tham-gia-dien-tap-chua-chay-2579634.html",
+"summary": "UBND TP Hà Nội xây dựng kịch bản diễn tập với 3 tình huống cháy nổ, tai nạn, sự cố phức tạp tại xưởng sản xuất quy mô lớn, khiến hơn 100 người mắc kẹt.",
+"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/chay-ha-noi-08-hieu5210-sao-chep-1229.jpg?width=0&s=3gWk5R_M_rlFQN8_Xy91kg",
+"source": "VietnamNet",
+"cat": "xh",
+"published": "2026-11-28T12:05:04+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
+{
+"id": "045f9298079a",
+"title": "TP.HCM chốt thời hạn hỗ trợ người hoạt động không chuyên trách nghỉ việc",
+"link": "https://thanhnien.vn/tphcm-chot-thoi-han-ho-tro-nguoi-hoat-dong-khong-chuyen-trach-nghi-viec-185261128102613675.htm",
+"summary": "TP.HCM yêu cầu lập danh sách người hoạt động không chuyên trách ở khu phố, ấp đủ điều kiện hưởng chính sách hỗ trợ một lần, hoàn tất chi trả trước ngày 31.3.2027.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/tnw-phuong-phu-nhuan-lay-y-kien-sap-xep-khu-pho-ctv-17813382357801444699267-69-0-819-1200-crop-179583610514412252229-17958361252751858077453.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T12:04:00+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
+{
+"id": "a1d520adc498",
+"title": "Cục An minh mạng đưa ra khuyến cáo sau khi Master Anh Đức bị bắt",
+"link": "https://thanhnien.vn/cuc-an-minh-mang-dua-ra-khuyen-cao-sau-khi-master-anh-duc-bi-bat-185261128113824258.htm",
+"summary": "Theo Cục An ninh mạng, vụ việc Master Anh Đức bị bắt là lời cảnh báo đối với các cá nhân, tổ chức hoạt động kinh doanh trên nền tảng số, đặc biệt là lĩnh vực đào tạo trực tuyến, bán khóa học, bán sách...",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/ad-17958404321831870421358-58-0-1338-2048-crop-17958406148701495813125.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T12:03:00+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
+{
+"id": "9b7a274151e6",
+"title": "Vì sao súp lơ, xà lách Trung Quốc vào Việt Nam tăng đột biến",
+"link": "https://vnexpress.net/vi-sao-sup-lo-xa-lach-trung-quoc-vao-viet-nam-tang-dot-bien-5149841.html",
+"summary": "Súp lơ, xà lách Trung Quốc có giá thấp hơn, hình thức đồng đều và nguồn hàng ổn định, trong khi rau trong nước chịu sức ép từ thời tiết, mùa vụ và chi phí sản xuất.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/28/sup-lo-1795826338-3431-1795826370.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9GyGK7C0F2igX3J7uF4jbQ",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-28T12:00:46+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
+{
+"id": "c46f7649cb59",
+"title": "'Cô Thoa phù thủy' biến tiết lịch sử thành sân chơi hào hứng cho học sinh",
+"link": "https://tuoitre.vn/co-thoa-phu-thuy-bien-tiet-lich-su-thanh-san-choi-hao-hung-cho-hoc-sinh-100261128074241786.htm",
+"summary": "Thay vì những màn dò sổ điểm căng thẳng đến 'nín thở', cô giáo dạy lịch sử khiến học trò vừa hồi hộp vừa cười nghiêng ngả với 1.001 chiêu gọi trả bài 'thiên biến vạn hóa': từ kêu lô tô, tung xúc xắc cho đến bốc thăm chẵn lẻ.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/28/2aoborfghnl5kp8zmeyj5xpzazhtfhtjoaz7gddy1-1795826535650452485206-0-48-1136-1866-crop-17958265399531138953962.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-28T12:00:00+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
+{
+"id": "d25147b3ae1b",
+"title": "Hà Nội thúc đẩy kết nối đầu tư, mở rộng chuỗi cung ứng cho doanh nghiệp nhỏ và vừa",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjE4RlpKZ3Nlb2JtcUktZTFSbzh1SnE3WjFRMWFRU281Q0ZrWTVabWUteHFLU1dPTi1kazNRRHRuZVB1MFQtOFowUnh4bU0wOTVXQjhWMHdKSTJibnZzMDV4OVJoUU9qTnlvQ054U185a0cwVjl1Skt6TW5aSjk2cmJTRjhqeFlqRlJpRVJmaWhacnVwcWYxVW9SaXdZRllVaE5yTUpJVExLWFI3blE5T1FrbXk?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-28T11:58:00+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
+{
+"id": "17ff74cf7b01",
+"title": "Từ ông chú ở chợ đến doanh nghiệp \"chạy đua\" livestream bán hàng mùa Tết",
+"link": "https://dantri.com.vn/kinh-doanh/tu-ong-chu-o-cho-den-doanh-nghiep-chay-dua-livestream-ban-hang-mua-tet-20261126234027812.htm",
+"summary": "(Dân trí) - Một tiểu thương lớn tuổi livestream bán đầm ở chợ hay nhiều cửa hàng thời trang, gia dụng, bánh kẹo... đều đang ứng dụng kênh số, video ngắn, livestream là công cụ tiếp cận khách hàng mùa Tết.",
+"image": "https://cdnphoto.dantri.com.vn/x63lMoJipJdwEYtN_t5YPlBqFCg=/2026/11/27/ong-chu-ban-dam-cropped-1795755448534.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-28T11:51:23+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
 {
 "id": "db44903b6d6f",
 "title": "Đồng USD tăng tuần thứ tư liên tiếp nhờ kỳ vọng về lãi suất",
@@ -290,6 +378,17 @@
 "found": "2026-11-28T11:56:41+07:00"
 },
 {
+"id": "5821259aece1",
+"title": "Chủ căn hộ cũ có thể nhận tiền, đất khi chung cư bị phá dỡ",
+"link": "https://dantri.com.vn/bat-dong-san/chu-can-ho-cu-co-the-nhan-tien-dat-khi-chung-cu-bi-pha-do-20261128104902494.htm",
+"summary": "(Dân trí) - Từ ngày 1/7/2027, chủ sở hữu nhà chung cư cũ được lựa chọn nhận nhà tái định cư, nhà ở xã hội, tiền hoặc quyền sử dụng đất khi cải tạo, xây dựng lại chung cư.",
+"image": "https://cdnphoto.dantri.com.vn/I-FSDNzXELAhys9lbI6MfPoOCgo=/2026/09/27/chungcu-phamthehiennamanh0d7a0978jpg-1754552449107-1790443757333.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-28T11:36:35+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
+{
 "id": "7aaf1abd713c",
 "title": "Nhà phố 5 tầng với những góc nhỏ đậm chất Nhật",
 "link": "https://cafef.vn/nha-pho-5-tang-voi-nhung-goc-nho-dam-chat-nhat-18826112808554706.chn",
@@ -299,6 +398,17 @@
 "cat": "bds",
 "published": "2026-11-28T11:24:00+07:00",
 "found": "2026-11-28T11:41:08+07:00"
+},
+{
+"id": "a8fae9f279fa",
+"title": "Người Mỹ chật vật săn giảm giá Black Friday",
+"link": "https://vnexpress.net/nguoi-my-chat-vat-san-giam-gia-black-friday-5149928.html",
+"summary": "Người Mỹ đổ đến các trung tâm thương mại và website hôm 27/11, nhưng khó tìm được các ưu đãi đủ lớn để bù lạm phát.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/28/2026t114640z-mt1usatoday304548-3087-1183-1795839127.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hH-sqDKKF40_TBR9FwVAVA",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-28T11:23:29+07:00",
+"found": "2026-11-28T12:12:05+07:00"
 },
 {
 "id": "60dddcb1a99d",
@@ -367,6 +477,17 @@
 "found": "2026-11-28T11:08:11+07:00"
 },
 {
+"id": "abdcb26b1f40",
+"title": "VNTB – Đừng để sự cẩu thả làm lu mờ ý nghĩa của một ngày lễ mới",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWtwQ2Z6ZWhodEdsTmh0UUMyOWdIUnVEbDIzalFoV2xDR05HZmlEdDFYRlV0MEM0UmVrampKWk42b3NSVGFPVnh5X2Q1ZkhDYlBaMG81RzlYMTJIbUxVNlZUYUFDVk9tcjZkX05QZXJmS3NjWmRVdlVMSTZoTXYxQXBaWkp5UUl5b1lzWnE1NmJVdU0?oc=5",
+"summary": "Nguồn: Việt Nam Thời Báo",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-28T11:10:49+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
+{
 "id": "18362f844360",
 "title": "Bị khởi tố vì dùng ChatGPT bêu xấu hàng xóm",
 "link": "https://thanhnien.vn/bi-khoi-to-vi-dung-chatgpt-beu-xau-hang-xom-185261128101018759.htm",
@@ -398,6 +519,28 @@
 "cat": "tc",
 "published": "2026-11-28T11:00:00+07:00",
 "found": "2026-11-28T11:08:11+07:00"
+},
+{
+"id": "5a446574d574",
+"title": "Gần 100 bạn trẻ là nhà sáng tạo nội dung số hội ngộ tại TP.HCM",
+"link": "https://tuoitre.vn/gan-100-ban-tre-la-nha-sang-tao-noi-dung-so-hoi-ngo-tai-tphcm-100261128070256842.htm",
+"summary": "Trong hai ngày 28 và 29, tại TP.HCM, Trung ương Đoàn lần đầu tiên tổ chức chương trình gặp mặt và tôn vinh các thanh niên làm sáng tạo nội dung số tích cực trên không gian mạng năm 2026.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/28/kol-bui-ngoc-cong-2-17958239600141202623145-0-0-1152-1843-crop-1795824041397942631583.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-28T11:00:00+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
+{
+"id": "b572671648e5",
+"title": "Đừng 'bào mòn' sức khỏe vì nghĩ mình còn trẻ",
+"link": "https://tuoitre.vn/dung-bao-mon-suc-khoe-vi-nghi-minh-con-tre-100261126221604068.htm",
+"summary": "27 tuổi nhưng tôi đã bị lồi đĩa đệm. Ai biết chuyện cũng cảm thán, tuổi còn trẻ mà đã mắc căn bệnh vốn chỉ thường gặp ở người trung niên, cao tuổi.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/ngoi-nhieu-174876318452765796470-7-0-365-573-crop-1795790026109383281363.png",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-28T11:00:00+07:00",
+"found": "2026-11-28T12:12:05+07:00"
 },
 {
 "id": "c50c5ab36c10",
@@ -433,6 +576,17 @@
 "found": "2026-11-28T11:41:08+07:00"
 },
 {
+"id": "ec5e4dff9661",
+"title": "Ba thế hệ gìn giữ nghề dệt thổ cẩm M'nông",
+"link": "https://tuoitre.vn/ba-the-he-gin-giu-nghe-det-tho-cam-mnong-100261128091305803.htm",
+"summary": "Từ khung cửi bên bếp lửa, ba thế hệ phụ nữ M'nông truyền nhau nghề dệt thổ cẩm và tìm cách đưa những hoa văn của buôn làng đến với người trẻ.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/28/9bec3cdcbf513f0f6640-1795830896987649270445-101-0-1701-2560-crop-17958315067772009176768.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-28T10:55:00+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
+{
 "id": "34cc458f7f07",
 "title": "Thủ tướng Thái Lan đến Hà Nội, tham dự Hội nghị cấp cao ACMECS lần thứ 11",
 "link": "https://tuoitre.vn/thu-tuong-thai-lan-den-ha-noi-tham-du-hoi-nghi-cap-cao-acmecs-lan-thu-11-100261128103414091.htm",
@@ -452,8 +606,19 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T10:50:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-28T11:08:11+07:00"
+},
+{
+"id": "619822226d7d",
+"title": "Hai lần lên máy bay đến 2h sáng, hơn 200 khách vẫn không được bay, Vietravel hỗ trợ 300.000 đồng",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkJmQjY2NUNUQVF6WFk0b3dlazJFRG0tb1paMHYxSTI3amZuYnRHX2NyZl9DMW5DdW5SVlZKbE1NUVN3dnZLcEx6Tm9Ob2tKR196aDNGUVNKdjJaaF9jdTZYZjN0Ml9qQnRzZWh1YjlHV3Z2Vk1jdDktQ0djVDlna0cwQlVXUVB3SGI5Z3d3dW1UZGk3NEZ2SzYzRmdoV1FTSmotdUhwdGFLMHR3bXNPandwSkJ5Y2E5dUVMODdVVER6d01pVUJMbTZUano?oc=5",
+"summary": "Nguồn: Báo Điện tử An ninh Thủ đô",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-28T10:49:00+07:00",
+"found": "2026-11-28T12:12:05+07:00"
 },
 {
 "id": "bca6efd08063",
@@ -642,6 +807,17 @@
 "cat": "tc",
 "published": "2026-11-28T10:26:41+07:00",
 "found": "2026-11-28T11:25:36+07:00"
+},
+{
+"id": "46b625a540dd",
+"title": "Ông Trump từng vận động Venezuela, Iraq rời OPEC",
+"link": "https://vnexpress.net/ong-trump-tung-van-dong-venezuela-iraq-roi-opec-5149903.html",
+"summary": "Chính quyền Tổng thống Trump từng thuyết phục Venezuela, Iraq cân nhắc rời OPEC hồi đầu năm, theo Reuters.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/28/2026t122959z-rc2mz7ajuvsl-rtrm-4495-9935-1795836249.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1MqB_8asV104XWTklDyiDg",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-28T10:26:41+07:00",
+"found": "2026-11-28T12:12:05+07:00"
 },
 {
 "id": "0facdb4f91a7",
@@ -895,7 +1071,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T10:00:00+07:00",
-"traffic": "5000+",
+"traffic": "10000+",
 "found": "2026-11-28T10:22:42+07:00"
 },
 {
@@ -2297,6 +2473,17 @@
 "found": "2026-11-28T08:25:49+07:00"
 },
 {
+"id": "8ef41a303332",
+"title": "Từng gây xôn xao với Trường Giang, Khánh My hiện sở hữu khối tài sản “khủng“ ra sao?",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSTcxMFFLUEpjZGFmTXF3cVVRNWt0X1Y1anFQTElRT0tVSkJ2eHY2RVNDVnJFNWtidkhsUTJ6dHB0bG1SSmhRTU1tYWw3TFZfSWhLRi1DWmxtUkZ2N2h6LTJwMnp2cjYxalNaSHR0NHpxWV9PelBZXzdjU1VlV0EtVzU3N2pMdS1lLTJGcE5CSG9oVnRNbHlwbG5CM3paZ0JHQzJOZ01YQmdndw?oc=5",
+"summary": "Nguồn: tin.skydoor.net",
+"image": "",
+"source": "Google News",
+"cat": "xh",
+"published": "2026-11-28T07:49:46+07:00",
+"found": "2026-11-28T12:12:05+07:00"
+},
+{
 "id": "bf9124798acd",
 "title": "Đất vườn hết hạn sử dụng, trường hợp nào được tiếp tục sử dụng mà không phải gia hạn?",
 "link": "https://cafef.vn/dat-vuon-het-han-su-dung-truong-hop-nao-duoc-tiep-tuc-su-dung-ma-khong-phai-gia-han-188261128064955263.chn",
@@ -2374,6 +2561,17 @@
 "cat": "xh",
 "published": "2026-11-28T07:36:00+07:00",
 "found": "2026-11-28T07:58:22+07:00"
+},
+{
+"id": "3ba73b9315c9",
+"title": "Kiếm 750 triệu đồng/năm, người vợ 37 tuổi vẫn canh cánh khoản nợ 350 triệu, xin lời khuyên với 2 cây vàng",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1ZUbE5OY3Q1ZmNQYnljR0ZCcXFTUjZwYTJEdnVYUHhQZThIYjZoOHRjMFMwQklSdFJtQnBjelM5ZDJYV21YWUdwMm90WHhVVHhxVTlIdTMyNXdKOWpIXzVEVWZmbzJLNV96cEpyWDR3QU9LVV9Na2tDUjR4MFFlZERKb2ZTWnNIQmszWXlRcFB5X2lnSXhaZzA2UW1JdzJBUUZXYXoyY2VTNlRsSFNjRFI0NmFPcFMyeXFuaTcwdklKX1Z4eDRWdmZ5Yk9GSHE4d1E?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-28T07:36:00+07:00",
+"found": "2026-11-28T12:12:05+07:00"
 },
 {
 "id": "337b97027508",
@@ -27836,210 +28034,6 @@
 "published": "2026-11-25T20:50:00+07:00",
 "traffic": "100+",
 "found": "2026-11-25T23:20:49+07:00"
-},
-{
-"id": "5c0f33752f47",
-"title": "Giao dịch tăng vọt, thanh toán QR xuyên biên giới đối mặt 4 thách thức",
-"link": "https://vneconomy.vn/giao-dich-tang-vot-thanh-toan-qr-xuyen-bien-gioi-doi-mat-4-thach-thuc.htm",
-"summary": "Trong 10 tháng đầu năm 2026, giao dịch thanh toán QR của du khách Thái Lan, Lào và Campuchia tại Việt Nam tăng gấp 15 lần về số lượng và 14 lần về giá trị so với cùng kỳ. Để khai thác hiệu quả sức mua của khách quốc tế, các chuyên gia cho rằng cần giải quyết 4 thách thức: liên…",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/61c95dd651964e4e9bcc386ba5888748-138664.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-25T20:45:35+07:00",
-"found": "2026-11-25T20:51:04+07:00"
-},
-{
-"id": "43e26d22c746",
-"title": "công an xã bình xuyên",
-"link": "https://dantri.com.vn/phap-luat/lam-ro-ve-nguoi-mac-quan-ao-cong-an-di-xe-may-bien-xanh-80a-99999-20261125162258662.htm",
-"summary": "Làm rõ về người mặc quần áo công an, đi xe máy biển xanh 80A-99999 (Báo Dân trí)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOm9Xcq1d4KbSfE10b4nyceqvwTOkS5Yp9gAocIy5BF3K2PCXOTnRDxZU218w",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T20:40:00+07:00",
-"traffic": "500+",
-"found": "2026-11-25T21:06:14+07:00"
-},
-{
-"id": "e3a6bf6a9290",
-"title": "Công an vào cuộc vụ một phụ nữ mất liên lạc 3 ngày rồi bất ngờ trở về nói bị 'chuốc thuốc mê'",
-"link": "https://kenh14.vn/cong-an-vao-cuoc-vu-mot-phu-nu-mat-lien-lac-3-ngay-roi-bat-ngo-tro-ve-noi-bi-chuoc-thuoc-me-215261125195752485.chn",
-"summary": "Sau những ngày mất liên lạc với gia đình, người phụ nữ ở Phú Thọ đã trở về nhà an toàn. Theo lời kể ban đầu, sau khi đi bán rau ở chợ, chị gặp một người lạ, rồi tỉnh lại trong xe tải và tìm cách bỏ chạy.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795611413646-17956114148841948951951.webp",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-25T20:35:00+07:00",
-"found": "2026-11-25T20:51:04+07:00"
-},
-{
-"id": "b573194bd639",
-"title": "Vì sao ngay cả nhà đầu tư thận trọng cũng khó tránh bong bóng AI?",
-"link": "https://vneconomy.vn/vi-sao-ngay-ca-nha-dau-tu-than-trong-cung-kho-tranh-bong-bong-ai.htm",
-"summary": "Theo các nhà kinh tế, cách vận hành của quỹ chỉ số khiến danh mục của cả những nhà đầu tư thụ động và thận trọng ngày càng tập trung vào cổ phiếu AI, trong bối cảnh nhóm này biến động mạnh những tháng gần đây...",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/3af5a9b88b544bd2a81aa56f299ec5b8-138529.png?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-25T20:33:03+07:00",
-"found": "2026-11-25T20:51:04+07:00"
-},
-{
-"id": "c54c0280d181",
-"title": "Phát huy vai trò vốn nhà nước, khơi thông nguồn lực xã hội",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOG1XTktHSHN1LXJGTzVZSXZyTm1yaXFaLVBvZUg2NnhIMUpiQnVURmpFN0NpeVRsbVFGS1Z1WU1YVENVVWNRZ0xEVXIzVndlVmRlQzE0MFZBWVc0d2oweFhVVVhLUVdoa0VvRG1iRC1kM09aMldBN1lqaFlvNFVxVkNuYnNwZkkxZFNZdFNTRWpqNmlM?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T20:33:00+07:00",
-"found": "2026-11-25T20:51:04+07:00"
-},
-{
-"id": "dfa0efe2690a",
-"title": "Bí thư Đà Nẵng: Không để dân nhường đất làm dự án rồi phải vay tiền xây nhà",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNURLYjN0UzdnS0xkQkotYXhpUGhWckQycGotRTVXQVBVMXlMU3JUanB3TWFHcVRydVYzVmVaM3FBN2dwcW51ZEFYVktDcGhoRDNvMnQydU54RnFGUENJNExicTNUak94TXFSV3VIeVFUaWxGMndvQ1lvSjNVQ3ZtU0dRdjJXNUNqalNQZ096TGhORTBuU0JhNG9IaThnSmdlaVZESVhGaUdwekE?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T20:32:00+07:00",
-"found": "2026-11-25T21:06:14+07:00"
-},
-{
-"id": "5668335b506a",
-"title": "đường vành đai 5",
-"link": "https://dantri.com.vn/bat-dong-san/lo-trinh-trien-khai-du-an-duong-vanh-dai-5-vung-thu-do-20261125174207563.htm",
-"summary": "Lộ trình triển khai dự án đường Vành đai 5 Vùng Thủ đô (Báo Dân trí)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStOQ9QT_uth9Tm0pWCDsKGL9QPqTOiF2gtb6XhRSh3p-IGrzqPPJpmIC9bVuQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T20:30:00+07:00",
-"traffic": "200+",
-"found": "2026-11-25T20:51:04+07:00"
-},
-{
-"id": "60575ef9bf15",
-"title": "C.P. Việt Nam được vinh danh tại kỷ niệm 80 năm Hội Chữ thập đỏ Việt Nam",
-"link": "https://thanhnien.vn/cp-viet-nam-duoc-vinh-danh-tai-ky-niem-80-nam-hoi-chu-thap-do-viet-nam-185261125195610268.htm",
-"summary": "Ông Soopakij Chearavanont, Chủ tịch Tập đoàn C.P., đại diện C.P. Việt Nam đón nhận biểu trưng vinh danh 'Tập thể, doanh nghiệp đồng hành vì cộng đồng' do Tổng Bí thư, Chủ tịch nước Tô Lâm, Chủ tịch danh dự Hội Chữ thập đỏ Việt Nam trực tiếp trao tặng.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/1-1795611003100180575251-44-0-880-1338-crop-1795611208385232904660.jpg",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-25T20:30:00+07:00",
-"found": "2026-11-25T21:06:14+07:00"
-},
-{
-"id": "f103b07d7f05",
-"title": "đội tuyển bóng đá u-17 quốc gia brasil",
-"link": "https://laodong.vn/lich-thi-dau/lich-thi-dau-bong-da-u17-viet-nam-vs-u17-mali-tai-giai-u17-world-cup-2026-1806352.ldo",
-"summary": "Lịch thi đấu bóng đá U17 Việt Nam vs U17 Mali tại giải U17 World Cup 2026 (Laodong.vn)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUomAXkDL1pskv8pQrU-mbgHfyOIuD4Yjvu0VIpzOixIKU817sd5QfeQCVNpc",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T20:30:00+07:00",
-"traffic": "5000+",
-"found": "2026-11-25T21:21:27+07:00"
-},
-{
-"id": "3a2aa04385d2",
-"title": "Tận dụng ưu đãi FTA gắn với minh bạch xuất xứ hàng hóa",
-"link": "https://vneconomy.vn/tan-dung-uu-dai-fta-gan-voi-minh-bach-xuat-xu-hang-hoa.htm",
-"summary": "Các hiệp định thương mại tự do mở ra cơ hội hưởng ưu đãi thuế quan, nhưng doanh nghiệp phải đáp ứng chặt chẽ quy tắc xuất xứ, minh bạch nguồn gốc nguyên liệu và quy trình sản xuất. Cùng với những thay đổi trong chính sách hải quan, yêu cầu tuân thủ ngày càng cao đang đặt ra bài…",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/25/611b4812debe4bc698e0e4945468e9d6-138675.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-25T20:29:32+07:00",
-"found": "2026-11-25T20:51:04+07:00"
-},
-{
-"id": "4ce37b9146b3",
-"title": "Vụ 15 thửa đất ở hồ Sông Ray: Giao thanh tra khẩn trương làm rõ",
-"link": "https://thanhnien.vn/vu-15-thua-dat-o-ho-song-ray-giao-thanh-tra-khan-truong-lam-ro-185261125191635279.htm",
-"summary": "UBND thành phố Đồng Nai giao Thanh tra thành phố khẩn trương thanh tra việc chấp hành pháp luật về đất đai, xây dựng đối với 15 thửa đất ở hồ Sông Ray.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/tnw-ho-song-ray-4-1795609430883853173907-0-88-634-1102-crop-17956096084331470237732.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-25T20:27:00+07:00",
-"found": "2026-11-25T20:51:04+07:00"
-},
-{
-"id": "e2732231f5b3",
-"title": "Giá mua, bán vàng nhẫn “4 số 9” và vàng miếng SJC giảm mạnh",
-"link": "https://vneconomy.vn/gia-mua-ban-vang-nhan-4-so-9-va-vang-mieng-sjc-giam-manh.htm",
-"summary": "Trong phiên 25/11, giá mua, bán vàng miếng SJC giảm phổ biến 900 nghìn đồng/lượng mỗi chiều so với giá chốt phiên trước kì nghỉ lễ (23/11). Với vàng nhẫn “4 số 9”, giá giao dịch giảm từ 1 triệu – 1,3 triệu đồng/lượng, tuỳ doanh nghiệp",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/08/25/430980685cff4ff89a098bd5a7c4ef68-114703.jpg?w=1200&h=630&mode=crop",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-25T20:24:24+07:00",
-"found": "2026-11-25T20:51:04+07:00"
-},
-{
-"id": "1a90c986bdda",
-"title": "Chủ tịch VietCredit Nguyễn Đức Phương xin từ nhiệm",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSTdfc2NJRTZWRDNKQTJIQnN5RVpqbkZJNUdfZVBVaTU2UENLRlFHN0lTTVBxOUx0Q1JmUWllUURCLTJ1R0ZOdDhmWTdockkzTTk0UVB4ZTZwYlF0azR2enhrY2g3Wk5lYmJYRmRXZ3htb281dTVoZGNDNC1NcHZkWjlqVm9NVHdoRlFj?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T20:21:00+07:00",
-"found": "2026-11-26T06:47:02+07:00"
-},
-{
-"id": "ce48a985d9d5",
-"title": "Thị trường chứng khoán thiếu lực cầu, nhà đầu tư được khuyến nghị hạ tỷ trọng",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGxhR3haYlZwTGZFMThaQW8xeDdSeE9UdXRTTWxVVUhZczRKYXVWV3N2ZE5UYVdFV2NYV2dGMHMzdkhGUk9FazlINnJ1WWFRWFZtTmxNQjBaUzZPOWhUczNJcmRaNlphZXZGNTgyYkIwREl4cndIT21ibF9RaUVPaU82UjlkSVhuYTNsaHZZM3ROMHJ2WVUyV09WUWFydXNoVmpuanVLRXdveTVjdHc?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "tc",
-"published": "2026-11-25T20:20:00+07:00",
-"found": "2026-11-25T20:51:04+07:00"
-},
-{
-"id": "dd33a2385c25",
-"title": "forex factory",
-"link": "https://www.bbc.com/news/articles/c893r9ke5p97o",
-"summary": "US announces new tariffs on host of countries including China (BBC)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiHziJYI-7p0o9g4lkE-6R3wpWQfLkQlOPmpLKLLKKgIr-6c1vuRYVU7NHEwc",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T20:20:00+07:00",
-"traffic": "200+",
-"found": "2026-11-25T20:51:04+07:00"
-},
-{
-"id": "736fa7d35b52",
-"title": "forexfactory",
-"link": "https://investinglive.com/commodities/gold-erases-gains-as-nvidia-optimism-fades-and-us-moves-to-restore-tariffs-to-2025-levels/",
-"summary": "Gold erases gains as Nvidia optimism fades and US moves to restore tariffs to 2025 levels (investingLive)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5i72c-uH4I0kxric3ULy12DpS0dkkAD2M7NRv7QuhkiU-TFeKAeU3Vr09h9s",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T20:20:00+07:00",
-"traffic": "100+",
-"found": "2026-11-25T21:36:40+07:00"
-},
-{
-"id": "8604cf7415c7",
-"title": "xsmn hôm xổ số miền nam 25 11",
-"link": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-soc-trang-hom-nay-ngay-2511-1806501.ldo",
-"summary": "Kết quả xổ số Sóc Trăng hôm nay ngày 25.11 (Laodong.vn)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxak-HhGvBH-tJNPfZZAwGZAeyzckjzO8y6wFWcpNTkyjH8X-TzsCRppQDIj8",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T20:20:00+07:00",
-"traffic": "50000+",
-"found": "2026-11-25T21:51:40+07:00"
-},
-{
-"id": "5cbe8e0e0cc2",
-"title": "Tổng Bí thư, Chủ tịch nước Tô Lâm làm việc với Bộ Quốc phòng và các cơ quan Trung ương",
-"link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-lam-viec-voi-bo-quoc-phong-va-cac-co-quan-trung-uong-100261125191209809.htm",
-"summary": "Chiều 25-11, Tổng Bí thư, Chủ tịch nước Tô Lâm, Bí thư Quân ủy Trung ương, đã chủ trì buổi làm việc với Bộ Quốc phòng và các cơ quan Trung ương về chính sách phát triển lý luận đường lối quốc phòng và nghệ thuật quân sự Việt Nam.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/tbt-17956129390501132857851-790-756-1877-2496-crop-1795613041137577423798-0-0-1072-1716-crop-1795613053832387378594.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T20:19:00+07:00",
-"found": "2026-11-25T21:21:27+07:00"
 }
 ]
 }
