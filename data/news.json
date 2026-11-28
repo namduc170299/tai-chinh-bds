@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T17:46:53+07:00",
-"new": 6,
+"updated": "2026-11-28T18:02:03+07:00",
+"new": 7,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 42
+"count": 21
 },
 {
 "name": "Kenh14",
@@ -213,6 +213,39 @@
 "fix_kenh14_tz": true,
 "items": [
 {
+"id": "220ec231d333",
+"title": "Chứng khoán tuần qua: Thị trường rung lắc mạnh, cổ phiếu DCL “lao dốc” thẳng đứng",
+"link": "https://cafef.vn/chung-khoan-tuan-qua-thi-truong-rung-lac-manh-co-phieu-dcl-lao-doc-thang-dung-188261128175232966.chn",
+"summary": "Thị trường chứng khoán rung lắc mạnh; Cổ phiếu DCL “lao dốc” thẳng đứng; HGI của bầu Đức được phép phát hành cổ phiếu thấp hơn 85% giá thị trường để trả nợ; Chủ tịch HĐQT TIG Nguyễn Phúc Long bị bán giải chấp hơn 6 triệu cổ phiếu, …",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/avatar1795863095803-1795863098097331641004.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-28T17:56:00+07:00",
+"found": "2026-11-28T18:02:03+07:00"
+},
+{
+"id": "a6908b9b2a8a",
+"title": "Cổ đông lớn nắm 54,06% vốn Chứng khoán Thành Công muốn bán ra cổ phiếu",
+"link": "https://cafef.vn/co-dong-lon-nam-5406-von-chung-khoan-thanh-cong-muon-ban-ra-co-phieu-188261128175122865.chn",
+"summary": "Sài Gòn 3 Capital đăng ký bán ra 5,8 triệu cổ phiếu TCI để giảm sở hữu xuống 49,04% vốn Chứng khoán Thành Công.",
+"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/28/avatar1795863064134-17958630648482143337312.png",
+"source": "CafeF",
+"cat": "tc",
+"published": "2026-11-28T17:56:00+07:00",
+"found": "2026-11-28T18:02:03+07:00"
+},
+{
+"id": "cef6e6c62d10",
+"title": "Giải cứu 20 trẻ mắc kẹt trong điểm trường ngập sâu ở Quy Nhơn",
+"link": "https://thanhnien.vn/giai-cuu-20-tre-mac-ket-trong-diem-truong-ngap-sau-o-quy-nhon-185261128165715994.htm",
+"summary": "Mưa lớn gây ngập sâu phân hiệu của Trường mầm non Quang Trung ở Quy Nhơn, lực lượng chức năng kịp thời giải cứu 20 trẻ đang ngủ trưa, đưa ra ngoài an toàn.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/edit-9244238061221875043688165127686310836063136560n-17958592427401585262665-0-0-937-1499-crop-1795859815121289686225.jpeg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T17:48:00+07:00",
+"found": "2026-11-28T18:02:03+07:00"
+},
+{
 "id": "51bb94baa12f",
 "title": "16 sinh viên nhận học bổng của Quỹ 'Vì tuổi trẻ vùng cao và hải đảo'",
 "link": "https://thanhnien.vn/16-sinh-vien-nhan-hoc-bong-cua-quy-vi-tuoi-tre-vung-cao-va-hai-dao-185261128162136459.htm",
@@ -222,6 +255,17 @@
 "cat": "mxh",
 "published": "2026-11-28T17:42:00+07:00",
 "found": "2026-11-28T17:46:53+07:00"
+},
+{
+"id": "5069c0a0ff5a",
+"title": "Bộ trưởng Australia vào bếp ở siêu thị tại TPHCM, muốn tăng gấp đôi thương mại với Việt Nam",
+"link": "https://dantri.com.vn/kinh-doanh/bo-truong-australia-vao-bep-o-sieu-thi-tai-tphcm-muon-tang-gap-doi-thuong-mai-voi-viet-nam-20261128172620535.htm",
+"summary": "(Dân trí) - Trực tiếp chế biến thịt bò, thịt cừu tại một siêu thị ở TPHCM, Bộ trưởng Thương mại và Du lịch Australia Don Farrell cho biết muốn nâng kim ngạch thương mại hai nước lên 60 tỷ AUD trong 5 năm tới.",
+"image": "https://cdnphoto.dantri.com.vn/fsNOj7vKQnEIjciiVTlHwkQuH-g=/2026/11/28/thumb-1795860821470.jpg",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-28T17:38:08+07:00",
+"found": "2026-11-28T18:02:03+07:00"
 },
 {
 "id": "854a42b72129",
@@ -267,6 +311,28 @@
 "published": "2026-11-28T17:30:00+07:00",
 "traffic": "200+",
 "found": "2026-11-28T17:46:53+07:00"
+},
+{
+"id": "1c828de560e3",
+"title": "Hộ kinh doanh và nỗi lo xuất hóa đơn điện tử",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlNaVGZ5TGFCMUtPVjlFeUZrdTU3ZklwekZzYjJ6b1Bfdmt6clR5LVNWaHVNMmVaRGI3UW1tSWVOSG0zanppNXdia0o3OXBFMkpvSFg5SkZDNU5yc3FJNS01c2xKQjRsbWlpdXB6d3VSb0ZWeXFSY3l0RFNLcENpV1NnZw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-28T17:28:00+07:00",
+"found": "2026-11-28T18:02:03+07:00"
+},
+{
+"id": "1e9a72b2b76b",
+"title": "Thưởng Tết ở 'thủ phủ' công nghiệp phía Bắc: cao nhất hơn 560 triệu đồng",
+"link": "https://tuoitre.vn/thuong-tet-o-thu-phu-cong-nghiep-phia-bac-cao-nhat-hon-560-trieu-dong-100261128150032552.htm",
+"summary": "Sở Nội vụ Bắc Ninh vừa có báo cáo về tình hình tiền lương năm 2025 và kế hoạch thưởng Tết năm 2026 của các doanh nghiệp.",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/28/cong-doan-bac-ninh31-1795852692190850449785-238-0-1423-1895-crop-17958527500241906715026.jpg",
+"source": "Tuổi Trẻ",
+"cat": "mxh",
+"published": "2026-11-28T17:24:00+07:00",
+"found": "2026-11-28T18:02:03+07:00"
 },
 {
 "id": "68b5db9e587c",
@@ -399,6 +465,17 @@
 "cat": "xh",
 "published": "2026-11-28T16:59:00+07:00",
 "found": "2026-11-28T17:31:42+07:00"
+},
+{
+"id": "d21dc4d760a6",
+"title": "Tân Á Đại Thành làm khu đô thị đa mục tiêu gần 300 ha tại Hà Nội",
+"link": "https://vnexpress.net/tan-a-dai-thanh-lam-khu-do-thi-da-muc-tieu-gan-300-ha-tai-ha-noi-5150005.html",
+"summary": "Chiều 28/11, Tân Á Đại Thành khởi công dự án gần 300 ha tại Bồ Đề, Long Biên, Bát Tràng - khu đô thị đa mục tiêu thứ 5 tại Hà Nội.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/dji0716-1795858703-2615-1795859070.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6P2hv1H4hS5J92IztaWzkg",
+"source": "VnExpress",
+"cat": "bds",
+"published": "2026-11-28T16:58:24+07:00",
+"found": "2026-11-28T18:02:03+07:00"
 },
 {
 "id": "94a62f2d3301",
@@ -27893,84 +27970,6 @@
 "cat": "tc",
 "published": "2026-11-26T07:57:00+07:00",
 "found": "2026-11-26T09:31:26+07:00"
-},
-{
-"id": "2345e43c827f",
-"title": "VN-Index giảm mạnh, áp lực điều chỉnh gia tăng trước ngưỡng 1675 điểm",
-"link": "https://vneconomy.vn/vn-index-giam-manh-ap-luc-dieu-chinh-gia-tang-truoc-nguong-1675-diem.htm",
-"summary": "VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 26/11/2026.",
-"image": "https://premedia.vneconomy.vn/files/uploads/2026/11/26/0678f7295f45481cb283d2ff16b17c96-138739.gif",
-"source": "VnEconomy",
-"cat": "tc",
-"published": "2026-11-26T07:56:50+07:00",
-"found": "2026-11-26T07:58:43+07:00"
-},
-{
-"id": "64c7f42b6a36",
-"title": "Grab tiếp sức bác tài với hơn 100.000 bữa ăn từ những “Quán Tốt Bụng”",
-"link": "https://kenh14.vn/grab-tiep-suc-bac-tai-voi-hon-100000-bua-an-tu-nhung-quan-tot-bung-215261125203532632.chn",
-"summary": "Với sự chung tay của cộng đồng đối tác thương nhân tại 6 tỉnh, thành phố, chiến dịch \"Quán Tốt Bụng\" tiếp tục trao tặng những bữa ăn đầy đủ dinh dưỡng đến các bác tài. Đây là nỗ lực của Grab trong việc chăm lo cho đối tác tài xế, lan tỏa tinh thần sẻ chia và gắn kết giữa cộng…",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/photo1795605816274-17956058166511478317750-17956137357051198998863.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-26T07:53:00+07:00",
-"found": "2026-11-26T08:25:16+07:00"
-},
-{
-"id": "f28138f13cee",
-"title": "Giá vàng hôm nay 26-11: Vàng thế giới bật tăng 135 USD, SJC lại giảm 900.000 đồng",
-"link": "https://tuoitre.vn/gia-vang-hom-nay-26-11-vang-the-gioi-bat-tang-135-usd-sjc-lai-giam-900000-ngan-100261126072829631.htm",
-"summary": "Trong nước, vàng miếng SJC giảm 900.000 đồng/lượng ở cả hai chiều mua vào và bán ra.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/179193948099521453623994696020182145362399469602018d83014074f6e3b3c00281d740f96f55a-17956523383352113303964-31-0-1631-2560-crop-17956525560471439865253.jpg",
-"source": "Tuổi Trẻ",
-"cat": "tc",
-"published": "2026-11-26T07:53:00+07:00",
-"found": "2026-11-26T09:31:26+07:00"
-},
-{
-"id": "11fb648ac130",
-"title": "Mỹ đề xuất áp thuế bổ sung 35% với Việt Nam, vẫn còn cơ hội giảm thuế",
-"link": "https://thanhnien.vn/my-de-xuat-ap-thue-bo-sung-35-voi-viet-nam-van-con-co-hoi-giam-thue-185261126071324171.htm",
-"summary": "Cơ quan Đại diện Thương mại Mỹ (USTR) ban hành kết luận sơ bộ vụ điều tra theo Mục 301 về tình trạng dư thừa công suất đối với 14 nền kinh tế, đề xuất mức thuế bổ sung tối đa 35% với hàng Việt Nam.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/photo-1795651540521-17956515419761628274470-0-120-1175-2000-crop-17956516366141358392067.png",
-"source": "Thanh Niên",
-"cat": "tc",
-"published": "2026-11-26T07:52:00+07:00",
-"found": "2026-11-26T07:58:43+07:00"
-},
-{
-"id": "7b2766d3d780",
-"title": "Bộ Xây dựng chính thức 'chốt' tư vấn dự án đường sắt tốc độ cao Bắc Nam",
-"link": "https://thanhnien.vn/bo-xay-dung-chinh-thuc-chot-tu-van-du-an-duong-sat-toc-do-cao-bac-nam-185261125173152397.htm",
-"summary": "Ban Quản lý dự án Thăng Long và liên danh nhà thầu đã ký kết hợp đồng gói thầu TV-02 dự án đường sắt tốc độ cao Bắc - Nam, chiều 25.11.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/25/anh-man-hinh-2026-11-26-luc-000354-1795626248563363531802-164-199-1242-1924-crop-17956263354471856044078.png",
-"source": "Thanh Niên",
-"cat": "xh",
-"published": "2026-11-26T07:51:00+07:00",
-"found": "2026-11-26T07:58:43+07:00"
-},
-{
-"id": "be0fe2e1a1e0",
-"title": "báo quân đội nhân dân (qđnd)",
-"link": "https://trends.google.com/trending/rss?geo=VN",
-"summary": "",
-"image": "",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-26T07:50:00+07:00",
-"traffic": "1000+",
-"found": "2026-11-26T11:08:24+07:00"
-},
-{
-"id": "3b96c447dd29",
-"title": "Từ 15/01/2027, 33 văn bản của Bộ Nội vụ bị bãi bỏ, một loạt quy định về tuyển dụng, xếp lương và vị trí việc làm công chức sẽ thay đổi",
-"link": "https://kenh14.vn/tu-15-01-2027-33-van-ban-cua-bo-noi-vu-bi-bai-bo-mot-loat-quy-dinh-ve-tuyen-dung-xep-luong-va-vi-tri-viec-lam-cong-chuc-se-thay-doi-21526112606565542.chn",
-"summary": "Thông tư mới của Bộ Nội vụ đưa nhiều quy định liên quan trực tiếp đến đội ngũ công chức vào diện bãi bỏ",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795650975535-1795650978049321588599.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-26T07:43:00+07:00",
-"found": "2026-11-26T07:58:43+07:00"
 }
 ]
 }
