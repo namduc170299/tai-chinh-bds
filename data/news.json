@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T11:08:11+07:00",
-"new": 14,
+"updated": "2026-11-28T11:25:36+07:00",
+"new": 9,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 42
+"count": 24
 },
 {
 "name": "Kenh14",
@@ -213,15 +213,26 @@
 "fix_kenh14_tz": true,
 "items": [
 {
-"id": "18362f844360",
-"title": "Bị khởi tố vì dùng ChatGPT bêu xấu hàng xóm",
-"link": "https://thanhnien.vn/bi-khoi-to-vi-dung-chatgpt-beu-xau-hang-xom-185261128101018759.htm",
-"summary": "Nam thanh niên ở Phú Thọ bị khởi tố sau khi dùng ChatGPT bêu xấu hàng xóm, chỉ vì người này có mâu thuẫn với mẹ mình.",
-"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/anh-chup-man-hinh-2026-11-28-luc-094934-17958352999301273322986-0-24-490-808-crop-17958353763131992995084.png",
-"source": "Thanh Niên",
+"id": "622c126aaa20",
+"title": "Mưa lớn miền Trung: Quảng Ngãi có gần 1.000 hộ dân bị cô lập, nhà ngập hơn 1m",
+"link": "https://tuoitre.vn/mua-lon-mien-trung-quang-ngai-co-gan-1000-ho-dan-bi-co-lap-nha-ngap-hon-1m-100261128102210231.htm",
+"summary": "Mưa lớn tại miền Trung khiến gần 1.000 hộ dân ở Quảng Ngãi bị cô lập. Tại Đà Nẵng mưa đã ngớt, thủy điện tiếp tục tích nước. Tại Khánh Hòa mưa tiếp tục kéo dài...",
+"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/28/47ca087e-c001-4daa-868c-af5e6ad8bb8b-1-1795835280837166433748-546-0-1746-1920-crop-17958360560581233194340.jpeg",
+"source": "Tuổi Trẻ",
 "cat": "xh",
-"published": "2026-11-28T11:05:00+07:00",
-"found": "2026-11-28T11:08:11+07:00"
+"published": "2026-11-28T11:18:00+07:00",
+"found": "2026-11-28T11:25:36+07:00"
+},
+{
+"id": "53b3ce71ee4d",
+"title": "Sáng 28/11: Giá bạc thế giới tăng nhẹ",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjVDRmaThPOGJobHUtMmYxRkhtaWswTjB2cVZsS3VfRldaZkdrdEYySTF0c2VMdWNRcTVvYzAzZXFsOFotN05HWUt3c0JsT0hZSU1aNHVMZU5IZXNrcDMwZFhsdU55cFNaRllIRG8ydmN1QlM3Ynk2Qw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-28T11:17:00+07:00",
+"found": "2026-11-28T11:25:36+07:00"
 },
 {
 "id": "1141415c4cca",
@@ -231,7 +242,18 @@
 "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/28/bat-giam-nguoi-dan-ong-mang-dao-den-truong-mam-non-de-doa-giao-vien-hieu-truong-987.jpg?width=0&s=OA5zmJFMvNmlyOS-aQpGlg",
 "source": "VietnamNet",
 "cat": "xh",
-"published": "2026-11-28T11:04:47+07:00",
+"published": "2026-11-28T11:13:26+07:00",
+"found": "2026-11-28T11:08:11+07:00"
+},
+{
+"id": "18362f844360",
+"title": "Bị khởi tố vì dùng ChatGPT bêu xấu hàng xóm",
+"link": "https://thanhnien.vn/bi-khoi-to-vi-dung-chatgpt-beu-xau-hang-xom-185261128101018759.htm",
+"summary": "Nam thanh niên ở Phú Thọ bị khởi tố sau khi dùng ChatGPT bêu xấu hàng xóm, chỉ vì người này có mâu thuẫn với mẹ mình.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/anh-chup-man-hinh-2026-11-28-luc-094934-17958352999301273322986-0-24-490-808-crop-17958353763131992995084.png",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T11:05:00+07:00",
 "found": "2026-11-28T11:08:11+07:00"
 },
 {
@@ -266,6 +288,17 @@
 "cat": "bds",
 "published": "2026-11-28T10:59:00+07:00",
 "found": "2026-11-28T11:08:11+07:00"
+},
+{
+"id": "ac69f44dc6b4",
+"title": "Vì sao lãi suất cho vay mua nhà chưa giảm như kỳ vọng?",
+"link": "https://dantri.com.vn/bat-dong-san/vi-sao-lai-suat-cho-vay-mua-nha-chua-giam-nhu-ky-vong-20261128102247428.htm",
+"summary": "(Dân trí) - Lãi suất cho vay mua nhà tại nhiều ngân hàng thương mại vẫn neo ở mức cao. Các chuyên gia dự báo mặt bằng lãi suất cho vay gần như không còn dư địa để giảm sâu thêm.",
+"image": "https://cdnphoto.dantri.com.vn/ZTnM8dO4wTGYQs8qp2rjUWCu7n4=/2026/09/22/du-bao-dang-luu-y-ve-gia-chung-cu-trong-2-nam-toi-cropped-1790069348359.jpg",
+"source": "Dân Trí",
+"cat": "bds",
+"published": "2026-11-28T10:56:26+07:00",
+"found": "2026-11-28T11:25:36+07:00"
 },
 {
 "id": "34cc458f7f07",
@@ -311,6 +344,17 @@
 "cat": "xh",
 "published": "2026-11-28T10:44:00+07:00",
 "found": "2026-11-28T11:08:11+07:00"
+},
+{
+"id": "9381e5d39f14",
+"title": "Ngân hàng tăng lãi suất ưu đãi, kéo khách gửi tiết kiệm cuối năm",
+"link": "https://dantri.com.vn/kinh-doanh/ngan-hang-tang-lai-suat-uu-dai-keo-khach-gui-tiet-kiem-cuoi-nam-20261128095649188.htm",
+"summary": "(Dân trí) - Từ tháng 10, sau chỉ đạo của Ngân hàng Nhà nước, mặt bằng lãi suất đã hạ nhiệt. Một số ngân hàng cộng ưu đãi theo chương trình hàng tháng, lãi suất gửi tiết kiệm thông thường có thể trên 9%/năm.",
+"image": "https://cdnphoto.dantri.com.vn/__gsirID1h2cldrEFxNo-k_5bow=/2026/11/26/giao-dich-tien-tai-ngan-hang-manh-quan-cropped-cropped-1795703397073.jpg?watermark=v1,v2",
+"source": "Dân Trí",
+"cat": "tc",
+"published": "2026-11-28T10:42:49+07:00",
+"found": "2026-11-28T11:25:36+07:00"
 },
 {
 "id": "ffc77e6f5e97",
@@ -390,6 +434,17 @@
 "found": "2026-11-28T11:08:11+07:00"
 },
 {
+"id": "b37ba2d7df4e",
+"title": "Người đưa gánh đèn lồng Hội An vào tour quảng bá di sản",
+"link": "https://vnexpress.net/nguoi-dua-ganh-den-long-hoi-an-vao-tour-quang-ba-di-san-5149330.html",
+"summary": "Thay vì treo dưới mái hiên cửa hiệu, đèn lồng được anh Nguyễn Anh Cường đưa lên đòn gánh, theo chân nông dân dạo phố cổ, mở ra tour trải nghiệm thu hút giới nhiếp ảnh và du khách.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/top1-1795777233-4627-1795777650.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=c_ILbqR8lGph8mRYdRavjw",
+"source": "VnExpress",
+"cat": "xh",
+"published": "2026-11-28T10:33:12+07:00",
+"found": "2026-11-28T11:25:36+07:00"
+},
+{
 "id": "f2eb77fd1a52",
 "title": "Nữ sinh lớp 7 bị bạn đạp vào mặt, bắt quỳ giữa lớp xin lỗi",
 "link": "https://kenh14.vn/nu-sinh-lop-7-bi-ban-dap-vao-mat-bat-quy-giua-lop-xin-loi-215261128095039207.chn",
@@ -401,6 +456,18 @@
 "found": "2026-11-28T10:53:00+07:00"
 },
 {
+"id": "440ce4531fd0",
+"title": "salt lake đấu với whitecaps",
+"link": "https://bongda24h.vn/nhan-dinh-bong-da/du-doan-real-salt-lake-vs-vancouver-whitecaps-hom-nay-344-465626.html",
+"summary": "Nhận định Real Salt Lake vs Vancouver Whitecaps 10h00 ngày 28/11 (Nhà Nghề Mỹ 2026) (Bongda24h)",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVbEuimWo6vgkiHNGovBnRGnw4ZpK-3dJRCLB13O1I06J410dBR0OkxwtPvfI",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T10:30:00+07:00",
+"traffic": "100+",
+"found": "2026-11-28T11:25:36+07:00"
+},
+{
 "id": "8ebc55a4a31c",
 "title": "Một người đàn ông ở Hà Nội đe dọa đại úy CSGT, ép đưa tiền",
 "link": "https://vietnamnet.vn/ha-noi-de-doa-dai-uy-csgt-ep-dua-180-trieu-dong-roi-nhan-2579507.html",
@@ -410,6 +477,17 @@
 "cat": "xh",
 "published": "2026-11-28T10:29:20+07:00",
 "found": "2026-11-27T20:26:19+07:00"
+},
+{
+"id": "432a49d91c7d",
+"title": "Ông Trump vận động Venezuela, Iraq rời OPEC",
+"link": "https://vnexpress.net/ong-trump-van-dong-venezuela-iraq-roi-opec-5149903.html",
+"summary": "Chính quyền Tổng thống Trump từng thuyết phục Venezuela, Iraq cân nhắc rời OPEC hồi đầu năm, theo Reuters.",
+"image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/28/2026t122959z-rc2mz7ajuvsl-rtrm-4495-9935-1795836249.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1MqB_8asV104XWTklDyiDg",
+"source": "VnExpress",
+"cat": "tc",
+"published": "2026-11-28T10:26:41+07:00",
+"found": "2026-11-28T11:25:36+07:00"
 },
 {
 "id": "0facdb4f91a7",
@@ -675,8 +753,19 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T10:00:00+07:00",
-"traffic": "100+",
+"traffic": "200+",
 "found": "2026-11-28T10:37:51+07:00"
+},
+{
+"id": "85fb96741d3a",
+"title": "Người Kiev giằng co giữa đi hay ở trước mùa đông tối tăm",
+"link": "https://vnexpress.net/nguoi-kiev-giang-co-giua-di-hay-o-truoc-mua-dong-toi-tam-5149517.html",
+"summary": "Mất điện, thiếu nước kéo dài và những đợt tập kích dồn dập đang đẩy cư dân Kiev vào thế giằng co giữa bám trụ qua mùa đông hay rời bỏ thành phố.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/afp-hl-vnguyen-v1-highres-ukra-9675-3023-1795757196.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_T-yYjadYY-WbI21ZDZVeA",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-28T10:00:00+07:00",
+"found": "2026-11-28T11:25:36+07:00"
 },
 {
 "id": "bc7cd887fbf1",
@@ -721,6 +810,17 @@
 "cat": "xh",
 "published": "2026-11-28T09:56:00+07:00",
 "found": "2026-11-28T10:13:55+07:00"
+},
+{
+"id": "d5a09e286ff8",
+"title": "Tin tặc xâm nhập 'nền tảng đám mây chủ chốt' của quân đội Mỹ",
+"link": "https://vnexpress.net/tin-tac-xam-nhap-nen-tang-dam-may-chu-chot-cua-quan-doi-my-5149863.html",
+"summary": "Cloud One, nền tảng điện toán đám mây phụ trách dữ liệu nhân sự, hậu cần và tác chiến của không quân Mỹ, có thể đã bị xâm nhập.",
+"image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/f-1795830385-1397-1795830722.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y7ea1hd1a324m9rBx1Mv6Q",
+"source": "VnExpress",
+"cat": "mxh",
+"published": "2026-11-28T09:55:47+07:00",
+"found": "2026-11-28T11:25:36+07:00"
 },
 {
 "id": "525bc1897071",
@@ -874,7 +974,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T09:40:00+07:00",
-"traffic": "500+",
+"traffic": "1000+",
 "found": "2026-11-28T09:58:42+07:00"
 },
 {
@@ -27942,106 +28042,6 @@
 "cat": "mxh",
 "published": "2026-11-25T20:00:00+07:00",
 "found": "2026-11-26T11:23:34+07:00"
-},
-{
-"id": "1cd4c0e45810",
-"title": "Hoa hồng chậm thanh toán: Môi giới bất động sản “mắc kẹt” trong vòng xoáy công nợ",
-"link": "https://cafef.vn/hoa-hong-cham-thanh-toan-moi-gioi-bat-dong-san-mac-ket-trong-vong-xoay-cong-no-188261125175837356.chn",
-"summary": "Trong khi hoa hồng bị chậm thanh toán, công nợ kéo dài và khả năng tiếp cận vốn ngày càng khó khăn, bài toán sống còn của doanh nghiệp môi giới bất động sản không còn đơn thuần là bán được bao nhiêu sản phẩm, mà là thu được bao nhiêu tiền và duy trì hoạt động bằng nguồn lực nào.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795603990946-1795603993873991852251.jpg",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T19:57:00+07:00",
-"found": "2026-11-25T20:15:30+07:00"
-},
-{
-"id": "3daffae268d3",
-"title": "Quy định mới nhất về đăng ký tạm trú đã chính thức có hiệu lực, tất cả người dân cần biết",
-"link": "https://kenh14.vn/quy-dinh-moi-nhat-ve-dang-ky-tam-tru-da-chinh-thuc-co-hieu-luc-tat-ca-nguoi-dan-can-biet-215261125160236005.chn",
-"summary": "Thông tư 116 ngày 29/6/2026 của Bộ trưởng Bộ Công an quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú, trong đó quy định đăng ký tạm trú.",
-"image": "https://kenh14cdn.com/zoom/600_315/203336854389633024/2026/11/25/avatar1795597319463-17955973198451871923937.jpg",
-"source": "Kenh14",
-"cat": "xh",
-"published": "2026-11-25T19:57:00+07:00",
-"found": "2026-11-25T20:15:30+07:00"
-},
-{
-"id": "a3c6d3c6cdbc",
-"title": "Bắc Ninh đấu giá khu đất gần 2,8 ha làm khu nhà ở tại phường Gia Bình",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGVCdDZDWUMzbEFIVkVaaTdKTURuT2MyRl9GOGdOMWZ1bWFnNGNaZnkzYXF0MHJGX0RZWTFfTkJiXzZnUkF3bFAyS1hYZElfc2RqblZvcDdmNVUzUUlrSGRyeGc0b2JfMXc4TkxiLUJWMTVoY3FQb0w2UnJNX3FzZnYzQTJRUkhLLUJhVzVZU0N3cDN1WW85eElFQ1VoeEtHNFFuUQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T19:55:00+07:00",
-"found": "2026-11-25T20:15:30+07:00"
-},
-{
-"id": "495dce10720f",
-"title": "Mạo nhận cháu lãnh đạo tỉnh để 'chạy' việc, cựu điều dưỡng lĩnh 17 năm tù",
-"link": "https://tuoitre.vn/mao-nhan-chau-lanh-dao-tinh-de-chay-viec-cuu-dieu-duong-linh-17-nam-tu-100261125190303538.htm",
-"summary": "Từng là điều dưỡng tại bệnh viện nhưng do nợ nần, Phạm Việt Hà đã mạo nhận là cháu lãnh đạo tỉnh, có khả năng \"chạy\" việc vào các cơ quan nhà nước để chiếm đoạt 1,77 tỉ đồng của nhiều người.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/bicao-taiphientoaanh-1795607752673715765447-17956115597301094111943-39-779-1097-2472-crop-1795611602884889356201.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T19:55:00+07:00",
-"found": "2026-11-25T21:21:27+07:00"
-},
-{
-"id": "df5193f89b5d",
-"title": "ACV phải xác định rõ thời điểm công bố thông tin khai thác sân bay Long Thành",
-"link": "https://cafef.vn/acv-phai-xac-dinh-ro-thoi-diem-cong-bo-thong-tin-khai-thac-san-bay-long-thanh-188261125191450836.chn",
-"summary": "Phó Thủ tướng Thường trực yêu cầu ACV kịp thời thông tin về việc khai thác sân bay Long Thành để các hãng hàng không chủ động bố trí lịch bay.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795608863521-17956088638801050813273.jpg",
-"source": "CafeF",
-"cat": "tc",
-"published": "2026-11-25T19:54:00+07:00",
-"found": "2026-11-25T20:00:21+07:00"
-},
-{
-"id": "f9f6b40b931b",
-"title": "5 địa phương có nguy cơ không hoàn thành chỉ tiêu cơ sở dữ liệu đất đai năm 2026",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekVOV19RZjJxeWVha1BIbEwzVmxxZjBzRWxMSWpCREFnbVVURmRib3NLN0dCMDBkLXJueGluUVVrMnZxOHpTMzNkeFpfRlpBYzFYdU4xTnJ0WjlsWUYxZkZ1Mm9ZcWlnc0tYZE55TXZuUzRjSlJyazhMekZ2SkNWM1V2NGhSUFlsanpvZzNYUng5UndQWnN4TDFzV0RfazA5R3BzMm1YQW0yZnhxbjdpQ0l6QQ?oc=5",
-"summary": "",
-"image": "",
-"source": "Báo Mới",
-"cat": "bds",
-"published": "2026-11-25T19:53:00+07:00",
-"found": "2026-11-26T01:41:50+07:00"
-},
-{
-"id": "212aac77b11e",
-"title": "Nữ hành khách mang 3 khẩu súng ngắn, 17 viên đạn qua cửa khẩu",
-"link": "https://vietnamnet.vn/nu-hanh-khach-mang-3-khau-sung-ngan-17-vien-dan-qua-cua-khau-2578398.html",
-"summary": "Kiểm tra hành lý của nữ hành khách nhập cảnh từ Lào vào Việt Nam qua Cửa khẩu quốc tế Cầu Treo (Hà Tĩnh), lực lượng chức năng phát hiện 3 khẩu súng ngắn cùng 17 viên đạn.",
-"image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/25/nu-hanh-khach-mang-3-khau-sung-ngan-17-vien-dan-qua-cua-khau-1432.jpg?width=0&s=BtqX0f-OanW4PScLyQiv5A",
-"source": "VietnamNet",
-"cat": "xh",
-"published": "2026-11-25T19:52:12+07:00",
-"found": "2026-11-25T10:39:37+07:00"
-},
-{
-"id": "1b938d9c501f",
-"title": "Truy tố Tuấn “thần đèn” và 12 bị can liên quan",
-"link": "https://cafef.vn/truy-to-tuan-than-den-va-12-bi-can-lien-quan-188261125180831045.chn",
-"summary": "Ngày 25-11, Viện Kiểm sát nhân dân tối cao ban hành bản cáo trạng truy tố 13 bị can trong vụ án xảy ra tại Công ty cổ phần Xây dựng dân dụng và công trình giao thông ALMA (Công ty ALMA) và các đơn vị liên quan.",
-"image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/11/25/avatar1795604594194-1795604594616410122036.webp",
-"source": "CafeF",
-"cat": "bds",
-"published": "2026-11-25T19:52:00+07:00",
-"found": "2026-11-25T20:00:21+07:00"
-},
-{
-"id": "5bd8d49efdb7",
-"title": "đồng tháp",
-"link": "https://thanhnien.vn/phat-hien-vat-lieu-no-duoi-khu-vuc-tim-hai-cot-liet-si-o-dong-thap-185261125153036049.htm",
-"summary": "Phát hiện vật liệu nổ dưới khu vực tìm hài cốt liệt sĩ ở Đồng Tháp (Thanh Niên)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkg7N1kYGr6EWleEobcNF2uqSBrgwSmJ2CNqWqrXVWOTs_W2XKwhl-H-maYSQ",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T19:50:00+07:00",
-"traffic": "100+",
-"found": "2026-11-25T20:15:30+07:00"
 }
 ]
 }
