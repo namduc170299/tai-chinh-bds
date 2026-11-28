@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-28T12:12:05+07:00",
-"new": 18,
+"updated": "2026-11-28T12:26:10+07:00",
+"new": 3,
 "sources": [
 {
 "name": "VnExpress",
@@ -161,7 +161,7 @@
 "cat": "xh",
 "url": "https://news.google.com/rss/search?hl=vi&gl=VN&ceid=VN:vi&q=(%22b%E1%BB%A9c+x%C3%BAc%22+OR+%22nh%E1%BB%A9c+nh%E1%BB%91i%22+OR+%22ph%E1%BA%ABn+n%E1%BB%99%22+OR+%22g%C3%A2y+x%C3%B4n+xao%22)+when:2d",
 "ok": true,
-"count": 43
+"count": 23
 },
 {
 "name": "Kenh14",
@@ -212,6 +212,17 @@
 },
 "fix_kenh14_tz": true,
 "items": [
+{
+"id": "f1ce60632e77",
+"title": "Khởi tố người đàn ông cầm dao đến trường mầm non đe dọa hiệu trưởng",
+"link": "https://thanhnien.vn/khoi-to-nguoi-dan-ong-cam-dao-den-truong-mam-non-de-doa-hieu-truong-185261128115156782.htm",
+"summary": "Sau khi nhậu, người đàn ông ở Cần Thơ cầm dao đến trường mầm non xúc phạm, đe dọa giáo viên phụ trách, hiệu trưởng cùng những người đang dự họp.",
+"image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/28/img-20261127231101-198-1-1795841328117499855214-50-0-800-1200-crop-17958413329411839661429.jpg",
+"source": "Thanh Niên",
+"cat": "xh",
+"published": "2026-11-28T12:11:00+07:00",
+"found": "2026-11-28T12:26:10+07:00"
+},
 {
 "id": "20ad2d4c2d36",
 "title": "Từ 1.12, mới vào công chức có thể được hưởng lương ngay từ bậc 3",
@@ -365,6 +376,18 @@
 "cat": "xh",
 "published": "2026-11-28T11:40:12+07:00",
 "found": "2026-11-28T11:41:08+07:00"
+},
+{
+"id": "5e863cb928b6",
+"title": "hòa thượng",
+"link": "https://giacngo.vn/hoi-dong-chung-minh-hoi-dong-tri-su-vieng-tang-truong-lao-hoa-thuong-thich-duc-nghiep-post81760.html",
+"summary": "Hội đồng Chứng minh, Hội đồng Trị sự viếng tang Trưởng lão Hòa thượng Thích Đức Nghiệp (Giác Ngộ Online)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTteiddIg6U01H2H2fU5lFEgID8wQu_Z3BjgnoZ-blo1xN3ZeOcrjPuTUWORtY",
+"source": "Google Trends",
+"cat": "mxh",
+"published": "2026-11-28T11:40:00+07:00",
+"traffic": "100+",
+"found": "2026-11-28T12:26:10+07:00"
 },
 {
 "id": "1de102ffbb25",
@@ -552,6 +575,17 @@
 "cat": "bds",
 "published": "2026-11-28T10:59:00+07:00",
 "found": "2026-11-28T11:08:11+07:00"
+},
+{
+"id": "c5e8f6a35ef7",
+"title": "Xuất khẩu bước vào cao điểm cuối năm",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zTTR3cGF4Mm1rZ0dPbEVfTWFZUlhKVm5OZHVYWVBYRjJxSU4zOXY4Qm5WWERES1QyTkdqVEh0UmtjdGd4U0lJUjVLNGlOV3o2eF8xZ2hOb09CSi1fTERJcTBGSGxtZnNRUkQxUTlvOGhETkdJVEM5cw?oc=5",
+"summary": "",
+"image": "",
+"source": "Báo Mới",
+"cat": "tc",
+"published": "2026-11-28T10:58:00+07:00",
+"found": "2026-11-28T12:26:10+07:00"
 },
 {
 "id": "ac69f44dc6b4",
@@ -1071,7 +1105,7 @@
 "source": "Google Trends",
 "cat": "mxh",
 "published": "2026-11-28T10:00:00+07:00",
-"traffic": "10000+",
+"traffic": "5000+",
 "found": "2026-11-28T10:22:42+07:00"
 },
 {
@@ -27999,41 +28033,6 @@
 "cat": "bds",
 "published": "2026-11-25T20:50:00+07:00",
 "found": "2026-11-25T21:06:14+07:00"
-},
-{
-"id": "7a4f25588272",
-"title": "căn nhà không mái che tập 21",
-"link": "https://vtvgo.vn/watch/57rT",
-"summary": "Căn nhà không mái che - Tập 20 (VTVgo)",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKEDELXYjHol5MZFxn97PX3TeZc9yEqyyICJvvSRt6ERk6o722BJJy5gWLdwY",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T20:50:00+07:00",
-"traffic": "500+",
-"found": "2026-11-25T21:06:14+07:00"
-},
-{
-"id": "6671b6e7d64e",
-"title": "Do mâu thuẫn tiền lương, giám đốc và phó giám đốc một công ty bị chặn đánh",
-"link": "https://tuoitre.vn/do-mau-thuan-tien-luong-giam-doc-va-pho-giam-doc-mot-cong-ty-bi-chan-danh-100261125195904305.htm",
-"summary": "Công an tỉnh An Giang đang điều tra làm rõ vụ Lê Minh Tâm (41 tuổi) về hành vi cố ý gây thương tích và gây rối trật tự công cộng.",
-"image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/25/tam-1-1795611245700148957354-53-106-737-1200-crop-17956151938802091272244.jpg",
-"source": "Tuổi Trẻ",
-"cat": "xh",
-"published": "2026-11-25T20:50:00+07:00",
-"found": "2026-11-25T21:21:27+07:00"
-},
-{
-"id": "b93f358111a7",
-"title": "u-17 haiti đấu với đội tuyển bóng đá u-17 quốc gia ả rập xê út",
-"link": "https://www.concacaf.com/competitions/under-17-qualifiers/news/haiti-falls-in-second-u-17-world-cup-group-stage-match",
-"summary": "Haiti falls in second U-17 World Cup Group Stage match (Concacaf | Official Website)",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPbR7xjNrWQe33XyJIT4fP7FBqcYnA2ZCFPx35gprdcqYURgvtg_93DTntRyg",
-"source": "Google Trends",
-"cat": "mxh",
-"published": "2026-11-25T20:50:00+07:00",
-"traffic": "100+",
-"found": "2026-11-25T23:20:49+07:00"
 }
 ]
 }
